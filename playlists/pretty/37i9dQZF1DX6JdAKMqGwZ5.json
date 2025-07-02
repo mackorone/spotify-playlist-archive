@@ -1,29 +1,13 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Rojuu.",
-  "num_followers": 200293,
+  "num_followers": 200299,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF5B5gAAAACvE/xjW6/skiR84s8QZEAR",
+  "snapshot_id": "aGPN3QAAAADI5h+WwLAze93i1vMn9Jh8",
   "tracks": [
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
-        "name": "iNUiNUiNU",
-        "url": "https://open.spotify.com/album/7Kxwe22VxMRSyeTTX86muQ"
-      },
-      "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/1fNVYUWkalXzEt08ozR77x"
-    },
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
@@ -107,6 +91,22 @@
       "duration_ms": 223525,
       "name": "Revol\u00e1",
       "url": "https://open.spotify.com/track/0x6KUhEUHvvWvRghtAjV2k"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
+        "name": "iNUiNUiNU",
+        "url": "https://open.spotify.com/album/7Kxwe22VxMRSyeTTX86muQ"
+      },
+      "artists": [
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/1fNVYUWkalXzEt08ozR77x"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/5GhvmERcZCHt8D4BUrQgRd"
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
       },
       "artists": [
         {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
         }
       ],
-      "duration_ms": 178620,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/5cGG2CzNcWygO1Qxc8K4X4"
+      "duration_ms": 192850,
+      "name": "Nuestra Forma de Hablar",
+      "url": "https://open.spotify.com/track/5ygPD4YuTA8Tn1GIaYq1E3"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -427,18 +427,18 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/5GhvmERcZCHt8D4BUrQgRd"
       },
       "artists": [
         {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
         }
       ],
-      "duration_ms": 192850,
-      "name": "Nuestra Forma de Hablar",
-      "url": "https://open.spotify.com/track/5ygPD4YuTA8Tn1GIaYq1E3"
+      "duration_ms": 178620,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/5cGG2CzNcWygO1Qxc8K4X4"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "GANADOR",
-        "url": "https://open.spotify.com/album/1VgxZdOA7NTWDag4BKoaIR"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 190077,
-      "name": "GANADOR",
-      "url": "https://open.spotify.com/track/6U6Ow06dytcQA4ZU1CgEXZ"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
         "name": "Robot",
         "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 265046,
       "name": "Catro Cousas",
       "url": "https://open.spotify.com/track/0Q4LDISBQT1kkPhyrwvt3F"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
+        "name": "GANADOR",
+        "url": "https://open.spotify.com/album/1VgxZdOA7NTWDag4BKoaIR"
+      },
+      "artists": [
+        {
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
+        }
+      ],
+      "duration_ms": 190077,
+      "name": "GANADOR",
+      "url": "https://open.spotify.com/track/6U6Ow06dytcQA4ZU1CgEXZ"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "Necesito Curarme",
-        "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
-      },
-      "artists": [
-        {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
-        },
-        {
-          "name": "Jules",
-          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "Necesito Curarme",
-      "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
         "name": "El lago de mi pena",
         "url": "https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 236138,
       "name": "El lago de mi pena",
       "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
+        "name": "Necesito Curarme",
+        "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        },
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "Necesito Curarme",
+      "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
+        "name": "Tachando los D\u00edas",
+        "url": "https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy"
+      },
+      "artists": [
+        {
+          "name": "Mbongo",
+          "url": "https://open.spotify.com/artist/7if5zjrPn38PiToOKC9DRE"
+        },
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Tachando los D\u00edas",
+      "url": "https://open.spotify.com/track/0vXSZWdxv82KT8ccpwuzum"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
       },
@@ -1119,28 +1139,8 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "DE BAJ\u00d3N",
-        "url": "https://open.spotify.com/album/1EafdZ6KB2ug86sxQWlWx5"
-      },
-      "artists": [
-        {
-          "name": "Rada Mancy",
-          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
-        },
-        {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
-        }
-      ],
-      "duration_ms": 153929,
-      "name": "De Baj\u00f3n",
-      "url": "https://open.spotify.com/track/7wjwa7qvN5ZF1kL8Q3tirb"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
       "artists": [
         {
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
+        "name": "DE BAJ\u00d3N",
+        "url": "https://open.spotify.com/album/1EafdZ6KB2ug86sxQWlWx5"
+      },
+      "artists": [
+        {
+          "name": "Rada Mancy",
+          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "duration_ms": 153929,
+      "name": "De Baj\u00f3n",
+      "url": "https://open.spotify.com/track/7wjwa7qvN5ZF1kL8Q3tirb"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
         "name": "El amor que solo a ti te pertenece",
         "url": "https://open.spotify.com/album/7B7eYLcLAaB8i3YjkTNmgT"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 294545,
       "name": "El amor que solo a ti te pertenece",
       "url": "https://open.spotify.com/track/2TxZvBYHnpZsjxgEbxh4HN"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
-        "name": "Tachando los D\u00edas",
-        "url": "https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy"
-      },
-      "artists": [
-        {
-          "name": "Mbongo",
-          "url": "https://open.spotify.com/artist/7if5zjrPn38PiToOKC9DRE"
-        },
-        {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Tachando los D\u00edas",
-      "url": "https://open.spotify.com/track/0vXSZWdxv82KT8ccpwuzum"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1247,6 +1247,38 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
+        "name": "Desencantada",
+        "url": "https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI"
+      },
+      "artists": [
+        {
+          "name": "Sita Rizzi",
+          "url": "https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "Desencantada",
+      "url": "https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
         "name": "Irte a explorar",
         "url": "https://open.spotify.com/album/2v1KBsgSuYpxOAY2W0D2oj"
       },
@@ -1267,38 +1299,6 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
-        "name": "Desencantada",
-        "url": "https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI"
-      },
-      "artists": [
-        {
-          "name": "Sita Rizzi",
-          "url": "https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "Desencantada",
-      "url": "https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1qxw7hsr6tV4C4r3kOrPfW"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 171124,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3VgmM323MRWa41Ilc2OHoT"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
-        "name": "La Plaza",
-        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
-      },
-      "artists": [
-        {
-          "name": "Rufus T. Firefly",
-          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
-        }
-      ],
-      "duration_ms": 204559,
-      "name": "La Plaza",
-      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
+        "name": "La Plaza",
+        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
+      },
+      "artists": [
+        {
+          "name": "Rufus T. Firefly",
+          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
+        }
+      ],
+      "duration_ms": 204559,
+      "name": "La Plaza",
+      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 225221,
       "name": "Fases",
       "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
-        "name": "danito",
-        "url": "https://open.spotify.com/album/2IyW4durxXaCvQFwC0CY6T"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 154271,
-      "name": "ROMPERME EN DOS",
-      "url": "https://open.spotify.com/track/4Oq22v8OiWfFiMKQBaOOeq"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
+        "name": "danito",
+        "url": "https://open.spotify.com/album/2IyW4durxXaCvQFwC0CY6T"
       },
       "artists": [
         {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 184739,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
+      "duration_ms": 154271,
+      "name": "ROMPERME EN DOS",
+      "url": "https://open.spotify.com/track/4Oq22v8OiWfFiMKQBaOOeq"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "El Bosque [2025]",
-        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
       },
       "artists": [
         {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
         }
       ],
-      "duration_ms": 237242,
-      "name": "El Bosque [2025]",
-      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
+      "duration_ms": 184739,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
+        "name": "El Bosque [2025]",
+        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 237242,
+      "name": "El Bosque [2025]",
+      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
         "name": "ibuprofeno",
         "url": "https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 168857,
       "name": "ibuprofeno",
       "url": "https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ"
+    },
+    {
+      "added_at": "2025-06-27 07:01:58",
+      "album": {
+        "name": "Canciones Inestimables",
+        "url": "https://open.spotify.com/album/08rkWDKoRJ7sGyih1sAsIO"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Antes nubes",
+      "url": "https://open.spotify.com/track/6qdKpF4TtjaAHdhL7dwgRG"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "Canciones Inestimables",
-        "url": "https://open.spotify.com/album/08rkWDKoRJ7sGyih1sAsIO"
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
       },
       "artists": [
         {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
         }
       ],
-      "duration_ms": 202906,
-      "name": "Antes nubes",
-      "url": "https://open.spotify.com/track/6qdKpF4TtjaAHdhL7dwgRG"
+      "duration_ms": 193006,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
     },
     {
       "added_at": "2025-06-27 07:01:58",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 193006,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
-    },
-    {
-      "added_at": "2025-06-27 07:01:58",
-      "album": {
         "name": "Sale el Sol",
         "url": "https://open.spotify.com/album/7GYXSqJpHJiRkGJhrc4eqN"
       },
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2025-06-27 07:01:58",
       "album": {
-        "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
-        "url": "https://open.spotify.com/album/3ENhLw4HeANW13LFIs9caP"
+        "name": "Desde el amor",
+        "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
       },
       "artists": [
         {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "Mario Diaz",
-          "url": "https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh"
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
         }
       ],
-      "duration_ms": 206086,
-      "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
-      "url": "https://open.spotify.com/track/7K8lR16djMcWJ1GHcenpVV"
+      "duration_ms": 173332,
+      "name": "Desde el amor",
+      "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
     },
     {
       "added_at": "2025-06-27 07:01:58",

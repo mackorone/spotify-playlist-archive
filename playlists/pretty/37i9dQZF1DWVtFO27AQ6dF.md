@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtFO27AQ6dF.md) - [plain]
 
 > Música motivacional para ir a darlo todo al gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,751 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,816 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtFO27AQ6dF.md) - [plain]
 | 2 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 |
 | 3 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
 | 4 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 |
-| 5 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
-| 6 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
+| 5 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
+| 6 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
 | 7 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
 | 8 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
 | 9 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtFO27AQ6dF.md) - [plain]
 | 36 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 |
 | 37 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 | 38 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
-| 39 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
-| 40 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
+| 39 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
+| 40 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
 | 41 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 |
 | 42 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 43 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 |

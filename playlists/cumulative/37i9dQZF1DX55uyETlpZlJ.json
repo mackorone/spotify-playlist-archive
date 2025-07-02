@@ -1829,28 +1829,6 @@
     },
     {
       "album": {
-        "name": "Chill Madale",
-        "url": "https://open.spotify.com/album/3WyXOV68R92wp0GsqW36Bn"
-      },
-      "artists": [
-        {
-          "name": "Akhilesh Moti",
-          "url": "https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq"
-        },
-        {
-          "name": "Abhishek Dev",
-          "url": "https://open.spotify.com/artist/5njwb0Y5GdL3v2kYYUvgUZ"
-        }
-      ],
-      "date_added": "2025-06-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194823,
-      "name": "Chill Madale",
-      "url": "https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy"
-    },
-    {
-      "album": {
         "name": "CHINDI MAADU",
         "url": "https://open.spotify.com/album/4m69AYEq6wKLWbKoT7KdUW"
       },
@@ -9288,6 +9266,28 @@
       "duration_ms": 163728,
       "name": "Saagu Nee",
       "url": "https://open.spotify.com/track/5LHpNNd7MqPfYUAzcAQj2Y"
+    },
+    {
+      "album": {
+        "name": "Chill Madale",
+        "url": "https://open.spotify.com/album/3WyXOV68R92wp0GsqW36Bn"
+      },
+      "artists": [
+        {
+          "name": "Akhilesh Moti",
+          "url": "https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq"
+        },
+        {
+          "name": "Abhishek Dev",
+          "url": "https://open.spotify.com/artist/5njwb0Y5GdL3v2kYYUvgUZ"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Saak Maadu",
+      "url": "https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy"
     },
     {
       "album": {

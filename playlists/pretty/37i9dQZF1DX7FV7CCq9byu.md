@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,118 likes - 111 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,111 likes - 111 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,22 +17,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 7 | [Trophy](https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 3:10 |
 | 8 | [Big Girl](https://open.spotify.com/track/2YsXM60MZXGKudblp4UL2Z) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Big Girl](https://open.spotify.com/album/22KMS4Y8oPVAMdD4XUywkx) | 1:45 |
 | 9 | [Istället](https://open.spotify.com/track/6owXSHo7XvqG97VZ6A22B3) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Istället](https://open.spotify.com/album/6vDdKX71uPjQbbhCHbCerh) | 2:56 |
-| 10 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
+| 10 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
 | 11 | [Ta Mig Aldrig Härifrån](https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ta Mig Aldrig Härifrån](https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ) | 3:07 |
-| 12 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
-| 13 | [Slott av luft](https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Slott av luft](https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n) | 2:41 |
-| 14 | [Sommarland](https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo) | 2:43 |
-| 15 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
-| 16 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 |
-| 17 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
-| 18 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
-| 19 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 |
-| 20 | [sju sorters blommor](https://open.spotify.com/track/63GQIIUToDU9IMu11CZGFR) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [sju sorters blommor](https://open.spotify.com/album/5ajK8iJ1fWEOAIIq5m8hTW) | 2:38 |
-| 21 | [4L](https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [4L](https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd) | 2:31 |
-| 22 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
-| 23 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 |
-| 24 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 |
-| 25 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
+| 12 | [Slott av luft](https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Slott av luft](https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n) | 2:41 |
+| 13 | [Sommarland](https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo) | 2:43 |
+| 14 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
+| 15 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
+| 16 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
+| 17 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
+| 18 | [sju sorters blommor](https://open.spotify.com/track/63GQIIUToDU9IMu11CZGFR) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [sju sorters blommor](https://open.spotify.com/album/5ajK8iJ1fWEOAIIq5m8hTW) | 2:38 |
+| 19 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 |
+| 20 | [4L](https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [4L](https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd) | 2:31 |
+| 21 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
+| 22 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 |
+| 23 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 |
+| 24 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
+| 25 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 |
 | 26 | [På Dig](https://open.spotify.com/track/3TSSHkhMjsRHIJCsdElQAb) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [På Dig](https://open.spotify.com/album/6yCsYhO9QmpJbByBQiVq8p) | 2:48 |
 | 27 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 28 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 110 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
 | 111 | [Hitta någon](https://open.spotify.com/track/4ynlOOjOoEU6mGveaHNJQ8) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hitta någon](https://open.spotify.com/album/4zt7rMMlgz1YMvkSGOzVna) | 2:17 |
 
-Snapshot ID: `aGKJdQAAAACZRJ1f8ZCawUl+hSeKVZuT`
+Snapshot ID: `aGOu0wAAAACzyVtKt/pLY65Rx6hnLJ/m`

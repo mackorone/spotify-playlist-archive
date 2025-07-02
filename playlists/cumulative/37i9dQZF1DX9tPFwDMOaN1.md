@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: aespa\)
 
-672 songs - 1 day 11 hr 3 min
+673 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-14 | 2024-11-23 |
 | [ABYSS](https://open.spotify.com/track/0mvQ0J2oRljP2lcOd3ewgn) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ABYSS](https://open.spotify.com/album/2PgBHwXf7FNCF8W0JyxXlo) | 3:52 | 2023-03-01 | 2023-04-22 |
 | [Accendio](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:12 | 2024-07-08 | 2024-11-19 |
-| [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-03 |  |
+| [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-03 | 2025-07-02 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 | 2023-07-18 |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-13 | 2022-01-11 |
 | [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 | 2025-03-10 |  |
@@ -275,6 +275,7 @@
 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-09-06 | 2023-10-21 |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-27 | 2022-12-22 |
+| [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-01 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Hot Sauce](https://open.spotify.com/track/6TnmKnDtpu47ENJk6urK6y) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:15 | 2022-03-09 | 2022-03-30 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-24 | 2024-12-17 |

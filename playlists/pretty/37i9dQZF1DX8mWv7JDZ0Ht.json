@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lourena, Rod Melim",
-  "num_followers": 437835,
+  "num_followers": 437832,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
-        "name": "ANEMOIA",
-        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
-      },
-      "artists": [
-        {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "ROSA",
-      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
         "name": "assim",
         "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
       },
@@ -343,22 +327,18 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
-        "name": "Quem \u00c9 Voc\u00ea?",
-        "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
       },
       "artists": [
         {
-          "name": "Whindersson Nunes",
-          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
-        },
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Quem \u00c9 Voc\u00ea?",
-      "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -379,6 +359,46 @@
       "duration_ms": 171311,
       "name": "Noites De Monza",
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
+        "name": "Um Doce, Uma Flor",
+        "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "duration_ms": 145602,
+      "name": "Um Doce, Uma Flor",
+      "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
+        "name": "Quem \u00c9 Voc\u00ea?",
+        "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
+      },
+      "artists": [
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        },
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Quem \u00c9 Voc\u00ea?",
+      "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -435,26 +455,6 @@
       "duration_ms": 159280,
       "name": "Massagem nas Costas",
       "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
-        "name": "Um Doce, Uma Flor",
-        "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        }
-      ],
-      "duration_ms": 145602,
-      "name": "Um Doce, Uma Flor",
-      "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        }
+      ],
+      "duration_ms": 174817,
+      "name": "Poder Amar",
+      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
         "name": "Como D\u00f3i",
         "url": "https://open.spotify.com/album/5YlJGGxLqQ69CHJwEo8SkD"
       },
@@ -663,34 +679,22 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
+        "name": "Doce",
+        "url": "https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x"
       },
       "artists": [
         {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Poder Amar",
-      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
         {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
         }
       ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
+      "duration_ms": 141702,
+      "name": "Beijo Doce",
+      "url": "https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -731,22 +735,6 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
-        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Yuki",
-          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
-        }
-      ],
-      "duration_ms": 240207,
-      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
       },
@@ -763,6 +751,38 @@
       "duration_ms": 175176,
       "name": "Ombro Amigo",
       "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
+        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Yuki",
+          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
+        }
+      ],
+      "duration_ms": 240207,
+      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -799,6 +819,22 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
+        "name": "Embeleza o Meu Dia",
+        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Embeleza o Meu Dia",
+      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -831,18 +867,22 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
-        "name": "Embeleza o Meu Dia",
-        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
+        "name": "Contando as Horas",
+        "url": "https://open.spotify.com/album/2FkUotFhwQDWOYYf1M4ugP"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "PAULO",
+          "url": "https://open.spotify.com/artist/0eSnXJOy6koXhQ5FbQvBin"
         }
       ],
-      "duration_ms": 172760,
-      "name": "Embeleza o Meu Dia",
-      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
+      "duration_ms": 125858,
+      "name": "Contando as Horas",
+      "url": "https://open.spotify.com/track/6VMMOh4PSjMFNXZzLFMbYR"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -899,26 +939,6 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
-        "name": "Doce",
-        "url": "https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 141702,
-      "name": "Beijo Doce",
-      "url": "https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -951,6 +971,26 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
         "name": "te quero sem final",
         "url": "https://open.spotify.com/album/7f5EwAe0O71eZf6JAt0UZI"
       },
@@ -971,46 +1011,6 @@
       "duration_ms": 115422,
       "name": "te quero sem final",
       "url": "https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
-        "name": "Contando as Horas",
-        "url": "https://open.spotify.com/album/2FkUotFhwQDWOYYf1M4ugP"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        },
-        {
-          "name": "PAULO",
-          "url": "https://open.spotify.com/artist/0eSnXJOy6koXhQ5FbQvBin"
-        }
-      ],
-      "duration_ms": 125858,
-      "name": "Contando as Horas",
-      "url": "https://open.spotify.com/track/6VMMOh4PSjMFNXZzLFMbYR"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 257521,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "added_at": "2025-06-27 17:52:01",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-06-27 17:52:01",
       "album": {
+        "name": "Saber Confiar",
+        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Saber Confiar",
+      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
+    },
+    {
+      "added_at": "2025-06-27 17:52:01",
+      "album": {
         "name": "Apressa",
         "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 151032,
       "name": "LEBLON",
       "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
-    },
-    {
-      "added_at": "2025-06-27 17:52:01",
-      "album": {
-        "name": "Saber Confiar",
-        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Saber Confiar",
-      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
     },
     {
       "added_at": "2025-06-27 17:52:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 > This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,954 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,018 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 47 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 |
 | 48 | [Home Alone](https://open.spotify.com/track/1TUff6XKeK8DoVxdPIJnT3) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 2:20 |
 | 49 | [Back To Mars](https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 1:30 |
-| 50 | [Angry Song](https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:08 |
 
-Snapshot ID: `aGCCAAAAAADsYXf3dcK7BcZii5tSSrGG`
+Snapshot ID: `aGHTgAAAAADcoky1YDmJENDjkbkshnsx`

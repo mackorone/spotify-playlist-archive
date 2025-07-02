@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-193 songs - 12 hr 8 min
+194 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 | 2022-02-12 |  |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2021-10-20 | 2024-04-19 |
 | [Cumbia del Pichamán](https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia siglo XXI](https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp) | 3:17 | 2021-10-20 | 2024-01-25 |
-| [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 | 2021-10-20 |  |
+| [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 | 2021-10-20 | 2025-07-02 |
 | [Cumbia Disco Energy](https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Polymarchs](https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99) | [Cumbia Disco Energy](https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur) | 3:57 | 2024-03-16 |  |
 | [Cumbia en do Menor](https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl) | [Lito Barrientos y su Orquesta](https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6) | [Very, Very, Well](https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll) | 2:45 | 2021-10-20 | 2024-04-19 |
 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2021-10-20 | 2024-04-19 |
@@ -150,6 +150,7 @@
 | [Para Poderte Olvidar](https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx) | [Qiensave](https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc) | [Para Poderte Olvidar](https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC) | 4:00 | 2022-02-15 |  |
 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 |  |
 | [Paso Palante](https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:05 | 2021-10-20 | 2023-09-26 |
+| [Paso Palante](https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Paso Palante](https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu) | 4:05 | 2025-05-19 |  |
 | [Pañuelo De Seda](https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Pañuelo De Seda](https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY) | 3:03 | 2024-08-23 |  |
 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 | 2021-10-20 |  |
 | [Pista \(Fresh Start\)](https://open.spotify.com/track/34DOledEvD7igMMVEWbaEO) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:22 | 2023-01-02 | 2024-01-13 |

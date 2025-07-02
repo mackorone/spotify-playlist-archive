@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,136 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,235 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 45 | [Blue Eyes Forever](https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Oh the Agony, Oh the Ecstasy](https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO) | 3:23 |
 | 46 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
 | 47 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
-| 48 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
-| 49 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
+| 48 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
+| 49 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
 | 50 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
 | 51 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
 | 52 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 61 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
 | 62 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 |
 | 63 | [Hello Sunshine](https://open.spotify.com/track/26fA2nehuPzIVzfWwKg9MA) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY), [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hello Sunshine](https://open.spotify.com/album/5YeVhDtsgPOBSo0e4qIxRb) | 2:33 |
-| 64 | [One More Trip Around The Sun](https://open.spotify.com/track/2vyh6RAEmVcYcXARedzxav) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/4r9lmLlxZcojkcKXi9PIBf) | 4:32 |
-| 65 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
+| 64 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
+| 65 | [One More Trip Around The Sun](https://open.spotify.com/track/2vyh6RAEmVcYcXARedzxav) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/4r9lmLlxZcojkcKXi9PIBf) | 4:32 |
 | 66 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |
 | 67 | [California](https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [California](https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z) | 3:13 |
 | 68 | [Golden](https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x) | [Golden](https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL) | 3:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 96 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 |
 | 97 | [Treasure](https://open.spotify.com/track/2ap5bIL2vtaM1kgq1NO5f1) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:11 |
 | 98 | [Head On](https://open.spotify.com/track/2ku71f9zbPxkykS1cySXyL) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Head On](https://open.spotify.com/album/2vAB6q0kGH2OIU2mBaEqPr) | 4:45 |
-| 99 | [In the Blank Space](https://open.spotify.com/track/6rDriFh2ltK6OlpH0TpECo) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [In The Blank Space](https://open.spotify.com/album/1ZWx1TlK9Nl9PwBsS0MYV7) | 4:18 |
-| 100 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
+| 99 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
+| 100 | [In the Blank Space](https://open.spotify.com/track/6rDriFh2ltK6OlpH0TpECo) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [In The Blank Space](https://open.spotify.com/album/1ZWx1TlK9Nl9PwBsS0MYV7) | 4:18 |
 
 Snapshot ID: `aEFDNAAAAADeMu7CqEhaTlQzbBAI3N3B`

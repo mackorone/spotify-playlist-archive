@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 
 > Here's to the groom! Enjoy your day with the boys!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,400 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,409 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 47 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 |
 | 48 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 |
 | 49 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
-| 50 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
+| 50 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 |
 
 Snapshot ID: `Zow0SwAAAACW/wBUmRb56QKJqyauEqT5`

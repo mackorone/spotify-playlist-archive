@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tontons Tiakola et Genezio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,641 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,685 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MBIFE](https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO) | 3:49 |
 | 2 | [Assez](https://open.spotify.com/track/5khLB5FEPptQb1PirpzYyg) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Assez](https://open.spotify.com/album/2HQPK4vEjaIGw0ljaPUooi) | 2:52 |
 | 3 | [C'est incroyable](https://open.spotify.com/track/4DWzd96wVSDnV0OShkB7Y6) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [C'est incroyable](https://open.spotify.com/album/2Szye4IrWrvlQXDfdKy4Xh) | 2:23 |
-| 4 | [KATCHU\-KATA](https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [BON QU'À ÇA](https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv) | 2:00 |
+| 4 | [KATCHU\-KATA](https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [BON QU'À ÇA](https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv) | 2:00 |
 | 5 | [PAY!](https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [PAY!](https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI) | 2:10 |
 | 6 | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 |
 | 7 | [Nanani](https://open.spotify.com/track/12ETuEC0kPFjRuQokNZRjr) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:30 |

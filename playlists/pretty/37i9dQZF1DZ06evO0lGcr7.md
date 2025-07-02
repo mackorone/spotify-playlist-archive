@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,387 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,383 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 11 | [Nobody Loves Me](https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Nobody Loves Me](https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi) | 3:35 |
 | 12 | [cliché](https://open.spotify.com/track/0RV9Oaa22RsUDvuIzk7fGB) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 3:04 |
 | 13 | [i hate texas](https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [i hate texas](https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55) | 3:38 |
-| 14 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 |
-| 15 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
+| 14 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
+| 15 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 |
 | 16 | [almost home](https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:28 |
 | 17 | [coming of age](https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 |
 | 18 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 49 | [quiet motions](https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:38 |
 | 50 | [every wave](https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 2:49 |
 
-Snapshot ID: `aGCCAAAAAADR2VWcjG7kypFK9l4MR6Em`
+Snapshot ID: `aGHTgAAAAAAVME11P5rrx7HAJ76doDrc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,012 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,070 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 53 | [Era Eu \- Ao Vivo](https://open.spotify.com/track/1uPNuCe6RcroKOe7Zauh6P) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Era Eu \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/6V12s0wi5ymZOlh6YJEMMg) | 2:53 |
 | 54 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
 | 55 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 |
-| 56 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
-| 57 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
-| 58 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 |
-| 59 | [Cafézin de Vó \- Ao Vivo](https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Cafézin de Vó \(Ao Vivo\)](https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp) | 2:43 |
+| 56 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
+| 57 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
+| 58 | [Cafézin de Vó \- Ao Vivo](https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Cafézin de Vó \(Ao Vivo\)](https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp) | 2:43 |
+| 59 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 |
 | 60 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 |
 
 Snapshot ID: `Z+YuAgAAAABtEMXs1ZR3VN6wGLgi5Bdk`

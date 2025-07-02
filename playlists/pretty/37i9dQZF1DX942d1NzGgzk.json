@@ -1,6 +1,6 @@
 {
   "description": "The latest of R&B in the UK. Cover: Tyler Lewis",
-  "num_followers": 157595,
+  "num_followers": 157602,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,18 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "I know",
-        "url": "https://open.spotify.com/album/6d007bzGban8JqmIvrubZW"
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
       },
       "artists": [
         {
-          "name": "Owen Saward",
-          "url": "https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd"
-        },
-        {
-          "name": "Tay\u00e1",
-          "url": "https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 195929,
-      "name": "I know",
-      "url": "https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq"
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -359,34 +355,22 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+        "name": "I know",
+        "url": "https://open.spotify.com/album/6d007bzGban8JqmIvrubZW"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
-        "name": "W1LL U L13?",
-        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
-      },
-      "artists": [
+          "name": "Owen Saward",
+          "url": "https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd"
+        },
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "Tay\u00e1",
+          "url": "https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM"
         }
       ],
-      "duration_ms": 139399,
-      "name": "W1LL U L13?",
-      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+      "duration_ms": 195929,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -403,6 +387,22 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
+        "name": "W1LL U L13?",
+        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 139399,
+      "name": "W1LL U L13?",
+      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "backwards loving",
-        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "backwards loving",
-      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
         "name": "Deus Deus",
         "url": "https://open.spotify.com/album/24nI20pGu764BE49WzxMqn"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 243232,
       "name": "Deus Deus",
       "url": "https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
     },
     {
       "added_at": "2025-06-26 23:00:14",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-06-26 23:00:14",
       "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
-      },
-      "artists": [
-        {
-          "name": "ALIA LARA",
-          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW"
-    },
-    {
-      "added_at": "2025-06-26 23:00:14",
-      "album": {
         "name": "Nobody Else",
         "url": "https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 131267,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F"
+    },
+    {
+      "added_at": "2025-06-26 23:00:14",
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
+      },
+      "artists": [
+        {
+          "name": "ALIA LARA",
+          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW"
     },
     {
       "added_at": "2025-06-26 23:00:14",

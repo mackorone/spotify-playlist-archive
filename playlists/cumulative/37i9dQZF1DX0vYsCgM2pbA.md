@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-268 songs - 16 hr 18 min
+269 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 | 2022-12-15 | 2024-04-19 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-12-01 | 2025-03-05 |
 | [Sundream](https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light / Dark Deluxe Edition\)](https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47) | 4:35 | 2022-12-01 | 2023-02-10 |
+| [Sunflower](https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Sunflower](https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2) | 2:30 | 2025-06-03 |  |
 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 | 2023-11-30 | 2025-06-20 |
 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 | 2025-06-03 |  |
 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 | 2022-12-15 |  |
@@ -256,7 +257,7 @@
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ) | 3:26 | 2025-02-05 | 2025-05-07 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-12-01 | 2023-07-11 |
 | [Turn Up The Sunshine \- PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Turn Up The Sunshine \(PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc) | 3:40 | 2022-12-01 |  |
-| [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 | 2024-02-01 |  |
+| [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 | 2024-02-01 | 2025-07-02 |
 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 | 2023-10-05 | 2023-11-10 |
 | [undrcut](https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [undrcut](https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR) | 4:02 | 2024-01-25 | 2024-08-23 |
 | [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Vigil](https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M) | 4:35 | 2022-12-01 | 2023-04-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: KATSEYE",
-  "num_followers": 432860,
+  "num_followers": 432891,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
       "added_at": "2024-12-13 05:00:12",
       "album": {
         "name": "Again (feat. XXXTENTACION)",
@@ -277,22 +293,6 @@
       "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
       "added_at": "2025-02-07 05:00:25",
       "album": {
         "name": "Stephanie",
@@ -307,6 +307,22 @@
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
+    },
+    {
+      "added_at": "2025-06-20 04:00:48",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -361,22 +377,6 @@
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2025-06-20 04:00:48",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "BRAT",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2025-05-02 04:00:35",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "It's ok I'm ok",
-        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "It's ok I'm ok",
-      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
-    },
-    {
       "added_at": "2024-10-24 21:38:29",
       "album": {
         "name": "Whiplash - The 5th Mini Album",
@@ -843,6 +827,22 @@
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "It's ok I'm ok",
+        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1041,20 +1041,20 @@
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
     },
     {
-      "added_at": "2025-05-23 04:00:30",
+      "added_at": "2025-06-20 04:00:48",
       "album": {
-        "name": "Watch me!",
-        "url": "https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc"
+        "name": "Bonde do Brun\u00e3o",
+        "url": "https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 186193,
-      "name": "Watch me!",
-      "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
+      "duration_ms": 57230,
+      "name": "Bonde do Brun\u00e3o",
+      "url": "https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1077,20 +1077,20 @@
       "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
     },
     {
-      "added_at": "2025-06-20 04:00:48",
+      "added_at": "2025-05-23 04:00:30",
       "album": {
-        "name": "Bonde do Brun\u00e3o",
-        "url": "https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ"
+        "name": "Watch me!",
+        "url": "https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 57230,
-      "name": "Bonde do Brun\u00e3o",
-      "url": "https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv"
+      "duration_ms": 186193,
+      "name": "Watch me!",
+      "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1265,6 +1265,30 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
+      "added_at": "2025-06-20 04:00:48",
+      "album": {
+        "name": "ATTENTION!",
+        "url": "https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 208656,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw"
+    },
+    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "if u think i'm pretty",
@@ -1295,30 +1319,6 @@
       "duration_ms": 137806,
       "name": "MEMORIES!",
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
-    },
-    {
-      "added_at": "2025-06-20 04:00:48",
-      "album": {
-        "name": "ATTENTION!",
-        "url": "https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        },
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 208656,
-      "name": "ATTENTION!",
-      "url": "https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 169413,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/30uCmqegKQnH5AbOE51gPD"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "SugarCrash!",
+        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 80080,
+      "name": "SugarCrash!",
+      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
-      "added_at": "2024-12-13 05:00:12",
-      "album": {
-        "name": "CRAZY (Party Remixes 1)",
-        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY (English ver.)",
-      "url": "https://open.spotify.com/track/69MMbwpvp5I9QTIzJeinpe"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "AMERICAN HORROR SHOW",
@@ -1511,6 +1495,22 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "added_at": "2024-12-13 05:00:12",
+      "album": {
+        "name": "CRAZY (Party Remixes 1)",
+        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY (English ver.)",
+      "url": "https://open.spotify.com/track/69MMbwpvp5I9QTIzJeinpe"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
     },
     {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
-    },
-    {
       "added_at": "2025-06-27 04:00:40",
       "album": {
         "name": "F1 The Album (Cinematic Edition)",
@@ -1647,6 +1631,22 @@
       "duration_ms": 154617,
       "name": "All At Once",
       "url": "https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-09-06 04:01:00",

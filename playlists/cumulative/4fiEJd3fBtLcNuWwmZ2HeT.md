@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-309 songs - 17 hr 32 min
+310 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 | 2024-08-06 |  |
 | [三原色](https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [三原色](https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h) | 3:44 | 2023-10-05 |  |
 | [世界を壊している](https://open.spotify.com/track/0k6S71Qc4oKox0YVF2AWXh) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:29 | 2022-08-18 |  |
+| [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 | 2025-07-01 |  |
 | [人生は夢だらけ](https://open.spotify.com/track/0z2xgbxkLvrpzBZDtYIIXS) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:14 | 2025-06-30 |  |
 | [人間](https://open.spotify.com/track/6FFOg8oCS4QnEf4eai0KcA) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [人間](https://open.spotify.com/album/2aRPZcMvi6VkwlWkHQ3sGR) | 2:42 | 2024-09-07 |  |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-02-06 |  |

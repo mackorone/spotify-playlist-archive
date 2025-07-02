@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,838 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,854 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 22 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 | 23 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
 | 24 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
-| 25 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
-| 26 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
+| 25 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
+| 26 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 27 | [Contraband](https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:43 |
 | 28 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 |
 | 29 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 41 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
 | 42 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 |
 | 43 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
-| 44 | [Jaga Jaga](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
-| 45 | [Jungle](https://open.spotify.com/track/3DNQ0lffkKOldmetNvdjeW) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Jungle](https://open.spotify.com/album/7HQZo6UGbEkYWUP70Dv99m) | 3:38 |
+| 44 | [Jungle](https://open.spotify.com/track/3DNQ0lffkKOldmetNvdjeW) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Jungle](https://open.spotify.com/album/7HQZo6UGbEkYWUP70Dv99m) | 3:38 |
+| 45 | [Jaga Jaga](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
 | 46 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
 | 47 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
 | 48 | [Next To You \(feat\. Vedo\)](https://open.spotify.com/track/3YoJLY6wG8qs9DdaGaCQbX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Love is Not Enough](https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ) | 2:33 |
 | 49 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
-| 50 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 |
+| 50 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 |
 
 Snapshot ID: `aEuXMQAAAAAmvQpVxxpRPL/NUYe6qX9V`

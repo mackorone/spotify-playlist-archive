@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,740 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,829 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 18 | [I Gotta Let You Go \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 3:09 |
 | 19 | [Shake](https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:17 |
 | 20 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
-| 21 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
-| 22 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 |
+| 21 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 |
+| 22 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
 | 23 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 24 | [Bluesman for Life \- Remastered](https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF) | [Roy Gaines](https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr) | [Bluesman for Life](https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh) | 5:10 |
 | 25 | [88 Answers](https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY) | [Ezra Charles](https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa) | [Return Of The Radio Avengers](https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op) | 3:19 |

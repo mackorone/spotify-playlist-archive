@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,914 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,918 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 22 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 23 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
 | 24 | [Saudade daquilo](https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 2:58 |
-| 25 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |
-| 26 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
+| 25 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
+| 26 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |
 | 27 | [Talvez Não Seja](https://open.spotify.com/track/5mtEGUGPJwDHgo92pHY3Tu) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Talvez Não Seja](https://open.spotify.com/album/7FZk0HuDvDv6cBO8HC5AHQ) | 2:10 |
 | 28 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 |
 | 29 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 46 | [Apelação](https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Chibatinha](https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt) | [Apelação](https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v) | 2:17 |
 | 47 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 48 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
-| 49 | [1 em 100](https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [1 em 100](https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq) | 3:09 |
-| 50 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
+| 49 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
+| 50 | [1 em 100](https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [1 em 100](https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq) | 3:09 |
 | 51 | [Vênus \(feat\. Aísha\)](https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Aisha](https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y) | [Vênus](https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb) | 3:50 |
 | 52 | [Água de Coco](https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:21 |
 | 53 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 |

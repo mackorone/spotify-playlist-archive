@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 202926,
+  "num_followers": 202980,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAAJIXfwMl9emI+8QJcxCS92",
+  "snapshot_id": "aGHTgAAAAACuKOD72pTg7z5dgT40koNi",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Jale Vale",
         "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 174708,
       "name": "Mi Jale Vale",
       "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shit Masiva",
+        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Se\u00f1orita Licor",
+      "url": "https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 206117,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shit Masiva",
-        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Se\u00f1orita Licor",
-      "url": "https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Avi\u00f3n",
         "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 227750,
       "name": "En El Avi\u00f3n",
       "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Perfecto",
-        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 188125,
-      "name": "Nada Es Perfecto",
-      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Me Pregunten",
         "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
@@ -871,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+        "name": "Nada Es Perfecto",
+        "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
       },
       "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
         {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 186625,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
+      "duration_ms": 188125,
+      "name": "Nada Es Perfecto",
+      "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
       "duration_ms": 177312,
       "name": "Me Sali\u00f3 Caro",
       "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Cholo",
-        "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Mr. Capone-E",
-          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Soy Cholo",
-      "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voy Por El Oro",
         "url": "https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 310750,
       "name": "Voy Por El Oro",
       "url": "https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Cholo",
+        "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Mr. Capone-E",
+          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Soy Cholo",
+      "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
     }
   ],
   "unique_name": "This Is Lefty Sm",

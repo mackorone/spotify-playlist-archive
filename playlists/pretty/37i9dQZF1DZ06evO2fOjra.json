@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 535255,
+  "num_followers": 535413,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADadvoBso7Nt3qZl+2jnNI2",
+  "snapshot_id": "aGHTgAAAAABu0mDZZEYz9ehDX+tsqSjK",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "Alone I Break",
-      "url": "https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Path of Totality (Special Edition)",
         "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 190706,
       "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
       "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "Alone I Break",
+      "url": "https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj"
     },
     {
       "added_at": null,

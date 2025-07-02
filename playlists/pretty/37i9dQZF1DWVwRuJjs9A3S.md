@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,519 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,538 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 |
+| 1 | [Cannot Get Enough](https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema Sound System](https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv) | 4:24 |
 | 2 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
-| 3 | [Cannot Get Enough](https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema Sound System](https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv) | 4:24 |
+| 3 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 |
 | 4 | [Don't know why](https://open.spotify.com/track/7eteH0lFTshZkvc1rsSafQ) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Don't know why](https://open.spotify.com/album/2glDzsRZrRLZmSR2TKVoWD) | 2:36 |
 | 5 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 6 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 9 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 |
 | 10 | [Friends](https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Friends](https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU) | 3:50 |
 | 11 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
-| 12 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 12 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 13 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 14 | [Merida](https://open.spotify.com/track/6rsdvabOWtm7ZnqiTpqo2W) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Merida](https://open.spotify.com/album/4cI86sAuUiQeVCGomCJHI9) | 3:43 |
 | 15 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 32 | [Titanic](https://open.spotify.com/track/629NNjrfuSWC1xCbDdE4Am) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Titanic](https://open.spotify.com/album/3F6AWrmaA9OeE2qIzNeGyJ) | 3:44 |
 | 33 | [Sign on the Window](https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Sign on the Window](https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx) | 3:03 |
 | 34 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 |
-| 35 | [wheniseeyouitallcomesback](https://open.spotify.com/track/6v1nbUdyczgSEK4xp6p9DU) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [wheniseeyouitallcomesback](https://open.spotify.com/album/6WpBQoNffwbCWOd1njvllt) | 2:48 |
+| 35 | [wheniseeuitallcomesback](https://open.spotify.com/track/6v1nbUdyczgSEK4xp6p9DU) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [wheniseeuitallcomesback](https://open.spotify.com/album/6WpBQoNffwbCWOd1njvllt) | 2:48 |
 | 36 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 37 | [On Time](https://open.spotify.com/track/1KjjCToaB3FQ5WlbFTpHyh) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq) | [New Things](https://open.spotify.com/album/66yhoeXyPiypAR7TMcATi7) | 2:43 |
 | 38 | [Lifeblood](https://open.spotify.com/track/459OvBZpqLmHnZsHQRFhxv) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Lifeblood](https://open.spotify.com/album/48Dy2YJZijBp8YryxugacC) | 2:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 149 | [Sthlm City Sönder](https://open.spotify.com/track/3Zs2ng6eQh8YasRccYCyi1) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Sthlm City Sönder](https://open.spotify.com/album/3AwNypyX5nxnTJiaT4puXj) | 4:21 |
 | 150 | [Shapes](https://open.spotify.com/track/6tLyqjNY0Z5DmmDDXV1EQZ) | [Agent blå](https://open.spotify.com/artist/457YpcXkt7bLgJLE95sdyB) | [Shapes](https://open.spotify.com/album/6ix5kuLbK5hjX5bzKjxwPh) | 3:15 |
 
-Snapshot ID: `aGI21wAAAABbJ225yZb51uswQvvO3UUJ`
+Snapshot ID: `aGOwcQAAAABWK/rrJExQjyf/bG7aqTq9`

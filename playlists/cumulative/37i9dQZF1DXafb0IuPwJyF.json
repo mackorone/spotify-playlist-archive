@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: BE:FIRST",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u306a\u3068\u308a",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -10392,7 +10392,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 235600,
       "name": "NO MAP",
       "url": "https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR"
@@ -17420,7 +17420,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 149369,
       "name": "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u304a\u3057\u3048\u3066",
       "url": "https://open.spotify.com/track/6x4ApXjfn5paE3MLkab65F"
@@ -18364,6 +18364,24 @@
       "duration_ms": 160118,
       "name": "\u3069\u308c\u306b\u3057\u3088\u3046\u304b\u306a",
       "url": "https://open.spotify.com/track/18fNMIIjs0Hu2zozNacmad"
+    },
+    {
+      "album": {
+        "name": "\u306a\u304f\u3057\u3082\u306e",
+        "url": "https://open.spotify.com/album/4IN8SqczK6kX3oa3S6p86K"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250006,
+      "name": "\u306a\u304f\u3057\u3082\u306e",
+      "url": "https://open.spotify.com/track/5YweKCUXZGqQwTyoPie2ii"
     },
     {
       "album": {
@@ -23097,6 +23115,24 @@
     },
     {
       "album": {
+        "name": "\u4e3b\u4eba\u516c",
+        "url": "https://open.spotify.com/album/2vsldPSSsOtahc3HAULWkA"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298226,
+      "name": "\u4e3b\u4eba\u516c",
+      "url": "https://open.spotify.com/track/16Ja7QMLTkSEAqgt1rOd7H"
+    },
+    {
+      "album": {
         "name": "\u4e71\u75f4\u6c17",
         "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
       },
@@ -27050,7 +27086,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 152871,
       "name": "\u7206\u901f\u8ad6\u7406ness",
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
@@ -28198,6 +28234,24 @@
       "duration_ms": 192175,
       "name": "\u8272\u5f69",
       "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
+    },
+    {
+      "album": {
+        "name": "\u8292\u306b\u6708",
+        "url": "https://open.spotify.com/album/0JBEQWnr0hXmVo69J4de6H"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378000,
+      "name": "\u8292\u306b\u6708",
+      "url": "https://open.spotify.com/track/2Ydg2XLkYUGXsNvtJmTqj2"
     },
     {
       "album": {

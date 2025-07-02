@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,520 likes - 197 songs - 10 hr 28 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,479 likes - 197 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 9 | [Dragon](https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU) | 3:01 |
 | 10 | [Flames](https://open.spotify.com/track/1vXP30hzwXVis2zTQI10MY) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Flames](https://open.spotify.com/album/7AODiIsKeDZNsymwEO7Wxe) | 3:00 |
 | 11 | [Sunshine](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Sunshine](https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF) | 2:57 |
-| 12 | [Chain Reaction \- Chill Mix](https://open.spotify.com/track/3tfIdh3vkIeDOygX9iSae4) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Connect \(Deluxe Album\)](https://open.spotify.com/album/3LN5NSw95dclncTLbmL15b) | 3:06 |
+| 12 | [Chain Reaction \- Chill Mix](https://open.spotify.com/track/3tfIdh3vkIeDOygX9iSae4) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Connect \(Deluxe\)](https://open.spotify.com/album/3LN5NSw95dclncTLbmL15b) | 3:06 |
 | 13 | [I'm Watching You \(So Many Times\)](https://open.spotify.com/track/4JGN6REVXS2vR4rZfaMRmE) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Gadjo](https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr) | [I'm Watching You \(So Many Times\)](https://open.spotify.com/album/7HylnXQZD3cyIFz5lf6jz3) | 2:32 |
 | 14 | [Slide Away](https://open.spotify.com/track/0KNUBfQF5oGz8jjqM3u3FQ) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slide Away](https://open.spotify.com/album/1lOXFpDfRnpr6MVkANJUs8) | 3:08 |
 | 15 | [Weekend Love \- Floorplan Remix](https://open.spotify.com/track/4o1AIbzDGzyCUSHzLsasus) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Midnight Mass \(The Remixes\)](https://open.spotify.com/album/1NMWVRxVwX1kLYiA0HPaba) | 3:08 |

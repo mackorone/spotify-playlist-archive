@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hallgasd teljes hanger\u0151vel ezeket a k\u00edv\u00e1l\u00f3 n\u0151i el\u0151ad\u00f3kat! Cover: Koll\u00e1r Dea",
+  "description": "Hallgasd teljes hanger\u0151vel ezeket a k\u00edv\u00e1l\u00f3 n\u0151i el\u0151ad\u00f3kat! Cover: laurie.",
   "name": "EQUAL Hungary",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 231669,
       "name": "23:59",
       "url": "https://open.spotify.com/track/3dvJKnKErvpMNFwh15jHCB"
@@ -222,10 +222,28 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 176652,
       "name": "Ap\u00e1m szem\u00e9vel",
       "url": "https://open.spotify.com/track/5qozRMGNUD2uimNO08W0lU"
+    },
+    {
+      "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "album": {
@@ -258,7 +276,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 262582,
       "name": "B.A.F.",
       "url": "https://open.spotify.com/track/1iNa6JOpHwweDmbDtQ0hHI"
@@ -446,6 +464,28 @@
       "duration_ms": 193920,
       "name": "Broken Glass on the Floor",
       "url": "https://open.spotify.com/track/7fO2twwK7lh9Pu3H6xT5vh"
+    },
+    {
+      "album": {
+        "name": "Bubor\u00e9kok (Bubble up)",
+        "url": "https://open.spotify.com/album/4apRjXxK0V5vSMIbvdrWEQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00d6BE",
+          "url": "https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn"
+        },
+        {
+          "name": "Neon Leon",
+          "url": "https://open.spotify.com/artist/661equvwfiSzGlZGmE9BPA"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121090,
+      "name": "Bubor\u00e9kok - Bubble up",
+      "url": "https://open.spotify.com/track/1m4EWhW6iqOuuwSLC13RSD"
     },
     {
       "album": {
@@ -862,7 +902,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 183052,
       "name": "Elad\u00f3",
       "url": "https://open.spotify.com/track/7oQcyNQaGCIcNNaAi5rPEg"
@@ -992,7 +1032,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 129545,
       "name": "Esti Pillang\u00f3",
       "url": "https://open.spotify.com/track/3b3m2shZYM5O0ZND1sT1v0"
@@ -1108,6 +1148,24 @@
       "duration_ms": 209426,
       "name": "Fantom",
       "url": "https://open.spotify.com/track/05XcBTe6BAJmDVs9IQvOta"
+    },
+    {
+      "album": {
+        "name": "Fend off the Dark",
+        "url": "https://open.spotify.com/album/4qNfvYgHiYIn3n8vwYHlQ8"
+      },
+      "artists": [
+        {
+          "name": "Roses Of Thieves",
+          "url": "https://open.spotify.com/artist/1ROOwkxpgTHlrPwioKDJzk"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Fend off the Dark",
+      "url": "https://open.spotify.com/track/3IVxk7CD6ayOaetlw0mWYU"
     },
     {
       "album": {
@@ -1230,7 +1288,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 217000,
       "name": "F\u00e9ny \u00e9s \u00e1rny\u00e9k",
       "url": "https://open.spotify.com/track/4ZTQnfY8QIZnHMkMAGLMlx"
@@ -1310,7 +1368,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 156363,
       "name": "Go Through Hell",
       "url": "https://open.spotify.com/track/6tAS3JimDmKJHtT8W9UJAE"
@@ -1418,7 +1476,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 259624,
       "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
       "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
@@ -1454,7 +1512,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 192089,
       "name": "halov\u00e1ny",
       "url": "https://open.spotify.com/track/5LEvWyh7EA7IlK8JdVNz7Z"
@@ -1748,7 +1806,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 104000,
       "name": "invocation",
       "url": "https://open.spotify.com/track/4sCvqipZYpz4Q7lkjM1EZ2"
@@ -1840,10 +1898,32 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 149722,
       "name": "Jolene - Magyar verzi\u00f3",
       "url": "https://open.spotify.com/track/1LZqsDHLTcaQ0KEr5Gwnyk"
+    },
+    {
+      "album": {
+        "name": "J\u00e1ratlan",
+        "url": "https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY"
+      },
+      "artists": [
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "J\u00e1ratlan",
+      "url": "https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW"
     },
     {
       "album": {
@@ -2422,7 +2502,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 183000,
       "name": "Magam ut\u00e1n",
       "url": "https://open.spotify.com/track/0onKegvsFbagpjwduUVB6k"
@@ -2494,10 +2574,28 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 126947,
       "name": "MESS",
       "url": "https://open.spotify.com/track/2Ksy0mAH7hM5hh2TQSOyAx"
+    },
+    {
+      "album": {
+        "name": "mind1",
+        "url": "https://open.spotify.com/album/3xN6pgluhSR8KP9RGDItbS"
+      },
+      "artists": [
+        {
+          "name": "tigris szofi",
+          "url": "https://open.spotify.com/artist/2fIizSOK3nM71fc1TFLyex"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157083,
+      "name": "mind1",
+      "url": "https://open.spotify.com/track/3KlJzXdM0QsPTC2FbLaoJz"
     },
     {
       "album": {
@@ -2530,7 +2628,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 120000,
       "name": "Mire V\u00e1rsz",
       "url": "https://open.spotify.com/track/2JF8qSF9GLrE8W8ZFF9gZg"
@@ -2732,7 +2830,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 133454,
       "name": "nem akartam nemet mondani",
       "url": "https://open.spotify.com/track/4mNATF5jpR2w64tFlUuTuy"
@@ -2768,10 +2866,32 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 189000,
       "name": "nem fair",
       "url": "https://open.spotify.com/track/5BI1yLUFuiI3GInu6XQ33D"
+    },
+    {
+      "album": {
+        "name": "REVOLUCIO",
+        "url": "https://open.spotify.com/album/05eyr09jQanioztE80O6lA"
+      },
+      "artists": [
+        {
+          "name": "Czaffy",
+          "url": "https://open.spotify.com/artist/3JEYel4jUUMiG1QgGUqt4h"
+        },
+        {
+          "name": "YoungBoy Rallo",
+          "url": "https://open.spotify.com/artist/1zKA8bj4Y1SgRDLlqF96Cx"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Nem figyelek",
+      "url": "https://open.spotify.com/track/2BfdudGW1AdibMkFLu5oe0"
     },
     {
       "album": {
@@ -3010,7 +3130,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 292000,
       "name": "N\u00e9ni a buszon",
       "url": "https://open.spotify.com/track/3OjfoGjO5TpPe9iQuLrvFz"
@@ -3166,7 +3286,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 176727,
       "name": "Pornstar Martini",
       "url": "https://open.spotify.com/track/6qMkDo84rCzTP9qW6Dz1s9"
@@ -3310,10 +3430,28 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 123726,
       "name": "rush",
       "url": "https://open.spotify.com/track/6BBx3QKmAxdiwSgxo5BTYb"
+    },
+    {
+      "album": {
+        "name": "Scratch the Intro",
+        "url": "https://open.spotify.com/album/01QikwUOd3Z9gK64V7j8rJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Kornis",
+          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173639,
+      "name": "Scratch the Intro",
+      "url": "https://open.spotify.com/track/44pEMIhXkradouKFNGVDUI"
     },
     {
       "album": {
@@ -3519,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Sun Is Up",
+        "url": "https://open.spotify.com/album/2thWDgBhqDfSM8lIRQOPCB"
+      },
+      "artists": [
+        {
+          "name": "Myra Monoka",
+          "url": "https://open.spotify.com/artist/7nvuP8cBzziH07IwuRLGrL"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169062,
+      "name": "Sun Is Up",
+      "url": "https://open.spotify.com/track/7KtAb5i89qRo8FhHyYUz22"
+    },
+    {
+      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/2769YqGMNaXRvNeeTYScPd"
       },
@@ -3588,7 +3744,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 201600,
       "name": "Szellem",
       "url": "https://open.spotify.com/track/1QJYFMFO4cLBfapljgrj8e"
@@ -3725,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "S\u00e9ance",
+        "url": "https://open.spotify.com/album/3UOiBpifipwkbb4hHRLUa0"
+      },
+      "artists": [
+        {
+          "name": "Vill\u0151",
+          "url": "https://open.spotify.com/artist/5qlX0ApNWukXe5g6Gb7cmJ"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245875,
+      "name": "S\u00e9ance",
+      "url": "https://open.spotify.com/track/2Y7MOY9jXSuhqheVlcpYcM"
+    },
+    {
+      "album": {
         "name": "S\u00e9t\u00e1l\u00f3",
         "url": "https://open.spotify.com/album/3LMPhLjannPEFqgh8KRYFf"
       },
@@ -3736,7 +3910,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 160573,
       "name": "S\u00e9t\u00e1l\u00f3",
       "url": "https://open.spotify.com/track/5FKecXHiTbEjulc09VAMCc"
@@ -4196,7 +4370,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 630000,
       "name": "Vir\u00e1got Kamillnak",
       "url": "https://open.spotify.com/track/01XM5WrxO2FwifcaSDwiTz"
@@ -4279,6 +4453,24 @@
     },
     {
       "album": {
+        "name": "you, on repeat",
+        "url": "https://open.spotify.com/album/0w9fX8GUpkhbMdXDq5JkEA"
+      },
+      "artists": [
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202017,
+      "name": "you, on repeat",
+      "url": "https://open.spotify.com/track/1rEjry2NhQmJeU9cl385KM"
+    },
+    {
+      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6VpNxx58UtS3NcObO7H15z"
       },
@@ -4338,6 +4530,24 @@
       "duration_ms": 214462,
       "name": "\u00c1g se h\u00fazza",
       "url": "https://open.spotify.com/track/5FXEXJnJthBJ4Q6HNRicoJ"
+    },
+    {
+      "album": {
+        "name": "\u00c9bred\u00e9s",
+        "url": "https://open.spotify.com/album/3s4Cv26mUsWqMgM4RGexxm"
+      },
+      "artists": [
+        {
+          "name": "aZorka",
+          "url": "https://open.spotify.com/artist/5A1wgQk3sihM7UfasAqmCu"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197875,
+      "name": "\u00c9bred\u00e9s",
+      "url": "https://open.spotify.com/track/4D5hS5UTNeO52b4bGY6r28"
     },
     {
       "album": {
@@ -4494,6 +4704,24 @@
       "duration_ms": 271263,
       "name": "\u00d6r\u00f6kk\u00e9 fiatal - Sz\u00fclet\u00e9snapodra",
       "url": "https://open.spotify.com/track/5O3lTXeOtKbQeWWgzf1T9K"
+    },
+    {
+      "album": {
+        "name": "\u00fagyakarom",
+        "url": "https://open.spotify.com/album/3jluI4Q8lGA4sj9N8wJNnF"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "\u00fagyakarom",
+      "url": "https://open.spotify.com/track/370WXVD1wREBrupLCZfcyV"
     },
     {
       "album": {

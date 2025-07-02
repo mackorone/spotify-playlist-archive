@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > The Indie highlights of 2019\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,841 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,852 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 25 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 |
 | 26 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 27 | [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:46 |
-| 28 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
-| 29 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 |
+| 28 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 |
+| 29 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
 | 30 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 |
 | 31 | [Harmony Hall](https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 5:08 |
 | 32 | [Ready To Let Go](https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:07 |
-| 33 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
-| 34 | [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 |
+| 33 | [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 |
+| 34 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
 | 35 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 36 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt III \(Expanded Edition\)](https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf) | 3:24 |
 | 37 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 73 | [Hey, Ma](https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:36 |
 | 74 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 |
 | 75 | [Friends](https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Friends](https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz) | 3:43 |
-| 76 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 |
-| 77 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 |
-| 78 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
+| 76 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
+| 77 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 |
+| 78 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 |
 | 79 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 |
 | 80 | [Naeem](https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 4:22 |
 | 81 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 |

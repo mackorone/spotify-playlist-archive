@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Jane Handcock
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,719 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,781 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 50 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
 | 51 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/78fJOZkbhtIdFvIvvO8Mu0) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7) | 2:57 |
 | 52 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 |
-| 53 | [Strawberry featuring Rae Khalil](https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Strawberry featuring Rae Khalil](https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib) | 2:43 |
+| 53 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
 | 54 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
-| 55 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
+| 55 | [Strawberry featuring Rae Khalil](https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Strawberry featuring Rae Khalil](https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib) | 2:43 |
 | 56 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
 | 57 | [Sweet Little Rainbows](https://open.spotify.com/track/3gOSDkunPRtxksTi0Gxq81) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/7f0UvHSC6XjlmO1HMR5iId) | 3:43 |
 | 58 | [MoveOn](https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 2:47 |

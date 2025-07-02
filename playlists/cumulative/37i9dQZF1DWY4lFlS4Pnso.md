@@ -4,7 +4,7 @@
 
 > The UK's biggest playlist\. Cover: Olivia Dean
 
-334 songs - 17 hr 45 min
+335 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 | 2025-01-31 | 2025-04-01 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-17 | 2025-04-01 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-26 | 2024-04-23 |
-| [Rein Me In \(feat\. Olivia Dean\) \- Live At London Stadium / Extended Intro](https://open.spotify.com/track/13FspGn7CxlFti4KE2NqkQ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(feat\. Olivia Dean\) \[Live at London Stadium\] Extended Intro](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 6:53 | 2025-06-26 |  |
+| [Rein Me In \(feat\. Olivia Dean\) \- Live At London Stadium / Extended Intro](https://open.spotify.com/track/13FspGn7CxlFti4KE2NqkQ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(feat\. Olivia Dean\) \[Live at London Stadium\] Extended Intro](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 6:53 | 2025-06-26 | 2025-07-02 |
+| [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-07-01 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-24 | 2025-06-06 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2024-01-26 | 2024-04-12 |
 | [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-05-02 | 2024-06-11 |

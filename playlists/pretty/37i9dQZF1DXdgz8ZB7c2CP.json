@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 842890,
+  "num_followers": 842940,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "Fade Together",
-        "url": "https://open.spotify.com/album/1VIo7xdJoEqT7YFRooZlLC"
+        "name": "u & i",
+        "url": "https://open.spotify.com/album/6ej3V6vE3Xd6hWQbHzQjiM"
       },
       "artists": [
         {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
         }
       ],
-      "duration_ms": 300524,
-      "name": "Fade Together",
-      "url": "https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"
+      "duration_ms": 181818,
+      "name": "u & i",
+      "url": "https://open.spotify.com/track/4UrvsThnqGTyuqSKnxw0kK"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "u & i",
-        "url": "https://open.spotify.com/album/6ej3V6vE3Xd6hWQbHzQjiM"
+        "name": "Fade Together",
+        "url": "https://open.spotify.com/album/1VIo7xdJoEqT7YFRooZlLC"
       },
       "artists": [
         {
-          "name": "Distant Matter",
-          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
-        },
-        {
-          "name": "fkblnde",
-          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
         }
       ],
-      "duration_ms": 181818,
-      "name": "u & i",
-      "url": "https://open.spotify.com/track/4UrvsThnqGTyuqSKnxw0kK"
+      "duration_ms": 300524,
+      "name": "Fade Together",
+      "url": "https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "AN INTRODUCTION TO WHOLESOME RIDDIM",
-        "url": "https://open.spotify.com/album/0qA6V5utPUk1KG48JHDdwY"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 208965,
-      "name": "CLOSE YOUR EYES",
-      "url": "https://open.spotify.com/track/7ml6mms5SS6qahrXMYWSVw"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
-        "name": "One Of These Mornings",
-        "url": "https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "One Of These Mornings",
-      "url": "https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
         "name": "Out Of Bounds",
         "url": "https://open.spotify.com/album/5rZixCKsdcBlEvzwnEv5Yk"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 235909,
       "name": "Out Of Bounds",
       "url": "https://open.spotify.com/track/3xgcNkLwNfYxbK8w9MlLlk"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "One Of These Mornings",
+        "url": "https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "One Of These Mornings",
+      "url": "https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "AN INTRODUCTION TO WHOLESOME RIDDIM",
+        "url": "https://open.spotify.com/album/0qA6V5utPUk1KG48JHDdwY"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "CLOSE YOUR EYES",
+      "url": "https://open.spotify.com/track/7ml6mms5SS6qahrXMYWSVw"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1483,42 +1483,6 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "Pachamama (feat. Elliphant)",
-        "url": "https://open.spotify.com/album/1X1LkpG3vnr1ZOJuw9ZHkL"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Pachamama (feat. Elliphant)",
-      "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 198003,
-      "name": "Mojo",
-      "url": "https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
         "name": "tell you straight (Badger & Jamezy's version)",
         "url": "https://open.spotify.com/album/0Ph3hHTuRoigwGAQSe6Z6K"
       },
@@ -1543,18 +1507,38 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "Tumbleweeds",
-        "url": "https://open.spotify.com/album/5OVG7AQkRix1NZ8AuBQv1u"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
         }
       ],
-      "duration_ms": 306268,
-      "name": "Tumbleweeds",
-      "url": "https://open.spotify.com/track/3ffmHRLqmoZkwikJqC0DVD"
+      "duration_ms": 198003,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "Pachamama (feat. Elliphant)",
+        "url": "https://open.spotify.com/album/1X1LkpG3vnr1ZOJuw9ZHkL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Pachamama (feat. Elliphant)",
+      "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
+        "name": "Tumbleweeds",
+        "url": "https://open.spotify.com/album/5OVG7AQkRix1NZ8AuBQv1u"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 306268,
+      "name": "Tumbleweeds",
+      "url": "https://open.spotify.com/track/3ffmHRLqmoZkwikJqC0DVD"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 339706,
       "name": "So High",
       "url": "https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
-        "name": "Stampede",
-        "url": "https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l"
-      },
-      "artists": [
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Stampede",
-      "url": "https://open.spotify.com/track/13wc1JCW2FmxT1niR2LrXc"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1627,6 +1607,26 @@
       "duration_ms": 156831,
       "name": "PUT IT DOWN - Killen. Remix",
       "url": "https://open.spotify.com/track/5ynb0P042k0EEIxdqzcsOW"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "Stampede",
+      "url": "https://open.spotify.com/track/13wc1JCW2FmxT1niR2LrXc"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
         "name": "On & On (nimino Remix)",
         "url": "https://open.spotify.com/album/1kU0TUOmumAwURhV8V9be0"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 179399,
       "name": "On & On - nimino Remix",
       "url": "https://open.spotify.com/track/1tx4NjqrgzaEKmaPECXMgZ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
         "name": "A Little Closer (Oppidan Remix)",
         "url": "https://open.spotify.com/album/39uwE626Jtfpte7ss1nk7o"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 182070,
       "name": "A Little Closer - Oppidan Remix",
       "url": "https://open.spotify.com/track/2B700PMxvSrrzlSTURPzag"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 169721,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK"
     },
     {
       "added_at": "2025-06-26 22:00:25",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2025-06-26 22:00:25",
       "album": {
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
+    },
+    {
+      "added_at": "2025-06-26 22:00:25",
+      "album": {
         "name": "tell you straight (Louis The Child\u2019s version)",
         "url": "https://open.spotify.com/album/1zGrBJhYNgJwHGh8ApwDi5"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 169568,
       "name": "tell you straight (Louis The Child\u2019s version)",
       "url": "https://open.spotify.com/track/3dgAEgBOp9GbvQPLnvXi77"
-    },
-    {
-      "added_at": "2025-06-26 22:00:25",
-      "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "added_at": "2025-06-26 22:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,793 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,835 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 27 | [Heal the Pain \- Remastered](https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 |
 | 28 | [Desafinado \(with Astrud Gilberto\)](https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:21 |
 | 29 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:19 |
-| 30 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 |
-| 31 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
+| 30 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
+| 31 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 |
 | 32 | [The Strangest Thing](https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:01 |
 | 33 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
 | 34 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Greatest Hits III](https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7) | 5:07 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 38 | [Hand to Mouth \- Remastered](https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:36 |
 | 39 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
 | 40 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 |
-| 41 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:59 |
-| 42 | [Fastlove, Pt\. 2](https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:55 |
+| 41 | [Fastlove, Pt\. 2](https://open.spotify.com/track/1hiD0mZuxn7gv4HpQVeO1w) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:55 |
+| 42 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:59 |
 | 43 | [Feeling Good \- Live](https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:15 |
 | 44 | [Wild Is the Wind](https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:02 |
 | 45 | [Round Here](https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 5:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 | 50 | [If You Were My Woman](https://open.spotify.com/track/2mpPu9931WS9IDrhS6tE1x) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:06 |
 
-Snapshot ID: `aGCCAAAAAAAMrabAGCzw3JGQgXhNMR4H`
+Snapshot ID: `aGHTgAAAAAC6ZsfE0vBLpq4U6N5hHjAk`

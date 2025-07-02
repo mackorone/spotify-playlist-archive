@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 155518,
+  "num_followers": 155571,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACXOfDMCJ+8vNRSkmDxTrEf",
+  "snapshot_id": "aGHTgAAAAAAhm6hL5MsPrOGg4EKbrAxU",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+        "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 213599,
+      "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+      "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "A Million Blessings",
+      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -547,50 +591,6 @@
       "duration_ms": 195386,
       "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
       "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "A Million Blessings",
-      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
-        "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 213599,
-      "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
-      "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
       "added_at": null,

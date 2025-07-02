@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Lavt\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: reina\n",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1658,6 +1658,24 @@
       "duration_ms": 186293,
       "name": "B.B.M. (feat. \u30d4\u30ce\u30ad\u30aa\u30d4\u30fc)",
       "url": "https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55"
+    },
+    {
+      "album": {
+        "name": "B.E.D.",
+        "url": "https://open.spotify.com/album/1XuZG1LPHiW98Q4acUMzin"
+      },
+      "artists": [
+        {
+          "name": "Doona",
+          "url": "https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220426,
+      "name": "B.E.D.",
+      "url": "https://open.spotify.com/track/7LgmIqSqZXpHkYxAMTW1GA"
     },
     {
       "album": {
@@ -3785,6 +3803,28 @@
     },
     {
       "album": {
+        "name": "NICO",
+        "url": "https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "Close my eyes (feat. \u3055\u3089\u3055)",
+      "url": "https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR"
+    },
+    {
+      "album": {
         "name": "Cloud Watching",
         "url": "https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu"
       },
@@ -5566,7 +5606,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 215073,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP"
@@ -6830,6 +6870,24 @@
       "duration_ms": 168281,
       "name": "Funktion",
       "url": "https://open.spotify.com/track/3xqpCXPBgkQQctOygx8Epk"
+    },
+    {
+      "album": {
+        "name": "Funky Lovely Girl",
+        "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225354,
+      "name": "Funky Lovely Girl",
+      "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
     },
     {
       "album": {
@@ -10716,7 +10774,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 232173,
       "name": "Lonely in Gorgeous",
       "url": "https://open.spotify.com/track/1Dl1SlF0wySEhHDrn74f3H"
@@ -15346,7 +15404,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 154015,
       "name": "Risk Your (feat. Bonbero)",
       "url": "https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP"
@@ -19006,7 +19064,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 234380,
       "name": "Torie",
       "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
@@ -21417,6 +21475,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
+        "url": "https://open.spotify.com/album/5YCPpXUx6kVMB6ModSMDN3"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
+      "url": "https://open.spotify.com/track/0N3q34hFZX2S9jc4yPNyhF"
+    },
+    {
+      "album": {
         "name": "\u3042\u3068\u3060\u3057",
         "url": "https://open.spotify.com/album/5gp6e1opnbjMBJSchdDMrc"
       },
@@ -21952,6 +22028,24 @@
       "duration_ms": 281941,
       "name": "\u304d\u307f\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/3SlqmORmAZal8ciwUjl5qa"
+    },
+    {
+      "album": {
+        "name": "HALO - EP",
+        "url": "https://open.spotify.com/album/1ttc8IeJrPjfO9YahA2cII"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\u304d\u307f\u306e\u60d1\u661f",
+      "url": "https://open.spotify.com/track/1wHbduyExlJM3P8qHnjXm7"
     },
     {
       "album": {
@@ -23609,6 +23703,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2\u306e\u5e95\u3067",
+        "url": "https://open.spotify.com/album/2HHaL94chuwBRecEMBpPaW"
+      },
+      "artists": [
+        {
+          "name": "grating hunny",
+          "url": "https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288853,
+      "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2\u306e\u5e95\u3067",
+      "url": "https://open.spotify.com/track/1bFytdAF8fnPRN6wG6nzlq"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306e\u6d77\u3092\u8d8a\u3048\u3066",
         "url": "https://open.spotify.com/album/4zxk3xT4EezfFGjdNleAL5"
       },
@@ -23782,7 +23894,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 183048,
       "name": "\u30aa\u30c3\u30c9\u30a2\u30a4",
       "url": "https://open.spotify.com/track/4dW5jPBXRv5Hjm2qkjix5O"
@@ -26934,7 +27046,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 221000,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi"
@@ -27046,6 +27158,24 @@
       "duration_ms": 175369,
       "name": "\u30e1\u30a4\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30a4\u30e9\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0oIEfEmtolqDITckupZtyb"
+      },
+      "artists": [
+        {
+          "name": "OSHIKIKEIGO",
+          "url": "https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177996,
+      "name": "\u30e1\u30a4\u30e9\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/5JhYBOUxZZdBt1XZryzA1h"
     },
     {
       "album": {
@@ -30531,6 +30661,28 @@
     },
     {
       "album": {
+        "name": "\u601d\u60df",
+        "url": "https://open.spotify.com/album/2hHTBWGBIfKQWINW2OgT1O"
+      },
+      "artists": [
+        {
+          "name": "Keep in Touch",
+          "url": "https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd"
+        },
+        {
+          "name": "Ryu NAKASHIMA",
+          "url": "https://open.spotify.com/artist/4C1YIkrF9cfQ4KdH0zeT9G"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183369,
+      "name": "\u601d\u60df",
+      "url": "https://open.spotify.com/track/0UUKhqSO4Hg7vVSeg35KU3"
+    },
+    {
+      "album": {
         "name": "\u602a\u7269",
         "url": "https://open.spotify.com/album/0Dg5i9je3xQEBzDhvxZUCt"
       },
@@ -32740,7 +32892,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 208696,
       "name": "\u6d77\u5e95\u5b64\u57ce",
       "url": "https://open.spotify.com/track/3K0fv2jGR52SPCCvSRX4Xi"
@@ -35842,7 +35994,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 327333,
       "name": "\u9b5a",
       "url": "https://open.spotify.com/track/4Q7RYgkB3TbTapi29Wgzwr"

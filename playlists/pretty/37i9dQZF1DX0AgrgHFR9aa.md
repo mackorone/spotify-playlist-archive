@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Hologram Lo' x Jungle Jack
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,238 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,250 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

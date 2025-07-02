@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,050 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,114 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 49 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 |
 | 50 | [KTM Drip](https://open.spotify.com/track/0IWi2ZDDldYKBHYmG7mqPm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 4:00 |
 
-Snapshot ID: `aGCCAAAAAACdhCIumgOzMcU7IdL04S0/`
+Snapshot ID: `aGHTgAAAAADuNrA1y+GaFvSfd/XSpeWj`

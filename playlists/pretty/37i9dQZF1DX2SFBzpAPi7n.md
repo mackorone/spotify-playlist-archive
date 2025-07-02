@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can’t be blue \(캔트비블루\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,702 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,669 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 |
 | 2 | [at last](https://open.spotify.com/track/2U50ylcJ8KwDS1lZlb91wI) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [All About Blue](https://open.spotify.com/album/68bPbXzJiC73kBZzXu9jmX) | 3:45 |
-| 3 | [My Name Is Malguem](https://open.spotify.com/track/4rIqyuLPbNRVOcHGOI0l4A) | [SoYeon](https://open.spotify.com/artist/5RU7V9CQHl1CzWWIVBxPwK) | [My Name Is Malguem \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/3cKJ87R9WQYbcfBKoOdPPn) | 3:08 |
+| 3 | [My Name Is Malguem](https://open.spotify.com/track/4rIqyuLPbNRVOcHGOI0l4A) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [My Name Is Malguem \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/3cKJ87R9WQYbcfBKoOdPPn) | 3:08 |
 | 4 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 |
 | 5 | [Ideal Type](https://open.spotify.com/track/4sfX9xKPZ8HAListUbnuGQ) | [Catch The Young](https://open.spotify.com/artist/422jw2by1jl14vn1FP9EGA) | [Ideal Type](https://open.spotify.com/album/1JuyNFdnp0B1AbxBxAtKnl) | 3:42 |
 | 6 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 |

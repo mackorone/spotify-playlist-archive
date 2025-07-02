@@ -4,7 +4,7 @@
 
 > lo mejor nunca se sube
 
-756 songs - 1 day 16 hr 46 min
+757 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2022-01-24 | 2022-06-07 |
 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 | 2023-11-02 | 2024-03-16 |
 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 | 2021-12-15 | 2022-12-10 |
-| [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2023-12-15 |  |
+| [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2023-12-15 | 2025-07-02 |
 | [Ameyatchi](https://open.spotify.com/track/3MT4pzIWi2UrRkVDe03S5t) | [Mathey](https://open.spotify.com/artist/0Ngm8exD2k4wltfEhA22v1) | [Clepo](https://open.spotify.com/album/4FSj22pDS8LxLZTwE4JJXE) | 5:37 | 2023-02-28 | 2023-05-06 |
 | [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 | 2024-04-23 |  |
 | [Anda Bien Monosa](https://open.spotify.com/track/7htY3NMjt7skVZrMtgFYFt) | [Dj Germaniako](https://open.spotify.com/artist/2LtBjp3WVOU7FsayeChakp) | [Anda Bien Monosa](https://open.spotify.com/album/28XJHrqWkVFvIAceXSWGUV) | 1:58 | 2024-06-07 | 2024-07-05 |
@@ -282,6 +282,7 @@
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-08-30 | 2024-02-23 |
 | [Goat](https://open.spotify.com/track/2SFZGMtVHnnyGVE0oRDNCR) | [Maphex Deck](https://open.spotify.com/artist/3PBNAKDPAOCSrLvWP5ZlWT) | [Goat](https://open.spotify.com/album/7zbNYwErg2xmBLAtcmmQSa) | 6:33 | 2022-10-13 | 2022-10-26 |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-11 | 2022-08-20 |
+| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-02 |  |
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-09 | 2023-05-10 |
 | [Good For You](https://open.spotify.com/track/578Eooad7oUyn4stovZiPg) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:41 | 2025-01-29 | 2025-02-05 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-25 | 2022-06-09 |

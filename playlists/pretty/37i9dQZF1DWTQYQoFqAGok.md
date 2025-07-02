@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,399 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,406 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 34 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
 | 35 | [Let It Play](https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl) | [Fiusha](https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk) | [Funk da Power](https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63) | 5:16 |
 | 36 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
-| 37 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
-| 38 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
-| 39 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 37 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
+| 38 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
+| 39 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 | 40 | [La Franca](https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 3:18 |
-| 41 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
+| 41 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
 | 42 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 43 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
 | 44 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,325 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,408 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,20 +28,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 18 | [Soon](https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 6:58 |
 | 19 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
 | 20 | [Wishes](https://open.spotify.com/track/5hhgmepThtS3PoPIGsA5Ui) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 3:33 |
-| 21 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
-| 22 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
+| 21 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
+| 22 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 | 23 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
 | 24 | [Ballad Of Sister Sue](https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:31 |
 | 25 | [Calendar](https://open.spotify.com/track/0f5zmYlqbw8szBtaVZhnGE) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 5:48 |
 | 26 | [Scenic](https://open.spotify.com/track/7mneRO01pJtLWlIiSptL9d) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:48 |
-| 27 | [flip](https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [return](https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss) | 2:02 |
+| 27 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
 | 28 | [Dark Stone](https://open.spotify.com/track/4WVb36fxYnEHVKDKiMRZHw) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:22 |
-| 29 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
+| 29 | [flip](https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [return](https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss) | 2:02 |
 | 30 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
 | 31 | [Rocket \- 2011 Remaster](https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:06 |
-| 32 | [Fall](https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:59 |
+| 32 | [Evergreen](https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Methodrone](https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka) | 3:24 |
 | 33 | [The Same Place](https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs) | [Centaur](https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ) | [In Streams](https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL) | 7:35 |
-| 34 | [Evergreen](https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Methodrone](https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka) | 3:24 |
+| 34 | [Fall](https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:59 |
 | 35 | [Walkabout \(W/ Noah Lennox\)](https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T), [Noah Lennox](https://open.spotify.com/artist/6XrrzKnazbofp8WajiHZyH) | [Logos](https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh) | 3:58 |
 | 36 | [Seagull \- 2001 Remaster](https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Nowhere \(Expanded\)](https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ) | 6:08 |
 | 37 | [Pearl \- 12'' Version](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |

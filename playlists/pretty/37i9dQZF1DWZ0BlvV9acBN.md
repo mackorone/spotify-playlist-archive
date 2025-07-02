@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rosa de Saron
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,323 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,334 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 43 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
 | 44 | [No Princípio](https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI \(DELUXE\)](https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc) | 2:46 |
 | 45 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
-| 46 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
-| 47 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
+| 46 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
+| 47 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
 | 48 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 49 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
 | 50 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |

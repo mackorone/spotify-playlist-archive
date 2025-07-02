@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Chella
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,331 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,485 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 3 | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 4:03 |
 | 4 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
 | 5 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
-| 6 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
+| 6 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
 | 7 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 |
 | 8 | [Busy](https://open.spotify.com/track/1DVdbIySidKt0RdRrh7gg1) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Busy](https://open.spotify.com/album/6M9oPmqJzL4j4rQ2kZPPzu) | 2:35 |
 | 9 | [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 11 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 |
 | 12 | [SELEK](https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:39 |
 | 13 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:37 |
-| 14 | [KATCHU\-KATA](https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [BON QU'À ÇA](https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv) | 2:00 |
+| 14 | [KATCHU\-KATA](https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [BON QU'À ÇA](https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv) | 2:00 |
 | 15 | [À LA FOLIE](https://open.spotify.com/track/0niEvIhk3rjNTJHeNHN2Fn) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [GÉ LEAK](https://open.spotify.com/album/47f98WzF1SUMz76YVDwa4L) | 1:58 |
 | 16 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
 | 17 | [SIKI SIKI](https://open.spotify.com/track/3DglPTNRNLC9y58fq8WFGs) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [SIKI SIKI](https://open.spotify.com/album/4aGy5USowubQuzRZL08Blw) | 2:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,493 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,539 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 43 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 |
 | 44 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 |
 | 45 | [Dress You Up](https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 4:01 |
-| 46 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
-| 47 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
+| 46 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
+| 47 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
 | 48 | [Back That Up To The Beat \- demo version](https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Back That Up To The Beat](https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt) | 3:31 |
 | 49 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 |
-| 50 | [Sky Fits Heaven](https://open.spotify.com/track/2KuNI576snW2Xlr1y8cMaW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:47 |
+| 50 | [Deeper and Deeper](https://open.spotify.com/track/6KU8g98m1tcrUXRNjPQeOI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:33 |
 
-Snapshot ID: `aGCCAAAAAADve74DUzUyK8IzscdbWRIp`
+Snapshot ID: `aGHTgAAAAAC1lpRzS2pdAfsw+WZFq059`

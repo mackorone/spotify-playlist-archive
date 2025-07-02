@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73731,
+  "num_followers": 73729,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
         "name": "Use Somebody (Acoustic Version)",
         "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 186660,
       "name": "Use Somebody - Acoustic Version",
       "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "added_at": "2025-06-30 02:17:57",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 249937,
       "name": "Grow as We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195752,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
       "added_at": "2025-06-30 02:17:57",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
-        "name": "Whiskey Sour",
-        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 209740,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
         "name": "Best Part",
         "url": "https://open.spotify.com/album/1Eew1PSbKc6DM7pD99NiIc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 280987,
       "name": "Best Part",
       "url": "https://open.spotify.com/track/2HttK3TYhnumj8xWjKCYem"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
     },
     {
       "added_at": "2025-06-30 02:17:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
     },
     {
       "added_at": "2025-06-30 02:17:57",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
     },
     {
       "added_at": "2025-06-30 02:17:57",
@@ -907,22 +923,6 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
     },
     {
       "added_at": "2025-06-30 02:17:57",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 193779,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
     },
     {
       "added_at": "2025-06-30 02:17:57",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-06-30 02:17:57",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 346235,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs"
+    },
+    {
+      "added_at": "2025-06-30 02:17:57",
+      "album": {
         "name": "You Belong To Somebody Else",
         "url": "https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 199144,
       "name": "You Belong To Somebody Else",
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
-    },
-    {
-      "added_at": "2025-06-30 02:17:57",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 346235,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs"
     },
     {
       "added_at": "2025-06-30 02:17:57",

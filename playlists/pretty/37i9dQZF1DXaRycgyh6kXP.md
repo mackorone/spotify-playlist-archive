@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,111 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,191 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 28 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 |
 | 29 | [little mystery](https://open.spotify.com/track/0BVIfVKh1wkQjNK32GMHM2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [two more days](https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc) | 2:58 |
 | 30 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
-| 31 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
-| 32 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 |
+| 31 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 |
+| 32 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 33 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
 | 34 | [Odyssey](https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Odyssey](https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L) | 3:25 |
 | 35 | [Madres](https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:56 |

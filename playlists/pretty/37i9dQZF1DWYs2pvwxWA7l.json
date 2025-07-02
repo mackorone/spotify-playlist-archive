@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Victony",
-  "num_followers": 617786,
+  "num_followers": 617997,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,22 @@
     {
       "added_at": "2025-06-27 07:24:21",
       "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
+      "duration_ms": 219628,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
     },
     {
       "added_at": "2025-06-27 07:24:21",
@@ -307,22 +311,18 @@
     {
       "added_at": "2025-06-27 07:24:21",
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
         }
       ],
-      "duration_ms": 219628,
-      "name": "MMS",
-      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
     },
     {
       "added_at": "2025-06-27 07:24:21",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-06-27 07:24:21",
       "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "added_at": "2025-06-27 07:24:21",
+      "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
-    },
-    {
-      "added_at": "2025-06-27 07:24:21",
-      "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2025-06-27 07:24:21",

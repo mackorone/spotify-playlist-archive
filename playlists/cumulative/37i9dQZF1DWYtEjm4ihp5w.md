@@ -4,7 +4,7 @@
 
 > Cover: Draganov
 
-404 songs - 21 hr 23 min
+405 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-08-01 | 2024-09-18 |
 | [BLUE LOVE](https://open.spotify.com/track/7Djd9Ct8LmEhshieSejXPV) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [ARABIA / BLUE LOVE](https://open.spotify.com/album/0aFUI7XlqD1IQHjJ9P8MBl) | 3:07 | 2024-02-23 | 2024-05-18 |
 | [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-05 |  |
+| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 |  |
 | [Bondagani](https://open.spotify.com/track/0f442OjFSbQ5gpbBlvaJTI) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Bondagani](https://open.spotify.com/album/3Wy4j63JGo378KN31SdPgb) | 2:14 | 2023-06-22 | 2023-08-31 |
 | [BOOS](https://open.spotify.com/track/4MGqqcMJt5Qe9Irx2YS1Vp) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [NSR](https://open.spotify.com/album/6zoFZL2tZLsk899SQYuP3B) | 2:56 | 2024-02-17 | 2024-05-18 |
 | [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-11-14 | 2023-12-12 |
@@ -214,7 +215,7 @@
 | [Lyam](https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Metamorphose](https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6) | 3:36 | 2023-07-13 | 2024-10-03 |
 | [L’allemagne \- Bonus](https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01) | 3:01 | 2022-11-14 | 2023-02-19 |
 | [L’appel V2](https://open.spotify.com/track/4wnqyUswpvK48T8LkfV75J) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 2:40 | 2025-06-05 |  |
-| [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 | 2024-12-12 |  |
+| [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 | 2024-12-12 | 2025-07-02 |
 | [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 | 2023-12-09 | 2024-07-13 |
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-13 | 2023-10-27 |
 | [M3a L3echrane](https://open.spotify.com/track/39Tt3K2AHv4hJS4W6QIPgZ) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/0wmeXAtXpjaeevmIFsLPGh) | 3:52 | 2024-07-12 | 2024-11-18 |

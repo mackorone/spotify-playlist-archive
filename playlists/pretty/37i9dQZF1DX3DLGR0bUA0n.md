@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,893 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,931 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 14 | [No Pares](https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [20 Exitos de Ley](https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1) | 3:39 |
 | 15 | [Tu Nuevo Cariñito](https://open.spotify.com/track/5mp6HHshKmDN9Sy1CanJOo) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [El Mejor De Todos](https://open.spotify.com/album/1AUXylDUCOVotYuD4vvTpy) | 2:33 |
 | 16 | [El Caminante](https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 4:01 |
-| 17 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
+| 17 | [Palomita De Alas Blancas](https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Mi Despedida](https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt) | 2:49 |
 | 18 | [El Oro Verde](https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Oro Verde](https://open.spotify.com/album/4WKy8eNXEaCNI6UCWaOtaa) | 5:02 |
 | 19 | [El Baile del Sacadito](https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [20 Exitos de Ley](https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1) | 3:36 |
 | 20 | [Destino](https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Mi Más Grande Tesoro](https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H) | 4:03 |
-| 21 | [Palomita De Alas Blancas](https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Mi Despedida](https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt) | 2:49 |
+| 21 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
 | 22 | [Soy Para Ti](https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Morenita Labios Rojos](https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR) | 2:59 |
 | 23 | [Recordando A Mi Pueblo](https://open.spotify.com/track/1vQJbzRxUhQMbcOtTiApy0) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Recordando A Mi Pueblo](https://open.spotify.com/album/27J8ZgI5nKZ6Qvlfw59y0R) | 4:55 |
 | 24 | [Veinte Mujeres de Negro](https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [18 Kilates](https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h) | 3:10 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 43 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 |
 | 44 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 |
 | 45 | [5 Minutos](https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Por Qué Me Gustas](https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP) | 3:41 |
-| 46 | [El Nike](https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [El Nike](https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq) | 4:02 |
-| 47 | [Aunque Estés Lejos De Mí](https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 3:50 |
+| 46 | [Aunque Estés Lejos De Mí](https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 3:50 |
+| 47 | [El Nike](https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [El Nike](https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq) | 4:02 |
 | 48 | [Si la Vida Me Pidieras](https://open.spotify.com/track/2mxrQW3HMnLz7eOmvo1lf6) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Si la Vida Me Pidieras](https://open.spotify.com/album/4br3jM3JVBakBL2ZdOEoJ2) | 5:13 |
 | 49 | [Así Fue](https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Kilos de Polvo](https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk) | 5:29 |
 | 50 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 |

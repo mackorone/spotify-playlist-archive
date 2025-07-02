@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,158 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,161 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `Ab1jpgAAAADUHYzZjwCyBOmACZjs+EJ+`
+Snapshot ID: `Ab1pPAAAAADUHYzZjwCyBOmACZjs+EJ+`

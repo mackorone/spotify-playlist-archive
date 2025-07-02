@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,459 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,472 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 4 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
 | 5 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 6 | [la ciudad](https://open.spotify.com/track/1uHasdVOWbOKA51ilcXsvx) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:21 |
-| 7 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
+| 7 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 8 | [Yo siempre contesto.](https://open.spotify.com/track/1ZunPTRc0PUFfdSWa3qMB1) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:19 |
-| 9 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
+| 9 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 10 | [SE BUSCA](https://open.spotify.com/track/34ouHKuJQERGLd7aeg2QO7) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [SE BUSCA](https://open.spotify.com/album/612fj3QrB4483OomTwgmnH) | 3:39 |
 | 11 | [Por Si las Dudas](https://open.spotify.com/track/58i55N4Ji6BPyvqI4g1HTS) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Por Si las Dudas](https://open.spotify.com/album/2G72gtZRp1TXdIhpgbCJ1u) | 2:56 |
 | 12 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 60 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 61 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 |
 | 62 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
-| 63 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
-| 64 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
+| 63 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
+| 64 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
 | 65 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
 
 Snapshot ID: `aEuibwAAAAAvdaP+e98CmaygaUSoPxI0`

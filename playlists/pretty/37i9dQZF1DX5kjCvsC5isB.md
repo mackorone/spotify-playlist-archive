@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,963 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,979 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 71 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 |
 | 72 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
 | 73 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
-| 74 | [February](https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [February](https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq) | 3:52 |
-| 75 | [Lose You](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
+| 74 | [Lose You](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
+| 75 | [February](https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [February](https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq) | 3:52 |
 | 76 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 77 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 |
 | 78 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 90 | [Kills Me To Be Kind](https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Kills Me To Be Kind](https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg) | 4:40 |
 | 91 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
 | 92 | [Downhill](https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Downhill](https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4) | 3:05 |
-| 93 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 |
-| 94 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
+| 93 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
+| 94 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 |
 | 95 | [headspace](https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [dizzy spells](https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV) | 3:08 |
 | 96 | [LASSO](https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [LASSO](https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba) | 2:58 |
 | 97 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 | 98 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 |
-| 99 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
-| 100 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
+| 99 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
+| 100 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
 
 Snapshot ID: `aDDFSQAAAADceFFbq9meGdH4SUJovPyn`

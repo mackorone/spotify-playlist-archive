@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 346722,
+  "num_followers": 346852,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABGlkzvN/oYdZBrU9i9+3if",
+  "snapshot_id": "aGHTgAAAAAB00f4ZAQFTS1F0j/vIkW0y",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 190553,
       "name": "Di Que S\u00ed",
       "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 208491,
+      "name": "Nada Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EVO LUXURY 2",
         "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 186142,
       "name": "Clausurado",
       "url": "https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 208491,
-      "name": "Nada Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        }
-      ],
-      "duration_ms": 206629,
-      "name": "Emprendedor",
-      "url": "https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 195608,
       "name": "La Sand\u00eda",
       "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "duration_ms": 206629,
+      "name": "Emprendedor",
+      "url": "https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

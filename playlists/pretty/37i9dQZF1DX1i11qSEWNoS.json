@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 623221,
+  "num_followers": 623317,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,30 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2025-06-26 22:00:17",
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
-    },
-    {
-      "added_at": "2025-06-26 22:00:17",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
       "added_at": "2025-06-26 22:00:17",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Lil Reese",
-          "url": "https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS"
-        }
-      ],
-      "duration_ms": 293840,
-      "name": "I Don't Like",
-      "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB"
-    },
-    {
-      "added_at": "2025-06-26 22:00:17",
-      "album": {
         "name": "Vielleicht Vielleicht (Holy Priest & elMefti Remix)",
         "url": "https://open.spotify.com/album/11AgvfRovHCABNaX85Ymh1"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Lil Reese",
+          "url": "https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS"
+        }
+      ],
+      "duration_ms": 293840,
+      "name": "I Don't Like",
+      "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB"
+    },
+    {
+      "added_at": "2025-06-26 22:00:17",
+      "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2025-06-26 22:00:17",
-      "album": {
-        "name": "Dein Mann Freestyle",
-        "url": "https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu"
-      },
-      "artists": [
-        {
-          "name": "benno!",
-          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
-        }
-      ],
-      "duration_ms": 145989,
-      "name": "Dein Mann Freestyle",
-      "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
     },
     {
       "added_at": "2025-06-26 22:00:17",
@@ -679,26 +663,18 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
-        "name": "Have You Ever Seen The Rain",
-        "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
+        "name": "Dein Mann Freestyle",
+        "url": "https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu"
       },
       "artists": [
         {
-          "name": "Outliers",
-          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
-        },
-        {
-          "name": "John Fogerty",
-          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
-        },
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
         }
       ],
-      "duration_ms": 125109,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
+      "duration_ms": 145989,
+      "name": "Dein Mann Freestyle",
+      "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
     },
     {
       "added_at": "2025-06-26 22:00:17",
@@ -727,6 +703,30 @@
       "duration_ms": 141551,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for"
+    },
+    {
+      "added_at": "2025-06-26 22:00:17",
+      "album": {
+        "name": "Have You Ever Seen The Rain",
+        "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        },
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 125109,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
     },
     {
       "added_at": "2025-06-26 22:00:17",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
+        "name": "WHO'S THAT",
+        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "duration_ms": 140009,
+      "name": "WHO'S THAT",
+      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
+    },
+    {
+      "added_at": "2025-06-26 22:00:17",
+      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:17",
-      "album": {
-        "name": "Mona Lisa Motion",
-        "url": "https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Mona Lisa Motion",
-      "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
     },
     {
       "added_at": "2025-06-26 22:00:17",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
-        "name": "WHO'S THAT",
-        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
+        "name": "Mona Lisa Motion",
+        "url": "https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch"
       },
       "artists": [
         {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
         }
       ],
-      "duration_ms": 140009,
-      "name": "WHO'S THAT",
-      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
+      "duration_ms": 132631,
+      "name": "Mona Lisa Motion",
+      "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
     },
     {
       "added_at": "2025-06-26 22:00:17",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Agent Zed",
-          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "King Of My Castle",
-      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
-    },
-    {
-      "added_at": "2025-06-26 22:00:17",
-      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
+    },
+    {
+      "added_at": "2025-06-26 22:00:17",
+      "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Agent Zed",
+          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
     },
     {
       "added_at": "2025-06-26 22:00:17",
@@ -1839,22 +1839,22 @@
     {
       "added_at": "2025-06-26 22:00:17",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+        "name": "Explodiert",
+        "url": "https://open.spotify.com/album/6oT5hbuwAZBggkH8WlzyFb"
       },
       "artists": [
         {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
         }
       ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
+      "duration_ms": 158895,
+      "name": "Explodiert",
+      "url": "https://open.spotify.com/track/6TwxfbWv60uq6SoskPJM8i"
     }
   ],
   "unique_name": "schiebt anders",

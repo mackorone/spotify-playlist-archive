@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355373,
+      "name": "Love Will Bring Us Back Together",
+      "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD"
       },
@@ -608,7 +626,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 361826,
       "name": "Love Will Bring Us Back Together",
       "url": "https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2"

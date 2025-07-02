@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,223 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,220 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 68 | [Pour le réveillon](https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Chic de ville \(avec "Pour le réveillon"\)](https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr) | 3:02 |
 | 69 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 70 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 |
-| 71 | [Baby It’s Not Christmas Without You](https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Baby It’s Not Christmas Without You](https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ) | 2:47 |
-| 72 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
+| 71 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
+| 72 | [Baby It’s Not Christmas Without You](https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Baby It’s Not Christmas Without You](https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ) | 2:47 |
 | 73 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
 | 74 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
 | 75 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 78 | [Six heures d'avion nous séparent](https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Six heures d'avion nous séparent](https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u) | 2:48 |
 | 79 | [Les soeurs crevette](https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx) | [Shilvi](https://open.spotify.com/artist/6lPtV4QMcounmL4iNB7edn) | [La tour de bébelles](https://open.spotify.com/album/6b7M7bwX4DSOvvN0rxYKmD) | 2:57 |
 | 80 | [Petit garçon](https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod) | [Les Plus Beaux Noels Du Monde](https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW) | 2:49 |
-| 81 | [Joyeux Noël et bonne année!](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux Noël et bonne année!](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 |
-| 82 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 |
-| 83 | [J'ai vu maman](https://open.spotify.com/track/7C2rBix360wLA61Al61APh) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 3:13 |
+| 81 | [J'ai vu maman](https://open.spotify.com/track/7C2rBix360wLA61Al61APh) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 3:13 |
+| 82 | [Joyeux Noël et bonne année!](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux Noël et bonne année!](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 |
+| 83 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 |
 | 84 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
 | 85 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 |
 | 86 | [Noël brille encore](https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Noël brille encore](https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A) | 3:26 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 96 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
 | 97 | [Chanson pour une nuit d'hiver](https://open.spotify.com/track/4v5igJYEez7gAKiyHuVFBo) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Lumières d'hiver](https://open.spotify.com/album/4GVVHF9DXhDaXh8b74Uyjo) | 4:23 |
 | 98 | [Ton chandail de Noël](https://open.spotify.com/track/4QeYg9ev7grCrFrJR4k7VO) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Noël amoureux](https://open.spotify.com/album/0C9sNkimLY6w0gECvdPW3B) | 3:35 |
-| 99 | [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 |
-| 100 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
+| 99 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
+| 100 | [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 |
 
 Snapshot ID: `Z1xjcgAAAAB7QOXwJxbCdz/LfLVTYip7`

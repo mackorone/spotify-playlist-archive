@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover:Fulana
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,542 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,541 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [marigold](https://open.spotify.com/track/6JrjfWgPI8d1uraNP0YEDx) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 4:24 |
-| 2 | [ITTY BITTY](https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [ITTY BITTY](https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3) | 2:23 |
-| 3 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 |
-| 4 | [NAZARETH](https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [NAZARETH](https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd) | 3:04 |
-| 5 | [time](https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc) | [Maleka](https://open.spotify.com/artist/3eB1VORmzwBeOxRGJ259u1) | [time](https://open.spotify.com/album/27PcxS2E8HCGb1Q1xotN4u) | 2:47 |
-| 6 | [It Ain't Over](https://open.spotify.com/track/1HDMb8Yku3jIMMSH81PT4W) | [Mabelle](https://open.spotify.com/artist/38vXgby5lmtH58BCzodF3z) | [It Ain't Over](https://open.spotify.com/album/7gpDMk7srT362mFiFsOCPY) | 2:22 |
-| 7 | [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 |
-| 8 | [ATARAXIA](https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:56 |
-| 9 | [Maktub](https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 3:28 |
-| 10 | [GO CRAZY](https://open.spotify.com/track/72gh4ZobtjRMcpYUxpPNTJ) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Wazic](https://open.spotify.com/artist/4MYk7nIQMJ8Zj8p6AeZOmN) | [freakuency](https://open.spotify.com/album/1nWH43v7RtIdKznMvrVi4W) | 2:19 |
-| 11 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 |
-| 12 | [LIARS CAN'T HIDE](https://open.spotify.com/track/0lVpfIsQ336HysPSP5PlPx) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [LIARS CAN'T HIDE](https://open.spotify.com/album/11hKCgN02XVRY1gDycGKDY) | 2:16 |
-| 13 | [Preach](https://open.spotify.com/track/57wTXMZjMKP9X06b1NIQob) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Preach](https://open.spotify.com/album/1BwCdCiFsakr3hemuRKn08) | 2:29 |
-| 14 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 |
-| 15 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 |
+| 2 | [It Ain't Over](https://open.spotify.com/track/1HDMb8Yku3jIMMSH81PT4W) | [Mabelle](https://open.spotify.com/artist/38vXgby5lmtH58BCzodF3z) | [It Ain't Over](https://open.spotify.com/album/7gpDMk7srT362mFiFsOCPY) | 2:22 |
+| 3 | [Beaucoup](https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Beaucoup](https://open.spotify.com/album/3jrVZmsNfhvh7ItgdxmdG3) | 3:13 |
+| 4 | [ITTY BITTY](https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [ITTY BITTY](https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3) | 2:23 |
+| 5 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 |
+| 6 | [NAZARETH](https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [NAZARETH](https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd) | 3:04 |
+| 7 | [time](https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc) | [Maleka](https://open.spotify.com/artist/3eB1VORmzwBeOxRGJ259u1) | [time](https://open.spotify.com/album/27PcxS2E8HCGb1Q1xotN4u) | 2:47 |
+| 8 | [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 |
+| 9 | [ATARAXIA](https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:56 |
+| 10 | [Maktub](https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 3:28 |
+| 11 | [GO CRAZY](https://open.spotify.com/track/72gh4ZobtjRMcpYUxpPNTJ) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Wazic](https://open.spotify.com/artist/4MYk7nIQMJ8Zj8p6AeZOmN) | [freakuency](https://open.spotify.com/album/1nWH43v7RtIdKznMvrVi4W) | 2:19 |
+| 12 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 |
+| 13 | [LIARS CAN'T HIDE](https://open.spotify.com/track/0lVpfIsQ336HysPSP5PlPx) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [LIARS CAN'T HIDE](https://open.spotify.com/album/11hKCgN02XVRY1gDycGKDY) | 2:16 |
+| 14 | [Preach](https://open.spotify.com/track/57wTXMZjMKP9X06b1NIQob) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Preach](https://open.spotify.com/album/1BwCdCiFsakr3hemuRKn08) | 2:29 |
+| 15 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 |
 | 16 | [Strong Enough](https://open.spotify.com/track/6HBSPmhSQfD2ftLDcQnoye) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [Strong Enough](https://open.spotify.com/album/3dYM0BYJAqAFdlyWoGrKXM) | 3:08 |
 | 17 | [EXILE / معاكي](https://open.spotify.com/track/6FG3f1wZKl2IESCJQJb1tj) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [EXILE / معاكي](https://open.spotify.com/album/0xfkU5Pja7FSa8ZRHbG1fs) | 4:08 |
 | 18 | [MOVE](https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ) | [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOVE](https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
 | 50 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 |
 
-Snapshot ID: `aFpN+gAAAAAWrnGxQ9ylSWtOeTYrW4c3`
+Snapshot ID: `aGOn6QAAAABd9kM+3LuwE05phzTdLdCz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,586 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,590 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 44 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 |
 | 45 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 46 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
-| 47 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
-| 48 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
+| 47 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
+| 48 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 49 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 50 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
 | 51 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 67 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 |
 | 68 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
 | 69 | [If Tomorrow Never Comes](https://open.spotify.com/track/7tbJozWewwmFvTkXCUFtt0) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Destination](https://open.spotify.com/album/3x1XCT7NsJOtQp7DEbPS3X) | 3:34 |
-| 70 | [Take Me Home](https://open.spotify.com/track/76eBb8heDKtUg68WiKX9j1) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8) | 4:25 |
+| 70 | [Don't Dream It's Over](https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [The Very Very Best Of Crowded House \(Deluxe Edition\)](https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy) | 3:58 |
 
 Snapshot ID: `aCXIvgAAAADqxpI1feljqIcuP/+LYxSL`

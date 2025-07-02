@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,260 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,270 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [I Put a Spell On You \(feat\. Carlos Santana\)](https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:04 |
 | 50 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 |
 
-Snapshot ID: `aGCCAAAAAACf+bI07mJuGIdcRcmRlJjq`
+Snapshot ID: `aGHTgAAAAAAXrkbWP6ah9gwQzvr54mgY`

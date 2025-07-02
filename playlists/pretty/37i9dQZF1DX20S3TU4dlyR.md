@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,100 likes - 89 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,124 likes - 89 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 27 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 |
 | 28 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
 | 29 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
-| 30 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
+| 30 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 31 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
 | 32 | [Reggae en el Universo](https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:06 |
 | 33 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 |
-| 34 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
+| 34 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
 | 35 | [Inmortal](https://open.spotify.com/track/6WbGHInGORCidaQqH2wenx) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Inmortal](https://open.spotify.com/album/2rwM15WeZLvxQL5r974CSX) | 3:51 |
 | 36 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 37 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 83 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
 | 84 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
 | 85 | [Hombres De Hierro](https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hombres De Hierro](https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC) | 4:39 |
-| 86 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
+| 86 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 | 87 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
-| 88 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
+| 88 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
 | 89 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
 
 Snapshot ID: `aFVfJgAAAAAdbnyIQF8WHSG13QD3x4Nd`

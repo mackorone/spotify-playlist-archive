@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,183 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,333 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 43 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
 | 44 | [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 |
 | 45 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 |
-| 46 | [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 |
-| 47 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 |
+| 46 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 |
+| 47 | [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 |
 | 48 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 |
 | 49 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 |
 | 50 | [Antes de Tudo](https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 3:49 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 687493,
+  "num_followers": 687539,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADve74DUzUyK8IzscdbWRIp",
+  "snapshot_id": "aGHTgAAAAAC1lpRzS2pdAfsw+WZFq059",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Drowned World / Substitute for Love",
-      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 262320,
       "name": "Forbidden Love",
       "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Drowned World / Substitute for Love",
+      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 287733,
-      "name": "Sky Fits Heaven",
-      "url": "https://open.spotify.com/track/2KuNI576snW2Xlr1y8cMaW"
+      "duration_ms": 333466,
+      "name": "Deeper and Deeper",
+      "url": "https://open.spotify.com/track/6KU8g98m1tcrUXRNjPQeOI"
     }
   ],
   "unique_name": "This Is Madonna",

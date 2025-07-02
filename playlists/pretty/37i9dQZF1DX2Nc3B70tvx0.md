@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,554 likes - 148 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014,769 likes - 148 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 4 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 |
 | 5 | [To Keep Sane in the Dark](https://open.spotify.com/track/23tsQgyGHxGZjHM8uWe9v5) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Tailing the Ghost](https://open.spotify.com/album/4YQK8n667dDoNfeHnjHqtz) | 3:34 |
 | 6 | [deja vu](https://open.spotify.com/track/6Wf0y3Dv8m6uD7XmKOrHc1) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [deja vu](https://open.spotify.com/album/4evEA2XDnb4DfP5YG3h1wz) | 2:49 |
-| 7 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 7 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 8 | [Wipe your tears](https://open.spotify.com/track/3K5bLOU8pMGrDsPCfdL25g) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [The woods, vol\. 1](https://open.spotify.com/album/28LD28enRzXd3e0V5zDypI) | 2:36 |
 | 9 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 10 | [If Only With You](https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If Only With You](https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ) | 3:14 |

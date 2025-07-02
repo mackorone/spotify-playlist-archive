@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,561 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,818 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 22 | [Promises](https://open.spotify.com/track/6e9QdWYdMbVAZVDpG8apU3) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Promises](https://open.spotify.com/album/4IOamu4brK3tYLkXIaPsZK) | 2:43 |
 | 23 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
 | 24 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
-| 25 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
-| 26 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
+| 25 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
+| 26 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 27 | [Paradis Blanc](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Paradis Blanc](https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N) | 2:59 |
 | 28 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 29 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 45 | [Want You In My Soul \- Radio Edit](https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul \(Radio Edit\)](https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS) | 3:10 |
 | 46 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
 | 47 | [Only For Tonight](https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [m.O.N.R.O.E.](https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Only For Tonight](https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo) | 3:16 |
-| 48 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
-| 49 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
+| 48 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
+| 49 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
 | 50 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
 
 Snapshot ID: `aFSWhgAAAACDtx76SlihP+wGu+HizOMQ`

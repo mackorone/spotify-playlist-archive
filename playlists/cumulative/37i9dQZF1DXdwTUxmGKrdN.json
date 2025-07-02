@@ -917,24 +917,6 @@
     },
     {
       "album": {
-        "name": "Jazzmasters 6",
-        "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "date_added": "2024-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 329400,
-      "name": "Cloud Watching",
-      "url": "https://open.spotify.com/track/2gJCkklOvC8v56dmCmqrpn"
-    },
-    {
-      "album": {
         "name": "Jazzmasters VI",
         "url": "https://open.spotify.com/album/4rQmN4oD6yEvJrVQtj2ct5"
       },
@@ -950,6 +932,32 @@
       "duration_ms": 329400,
       "name": "Cloud Watching",
       "url": "https://open.spotify.com/track/68ZLNdsXbDCUMcK8KWpL1v"
+    },
+    {
+      "album": {
+        "name": "Jazzmasters 6",
+        "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        },
+        {
+          "name": "The Jazzmasters",
+          "url": "https://open.spotify.com/artist/66YzLGFlfe2aBpyH5Y13dB"
+        },
+        {
+          "name": "Paul Hardcastle Jr.",
+          "url": "https://open.spotify.com/artist/620L8xasGScdGaSd4xv9Go"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329400,
+      "name": "Cloud Watching",
+      "url": "https://open.spotify.com/track/2gJCkklOvC8v56dmCmqrpn"
     },
     {
       "album": {

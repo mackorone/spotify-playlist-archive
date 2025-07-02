@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,029 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,259 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 48 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
 | 49 | [The Sunshine](https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 1:57 |
 | 50 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
-| 51 | [Lucy](https://open.spotify.com/track/6O1vElqf77upV8az275UZs) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lucy](https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa) | 3:38 |
-| 52 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
+| 51 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
+| 52 | [Lucy](https://open.spotify.com/track/6O1vElqf77upV8az275UZs) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lucy](https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa) | 3:38 |
 | 53 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
 | 54 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 55 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 81 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
 | 82 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 83 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
-| 84 | [Estimated Delivery](https://open.spotify.com/track/1GIDMzcU9cvO5j7f1kuT4Z) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 3:25 |
-| 85 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
+| 84 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
+| 85 | [Estimated Delivery](https://open.spotify.com/track/1GIDMzcU9cvO5j7f1kuT4Z) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 3:25 |
 | 86 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
 | 87 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 |
 | 88 | [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 91 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
 | 92 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
 | 93 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 |
-| 94 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 |
-| 95 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
+| 94 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
+| 95 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 |
 | 96 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
 | 97 | [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 |
 | 98 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
 | 99 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 |
-| 100 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 |
+| 100 | [Lazy Eye](https://open.spotify.com/track/3TZXieYvqCuR40LZJbp6Ik) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/0uRfhGq6y1ODKhjfsGzbV8) | 5:54 |
 
 Snapshot ID: `aFllMAAAAACOhDDF0yoxdVet+I+/b61K`

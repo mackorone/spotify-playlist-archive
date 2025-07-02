@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 797768,
+  "num_followers": 797801,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
+        "name": "Always Love featuring Hyunjin (Stray Kids)",
+        "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Hyunjin",
+          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
+        }
+      ],
+      "duration_ms": 198472,
+      "name": "Always Love featuring Hyunjin (Stray Kids)",
+      "url": "https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
       },
@@ -235,26 +255,6 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Always Love featuring Hyunjin (Stray Kids)",
-        "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
-        }
-      ],
-      "duration_ms": 198472,
-      "name": "Always Love featuring Hyunjin (Stray Kids)",
-      "url": "https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -283,6 +283,26 @@
       "duration_ms": 182733,
       "name": "doing my best",
       "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -363,26 +383,6 @@
       "duration_ms": 240000,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
-        "name": "Crashing (with Kali Uchis)",
-        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187660,
-      "name": "Crashing (with Kali Uchis)",
-      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
         "name": "Skin & Bone",
         "url": "https://open.spotify.com/album/1m4YyZeN2OxQPguJoCcJRW"
       },
@@ -747,22 +731,54 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "I Found (with Freya Ridings)",
-        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
       "artists": [
         {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        },
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 274725,
-      "name": "I Found (with Freya Ridings)",
-      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
+        "name": "Afuera (with Ed Maverick)",
+        "url": "https://open.spotify.com/album/6hiACuXRbybv7MYNzyx88R"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Afuera (with Ed Maverick)",
+      "url": "https://open.spotify.com/track/0MXIDtvwmzNawJuLI5wBuv"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -787,6 +803,26 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
+        "name": "I Found (with Freya Ridings)",
+        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 274725,
+      "name": "I Found (with Freya Ridings)",
+      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
         "name": "pacifico",
         "url": "https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9"
       },
@@ -799,22 +835,6 @@
       "duration_ms": 198349,
       "name": "pacifico",
       "url": "https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 210050,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -835,22 +855,18 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Afuera (with Ed Maverick)",
-        "url": "https://open.spotify.com/album/6hiACuXRbybv7MYNzyx88R"
+        "name": "Old Shadows",
+        "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 191773,
-      "name": "Afuera (with Ed Maverick)",
-      "url": "https://open.spotify.com/track/0MXIDtvwmzNawJuLI5wBuv"
+      "duration_ms": 246764,
+      "name": "Old Shadows",
+      "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -975,6 +991,22 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1003,38 +1035,6 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
-        "name": "Inland Ocean",
-        "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "Inland Ocean",
-      "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Old Shadows",
-        "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
+        "name": "Inland Ocean",
+        "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 246764,
-      "name": "Old Shadows",
-      "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
+      "duration_ms": 294026,
+      "name": "Inland Ocean",
+      "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 131898,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
         "name": "Free as a Bird",
         "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR"
+        "name": "Les bruits de la ville",
+        "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
         }
       ],
-      "duration_ms": 131898,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
+      "duration_ms": 264880,
+      "name": "Il neige",
+      "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -1335,38 +1351,6 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Les bruits de la ville",
-        "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
-      },
-      "artists": [
-        {
-          "name": "Voyou",
-          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Il neige",
-      "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 190368,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 233666,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 190368,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Another Woman",
-        "url": "https://open.spotify.com/album/18wep4YHWC50cGFSz8oLC0"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 264025,
-      "name": "Another Woman",
-      "url": "https://open.spotify.com/track/6t8Ut4zs1TEeSO9I746fiJ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
         "name": "Joli monde",
         "url": "https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 182383,
       "name": "Not Feeling Up",
       "url": "https://open.spotify.com/track/5RclCv6JSxogJpe4E662cP"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
+        "name": "Another Woman",
+        "url": "https://open.spotify.com/album/18wep4YHWC50cGFSz8oLC0"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 264025,
+      "name": "Another Woman",
+      "url": "https://open.spotify.com/track/6t8Ut4zs1TEeSO9I746fiJ"
     },
     {
       "added_at": "2025-06-26 22:00:33",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-06-26 22:00:33",
       "album": {
-        "name": "Elle laisse (Radio Edit)",
-        "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
-      },
-      "artists": [
-        {
-          "name": "Coline Rio",
-          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Elle laisse - Radio Edit",
-      "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
-    },
-    {
-      "added_at": "2025-06-26 22:00:33",
-      "album": {
         "name": "Never Give Up (Acoustic Version)",
         "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 187863,
       "name": "Never Give Up (Acoustic Version)",
       "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
+    },
+    {
+      "added_at": "2025-06-26 22:00:33",
+      "album": {
+        "name": "Elle laisse (Radio Edit)",
+        "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Elle laisse - Radio Edit",
+      "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
     },
     {
       "added_at": "2025-06-26 22:00:33",

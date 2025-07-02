@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: James Marriott
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,705 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,719 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 1 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 2 | [I Don't Want To Live Like This](https://open.spotify.com/track/18Pxdhh6rcEkrxVxCSwck9) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Something's Wrong](https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3) | 2:54 |
 | 3 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
 | 4 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 |
@@ -79,18 +79,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 69 | [Lucy](https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Lucy](https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf) | 4:20 |
 | 70 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
 | 71 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
-| 72 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
-| 73 | [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 |
-| 74 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
-| 75 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
-| 76 | [Fever Dream](https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Fever Dream](https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM) | 3:24 |
+| 72 | [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 |
+| 73 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
+| 74 | [Fever Dream](https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Fever Dream](https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM) | 3:24 |
+| 75 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
+| 76 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
 | 77 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 | 78 | [Left, Right, Goodnight!](https://open.spotify.com/track/65D016x60SVIKgsT2OBwfB) | [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [Left, Right, Goodnight!](https://open.spotify.com/album/3hDEe1rim7Roia2lG3Vigc) | 2:16 |
 | 79 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 |
 | 80 | [Afternoon](https://open.spotify.com/track/76Ae2kmof1uEsE0uMmE5tC) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 2:05 |
 | 81 | [Life Will Go On](https://open.spotify.com/track/6RROmIv49NQkzE3fuE5yrm) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [When Youth Fades Away](https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u) | 3:36 |
-| 82 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
-| 83 | [Nothing's As It Seems](https://open.spotify.com/track/5YgWCmoVZDch6bdaTa33EL) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Nothing's As It Seems](https://open.spotify.com/album/4LF9kAQz5mw8nJQgpR80S7) | 3:42 |
+| 82 | [Nothing's As It Seems](https://open.spotify.com/track/5YgWCmoVZDch6bdaTa33EL) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Nothing's As It Seems](https://open.spotify.com/album/4LF9kAQz5mw8nJQgpR80S7) | 3:42 |
+| 83 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
 | 84 | [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 |
 | 85 | [Billy Flynn of Bethnal Green](https://open.spotify.com/track/3xbLLoMcP67h6fwYMB4kV7) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Billy Flynn of Bethnal Green](https://open.spotify.com/album/1MFLk8zuA3pC7TxOG3rG6Q) | 4:48 |
 | 86 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |

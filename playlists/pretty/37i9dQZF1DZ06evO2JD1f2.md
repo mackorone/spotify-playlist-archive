@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,811 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,810 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 23 | [Flash \(feat\. Bloodhound Q50\)](https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [I Aint Feeling You \(Bonus Edition\)](https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua) | 2:41 |
 | 24 | [What Im On Now v1 oct15](https://open.spotify.com/track/0wAiy4PRzYJiytL3kYrzhG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 3:43 |
 | 25 | [Plug Motivation](https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:08 |
-| 26 | [DEATH BEFORE DISHONOR](https://open.spotify.com/track/4DR2F9HEucYO4Z6XJC0I67) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [INTRUSIVE THOUGHTS](https://open.spotify.com/album/0tjWYspyQvDrgVk4ExxCKX) | 3:12 |
-| 27 | [Anthem \(with Big Sean & EST Gee\) \- Soundtrack Version](https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 2:05 |
+| 26 | [Anthem \(with Big Sean & EST Gee\) \- Soundtrack Version](https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 2:05 |
+| 27 | [DEATH BEFORE DISHONOR](https://open.spotify.com/track/4DR2F9HEucYO4Z6XJC0I67) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [INTRUSIVE THOUGHTS](https://open.spotify.com/album/0tjWYspyQvDrgVk4ExxCKX) | 3:12 |
 | 28 | [Get Down V2 ext aug8](https://open.spotify.com/track/07yO8pAFqUiJaMwy5WKHj3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:55 |
 | 29 | [30 Boppa](https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:32 |
 | 30 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 49 | [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 |
 | 50 | [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 |
 
-Snapshot ID: `aGCCAAAAAADEH3Gn59jB73sroYwA3NmD`
+Snapshot ID: `aGHTgAAAAADQxnjoN1oC5Yj8DbVo0Z78`

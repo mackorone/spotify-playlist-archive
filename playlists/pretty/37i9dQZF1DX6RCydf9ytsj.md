@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,296 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,466 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 109 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |
 | 110 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |
 | 111 | [I Told You So](https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:39 |
-| 112 | [The Conversation \(with Hank Williams Jr.\)](https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:50 |
-| 113 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |
+| 112 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |
+| 113 | [The Conversation \(with Hank Williams Jr.\)](https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:50 |
 | 114 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
 | 115 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:05 |
 | 116 | [Mama's Never Seen Those Eyes](https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 2:50 |

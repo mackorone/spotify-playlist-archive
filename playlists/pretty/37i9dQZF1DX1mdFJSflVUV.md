@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mdFJSflVUV.md) - [plain]
 
 > Canciones para subirse al auto y cantar sin parar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,711 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,833 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mdFJSflVUV.md) - [plain]
 | 50 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 51 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 52 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
-| 53 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
+| 53 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 | 54 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 |
-| 55 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
+| 55 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
 | 56 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 57 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 | 58 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mdFJSflVUV.md) - [plain]
 | 67 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 |
 | 68 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 69 | [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 |
-| 70 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
-| 71 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
+| 70 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
+| 71 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 72 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
 | 73 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 74 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mdFJSflVUV.md) - [plain]
 | 89 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
 | 90 | [Bye Bye](https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:49 |
 | 91 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
-| 92 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
-| 93 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
+| 92 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
+| 93 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
 | 94 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
 | 95 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 |
 | 96 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |

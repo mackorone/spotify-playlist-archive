@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
@@ -3983,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Lallahom",
+        "url": "https://open.spotify.com/album/74Z0SrQ0AZlCB84ixPVMw3"
+      },
+      "artists": [
+        {
+          "name": "Sofia Marikh",
+          "url": "https://open.spotify.com/artist/0WxY1I56V69ZoSGFNmn77d"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Lallahom",
+      "url": "https://open.spotify.com/track/2uK5HzKs8LsOsGHs7i8c2M"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },
@@ -4790,7 +4808,7 @@
           "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
         },
         {
-          "name": "BOLEMVN",
+          "name": "Bol\u00e9mvn",
           "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
         }
       ],

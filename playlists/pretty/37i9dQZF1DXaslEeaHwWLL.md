@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,340 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,387 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 20 | [Loca](https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Loca](https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ) | 4:06 |
 | 21 | [Pa Ti](https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Pa Ti](https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A) | 3:11 |
 | 22 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
-| 23 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 |
-| 24 | [Corazón \(feat\. Nego do Borel\)](https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:04 |
+| 23 | [Corazón \(feat\. Nego do Borel\)](https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:04 |
+| 24 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 |
 | 25 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
 | 26 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |
 | 27 | [Tú Foto](https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:13 |

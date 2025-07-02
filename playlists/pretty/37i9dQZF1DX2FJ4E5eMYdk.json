@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 185551,
+  "num_followers": 185588,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Phase Zero",
+        "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
+      },
+      "artists": [
+        {
+          "name": "Morgan Delt",
+          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "Some Sunsick Day",
+      "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 271466,
       "name": "Apollo's Mood",
       "url": "https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Phase Zero",
-        "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Delt",
-          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "Some Sunsick Day",
-      "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
     },
     {
       "added_at": "2024-07-05 19:49:15",

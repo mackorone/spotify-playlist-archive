@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,902 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,912 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 43 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
 | 44 | [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 |
 | 45 | [Chau Chau](https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Chau Chau](https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie) | 2:44 |
-| 46 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
-| 47 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 |
+| 46 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 |
+| 47 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
 | 48 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 |
 | 49 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 |
 | 50 | [Vivir Así es Morir de Amor](https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Vivir Así es Morir de Amor](https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq) | 3:33 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 61 | [No Vuelvas Más](https://open.spotify.com/track/2ydMhW1slL16Q7Marq1T9a) | [MEIMI](https://open.spotify.com/artist/5PDJUZrrWeGjQ3F0TeHDp2) | [No Vuelvas Más](https://open.spotify.com/album/24dcU2IVa7vjvcXrxOxeYa) | 3:22 |
 | 62 | [El Primero](https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [El Primero](https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm) | 2:31 |
 | 63 | [Perdoname](https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Perdoname](https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI) | 3:37 |
-| 64 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
-| 65 | [Tengo Que Colgar](https://open.spotify.com/track/3qBxTt340PgI9vHuDxaPgt) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Tengo Que Colgar](https://open.spotify.com/album/1hvpBLTZPlDAXN5AReC92e) | 3:13 |
+| 64 | [Tengo Que Colgar](https://open.spotify.com/track/3qBxTt340PgI9vHuDxaPgt) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Tengo Que Colgar](https://open.spotify.com/album/1hvpBLTZPlDAXN5AReC92e) | 3:13 |
+| 65 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 
 Snapshot ID: `Z9zWSgAAAADkeWQFLFtM+0TDhwi+u7tm`

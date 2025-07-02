@@ -12335,6 +12335,24 @@
     },
     {
       "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "album": {
         "name": "Survive My Own Mind",
         "url": "https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN"
       },

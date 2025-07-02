@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=RdeehQ3VSg2NorWLeHscFw"> Sasha Keable</a>
 
-576 songs - 1 day 6 hr 54 min
+577 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 | 2025-01-17 | 2025-04-25 |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-10-12 | 2024-09-12 |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-09-11 | 2025-04-25 |
+| [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 | 2025-06-27 |  |
 | [Sour Milk](https://open.spotify.com/track/3nIjabKDPyCov3tYEs1D63) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/2E94GVRpIbRZvPjiZFN6gv) | 3:03 | 2025-06-13 | 2025-06-20 |
 | [Southern Stuff](https://open.spotify.com/track/6kISVB31mLA3SX1a1sRk2N) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Ain't Nobody Worryin'](https://open.spotify.com/album/7AnGF7p32IpTeDpbkc8uKJ) | 3:59 | 2025-02-13 | 2025-03-01 |
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-09-26 | 2024-11-29 |
@@ -569,7 +570,7 @@
 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-11 |  |
 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 | 2024-11-08 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-26 | 2024-03-22 |
-| [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 |  |
+| [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 | 2025-07-02 |
 | [With Me](https://open.spotify.com/track/08YCkJHWMhxjqBMaUzRtcj) | [Asaiowé](https://open.spotify.com/artist/6S2sQGQVsc7BzhaRzCrN4W) | [With Me](https://open.spotify.com/album/1S8424izWJM7maB0nQfSQm) | 3:08 | 2024-10-11 | 2024-11-29 |
 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-06-13 | 2025-06-20 |
 | [Wonder](https://open.spotify.com/track/0L4hMz440iOVrQ516sFBza) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Wonder](https://open.spotify.com/album/0R8zJtlrG8gyZtPQHiAEpY) | 3:48 | 2023-10-12 | 2024-01-26 |

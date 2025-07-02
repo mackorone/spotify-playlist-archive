@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-3,462 songs - 7 day 0 hr 32 min
+3,463 songs - 7 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1407,6 +1407,7 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 | 2022-11-05 | 2023-01-22 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-10-06 | 2022-11-06 |
+| [How It’s Done](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:56 | 2025-07-01 |  |
 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2025-02-13 | 2025-02-16 |
 | [Hundert Jahre Eiszeit](https://open.spotify.com/track/2aS1Hr5Yirja8gYge1wmTZ) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Arlinda](https://open.spotify.com/artist/2SSMKpG9gJLqvXS8mZqlHn), [Pano](https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa) | [Hundert Jahre Eiszeit](https://open.spotify.com/album/03ONbOfdYundtRiHOmaGgj) | 2:35 | 2023-06-10 | 2023-06-12 |
 | [HUNDERTZEHN](https://open.spotify.com/track/5K1uMa3a5R9JWW2n4IfTYa) | [Kolja Goldstein](https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm), [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HUNDERTZEHN](https://open.spotify.com/album/2vhvZlBiLMZIqG5kAKCX8e) | 2:29 | 2024-04-06 | 2024-04-08 |
@@ -2861,7 +2862,7 @@
 | [STREIT](https://open.spotify.com/track/2uj2UZwhooohVKQREM7Wx8) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [STREIT](https://open.spotify.com/album/7eLC3rF5nbATqQQrA2zUYz) | 3:32 | 2025-03-08 | 2025-06-08 |
 | [Stroboparty](https://open.spotify.com/track/0Ne6d3k9zcUcHsaG6zelFD) | [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Stroboparty](https://open.spotify.com/album/3KljxzVsh1QequFmKqkJ7o) | 2:20 | 2024-12-28 | 2024-12-31 |
 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:00 | 2025-01-11 | 2025-01-13 |
-| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-02-02 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-02-02 | 2025-07-02 |
 | [Stups, der kleine Osterhase](https://open.spotify.com/track/76a8uhS8P0hh0rvXhIx9Bd) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [12 Bunte Liedergeschichten](https://open.spotify.com/album/7IrWAAxCy0noDnV41yogM0) | 2:12 | 2024-03-30 | 2025-04-23 |
 | [Stups, der kleine Osterhase](https://open.spotify.com/track/1O2sdZviza9fQgHuRIXkYY) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Radio Lollipop](https://open.spotify.com/album/7fRHiKDTXZe772cYMPkIaf) | 2:12 | 2023-04-10 | 2023-04-12 |
 | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/track/473iuBry5Y4SSx9AGw9LLw) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/album/4tSoKS8d26eyigOHVNvtZy) | 2:26 | 2023-02-11 | 2023-03-12 |

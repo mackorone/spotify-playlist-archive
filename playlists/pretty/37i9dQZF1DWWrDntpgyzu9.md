@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,212 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,262 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 32 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 33 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 |
 | 34 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
-| 35 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
+| 35 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
 | 36 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
-| 37 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
-| 38 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
+| 37 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
+| 38 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 39 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 |
 | 40 | [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 |
 | 41 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |

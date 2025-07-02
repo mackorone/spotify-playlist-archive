@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Yoon Jong Shin \(윤종신\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,167 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,163 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
 | 2 | [2025 Monthly Yoon Repair June \- Today](https://open.spotify.com/track/2ArZU4LMsujnuEKTedJjHJ) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon Repair June \- Today](https://open.spotify.com/album/5KVHUxmrCYlYtNSmnPhMGP) | 4:36 |
 | 3 | [Someday, The Man](https://open.spotify.com/track/2ebbekzBESFE6wWBA96Gbw) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Someday, The Man](https://open.spotify.com/album/6NUSyUkZIVMJUql3xBowqD) | 3:55 |
-| 4 | [Old Song](https://open.spotify.com/track/6rGVw8IWx7EB0f8vUAKWHE) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6), [YOUNGJAE](https://open.spotify.com/artist/6yxXsPXcgTJjBRelX9NCiF), [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [Old Song](https://open.spotify.com/album/0apoOIDrKO2D46DcgUuzR7) | 4:32 |
+| 4 | [Old Song](https://open.spotify.com/track/6rGVw8IWx7EB0f8vUAKWHE) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6), [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ), [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [CHOI SANG YEOP](https://open.spotify.com/artist/6utXy4Z1T5WeP6Kik5CKs4) | [Old Song](https://open.spotify.com/album/0apoOIDrKO2D46DcgUuzR7) | 4:32 |
 | 5 | [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 |
 | 6 | [Endless Rain](https://open.spotify.com/track/4YcPfv5Wef00nAkjLk3gy2) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [IONY : Project \#01](https://open.spotify.com/album/1bDv2zeRqSgKRqXZCK8w6I) | 3:26 |
 | 7 | [BREATHE](https://open.spotify.com/track/32xDPFMeAHC6kKLcVebFo4) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [BREATHE](https://open.spotify.com/album/119h0mxguRunS06HPCClZc) | 4:39 |

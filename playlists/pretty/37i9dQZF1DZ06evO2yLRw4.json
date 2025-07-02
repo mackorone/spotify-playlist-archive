@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37492,
+  "num_followers": 37495,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACRZHxw9AwNQqkZi24BGBZq",
+  "snapshot_id": "aGHTgAAAAADsPyWC58c+5Xknx5BH+KjL",
   "tracks": [
     {
       "added_at": null,
@@ -438,15 +438,27 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 235746,
-      "name": "Pacific Coast Highway In The Movies",
-      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
+      "duration_ms": 288080,
+      "name": "Slam (Angel Miners)",
+      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Jump on My Shoulders",
+      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
     },
     {
       "added_at": null,
@@ -475,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Jump on My Shoulders",
-      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -514,11 +510,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 288080,
-      "name": "Slam (Angel Miners)",
-      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
+      "duration_ms": 235746,
+      "name": "Pacific Coast Highway In The Movies",
+      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 172535,
+      "name": "Actors Have No Shame",
+      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Here Come the Runts",
-      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 172535,
-      "name": "Actors Have No Shame",
-      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
+      "duration_ms": 174384,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/5EGlRPjdwqWQLDexcHMnwK"
     }
   ],
   "unique_name": "This Is AWOLNATION",

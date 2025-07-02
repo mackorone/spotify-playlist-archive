@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,801 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,812 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 27 | [What Kind Of Man](https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:36 |
 | 28 | [The Fold](https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [The Crow Mother](https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD) | 3:36 |
 | 29 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
-| 30 | [Glory](https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 3:42 |
-| 31 | [Nica Libres At Dusk](https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 6:34 |
+| 30 | [Nica Libres At Dusk](https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 6:34 |
+| 31 | [Glory](https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 3:42 |
 | 32 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
 | 33 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
 | 34 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 53 | [Hunger of the Pine](https://open.spotify.com/track/57gf8TTzlk1BE5R4C7gfz6) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Hunger of the Pine](https://open.spotify.com/album/3DtuLo5Z9bQRaPv2qIBxXW) | 4:58 |
 | 54 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
 | 55 | [Bones](https://open.spotify.com/track/1p3YBrdHnDTEZqm6TCfuP3) | [Josh Record](https://open.spotify.com/artist/6SX3hY3ksMNOUCvF7OI1nl) | [Pillars](https://open.spotify.com/album/4HUnfqen6kJ6tDaQPwmeNY) | 4:49 |
-| 56 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
-| 57 | [i was cruel \- demo take](https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [i was cruel \- demo take](https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k) | 3:04 |
+| 56 | [i was cruel \- demo take](https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [i was cruel \- demo take](https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k) | 3:04 |
+| 57 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 58 | [Out of the Darkness](https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED) | [Sleep Thieves](https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY) | [Islands](https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB) | 2:03 |
 | 59 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
 | 60 | [White Flag](https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:03 |
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 64 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 65 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
 | 66 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 |
-| 67 | [Come What May](https://open.spotify.com/track/3e9z2r0A75uBRuZG0czhvg) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:01 |
-| 68 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
+| 67 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
+| 68 | [Come What May](https://open.spotify.com/track/3e9z2r0A75uBRuZG0czhvg) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:01 |
 | 69 | [Every Man Is a Warrior](https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Oko](https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89) | 3:16 |
 | 70 | [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 |
 | 71 | [Hush \- Theme From Turn](https://open.spotify.com/track/6gt6hUfAeCcdDJcmlsD06p) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Hush \(Theme From Turn\)](https://open.spotify.com/album/7Ktx3fXFQf0zvz3Hbd1DNl) | 3:17 |
-| 72 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 |
-| 73 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 72 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 73 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 |
 | 74 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 |
 | 75 | [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 |
 | 76 | [O Love Is Teasin'](https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Tomorrow Is My Turn](https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg) | 4:32 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 94 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 |
 | 95 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/5t8OscU60DLybml2sjwhri) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The System Only Dreams in Total Darkness](https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9) | 3:56 |
 | 96 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 97 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |
-| 98 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 |
-| 99 | [Recite Remorse](https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Out in the Storm](https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli) | 4:38 |
-| 100 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
+| 97 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
+| 98 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |
+| 99 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 |
+| 100 | [Recite Remorse](https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Out in the Storm](https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli) | 4:38 |
 
 Snapshot ID: `ZvI5QAAAAABt7r6n/LpUQT4jPodX/98p`

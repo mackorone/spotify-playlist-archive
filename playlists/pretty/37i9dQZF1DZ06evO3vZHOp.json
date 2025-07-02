@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 364480,
+  "num_followers": 364539,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACK8y/ugi8fABQ0gC5K+Nyh",
+  "snapshot_id": "aGHTgAAAAAAiJyTH2oOWh6Ccq9f4DV9P",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 288282,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "North Carolina",
-      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 182189,
+      "name": "J\u00f3venes Millonarios",
+      "url": "https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chulx",
         "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 183829,
       "name": "Chulx",
       "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 182189,
-      "name": "J\u00f3venes Millonarios",
-      "url": "https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Hugo",
-      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mami (Remix)",
         "url": "https://open.spotify.com/album/1rcCEbehRdue8dqD29gcpc"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 187428,
       "name": "Mami - Remix",
       "url": "https://open.spotify.com/track/73NLmDZYXikhgEZrd2SGcf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
     },
     {
       "added_at": null,

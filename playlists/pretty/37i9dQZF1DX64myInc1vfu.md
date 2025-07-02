@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Daniel, Me Estás Matando
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,885 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,912 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 62 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
 | 63 | [Viejitos](https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Viejitos](https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv) | 3:45 |
 | 64 | [Jaque Mate](https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1) | [Fer Soberón](https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U) | [Jaque Mate](https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ) | 3:06 |
-| 65 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:31 |
+| 65 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
 
 Snapshot ID: `aB192wAAAACKOYXkVg2FfHvfMVAMunW6`

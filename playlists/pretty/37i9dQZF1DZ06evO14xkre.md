@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,498 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,566 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 48 | [Gotta Get Up \- Interlude](https://open.spotify.com/track/7N3c9CKUmRqrt3dDvGWBWG) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 1:53 |
 | 49 | [la luz\(Fín\)](https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:00 |
 
-Snapshot ID: `aGCCAAAAAACzsCjiX9Zm5mO7ymb0G4Kq`
+Snapshot ID: `aGHTgAAAAACa7IqpN1MZUPusQOjMEWTZ`

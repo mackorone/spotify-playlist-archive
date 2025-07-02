@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 13417,
+  "num_followers": 13435,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABbKjegfRoIxoUy2yPf9HW1",
+  "snapshot_id": "aGHTgAAAAAByGp0jNwelR+0cIujYLvv/",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24hrs",
-        "url": "https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
-        }
-      ],
-      "duration_ms": 140727,
-      "name": "24hrs",
-      "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gambiarra Chic, Pt. 2",
         "url": "https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 215040,
       "name": "BAILE NO RXOTA",
       "url": "https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "duration_ms": 140727,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
     },
     {
       "added_at": null,

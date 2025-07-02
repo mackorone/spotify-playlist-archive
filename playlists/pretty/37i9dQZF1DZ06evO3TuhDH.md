@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,454 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,455 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 10 | [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 |
 | 11 | [Flava \(feat\. Coi Leray\)](https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:44 |
 | 12 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
-| 13 | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L) | 3:10 |
-| 14 | [We Time](https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 |
+| 13 | [We Time](https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 |
+| 14 | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L) | 3:10 |
 | 15 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
 | 16 | [Make My Day \(with David Guetta\)](https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
 | 17 | [Impatient \(feat\. Coi Leray\)](https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 |
 | 50 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
 
-Snapshot ID: `aGCCAAAAAACf7cnZ3HRNILXKV1ZpMdIc`
+Snapshot ID: `aGHTgAAAAABZkvyPPKYDjHieJxvuRw2s`

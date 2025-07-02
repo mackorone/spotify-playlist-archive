@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Lily Fitts
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,336 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,338 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

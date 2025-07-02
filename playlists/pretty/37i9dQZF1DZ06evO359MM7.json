@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 435928,
+  "num_followers": 435992,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABna53H5A0nMA8RBF3x612P",
+  "snapshot_id": "aGHTgAAAAACVR3k6Ecs7o1WBkFpghU6e",
   "tracks": [
     {
       "added_at": null,
@@ -423,46 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 194732,
-      "name": "Never Recover (Lil Baby & Gunna, Drake)",
-      "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "Emotionally Scarred",
-      "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -483,6 +443,46 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "Emotionally Scarred",
+      "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194732,
+      "name": "Never Recover (Lil Baby & Gunna, Drake)",
+      "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
     },
     {
       "added_at": null,

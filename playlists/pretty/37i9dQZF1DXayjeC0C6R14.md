@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,556 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,583 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 3 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 4 | [Hoy Flasheaba](https://open.spotify.com/track/0CpwIGTDy6zBNe68QNtdou) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Hoy Flasheaba](https://open.spotify.com/album/2jXPBhLSWnQs5VcJZjp6If) | 3:33 |
 | 5 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
-| 6 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
-| 7 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 |
+| 6 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 |
+| 7 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 8 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
 | 9 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 10 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 20 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 21 | [Arréglame el Alma \(feat\. Maria Barracuda\) \- En Vivo](https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 4:40 |
 | 22 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
-| 23 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
-| 24 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
+| 23 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
+| 24 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
 | 25 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |
 | 26 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 27 | [El Tiempo Que Paso Contigo](https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [El Tiempo Que Paso Contigo](https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A) | 3:10 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 47 | [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 |
 | 48 | [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 |
 | 49 | [Noches de Tu Piel](https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 5:11 |
-| 50 | [culpa \- extraído de LA NUBE EN EL JARDÍN](https://open.spotify.com/track/4S2gcaKuk96VrNMzucuYkO) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [culpa \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/album/5LVsZ9B8eGQ2RHWCV9uvAK) | 4:04 |
+| 50 | [El Oasis](https://open.spotify.com/track/0QnqvWRqa5SGHBw1F8EFgM) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:47 |
 
 Snapshot ID: `aBFI6gAAAABwZPjEG9xJ3nnhUEG+beXA`

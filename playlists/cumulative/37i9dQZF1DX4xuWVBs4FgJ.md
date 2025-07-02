@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-471 songs - 1 day 3 hr 40 min
+472 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 | 2022-07-22 | 2022-07-24 |
 | [Baby Blue](https://open.spotify.com/track/4tkhaf3uFTKtgIhJunlkM5) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Baby Blue](https://open.spotify.com/album/6u9PxN0qHWuiZriAO7sBA9) | 3:39 | 2025-05-27 | 2025-06-07 |
 | [Back In The Water](https://open.spotify.com/track/2pu58Ze8wqgZDq1eQs3P8c) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Back In The Water](https://open.spotify.com/album/4AFg8jti4zlGxS2RGAU4NV) | 3:09 | 2021-06-22 | 2022-05-14 |
+| [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 | 2025-07-01 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-02-17 |  |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-30 | 2023-05-27 |
 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 | 2023-05-26 |  |
@@ -81,7 +82,7 @@
 | [Cool Again \- Stripped](https://open.spotify.com/track/1sCqAU8UKMoRmcT7RdhtuP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again \(Stripped\)](https://open.spotify.com/album/1Nw273rJFagR1MtlqvG8Iy) | 3:03 | 2021-06-22 | 2022-07-29 |
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 | 2023-05-20 |
 | [Crosswords](https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Crosswords](https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp) | 2:33 | 2021-06-22 | 2022-07-29 |
-| [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 | 2024-04-19 |  |
+| [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 | 2024-04-19 | 2025-07-02 |
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-04-19 | 2024-06-29 |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-07-21 | 2024-01-01 |
 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 | 2023-03-17 | 2024-04-19 |

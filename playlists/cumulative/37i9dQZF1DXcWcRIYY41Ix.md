@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
-865 songs - 2 day 3 hr 32 min
+866 songs - 2 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,7 @@
 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 | 2022-08-19 | 2022-09-10 |
 | [Negro o Blanco](https://open.spotify.com/track/6fK7BYwuJyLR7EYSPnSCf7) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Negro o Blanco](https://open.spotify.com/album/2dVfSIQ6V3seCzIbyjxypF) | 2:51 | 2022-07-22 | 2022-08-17 |
 | [Neurean / La Meva Llengua](https://open.spotify.com/track/5QtCgRuKALgORekWnqAv7U) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Neurean / La Meva Llengua](https://open.spotify.com/album/2YBY9WZYL2ruwII9G5xXVj) | 3:20 | 2024-10-25 | 2025-03-14 |
-| [Neve e luz](https://open.spotify.com/track/4rpE0HDsG9fTfa17rxWaGv) | [Lontras](https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X) | [Neve e luz](https://open.spotify.com/album/2g7CZBCBqYEO3PHGBShEv0) | 5:07 | 2025-06-12 |  |
+| [Neve e luz](https://open.spotify.com/track/4rpE0HDsG9fTfa17rxWaGv) | [Lontras](https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X) | [Neve e luz](https://open.spotify.com/album/2g7CZBCBqYEO3PHGBShEv0) | 5:07 | 2025-06-12 | 2025-07-02 |
 | [ni tú ni yo](https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ni tú ni yo](https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB) | 2:55 | 2024-03-08 | 2024-04-20 |
 | [Ni Una Cosa Ni la Otra](https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Ni Una Cosa Ni La Otra](https://open.spotify.com/album/6mRskuWBiKC2L4kHAdsqSX) | 4:31 | 2022-02-25 | 2022-03-13 |
 | [Nieve De Arrayán](https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Nieve De Arrayán](https://open.spotify.com/album/5A8t6J9w1Pykdm5PLundCA) | 3:39 | 2021-12-24 | 2022-07-29 |
@@ -626,6 +626,7 @@
 | [Puquio](https://open.spotify.com/track/7AU74ElllykOv422FjsU1E) | [Triste Domingo](https://open.spotify.com/artist/5wWTQAmSqsyuPXtjNm0oos) | [Puquio](https://open.spotify.com/album/4gLcpquRoWzxLjF0451BD6) | 2:56 | 2022-10-10 | 2023-06-03 |
 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 | 2021-12-24 | 2022-07-15 |
 | [Puto Pillada](https://open.spotify.com/track/7dVhIL98jntUf9qR5WiUa8) | [Sabe](https://open.spotify.com/artist/1B5MSSz9S1b7hWzpiWZ7yY) | [Puto Pillada](https://open.spotify.com/album/3uOKDxkIsC2leRK6qP4P85) | 2:52 | 2023-05-12 | 2023-06-17 |
+| [Pájaros negros](https://open.spotify.com/track/01JCLmwvcZpulwdEkhfJiT) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK), [Diana Erenas](https://open.spotify.com/artist/3wkP4g5mkgCYCSO15IGYfz), [María Muriel](https://open.spotify.com/artist/4IxesVWDjzk9cniuzV8Z49), [Rodrigo Ramírez](https://open.spotify.com/artist/4oGqbLMRZ49v33Zt939wlD) | [Pájaros negros](https://open.spotify.com/album/0I5z8r1nIclUC9diVNNZth) | 3:02 | 2025-06-27 |  |
 | [Pánico \(VMG\)](https://open.spotify.com/track/4kS8Tc0RHoGNS7dCwY3RJo) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Pánico \(VMG\)](https://open.spotify.com/album/5Qc0kB8kggdylHZkU5P2pk) | 2:57 | 2024-07-26 | 2024-10-05 |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2022-08-19 |  |
 | [Que Bonito](https://open.spotify.com/track/3lbaXRttgLyDAQtH9L4Ctl) | [Jorge Lebrón](https://open.spotify.com/artist/1LX6bLRTvP6V8hSVdWXbC7) | [Vida](https://open.spotify.com/album/0PR1QIMk7rQlm8hVPc1spT) | 2:59 | 2024-08-02 | 2024-09-25 |

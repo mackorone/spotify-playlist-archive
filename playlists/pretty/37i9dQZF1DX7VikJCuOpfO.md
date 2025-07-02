@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Pepe Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,045 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,033 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 59 | [Mira Quién Lo Dice](https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:09 |
 | 60 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
 | 61 | [Anestesia](https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Anestesia](https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh) | 2:40 |
-| 62 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
-| 63 | [Bonita](https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Bonita](https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN) | 2:49 |
+| 62 | [Bonita](https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Bonita](https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN) | 2:49 |
+| 63 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
 | 64 | [Hasta Que Me Duermo](https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Hasta Que Me Duermo](https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx) | 3:14 |
 | 65 | [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 |
 | 66 | [Lo Que No Sirve, Estorba](https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Lo Que No Sirve, Estorba](https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,871 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,890 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 27 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
 | 28 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 29 | [Courtesy Call](https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn) | 3:56 |
-| 30 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
-| 31 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 |
-| 32 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 |
+| 30 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 |
+| 31 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
+| 32 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 |
 | 33 | [my ex's best friend \(with blackbear\)](https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:19 |
 | 34 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 35 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 62 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 |
 | 63 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
 | 64 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 |
-| 65 | [Rollercoaster](https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:08 |
-| 66 | [War](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:29 |
+| 65 | [War](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:29 |
+| 66 | [Rollercoaster](https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:08 |
 | 67 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
 | 68 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
 | 69 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 90 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 91 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 |
 | 92 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
-| 93 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
-| 94 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
+| 93 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
+| 94 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
 | 95 | [Runaways](https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:03 |
 | 96 | [Ghost](https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:19 |
 | 97 | [Nearly Forgot My Broken Heart](https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Higher Truth](https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl) | 3:54 |
-| 98 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
-| 99 | [Wheat Kings](https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Fully Completely](https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO) | 4:19 |
-| 100 | [One Foot](https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [What If Nothing](https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg) | 4:21 |
+| 98 | [Wheat Kings](https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Fully Completely](https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO) | 4:19 |
+| 99 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
+| 100 | [Black Summer](https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:52 |
 
 Snapshot ID: `aBPu4AAAAADhPzBbmcWvtSsRg3QNV3t4`

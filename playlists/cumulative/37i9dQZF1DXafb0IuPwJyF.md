@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: BE:FIRST
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: なとり
 
-1,552 songs - 4 day 0 hr 9 min
+1,555 songs - 4 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 | 2022-08-07 | 2022-09-02 |
 | [Night Session](https://open.spotify.com/track/2Ne03AM5kPOFEi5HKjRrmi) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Night Session](https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn) | 2:29 | 2022-07-03 | 2022-07-11 |
 | [NINGEN GOKKO](https://open.spotify.com/track/21ACvBsQXpDd3bZCpOwnL8) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [NINGEN GOKKO](https://open.spotify.com/album/4aaTetFOkMr99jizvjIjw0) | 4:17 | 2022-07-25 | 2022-09-19 |
-| [NO MAP](https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NO MAP](https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa) | 3:55 | 2025-06-17 |  |
+| [NO MAP](https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NO MAP](https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa) | 3:55 | 2025-06-17 | 2025-07-02 |
 | [No Reason](https://open.spotify.com/track/6Dq2fIAmA3rImJBRScwUzm) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Qunimune](https://open.spotify.com/artist/11D2T8IG1udblzEmxwj0js) | [No Reason](https://open.spotify.com/album/0PWlRTLOpGy1IiYvF1dnG2) | 4:18 | 2022-03-21 | 2022-03-28 |
 | [No Stylist](https://open.spotify.com/track/78AtUjKcW08WCXnaGFnXm6) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [BAD HOP HOUSE 2](https://open.spotify.com/album/1TscLgxT4rtfXjZOtGGVNp) | 3:17 | 2022-09-11 | 2022-09-19 |
 | [NO TIME](https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [NO TIME](https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N) | 2:40 | 2022-11-27 | 2022-12-05 |
@@ -904,7 +904,7 @@
 | [あぁ、もう。](https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [あぁ、もう。](https://open.spotify.com/album/23lZ1iicD23SONnNdolPE5) | 4:44 | 2021-12-19 | 2022-01-31 |
 | [あいもかわらず](https://open.spotify.com/track/5LCHehf37b64IBHggD6xQf) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr), [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [あいもかわらず](https://open.spotify.com/album/15nCW8kn6TVp1ZZphcBa0p) | 4:30 | 2022-08-07 | 2022-09-19 |
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-30 | 2023-05-30 |
-| [あなたのことをおしえて](https://open.spotify.com/track/6x4ApXjfn5paE3MLkab65F) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [あなたのことをおしえて](https://open.spotify.com/album/6IMsVn3Ly1cR94CkXctwHp) | 2:29 | 2025-05-06 |  |
+| [あなたのことをおしえて](https://open.spotify.com/track/6x4ApXjfn5paE3MLkab65F) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [あなたのことをおしえて](https://open.spotify.com/album/6IMsVn3Ly1cR94CkXctwHp) | 2:29 | 2025-05-06 | 2025-07-02 |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-02-04 | 2024-03-27 |
 | [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 | 2025-06-24 |  |
 | [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-04-16 | 2024-05-22 |
@@ -955,6 +955,7 @@
 | [つまらない夜](https://open.spotify.com/track/4mAeZfLSMlBB8QLkbRSna7) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [つまらない夜](https://open.spotify.com/album/4rwHmmlqeg8K2JseloLizx) | 3:26 | 2022-01-09 | 2022-01-17 |
 | [どON](https://open.spotify.com/track/6RVVkxX67l3hPtJf3ggO2J) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [どON](https://open.spotify.com/album/0by9AYORdrbUgLMvDKA0T2) | 3:38 | 2025-04-22 | 2025-05-14 |
 | [どれにしようかな](https://open.spotify.com/track/18fNMIIjs0Hu2zozNacmad) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [どれにしようかな](https://open.spotify.com/album/3RDkKW3HQFiCqKABAFcFRP) | 2:40 | 2022-02-06 | 2022-03-04 |
+| [なくしもの](https://open.spotify.com/track/5YweKCUXZGqQwTyoPie2ii) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [なくしもの](https://open.spotify.com/album/4IN8SqczK6kX3oa3S6p86K) | 4:10 | 2025-07-01 |  |
 | [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2021-12-19 | 2022-01-17 |
 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2022-01-16 | 2022-04-18 |
 | [なんとなく。](https://open.spotify.com/track/685E7VfekdXLLM2KB6zpav) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [なんとなく。](https://open.spotify.com/album/6wmxYxhAHvyk8quHsrrgHT) | 4:38 | 2022-09-04 | 2022-09-12 |
@@ -1208,6 +1209,7 @@
 | [不幸中の幸い](https://open.spotify.com/track/3Dnzk4qIp457OtCfrD0S8S) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf) | [不幸中の幸い](https://open.spotify.com/album/59BYR80OfcuZfHvJQnF076) | 4:16 | 2024-05-21 | 2024-07-05 |
 | [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 | 2023-05-21 | 2023-06-05 |
 | [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 | 2023-12-24 | 2024-01-22 |
+| [主人公](https://open.spotify.com/track/16Ja7QMLTkSEAqgt1rOd7H) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [主人公](https://open.spotify.com/album/2vsldPSSsOtahc3HAULWkA) | 4:58 | 2025-07-01 |  |
 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 | 2023-12-10 | 2023-12-18 |
 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 | 2022-11-20 | 2022-11-28 |
 | [二十億光年の恋](https://open.spotify.com/track/62wjXTsTFCNL0Fe2XJ1GtQ) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [二十億光年の恋](https://open.spotify.com/album/3PZ8eYSa5ArDDOxA7W42CC) | 3:23 | 2023-02-05 | 2023-02-27 |
@@ -1423,7 +1425,7 @@
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-10 | 2022-07-25 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-09 | 2023-12-25 |
 | [燦燦](https://open.spotify.com/track/6mZ7dxpueWQiASJpUKnAk0) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [燦燦](https://open.spotify.com/album/4AhCQBmuBv9GMJr02Ljkdr) | 4:24 | 2022-04-17 | 2022-05-16 |
-| [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-25 |  |
+| [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-25 | 2025-07-02 |
 | [片想い](https://open.spotify.com/track/5RSFHD9l5WwdJJVuWkTgtq) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [片想い / 涙の正体](https://open.spotify.com/album/59GwSQ2YeTlVi10iNfj3gt) | 4:25 | 2025-04-01 | 2025-04-30 |
 | [狙うは君のど真ん中](https://open.spotify.com/track/18M01aXh4GEOOwsRr33SCz) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [狙うは君のど真ん中](https://open.spotify.com/album/26rqZJmMhlQRJyrC9J5yTS) | 3:30 | 2022-02-06 | 2022-03-07 |
 | [猫にジェラシー](https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:14 | 2024-09-17 | 2024-11-20 |
@@ -1486,6 +1488,7 @@
 | [舞台に立って](https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [舞台に立って](https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku) | 3:27 | 2024-07-30 | 2024-10-02 |
 | [色彩](https://open.spotify.com/track/1xQkiYu0JiYpTCZ4tGMGit) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [色彩](https://open.spotify.com/album/3Gx2dnYPFPUlfpBlZKkPlt) | 4:11 | 2023-05-21 | 2023-06-05 |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2022-10-03 | 2023-02-06 |
+| [芒に月](https://open.spotify.com/track/2Ydg2XLkYUGXsNvtJmTqj2) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [芒に月](https://open.spotify.com/album/0JBEQWnr0hXmVo69J4de6H) | 6:18 | 2025-07-01 |  |
 | [花](https://open.spotify.com/track/44OxrvlXzAao1iIASR8I5j) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [花](https://open.spotify.com/album/3sho9cirh8faBkktavxD18) | 4:52 | 2022-11-27 | 2022-12-05 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2023-11-05 | 2024-01-29 |
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-04 | 2023-08-28 |

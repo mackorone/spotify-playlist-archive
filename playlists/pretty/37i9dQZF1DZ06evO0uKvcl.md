@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 44 | [Oh Red](https://open.spotify.com/track/3rWhFabcpnpCF9iSWAZqKo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:44 |
 | 45 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
 
-Snapshot ID: `aGCCAAAAAABBdsyPxMHHMojgRXP2L+CX`
+Snapshot ID: `aGHTgAAAAABSNxYeh2bOwtOcZKozgvH3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RbMTl2YnQ8.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 2000.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,871 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,944 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RbMTl2YnQ8.md) - [plain]
 | 47 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 48 | [No Dejes Que](https://open.spotify.com/track/3XluhR9U6ToARwWAl9W1QU) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:58 |
 | 49 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
-| 50 | [Fuera de mí](https://open.spotify.com/track/5XH286garUg3tcciTKR50O) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:58 |
+| 50 | [Lo noto](https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Peligrosamente Juntos](https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d) | 4:19 |
 
 Snapshot ID: `ZmoHpQAAAABgv5Gj4ia71KlPUtZhOJET`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300 likes - 135 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 301 likes - 135 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 63 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
 | 64 | [Out My Mind](https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Out My Mind](https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3) | 3:03 |
 | 65 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
-| 66 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
-| 67 | [Need Somebody](https://open.spotify.com/track/11GpZntix44GCa1ELQREj8) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2R0ef8WJZD7XOIf6QXln98) | 2:52 |
+| 66 | [Need Somebody](https://open.spotify.com/track/11GpZntix44GCa1ELQREj8) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2R0ef8WJZD7XOIf6QXln98) | 2:52 |
+| 67 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 68 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
 | 69 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/2nuQAULY22Sm8s4LsALj84) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:08 |
 | 70 | [Alone With You](https://open.spotify.com/track/6dy7jbH9rsUT3pZ68BBAsp) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/4RW0gk4pBLqsgmJ97vCsS8) | 4:36 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 134 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 135 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `Ab1jdAAAAABO4bVrfx94gwcihz47BVLw`
+Snapshot ID: `Ab1pFAAAAAAuNTlq4Kus247BmYpvREIb`

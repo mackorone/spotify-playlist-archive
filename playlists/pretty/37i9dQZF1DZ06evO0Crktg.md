@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,740 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,979 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 17 | [Get By](https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:40 |
 | 18 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 |
 | 19 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 |
-| 20 | [Only](https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 3:18 |
-| 21 | [All My Life](https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 3:10 |
-| 22 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
-| 23 | [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 |
+| 20 | [All My Life](https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 3:10 |
+| 21 | [Only](https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 3:18 |
+| 22 | [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 |
+| 23 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
 | 24 | [Son Of The Dirty South](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 2:59 |
-| 25 | [Dreams Don’t Die](https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dreams Don’t Die](https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z) | 3:01 |
-| 26 | [Creature](https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:59 |
-| 27 | [Heart of Stone](https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:01 |
+| 25 | [Creature](https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:59 |
+| 26 | [Heart of Stone](https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:01 |
+| 27 | [Dreams Don’t Die](https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dreams Don’t Die](https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z) | 3:01 |
 | 28 | [She](https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:54 |
 | 29 | [Same Asshole](https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 3:26 |
 | 30 | [Smoking Section](https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Therapeutic Music 5](https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Nothing Left At All](https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:23 |
 | 50 | [Really Gone \(with Russ\)](https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:05 |
 
-Snapshot ID: `aGCCAAAAAAB9hXa+tjuf/3YRMH8V5W4L`
+Snapshot ID: `aGHTgAAAAABHRH+YWBHO5CGfeWqzht2M`

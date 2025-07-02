@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,913 likes - 149 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,912 likes - 149 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 91 | [Lucked Up](https://open.spotify.com/track/3GyWtlwu7lVRR50staX9MZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 3:40 |
 | 92 | [Don't Take It Personal](https://open.spotify.com/track/5rwV5yAoPLfIjCZ64jvC2A) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:47 |
 | 93 | [Beautiful Lies](https://open.spotify.com/track/0DAZbOyfbDxz1HPjMxoE7P) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:22 |
-| 94 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 |
-| 95 | [Out Of The Ordinary](https://open.spotify.com/track/4nX7yBASMJgtM0F9OC1zTM) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:07 |
+| 94 | [Out Of The Ordinary](https://open.spotify.com/track/4nX7yBASMJgtM0F9OC1zTM) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:07 |
+| 95 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 |
 | 96 | [Gemini Slander](https://open.spotify.com/track/1dduMILdDnevJDX0I9IAhm) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:21 |
 | 97 | [Whip It Up](https://open.spotify.com/track/3QIxJ9Ef3voU8DdOKDQA4p) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3mF2k0Aa9czJf0WsX5fFUh) | 2:10 |
 | 98 | [Not One Of Them](https://open.spotify.com/track/3yn1NU2GCUkdQ9d3KLvPay) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:08 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 138 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 |
 | 139 | [Someone Else](https://open.spotify.com/track/11rm5jLSON6JmhD7xKMJQg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 3:04 |
 | 140 | [Keep A Place](https://open.spotify.com/track/5RUJl9eXW62FS94oKQZSnF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:16 |
-| 141 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
-| 142 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 |
+| 141 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 |
+| 142 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 | 143 | [Hiatus](https://open.spotify.com/track/0R39oVT0h8jmmLADI7dkdy) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:02 |
 | 144 | [Mind Fucked](https://open.spotify.com/track/6G9hOorRnt0rInSSiW2U1d) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:48 |
 | 145 | [Best Friend](https://open.spotify.com/track/5TS5vMVVmf1mX1LYHNZdit) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE](https://open.spotify.com/album/1CGxJ2HpqjEqmU56coDJyW) | 3:14 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 148 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 149 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `Ab1jfgAAAAA3a1TvIKvPKULaIRrYEx0+`
+Snapshot ID: `Ab1pFAAAAADemN1j16Y2qbgXzOHnv7Jn`

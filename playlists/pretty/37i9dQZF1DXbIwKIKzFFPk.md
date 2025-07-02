@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,040 likes - 108 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,073 likes - 108 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [言葉にせずとも](https://open.spotify.com/track/4NqQsjG9k9tCChdp51jX8V) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [言葉にせずとも](https://open.spotify.com/album/2I6gEniIx6d4bJ2ozNcnpc) | 3:13 |
-| 2 | [MONOCHROME](https://open.spotify.com/track/5gwzzDhUO1H4tIRRJDjnny) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [MONOCHROME](https://open.spotify.com/album/04zfcQnPmaUnxJGNUkVW1o) | 3:01 |
+| 2 | [MONOCHROME](https://open.spotify.com/track/5gwzzDhUO1H4tIRRJDjnny) | [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [MONOCHROME](https://open.spotify.com/album/04zfcQnPmaUnxJGNUkVW1o) | 3:01 |
 | 3 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
 | 4 | [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 |
 | 5 | [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 |

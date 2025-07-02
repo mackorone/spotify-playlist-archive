@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,008 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,138 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 57 | [Baby, I Love Your Way](https://open.spotify.com/track/3bhgNgvkuYUpvT3Aa8nobd) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Acoustic Classics](https://open.spotify.com/album/0mdNFhL4wFRkM1RK0mekqH) | 5:09 |
 | 58 | [Something On Your Mind](https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time](https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW) | 3:23 |
 | 59 | [Pink Moon](https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf) | 2:03 |
-| 60 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
+| 60 | [All Things Must Pass \- Remastered 2014](https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:46 |
 
 Snapshot ID: `ZsijHwAAAAAx/9BREUuzF76icxl+JJHN`

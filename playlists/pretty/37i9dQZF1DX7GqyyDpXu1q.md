@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Mark Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,194 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,205 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 40 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 |
 | 41 | [Til My Heart Don't Beat](https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside \(Deluxe Album Edition\)](https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL) | 1:57 |
 | 42 | [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 |
-| 43 | [A Bad Hand](https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [A Bad Hand](https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd) | 3:40 |
-| 44 | [Nervous](https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Nervous](https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q) | 3:15 |
+| 43 | [Nervous](https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Nervous](https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q) | 3:15 |
+| 44 | [A Bad Hand](https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [A Bad Hand](https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd) | 3:40 |
 | 45 | [Tell Me Why](https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Tell Me Why](https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l) | 3:06 |
 | 46 | [Make It Count](https://open.spotify.com/track/7z0BmvrHgSvLF8JU7iiE77) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Make It Count / Hillbilly Happy](https://open.spotify.com/album/0HRE5NQJm1eC0XX2drnYuw) | 4:00 |
 | 47 | [Pile of Bones](https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Deep in the Trouble](https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me) | 5:25 |
-| 48 | [Break My Heart](https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Break My Heart](https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq) | 4:14 |
-| 49 | [Dig A Hole](https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Dig A Hole](https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb) | 4:12 |
+| 48 | [Dig A Hole](https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Dig A Hole](https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb) | 4:12 |
+| 49 | [Break My Heart](https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Break My Heart](https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq) | 4:14 |
 | 50 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 |
 | 51 | [Interstate Cowboy](https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS) | [The Vegabonds](https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh), [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Interstate Cowboy](https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj) | 3:34 |
 | 52 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |

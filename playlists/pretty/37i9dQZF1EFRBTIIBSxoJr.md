@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 18 | [Fire Away](https://open.spotify.com/track/7JyZzz4rMPMWMsb27vArSN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:26 |
 | 19 | [You And Me](https://open.spotify.com/track/69GWewQgiJozsgSb9dDEgY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:04 |
 | 20 | [All You Need Is Love](https://open.spotify.com/track/0GXZ14NroLUKnR5y8r4Vb0) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/16WbLPydnmtI3gQJ4MHZ9J) | 6:21 |
-| 21 | [San Francisco](https://open.spotify.com/track/5iSkdzgBBtAAkaqULGPZUd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:12 |
-| 22 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 21 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 22 | [San Francisco](https://open.spotify.com/track/5iSkdzgBBtAAkaqULGPZUd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:12 |
 | 23 | [Misbehavin'](https://open.spotify.com/track/6GtFfnl204TH4ztReNW7Hn) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 3:42 |
 | 24 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
 | 25 | [Over It](https://open.spotify.com/track/6RB4Z9DwTWaVgyNg3dR9p9) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Katharine McPhee](https://open.spotify.com/album/5zdIu2gSDAnEH9Gx2tWqXr) | 3:35 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 128 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 129 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Ab1jfgAAAAA32To0+gc6/qS+8lmnPBUK`
+Snapshot ID: `Ab1pHgAAAAA3HzAztq6a7wJkbaWh3n0I`

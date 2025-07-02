@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 251324,
       "name": "Another Way",
       "url": "https://open.spotify.com/track/4aG6rfex37SDyRwBEi9hqM"
@@ -2494,10 +2494,32 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/61GJoJVPyP7YPBIsGd3ZKX"
     },
     {
       "album": {
@@ -2776,7 +2798,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 226826,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y"
@@ -3414,7 +3436,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
@@ -4586,7 +4608,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
@@ -8784,7 +8806,7 @@
       ],
       "date_added": "2020-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
@@ -13770,7 +13792,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 187306,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
@@ -16120,7 +16142,7 @@
       ],
       "date_added": "2019-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
@@ -17130,7 +17152,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 272743,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) \u2013 Live at the Troubadour",
       "url": "https://open.spotify.com/track/5cOTSDfDfjX4NLRZBsGlNd"
@@ -19042,7 +19064,7 @@
       ],
       "date_added": "2020-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
@@ -19392,7 +19414,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
@@ -20326,7 +20348,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/0ioDZn2JL53ictGJMMkETC"
@@ -20614,7 +20636,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 249080,
       "name": "Shot in the Dark",
       "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"
@@ -24392,7 +24414,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 199306,
       "name": "Things You Can't Change",
       "url": "https://open.spotify.com/track/1hdSvBsFEw1I5ZOLOoxf3Y"
@@ -27698,7 +27720,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/5QKNcWzF24qHCvLlwGCr3g"

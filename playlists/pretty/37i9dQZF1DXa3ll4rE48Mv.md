@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,016 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,050 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 26 | [Fem in a Black Leather Jacket](https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT) | [Pansy Division](https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm) | [Undressed](https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF) | 2:04 |
 | 27 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
 | 28 | [Blood](https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS) | [Butch Baby](https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr) | [Stoned Butch Blues](https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn) | 2:47 |
-| 29 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
+| 29 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
 | 30 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
-| 31 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
-| 32 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
+| 31 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
+| 32 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
 | 33 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
 | 34 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
 | 35 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Model Citizen](https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5) | 3:03 |
 | 36 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
 | 37 | [Thick Skin](https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA) | [Limp Wrist](https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc) | [Facades](https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn) | 1:36 |
-| 38 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
-| 39 | [They / Them](https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [They / Them](https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH) | 2:17 |
+| 38 | [They / Them](https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [They / Them](https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH) | 2:17 |
+| 39 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
 | 40 | [SuperNatural Possession](https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh) | 2:04 |
 | 41 | [Y'know](https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE) | [Hoity\-Toity](https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp) | [Not Your Kind](https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh) | 4:34 |
 | 42 | [Sick Sad World](https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [Everything Dies](https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS) | 3:11 |

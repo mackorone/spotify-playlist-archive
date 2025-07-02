@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "I ONE",
+        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174910,
+      "name": "1&Only",
+      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
+    },
+    {
+      "album": {
         "name": "10 Carros",
         "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
       },
@@ -2365,6 +2383,40 @@
     },
     {
       "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388778,
+      "name": "Acariciame, El Gato Y Yo, Acariciame (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/0beZQvJCsdtdBV48YBzYBH"
+    },
+    {
+      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -4132,7 +4184,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
@@ -4274,6 +4326,32 @@
       "duration_ms": 156330,
       "name": "Americana Na Vaquejada",
       "url": "https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB"
+    },
+    {
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168140,
+      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
+      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
     },
     {
       "album": {
@@ -9031,6 +9109,36 @@
     },
     {
       "album": {
+        "name": "Bengicela (feat. Jazzworx)",
+        "url": "https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Jazzworx",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358008,
+      "name": "Bengicela (feat. Jazzworx)",
+      "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
+    },
+    {
+      "album": {
         "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
         "url": "https://open.spotify.com/album/1oZlJEOEkBGW5XxiXKTfdm"
       },
@@ -9722,6 +9830,24 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "album": {
+        "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
+        "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188641,
+      "name": "Billyeoon Goyangi (Do the Dance)",
+      "url": "https://open.spotify.com/track/3pSziKVQ331bLbgHYssZxS"
     },
     {
       "album": {
@@ -14353,6 +14479,28 @@
     },
     {
       "album": {
+        "name": "Chirapunji",
+        "url": "https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ"
+      },
+      "artists": [
+        {
+          "name": "Nihal Sadiq",
+          "url": "https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Chirapunji",
+      "url": "https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -16201,6 +16349,40 @@
     },
     {
       "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
+    },
+    {
+      "album": {
         "name": "CUNTISSIMO",
         "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
       },
@@ -17037,6 +17219,28 @@
     },
     {
       "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116611,
+      "name": "De Color De Rosa",
+      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
+    },
+    {
+      "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
@@ -17088,6 +17292,28 @@
       "duration_ms": 196702,
       "name": "De Gra\u00e7a ou Pagando",
       "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
+    },
+    {
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165014,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/47wy1oZsKUtxGV8YpbvYTS"
     },
     {
       "album": {
@@ -20162,6 +20388,24 @@
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "album": {
+        "name": "Drugs I Like",
+        "url": "https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg"
+      },
+      "artists": [
+        {
+          "name": "nate band",
+          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198774,
+      "name": "Drugs I Like",
+      "url": "https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"
     },
     {
       "album": {
@@ -23336,7 +23580,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -24835,6 +25079,24 @@
     },
     {
       "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
       },
@@ -25100,7 +25362,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 190431,
       "name": "Frecuencia",
       "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
@@ -28500,7 +28762,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 174545,
       "name": "Haseen",
       "url": "https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI"
@@ -35257,6 +35519,24 @@
     },
     {
       "album": {
+        "name": "kahel na langit",
+        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216382,
+      "name": "kahel na langit",
+      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
+    },
+    {
+      "album": {
         "name": "Kaise Ab Kahein (From \"Gutar Gu\")",
         "url": "https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy"
       },
@@ -36176,6 +36456,28 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
     },
     {
       "album": {
@@ -42032,7 +42334,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
@@ -42116,7 +42418,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 208125,
       "name": "Mambinho Brasile\u00f1o",
       "url": "https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8"
@@ -55277,6 +55579,28 @@
     },
     {
       "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135475,
+      "name": "Pobre Secretaria",
+      "url": "https://open.spotify.com/track/0lTAedtZ55pf7wFrcDEPM0"
+    },
+    {
+      "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
       },
@@ -56268,7 +56592,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 208917,
       "name": "Princesa - Ao Vivo",
       "url": "https://open.spotify.com/track/7tz0PRdO9wOCHL5wr8Rne4"
@@ -61228,7 +61552,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 218240,
       "name": "Sebatas Mimpi",
       "url": "https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo"
@@ -62436,7 +62760,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -67180,7 +67504,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 274381,
       "name": "TABOLA BALE",
       "url": "https://open.spotify.com/track/4jIGZPcgg0U8Lemv2Ylg8W"
@@ -68934,7 +69258,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 136153,
       "name": "Teu Preferido",
       "url": "https://open.spotify.com/track/58d1Gf3p4FWKNnGuq00wXT"
@@ -69526,7 +69850,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -69690,7 +70014,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
@@ -71366,7 +71690,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 163930,
       "name": "Touch Me Like a Gangster",
       "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
@@ -72082,7 +72406,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
@@ -74028,7 +74352,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -78385,6 +78709,24 @@
     },
     {
       "album": {
+        "name": "manifestival",
+        "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166425,
+      "name": "Ya\u015fanacaksa",
+      "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
+    },
+    {
+      "album": {
         "name": "Yeah Glo! (Alternate Versions)",
         "url": "https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx"
       },
@@ -78636,6 +78978,32 @@
       "duration_ms": 110471,
       "name": "Yo Bunny",
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
+      "album": {
+        "name": "YO y T\u00da",
+        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198153,
+      "name": "YO y T\u00da",
+      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
     },
     {
       "album": {

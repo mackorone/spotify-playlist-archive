@@ -1,6 +1,6 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 99190,
+  "num_followers": 99185,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Como un Le\u00f3n",
-        "url": "https://open.spotify.com/album/2xkmMiyxa7mp0kjX2OYH9P"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 222573,
-      "name": "P\u00eddeme la Luna",
-      "url": "https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 292573,
       "name": "Me Olvide De Vivir",
       "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Como un Le\u00f3n",
+        "url": "https://open.spotify.com/album/2xkmMiyxa7mp0kjX2OYH9P"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "P\u00eddeme la Luna",
+      "url": "https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp"
+        "name": "El Album",
+        "url": "https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Pastoral",
+          "url": "https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud"
         }
       ],
-      "duration_ms": 209253,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG"
+      "duration_ms": 220533,
+      "name": "En El Hospicio",
+      "url": "https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB"
     }
   ],
   "unique_name": "Los 70 Argentina",

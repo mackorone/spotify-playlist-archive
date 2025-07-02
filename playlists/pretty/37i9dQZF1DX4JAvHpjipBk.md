@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lorde, Alex Warren & ROSÉ, Don Toliver, Teddy Swims, Jessie Murph, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,399,017 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,398,644 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

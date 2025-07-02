@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Ed Sheeran au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,366,501 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,366,584 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 21 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
 | 22 | [APPELLE TA COPINE](https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [APPELLE TA COPINE](https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq) | 3:00 |
 | 23 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
-| 24 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
+| 24 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
 | 25 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 26 | [Balade](https://open.spotify.com/track/3PAkE2potAfVGgTocmrF89) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Balade](https://open.spotify.com/album/3nw79WxspBWa9V7r3KiFBT) | 3:13 |
 | 27 | [Tamo Bien](https://open.spotify.com/track/72RjC359lcwhf1cON9ppls) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Tamo Bien](https://open.spotify.com/album/2K3vXTZjcuWR8H8LgvJ8Yk) | 3:06 |

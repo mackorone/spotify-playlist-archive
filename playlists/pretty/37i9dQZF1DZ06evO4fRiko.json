@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 939588,
+  "num_followers": 939843,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAAY/z9IWnYKvnO9f//pPSKo",
+  "snapshot_id": "aGHTgAAAAACWRB4N7y+mIKa5iv1Q7mqq",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freaky Friday (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 216631,
+      "name": "Freaky Friday (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freaky Friday (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
-      },
-      "artists": [
-        {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 216631,
-      "name": "Freaky Friday (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
     },
     {
       "added_at": null,
@@ -754,19 +754,11 @@
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
-      "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
+      "duration_ms": 241666,
+      "name": "Yeah 3x",
+      "url": "https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs"
     },
     {
       "added_at": null,
@@ -807,6 +799,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Gimme That",
+      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
+      "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 153802,
       "name": "Titanium (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5xZ4y9EgfmpogFKf1607lP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "Yeah 3x",
-      "url": "https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Gimme That",
-      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "One Call Away (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 179410,
       "name": "Whatchamacallit (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "One Call Away (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
     }
   ],
   "unique_name": "This Is Chris Brown",

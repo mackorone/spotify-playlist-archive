@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Celebrating the power of amazing female pop artists\.  Cover: JADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,588,355 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,588,163 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 29 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a thousand years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 30 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 |
 | 31 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
-| 32 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
+| 32 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 |
 | 33 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 |
-| 34 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 |
+| 34 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
 | 35 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 36 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
-| 37 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
-| 38 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
-| 39 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
-| 40 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
-| 41 | [Die Young](https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:31 |
+| 37 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
+| 38 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
+| 39 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
+| 40 | [Die Young](https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:31 |
+| 41 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
 | 42 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 43 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 44 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |

@@ -2279,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "album": {
         "name": "De Her Timer",
         "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
       },
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061 likes - 174 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062 likes - 174 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 102 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 |
 | 103 | [Lo Que Dios Quiera](https://open.spotify.com/track/58EEYVahoZAK7crGM6qAwA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:14 |
 | 104 | [Sin Ti](https://open.spotify.com/track/3PYvLYdjqxpyDLtsNNvWBY) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 3:31 |
-| 105 | [Crazy](https://open.spotify.com/track/1GBUwfPIMLV5PMuM4TmYIi) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 4:03 |
-| 106 | [Tus Labios \- Remix](https://open.spotify.com/track/6beUeiXO8rabGQ6Qv9vWsD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:15 |
+| 105 | [Tus Labios \- Remix](https://open.spotify.com/track/6beUeiXO8rabGQ6Qv9vWsD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:15 |
+| 106 | [Crazy](https://open.spotify.com/track/1GBUwfPIMLV5PMuM4TmYIi) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 4:03 |
 | 107 | [Tu y yo](https://open.spotify.com/track/2YHR2QhK6nWta7rbY1on6i) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chris Marshall](https://open.spotify.com/artist/1Jt3lGxY5pqiWrh3cyIgwy) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:26 |
 | 108 | [Mi Ex](https://open.spotify.com/track/6oSmQTvt30dgjTwd3VAXYK) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:03 |
 | 109 | [VÁMONOS](https://open.spotify.com/track/56oworO3N4afW1jVPA6TCR) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:31 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 173 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 174 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `Ab1jpgAAAABDLCO5dSTv/uXVR9OX4WwS`
+Snapshot ID: `Ab1pKAAAAAC0kVNPIFRygNt5nzs75uid`

@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-239 songs - 14 hr 28 min
+240 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Entrégame](https://open.spotify.com/track/5N1tERrYir6sDMi0WrbeUZ) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [De Amor y Cumbia](https://open.spotify.com/album/7oABLSw6ZW6kgMzmcScMw1) | 3:36 | 2024-02-27 | 2024-04-19 |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2024-07-02 |  |
 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 | 2024-02-27 |  |
+| [Fisurados](https://open.spotify.com/track/1zo0BuW2CMZZU4b6mA76nm) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Las manos de Filippi](https://open.spotify.com/artist/53Ik4pv6iE2gZ7Xc4BKlFJ) | [Mambo Mundial](https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl) | 3:29 | 2025-01-17 |  |
 | [Fisurados](https://open.spotify.com/track/78m83XOB71V7mj22RtkYBg) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Las manos de Filippi](https://open.spotify.com/artist/53Ik4pv6iE2gZ7Xc4BKlFJ) | [Mambo Mundial](https://open.spotify.com/album/1dmLT9jo9pc5f2nJvCDPhY) | 3:29 | 2023-08-25 | 2024-02-28 |
 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 | 2023-08-25 | 2024-02-28 |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-08-25 |  |
@@ -179,7 +180,7 @@
 | [Que Calor](https://open.spotify.com/track/5okavJ731DnmenoazNvinG) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 4:04 | 2023-08-25 | 2024-04-19 |
 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 | 2024-03-29 |  |
 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 | 2023-08-25 |  |
-| [Que Te Vaya Bien](https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Que Te Vaya Bien](https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB) | 2:55 | 2024-02-27 |  |
+| [Que Te Vaya Bien](https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Que Te Vaya Bien](https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB) | 2:55 | 2024-02-27 | 2025-07-02 |
 | [Quedate Aqui](https://open.spotify.com/track/5gYkBYHI5KIMxnjSOD8Q9V) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Lo Mejor de la Cumbia](https://open.spotify.com/album/5g6oiGzKxWPCOG41QwzBMz) | 3:45 | 2023-08-25 | 2024-02-28 |
 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 | 2024-03-29 |  |
 | [Quiero Ver](https://open.spotify.com/track/5XA6U26IhjkBpAva0gJ5nD) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Quiero Ver](https://open.spotify.com/album/1INRNIwTTBtYGavLzXaRSN) | 3:13 | 2023-08-25 | 2024-02-28 |

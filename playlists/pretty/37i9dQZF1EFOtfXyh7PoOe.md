@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832 likes - 128 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 128 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 65 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 |
 | 66 | [Love Shot \- Chinese Version](https://open.spotify.com/track/7K45R30uQUtN22SgOjVLK2) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
 | 67 | [Pray for Rain](https://open.spotify.com/track/1T6yWVW5ftl0NQqJHgFQSP) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Pray For Rain](https://open.spotify.com/album/6ZoTp37vsTqhkbfwq5vIao) | 3:31 |
-| 68 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 |
-| 69 | [Mars](https://open.spotify.com/track/1B8TSjAMHXYvyVCfYQ3IAT) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 5:00 |
+| 68 | [Mars](https://open.spotify.com/track/1B8TSjAMHXYvyVCfYQ3IAT) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 5:00 |
+| 69 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 |
 | 70 | [Both Of Us](https://open.spotify.com/track/2Mtj4On4ARe1gnJER2g57a) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:46 |
 | 71 | [coloured concrete](https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 3:10 |
 | 72 | [Deep Sea Diving](https://open.spotify.com/track/3hE7LW2R8O6X7KTbjBDAPz) | [aboutagirl](https://open.spotify.com/artist/1Rm8cDAHAL2mo9H7sUxohj), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Deep Sea Diving](https://open.spotify.com/album/2lRXr9TZZxfzU7tZQtaDmm) | 3:19 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 127 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 128 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Ab1jfgAAAAB3ro80NQiD/SpZH+M8Kpu0`
+Snapshot ID: `Ab1pHgAAAACkaACiOUEFbNQ8QDCD1yyj`

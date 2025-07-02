@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 152238,
       "name": "A Common Place",
       "url": "https://open.spotify.com/track/5rI6Tm9eFhFiIqHNGehVv5"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 174091,
       "name": "A Real Show",
       "url": "https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 177231,
       "name": "Accidently On Purpose",
       "url": "https://open.spotify.com/track/6Iph7VLWk26M9A1URCSSur"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 235050,
       "name": "All I See In You",
       "url": "https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 291200,
       "name": "All Of The Little Things I Know",
       "url": "https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 189134,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 221392,
       "name": "Countless Times",
       "url": "https://open.spotify.com/track/2AfCR0990ZfJaR126CuRg0"
@@ -3691,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Echoes of a Lonely Love",
+        "url": "https://open.spotify.com/album/6LwTy6FXobxNAQsWSgcfPa"
+      },
+      "artists": [
+        {
+          "name": "The Low Light Trio",
+          "url": "https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172402,
+      "name": "Echoes of a Lonely Love",
+      "url": "https://open.spotify.com/track/1hg3JYrnrScJRWDAhzlAvn"
+    },
+    {
+      "album": {
         "name": "Echoes of Elegance",
         "url": "https://open.spotify.com/album/0S1X3z1LbNOqeRNzRjKDHn"
       },
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 178822,
       "name": "Emerald Dreamscape",
       "url": "https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c"
@@ -3864,7 +3882,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 245788,
       "name": "Enigmatic Echoes",
       "url": "https://open.spotify.com/track/4VQpucRkBAU0sU5XMD28uq"
@@ -4854,7 +4872,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 191842,
       "name": "Giving thrills",
       "url": "https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B"
@@ -5232,7 +5250,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 161860,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF"
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 275959,
       "name": "Hometown Again",
       "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
@@ -7058,7 +7076,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 173000,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/0ubtLy1QIbY5rxNxGveZbo"
@@ -7436,7 +7454,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 228738,
       "name": "Just Ourselves",
       "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
@@ -7616,7 +7634,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 181389,
       "name": "Landing",
       "url": "https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re"
@@ -8866,7 +8884,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 206097,
       "name": "Maybe We Should Dance",
       "url": "https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk"
@@ -9084,6 +9102,24 @@
       "duration_ms": 213037,
       "name": "Memories Of Her Music",
       "url": "https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw"
+    },
+    {
+      "album": {
+        "name": "Memories of Old",
+        "url": "https://open.spotify.com/album/1Vu3jZXLUu3amLJyxIH71P"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Memories of Old",
+      "url": "https://open.spotify.com/track/5aBvwMKUJXUd3qF2eJ83Um"
     },
     {
       "album": {
@@ -10798,7 +10834,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 194794,
       "name": "Once Knowing",
       "url": "https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9"
@@ -10942,7 +10978,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 169612,
       "name": "Out of Wilma",
       "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
@@ -11090,7 +11126,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 190168,
       "name": "Perception Through A Crystal Orb",
       "url": "https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK"
@@ -11234,7 +11270,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 171458,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/39g0c8gVtrjk88LkwTvaek"
@@ -11432,7 +11468,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 174478,
       "name": "Raya's Riddle",
       "url": "https://open.spotify.com/track/55LO5vprHq4ieXwJggLizI"
@@ -12991,6 +13027,24 @@
     },
     {
       "album": {
+        "name": "Still Not Found",
+        "url": "https://open.spotify.com/album/1KskVMt5yjecImxWaMp5Tx"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Still Not Found",
+      "url": "https://open.spotify.com/track/4HWUGeT2caYlO3busEJole"
+    },
+    {
+      "album": {
         "name": "Stillness",
         "url": "https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760"
       },
@@ -13870,7 +13924,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 229767,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP"
@@ -14428,7 +14482,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 155091,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh"
@@ -15112,7 +15166,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 152099,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c"
@@ -16236,6 +16290,24 @@
       "duration_ms": 170526,
       "name": "Younger",
       "url": "https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k"
+    },
+    {
+      "album": {
+        "name": "Your Mood Is Mine",
+        "url": "https://open.spotify.com/album/6QhIEP8VGCVgrkRv545vKv"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Your Mood Is Mine",
+      "url": "https://open.spotify.com/track/3TDYIldT9SoC3wDqwWtVCJ"
     },
     {
       "album": {

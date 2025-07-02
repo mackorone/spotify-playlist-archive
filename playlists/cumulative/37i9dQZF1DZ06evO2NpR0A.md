@@ -4,7 +4,7 @@
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 36 min
+89 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 | 2022-09-16 |  |
 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-13 |  |
 | [I'll Be There](https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 2:54 | 2025-04-13 | 2025-04-18 |
+| [If Only I Could Wait](https://open.spotify.com/track/06o2hgwnRJN0HYelhyVsLm) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:22 | 2025-07-02 |  |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-16 | 2025-04-27 |
 | [iMi](https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:16 | 2022-09-16 | 2025-04-13 |
 | [Jeanie](https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:47 | 2022-12-08 | 2023-12-30 |
@@ -77,7 +78,7 @@
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-22 | 2024-12-15 |
 | [Salem](https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:44 | 2022-09-16 |  |
 | [Second Nature](https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:02 | 2022-09-16 | 2025-04-13 |
-| [Short Story](https://open.spotify.com/track/5gkXT32DgfW10RPN8cJoMX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 1:56 | 2025-04-13 |  |
+| [Short Story](https://open.spotify.com/track/5gkXT32DgfW10RPN8cJoMX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 1:56 | 2025-04-13 | 2025-07-02 |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-09-16 |  |
 | [So Unimportant](https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [So Unimportant](https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq) | 4:23 | 2022-09-16 | 2024-09-23 |
 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:22 | 2022-09-16 | 2022-10-13 |

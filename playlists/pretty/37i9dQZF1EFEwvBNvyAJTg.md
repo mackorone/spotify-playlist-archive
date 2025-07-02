@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 181 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 181 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,9 +140,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 130 | [Play Me](https://open.spotify.com/track/0yLB4F9cLHcNYi9GHOcmfc) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 3:36 |
 | 131 | [GO MODE](https://open.spotify.com/track/2D0MoJ4EdhuV9PjP7M3Rkc) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:36 |
 | 132 | [weight loss](https://open.spotify.com/track/1TFL6Kznz4FcgWu7IBRlAZ) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [weight loss](https://open.spotify.com/album/2qpv78ZSrf42RsK83c2pYv) | 3:19 |
-| 133 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 |
-| 134 | [Get Down Tonight](https://open.spotify.com/track/0QUsVX8ReFz1bzaTtHPrn6) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Red Book](https://open.spotify.com/album/5O4yFdCpn4RM4IyBmkiWyA) | 3:45 |
-| 135 | [Manifesting](https://open.spotify.com/track/1iEKheX3sTJa6VHwqk7dK3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:57 |
+| 133 | [Manifesting](https://open.spotify.com/track/1iEKheX3sTJa6VHwqk7dK3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:57 |
+| 134 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 |
+| 135 | [Get Down Tonight](https://open.spotify.com/track/0QUsVX8ReFz1bzaTtHPrn6) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Red Book](https://open.spotify.com/album/5O4yFdCpn4RM4IyBmkiWyA) | 3:45 |
 | 136 | [Bad Weather](https://open.spotify.com/track/1omdnnoAS6afJM6FK1uFsP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Red Book](https://open.spotify.com/album/5O4yFdCpn4RM4IyBmkiWyA) | 3:59 |
 | 137 | [Confession](https://open.spotify.com/track/4FEgmZNndauGaHjSM4AGiH) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:21 |
 | 138 | [Deep](https://open.spotify.com/track/0HEcwBPQfxpHMtXR4qO55K) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx) | [Deep](https://open.spotify.com/album/6qIAIFQ4soNtbIzw8bLlWc) | 3:26 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 180 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 181 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab1jfgAAAADqbGZolj23w5so+hD59fC6`
+Snapshot ID: `Ab1pHgAAAACW+mbbpTZIMEb0Jp6n3/33`

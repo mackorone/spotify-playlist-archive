@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Doechii at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,591 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,673 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 36 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 37 | [One of My Bedbugs Ate My Pussy](https://open.spotify.com/track/5nk6lGgzXObbIl9PmHOQGb) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [One of My Bedbugs Ate My Pussy](https://open.spotify.com/album/1q7rmLsftastmCekfQ1q95) | 2:52 |
 | 38 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
-| 39 | [BIG](https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:45 |
-| 40 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |
+| 39 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |
+| 40 | [BIG](https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:45 |
 | 41 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 42 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
 | 43 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |

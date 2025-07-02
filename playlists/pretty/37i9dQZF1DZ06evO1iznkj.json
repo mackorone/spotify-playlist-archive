@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 175922,
+  "num_followers": 176001,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAC7AjHxIf/wE/LzYahSeMgF",
+  "snapshot_id": "aGHTgAAAAABiweG8dv5T4T3pytPyAa3L",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "back to the moon",
+      "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One of Wun",
         "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 165346,
       "name": "prada dem (feat. Offset)",
       "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "back to the moon",
-      "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classy Girl",
-        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
       },
       "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
-        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 173800,
-      "name": "Classy Girl",
-      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classy Girl",
+        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Classy Girl",
+      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
     },
     {
       "added_at": null,

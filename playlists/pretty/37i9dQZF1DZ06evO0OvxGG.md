@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,786 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,788 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,6 +52,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 42 | [Pra Você Ficar a Vontade](https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn) | [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Pra Você Ficar a Vontade](https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c) | 3:27 |
 | 43 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
 | 44 | [Preso na Minha BCT](https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [HG RealTrem](https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:48 |
-| 45 | [Sucessagem](https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Sucessagem](https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt) | 2:33 |
 
-Snapshot ID: `aGCCAAAAAABfnA1OJ7hZX0YJ+EBIRCgo`
+Snapshot ID: `aGHTgAAAAAAjioaYBGx/HaKF44gO/36Q`

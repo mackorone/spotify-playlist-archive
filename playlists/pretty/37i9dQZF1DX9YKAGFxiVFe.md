@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 
 > temas que repetirías más que a tu ex\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,308 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,321 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 | 25 | [RÁPIDO](https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [RÁPIDO](https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe) | 3:02 |
 | 26 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:17 |
 | 27 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 |
-| 28 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
-| 29 | [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 |
+| 28 | [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 |
+| 29 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 30 | [Tubarão Te Amo](https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [Mc RF](https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ) | [Tubarão Te Amo](https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E) | 2:29 |
 | 31 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 |
 | 32 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7f57bgAVIYPXI6ykF3BSqa) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |

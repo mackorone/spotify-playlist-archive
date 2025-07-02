@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,425,419 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,425,420 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 26 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 |
 | 27 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 28 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
-| 29 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
+| 29 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
 | 30 | [She Hates Me](https://open.spotify.com/track/1WC0EjP2RnxCeKAQ1STsSM) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [She Hates Me](https://open.spotify.com/album/08SPNNSczUGCea325dQcEY) | 2:50 |
 | 31 | [Hands Of Time](https://open.spotify.com/track/2XZobkFLKJKBaH9yKpAB2B) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hands Of Time](https://open.spotify.com/album/6YPblznaikFmGivA9dOUac) | 3:32 |
 | 32 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 34 | [Favorite Country Song](https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0) | 3:13 |
 | 35 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
 | 36 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
-| 37 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 37 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
 | 38 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
 | 39 | [Wilder Days](https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD) | 4:11 |
 | 40 | [Fix What You Didn't Break](https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Fix What You Didn't Break](https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr) | 3:21 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 47 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
 | 48 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 |
 | 49 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
-| 50 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
-| 51 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
+| 50 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
+| 51 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 52 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 |
 | 53 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:47 |
 | 54 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |

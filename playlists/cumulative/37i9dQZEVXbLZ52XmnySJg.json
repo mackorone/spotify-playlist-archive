@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 168125,
       "name": "Courtside",
       "url": "https://open.spotify.com/track/5wqMM6wOwXmX4rc1C3lUkd"
@@ -5538,7 +5538,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -15654,7 +15654,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 240264,
       "name": "Muththa Mazhai (Reprise)",
       "url": "https://open.spotify.com/track/79Zgog0pY7Xy7NAp7THVrk"
@@ -18446,6 +18446,14 @@
         {
           "name": "Masoom Sharma",
           "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Sweta Chauhan",
+          "url": "https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa"
+        },
+        {
+          "name": "Yash Thukral",
+          "url": "https://open.spotify.com/artist/0Cj3wCMwyxvbP4nQobAj6R"
         }
       ],
       "date_added": "2025-06-24",
@@ -25264,7 +25272,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
@@ -25772,7 +25780,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 196138,
       "name": "Zamaana Lage",
       "url": "https://open.spotify.com/track/2HHmJ0oUtxDLXhn7uEDxYW"
@@ -25828,7 +25836,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 303680,
       "name": "Zara Sa",
       "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"

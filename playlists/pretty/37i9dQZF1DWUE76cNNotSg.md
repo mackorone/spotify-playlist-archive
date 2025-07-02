@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,075 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,698 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 84 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
 | 85 | [Crocodile](https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:45 |
 | 86 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
-| 87 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
-| 88 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 |
+| 87 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 |
+| 88 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 89 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
 | 90 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 91 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 |

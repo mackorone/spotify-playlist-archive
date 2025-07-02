@@ -4,7 +4,7 @@
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-102 songs - 4 hr 31 min
+103 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Lady\-in\-Waiting](https://open.spotify.com/track/397CXh8XspgebBYvAqjHPY) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:08 | 2024-03-25 | 2024-04-19 |
 | [Let Me Die](https://open.spotify.com/track/1WWxeeE5rHtQyeNWWSCqYG) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:47 | 2024-03-25 | 2024-04-19 |
 | [Let Me Die](https://open.spotify.com/track/5Z2kMA6ZPFGkTQZRgUyTOL) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:47 | 2024-03-24 |  |
+| [Light of Life \- from "The Apothecary Diaries Season 2"](https://open.spotify.com/track/3d70bPPjdERf8PYeU4uyAp) | [Rimu Miyake](https://open.spotify.com/artist/0le0ILp1SY8424CZCt3xOW) | [Light of Life \(from "The Apothecary Diaries Season 2"\)](https://open.spotify.com/album/7bX5VGXDpjrEYifITzsKMh) | 2:43 | 2025-07-01 |  |
 | [Lihaku's Wish](https://open.spotify.com/track/32tt1hls3CHaafuWExsGwc) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:36 | 2024-03-25 | 2024-04-19 |
 | [Like a Dream](https://open.spotify.com/track/3lXw6OE0nTVZw43xPPaemC) | [CHICA.](https://open.spotify.com/artist/3Q7w79FFfjsVrEFbmQuQOY), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:25 | 2024-03-25 | 2024-04-19 |
 | [Little Cuckoo](https://open.spotify.com/track/4SrequYoeVWq2o3FTdGSYs) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 1:20 | 2024-03-25 | 2024-04-19 |

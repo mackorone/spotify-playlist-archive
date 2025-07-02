@@ -7126,7 +7126,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 174533,
       "name": "Dash",
       "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
@@ -13284,7 +13284,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -18126,7 +18126,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 244500,
       "name": "London Boy",
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
@@ -23094,7 +23094,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 232227,
       "name": "Paint On Spring - Remastering",
       "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
@@ -29949,6 +29949,24 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    },
+    {
+      "album": {
         "name": "Talk Saxy",
         "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
       },
@@ -35052,7 +35070,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 204133,
       "name": "\u304b\u304f\u308c\u3093\u307c (Hide and Seek)",
       "url": "https://open.spotify.com/track/5N5lZWepzoIlr7mFMEacKd"

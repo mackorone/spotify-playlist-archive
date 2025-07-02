@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 123203,
+  "num_followers": 123211,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-20 03:00:20",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
-    },
-    {
-      "added_at": "2025-06-20 03:00:20",
-      "album": {
         "name": "Correntada (Vivo en Buenos Aires)",
         "url": "https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 242407,
       "name": "Esquina de la Sombra - Vivo en Buenos Aires",
       "url": "https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck"
+    },
+    {
+      "added_at": "2025-06-20 03:00:20",
+      "album": {
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2025-06-20 03:00:20",
@@ -919,22 +919,18 @@
     {
       "added_at": "2025-06-20 03:00:20",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "EMI",
-          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 285053,
-      "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+      "duration_ms": 247613,
+      "name": "La Rueda M\u00e1gica - En Vivo",
+      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
       "added_at": "2025-06-20 03:00:20",
@@ -971,18 +967,22 @@
     {
       "added_at": "2025-06-20 03:00:20",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
         }
       ],
-      "duration_ms": 247613,
-      "name": "La Rueda M\u00e1gica - En Vivo",
-      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+      "duration_ms": 285053,
+      "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
     },
     {
       "added_at": "2025-06-20 03:00:20",

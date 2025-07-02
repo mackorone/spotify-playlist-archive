@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,288 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,318 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
 | 50 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \(En Vivo\)](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 |
 
-Snapshot ID: `aGCCAAAAAAB4yvZQQawtBM6dNEqGMphx`
+Snapshot ID: `aGHTgAAAAAA0kzVfClV3bvyawSHNnEMk`

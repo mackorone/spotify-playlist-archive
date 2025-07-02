@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,750 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,738 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 30 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 31 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 | 32 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
-| 33 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
-| 34 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 |
+| 33 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 |
+| 34 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
 | 35 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 36 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 |
 | 37 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 107 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 | 108 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
 | 109 | [Chemicals \- Acoustic](https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:54 |
-| 110 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
-| 111 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 110 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 111 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 | 112 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
 | 113 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 |
 | 114 | [Anaheim](https://open.spotify.com/track/0JhILyKbyQnhAo6FHSSIRA) | [Nicole Zefanya](https://open.spotify.com/artist/6Un2wMkT5JajGnF1hBLacG) | [Anaheim](https://open.spotify.com/album/0p6vQipvqvb85ghNzo7Mdp) | 4:18 |

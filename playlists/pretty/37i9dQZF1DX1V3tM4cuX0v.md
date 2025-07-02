@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: Шугар
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,326 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,403 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

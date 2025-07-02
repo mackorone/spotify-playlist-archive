@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 685671,
+  "num_followers": 685802,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAD7EZrjOf8s3ehz+D7GCGgk",
+  "snapshot_id": "aGHTgAAAAABiMpKYkSVPSuaroeW9zAza",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blessings and Miracles",
+        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 226853,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLOW (with Chris Stapleton & Bruno Mars)",
         "url": "https://open.spotify.com/album/4uoEruXjt0APvHaSqrwqPH"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 209120,
       "name": "BLOW (with Chris Stapleton & Bruno Mars)",
       "url": "https://open.spotify.com/track/6EbduYTr62sSzvl36wWiFM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessings and Miracles",
-        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 226853,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
     },
     {
       "added_at": null,

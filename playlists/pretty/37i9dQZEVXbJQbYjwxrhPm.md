@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 50 | [S men da varvish](https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Da ti bada korona](https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM) | 4:12 |
 
-Snapshot ID: `L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu`

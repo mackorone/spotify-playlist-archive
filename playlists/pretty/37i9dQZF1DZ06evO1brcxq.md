@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,922 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,083 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 4 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 |
 | 5 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
 | 6 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 |
-| 7 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
+| 7 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 8 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 |
 | 9 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 10 | [Talk talk featuring troye sivan](https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:53 |
-| 11 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 11 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
 | 12 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 13 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
 | 14 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 22 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |
 | 23 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 24 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 |
-| 25 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 |
-| 26 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 25 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 26 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 |
 | 27 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 |
 | 28 | [Good Ones](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:16 |
 | 29 | [Dream Glow \(BTS World Original Soundtrack\) \(Pt\. 1\)](https://open.spotify.com/track/0GjWvVr7TZzceNwdSDRuXy) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Dream Glow \(BTS World Original Soundtrack\) \(Pt\. 1\)](https://open.spotify.com/album/1CnfThuhzI0hf4b6CJd5rq) | 3:07 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 47 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 | 48 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
 
-Snapshot ID: `aGCCAAAAAAAnBaKp7NDgiHN4gnhRlpOH`
+Snapshot ID: `aGHTgAAAAABKFzqK4mt4GByzeFv2YkNq`

@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 436005,
+  "num_followers": 436024,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABOKiSApQvHCiwzj6m1F5Ns",
+  "snapshot_id": "aGHTgAAAAADLVYGN3mkmjsEttcDgWOG2",
   "tracks": [
     {
       "added_at": null,
@@ -899,34 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco (feat. Migos) [Remix]",
-        "url": "https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q"
-      },
-      "artists": [
-        {
-          "name": "Mr. Capone-E",
-          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Clumsybeatz",
-          "url": "https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy"
-        }
-      ],
-      "duration_ms": 157648,
-      "name": "Loco (feat. Migos) - Remix",
-      "url": "https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ransom 2",
         "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
       },
@@ -967,6 +939,34 @@
       "duration_ms": 184276,
       "name": "Is You Ready - From \"Mile 22\"",
       "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco (feat. Migos) [Remix]",
+        "url": "https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q"
+      },
+      "artists": [
+        {
+          "name": "Mr. Capone-E",
+          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Clumsybeatz",
+          "url": "https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy"
+        }
+      ],
+      "duration_ms": 157648,
+      "name": "Loco (feat. Migos) - Remix",
+      "url": "https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M"
     },
     {
       "added_at": null,

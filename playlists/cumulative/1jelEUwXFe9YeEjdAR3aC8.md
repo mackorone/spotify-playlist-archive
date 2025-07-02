@@ -4,7 +4,7 @@
 
 > Listen here for the best emerging British Acts across pop, alternative and more
 
-820 songs - 1 day 21 hr 39 min
+821 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2022-06-10 | 2023-02-23 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-22 | 2023-06-13 |
 | [superglue \(stripped\)](https://open.spotify.com/track/1JkFZhU00Ztdv1c4GvzrP2) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [superglue \(stripped\)](https://open.spotify.com/album/3EapjVxmTtUMa0afVw8nUi) | 3:51 | 2023-07-16 | 2023-07-25 |
+| [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-07-01 |  |
 | [Survive My Own Mind](https://open.spotify.com/track/6GiI6EnuQ5V7pJ5WxOJ6z4) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:13 | 2022-10-24 | 2023-01-24 |
 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-06-10 |  |
 | [Sweet Symphony \(feat\. Chris Stapleton\) \- Living Proof Version](https://open.spotify.com/track/1KNre6pPRHOLQyjiBLgGmX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony \(Living Proof Version\)](https://open.spotify.com/album/6Hn7kX63d5uEm7mn0ZSCGH) | 3:45 | 2023-10-02 | 2023-10-31 |

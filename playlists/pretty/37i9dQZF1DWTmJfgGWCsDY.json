@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mzee wa Bwax",
-  "num_followers": 6178,
+  "num_followers": 6184,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Toilet",
-        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
-      },
-      "artists": [
-        {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
-        }
-      ],
-      "duration_ms": 228806,
-      "name": "Toilet",
-      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
         "name": "BELIEVE",
         "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 101009,
       "name": "BELIEVE",
       "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
+      },
+      "artists": [
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        }
+      ],
+      "duration_ms": 228806,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -743,22 +743,22 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Kama Ujui Utajua",
-        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
+        "name": "Maturity EP",
+        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
       "artists": [
         {
-          "name": "Platform",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
         },
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 239046,
-      "name": "Kama Ujui Utajua",
-      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
+      "duration_ms": 270460,
+      "name": "Hatujui",
+      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -815,22 +815,22 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Maturity EP",
-        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
+        "name": "Kama Ujui Utajua",
+        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
       },
       "artists": [
         {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
         },
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 270460,
-      "name": "Hatujui",
-      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+      "duration_ms": 239046,
+      "name": "Kama Ujui Utajua",
+      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -939,18 +939,22 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+        "name": "Jiangalie",
+        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+      "duration_ms": 229944,
+      "name": "Jiangalie",
+      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -967,6 +971,22 @@
       "duration_ms": 323972,
       "name": "Boss Kalewa",
       "url": "https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+        }
+      ],
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -991,38 +1011,18 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Jiangalie",
-        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
       },
       "artists": [
         {
-          "name": "Nay Wa Mitego",
-          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 229944,
-      "name": "Jiangalie",
-      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Kijumbe",
-        "url": "https://open.spotify.com/album/6NeSkmP1ZnyKfREKffX2GG"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 202997,
-      "name": "Kijumbe",
-      "url": "https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq"
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Kizimkazi",
-        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Kizimkazi",
-      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
         "name": "UTAMUWA BAKHRESA",
         "url": "https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 277812,
       "name": "UTAMUWA BAKHRESA",
       "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Kijumbe",
+        "url": "https://open.spotify.com/album/6NeSkmP1ZnyKfREKffX2GG"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 202997,
+      "name": "Kijumbe",
+      "url": "https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
-        "name": "Hits of Aslay",
-        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
-      },
-      "artists": [
-        {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Umbea",
-      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
         "name": "Kupendwa Raha",
         "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 304986,
       "name": "Kupendwa Raha",
       "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
+        "name": "Hits of Aslay",
+        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Umbea",
+      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
     },
     {
       "added_at": "2025-06-26 23:59:15",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2025-06-26 23:59:15",
       "album": {
+        "name": "Viburi",
+        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
+      },
+      "artists": [
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Chief Becka",
+          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
+        }
+      ],
+      "duration_ms": 201967,
+      "name": "Viburi",
+      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
+    },
+    {
+      "added_at": "2025-06-26 23:59:15",
+      "album": {
         "name": "Happy birthday",
         "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
       },
@@ -1383,22 +1403,6 @@
       "duration_ms": 211957,
       "name": "Happy birthday",
       "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
-    },
-    {
-      "added_at": "2025-06-26 23:59:15",
-      "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
     }
   ],
   "unique_name": "Singeli Sounds",

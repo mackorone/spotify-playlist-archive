@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,463 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,532 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 40 | [Breakfast At Denny's](https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi) | [Buckshot LeFonque](https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF) | [Once In The Life \(Original Motion Picture Soundtrack\) \[Digitally Remastered\]](https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx) | 5:54 |
 | 41 | [Apple Green](https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [The People Tree](https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y) | 4:25 |
 | 42 | [Serious Drug](https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A) | [Wildcookie](https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG) | [Cookie Dough](https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM) | 2:55 |
-| 43 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
-| 44 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
+| 43 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
+| 44 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
 | 45 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
 | 46 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
 | 47 | [Beatmaker](https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto), [Emma Noble](https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g) | [Beatmaker](https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H) | 2:57 |

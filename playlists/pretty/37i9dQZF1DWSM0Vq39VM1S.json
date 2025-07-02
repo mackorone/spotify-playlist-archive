@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388855,
+  "num_followers": 388848,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-06-26 22:00:27",
       "album": {
+        "name": "toothache",
+        "url": "https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 208271,
+      "name": "toothache",
+      "url": "https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c"
+    },
+    {
+      "added_at": "2025-06-26 22:00:27",
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2025-06-26 22:00:27",
-      "album": {
-        "name": "toothache",
-        "url": "https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 208271,
-      "name": "toothache",
-      "url": "https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c"
     },
     {
       "added_at": "2025-06-26 22:00:27",

@@ -2,9 +2,9 @@
 
 ### [Pop Punk's Not Dead](https://open.spotify.com/playlist/37i9dQZF1DX1ewVhAJ17m4)
 
-> All the best new songs from the pop punk scene\. Cover: BEAUTY SCHOOL DROPOUT
+> All the best new songs from the pop punk scene\. Cover: Good Charlotte
 
-506 songs - 1 day 1 hr 17 min
+507 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 | 2025-06-20 |  |
 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 | 2025-06-23 |  |
 | [Better Man](https://open.spotify.com/track/4s9FAw4DbvTZUdQsnU2ctB) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Better Man](https://open.spotify.com/album/35ag9Wdq7LC3JyMZVVbxK1) | 2:33 | 2025-02-21 | 2025-06-15 |
-| [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-10 |  |
+| [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-10 | 2025-07-02 |
 | [Birthright](https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Birthright](https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ) | 3:05 | 2022-10-13 | 2023-01-26 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-20 | 2022-07-29 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-07-18 |  |
@@ -356,6 +356,7 @@
 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 | 2024-06-14 | 2025-02-22 |
 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 | 2023-03-31 | 2024-06-15 |
 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 | 2025-02-21 |  |
+| [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 | 2025-07-01 |  |
 | [Remedy for Reality](https://open.spotify.com/track/6VL1ikOTJscKBHRgV686ug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Torn in Two](https://open.spotify.com/album/7FD1Yk6byTdKJQh0fXX6nN) | 2:44 | 2021-12-20 | 2022-09-10 |
 | [Remember Her Like That](https://open.spotify.com/track/5PUeFk6KqTnnJrzeYhYyyb) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Remember Her Like That](https://open.spotify.com/album/3xNPSnUKCLjAyztiI42uF3) | 3:07 | 2024-03-22 | 2024-11-19 |
 | [Rescue Me](https://open.spotify.com/track/77ZScCO741T2SAvsXcwga2) | [Nothing Serious](https://open.spotify.com/artist/1rOAHaTjrL6vMCxnq7k6FO), [Sundown Superhero](https://open.spotify.com/artist/3gZyCE7ifVFcvZ12TEKvsA) | [Rescue Me](https://open.spotify.com/album/777RRe1mp4kKhUCdZWodL3) | 2:17 | 2021-12-20 | 2022-01-15 |

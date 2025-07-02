@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,872 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,942 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 56 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
 | 57 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
 | 58 | [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 |
-| 59 | [Liar](https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Anima Inferna](https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS) | 3:37 |
-| 60 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
+| 59 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
+| 60 | [Liar](https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Anima Inferna](https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS) | 3:37 |
 | 61 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
 | 62 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 |
 | 63 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
@@ -86,27 +86,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 76 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 | 77 | [Killing Grounds](https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:58 |
 | 78 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
-| 79 | [Prey & Obey](https://open.spotify.com/track/010zNby24HBoMyMZClgViJ) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0) | [Prey & Obey](https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr) | 4:46 |
-| 80 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
+| 79 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
+| 80 | [Prey & Obey](https://open.spotify.com/track/010zNby24HBoMyMZClgViJ) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0) | [Prey & Obey](https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr) | 4:46 |
 | 81 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 |
 | 82 | [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 |
 | 83 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
 | 84 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 |
 | 85 | [Post Self](https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Post Self](https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE) | 4:28 |
 | 86 | [Hollow \(Project Regeneration\)](https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Hollow \(Project Regeneration\)](https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf) | 2:41 |
-| 87 | [Suck](https://open.spotify.com/track/6pBabkxMdp7dXLgJXnsFGp) | [Pigface](https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz) | [The Best Of Pigface](https://open.spotify.com/album/1xPDQlenantNKawfHa3cyw) | 3:40 |
-| 88 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 |
+| 87 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 |
+| 88 | [Suck](https://open.spotify.com/track/6pBabkxMdp7dXLgJXnsFGp) | [Pigface](https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz) | [The Best Of Pigface](https://open.spotify.com/album/1xPDQlenantNKawfHa3cyw) | 3:40 |
 | 89 | [Endzeit](https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi) | [Schwarzer Engel](https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk) | [Sieben](https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ) | 4:10 |
 | 90 | [S E X](https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx) | [Aesthetic Perfection](https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN), [Sebastian Svalland](https://open.spotify.com/artist/0NS9PpmJrJodmXFLNlRk5B) | [S E X](https://open.spotify.com/album/0ZMVhQvyDY4vVPGqRCDE97) | 3:40 |
-| 91 | [Disobey \- Disruptor Remix](https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Disobey \(Disruptor Remix\)](https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6) | 3:28 |
+| 91 | [The Faces of the Devil](https://open.spotify.com/track/6fQvnCo4jnfCYuacuBfG7C) | [King Satan](https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW) | [The Faces of the Devil](https://open.spotify.com/album/2Q7f4T0KyGgWwDxXcD9uFq) | 3:15 |
 | 92 | [Therapy](https://open.spotify.com/track/59xf0j7TD8NOsY4gmS2UcZ) | [The Hunger](https://open.spotify.com/artist/1TzYfIDcBPrD2ICroUPv5H) | [The Hunger](https://open.spotify.com/album/6hJdzDHfOpML4CmTv86gOI) | 4:32 |
 | 93 | [Small World](https://open.spotify.com/track/0cSd01K5jeFTDLSrD95dEb) | [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Never Is Now](https://open.spotify.com/album/4a42neJMlka7MRKNKwYsJb) | 4:56 |
-| 94 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
-| 95 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
-| 96 | [Obliteration](https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm](https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg) | 3:37 |
+| 94 | [Disobey \- Disruptor Remix](https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Disobey \(Disruptor Remix\)](https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6) | 3:28 |
+| 95 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
+| 96 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
 | 97 | [Burn Everything](https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Burn Everything](https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od) | 4:23 |
-| 98 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 |
-| 99 | [Feed Our Lie](https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Feed Our Lie](https://open.spotify.com/album/16ZUBw17hhLFdrWTDr94VP) | 4:06 |
-| 100 | [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 |
+| 98 | [Obliteration](https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm](https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg) | 3:37 |
+| 99 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 |
+| 100 | [Feed Our Lie](https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Feed Our Lie](https://open.spotify.com/album/16ZUBw17hhLFdrWTDr94VP) | 4:06 |
 
 Snapshot ID: `Z6pYHwAAAAByj6z/bYbo6MeXrlRhxdzC`

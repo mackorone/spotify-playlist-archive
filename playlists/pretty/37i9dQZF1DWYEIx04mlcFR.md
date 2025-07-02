@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Sam Vazquez en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,777 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,776 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

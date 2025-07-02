@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Kenya Grace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,393 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,392 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 47 | [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 |
 | 48 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
 | 49 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 |
-| 50 | [Mirror](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
+| 50 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 51 | [Make Up](https://open.spotify.com/track/17wgXMgncYVMa33et1WE4X) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Make Up](https://open.spotify.com/album/6rFEHXqExBkjde9Uhyadrj) | 3:22 |
 | 52 | [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 |
 | 53 | [Aria](https://open.spotify.com/track/2bBvkqFf4jFssDHYOxDUrU) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50) | [Panta Rei](https://open.spotify.com/album/3yQacbQfDovjruUyUy7BN4) | 4:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,172 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,184 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 41 | [Yo Tomo](https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm) | 3:24 |
 | 42 | [Podria Ser Amado](https://open.spotify.com/track/6HSxhRSUCUZr5s9LQtxWT6) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Somos los Mejores..\. Y Que Sigan Participando](https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG) | 3:09 |
 | 43 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
-| 44 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
+| 44 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
 | 45 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 |
-| 46 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
+| 46 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
 | 47 | [Yo Me Enamore](https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:07 |
 | 48 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 |
 | 49 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
 | 50 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 51 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
-| 52 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
-| 53 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
+| 51 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
+| 52 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
+| 53 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
 | 54 | [La Vecina](https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 2:59 |
 | 55 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
 | 56 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 64 | [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 |
 | 65 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
 | 66 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 |
-| 67 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
+| 67 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
 | 68 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
-| 69 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
+| 69 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 70 | [Caprichito](https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:30 |
 | 71 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
 | 72 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 74 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
 | 75 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
 | 76 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
-| 77 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 |
-| 78 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
+| 77 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
+| 78 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 |
 | 79 | [Palomita / Olguita / Engañadora / Mi Gran Amor \(En Vivo\)](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |
 | 80 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
 | 81 | [Ritmo Loco](https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:10 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 97 | [Ni Que Estuviera Loco](https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 2:23 |
 | 98 | [Tímido](https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:26 |
 | 99 | [Corazón](https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [90 Retro Style](https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr) | 3:05 |
-| 100 | [Que Te Vaya Bien](https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Que Te Vaya Bien](https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB) | 2:55 |
+| 100 | [Fisurados](https://open.spotify.com/track/1zo0BuW2CMZZU4b6mA76nm) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Las manos de Filippi](https://open.spotify.com/artist/53Ik4pv6iE2gZ7Xc4BKlFJ) | [Mambo Mundial](https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl) | 3:29 |
 
 Snapshot ID: `Z8ICJQAAAADT9xe9NejmqJDno3RXK/6z`

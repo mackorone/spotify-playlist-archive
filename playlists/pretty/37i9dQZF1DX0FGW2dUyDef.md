@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,602,359 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,482 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
-| 2 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
+| 1 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
+| 2 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
 | 3 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
 | 4 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 5 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
 | 50 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 
-Snapshot ID: `aGI2CQAAAADwQD2HzrKTXZdSBW+vrfjn`
+Snapshot ID: `aGPprgAAAABl5wJtXAVBA/PQJtA591Xp`

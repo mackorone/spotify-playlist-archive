@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 14797,
+  "num_followers": 14804,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Back In Blood (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 184489,
       "name": "Back in Blood (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2022-10-01 16:09:56",

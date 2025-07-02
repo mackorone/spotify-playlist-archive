@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,762 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,776 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 83 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
 | 84 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 |
 | 85 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 |
-| 86 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
-| 87 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
+| 86 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
+| 87 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
 | 88 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 89 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
-| 90 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
-| 91 | [とくべチュ、して](https://open.spotify.com/track/2XS2jEncSJsetNZdVtlpeo) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [とくべチュ、して](https://open.spotify.com/album/24Dtqr6jj4RLFDtsKt5HiH) | 3:59 |
+| 90 | [とくべチュ、して](https://open.spotify.com/track/2XS2jEncSJsetNZdVtlpeo) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [とくべチュ、して](https://open.spotify.com/album/24Dtqr6jj4RLFDtsKt5HiH) | 3:59 |
+| 91 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
 | 92 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 93 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 94 | [ガーデン](https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:49 |
-| 95 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
-| 96 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
-| 97 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
+| 95 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
+| 96 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
+| 97 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
 | 98 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
-| 99 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
-| 100 | [Wherever you are](https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:55 |
+| 99 | [Wherever you are](https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:55 |
+| 100 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
 
 Snapshot ID: `aEr0oQAAAADKFcpBO9//K/tGhiTruYSk`

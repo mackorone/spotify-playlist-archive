@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 87,973 likes - 212 songs - 9 hr 10 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 88,310 likes - 212 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 67 | [Missing](https://open.spotify.com/track/1Hrf64ujV8POIEljEmh85L) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX) | [Missing](https://open.spotify.com/album/696qgg2xKDRJnhJYGgO1B3) | 2:26 |
 | 68 | [Moment](https://open.spotify.com/track/11fQ56KIXCrTjuln0h7juk) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Moment](https://open.spotify.com/album/2CNAQaxB5Iipkr7igjWN5v) | 2:00 |
 | 69 | [Love Someone](https://open.spotify.com/track/1qbqxjmfX0elpgITU0u4YH) | [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3) | [Love Someone](https://open.spotify.com/album/2g7BUpvyNjavxoReZBc9OD) | 2:38 |
-| 70 | [WHY?](https://open.spotify.com/track/1rQQ16ECybtuu2GrzZHeTx) | [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE) | [WHY?](https://open.spotify.com/album/7KuRWzZHCwrX9YLIkDrx12) | 2:28 |
+| 70 | [WHY?](https://open.spotify.com/track/1rQQ16ECybtuu2GrzZHeTx) | [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [WHY?](https://open.spotify.com/album/7KuRWzZHCwrX9YLIkDrx12) | 2:28 |
 | 71 | [Cool Kids](https://open.spotify.com/track/4yCtCRXqETtZeSEgPBwpil) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Cool Kids](https://open.spotify.com/album/3Jqdfe39qohuKJDPnEOINP) | 2:37 |
 | 72 | [Stay the Night](https://open.spotify.com/track/0PbUTx3YxxEMYPoY58ZERn) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Stay the Night](https://open.spotify.com/album/0bJYa0rN8BlAspfSMh9m2B) | 2:56 |
 | 73 | [Breathe Me](https://open.spotify.com/track/2unaBmyInwN8BzEwxXrwqS) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Breathe Me](https://open.spotify.com/album/6JPcg5lP7g7gBSSgvkS9GP) | 2:32 |

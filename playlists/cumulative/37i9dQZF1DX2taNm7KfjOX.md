@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Medium Build
 
-709 songs - 1 day 20 hr 5 min
+710 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Disarm](https://open.spotify.com/track/7MGcxsfMJrHnqOZ4ZaThRf) | [Fossil Collective](https://open.spotify.com/artist/0PhKXBGcwWwVcXCETFd92y) | [Flux](https://open.spotify.com/album/353sWANJIgsRD3vSpICwGJ) | 5:21 | 2022-04-13 | 2022-04-18 |
 | [Distant Axis](https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Distant Axis](https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q) | 4:25 | 2021-10-22 | 2025-02-08 |
 | [Divine](https://open.spotify.com/track/0B0DQCbipxDUXqN6iLi1KY) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/6c8tHj60qPvbXZnczssdQC) | 2:58 | 2022-04-13 | 2022-04-17 |
+| [Dizzy Spin](https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 4:45 | 2025-05-30 |  |
 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-02-07 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0EXdNsNOxZH1TLzBYUgY55) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Dog Has Its Day](https://open.spotify.com/album/3LWTWoR1YaLeyN42RvEsd3) | 3:10 | 2021-10-22 | 2022-07-29 |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2022-06-24 | 2024-04-19 |
@@ -458,7 +459,7 @@
 | [Partner in Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-07-29 |  |
 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 | 2024-08-02 |  |
 | [Paula Collins](https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 3:15 | 2021-10-22 | 2022-04-20 |
-| [Pelican Canyon](https://open.spotify.com/track/49qJvUShIV2XKLvp4KvcBa) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Pelican Canyon](https://open.spotify.com/album/6x9fbiMJmJKBqM3Pz94yiR) | 3:47 | 2024-01-05 |  |
+| [Pelican Canyon](https://open.spotify.com/track/49qJvUShIV2XKLvp4KvcBa) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Pelican Canyon](https://open.spotify.com/album/6x9fbiMJmJKBqM3Pz94yiR) | 3:47 | 2024-01-05 | 2025-07-02 |
 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-08-02 |  |
 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 | 2022-06-24 | 2023-09-23 |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/album/3hzBgKpVyownETEhtDeuMS) | 4:15 | 2021-10-22 | 2022-07-29 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Arya Dhayal
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,767 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,784 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nee Arike](https://open.spotify.com/track/2QFyg6VF0KPeKvKnkipR0V) | [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4), [JRK](https://open.spotify.com/artist/0w9sMOv9RRUiY7VKOHsHDj), [Lasya](https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx) | [Nee Arike](https://open.spotify.com/album/6X3cDkGtZibWUj39YGHb19) | 2:29 |
+| 1 | [Nee Arike](https://open.spotify.com/track/2QFyg6VF0KPeKvKnkipR0V) | [JRK](https://open.spotify.com/artist/0w9sMOv9RRUiY7VKOHsHDj), [Lasya](https://open.spotify.com/artist/2q1XwWi1HV7GVhGyrmSYN5), [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4) | [Nee Arike](https://open.spotify.com/album/6X3cDkGtZibWUj39YGHb19) | 2:29 |
 | 2 | [Maamalanaadu](https://open.spotify.com/track/197oOjgQJDxkz5OHf7pXxu) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Rajeesh K Chandu](https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH) | [Maamalanaadu](https://open.spotify.com/album/4MrIfWdlrgZ7cuVLX5MHxY) | 4:18 |
 | 3 | [NOSTALGIA](https://open.spotify.com/track/4AhcfteiLz8y9PZAorMc2R) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [NOSTALGIA](https://open.spotify.com/album/74NCyzwAIHMw1iZPZ5xT2J) | 4:01 |
 | 4 | [Toffee Syrup](https://open.spotify.com/track/3nquR20Ju54R1mHWt4RJ8C) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf), [Shafi Ali](https://open.spotify.com/artist/6U09TVU3LUO6LZzwcgh6FG) | [Toffee Syrup](https://open.spotify.com/album/2YF6Yok6OFky8aLbqe5ko9) | 1:53 |

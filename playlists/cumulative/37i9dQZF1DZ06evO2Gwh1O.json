@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 237142,
       "name": "1% - Live",
       "url": "https://open.spotify.com/track/5SSUh05MjQ3Us7I2pbleJF"
@@ -938,6 +938,24 @@
       "duration_ms": 218293,
       "name": "Maybe I Am?",
       "url": "https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/0vkbbnIFkRRs71VBVQiKt7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216280,
+      "name": "Medicated",
+      "url": "https://open.spotify.com/track/3JM8FkUY2eP2F0sz6RGwJO"
     },
     {
       "album": {

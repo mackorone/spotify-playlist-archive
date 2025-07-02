@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,503 likes - 65 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,557 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 39 | [Chico Preto](https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:24 |
 | 40 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
 | 41 | [São Amores](https://open.spotify.com/track/48qHCv2FnLa5uVCAcPveU1) | [Banda Quero Mais](https://open.spotify.com/artist/2qKQ4jiEt7kpYuLyTsNQqz) | [São Amores](https://open.spotify.com/album/55Rl0AQKQwbAKyI41H088s) | 3:19 |
-| 42 | [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 |
-| 43 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
+| 42 | [Teu Sorriso](https://open.spotify.com/track/0ZfWvGIEbc3hhYsNMgMP2b) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [HEIKON](https://open.spotify.com/artist/6oLO9UzEcaMB61uYNVRSWw) | [Teu Sorriso](https://open.spotify.com/album/7lV4fVTPnGuoqg3mQyQGVj) | 2:22 |
+| 43 | [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 |
 | 44 | [Marmita](https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:26 |
-| 45 | [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [Borogodó 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 |
-| 46 | [Teu Sorriso](https://open.spotify.com/track/0ZfWvGIEbc3hhYsNMgMP2b) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [HEIKON](https://open.spotify.com/artist/6oLO9UzEcaMB61uYNVRSWw) | [Teu Sorriso](https://open.spotify.com/album/7lV4fVTPnGuoqg3mQyQGVj) | 2:22 |
+| 45 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
+| 46 | [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [Borogodó 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 |
 | 47 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 |
 | 48 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 |
 | 49 | [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 |
-| 50 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
-| 51 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
+| 50 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
+| 51 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
 | 52 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |
 | 53 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |
 | 54 | [De Mim Tu Não Merece Nada](https://open.spotify.com/track/6RlJtIsfScbQakH0M0ibIr) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [De Mim Tu Não Merece Nada](https://open.spotify.com/album/2uLtrCIXqVLGJyp6mFikOg) | 3:40 |

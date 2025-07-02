@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,050 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,055 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Te Quería Ver](https://open.spotify.com/track/2JPctdUgvkQSpnUdfROxvY) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 2:56 |
 | 50 | [COQUETA](https://open.spotify.com/track/0ZeObZ4dRDyJluQhHow90a) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ) | [COQUETA](https://open.spotify.com/album/4Rs0gyENJHnyeVjEh6OhuM) | 2:39 |
 
-Snapshot ID: `L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,761 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,766 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 15 | [Sugar Free Venom feat\. Kesha \(Finn Keane Remix\)](https://open.spotify.com/track/6QtQa8o9bCq9NOGHOubNkF) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Sugar Free Venom feat\. Kesha \(Finn Keane Remix\)](https://open.spotify.com/album/2nVdVxKpTXX98WqOSvv3AI) | 3:59 |
 | 16 | [重ねトマト缶](https://open.spotify.com/track/4jFbDqv2xv8UxaZzAh3Ovq) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [重ねトマト缶](https://open.spotify.com/album/7FfherABKKb0I81cb2Q6dF) | 2:49 |
 | 17 | [Far Beyond the Stars](https://open.spotify.com/track/3D2ax2glhbYD0YAKU0Z7yw) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Far Beyond the Stars](https://open.spotify.com/album/5J9Ls5ca7IbXDEiu2QAFEC) | 5:04 |
-| 18 | [Offline Saga feat\. 水槽](https://open.spotify.com/track/7hC8KvfU3pH6FP4ApxCBvw) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [Offline Saga](https://open.spotify.com/album/6LgboWDsqE8ZpLRMOWI8ab) | 3:20 |
+| 18 | [Offline Saga feat\. 水槽](https://open.spotify.com/track/7hC8KvfU3pH6FP4ApxCBvw) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [Offline Saga](https://open.spotify.com/album/6LgboWDsqE8ZpLRMOWI8ab) | 3:20 |
 | 19 | [Polytope](https://open.spotify.com/track/7qQ6Jcg4Ki0pYkSTcuDL3a) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [Horizon Dreamer / Polytope](https://open.spotify.com/album/3trxtPc2Hk27H35TLbBwED) | 5:41 |
 | 20 | [wolves](https://open.spotify.com/track/6j5HADEwyabrxW5uksqkde) | [THE BERSERKERS](https://open.spotify.com/artist/6TNnDiXaAzb9ORiZrfI4eZ) | [wolves](https://open.spotify.com/album/7sS9xHoiCu08bdn6YSRm31) | 3:37 |
 | 21 | [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 |

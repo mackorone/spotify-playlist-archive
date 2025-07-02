@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 ### [Літній релакс](https://open.spotify.com/playlist/37i9dQZF1DX2X2YHi92QqA)
 
-> Затишна музика для теплих днів 🌻☀️🏕️
+> Приємна музика для спекотних днів\. Особливо в липні 🍋 🌴💦
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,450 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,461 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
+| 1 | [Lime](https://open.spotify.com/track/11QdPbPZlGxzxUCpHnZ40v) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Ajahuaska](https://open.spotify.com/album/0bc98Rgl6H71m7LfCQgN6i) | 5:32 |
 | 2 | [Alleys of My Mind](https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Black Soil](https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD) | [Alleys of My Mind](https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA) | 3:57 |
-| 3 | [Nich](https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Nich](https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r) | 3:50 |
+| 3 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 4 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 5 | [Крок](https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX) | [Cape Cod](https://open.spotify.com/artist/5uMOOCjDjMCAahAJazvPYB), [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Крок](https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7) | 4:00 |
 | 6 | [Adagio](https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:56 |
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 8 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
 | 9 | [не покину](https://open.spotify.com/track/5RuuZtzRHaqXFgzTTztAvf) | [на глибині](https://open.spotify.com/artist/7reOLIvxCl2xBiWoNOlPTj) | [не покину](https://open.spotify.com/album/66pYHL3wIzQcRr53SDzEri) | 2:46 |
 | 10 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
-| 11 | [Lime](https://open.spotify.com/track/11QdPbPZlGxzxUCpHnZ40v) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Ajahuaska](https://open.spotify.com/album/0bc98Rgl6H71m7LfCQgN6i) | 5:32 |
-| 12 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 |
+| 11 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 |
+| 12 | [Nich](https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Nich](https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r) | 3:50 |
 | 13 | [Stomach Butterflies](https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Stomach Butterflies](https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv) | 2:51 |
 | 14 | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/track/3NYwBfpXtucYLmt0UehvAg) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Las Palabras](https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 3:46 |
 | 15 | [Мрію](https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Мрію](https://open.spotify.com/album/5DdLG6obvBdNAge8dV9siI) | 2:18 |
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 38 | [Kava](https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Kava](https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D) | 2:59 |
 | 39 | [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 |
 | 40 | [Sweetest Heart](https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Sweetest Heart](https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL) | 3:16 |
-| 41 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 |
-| 42 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
+| 41 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
+| 42 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 |
 | 43 | [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 |
 | 44 | [Лебідонько](https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Лебідонько](https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN) | 2:16 |
 | 45 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
 | 46 | [Тебе \- собі](https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тебе \- собі](https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r) | 2:02 |
 | 47 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
 | 48 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
-| 49 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
-| 50 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
+| 49 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
+| 50 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
 | 51 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 |
 | 52 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
 | 53 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 56 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 |
 | 57 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
 | 58 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
-| 59 | [Zathura](https://open.spotify.com/track/6Islqc8DcHVE9adCyoV3e4) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:07 |
-| 60 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
+| 59 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
+| 60 | [Zathura](https://open.spotify.com/track/6Islqc8DcHVE9adCyoV3e4) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:07 |
 
-Snapshot ID: `aD7G2wAAAAAZr0hM2OoluxVKItExraSk`
+Snapshot ID: `aGPWMgAAAADc+mEukyfp4bpB3PAeSm4k`

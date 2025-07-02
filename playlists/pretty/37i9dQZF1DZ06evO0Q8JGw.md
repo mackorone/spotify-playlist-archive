@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 
 > This is Pearl Jam\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,263 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,336 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 20 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 |
 | 21 | [Garden](https://open.spotify.com/track/3KcJEOyaLDLAERlOCBhmPA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:58 |
 | 22 | [Corduroy](https://open.spotify.com/track/5F6rwEF15hN1jnhNk2YQHn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 4:37 |
-| 23 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
-| 24 | [Animal \- Remastered](https://open.spotify.com/track/2EzaNI2kE2AoBfJ8mRZLSJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 2:47 |
+| 23 | [Animal \- Remastered](https://open.spotify.com/track/2EzaNI2kE2AoBfJ8mRZLSJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 2:47 |
+| 24 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
 | 25 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
 | 26 | [Do the Evolution](https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:51 |
 | 27 | [Immortality](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 49 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 | 50 | [Waiting For Stevie](https://open.spotify.com/track/7LMXRhf27EwcBQo2oLkcBa) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:41 |
 
-Snapshot ID: `aGCCAAAAAABRR2UZRQZioUt8lcLD0vwE`
+Snapshot ID: `aGHTgAAAAACFzqHk4Kw4cHgy6rJeoVxY`

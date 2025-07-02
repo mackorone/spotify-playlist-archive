@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Finally..\. World Champions! 🏏
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,844 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,853 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 19 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
 | 20 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
 | 21 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
-| 22 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 |
-| 23 | [Black Beatles](https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 4:51 |
+| 22 | [Black Beatles](https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 4:51 |
+| 23 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 |
 | 24 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
 | 25 | [hakuna matata](https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:07 |
 | 26 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |

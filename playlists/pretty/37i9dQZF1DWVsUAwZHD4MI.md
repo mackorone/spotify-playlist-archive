@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,583 likes - 57 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,586 likes - 57 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 43 | [Admit to Love](https://open.spotify.com/track/6sw17Uso3eldlcNdHdeK5m) | [Maximum Style](https://open.spotify.com/artist/51lNVWFPUYieQWHQ81V8k6), [JB Rose](https://open.spotify.com/artist/3q5mJxqVbeYy2xn1BUMR88) | [Reinforced Presents: Maximum Style & JB Rose \- Keep the Fire](https://open.spotify.com/album/30rqoaNf63IygyPhbkuFAy) | 4:21 |
 | 44 | [LSDXOXO\_TRUTH OR DARE\_123 BPM](https://open.spotify.com/track/0pO8YwXGjixwYbEEaifaCL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY) | 4:53 |
 | 45 | [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 |
-| 46 | [BAD BOY](https://open.spotify.com/track/4TIGnzJXzipFtVBtXuASfb) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Mirror](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:16 |
+| 46 | [BAD BOY](https://open.spotify.com/track/4TIGnzJXzipFtVBtXuASfb) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:16 |
 | 47 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 |
 | 48 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |
 | 49 | [giirL math](https://open.spotify.com/track/2vkkkaDiOamN4sNcCgsTE1) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 2:29 |

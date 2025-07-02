@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,542 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,609 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 74 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
 | 75 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
 | 76 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
-| 77 | [Fire on the Mountain](https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Searchin' for a Rainbow](https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS) | 3:56 |
+| 77 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |
 | 78 | [Rock Bottom](https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 5:41 |
-| 79 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |
-| 80 | [Can't Keep Running](https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 4:02 |
+| 79 | [Can't Keep Running](https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 4:02 |
+| 80 | [Fire on the Mountain](https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Searchin' for a Rainbow](https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS) | 3:56 |
 | 81 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
 | 82 | [RISE OF THE REBEL](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 4:12 |
 | 83 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |

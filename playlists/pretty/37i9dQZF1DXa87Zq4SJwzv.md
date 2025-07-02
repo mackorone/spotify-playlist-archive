@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 
 > 🌈 AMOR ES AMOR 🌈
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,195 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,215 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 | 26 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
 | 27 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 |
 | 28 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
-| 29 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 |
+| 29 | [Yo Te Diré](https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:26 |
 | 30 | [No Me Enseñaste](https://open.spotify.com/track/0AhtxBg5OU06Lh086URR5c) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/7yQ0rzJQPUkTumD0bVxxfp) | 4:27 |
-| 31 | [Yo Te Diré](https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:26 |
+| 31 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 |
 | 32 | [Fuimos Amor](https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 4:09 |
 | 33 | [Ni Una Sola Palabra](https://open.spotify.com/track/1JLB67iNVIOs6NCiMAB1Fo) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/6Vxnagxqa9cuCqxPTxq1RC) | 3:44 |
 | 34 | [Cada Que...](https://open.spotify.com/track/22cB3FJq4vAb2gnUUbux2i) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Fantasía Pop](https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq) | 3:43 |

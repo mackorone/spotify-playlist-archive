@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 29266,
+  "num_followers": 29278,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADNwXjrw4HL3nVT9MckSCyg",
+  "snapshot_id": "aGHTgAAAAADY1nqWNEfu2J9NhLUNOsXm",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 119933,
-      "name": "Mother Beautiful",
-      "url": "https://open.spotify.com/track/4AXLP8xCcEZkXbD0WmgVSq"
+      "duration_ms": 167666,
+      "name": "Higher - Single Version",
+      "url": "https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 167666,
-      "name": "Higher - Single Version",
-      "url": "https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q"
+      "duration_ms": 119933,
+      "name": "Mother Beautiful",
+      "url": "https://open.spotify.com/track/4AXLP8xCcEZkXbD0WmgVSq"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
       "duration_ms": 221426,
       "name": "Trip to Your Heart",
       "url": "https://open.spotify.com/track/3ku8Qt9J0Y29yC4jdzJ8PO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/3WVZ2pRenWqfKdRw3c350C"
     },
     {
       "added_at": null,
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 198520,
-      "name": "Say You Will",
-      "url": "https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB"
+      "duration_ms": 173733,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/3WVZ2pRenWqfKdRw3c350C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Soul Clappin'",
+      "url": "https://open.spotify.com/track/5BL5MdCvMGykfaxPFtycG9"
     }
   ],
   "unique_name": "This Is Sly & The Family Stone",

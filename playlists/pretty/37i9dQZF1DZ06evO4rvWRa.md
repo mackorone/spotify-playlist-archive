@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,641,938 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641,942 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 9 | [Lily](https://open.spotify.com/track/0lks2Kt9veMOFEAPN0fsqN) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:15 |
 | 10 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
 | 11 | [Play](https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3) | [Play](https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5) | 2:47 |
-| 12 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
+| 12 | [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 |
 | 13 | [Darkside](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:31 |
-| 14 | [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 |
+| 14 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
 | 15 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
 | 16 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 |
 | 17 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [sickly sweet \- Alan Walker Remix](https://open.spotify.com/track/7xK4iii6HEQfcdJXOt8B5j) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [sickly sweet \(Alan Walker Remix\)](https://open.spotify.com/album/1tmHPiGes5UOMRpToZEGDM) | 2:22 |
 | 50 | [Paradise](https://open.spotify.com/track/2sVcG5mresyV79qpYr3M1C) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 3:03 |
 
-Snapshot ID: `aGCCAAAAAABDZdunHLS6cAEBzyKrtpOH`
+Snapshot ID: `aGHTgAAAAAAzjqxuOX53mNohUdT4dzcG`

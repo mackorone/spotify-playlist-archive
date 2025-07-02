@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,835 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,862 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 6 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 7 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
 | 8 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
-| 9 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
-| 10 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
+| 9 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
+| 10 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
 | 11 | [Don't Stay](https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:07 |
 | 12 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
-| 13 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 14 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
+| 13 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
+| 14 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 15 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
 | 16 | [Face to the Floor](https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Hats Off to the Bull](https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV) | 3:38 |
-| 17 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
-| 18 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
+| 17 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
+| 18 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
 | 19 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
 | 20 | [Testify](https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:30 |
 | 21 | [I Don't Care](https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K) | 3:34 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 36 | [Given Up](https://open.spotify.com/track/400lQTCx3wYGgqAIHSZbNA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 3:09 |
 | 37 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 38 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
-| 39 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 40 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
+| 39 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
+| 40 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 41 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
 | 42 | [Seventeen](https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG) | [Ally Nicholas](https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX) | [Seventeen](https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT) | 2:30 |
 | 43 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 96 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 |
 | 97 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
 | 98 | [Stingin' Belle](https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G) | 4:25 |
-| 99 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 |
-| 100 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 |
+| 99 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 |
+| 100 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 |
 
 Snapshot ID: `Z07PEwAAAAB/ecsdOM7aiBLvFLcjGssj`

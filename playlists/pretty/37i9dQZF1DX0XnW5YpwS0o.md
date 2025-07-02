@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > The Indie highlights of 2016\. Cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,881 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,925 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 20 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
 | 21 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 22 | [Charlemagne](https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 2:46 |
-| 23 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 |
-| 24 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
+| 23 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
+| 24 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 |
 | 25 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 |
 | 26 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
 | 27 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 |

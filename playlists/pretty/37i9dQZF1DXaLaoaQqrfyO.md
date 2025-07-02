@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,127 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,141 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 42 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
 | 43 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
 | 44 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
-| 45 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
-| 46 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
+| 45 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
+| 46 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 47 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
-| 48 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
-| 49 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
+| 48 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
+| 49 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
 | 50 | [Sutphin Boulevard](https://open.spotify.com/track/2NtqI3Ylig7bB36esIwYuE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 3:34 |
 | 51 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
 | 52 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 71 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 72 | [Friends \(feat\. Bon Iver\)](https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:08 |
 | 73 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
-| 74 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
-| 75 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
+| 74 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
+| 75 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 76 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
 | 77 | [Sleeping With A Friend](https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Pop Psychology](https://open.spotify.com/album/6Xi4dJ9SudvC0ZoE5Krh3G) | 3:48 |
 | 78 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
-| 79 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
-| 80 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
+| 79 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
+| 80 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
 | 81 | [Two High](https://open.spotify.com/track/5huOzlgCK7PsMSG4TFBvKY) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Let The Record Play](https://open.spotify.com/album/5XE34NOdsk2pkDEDd2Niuj) | 3:33 |
 | 82 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 83 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516068,
+  "num_followers": 1516085,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Praia do Rosa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 256523,
       "name": "Praia do Rosa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Onde A Gente Chegou",
         "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 160408,
       "name": "Onde A Gente Chegou",
       "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Boca Com Boca",
-      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Boca Com Boca",
+      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 261882,
+      "name": "Viver em Paz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "B\u00e9di Beat (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 275750,
       "name": "B\u00e9di Beat (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        }
-      ],
-      "duration_ms": 261882,
-      "name": "Viver em Paz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cartas e Versos",
-        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 199814,
-      "name": "Cartas e Versos",
-      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "\u00daltimo Romance",
         "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 257701,
       "name": "\u00daltimo Romance",
       "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cartas e Versos",
+        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 199814,
+      "name": "Cartas e Versos",
+      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Linguagem N\u00e3o Verbal",
-        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Linguagem N\u00e3o Verbal",
-      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Gostosin (Acoustic)",
         "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Linguagem N\u00e3o Verbal",
+        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Linguagem N\u00e3o Verbal",
+      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 195138,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-08-02 18:37:00",

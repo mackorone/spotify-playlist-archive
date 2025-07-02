@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 31 | [talk to myself](https://open.spotify.com/track/2LvvFxwAqjp75Lp4XDetug) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:45 |
 | 32 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 | 33 | [gaslight](https://open.spotify.com/track/1w6EDue1Ze95AzYcjr8ED3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:16 |
-| 34 | [scare myself](https://open.spotify.com/track/39gPWc1bp1eXuD1jHNKlmP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 3:13 |
-| 35 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
+| 34 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
+| 35 | [scare myself](https://open.spotify.com/track/39gPWc1bp1eXuD1jHNKlmP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 3:13 |
 | 36 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 |
-| 37 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 |
-| 38 | [decay](https://open.spotify.com/track/1PNpHAmVys80vSWp1CpsGE) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:29 |
-| 39 | [forgive the world](https://open.spotify.com/track/7m059kV1WgO9czlih2hDrI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:28 |
-| 40 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 |
+| 37 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 |
+| 38 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 |
+| 39 | [decay](https://open.spotify.com/track/1PNpHAmVys80vSWp1CpsGE) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:29 |
+| 40 | [forgive the world](https://open.spotify.com/track/7m059kV1WgO9czlih2hDrI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:28 |
 | 41 | [deathmatch](https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:41 |
 | 42 | [Don't Hate Me When It's Over](https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:36 |
 | 43 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 99 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 100 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Ab1jnAAAAACFHyyVXZVBIkhRMJqHYo/J`
+Snapshot ID: `Ab1pFAAAAAD/ZqSxY5+Ic2Q1tcG1U4O7`

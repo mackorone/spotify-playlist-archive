@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: TDJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,007 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,008 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 9 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 |
 | 10 | [Lipsync](https://open.spotify.com/track/0KBBHOGtufMl66CpoUlZsc) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Lipsync](https://open.spotify.com/album/6aaxvD1ddFiPcwvN8BkXbD) | 2:43 |
 | 11 | [House Fire](https://open.spotify.com/track/4wG5sRMJRvPsxSaUQzyKag) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [House Fire](https://open.spotify.com/album/4IBqJMZM6WuVWW2szJFlym) | 3:07 |
-| 12 | [222](https://open.spotify.com/track/1NtjofH29CRpbvEtQEMZGf) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [222](https://open.spotify.com/album/58M4lC0tqx7s4OgXIHzkGj) | 2:49 |
+| 12 | [222](https://open.spotify.com/track/1NtjofH29CRpbvEtQEMZGf) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [222](https://open.spotify.com/album/58M4lC0tqx7s4OgXIHzkGj) | 2:49 |
 | 13 | [Everyone Falls Asleep In Their Own Time](https://open.spotify.com/track/7sGYT6ewCCJ5KJvWP1n3MP) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Everyone Falls Asleep In Their Own Time](https://open.spotify.com/album/5RgO7p0yOk0UETnpEt004b) | 4:02 |
 | 14 | [True Blue](https://open.spotify.com/track/1ZVD4m8TQrPG768hhzEba8) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [True Blue](https://open.spotify.com/album/0s9tWt56ji7TfGLbPoYv9c) | 3:04 |
 | 15 | [helix](https://open.spotify.com/track/4kQ9vp1V2Jj6Cdqx3bu00b) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [helix](https://open.spotify.com/album/7p4qDyU5g2cuiMCnai3jAK) | 4:15 |

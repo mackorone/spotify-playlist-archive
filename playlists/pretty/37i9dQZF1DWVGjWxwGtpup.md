@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Nicky Jam x Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,637 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,726 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مصطفى حجاج & إسلام كابونجا
 
-1,511 songs - 3 day 12 hr 23 min
+1,512 songs - 3 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [El Amal We El Noor Fe Eedak](https://open.spotify.com/track/0R9RoVQip12AW82kNNX9UF) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2), [Ehab Yunis](https://open.spotify.com/artist/3UmYYEQUym9QNV5mWCV2Gp) | [Red Bull Sika](https://open.spotify.com/album/6HsfsZfT4XutmUQFvHM3Rz) | 3:58 | 2023-10-17 | 2024-01-17 |
 | [El Ashkhas El Ghalat](https://open.spotify.com/track/1cVZZhxBVFBjkDOwuNdxro) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [El Ashkhas El Ghalat](https://open.spotify.com/album/0K8IbRnIP3S6RCv1Enu8LF) | 3:04 | 2023-08-23 | 2023-11-22 |
 | [El Ayyam](https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [El Ayyam](https://open.spotify.com/album/6aSBnFvx0Y7WF3oC1dWOJM) | 3:57 | 2024-06-27 | 2024-08-01 |
-| [EL BABA RAGE3](https://open.spotify.com/track/6UjwmuhifOdkR1IlWou60N) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [EL BABA RAGE3](https://open.spotify.com/album/5PfGMhBNZlaiGuQ0FbgzqM) | 2:34 | 2025-05-15 |  |
+| [EL BABA RAGE3](https://open.spotify.com/track/6UjwmuhifOdkR1IlWou60N) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [EL BABA RAGE3](https://open.spotify.com/album/5PfGMhBNZlaiGuQ0FbgzqM) | 2:34 | 2025-05-15 | 2025-07-02 |
 | [El Baghdada](https://open.spotify.com/track/3yDim9SxoE7Pdy6kTncHdl) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [El Baghdada](https://open.spotify.com/album/5GyhSegrimrOsUJQXWMuif) | 3:21 | 2023-05-30 | 2023-07-14 |
 | [El Basha](https://open.spotify.com/track/0jLoabGqQJIB94WuUmgiHu) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [El Basha](https://open.spotify.com/album/0WTp2zKp1icZEPq2Tq1lmA) | 3:16 | 2024-05-17 | 2024-07-12 |
 | [El Dalaa](https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Dalaa](https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5) | 2:46 | 2023-07-18 | 2023-09-29 |
@@ -1382,6 +1382,7 @@
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
 | [متوحشنيش](https://open.spotify.com/track/6HWEWQCMRLwMORtD3jhctO) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [متوحشنيش](https://open.spotify.com/album/5Pujg0oHcMpdupvuopV3T5) | 3:58 | 2023-08-03 | 2023-08-24 |
 | [مثيرة للجدل](https://open.spotify.com/track/36FRIOqhCkZKFdG685Xh6J) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [مثيرة للجدل](https://open.spotify.com/album/17zDYCJs9wBVZFXwvbC0Hf) | 2:51 | 2024-07-18 | 2024-09-06 |
+| [محسبتهاش](https://open.spotify.com/track/5XdqlGhKKzvUANYjDI6wsB) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 4:14 | 2025-07-01 |  |
 | [محظوظ](https://open.spotify.com/track/3VQnYTWH9J2OK4Ksb4Sp1H) | [Mohamed Youssef](https://open.spotify.com/artist/3qVa7avCXcTdFZrXRI5Upz) | [محظوظ](https://open.spotify.com/album/2Qnj0i7QSvRq6EvHxKCtfH) | 4:48 | 2023-12-14 | 2024-01-20 |
 | [مخبيالنا ايه يا دنيا \(موال طارق\)](https://open.spotify.com/track/7j0fEOT00aQkzmtNV0hRvL) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [مخبيالنا ايه يا دنيا \(موال طارق\)](https://open.spotify.com/album/4Lwmh8iRTkzMmGUobTCWHb) | 3:20 | 2024-03-10 | 2024-03-22 |
 | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/track/6ersHoHXrLTFR4YftQxk2q) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/album/5XEKia4efQ6xpPFvj1wMjN) | 3:20 | 2024-03-10 | 2024-06-12 |

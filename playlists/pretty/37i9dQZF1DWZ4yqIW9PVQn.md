@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,074 likes - 128 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,075 likes - 128 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 11 | [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 |
 | 12 | [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 |
 | 13 | [I Wanted To Say](https://open.spotify.com/track/0S1Dp45I35i17I9BvrTJBW) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [I Wanted To Say](https://open.spotify.com/album/3NhbBEQP5aPmmua8eqVB8V) | 3:22 |
-| 14 | [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 |
+| 14 | [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/5uDOFfun6IFetdabIi7n01) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 |
 | 15 | [Autumn Breeze](https://open.spotify.com/track/2KHWnkVa8wHh0WXF5iPzZs) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [Autumn Breeze](https://open.spotify.com/album/0Hwz2Tac85WMBXzr9OZl1y) | 3:43 |
 | 16 | [Sunshine of June](https://open.spotify.com/track/6BVY60lo3QaL6TSgBwKzgM) | [Dailylab](https://open.spotify.com/artist/4by96utXSeGTsQSfR16Olh) | [Sunshine of June](https://open.spotify.com/album/4ziHz60Ut95gknIzloSxhf) | 4:12 |
 | 17 | [I don't know](https://open.spotify.com/track/4ke5GbODGhAlWR6DiIsVso) | [맥듀](https://open.spotify.com/artist/62s0HvMq2MJjtSY7DSbmDR) | [I don't know](https://open.spotify.com/album/7kdiatYisaEzy62pKS05ds) | 3:15 |

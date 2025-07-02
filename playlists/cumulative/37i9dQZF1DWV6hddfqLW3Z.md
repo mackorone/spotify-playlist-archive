@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-204 songs - 12 hr 17 min
+205 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 | 2022-08-19 | 2024-04-19 |
 | [Flecha do Dedo](https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Flecha do dedo / Paixão faixa preta](https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt) | 4:04 | 2024-08-09 | 2024-09-16 |
 | [Flor da Pele](https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi) | [Rachell Luz](https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Ao Nordeste do Meu Coração](https://open.spotify.com/album/2QbOusxuxYro7NxiaRnSmk) | 3:37 | 2022-08-19 | 2023-02-10 |
+| [Flor de Lis \(Upside Down\)](https://open.spotify.com/track/1NUy3QgtzwdxaQ1beWHSK1) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Flor de Lis \(Upside Down\)](https://open.spotify.com/album/0OwNT4Lv1ViODTp9lI9r1K) | 5:37 | 2025-06-27 |  |
 | [Força Estranha](https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Força Estranha](https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a) | 4:17 | 2024-11-15 | 2024-12-12 |
 | [Fé \- Ao Vivo](https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Fé \(Ao Vivo\)](https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ) | 3:32 | 2024-12-10 |  |
 | [Gabriela \- A COLORS SHOW](https://open.spotify.com/track/6c4TZcp1po2GH7ZJz3Jkf3) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Gabriela \- A COLORS SHOW](https://open.spotify.com/album/1epPdl89RfrtujzRW2MSug) | 4:13 | 2024-07-05 | 2025-02-15 |
@@ -202,7 +203,7 @@
 | [Vilarejo \- Ao Vivo](https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas Ao Vivo](https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b) | 4:33 | 2022-11-09 | 2025-03-13 |
 | [Vive](https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Rua dos Amores](https://open.spotify.com/album/41Qxndw4RWNcfeubhatBPX) | 5:22 | 2025-04-18 |  |
 | [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 | 2024-07-05 | 2024-07-13 |
-| [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 | 2024-06-17 |  |
+| [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 | 2024-06-17 | 2025-07-02 |
 | [Voce E Linda \- Remixed Original Album](https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Uns](https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3) | 4:52 | 2022-08-19 | 2024-04-19 |
 | [Você Já Foi à Bahia?](https://open.spotify.com/track/5rSj7hyw8tqkIQTebXqgbr) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Você Já Foi à Bahia?](https://open.spotify.com/album/4y2o1WyTvBLZhs4B1M48RR) | 2:25 | 2024-09-20 | 2024-09-28 |
 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 | 2023-07-14 | 2023-08-14 |

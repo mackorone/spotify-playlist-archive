@@ -16394,7 +16394,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -17854,7 +17854,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 170070,
       "name": "Khalbinnakame (From \"Abhilasham\")",
       "url": "https://open.spotify.com/track/1z6yXgDAujKC9g0f3KPA5f"
@@ -20754,7 +20754,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 157692,
       "name": "Marilag",
       "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
@@ -22266,7 +22266,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -23506,7 +23506,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -23684,7 +23684,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -25056,7 +25056,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 147000,
       "name": "Pal Pal",
       "url": "https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo"
@@ -25394,7 +25394,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 296653,
       "name": "party 4 u",
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
@@ -27552,7 +27552,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -29268,7 +29268,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 239999,
       "name": "Shimmy",
       "url": "https://open.spotify.com/track/3AZGF9eV68DnDbhWDWGBzn"
@@ -32546,6 +32546,40 @@
       "duration_ms": 253909,
       "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
       "url": "https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182016,
+      "name": "Takedown",
+      "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
       "album": {
@@ -38000,7 +38034,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 241776,
       "name": "You'll Be in My Heart",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"

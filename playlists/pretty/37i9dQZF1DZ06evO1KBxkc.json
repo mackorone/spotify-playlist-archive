@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 201820,
+  "num_followers": 201828,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADLKait+VmykCk6ZAOWmN4X",
+  "snapshot_id": "aGHTgAAAAACDNS5pGpdwl3O9CEaR95v4",
   "tracks": [
     {
       "added_at": null,
@@ -88,7 +88,7 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 163177,
+      "duration_ms": 163200,
       "name": "Naked (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/10LLgzL0swcGCkmbXFdp9O"
     },
@@ -439,34 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174100,
-      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -491,6 +463,34 @@
       "duration_ms": 293434,
       "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
       "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174100,
+      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
     },
     {
       "added_at": null,

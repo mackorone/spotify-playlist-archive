@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-95 songs - 6 hr 14 min
+96 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [カナリヤ鳴く空](https://open.spotify.com/track/6xGoSgYLZ1oSBmCdVlqxnn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 3:58 | 2023-01-14 |  |
 | [カルぺ・ディエム～今日がその日さ](https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 4:56 | 2023-03-19 |  |
 | [クリスマスカ \(諸人こぞりて\)](https://open.spotify.com/track/1iXpI5zNsSCg9dih1n9l6g) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [東京スカパラダイスオーケストラ](https://open.spotify.com/album/7gKRUkx9rEts3ITxoXj5qP) | 2:12 | 2023-12-23 | 2024-01-12 |
+| [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/7JXv8zritDObflbmgZ9dQZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/album/3zbsxwfh22qdpXt73Dmk24) | 3:50 | 2025-07-02 |  |
 | [グランドスラム](https://open.spotify.com/track/5ScWpZwjjvFIhuBWARJKgb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:06 | 2024-10-31 | 2025-01-09 |
 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 | 2023-01-14 |  |
 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 | 2023-01-14 |  |
@@ -88,7 +89,7 @@
 | [流れゆく世界の中で](https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [SKA ME FOREVER](https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P) | 5:13 | 2023-01-14 |  |
 | [流星とバラード](https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 4:33 | 2023-01-14 |  |
 | [火の玉ジャイヴ](https://open.spotify.com/track/1gBs17LyDgSWD6WDBtjLPu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 3:50 | 2024-11-24 |  |
-| [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 | 2024-01-03 |  |
+| [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 | 2024-01-03 | 2025-07-02 |
 | [白と黒のモントゥーノ](https://open.spotify.com/track/6fHZjCE9bQH7SR1oPRLFRM) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [斎藤宏介](https://open.spotify.com/artist/0QpGuycOM3kFnbZmrucNl2) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 3:31 | 2023-02-16 | 2023-03-01 |
 | [私たちのカノン \(VS\. Chevon\)](https://open.spotify.com/track/2HzOUwqliTwC0Us4GTmGnC) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [私たちのカノン \(VS\. Chevon\)](https://open.spotify.com/album/0hvtWDratjgKHLzBw9X7oQ) | 4:09 | 2025-04-23 |  |
 | [紋白蝶 \- feat\. 石原慎也 \(Saucy Dog\)](https://open.spotify.com/track/70uJr9I7fSA0DUrnSzyCvZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [石原 慎也](https://open.spotify.com/artist/7M6jvaUIrKDZK9rhjjv5x8) | [紋白蝶 \[feat\. 石原慎也 \(Saucy Dog\)\]](https://open.spotify.com/album/6RBgLMu6RSKhzp0qw6l9kz) | 4:44 | 2023-01-14 |  |

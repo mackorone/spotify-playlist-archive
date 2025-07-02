@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,761 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,807 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 2 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 |
 | 3 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |
 | 4 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
-| 5 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
+| 5 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 | 6 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 |
-| 7 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
+| 7 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
 | 8 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 |
 | 9 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 |
 | 10 | [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 83 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
 | 84 | [The Feel](https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [The Feel](https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ) | 3:00 |
 | 85 | [Dos que uno](https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 4:22 |
-| 86 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
-| 87 | [Sunlight](https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9) | [Besos](https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk) | [Sunlight](https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb) | 3:06 |
+| 86 | [Sunlight](https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9) | [Besos](https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk) | [Sunlight](https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb) | 3:06 |
+| 87 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
 | 88 | [¿Ypqsp?](https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D) | [Como Las Movies](https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v) | [¿Ypqsp?](https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX) | 4:32 |
 | 89 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
 | 90 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |

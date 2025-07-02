@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,099 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,214 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 35 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
 | 36 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
 | 37 | [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 |
-| 38 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
-| 39 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
+| 38 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
+| 39 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 40 | [how it starts](https://open.spotify.com/track/510YEKitz3E6ejFbw8rmIB) | [elijah](https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy) | [how it starts](https://open.spotify.com/album/1GXkS6OirBCJ37LYCSWfFI) | 3:33 |
 | 41 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
 | 42 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 54 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 |
 | 55 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 |
 | 56 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
-| 57 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
-| 58 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
-| 59 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
+| 57 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
+| 58 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
+| 59 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
 | 60 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
 | 61 | [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 |
 | 62 | [Phrygian](https://open.spotify.com/track/5ySpBqLgqeDONh96HKv0kL) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:00 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 70 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
 | 71 | [Stay](https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 2:10 |
 | 72 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
-| 73 | [Flowers](https://open.spotify.com/track/29DQXFGt78vmZFixJelxJq) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Flowers](https://open.spotify.com/album/155Q3i44LObyZ2sx2WgQyW) | 2:58 |
-| 74 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
+| 73 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
+| 74 | [Flowers](https://open.spotify.com/track/29DQXFGt78vmZFixJelxJq) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Flowers](https://open.spotify.com/album/155Q3i44LObyZ2sx2WgQyW) | 2:58 |
 | 75 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 |
 
 Snapshot ID: `aFTc3wAAAABN/mOW1TN2SWPXcsOm/tHe`

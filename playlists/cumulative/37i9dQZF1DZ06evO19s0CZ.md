@@ -4,7 +4,7 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-104 songs - 7 hr 4 min
+105 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Midnight Rambler](https://open.spotify.com/track/3tIvHt7VaIenprWXrYzgwb) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 6:52 | 2022-01-09 | 2022-10-14 |
 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 | 2022-01-09 |  |
 | [Monkey Man](https://open.spotify.com/track/5m6livL7ccIS92wq16n52r) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:11 | 2022-01-09 |  |
-| [Moonlight Mile \- 2009 Mix](https://open.spotify.com/track/3w7hnMNX4zVZeBJ6LisTjT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:57 | 2022-01-09 |  |
+| [Moonlight Mile \- 2009 Mix](https://open.spotify.com/track/3w7hnMNX4zVZeBJ6LisTjT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:57 | 2022-01-09 | 2025-07-02 |
 | [Mother's Little Helper](https://open.spotify.com/track/44xykY61s1aKsgf40A5cyI) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath \(UK Version\)](https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM) | 2:44 | 2022-01-09 |  |
 | [No Expectations \- 50th Anniversary Edition](https://open.spotify.com/track/49ScE2M6RIqfeHnnP4v94B) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:57 | 2025-02-25 |  |
 | [Not Fade Away \- Mono Version](https://open.spotify.com/track/0C7w4XnkIGu11MpNWbiTLB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [England’s Newest Hitmakers](https://open.spotify.com/album/5efoVI6WIhxLCIrbZuxwBu) | 1:47 | 2023-02-07 | 2024-02-19 |
@@ -112,5 +112,6 @@
 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 | 2022-01-09 |  |
 | [You Got Me Rocking](https://open.spotify.com/track/0JTrB3fXGdyGcwxFFECsm1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Voodoo Lounge \(Remastered 2009\)](https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV) | 3:36 | 2023-05-07 | 2023-05-09 |
 | [You Got The Silver](https://open.spotify.com/track/2pbHaKsIRuIqjZHCLpyQMv) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 2:50 | 2023-04-27 | 2024-10-28 |
+| [Zydeco Sont Pas Salés](https://open.spotify.com/track/6t4QKiYbyoLfsa0NrOBUSr) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Steve Riley](https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr) | [Zydeco Sont Pas Salés](https://open.spotify.com/album/1kHZjOTmab4zgEhv6Llk4K) | 2:45 | 2025-07-02 |  |
 
 \*This playlist was first scraped on 2022-01-11. Prior content cannot be recovered.

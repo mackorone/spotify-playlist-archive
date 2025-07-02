@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,139 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,150 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 52 | [KALLU THE TODDY](https://open.spotify.com/track/1MigC5MPNAMPtef31ji6Fz) | [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH), [Resh Nathan](https://open.spotify.com/artist/2iueufT1KH8rrwGdLZdIV0) | [KALLU THE TODDY](https://open.spotify.com/album/1JTlIHa1VeKcSi5qYQMd9c) | 3:22 |
 | 53 | [NireeshwaraJaadhi](https://open.spotify.com/track/3G3FBgYmWw6z7jwz42gJCE) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [DefyX](https://open.spotify.com/artist/1kXPoybC6zBOABNAfP97eA) | [NireeshwaraJaadhi](https://open.spotify.com/album/4DmcuZgyB4HHRidOiRe4FP) | 3:37 |
 | 54 | [Lifejil](https://open.spotify.com/track/0Itdhb56vDIdPbI6XfVGn6) | [Jilshad Vallapuzha](https://open.spotify.com/artist/1gsx9dFH26ilNmKsfbta1x) | [Lifejil](https://open.spotify.com/album/5vMVc3OjCwcWM6fnwz8bCf) | 3:04 |
-| 55 | [Kallan](https://open.spotify.com/track/7ElPKxj95CEg80v9LYZbtI) | [X\_SAAMBRO](https://open.spotify.com/artist/2G7khiorjSizxWGd4zorgr), [Baluccciiii](https://open.spotify.com/artist/7wOhPadZzkMCYcHo8GIpho), [HALAALAY](https://open.spotify.com/artist/4xRhP8dcEFC4oclE9hGjvm), [CNU](https://open.spotify.com/artist/7FanLoSsZ4MQSlr2I5VpFz) | [Kallan](https://open.spotify.com/album/2ISCmkF7LrUgzdQfnVP5QS) | 3:34 |
+| 55 | [Kallan](https://open.spotify.com/track/7ElPKxj95CEg80v9LYZbtI) | [SAMJU ZAG](https://open.spotify.com/artist/6UmqznGDf6FWjpZBJEfiKO), [Baluccciiii](https://open.spotify.com/artist/7wOhPadZzkMCYcHo8GIpho), [HALAALAY](https://open.spotify.com/artist/4xRhP8dcEFC4oclE9hGjvm), [CNU](https://open.spotify.com/artist/7FanLoSsZ4MQSlr2I5VpFz) | [Kallan](https://open.spotify.com/album/2ISCmkF7LrUgzdQfnVP5QS) | 3:34 |
 | 56 | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u), [Ramya RamC](https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD) | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/album/0lSIMeXjsUG2HA4AqdKBkj) | 3:11 |
 | 57 | [Naranga Paal](https://open.spotify.com/track/3wL3P9U07mTkdnlLAMe0ql) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Naranga Paal](https://open.spotify.com/album/0OEB369pcXTTcgBDvQ1RXy) | 2:31 |
 | 58 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 |

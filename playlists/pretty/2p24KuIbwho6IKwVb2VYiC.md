@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now!  Cover: Loud Luxury
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,458 likes - 143 songs - 7 hr 21 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,461 likes - 143 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 27 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 |
 | 28 | [Your Loving](https://open.spotify.com/track/1HuDcH1KECyj1aCHub4D4G) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Your Loving](https://open.spotify.com/album/3D2oyrCFxJyoKpBhlyueHK) | 3:24 |
 | 29 | [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 |
-| 30 | [Mirror](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
+| 30 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 31 | [Lose Control \- Mr\. Belt & Wezol Remix](https://open.spotify.com/track/17S6tWhuubeLz3rdIrx7Xs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Lose Control \(Mr\. Belt & Wezol Remix\)](https://open.spotify.com/album/6DiFzBG67jAXxHxIEFXvgf) | 2:40 |
 | 32 | [Good Shit](https://open.spotify.com/track/3bGZFJeoFhM4jxqNtz4dnH) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Good Shit](https://open.spotify.com/album/5mhmFB2CSeF2QvBBFU9yNM) | 3:43 |
 | 33 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 |

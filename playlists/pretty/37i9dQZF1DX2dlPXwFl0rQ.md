@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Angelina Victoria en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,590 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,633 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 76 | [La Loca](https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [La Loca](https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96) | 3:47 |
 | 77 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |
 | 78 | [Cowboy Rockstar](https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cowboy Rockstar](https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0) | 2:45 |
-| 79 | [PLH \(Pa' los Haters\)](https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [PLH \(Pa' los Haters\)](https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA) | 2:43 |
-| 80 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
+| 79 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
+| 80 | [PLH \(Pa' los Haters\)](https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [PLH \(Pa' los Haters\)](https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA) | 2:43 |
 | 81 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |
 | 82 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
 | 83 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 97 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
 | 98 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
 | 99 | [Mujeres al Tiro](https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Mujeres al Tiro](https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg) | 2:25 |
-| 100 | [NACÍ PA CORONAR](https://open.spotify.com/track/04KdeYUniYsBPDibppKl3Q) | [Sofi Piñan](https://open.spotify.com/artist/1EsfYkUgGUHynHwA6j4dMH) | [NACÍ PA CORONAR](https://open.spotify.com/album/4nxAttMtUUuAcdmipG544Q) | 3:04 |
+| 100 | [DDC](https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [DDC](https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61) | 3:06 |
 
 Snapshot ID: `aCbUcgAAAABV8cv/+880SrIcU0wUUVJj`

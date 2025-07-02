@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,040 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,047 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 16 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 | 17 | [Rich Folks Hoax](https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:05 |
 | 18 | [Sandrevan Lullaby \- Lifestyles](https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 6:37 |
-| 19 | [Ecuador \(feat\. Rodriguez\) \- Single Mix](https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [QMusic Top 500 van de 90's](https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB) | 3:31 |
+| 19 | [Revolution](https://open.spotify.com/track/4WAPTzwWBatGJtaC8qeHLK) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Revolution](https://open.spotify.com/album/4Tu85opDpfmiM1owf2x6ML) | 5:55 |
 | 20 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
 | 21 | [Inner City Blues](https://open.spotify.com/track/1pU1pXG43llTiLi1JXl57c) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:26 |
 | 22 | [To Whom It May Concern](https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:21 |
-| 23 | [Revolution](https://open.spotify.com/track/4WAPTzwWBatGJtaC8qeHLK) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Revolution](https://open.spotify.com/album/4Tu85opDpfmiM1owf2x6ML) | 5:55 |
+| 23 | [Ecuador \(feat\. Rodriguez\) \- Single Mix](https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [QMusic Top 500 van de 90's](https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB) | 3:31 |
 
-Snapshot ID: `aGCCAAAAAAAfEWI8CIgrTOxY/cRRLp7O`
+Snapshot ID: `aGHTgAAAAAD1VHA+9Q2FScJbNqD57V+C`

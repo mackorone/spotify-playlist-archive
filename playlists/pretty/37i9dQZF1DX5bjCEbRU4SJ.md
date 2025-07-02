@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,296 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,317 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 30 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
 | 31 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
 | 32 | [Wild Side \(Oh the Places You'll Go\)](https://open.spotify.com/track/1mxXTUlRQQnjjFT9h0Dt0p) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 5:40 |
-| 33 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
-| 34 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
-| 35 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
-| 36 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
-| 37 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
-| 38 | [Coming Down](https://open.spotify.com/track/16bwzB6w9ev11KOZ1RNNKJ) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/6TEtRKzAhB3AQ5R0vnGTGz) | 6:30 |
-| 39 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
-| 40 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
-| 41 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
+| 33 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
+| 34 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 35 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
+| 36 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
+| 37 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
+| 38 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
+| 39 | [Coming Down](https://open.spotify.com/track/16bwzB6w9ev11KOZ1RNNKJ) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/6TEtRKzAhB3AQ5R0vnGTGz) | 6:30 |
+| 40 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
+| 41 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
 | 42 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
 | 43 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |
 | 44 | [Dusty Trails](https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl) | 4:24 |

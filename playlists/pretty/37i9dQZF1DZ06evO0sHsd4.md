@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,821 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,881 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 25 | [Mas Alto Que El Everest](https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb) | 3:01 |
 | 26 | [Traigo Una 40](https://open.spotify.com/track/7hDeIf4zAccZaGEaAALBDh) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 3:12 |
 | 27 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
-| 28 | [Y Lo Busque](https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Y Lo Busque](https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr) | 3:45 |
-| 29 | [Vibras](https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vibras](https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF) | 2:44 |
+| 28 | [Vibras](https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vibras](https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF) | 2:44 |
+| 29 | [Y Lo Busque](https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Y Lo Busque](https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr) | 3:45 |
 | 30 | [EPA](https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [EPA](https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq) | 2:57 |
 | 31 | [La Vida Real](https://open.spotify.com/track/4hgpatpyGT9sGCCjA1KxEa) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [El Juanpa](https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:51 |
 | 32 | [Nos Entendemos](https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Nos Entendemos](https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa) | 2:56 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 34 | [Escuela 4 Letras](https://open.spotify.com/track/3CvGYnOdzYStHNggz95kuJ) | [Los Beltran](https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Los Tiempos Cambian](https://open.spotify.com/album/7L50E9jYNHmH7dfpVnrfQP) | 3:06 |
 | 35 | [Donde Estamos Hoy](https://open.spotify.com/track/4PmB3C9y4zsTuRgz91JUHD) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:42 |
 | 36 | [Una Última Ocasión](https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Una Última Ocasión](https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv) | 3:36 |
-| 37 | [Ya No Siento Nada](https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Ya No Siento Nada](https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8) | 2:26 |
-| 38 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 |
+| 37 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 |
+| 38 | [Ya No Siento Nada](https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Ya No Siento Nada](https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8) | 2:26 |
 | 39 | [Modo On](https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 40 | [Alla En Lynwood \- En Vivo](https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Alla En Lynwood \(En Vivo\)](https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul) | 3:23 |
 | 41 | [Mala Mia](https://open.spotify.com/track/5rfaKvcf8Dcj2bvRBCRdUn) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:32 |
 | 42 | [Flow Criminal](https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 43 | [Yo Si Vengo De Las Calles](https://open.spotify.com/track/2cyhNfHLJtCcrpQIXFcV52) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 3:18 |
 
-Snapshot ID: `aGCCAAAAAABZVb3gZQbD1sXYlQRK2Jod`
+Snapshot ID: `aGHTgAAAAAAlKTXyvtTkMS8OiysIOueY`

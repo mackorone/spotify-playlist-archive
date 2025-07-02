@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,262 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,497 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 29 | [SOS](https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:49 |
 | 30 | [La Buena Eras Tú](https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Buena Eras Tú](https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX) | 3:22 |
 | 31 | [LE VA DOLER](https://open.spotify.com/track/41sTEjHxztd0AwF7Dn0HJe) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:33 |
-| 32 | [Ya Pedo Quién Sabe](https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Pedo Quién Sabe](https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA) | 3:11 |
-| 33 | [Mutuo](https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mutuo](https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa) | 2:57 |
+| 32 | [Mutuo](https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mutuo](https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa) | 2:57 |
+| 33 | [Ya Pedo Quién Sabe](https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Pedo Quién Sabe](https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA) | 3:11 |
 | 34 | [Pienso En Ella](https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC) | 2:39 |
 | 35 | [QUÉDATE BEBÉ](https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:13 |
 | 36 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
 | 37 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
-| 38 | [0 SENTIMIENTOS](https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:37 |
-| 39 | [No Se Parece A Ti](https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:20 |
+| 38 | [No Se Parece A Ti](https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:20 |
+| 39 | [0 SENTIMIENTOS](https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:37 |
 | 40 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
 | 41 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
 | 42 | [Ya No](https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya No](https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
 | 50 | [No Te Arrepentiras](https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Te Arrepentiras](https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl) | 2:47 |
 
-Snapshot ID: `aGCCAAAAAACwzO/jQMxwLC5wA0B5FoVb`
+Snapshot ID: `aGHTgAAAAAB0juHoUHpIUJpvSTMQDuI4`

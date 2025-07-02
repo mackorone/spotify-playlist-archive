@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > yiheeeeeeee
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,078 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,089 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 | 19 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 |
 | 20 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 |
 | 21 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
-| 22 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 23 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
-| 24 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 25 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 22 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
+| 23 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 24 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 25 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 26 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 |
 | 27 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
 | 28 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |

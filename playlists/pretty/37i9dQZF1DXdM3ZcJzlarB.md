@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica nacional\. Portada: Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,891 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,909 likes - 100 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2009](https://open.spotify.com/track/5lPnUd0gsk708DCpqGJCuJ) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/3RigQlXMmrbr1aJ9w2ujxs) | [2009 EP](https://open.spotify.com/album/0h1wLzIwrFFFRv1V5kVj6r) | 8:24 |
+| 1 | [2009](https://open.spotify.com/track/5lPnUd0gsk708DCpqGJCuJ) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [2009 EP](https://open.spotify.com/album/0h1wLzIwrFFFRv1V5kVj6r) | 8:24 |
 | 2 | [Don't Say](https://open.spotify.com/track/4dDwzooJin3uzoqYsmSEny) | [Abuk](https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Don't Say](https://open.spotify.com/album/6RzYVGcgoGb5fZmB2A40Dd) | 6:39 |
 | 3 | [It's a Fact](https://open.spotify.com/track/3aJSp4vpoifHifMOtDDclb) | [This & That](https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [It's a Fact](https://open.spotify.com/album/7LyViX8VskJdtrLUX4gGkP) | 5:55 |
 | 4 | [Bitters and Bread \- Agustin Giri Remix](https://open.spotify.com/track/5HK9Tcv2G4Fa37O7b55YaF) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF), [Island Hill](https://open.spotify.com/artist/5kClp5xtCJqb9oYkCZN96g) | [Bitters & Bread \(Agustin Giri Remix\)](https://open.spotify.com/album/495LrYqhTXVoZ9IT9gBDEp) | 5:14 |

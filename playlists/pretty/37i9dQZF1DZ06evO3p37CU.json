@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22231,
+  "num_followers": 22230,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADHRSDHI0RAEbxwEt4dbaff",
+  "snapshot_id": "aGHTgAAAAAAEwlC8htvlnHki3689xASi",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 247971,
+      "name": "LIE TO ME",
+      "url": "https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 234239,
       "name": "OSMOSIS",
       "url": "https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 247971,
-      "name": "LIE TO ME",
-      "url": "https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4"
     },
     {
       "added_at": null,
@@ -963,30 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 173589,
-      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bears Like This Too Much",
         "url": "https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 195800,
       "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
       "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 173589,
+      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Bank",
+      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 175778,
       "name": "Jozi Flows (with Bas & EARTHGANG)",
       "url": "https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Bank",
-      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
     },
     {
       "added_at": null,

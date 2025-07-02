@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 
 > ¡Una inyección de alegría para tus mañanas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,534 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,567 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 32 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 | 33 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 |
 | 34 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
-| 35 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
-| 36 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
+| 35 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
+| 36 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
 | 37 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 38 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 39 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 89 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 |
 | 90 | [DOLCE](https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [DOLCE](https://open.spotify.com/album/0QJKGRAF89Fcgw2ho6oW6A) | 3:21 |
 | 91 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 |
-| 92 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
-| 93 | [Mi Cuarto](https://open.spotify.com/track/1LDBWjh2YlVOHgttPUCmuh) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Cuarto](https://open.spotify.com/album/39C9ZNrQFcQr0OGf5mx19P) | 2:11 |
-| 94 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 |
+| 92 | [Mi Cuarto](https://open.spotify.com/track/1LDBWjh2YlVOHgttPUCmuh) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Cuarto](https://open.spotify.com/album/39C9ZNrQFcQr0OGf5mx19P) | 2:11 |
+| 93 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 |
+| 94 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 95 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 |
 | 96 | [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 |
 | 97 | [2AM](https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [2AM](https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB) | 3:16 |

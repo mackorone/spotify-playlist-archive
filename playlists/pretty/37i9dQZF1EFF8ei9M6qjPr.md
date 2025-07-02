@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 84 | [Sober Up](https://open.spotify.com/track/2toGngwDUb3uo2reQ9dOGS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 2:49 |
 | 85 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
 | 86 | [Trading Places](https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:43 |
-| 87 | [Guidelines](https://open.spotify.com/track/0uJ8jnAFiiMOBsZcDQC9sn) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/3uWRX7uAwJcolHlUW2Fr3O) | 2:34 |
-| 88 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 |
+| 87 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 |
+| 88 | [Guidelines](https://open.spotify.com/track/0uJ8jnAFiiMOBsZcDQC9sn) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/3uWRX7uAwJcolHlUW2Fr3O) | 2:34 |
 | 89 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 |
 | 90 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 |
 | 91 | [TAMALE! \(feat\. Jaleel\)](https://open.spotify.com/track/774BQ6Z8GFi0j6p4MBrBqi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Jaleel](https://open.spotify.com/artist/2iZneDO9KyhxFi9JEzIUo7) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:34 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 164 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 165 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `Ab1jfgAAAADGufM3tO0yJ9Z0ivriuhu2`
+Snapshot ID: `Ab1pHgAAAABvbJ1Lkz6yxw6c3O/YPiTv`

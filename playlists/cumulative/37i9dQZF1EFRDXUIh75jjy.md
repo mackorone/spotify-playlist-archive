@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-243 songs - 12 hr 29 min
+244 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Pillows](https://open.spotify.com/track/0zJKSGfEwHnfFx3Mt8kAnD) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:15 | 2024-06-07 |  |
 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 | 2024-06-07 |  |
 | [Polaroid](https://open.spotify.com/track/2vCEEjiWtVjFEmuCsggbAY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:31 | 2024-06-07 |  |
+| [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 | 2025-07-01 |  |
 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 | 2024-06-14 |  |
 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 | 2024-06-07 |  |
 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 | 2024-06-07 |  |

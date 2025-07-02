@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "A Second To None",
+        "url": "https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Concord",
+          "url": "https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "A Second To None",
+      "url": "https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I"
+    },
+    {
+      "album": {
         "name": "A Short Walk",
         "url": "https://open.spotify.com/album/1UkiEHXmYkQFlsIt30p9Op"
       },
@@ -920,6 +938,24 @@
       "duration_ms": 187917,
       "name": "Around The Corner",
       "url": "https://open.spotify.com/track/0JFY3fbmWEs0EZWV7O7hVT"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1fCrE5s8CAoArPoFBRrQua"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163628,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0vWgUO8FjAaVNvddKmv0a9"
     },
     {
       "album": {
@@ -2176,7 +2212,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 232374,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ"
@@ -2957,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Everyone Will Know",
+        "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173318,
+      "name": "Everyone Will Know",
+      "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
+    },
+    {
+      "album": {
         "name": "Everything Happens To Me",
         "url": "https://open.spotify.com/album/74XVN1rhFaVY7khDoALBNI"
       },
@@ -2986,7 +3040,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 230595,
       "name": "Everything Happens To Me",
       "url": "https://open.spotify.com/track/3vIwdAaJmIrETc7k98gaTg"
@@ -4588,7 +4642,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 225786,
       "name": "I Would Prefer Some Silence",
       "url": "https://open.spotify.com/track/5B83lg61ko9jiwmf9L2CXz"
@@ -4678,7 +4732,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 147374,
       "name": "I'm Afraid The Masquerade Is Over",
       "url": "https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8"
@@ -5092,7 +5146,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 184060,
       "name": "In Search of Lost Time",
       "url": "https://open.spotify.com/track/2vU0LYmrVaazWAah8UhPV3"
@@ -6154,7 +6208,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 188413,
       "name": "Little Bossy",
       "url": "https://open.spotify.com/track/0Rz7PvOkwkVnTlEFsmSt3n"
@@ -6316,7 +6370,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 154527,
       "name": "Love on a Lonely Street",
       "url": "https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct"
@@ -6550,7 +6604,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 180755,
       "name": "Madison Avenue",
       "url": "https://open.spotify.com/track/04oey4VksjOx3oLQ5jRX0b"
@@ -7166,6 +7220,24 @@
       "duration_ms": 225750,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR"
+    },
+    {
+      "album": {
+        "name": "My Periscope",
+        "url": "https://open.spotify.com/album/2lG9d8CAcQ7vxoubAjnazb"
+      },
+      "artists": [
+        {
+          "name": "Miles Hartfield",
+          "url": "https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143577,
+      "name": "My Periscope",
+      "url": "https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc"
     },
     {
       "album": {
@@ -8390,7 +8462,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 216978,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
@@ -9758,7 +9830,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 156125,
       "name": "Still in Love With You",
       "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
@@ -11000,7 +11072,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 197479,
       "name": "Thoughts Of Yesterday",
       "url": "https://open.spotify.com/track/0ZtfGOP5WB9rosemFD5c6e"
@@ -11144,7 +11216,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 159000,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf"
@@ -11630,7 +11702,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 243472,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a"
@@ -11936,7 +12008,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 198841,
       "name": "You Could Stay If You Want To",
       "url": "https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q"

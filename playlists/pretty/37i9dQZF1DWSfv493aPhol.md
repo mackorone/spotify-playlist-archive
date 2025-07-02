@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 
 > Las canciones más escuchadas por la comunidad gamer en Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,282 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,278 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 | 49 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
 | 50 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 |
 | 51 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
-| 52 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
-| 53 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
+| 52 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
+| 53 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
 | 54 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 |
 | 55 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
 | 56 | [911 \(Remix\)](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfv493aPhol.md) - [plain]
 | 89 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 |
 | 90 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
 | 91 | [RED OUT](https://open.spotify.com/track/5sQUXxfkbDpauiEXFc4Rcr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 2:31 |
-| 92 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 |
-| 93 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
+| 92 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
+| 93 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 |
 | 94 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 |
 | 95 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 96 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 |

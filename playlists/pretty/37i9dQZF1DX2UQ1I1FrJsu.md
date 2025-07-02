@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,250 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,370 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 86 | [Khala My Friend](https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 3:23 |
 | 87 | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 |
 | 88 | [la luna enamorada](https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:50 |
-| 89 | [Loverboy](https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 1:13 |
-| 90 | [Saudade](https://open.spotify.com/track/6nVT7yKO7jV4Qw6PZ9B0PK) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Saudade](https://open.spotify.com/album/0XSDdumsjbikADECzlPMXq) | 2:08 |
+| 89 | [Saudade](https://open.spotify.com/track/6nVT7yKO7jV4Qw6PZ9B0PK) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Saudade](https://open.spotify.com/album/0XSDdumsjbikADECzlPMXq) | 2:08 |
+| 90 | [Loverboy](https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 1:13 |
 | 91 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
 | 92 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 |
 | 93 | [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:37 |

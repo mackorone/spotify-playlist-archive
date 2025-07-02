@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,712 likes - 45 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,716 likes - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 15 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
 | 16 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |
 | 17 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 |
-| 18 | [Slå mig hårt i ansiktet](https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Fulkultur](https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X) | 3:31 |
-| 19 | [Dreaming of You](https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [The Coral](https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA) | 2:21 |
+| 18 | [Dreaming of You](https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [The Coral](https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA) | 2:21 |
+| 19 | [Slå mig hårt i ansiktet](https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Fulkultur](https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X) | 3:31 |
 | 20 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
 | 21 | [Somebody Told Me](https://open.spotify.com/track/3twNvmDtFQtAd5gMKedhLD) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:17 |
 | 22 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 34 | [I Follow Rivers](https://open.spotify.com/track/3DsDDXmMtucnf7Etgr0n7x) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes \(The Lost Sessions\)](https://open.spotify.com/album/0KJBXTa4Mwz0zDO2kQ0FD8) | 3:48 |
 | 35 | [Cheek to Cheek](https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [What If Leaving Is a Loving Thing](https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3) | 3:15 |
 | 36 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 |
-| 37 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
-| 38 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
+| 37 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
+| 38 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
 | 39 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
 | 40 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
 | 41 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |

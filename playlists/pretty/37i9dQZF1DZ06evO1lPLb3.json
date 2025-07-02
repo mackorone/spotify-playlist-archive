@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 55582,
+  "num_followers": 55602,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABhZME5ZgN8K1xd23jVZCQt",
+  "snapshot_id": "aGHTgAAAAAB83sKEz3NXxab+gBDFrueb",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lobster Telephone (Edit)",
-        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Lobster Telephone - Edit",
-      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.A.N.C.E (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 195404,
       "name": "D.A.N.C.E - From F1\u00ae The Movie",
       "url": "https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
     },
     {
       "added_at": null,

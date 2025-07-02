@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,907 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,947 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 13 | [Ma philosophie](https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Un Jour D'été](https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w) | 3:23 |
 | 14 | [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 |
 | 15 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
-| 16 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 |
-| 17 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
+| 16 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
+| 17 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 |
 | 18 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
 | 19 | [La terre est ronde](https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Le Chant des sirènes](https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY) | 3:39 |
 | 20 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |

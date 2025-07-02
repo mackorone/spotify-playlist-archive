@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: J Hus 🇬🇲 & Asake 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,870 likes - 74 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,911 likes - 74 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

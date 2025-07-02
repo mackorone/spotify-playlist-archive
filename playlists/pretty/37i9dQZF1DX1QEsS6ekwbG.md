@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 
 > La mejor compañía mientras llueve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,125 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,189 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 20 | [Roma](https://open.spotify.com/track/53v5pE5KzISAyExlB5qSl3) | [Giuliano](https://open.spotify.com/artist/5rkEooSMyUevvKQJnINTQ4) | [ROMA](https://open.spotify.com/album/7bM3TQV91JgWlz9MAycYLT) | 3:36 |
 | 21 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
 | 22 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
-| 23 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
-| 24 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \(25th Anniversary Edition / Remastered 2020\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
-| 25 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 |
-| 26 | [Mientes Tan Bien](https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 3:47 |
-| 27 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
+| 23 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \(25th Anniversary Edition / Remastered 2020\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
+| 24 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
+| 25 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
+| 26 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 |
+| 27 | [Mientes Tan Bien](https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 3:47 |
 | 28 | [Coleccionista de Canciones](https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 5:06 |
 | 29 | [Créeme](https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:34 |
 | 30 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |

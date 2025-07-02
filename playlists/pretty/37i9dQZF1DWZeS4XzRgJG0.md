@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > focus modus is aan en leren maar
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,625 likes - 159 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,628 likes - 159 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 64 | [Looking Too Closely](https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:10 |
 | 65 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |
 | 66 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
-| 67 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
-| 68 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
+| 67 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
+| 68 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
 | 69 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
 | 70 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 71 | [Youth](https://open.spotify.com/track/2Ck6gblyk3UFCVPTh8o3TN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7) | 4:13 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 76 | [Teenage Mind](https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0) | 2:35 |
 | 77 | [You're Beautiful](https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb) | 3:29 |
 | 78 | [So Cold \(The Good Wife Trailer\)](https://open.spotify.com/track/6eLOyOwKUJvjN0f9equFf8) | [Ben Cocks](https://open.spotify.com/artist/7yNYyqPx2N4tCfE8omk9pZ), [Nikisha Reyes\-Pile](https://open.spotify.com/artist/3TyzFhjcE4DtMNc5edayQl) | [...As Heard In](https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct) | 3:46 |
-| 79 | [Keep Your Head Up](https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:24 |
-| 80 | [Superficial Love](https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [The Intro](https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8) | 3:27 |
+| 79 | [Superficial Love](https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [The Intro](https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8) | 3:27 |
+| 80 | [Keep Your Head Up](https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:24 |
 | 81 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
 | 82 | [Love Me or Leave Me](https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:26 |
 | 83 | [Waves](https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D) | 2:54 |
@@ -104,11 +104,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 94 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 |
 | 95 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 | 96 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
-| 97 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 |
-| 98 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
+| 97 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
+| 98 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 |
 | 99 | [Unconditional \- Acoustic](https://open.spotify.com/track/0aj6nonctejtaipI1jctFL) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Unconditional \(Acoustic\)](https://open.spotify.com/album/3U3O0OFKyL9gY9bFPuDuz7) | 3:46 |
-| 100 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
-| 101 | [Vienna](https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH) | 2:43 |
+| 100 | [Vienna](https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH) | 2:43 |
+| 101 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
 | 102 | [Biblical](https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Biblical](https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH) | 3:49 |
 | 103 | [Clown](https://open.spotify.com/track/7JogKto8cNNBqz3dZERgDh) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 3:41 |
 | 104 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 132 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
 | 133 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 |
 | 134 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
-| 135 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
-| 136 | [7 Years](https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years](https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO) | 3:57 |
+| 135 | [7 Years](https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years](https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO) | 3:57 |
+| 136 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
 | 137 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
 | 138 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 139 | [One Day](https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5Q1DDLoSIkSgwPCGH6luio) | 3:22 |

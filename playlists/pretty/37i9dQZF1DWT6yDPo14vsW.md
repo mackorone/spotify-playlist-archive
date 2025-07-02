@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,950 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,978 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 13 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
 | 14 | [Bésame](https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:12 |
 | 15 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
-| 16 | [Dónde está el amor \(feat\. Jesse & Joy\)](https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Tanto \(Edición Premium\)](https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN) | 3:53 |
-| 17 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
+| 16 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
+| 17 | [Dónde está el amor \(feat\. Jesse & Joy\)](https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Tanto \(Edición Premium\)](https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN) | 3:53 |
 | 18 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 |
 | 19 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
 | 20 | [Nada Valgo Sin Tu Amor](https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:16 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 34 | [Me Enamora](https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Vida Es Un Ratico](https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY) | 3:12 |
 | 35 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
 | 36 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
-| 37 | [Aprendiz \- Unplugged](https://open.spotify.com/track/7efXKi4jjGrXMvO6N7U2N4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
+| 37 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
 | 38 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
-| 39 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
+| 39 | [Aprendiz \- Unplugged](https://open.spotify.com/track/7efXKi4jjGrXMvO6N7U2N4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
 | 40 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 |
 | 41 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
 | 42 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 52 | [Gotas De Agua Dulce](https://open.spotify.com/track/0Xn1VqBjoL4PAGxyatEO0Z) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Vida Es Un Ratico](https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY) | 3:08 |
 | 53 | [Quizás](https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Quizás](https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0) | 4:11 |
 | 54 | [No Digas Nada \(Déjà Vu\)](https://open.spotify.com/track/3DhD3hWyou0QluBBTSiBC5) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [3 A.M\. \(Deluxe\)](https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA) | 3:33 |
-| 55 | [Aquello que me diste](https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:45 |
-| 56 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 |
+| 55 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 |
+| 56 | [Aquello que me diste](https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:45 |
 | 57 | [Estoy Hecho De Pedacitos De Ti](https://open.spotify.com/track/476qF2YsjlF2pBNgbn0Q4E) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Diez](https://open.spotify.com/album/2WPsS9UReZyJQNOeJmka5A) | 3:38 |
 | 58 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 | 59 | [Son de Amores](https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Andy Y Lucas](https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm) | 3:51 |

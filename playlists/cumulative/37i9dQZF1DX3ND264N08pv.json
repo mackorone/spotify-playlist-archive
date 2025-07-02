@@ -2543,6 +2543,32 @@
     },
     {
       "album": {
+        "name": "Hard Gaan",
+        "url": "https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ"
+      },
+      "artists": [
+        {
+          "name": "Roosterz",
+          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
+        },
+        {
+          "name": "B\u00f6ssels",
+          "url": "https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC"
+        },
+        {
+          "name": "Royalistiq",
+          "url": "https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151024,
+      "name": "Hard Gaan",
+      "url": "https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y"
+    },
+    {
+      "album": {
         "name": "Hard Knock Life",
         "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
       },
@@ -4036,7 +4062,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 109330,
       "name": "Mambo Italiano",
       "url": "https://open.spotify.com/track/1y6QYYCh7Jp0hwAsu7gWTf"

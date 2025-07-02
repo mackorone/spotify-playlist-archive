@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 
 > Ritmo latino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,656 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,862 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 28 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 |
 | 29 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
 | 30 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
-| 31 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 |
-| 32 | [MALA \(feat\. Anuel AA\)](https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 3:26 |
+| 31 | [MALA \(feat\. Anuel AA\)](https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 3:26 |
+| 32 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 |
 | 33 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 34 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 |
 | 35 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |

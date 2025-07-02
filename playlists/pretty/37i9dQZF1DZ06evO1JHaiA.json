@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACUVySkfin7LtHo/AKHRqlf",
+  "snapshot_id": "aGHTgAAAAABBRdcPasqA28VRuWSaQ2jz",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound of Philadelphia Soul",
-        "url": "https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 131448,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 397200,
       "name": "I'll Always Love My Mama",
       "url": "https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound of Philadelphia Soul",
+        "url": "https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 131448,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "She's A Winner - Single Version",
-      "url": "https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 349426,
       "name": "I Wanna Know Your Name",
       "url": "https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "She's A Winner - Single Version",
+      "url": "https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3"
     },
     {
       "added_at": null,
@@ -339,6 +339,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Everyone's a Star",
+      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Me Tarzan, You Jane",
+      "url": "https://open.spotify.com/track/0009Q7nGlWjFzSjQIo9PmK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -363,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
       "artists": [
         {
@@ -372,9 +404,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 139800,
-      "name": "Me Tarzan, You Jane",
-      "url": "https://open.spotify.com/track/0009Q7nGlWjFzSjQIo9PmK"
+      "duration_ms": 188866,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6eIdVrBE1hHBIIsH9sDFdO"
     },
     {
       "added_at": null,
@@ -388,15 +420,15 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 340866,
-      "name": "Everyone's a Star",
-      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
+      "duration_ms": 395093,
+      "name": "Rainy Days and Mondays",
+      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
       "artists": [
         {
@@ -404,9 +436,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 188866,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/6eIdVrBE1hHBIIsH9sDFdO"
+      "duration_ms": 419746,
+      "name": "Save the Children",
+      "url": "https://open.spotify.com/track/3mfSxUjDW6JQGLd45Qbcr0"
     },
     {
       "added_at": null,
@@ -435,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+        "name": "The Best Of The Intruders: Cowboys To Girls",
+        "url": "https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3"
       },
       "artists": [
         {
@@ -444,9 +476,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 419746,
-      "name": "Save the Children",
-      "url": "https://open.spotify.com/track/3mfSxUjDW6JQGLd45Qbcr0"
+      "duration_ms": 244906,
+      "name": "Mother and Child Reunion",
+      "url": "https://open.spotify.com/track/6sAPnlY46Dq0f2LqlWcRTx"
     },
     {
       "added_at": null,
@@ -467,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of The Intruders: Cowboys To Girls",
-        "url": "https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3"
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
       "artists": [
         {
@@ -476,9 +508,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 244906,
-      "name": "Mother and Child Reunion",
-      "url": "https://open.spotify.com/track/6sAPnlY46Dq0f2LqlWcRTx"
+      "duration_ms": 305600,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
     },
     {
       "added_at": null,
@@ -499,38 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 305600,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 395093,
-      "name": "Rainy Days and Mondays",
-      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Save the Children (Expanded Edition)",
         "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
       },
@@ -543,38 +543,6 @@
       "duration_ms": 206880,
       "name": "Traveling Home",
       "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Memories are Here to Stay",
-      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
     },
     {
       "added_at": null,
@@ -595,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gamble Records All-Stars",
-        "url": "https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl"
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
       "artists": [
         {
@@ -604,9 +572,25 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 169093,
-      "name": "Give Her a Transplant",
-      "url": "https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw"
+      "duration_ms": 197106,
+      "name": "Memories are Here to Stay",
+      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "The Gamble Records All-Stars",
+        "url": "https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
+      "duration_ms": 169093,
+      "name": "Give Her a Transplant",
+      "url": "https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+      "duration_ms": 157066,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
     },
     {
       "added_at": null,
@@ -703,22 +687,6 @@
       "duration_ms": 312830,
       "name": "The Love I Lost - Live",
       "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
     },
     {
       "added_at": null,
@@ -755,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 134373,
       "name": "You're My One & Only Baby",
       "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "One In a Million",
+      "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 193133,
-      "name": "One In a Million",
-      "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     }
   ],
   "unique_name": "This Is The Intruders",

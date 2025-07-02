@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di DJ Shocca,  Tony Boy, Fabri Fibra, Icy Subzero, Promessa,  Villabanks, Frezza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,667 likes - 140 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,668 likes - 140 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,043 likes - 75 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,051 likes - 75 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 4 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 |
 | 5 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
 | 6 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 |
-| 7 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
-| 8 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
-| 9 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 |
+| 7 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
+| 8 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 |
+| 9 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
 | 10 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
 | 11 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
 | 12 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 |
-| 13 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
-| 14 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
-| 15 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
+| 13 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
+| 14 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
+| 15 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
 | 16 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
-| 17 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
+| 17 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 18 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
 | 19 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
 | 20 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 40 | [Soul Charger](https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Soul Charger](https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv) | 2:20 |
 | 41 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
 | 42 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 |
-| 43 | [Bodega](https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Bodega](https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI) | 1:45 |
-| 44 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
-| 45 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 |
-| 46 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 |
+| 43 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 |
+| 44 | [Bodega](https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Bodega](https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI) | 1:45 |
+| 45 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 |
+| 46 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
 | 47 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 |
 | 48 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
 | 49 | [End Credits](https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [End Credits](https://open.spotify.com/album/2COxCYzeNwCOcAQSGu80Fg) | 2:52 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 71 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
 | 72 | [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 |
 | 73 | [this girl](https://open.spotify.com/track/19JzJOMs4wkuKxY8WEOMea) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 2:02 |
-| 74 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 |
-| 75 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
+| 74 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
+| 75 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 |
 
 Snapshot ID: `ZfBnpAAAAACLuoDkaygIc9lwZdBRr2+S`

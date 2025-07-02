@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,002 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,010 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 |
 | 50 | [Finish Line / Drown \(feat\. T\-Pain, Kirk Franklin, Eryn Allen Kane & Noname\)](https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 6:46 |
 
-Snapshot ID: `aGCCAAAAAABZYVIfm9YvBCnTbDo+NqDC`
+Snapshot ID: `aGHTgAAAAACrNGksfeqi8hylBahmjj3F`

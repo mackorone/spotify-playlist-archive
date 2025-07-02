@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,882 likes - 47 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,960 likes - 47 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 27 | [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:48 |
 | 28 | [Broken Hearts Still Beat](https://open.spotify.com/track/6nM3c64Gvk5LlOmcRhNbdh) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 2:48 |
 | 29 | [Hold My Halo](https://open.spotify.com/track/29O197ONSFNzq063eb0869) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 |
-| 30 | [Feather In My Hat \(feat\. Lainey Wilson\)](https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Eagle Feather](https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI) | 3:21 |
-| 31 | [Dreamcatcher](https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 3:24 |
+| 30 | [Dreamcatcher](https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 3:24 |
+| 31 | [Feather In My Hat \(feat\. Lainey Wilson\)](https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Eagle Feather](https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI) | 3:21 |
 | 32 | [Bell Bottoms Up](https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottoms Up](https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ) | 3:32 |
 | 33 | [Straight Up Sideways](https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:56 |
 | 34 | [Two Story House](https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj) | 3:19 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 46 | [Microphone](https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:54 |
 | 47 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
 
-Snapshot ID: `aGCCAAAAAADRlw8bUvP9PiOYSOsmd4Kv`
+Snapshot ID: `aGHTgAAAAAAGl4f0e0KEtBIcP6dR2FxG`

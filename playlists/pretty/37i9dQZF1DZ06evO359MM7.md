@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,928 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,992 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 19 | [Grace \(feat\. 42 Dugg\)](https://open.spotify.com/track/01JMnRUs2YOK6DDpdQASGY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:23 |
 | 20 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |
 | 21 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 |
-| 22 | [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 |
+| 22 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
 | 23 | [Emotionally Scarred](https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:17 |
-| 24 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
+| 24 | [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 |
 | 25 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 |
 | 26 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 |
 | 27 | [F U 2x](https://open.spotify.com/track/2ubNuGSCWRRxUfojPRebiA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 49 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 |
 | 50 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
 
-Snapshot ID: `aGCCAAAAAABna53H5A0nMA8RBF3x612P`
+Snapshot ID: `aGHTgAAAAACVR3k6Ecs7o1WBkFpghU6e`

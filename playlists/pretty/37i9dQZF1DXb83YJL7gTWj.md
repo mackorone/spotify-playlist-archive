@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,333 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,331 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 55 | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
 | 56 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 57 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
-| 58 | [Better Place](https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 2:56 |
-| 59 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
+| 58 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
+| 59 | [Better Place](https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 2:56 |
 | 60 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
 | 61 | [Medallion](https://open.spotify.com/track/46Y9vXsmtnYZdEwny4o1Dd) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:27 |
 | 62 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |

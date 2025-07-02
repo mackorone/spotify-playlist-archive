@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,207 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,192 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 61 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 |
 | 62 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
 | 63 | [Boom Clap](https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:49 |
-| 64 | [Pretty Shining People](https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:32 |
-| 65 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR) | 3:36 |
+| 64 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR) | 3:36 |
+| 65 | [Pretty Shining People](https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:32 |
 | 66 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 67 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ) | 2:46 |
 | 68 | [Foundations](https://open.spotify.com/track/5JkTN6THtYH6bpOoHjOysc) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS) | 4:05 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAAuIzdpCegfHSsv74Dp1Zg0",
+  "snapshot_id": "aGHTgAAAAAAiACLTRtloOJ+Z6YxY4L2f",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 168961,
       "name": "FALSA FANTASIA",
       "url": "https://open.spotify.com/track/2cHow13oEjdUhLwj1PyCJd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
     },
     {
       "added_at": null,
@@ -619,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faixa Anjo",
-        "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Dj Nene",
-          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
-        }
-      ],
-      "duration_ms": 246620,
-      "name": "Faixa Anjo",
-      "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Quero Love",
         "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 155833,
       "name": "N\u00e3o Quero Love",
       "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faixa Anjo",
+        "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "duration_ms": 246620,
+      "name": "Faixa Anjo",
+      "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
     },
     {
       "added_at": null,
@@ -1223,34 +1223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Piscina",
-        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 268085,
-      "name": "Festa na Piscina",
-      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lambo",
         "url": "https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj"
       },
@@ -1307,6 +1279,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Festa na Piscina",
+        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 268085,
+      "name": "Festa na Piscina",
+      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decolar",
+        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 196402,
+      "name": "Decolar",
+      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Firma \u00e9 Forte",
         "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 181313,
       "name": "Tipo Trem Bala",
       "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decolar",
-        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 196402,
-      "name": "Decolar",
-      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
     },
     {
       "added_at": null,

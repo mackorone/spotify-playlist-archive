@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-374 songs - 21 hr 22 min
+375 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-08 | 2024-02-16 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-08 | 2024-03-03 |
 | [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 | 2024-11-21 | 2024-12-24 |
-| [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 | 2024-06-21 |  |
+| [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 | 2024-06-21 | 2025-07-02 |
 | [Arrival of the Birds](https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery of the Flamingos \(Original Soundtrack\)](https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW) | 2:37 | 2022-11-11 | 2024-04-19 |
 | [Arrival of the Birds](https://open.spotify.com/track/1xRCmlU2GyzGem2vw4glxK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery Of The Flamingos](https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u) | 2:38 | 2024-04-11 |  |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2024-04-12 |
@@ -228,6 +228,7 @@
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-23 | 2024-09-25 |
 | [New Balance](https://open.spotify.com/track/6Phf1PBngMsWNVgdWR1Ob7) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [New Balance](https://open.spotify.com/album/3BwYNBWG40dC3p3W8EFB8E) | 2:31 | 2025-03-06 | 2025-06-03 |
 | [No debería quererte \- Acústico](https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry) | [Marina](https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X) | [No debería quererte EP](https://open.spotify.com/album/7rgrfYTpZObZ6NPHI946PQ) | 2:37 | 2024-04-11 | 2024-06-07 |
+| [NO ES DORMIR](https://open.spotify.com/track/6sxSoBiFmDQP0l05BSA4hB) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [NO ES DORMIR](https://open.spotify.com/album/6x7juu25BeXzXFovRz8zgm) | 2:05 | 2025-06-26 |  |
 | [No es el momento](https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM) | [María Parrado](https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6) | [No es el momento](https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd) | 2:55 | 2024-12-23 | 2025-01-06 |
 | [No Marcharás](https://open.spotify.com/track/6cxQ2r0Bxn3lUYxY7nSWMn) | [Antonio Romero](https://open.spotify.com/artist/5oL1C1BH1Qeuib1JRZngtA) | [Tanto Tiempo](https://open.spotify.com/album/02JQ5rOsZa145uPzbWIarG) | 3:13 | 2025-06-26 |  |
 | [No Matter What](https://open.spotify.com/track/1LxlsAn1gECKoqLtOslshm) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [No Matter What](https://open.spotify.com/album/5HYPXY6FQXg2pQkOY2Tygw) | 3:56 | 2022-11-11 | 2023-01-06 |

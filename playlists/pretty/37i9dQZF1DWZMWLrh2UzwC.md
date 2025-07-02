@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KATSEYE, yung kai, Siti Nordiana, Tomok, Aisha Retno, Lewis Capaldi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,458 likes - 134 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,461 likes - 134 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 107 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 |
 | 108 | [Peace Of Mind](https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Peace Of Mind](https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve) | 2:28 |
 | 109 | [My Chick \(Feat\. Lil Cherry\)](https://open.spotify.com/track/43zNS0a18EnlLlcX3zc6LY) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [My Chick](https://open.spotify.com/album/0E3exhlkZLi8QX4CiLItkq) | 2:22 |
-| 110 | [miyakowasure](https://open.spotify.com/track/2RTAySdgqdkMLAwU1f7obV) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [miyakowasure](https://open.spotify.com/album/4egJ2uIsG9Eebf8eG0FSLj) | 5:22 |
+| 110 | [miyakowasure](https://open.spotify.com/track/2RTAySdgqdkMLAwU1f7obV) | [HAON](https://open.spotify.com/artist/0VLn7Vx0oUXuUU9RpNZHXK) | [miyakowasure](https://open.spotify.com/album/4egJ2uIsG9Eebf8eG0FSLj) | 5:22 |
 | 111 | [I Can't Lie](https://open.spotify.com/track/3P77RtWC2S8Fa87UHyXBFn) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [I Can't Lie](https://open.spotify.com/album/173kXFQprdIhDkFiZjgsFc) | 3:25 |
 | 112 | [The Reason](https://open.spotify.com/track/5g2tSqR4UoX4jZKI1p1r9e) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [The Reason](https://open.spotify.com/album/7BRaMYu6sVXyxhS5vXMe54) | 4:56 |
 | 113 | [Looking Up](https://open.spotify.com/track/2L255DSg5DJbmHlFrxp2Nq) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/0t6PMy3FcoonbnnSkxTRyf) | 2:25 |

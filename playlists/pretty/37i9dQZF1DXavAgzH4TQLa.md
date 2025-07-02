@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,541 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,539 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 19 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 |
 | 20 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
 | 21 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 |
-| 22 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
-| 23 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
+| 22 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
+| 23 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
 | 24 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 |
 | 25 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |
 | 26 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 49 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
 | 50 | [No Puedo Olvidarla](https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Tropicalisima 2015](https://open.spotify.com/album/1uu0RbV3je5BzBA3sp45Al) | 3:23 |
 | 51 | [La pollera amarilla](https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE), [Gladys La Bomba Tucumana](https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ) | [Un sueño hecho realidad](https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj) | 3:06 |
-| 52 | [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/5fI4LBI23D3JkgRCePYvPV) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 4:02 |
-| 53 | [Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor](https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Despues de Ti / Pero Me Acuerdo de Ti / a Puro Dolor](https://open.spotify.com/album/6k53cVKHS6nwAwzcqqGguZ) | 4:12 |
+| 52 | [Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor](https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Despues de Ti / Pero Me Acuerdo de Ti / a Puro Dolor](https://open.spotify.com/album/6k53cVKHS6nwAwzcqqGguZ) | 4:12 |
+| 53 | [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/5fI4LBI23D3JkgRCePYvPV) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 4:02 |
 | 54 | [Eres Mi Amor](https://open.spotify.com/track/6EYjGhtDE4kuCg8aVsl1wE) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Eres Mi Amor](https://open.spotify.com/album/5b3RpCBKpJae2pzAhGDwnm) | 3:00 |
 | 55 | [Alza las manos](https://open.spotify.com/track/5x5p0KnLpo4risHjqRjD1o) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:35 |
 | 56 | [Si Hay Alguien en Tu Vida](https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:38 |

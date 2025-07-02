@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,037 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,059 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 44 | [Que Sepan Todos](https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Que Sepan Todos](https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5) | 3:25 |
 | 45 | [Sembrando Flores](https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:16 |
 | 46 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 |
-| 47 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
+| 47 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
 | 48 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 |
-| 49 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
+| 49 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 50 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 |
 | 51 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
 | 52 | [Que te vaya bonito](https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:22 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 60 | [Debut Y Despedida](https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:03 |
 | 61 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 |
 | 62 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
-| 63 | [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 |
-| 64 | [Como una punzada](https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK), [Eleonor](https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW) | [No tenemos prisa](https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk) | 3:58 |
+| 63 | [Como una punzada](https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK), [Eleonor](https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW) | [No tenemos prisa](https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk) | 3:58 |
+| 64 | [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 |
 | 65 | [El Andariego](https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:17 |
 | 66 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
 | 67 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |

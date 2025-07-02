@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751,626 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,751,634 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 2 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
-| 3 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
-| 4 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 3 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 4 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
 | 5 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
 | 6 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
 | 7 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 |

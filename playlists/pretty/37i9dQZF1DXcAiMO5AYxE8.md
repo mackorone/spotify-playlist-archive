@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,927 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,983 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 23 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
 | 24 | [Shine On](https://open.spotify.com/track/69IFOdcqRAceXkikTCblWA) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [DREAM ON](https://open.spotify.com/album/3bgbVCy73fCJcGky7q6xFg) | 5:12 |
 | 25 | [What Can I Say](https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 2:59 |
-| 26 | [Running Away](https://open.spotify.com/track/42kFGNfCDZQWnql4rSiKhT) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Roy Ayers \- Universal Masters](https://open.spotify.com/album/5xO3QmYfDvMSR5UQtlXmy5) | 3:57 |
+| 26 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
 | 27 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
-| 28 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
+| 28 | [Running Away](https://open.spotify.com/track/42kFGNfCDZQWnql4rSiKhT) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Roy Ayers \- Universal Masters](https://open.spotify.com/album/5xO3QmYfDvMSR5UQtlXmy5) | 3:57 |
 | 29 | [Rock the Boat](https://open.spotify.com/track/2I6Jfs4VsWwpo3SI0yMEVz) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [The Best of Disco](https://open.spotify.com/album/0Um71BYb1Zl8Oa6vSvn2ox) | 3:00 |
 | 30 | [Disco Nights \(Rock Freak\) \- Single Remix](https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:53 |
 | 31 | [Thinking of You \- 2006 Remaster](https://open.spotify.com/track/4vRRBejkkDF6bKpupomK7S) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Definitive Groove: Sister Sledge](https://open.spotify.com/album/6Wx25BBKR9mTNnndloRRWs) | 4:29 |

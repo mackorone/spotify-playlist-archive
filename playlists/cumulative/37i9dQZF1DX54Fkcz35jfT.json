@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: \u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\u30cd\u30d0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: UVERworld",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1621,6 +1621,42 @@
     },
     {
       "album": {
+        "name": "a\u0418omaly",
+        "url": "https://open.spotify.com/album/0zf73QkRFifuL3Skr4ShxQ"
+      },
+      "artists": [
+        {
+          "name": "NANO",
+          "url": "https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223987,
+      "name": "ENDGAME",
+      "url": "https://open.spotify.com/track/2toJ3Yovx8mqHZIIQOpTG1"
+    },
+    {
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196813,
+      "name": "EPIPHANY",
+      "url": "https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR"
+    },
+    {
+      "album": {
         "name": "FACT 2009 - 2012",
         "url": "https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2"
       },
@@ -1874,6 +1910,24 @@
       "duration_ms": 145200,
       "name": "FXXKFXXKFXXK",
       "url": "https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0"
+    },
+    {
+      "album": {
+        "name": "Season \u2161",
+        "url": "https://open.spotify.com/album/13FBVpnVRYK1GR1x4ecEAY"
+      },
+      "artists": [
+        {
+          "name": "Seikima-II",
+          "url": "https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "Galaxy Of Black Hole",
+      "url": "https://open.spotify.com/track/5Ij7OdS2JBKZ1onV9wnJcN"
     },
     {
       "album": {
@@ -2556,7 +2610,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 193520,
       "name": "JUNGLE BUN DEM",
       "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
@@ -3442,7 +3496,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
@@ -4406,7 +4460,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 201105,
       "name": "RISE",
       "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"

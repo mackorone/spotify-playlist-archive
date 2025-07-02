@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,491 likes - 48 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,492 likes - 48 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 33 | [Easy](https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:25 |
 | 34 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 |
 | 35 | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/track/0CAZQv7S7Y7TGdQiuhF0bR) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/album/7aytuE5Q9TKFH1RfhXRpBi) | 2:19 |
-| 36 | [Rich Bitch \(feat\. Lakeyah & Coi Leray\)](https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:41 |
-| 37 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
+| 36 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
+| 37 | [Rich Bitch \(feat\. Lakeyah & Coi Leray\)](https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:41 |
 | 38 | [2 Tone](https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:04 |
 | 39 | [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 |
 | 40 | [Clock It](https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Clock It](https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P) | 3:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 47 | [Giannis \(feat\. Icewear Vezzo & Peezy\)](https://open.spotify.com/track/4wMsfCTbVOz1UuZTr7Vlcs) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Peezy](https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:17 |
 | 48 | [Loving Me](https://open.spotify.com/track/4GpydPt9VVVb3djc7lzwzk) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:59 |
 
-Snapshot ID: `aGCCAAAAAAD5SZKx9FUjww8v2YVxyHj2`
+Snapshot ID: `aGHTgAAAAACUJkSSc2Ztmgalov7IM1Ci`

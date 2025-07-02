@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,354 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,550 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 67 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
 | 68 | [Panic \- 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:20 |
 | 69 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
-| 70 | [One Day Like This](https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 6:34 |
-| 71 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
+| 70 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
+| 71 | [One Day Like This](https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 6:34 |
 | 72 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 |
 | 73 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 74 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 76 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
 | 77 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 |
 | 78 | [I Am the Resurrection \- Remastered 2009](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
-| 79 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
-| 80 | [Do You Remember The First Time?](https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:22 |
+| 79 | [Do You Remember The First Time?](https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:22 |
+| 80 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
 
 Snapshot ID: `aGJ3MQAAAABnTG//2Vq8FmjICGfIel2B`

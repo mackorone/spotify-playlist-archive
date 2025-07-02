@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Kean Kavanagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,257 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,260 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 35 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 36 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 37 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 |
-| 38 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
-| 39 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
+| 38 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
+| 39 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
 | 40 | [The Milkman](https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Milkman](https://open.spotify.com/album/5Jh1Rvb07bacdYGlDzqVgh) | 2:57 |
 | 41 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 |
 | 42 | [Breakaway](https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Breakaway](https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW) | 3:13 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 54 | [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 |
 | 55 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 |
 | 56 | [EXHAUST THE TOPIC](https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 5:10 |
-| 57 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
-| 58 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 |
+| 57 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 |
+| 58 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
 | 59 | [I Used To](https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [I Used To](https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR) | 3:06 |
 | 60 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 61 | [Frontrunner](https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 2:52 |
@@ -88,19 +88,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 78 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
 | 79 | [Burn](https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Burn](https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0) | 3:57 |
 | 80 | [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 |
-| 81 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 |
-| 82 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 |
+| 81 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 |
+| 82 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 |
 | 83 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
 | 84 | [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 |
 | 85 | [Dungarvan Bay](https://open.spotify.com/track/6WlcQe4KodAuL9UfRQJpLx) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Dungarvan Bay](https://open.spotify.com/album/1mdLhKK2P573OovvcU0Rb4) | 3:34 |
 | 86 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 |
 | 87 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 |
-| 88 | [UnHinged](https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [UnHinged](https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz) | 2:48 |
-| 89 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 |
-| 90 | [Killer](https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles \(But With a Cherry on Top\)](https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT) | 3:03 |
-| 91 | [Heart Attack Police](https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Heart Attack Police](https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD) | 2:56 |
-| 92 | [Best Guess](https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo) | 4:00 |
-| 93 | [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 |
+| 88 | [Killer](https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles \(But With a Cherry on Top\)](https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT) | 3:03 |
+| 89 | [Heart Attack Police](https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Heart Attack Police](https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD) | 2:56 |
+| 90 | [UnHinged](https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [UnHinged](https://open.spotify.com/album/7A4oGPJzbB706sfR5AxZVz) | 2:48 |
+| 91 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 |
+| 92 | [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 |
+| 93 | [Best Guess](https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo) | 4:00 |
 | 94 | [To All The Ones That I Love](https://open.spotify.com/track/6Z3Ank38DbdeCtlpcvZfQH) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [To All The Ones That I Love](https://open.spotify.com/album/7lsQd2eIoDJI6NVLsbIgBc) | 3:54 |
 | 95 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
 | 96 | [Undefeated](https://open.spotify.com/track/2Z6QeHgOk17KRXsODxiGuP) | [Sandhouse](https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq) | [Undefeated](https://open.spotify.com/album/4rlS0DAXAfNrNlFtPMySMD) | 2:43 |

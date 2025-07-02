@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,237 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,314 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 35 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 36 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
 | 37 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
-| 38 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
+| 38 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
 | 39 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
-| 40 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
-| 41 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 40 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
+| 41 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
 | 42 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 43 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 44 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |

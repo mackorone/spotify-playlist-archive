@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,034 likes - 80 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,157 likes - 80 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 28 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
 | 29 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
 | 30 | [Take Over](https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Take Over](https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri) | 13:55 |
-| 31 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 |
+| 31 | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/track/1ZlNWHMvm95qd2Am25GZQo) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/album/19Se7kZOuTASpZLV8o06dm) | 6:46 |
 | 32 | [Alagbada Ina \(feat\. Victoria Orenze\)](https://open.spotify.com/track/5nYZcBMWmElPweuzKs4ANs) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Revival Flames](https://open.spotify.com/album/3ouj0BXXkGizxWYTtcPK3y) | 4:31 |
-| 33 | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/track/1ZlNWHMvm95qd2Am25GZQo) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/album/19Se7kZOuTASpZLV8o06dm) | 6:46 |
+| 33 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 |
 | 34 | [Draw](https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 6:31 |
 | 35 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
 | 36 | [There Is Prophecy over Me](https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [There Is Prophecy over Me](https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH) | 13:20 |

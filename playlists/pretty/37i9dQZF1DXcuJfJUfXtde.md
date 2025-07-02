@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 
 > sólo soy una chica que ama los videos pop 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,144 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,238 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 37 | [Team](https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:13 |
 | 38 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 | 39 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
-| 40 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
-| 41 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
-| 42 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 |
-| 43 | [Diet Pepsi](https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:49 |
-| 44 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
-| 45 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 40 | [Diet Pepsi](https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:49 |
+| 41 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
+| 42 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
+| 43 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 |
+| 44 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 45 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
 | 46 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 |
 | 47 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
 | 48 | [Worth It \(feat\. Kid Ink\)](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:44 |

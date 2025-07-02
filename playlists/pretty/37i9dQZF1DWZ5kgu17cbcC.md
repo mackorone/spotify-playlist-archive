@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including FX’s Adults, now streaming on Hulu.
+> Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,207 likes - 97 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,194 likes - 97 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad Advice \- From "Adults"](https://open.spotify.com/track/0aPMsJumGpUcwOMbpEjfkW) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Bad Advice \(From "Adults"\)](https://open.spotify.com/album/1zAHQLX6f24q8QsYLLaOz3) | 2:30 |
-| 2 | [Secret Temptation \(Remix\)](https://open.spotify.com/track/2AsHCGcgO13ifgiRVaBoCr) | [ITG Studios](https://open.spotify.com/artist/5ExXlrueheuTEy2uq8FM9O), [Drew Lerdal](https://open.spotify.com/artist/5HQMGImv8Iu3flykKX6UhU) | [The Secret Lives of Mormon Wives](https://open.spotify.com/album/3OOZsk1u6uPaiCOZKGdbG7) | 1:41 |
-| 3 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
-| 4 | [Go Harder](https://open.spotify.com/track/4Fv2Wjq8ZVKmkPnQxgayOs) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Go Harder](https://open.spotify.com/album/5lKVUOQqmMkvQA0Y3VyxIM) | 2:57 |
-| 5 | [Ramblin' Down the Road](https://open.spotify.com/track/6fkwkMTKHzhDXClB0RWLpz) | [Sadie Sink](https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ) | [O'DESSA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i) | 2:29 |
-| 6 | [It Ain't Me, Babe](https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [Monica Barbaro](https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 3:37 |
+| 1 | [Secret Temptation \(Remix\)](https://open.spotify.com/track/2AsHCGcgO13ifgiRVaBoCr) | [ITG Studios](https://open.spotify.com/artist/5ExXlrueheuTEy2uq8FM9O), [Drew Lerdal](https://open.spotify.com/artist/5HQMGImv8Iu3flykKX6UhU) | [The Secret Lives of Mormon Wives](https://open.spotify.com/album/3OOZsk1u6uPaiCOZKGdbG7) | 1:41 |
+| 2 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
+| 3 | [Go Harder](https://open.spotify.com/track/4Fv2Wjq8ZVKmkPnQxgayOs) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Go Harder](https://open.spotify.com/album/5lKVUOQqmMkvQA0Y3VyxIM) | 2:57 |
+| 4 | [Ramblin' Down the Road](https://open.spotify.com/track/6fkwkMTKHzhDXClB0RWLpz) | [Sadie Sink](https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ) | [O'DESSA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i) | 2:29 |
+| 5 | [It Ain't Me, Babe](https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [Monica Barbaro](https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 3:37 |
+| 6 | [Bad Advice \- From "Adults"](https://open.spotify.com/track/0aPMsJumGpUcwOMbpEjfkW) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Bad Advice \(From "Adults"\)](https://open.spotify.com/album/1zAHQLX6f24q8QsYLLaOz3) | 2:30 |
 | 7 | [Paradise](https://open.spotify.com/track/7xPXAu8b27xAbIugYXKmC5) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Paradise \(Original Soundtrack\)](https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly) | 1:06 |
 | 8 | [Scandalous](https://open.spotify.com/track/52dMeV2jCIKvWtgrg5fLXI) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Scandalous](https://open.spotify.com/album/450SkCc5mLKxqi4nYePEPr) | 3:21 |
 | 9 | [Here Comes the Seventh Son](https://open.spotify.com/track/1kLjL6oMym33ao8UOF9fHY) | [Sadie Sink](https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ) | [O'DESSA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i) | 3:24 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 | 96 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 |
 | 97 | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/track/2canKLgddxHGw8OnRBgynG) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [There Must Be a God \(From "She Taught Love"\)](https://open.spotify.com/album/5GgdqQFaUMpGglNX9z11uc) | 3:35 |
 
-Snapshot ID: `aFWuewAAAAC8QvGB+EQ6P2PQgg9gDh1l`
+Snapshot ID: `aGNdkwAAAABUfMy7c4KW6FlBWdy5zUws`

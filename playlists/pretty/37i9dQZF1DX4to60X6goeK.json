@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 71406,
+  "num_followers": 71430,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2025-06-19 23:00:21",
+      "album": {
         "name": "Hijack",
         "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 155913,
       "name": "Hijack",
       "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
-    },
-    {
-      "added_at": "2025-06-19 23:00:21",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2025-06-19 23:00:21",
@@ -687,26 +687,22 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
-        "name": "Round + Round",
-        "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
+        "name": "No Excuses (Hedex Remix)",
+        "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         },
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
         }
       ],
-      "duration_ms": 158620,
-      "name": "Round + Round",
-      "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
+      "duration_ms": 163907,
+      "name": "No Excuses - Hedex Remix",
+      "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
     },
     {
       "added_at": "2025-06-19 23:00:21",
@@ -731,22 +727,26 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
-        "name": "No Excuses (Hedex Remix)",
-        "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
+        "name": "Round + Round",
+        "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
         },
         {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 163907,
-      "name": "No Excuses - Hedex Remix",
-      "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
+      "duration_ms": 158620,
+      "name": "Round + Round",
+      "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
     },
     {
       "added_at": "2025-06-19 23:00:21",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
-    },
-    {
-      "added_at": "2025-06-19 23:00:21",
-      "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
+    },
+    {
+      "added_at": "2025-06-19 23:00:21",
+      "album": {
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-06-19 23:00:21",

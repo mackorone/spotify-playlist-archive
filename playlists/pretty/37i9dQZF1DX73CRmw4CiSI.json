@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 106538,
+  "num_followers": 106586,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Toma Ketama",
+        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
+      },
+      "artists": [
+        {
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Agustito",
+      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 169987,
       "name": "Vivir (with Estopa)",
       "url": "https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Toma Ketama",
-        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
-      },
-      "artists": [
-        {
-          "name": "Ketama",
-          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Agustito",
-      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
     },
     {
       "added_at": "2022-01-25 22:47:02",

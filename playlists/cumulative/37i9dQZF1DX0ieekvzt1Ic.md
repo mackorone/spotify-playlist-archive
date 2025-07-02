@@ -4,7 +4,7 @@
 
 > The hottest tracks in India\. <br/><br/>Cover: Ed Sheeran
 
-100 songs - 5 hr 22 min
+101 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 | 2024-08-21 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2024-05-17 | 2024-09-03 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-13 |  |
+| [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-01 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2024-05-17 | 2024-09-03 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2024-05-17 | 2024-07-04 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-02 |  |

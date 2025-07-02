@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,433 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,757 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 33 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
 | 34 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 |
 | 35 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
-| 36 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
-| 37 | [You are so beautiful](https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Guardian \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu) | 3:15 |
+| 36 | [You are so beautiful](https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Guardian \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu) | 3:15 |
+| 37 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 38 | [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 |
 | 39 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 40 | [It\`s you](https://open.spotify.com/track/3dvPPS5KXskeRbrSY80gwt) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Whats wrong with secretary kim OST Part.2](https://open.spotify.com/album/33Pnr6Xe94tVdfMvZKKntT) | 3:39 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 48 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 |
 | 49 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 50 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 |
-| 51 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
-| 52 | [All with You](https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut) | 3:53 |
+| 51 | [All with You](https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut) | 3:53 |
+| 52 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
 | 53 | [Who Are You](https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Guardian \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp) | 4:15 |
 | 54 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
 | 55 | [아쉬운 마음인걸](https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG) | [에이 스타일](https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:08 |

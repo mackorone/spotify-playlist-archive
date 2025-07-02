@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20838,
+  "num_followers": 20846,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACiHSESCudMlPBroQFMRYpG",
+  "snapshot_id": "aGHTgAAAAAAPCXBumcg0Ebid92Z+QQZc",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00e9s Bom",
-        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Tu \u00e9s Bom",
-      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu \u00e9s Bom",
+        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Tu \u00e9s Bom",
+      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
     },
     {
       "added_at": null,

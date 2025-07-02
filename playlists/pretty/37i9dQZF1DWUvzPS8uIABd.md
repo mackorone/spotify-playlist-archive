@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa VIIVI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,663 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,668 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

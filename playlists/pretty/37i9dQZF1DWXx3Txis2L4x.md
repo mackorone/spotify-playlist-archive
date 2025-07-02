@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,420 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,482 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 37 | [When Your Heart Stops Beating](https://open.spotify.com/track/6yT4ww7r7wDBlwMDUazx0U) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/1u59jNVLIMqS6h3YUsMNPc) | 3:12 |
 | 38 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 39 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
-| 40 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
-| 41 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
+| 40 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
+| 41 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 | 42 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
 | 43 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
 | 44 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 |

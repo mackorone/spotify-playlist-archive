@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,712 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,719 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 25 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 |
 | 26 | [오늘도 굿나잇 Good Night](https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 3:37 |
 | 27 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 |
-| 28 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
-| 29 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
+| 28 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
+| 29 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 30 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
 | 31 | [melody of LOVE](https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [melody of LOVE](https://open.spotify.com/album/0ckTN1RbF46tC87PLSM4vh) | 4:14 |
 | 32 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |

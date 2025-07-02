@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Flor de Lis (Upside Down)",
+        "url": "https://open.spotify.com/album/0OwNT4Lv1ViODTp9lI9r1K"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337083,
+      "name": "Flor de Lis (Upside Down)",
+      "url": "https://open.spotify.com/track/1NUy3QgtzwdxaQ1beWHSK1"
+    },
+    {
+      "album": {
         "name": "For\u00e7a Estranha",
         "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 236618,
       "name": "Voando (Nel Blu Dipinto Di Blu)",
       "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"

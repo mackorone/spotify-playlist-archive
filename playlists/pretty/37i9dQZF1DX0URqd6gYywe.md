@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Indios y Conociendo Rusia
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,951 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,998 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 39 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 |
 | 40 | [Va a Ser Difícil Olvidar](https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 41 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 |
-| 42 | [Dos en la ciudad](https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:42 |
-| 43 | [Desconexión Sideral](https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:51 |
+| 42 | [Desconexión Sideral](https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:51 |
+| 43 | [Dos en la ciudad](https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:42 |
 | 44 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
 | 45 | [Fuego de Febrero](https://open.spotify.com/track/5QnnbCGngds8lyDAJi3jSc) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh) | 3:34 |
 | 46 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 88 | [Ahora 2](https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 3:01 |
 | 89 | [Abrazame](https://open.spotify.com/track/6Y4GA1qG0x17RR9tPfA6st) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Abrazame](https://open.spotify.com/album/5IvA88O5F7qYHaIG0Aj052) | 4:28 |
 | 90 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 |
-| 91 | [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 |
-| 92 | [Deja Su Lugar](https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Deja Su Lugar](https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4) | 3:55 |
+| 91 | [Deja Su Lugar](https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Deja Su Lugar](https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4) | 3:55 |
+| 92 | [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 |
 | 93 | [Desarma y sangra](https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:44 |
 | 94 | [MADRID SIN VOS](https://open.spotify.com/track/3JSvXb9Uk8MgMYYpjzxpr1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [MADRID SIN VOS](https://open.spotify.com/album/0YA8mnbTDmJlv13JBP9SK4) | 3:44 |
 | 95 | [Me Estás Tratando Mal \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Me Estás Tratando Mal \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM) | 4:26 |

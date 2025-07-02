@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "I ONE",
+        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174910,
+      "name": "1&Only",
+      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
+    },
+    {
+      "album": {
         "name": "gener\u00e1cia 00",
         "url": "https://open.spotify.com/album/4QF0TEUrD0GQjw4Ta8gu8r"
       },
@@ -588,6 +606,24 @@
       "duration_ms": 139130,
       "name": "2 Handys",
       "url": "https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn"
+    },
+    {
+      "album": {
+        "name": "2 min\u00faty nen\u00e1visti na ministerstve pravdy",
+        "url": "https://open.spotify.com/album/3t3arC1ep6613C3CFESp12"
+      },
+      "artists": [
+        {
+          "name": "Fobia Kid",
+          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "2 min\u00faty nen\u00e1visti na ministerstve pravdy",
+      "url": "https://open.spotify.com/track/0E0JyUwArxT6J6Mt42pwLY"
     },
     {
       "album": {
@@ -4428,7 +4464,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 197489,
       "name": "A\u017e po u\u0161i",
       "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
@@ -7694,7 +7730,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 228696,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/6M2OleyQEsz3jvA4mdiZxp"
@@ -15292,7 +15328,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 180373,
       "name": "Driving with My Darling",
       "url": "https://open.spotify.com/track/5HlRJ3ZIO1fOPXqKNAWrmT"
@@ -17770,7 +17806,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -18561,6 +18597,32 @@
     },
     {
       "album": {
+        "name": "Fire Fire",
+        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
+    },
+    {
+      "album": {
         "name": "Fire To The Rain (Hardstyle)",
         "url": "https://open.spotify.com/album/2Bdfm4YrVFi8MiZPtTHpqK"
       },
@@ -18644,7 +18706,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 163759,
       "name": "Fireborn \u2013 Burn It All",
       "url": "https://open.spotify.com/track/1QJsBD1342aOCUZXOKQaIv"
@@ -21232,7 +21294,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
@@ -22050,7 +22112,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 187924,
       "name": "h1p h0p",
       "url": "https://open.spotify.com/track/3LrLQlRYMFUQ4T1S7tWQpE"
@@ -25636,7 +25698,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 168385,
       "name": "I LOVE YOU SO JUMPSTYLE",
       "url": "https://open.spotify.com/track/0nggkRRrc40IINGD2DlzeF"
@@ -29880,7 +29942,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 188571,
       "name": "KSN - PINTLICH REMIX",
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
@@ -30902,6 +30964,28 @@
       "duration_ms": 199500,
       "name": "Les Duele",
       "url": "https://open.spotify.com/track/0JC2yPGYZsO9zR9Bss3Hi8"
+    },
+    {
+      "album": {
+        "name": "RDY?!",
+        "url": "https://open.spotify.com/album/3RchACacIg6UYVyEX0XRVv"
+      },
+      "artists": [
+        {
+          "name": "ahojniki",
+          "url": "https://open.spotify.com/artist/6UQN5JJbBjRtfwueQLUjJc"
+        },
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208889,
+      "name": "Leskl\u00e9 hoodies",
+      "url": "https://open.spotify.com/track/7ojTFTmERCTLntEP6lMQoZ"
     },
     {
       "album": {
@@ -33922,7 +34006,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -34712,7 +34796,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 184615,
       "name": "medelin",
       "url": "https://open.spotify.com/track/4KmnwhIOSh9zZRzTUJGsY4"
@@ -35295,6 +35379,28 @@
     },
     {
       "album": {
+        "name": "MEZCAL",
+        "url": "https://open.spotify.com/album/0zXUp8f4M7oQ2M1Z1na8PD"
+      },
+      "artists": [
+        {
+          "name": "Milky Savage",
+          "url": "https://open.spotify.com/artist/7k9QSbzkauGz9fY46WNPgL"
+        },
+        {
+          "name": "Ley Lofaj",
+          "url": "https://open.spotify.com/artist/3T7vQs2QNG3MjG8ewYf6LV"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179294,
+      "name": "MEZCAL",
+      "url": "https://open.spotify.com/track/0D3ZmmJe4nImXEBZnnWe9k"
+    },
+    {
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/6z16Su3ZCz4bC9jlfC9Kv8"
       },
@@ -35750,7 +35856,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 196551,
       "name": "MIMO SIE\u0164",
       "url": "https://open.spotify.com/track/2xVgcmqFE4MJhzJeBAh68h"
@@ -48700,7 +48806,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -52233,6 +52339,24 @@
     },
     {
       "album": {
+        "name": "Slang",
+        "url": "https://open.spotify.com/album/0KqbUWRaVGPhgAC2KQO9Oh"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Slang",
+      "url": "https://open.spotify.com/track/3RZyUVjsvS1ODNIVKs13bB"
+    },
+    {
+      "album": {
         "name": "SLAUGHTER HOUSE",
         "url": "https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L"
       },
@@ -53752,6 +53876,28 @@
       "duration_ms": 162253,
       "name": "SPINNIN (Segway Remix)",
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
+    },
+    {
+      "album": {
+        "name": "SOLDIERS",
+        "url": "https://open.spotify.com/album/5KMXapnfQKreblcNlOCs6g"
+      },
+      "artists": [
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        },
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247317,
+      "name": "Spioniro Golubiro",
+      "url": "https://open.spotify.com/track/7Bh4gmWtWTjtqdOJNUhRuK"
     },
     {
       "album": {
@@ -65217,6 +65363,24 @@
     },
     {
       "album": {
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/5niX6tQuih2cmvFbMazeiM"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "You Make Me Feel Loved",
+      "url": "https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2"
+    },
+    {
+      "album": {
         "name": "You Put A Spell On Me",
         "url": "https://open.spotify.com/album/2Nkr0aFoohR0tiifB2Q6Es"
       },
@@ -67562,6 +67726,28 @@
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
+    },
+    {
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        },
+        {
+          "name": "AR\u5218\u592b\u9633",
+          "url": "https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211677,
+      "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
+      "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
     },
     {
       "album": {

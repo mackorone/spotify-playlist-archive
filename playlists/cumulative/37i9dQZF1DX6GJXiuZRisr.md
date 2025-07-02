@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-598 songs - 1 day 17 hr 28 min
+599 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Flote](https://open.spotify.com/track/4KKReGbLbORi7NKmbYWjkF) | [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j), [Las Von](https://open.spotify.com/artist/0Eg9OF05MOdIS3zMmXA6Os) | [Perseus/Flote](https://open.spotify.com/album/1KKwBNK7JKdjHabstynGkN) | 4:24 | 2021-05-07 | 2022-04-21 |
 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 | 2025-01-17 |  |
 | [Focus Shift](https://open.spotify.com/track/3pIZW8KU4gdNj1zOR3yq8X) | [Dallic](https://open.spotify.com/artist/5tGZYcCVzejFFYAjEUjbgh) | [Focus Shift](https://open.spotify.com/album/5vSq28RCgpQ02Wq4vMfqeH) | 3:59 | 2021-05-07 | 2022-04-20 |
+| [Follow](https://open.spotify.com/track/42DWH94DHBMQLJChi2PYh1) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Follow EP](https://open.spotify.com/album/04tT2en23cD8al8SiDQPwE) | 4:56 | 2025-06-27 |  |
 | [Follow me \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/5c4xnWEDCzN3Y2RrjV7GKb) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Follow Me \(Remixes\)](https://open.spotify.com/album/6yFdfs6u4PRuuhpTrTelp8) | 4:23 | 2021-05-07 | 2022-04-20 |
 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 | 2022-07-01 | 2023-04-06 |
 | [For Life \(feat\. Zak Abel & Nile Rodgers\) \- Nicky Romero Remix](https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [KYGO \(The Remixes\)](https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu) | 3:51 | 2024-08-30 | 2024-10-26 |
@@ -181,7 +182,7 @@
 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 | 2024-08-30 | 2025-02-01 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
 | [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 | 2024-11-28 |
-| [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 | 2024-01-26 |  |
+| [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 | 2024-01-26 | 2025-07-02 |
 | [Friend Of Mine](https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Friend Of Mine](https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS) | 3:33 | 2024-01-19 |  |
 | [Further Away](https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Further Away](https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB) | 3:14 | 2023-08-04 | 2024-05-26 |
 | [Future](https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Future](https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G) | 3:24 | 2021-05-07 | 2022-06-18 |

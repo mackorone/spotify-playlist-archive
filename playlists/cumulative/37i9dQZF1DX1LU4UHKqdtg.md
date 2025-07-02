@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: KATSEYE
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: BABYMONSTER
 
-1,499 songs - 3 day 7 hr 47 min
+1,500 songs - 3 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-26 | 2022-09-07 |
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-02 | 2024-10-18 |
+| [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 | 2025-07-01 |  |
 | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q) | 3:18 | 2023-07-20 | 2023-08-19 |
 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-05-24 | 2022-08-09 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 | 2024-09-20 |

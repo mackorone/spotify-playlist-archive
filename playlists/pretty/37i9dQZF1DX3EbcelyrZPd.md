@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,283 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,350 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 |
 | 2 | [Me too](https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Me too](https://open.spotify.com/album/03Ip4Xc6gRdo2SkJtAh8N9) | 2:38 |
-| 3 | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece\_Yvk\)](https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece\_Yvk\)](https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L) | 5:23 |
+| 3 | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece Yvk\)](https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece Yvk\)](https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L) | 5:23 |
 | 4 | [HA HA HA](https://open.spotify.com/track/5CUoPjNakqWqFnTbSdd5dg) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [HA HA HA](https://open.spotify.com/album/4bgpgeZcEMF42o1dVQLLWy) | 2:46 |
 | 5 | [Nimepitia](https://open.spotify.com/track/6cI2spNOFPIK59V5Pgv9Jx) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Silver](https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW) | 3:43 |
 | 6 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 |

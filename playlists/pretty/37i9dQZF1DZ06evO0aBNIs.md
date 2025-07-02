@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,111 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,224 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 40 | [Bad Girl \(feat\. Marilyn Manson\)](https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 2:54 |
 | 41 | [I Love You](https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 4:02 |
 | 42 | [Love Sux](https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:48 |
-| 43 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:31 |
+| 43 | [Why](https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:54 |
 | 44 | [Give You What You Like](https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 3:45 |
 | 45 | [Everybody Hurts](https://open.spotify.com/track/57gIhFXdJ5M9JuNDcbpcEk) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:41 |
-| 46 | [Why](https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:54 |
+| 46 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:31 |
 | 47 | [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 |
 | 48 | [I Fell In Love With The Devil](https://open.spotify.com/track/6HHtTXPyBTJsLQT0y3afnm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 4:15 |
 | 49 | [Bad Reputation](https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 2:42 |
 | 50 | [Kiss Me Like The World Is Ending](https://open.spotify.com/track/7rYRIG2g3zW0ERcVTenxra) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:50 |
 
-Snapshot ID: `aGCCAAAAAAB2/Kec3/jpAtpk73JXkgYn`
+Snapshot ID: `aGHTgAAAAAB+NTmAJN0aBPjqgMP3wqbC`

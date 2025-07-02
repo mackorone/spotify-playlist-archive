@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Sam Gellaitry",
+  "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Disco Lines & Tinashe",
   "name": "Dance Hits",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
@@ -6209,6 +6209,28 @@
     },
     {
       "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "album": {
         "name": "Feel Again, Pt. 1",
         "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },
@@ -6602,7 +6624,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -9553,6 +9575,32 @@
     },
     {
       "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
@@ -9608,6 +9656,24 @@
       "duration_ms": 190153,
       "name": "Wacuka",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "album": {
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199479,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {
       "album": {

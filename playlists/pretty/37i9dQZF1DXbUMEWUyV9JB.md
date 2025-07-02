@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,450 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,446 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 69 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
 | 70 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 71 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
-| 72 | [La Colombiana](https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Colombiana](https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju) | 2:46 |
-| 73 | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/track/4HS1Zmh4EsqxJ2j7vLgIRT) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/album/6Fa4gIficwgEvdGjQyvYzm) | 3:32 |
+| 72 | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/track/4HS1Zmh4EsqxJ2j7vLgIRT) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Mi Escolta Por un Lado \(MAMBO\)](https://open.spotify.com/album/6Fa4gIficwgEvdGjQyvYzm) | 3:32 |
+| 73 | [La Colombiana](https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Colombiana](https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju) | 2:46 |
 | 74 | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1) | 3:14 |
 | 75 | [Si A Todo](https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:53 |
 | 76 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 |

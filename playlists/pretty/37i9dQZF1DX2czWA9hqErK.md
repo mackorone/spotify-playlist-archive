@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Make every day feel like Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,350,872 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350,806 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 40 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
 | 41 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 42 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 |
-| 43 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 |
-| 44 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
+| 43 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
+| 44 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 |
 | 45 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 |
 | 46 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
 | 47 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
@@ -87,26 +87,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 77 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 78 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 |
 | 79 | [Lungs](https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Lungs](https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ) | 3:57 |
-| 80 | [The Boy Who Can't Be Named](https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [The Boy Who Can't Be Named](https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z) | 3:31 |
-| 81 | [Begin Again](https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Begin Again](https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU) | 3:05 |
+| 80 | [Begin Again](https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Begin Again](https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU) | 3:05 |
+| 81 | [The Boy Who Can't Be Named](https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [The Boy Who Can't Be Named](https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z) | 3:31 |
 | 82 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
 | 83 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
 | 84 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
 | 85 | [Fade Into A Dream](https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c) | 2:51 |
-| 86 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 |
-| 87 | [guilty](https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [guilty](https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd) | 2:48 |
-| 88 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
+| 86 | [guilty](https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [guilty](https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd) | 2:48 |
+| 87 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
+| 88 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 |
 | 89 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
 | 90 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
 | 91 | [Fall on Me](https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fall on Me](https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot) | 3:36 |
-| 92 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
-| 93 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
+| 92 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
+| 93 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
 | 94 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
 | 95 | [A Wonder Day](https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [A Wonder Day](https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z) | 3:29 |
 | 96 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
 | 97 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
 | 98 | [Over and Over](https://open.spotify.com/track/6vnPpO4fF6FvjGysp7yWNh) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Over and Over](https://open.spotify.com/album/31TTw2uKYx1sfvXTZe3WvJ) | 3:14 |
-| 99 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
-| 100 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
+| 99 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
+| 100 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
 
 Snapshot ID: `aC+sfAAAAAADY5x+KgIedhFAjlvxfYE4`

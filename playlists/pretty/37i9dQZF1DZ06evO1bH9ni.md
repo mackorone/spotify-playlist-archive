@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,806 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,839 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 39 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 |
 | 40 | [El Mismo \- En Vivo](https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:37 |
 | 41 | [El Ranchero](https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Décimo Aniversario \(Deluxe Edition\)](https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj) | 2:39 |
-| 42 | [El Bendecido](https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Bendecido](https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk) | 2:38 |
-| 43 | [En Fin](https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:46 |
-| 44 | [Desde Hoy](https://open.spotify.com/track/2oJCZJAyJgW6tfPTER8nYJ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:34 |
+| 42 | [En Fin](https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:46 |
+| 43 | [Desde Hoy](https://open.spotify.com/track/2oJCZJAyJgW6tfPTER8nYJ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:34 |
+| 44 | [El Bendecido](https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Bendecido](https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk) | 2:38 |
 | 45 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 |
 | 46 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
 | 47 | [Termino Con Lo Nuestro](https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Termino Con Lo Nuestro](https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [Sigo Vivo](https://open.spotify.com/track/7rPC4wLWe8A1puq0sJUaCI) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sigo Vivo](https://open.spotify.com/album/3lm9z9Dmci1VrFHBeEANxf) | 3:11 |
 | 50 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Para Impresionarte](https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC) | 2:29 |
 
-Snapshot ID: `aGCCAAAAAAAh9i4/NndG5NhI9ZTbVa6X`
+Snapshot ID: `aGHTgAAAAADbScpg5O2sR9R/zPfgNdzh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=RdeehQ3VSg2NorWLeHscFw"> Sasha Keable</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,473 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,475 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 25 | [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 |
 | 26 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 27 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 |
-| 28 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
-| 29 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 |
+| 28 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 |
+| 29 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
 | 30 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
 | 31 | [me u & pride](https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [since yall say ion drop enough](https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU) | 3:19 |
 | 32 | [You4Me](https://open.spotify.com/track/6HGL76EoYOTR2ETqucHxPA) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [You4Me](https://open.spotify.com/album/0mpmJp3sKifYKvOPiAcjtL) | 2:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 46 | [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 |
 | 47 | [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 |
 | 48 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 |
-| 49 | [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 |
-| 50 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 |
+| 49 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 50 | [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 |
 
 Snapshot ID: `aF4VVQAAAADZeHGembYo6sh9mYHpKMx0`

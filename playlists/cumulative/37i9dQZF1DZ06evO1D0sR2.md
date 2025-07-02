@@ -4,7 +4,7 @@
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-161 songs - 17 hr 44 min
+162 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,9 +119,10 @@
 | [Reckless Love \- Live](https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Greg Kirkland, Jr.](https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs) | [Miracle Worker \(Live\)](https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7) | 3:23 | 2024-01-09 |  |
 | [Reminder \(feat\. Deon Kipping\)](https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 9:04 | 2023-04-13 |  |
 | [Reminder \(feat\. Deon Kipping\)](https://open.spotify.com/track/3OsYeDXVHI7X3MeSlJUuh1) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Reminder \(feat\. Deon Kipping\) / You Deserve It \(feat\. Cecily\)](https://open.spotify.com/album/6mvkpq8gQ8DOKBjXQKHWlh) | 9:04 | 2023-04-02 | 2023-04-14 |
-| [Report of the Lord](https://open.spotify.com/track/3GqDysrVRVYPVQbEZwoy3J) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 7:52 | 2025-01-17 |  |
+| [Report of the Lord](https://open.spotify.com/track/3GqDysrVRVYPVQbEZwoy3J) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 7:52 | 2025-01-17 | 2025-07-02 |
 | [Shift This Place](https://open.spotify.com/track/2p4c4LzwQDQB7vWGTQCXmB) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 4:25 | 2024-01-14 | 2025-06-21 |
 | [Shift This Place](https://open.spotify.com/track/4DpG8THfiN5O5DqoZZpg5E) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 4:25 | 2023-05-09 | 2023-09-16 |
+| [Song Of Praise \- Live](https://open.spotify.com/track/1W6V1aIkv5IWisAus6Ovmn) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Wendy Wyatt](https://open.spotify.com/artist/4v8W1eiogy84od48h5I8xC) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 6:42 | 2025-07-02 |  |
 | [Spirit of God \- Live](https://open.spotify.com/track/6eusWdCP7AoqckgTPHGV02) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr) | 8:09 | 2023-08-27 | 2023-08-31 |
 | [Spirit of God \- Live](https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 8:09 | 2024-05-14 | 2025-04-18 |
 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 | 2023-04-02 |  |

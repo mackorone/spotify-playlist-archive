@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,963,850 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,963,807 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 14 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 | 15 | [bad vibes forever \(feat\. PnB Rock & Trippie Redd\)](https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:30 |
 | 16 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 |
-| 17 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
+| 17 | [the remedy for a broken heart \(why am I so in love\)](https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:40 |
 | 18 | [Save Me](https://open.spotify.com/track/2UwbhMie1EAYuTZ0QXeMwl) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:43 |
 | 19 | [Ex Bitch](https://open.spotify.com/track/40KuvsFD0zpUFuCcmt5Xm0) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:01 |
 | 20 | [Riot](https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Riot](https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42) | 1:18 |
-| 21 | [the remedy for a broken heart \(why am I so in love\)](https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:40 |
+| 21 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
 | 22 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 |
 | 23 | [let's pretend we're numb](https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [let's pretend we're numb](https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V) | 1:20 |
 | 24 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [Train food](https://open.spotify.com/track/5lar0mCUejpILVkAz50s2J) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:44 |
 | 50 | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb) | 1:34 |
 
-Snapshot ID: `aGCCAAAAAAB1T7ORnN24mIAWPmvO1Hym`
+Snapshot ID: `aGHTgAAAAABFPsqnYvetRFsPtXpkWjEw`

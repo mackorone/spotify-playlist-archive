@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20234,
+  "num_followers": 20242,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADzbdhQ422orB4EUYjlS+aG",
+  "snapshot_id": "aGHTgAAAAABkL1wr8pPqEl1za0Jp6fl0",
   "tracks": [
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Sinning",
-        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176009,
-      "name": "Still Sinning",
-      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Sayin' (feat. Rich Homie Quan)",
         "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 202200,
       "name": "I'm Sayin' (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Sinning",
+        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176009,
+      "name": "Still Sinning",
+      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
     },
     {
       "added_at": null,

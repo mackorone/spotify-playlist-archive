@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,479 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,338 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 10 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 11 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 12 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
-| 13 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
-| 14 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
-| 15 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
+| 13 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
+| 14 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
+| 15 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 16 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 17 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
 | 18 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 49 | [Sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 |
 | 50 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 51 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
-| 52 | [Fan](https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Fan](https://open.spotify.com/album/2ROpD9Dicooqh7dtVQYMtn) | 2:58 |
-| 53 | [Ophelia](https://open.spotify.com/track/5hjhaH0vwtpftiLtF3veZp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:35 |
+| 52 | [Ophelia](https://open.spotify.com/track/5hjhaH0vwtpftiLtF3veZp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:35 |
+| 53 | [Fan](https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Fan](https://open.spotify.com/album/2ROpD9Dicooqh7dtVQYMtn) | 2:58 |
 | 54 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 |
 | 55 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
 | 56 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 |
-| 57 | [Taj Li Watani](https://open.spotify.com/track/0qkei2mL1oGzIQtPesLCoD) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Taj Li Watani](https://open.spotify.com/album/56draevXcdLxvpUM3arMyo) | 2:46 |
-| 58 | [Dream Police](https://open.spotify.com/track/2zyodCmgNx5slEG5tOlXX2) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Dream Police](https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF) | 3:10 |
+| 57 | [Dream Police](https://open.spotify.com/track/2zyodCmgNx5slEG5tOlXX2) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Dream Police](https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF) | 3:10 |
+| 58 | [Taj Li Watani](https://open.spotify.com/track/0qkei2mL1oGzIQtPesLCoD) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Taj Li Watani](https://open.spotify.com/album/56draevXcdLxvpUM3arMyo) | 2:46 |
 | 59 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
 | 60 | [Je t’aime n’est pas assez fort](https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [L'album du mâle](https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH) | 3:25 |
 | 61 | [¿PARA QUÉ VOLVER?](https://open.spotify.com/track/0ZjnVVnhLVTonfDfL2yHv6) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿PARA QUÉ VOLVER?](https://open.spotify.com/album/5dvJ3lO6zmFMEjejiMqbkS) | 2:21 |

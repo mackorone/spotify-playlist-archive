@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 297291,
+  "num_followers": 297298,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADssedDwt+qXWbY8zBxus3O",
+  "snapshot_id": "aGHTgAAAAAClqDRz56cxfG29L6g19eEW",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 331522,
       "name": "Junkyard Blues - 20th Anniversary Remix",
       "url": "https://open.spotify.com/track/11utQx4r68El6Y8rBMs6ij"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clearly Quite Absurd (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/2QpCKAXux70Uw5nOcvlb34"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 324589,
+      "name": "Clearly Quite Absurd - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/3xfE6JRSXXb0MGcvEVVznx"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "King of Dreams",
-      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 324733,
       "name": "You Keep On Moving - 2010 Digital Remaster",
       "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "King of Dreams",
+      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "Bad Attitude",
-      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 240026,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 286733,
+      "name": "Bad Attitude",
+      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "A Bit on the Side",
-      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whoosh!",
         "url": "https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 282866,
       "name": "Nothing at All",
       "url": "https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "A Bit on the Side",
+      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 205973,
       "name": "You Can't Do It Right - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
     }
   ],
   "unique_name": "This Is Deep Purple",

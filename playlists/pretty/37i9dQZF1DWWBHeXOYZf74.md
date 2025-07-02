@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,675 likes - 140 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,705 likes - 140 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 68 | [Vacay](https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Vacay](https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX) | 2:22 |
 | 69 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 |
 | 70 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 |
-| 71 | [Mirror](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
+| 71 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 72 | [I'm Your Dirt, I'm Your Love](https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Jonatan](https://open.spotify.com/album/09N3Yw1yNAMNNXSUqnoV6l) | 2:51 |
 | 73 | [words](https://open.spotify.com/track/26jHXGOE2EENKlCByolM1x) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [words](https://open.spotify.com/album/0wV2RsQZbMRVH1MynpbBSD) | 2:17 |
 | 74 | [Adesso](https://open.spotify.com/track/3NfmRR0w6HyHfmOfsQ7QmH) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [Adesso](https://open.spotify.com/album/4U7mWcUxD85dzBZOHyzoSO) | 3:39 |

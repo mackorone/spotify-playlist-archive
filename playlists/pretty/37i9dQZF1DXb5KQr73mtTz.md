@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,306 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,317 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 20 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 3:55 |
 | 21 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
 | 22 | [Love Alone](https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:41 |
-| 23 | [One More Day](https://open.spotify.com/track/260qGZnKIKC41u6LH2L9pq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [In The Spring](https://open.spotify.com/album/0SDjas70ExEIhpRm24UCUz) | 3:25 |
-| 24 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 |
+| 23 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 |
+| 24 | [One More Day](https://open.spotify.com/track/260qGZnKIKC41u6LH2L9pq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [In The Spring](https://open.spotify.com/album/0SDjas70ExEIhpRm24UCUz) | 3:25 |
 | 25 | [The Road](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:15 |
 | 26 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |
 | 27 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 34 | [No Longer Human \(feat\. Sonny Zero\)](https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [No Longer Human](https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv) | 3:20 |
 | 35 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
 | 36 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 |
-| 37 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
-| 38 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 37 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 38 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
 | 39 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
-| 40 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
-| 41 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
+| 40 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
+| 41 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
 | 42 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 43 | [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 |
 | 44 | [가득 빈 마음에](https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [제30회 유재하 음악경연대회](https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO) | 2:57 |

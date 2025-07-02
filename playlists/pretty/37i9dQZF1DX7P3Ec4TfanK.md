@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > ☕ 💪🍳🧘‍♀️🏃☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,749 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,724 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 33 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 34 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 35 | [Red Light](https://open.spotify.com/track/1eRsYW80thFTfA7QP8vRBK) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Red Light](https://open.spotify.com/album/05RpaVvtRNOyUID3IQL4eh) | 2:26 |
-| 36 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |
-| 37 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
+| 36 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
+| 37 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |
 | 38 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 39 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 40 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 49 | [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 |
 | 50 | [Periodo Particolare](https://open.spotify.com/track/7lkJ88rdNriRF6InSUtqBa) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Periodo Particolare](https://open.spotify.com/album/4UYPWMo2txBJWm7A7XEQ98) | 2:53 |
 | 51 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
-| 52 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
-| 53 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 |
+| 52 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 |
+| 53 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 54 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
 | 55 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
 | 56 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |

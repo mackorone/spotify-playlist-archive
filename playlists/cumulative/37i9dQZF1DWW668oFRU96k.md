@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x A7S x Wizkid
 
-1,912 songs - 4 day 1 hr 38 min
+1,913 songs - 4 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Burning for You](https://open.spotify.com/track/5tQgATZBNXo0BABCfYqvIb) | [MarshallYU](https://open.spotify.com/artist/68wVN92QinmN9C7c07BzXq), [Sober Chow](https://open.spotify.com/artist/2BGi0t7XS0pDdmTPilGIe8), [Uncle Ciao](https://open.spotify.com/artist/7EOdI3hqzSbiq00OHH3JX4) | [Burning for You](https://open.spotify.com/album/4fwwU5FQOGUWHbDheoqIm7) | 3:14 | 2025-04-24 | 2025-05-30 |
 | [Butterflies \(feat\. Adalaide Adams\)](https://open.spotify.com/track/2aaQKzZwl38OWPXrCLlOEL) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [BIGMOO](https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [Butterflies \(feat\. Adalaide Adams\)](https://open.spotify.com/album/2Fgjxsd1sNSCvFhUbJlJdg) | 2:57 | 2025-06-12 |  |
 | [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 | 2023-09-21 | 2023-10-20 |
+| [By My Side](https://open.spotify.com/track/4uGF2W5nYPwHts0WAkIrer) | [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [By My Side](https://open.spotify.com/album/2qLLEEcFIX59os99Dg2g48) | 2:56 | 2025-06-26 |  |
 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 | 2024-04-25 | 2024-06-01 |
 | [By Your Side](https://open.spotify.com/track/6onBgLfct1UJTLI6zGSnWO) | [Jay Ocean](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM) | [By Your Side](https://open.spotify.com/album/0xCSif2Anvwnl5eFEL6C2L) | 4:06 | 2023-07-27 | 2023-09-01 |
 | [C'est Jamais Vue](https://open.spotify.com/track/5TlZHjePk5tb0RfjlNmJFn) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Roll Up](https://open.spotify.com/album/2mIf1bG4rK1Z9XHn04gSZE) | 3:13 | 2024-08-03 | 2024-09-07 |

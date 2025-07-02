@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้! ศิลปิน: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,606 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,621 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 7 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 |
 | 8 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
 | 9 | [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 |
-| 10 | [รักแรกพบ \(Knock Knock\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 2:37 |
-| 11 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 |
+| 10 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 |
+| 11 | [รักแรกพบ \(Knock Knock\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 2:37 |
 | 12 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
 | 13 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 |
 | 14 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
 | 15 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 |
 | 16 | [นิโคติน](https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [นิโคติน \- Single](https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34) | 3:36 |
-| 17 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 |
-| 18 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
+| 17 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
+| 18 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 |
 | 19 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 |
 | 20 | [สถานีดวงจันทร์](https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [สถานีดวงจันทร์](https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd) | 3:51 |
 | 21 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 95 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 |
 | 96 | [ลั่นทม \(เพลงประกอบละคร หอมกลิ่นความรัก\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม \- Single](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 |
 | 97 | [แค่เธอเข้ามา \(Worth The Wait\)](https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv) | 3:25 |
-| 98 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \- Single](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 |
-| 99 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
+| 98 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
+| 99 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \- Single](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 |
 | 100 | [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 |
 
 Snapshot ID: `aDn5DQAAAACusgXN4qZox+H8PJmFfJID`

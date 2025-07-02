@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,733 likes - 150 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,797 likes - 150 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 118 | [God Is In Control](https://open.spotify.com/track/5EBozQIT1SrEskijMLfevl) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [Beyond A Dream](https://open.spotify.com/album/6AgCHYULVFNDheiZtOpMxA) | 5:45 |
 | 119 | [The Champion](https://open.spotify.com/track/5w1Oq2woEW7QpEBQSzCb5x) | [Carman](https://open.spotify.com/artist/3kTcyaSYP5fqlqrNUvxiER) | [The Champion](https://open.spotify.com/album/5izNB1WvXcrTHUy3RE1XB6) | 8:39 |
 | 120 | [The Basics Of Life](https://open.spotify.com/track/659nJCCP4NGGU8ncSM5NW1) | [4Him](https://open.spotify.com/artist/5F211gZjfoqvH8v7erGdsy) | [The Basics Of Life](https://open.spotify.com/album/6W0BrIYO2ouSiErccmwG4i) | 5:13 |
-| 121 | [When God Ran](https://open.spotify.com/track/4DEJa4TcaYUEVuiVX3PB5U) | [Benny Hester](https://open.spotify.com/artist/03CAU4k3sKX2o210ir9dRo) | [Benny from Here](https://open.spotify.com/album/48vIX0dteo2c9niPazAXEj) | 5:03 |
-| 122 | [We Will Stand](https://open.spotify.com/track/2167rwWY1N0bUmSZQ522kL) | [Russ Taff](https://open.spotify.com/artist/0hxYrVr7PlRoiYuYaKBctb) | [Walls of Glass](https://open.spotify.com/album/70v746yqHqYh3GnzTjBZmV) | 4:38 |
+| 121 | [We Will Stand](https://open.spotify.com/track/2167rwWY1N0bUmSZQ522kL) | [Russ Taff](https://open.spotify.com/artist/0hxYrVr7PlRoiYuYaKBctb) | [Walls of Glass](https://open.spotify.com/album/70v746yqHqYh3GnzTjBZmV) | 4:38 |
+| 122 | [When God Ran](https://open.spotify.com/track/4DEJa4TcaYUEVuiVX3PB5U) | [Benny Hester](https://open.spotify.com/artist/03CAU4k3sKX2o210ir9dRo) | [Benny from Here](https://open.spotify.com/album/48vIX0dteo2c9niPazAXEj) | 5:03 |
 | 123 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 |
 | 124 | [Love Has Won](https://open.spotify.com/track/7hdn2sjtxPwkrTN6K6yyUa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Love Has Won](https://open.spotify.com/album/29mEscGC93VONgWDdVOtNW) | 4:22 |
 | 125 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
@@ -149,14 +149,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 139 | [The River](https://open.spotify.com/track/1mSMwIW4ZK6DVl499FvDPv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Beloved](https://open.spotify.com/album/37b7Y7ow9J8eHcRyEtqaWY) | 3:15 |
 | 140 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
 | 141 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
-| 142 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
-| 143 | [No Longer Slaves \(Live\)](https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm) | 6:13 |
-| 144 | [This Is Amazing Grace](https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Ascension](https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf) | 4:39 |
+| 142 | [No Longer Slaves \(Live\)](https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm) | 6:13 |
+| 143 | [This Is Amazing Grace](https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Ascension](https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf) | 4:39 |
+| 144 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 145 | [Greater](https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:07 |
 | 146 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
-| 147 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
-| 148 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
-| 149 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T) | 3:42 |
-| 150 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
+| 147 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
+| 148 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
+| 149 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
+| 150 | [Flawless](https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:15 |
 
 Snapshot ID: `aFHTugAAAACYfujL9BQRq8yF0yjXzH56`

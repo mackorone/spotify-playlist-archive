@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-191 songs - 14 hr 14 min
+192 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,9 @@
 | [astro turf](https://open.spotify.com/track/1dqdp3to5A8HVYU9yYxe1n) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [astro turf](https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC) | 3:40 | 2024-05-23 |  |
 | [Autumn Day](https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:34 | 2022-05-06 |  |
 | [Bali](https://open.spotify.com/track/2aaFllN8vPdII7Qz3Byarf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:35 | 2022-05-06 | 2022-10-05 |
-| [Battery Park](https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp) | [Zacky Yazz](https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv) | [Battery Park](https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq) | 2:24 | 2023-04-20 |  |
+| [Battery Park](https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp) | [Zacky Yazz](https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv) | [Battery Park](https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq) | 2:24 | 2023-04-20 | 2025-07-02 |
 | [Beaches](https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Beaches](https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5) | 3:47 | 2024-04-10 |  |
-| [Beautiful](https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Beautiful](https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0) | 3:33 | 2024-01-09 |  |
+| [Beautiful](https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Beautiful](https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0) | 3:33 | 2024-01-09 | 2025-07-02 |
 | [Because of You](https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:44 | 2022-05-06 |  |
 | [Big Dume](https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Big Dume](https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk) | 3:50 | 2023-03-23 |  |
 | [Big Jon](https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [Big Jon](https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo) | 3:50 | 2023-08-18 |  |
@@ -88,13 +88,14 @@
 | [Inside Out](https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:32 | 2022-05-06 |  |
 | [Isabella](https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 5:24 | 2022-08-16 |  |
 | [It Ain't Over BWB](https://open.spotify.com/track/2S7XYSL5qyBoJVQqm2mogJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:37 | 2022-06-14 | 2022-09-22 |
+| [It Might Be You](https://open.spotify.com/track/6k6CaQntp1AuJ89RCzFM35) | [Anthony Smith](https://open.spotify.com/artist/67dt5GuTNqsdlSfaTDky4S) | [It Might Be You](https://open.spotify.com/album/2CWjlY0KC2fN7eGRCFYx92) | 2:22 | 2025-07-01 |  |
 | [It's All Good](https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 5:14 | 2022-05-06 | 2023-08-19 |
 | [Just Chillin'](https://open.spotify.com/track/2CZvyta27Yxnjw9JdDGGyG) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt) | 4:27 | 2022-08-16 | 2023-08-19 |
 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 | 2022-08-16 |  |
 | [Kicks](https://open.spotify.com/track/2DRXRN3kBgwGYZtLc5yFcM) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:05 | 2022-05-06 | 2022-10-05 |
 | [Kimi Trick](https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Jonathan Fritzen](https://open.spotify.com/artist/0z0HE95gGMzsYOFD1EpnBD) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:05 | 2022-08-16 |  |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2022-05-06 | 2022-08-11 |
-| [last of the leather jackets](https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [last of the leather jackets](https://open.spotify.com/album/5miUYG6kDcPOTCwGJqvRHJ) | 4:45 | 2023-11-21 |  |
+| [last of the leather jackets](https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [last of the leather jackets](https://open.spotify.com/album/5miUYG6kDcPOTCwGJqvRHJ) | 4:45 | 2023-11-21 | 2025-07-02 |
 | [Le Marais](https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [Le Marais](https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT) | 3:27 | 2023-04-03 | 2023-06-21 |
 | [Le Tour d'Amour](https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Le Tour d'Amour](https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8) | 3:20 | 2023-09-20 | 2024-05-11 |
 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 | 2022-09-08 |  |
@@ -138,7 +139,7 @@
 | [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 | 2023-10-13 |  |
 | [Passages](https://open.spotify.com/track/3rddq2C6kmthJnC2VFYzyr) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:57 | 2022-06-14 | 2022-10-05 |
 | [Peace Of Mind](https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 4:25 | 2022-05-06 | 2023-03-25 |
-| [Peaceful Horizon](https://open.spotify.com/track/6EkB8OluCOTk6ziNVm4Tpc) | [ABCastillo Skyline Band](https://open.spotify.com/artist/41dJTxLdwWQXWXtCaIDjlu) | [Peaceful Horizon](https://open.spotify.com/album/7yYreUchmftSbB7h0EkDC0) | 3:38 | 2024-03-19 | 2025-07-01 |
+| [Peaceful Horizon](https://open.spotify.com/track/6EkB8OluCOTk6ziNVm4Tpc) | [ABCastillo Skyline Band](https://open.spotify.com/artist/41dJTxLdwWQXWXtCaIDjlu) | [Peaceful Horizon](https://open.spotify.com/album/7yYreUchmftSbB7h0EkDC0) | 3:38 | 2024-03-19 |  |
 | [Peas And Carrots](https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Peas And Carrots](https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK) | 3:04 | 2023-03-09 |  |
 | [Perfect Moment](https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:45 | 2022-05-06 |  |
 | [Pineapple](https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam) | [Three Peats](https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco) | [Pineapple](https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx) | 3:36 | 2023-08-18 |  |
@@ -167,7 +168,7 @@
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |
 | [Tell Me So](https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [In The Name Of Love](https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW) | 5:01 | 2022-05-06 | 2023-03-29 |
 | [The Catwalk](https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [The Catwalk](https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC) | 3:27 | 2023-04-06 |  |
-| [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-08-18 | 2025-05-24 |
+| [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-08-18 |  |
 | [The Gift](https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 5:28 | 2022-05-06 | 2022-11-23 |
 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 | 2023-05-11 |  |
 | [The Moment](https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 6:01 | 2025-01-27 |  |

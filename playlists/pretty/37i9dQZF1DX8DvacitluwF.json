@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: <a href=\"https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf?si=RdeehQ3VSg2NorWLeHscFw\"> Sasha Keable</a>",
-  "num_followers": 22473,
+  "num_followers": 22475,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-06-27 03:51:49",
       "album": {
+        "name": "Sycamore Tree",
+        "url": "https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 215032,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK"
+    },
+    {
+      "added_at": "2025-06-27 03:51:49",
+      "album": {
         "name": "LUCKY ME",
         "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 163561,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
-    },
-    {
-      "added_at": "2025-06-27 03:51:49",
-      "album": {
-        "name": "Sycamore Tree",
-        "url": "https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 215032,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK"
     },
     {
       "added_at": "2025-06-27 03:51:49",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-06-27 03:51:49",
       "album": {
+        "name": "Souls x Mates",
+        "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
+      },
+      "artists": [
+        {
+          "name": "Dandi Noxx",
+          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Souls x Mates",
+      "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
+    },
+    {
+      "added_at": "2025-06-27 03:51:49",
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 224002,
       "name": "Steady",
       "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
-    },
-    {
-      "added_at": "2025-06-27 03:51:49",
-      "album": {
-        "name": "Winter & Summer",
-        "url": "https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 194785,
-      "name": "Winter & Summer",
-      "url": "https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt"
     }
   ],
   "unique_name": "R&Beats",

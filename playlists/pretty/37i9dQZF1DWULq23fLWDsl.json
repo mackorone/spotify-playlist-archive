@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 330084,
+  "num_followers": 330216,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Ready to Start",
+      "url": "https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 218106,
       "name": "October",
       "url": "https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ready to Start",
-      "url": "https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Brother Sparrow",
-      "url": "https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Star of Love",
         "url": "https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 306426,
       "name": "At Home",
       "url": "https://open.spotify.com/track/3vpjiTrzJEt1zXer9ig6g0"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Brother Sparrow",
+      "url": "https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt"
     },
     {
       "added_at": "2025-03-14 11:46:42",

@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 92 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
 | 93 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `Ab1jfgAAAAB+ZMUuPHplYUXNpewEIxIQ`
+Snapshot ID: `Ab1pHgAAAADnyzVKJI0QW5xYxHGaZKF0`

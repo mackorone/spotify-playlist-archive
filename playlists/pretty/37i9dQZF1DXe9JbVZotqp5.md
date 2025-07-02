@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 
 > Easy rock for that peaceful, easy feeling\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,286 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,469 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 29 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
 | 30 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 31 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 |
-| 32 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
-| 33 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
+| 32 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
+| 33 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
 | 34 | [Trouble](https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:33 |
 | 35 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 |
 | 36 | [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 |
-| 37 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
-| 38 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
+| 37 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
+| 38 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 39 | [Don't Dream It's Over](https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House \(Deluxe\)](https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ) | 3:58 |
 | 40 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
-| 41 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
-| 42 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 |
+| 41 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 |
+| 42 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
 | 43 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
 | 44 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
 | 45 | [For the First Time](https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0) | 4:12 |

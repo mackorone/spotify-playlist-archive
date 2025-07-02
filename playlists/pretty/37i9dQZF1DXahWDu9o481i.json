@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors.",
-  "num_followers": 24688,
+  "num_followers": 24721,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "I Saw The Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 264664,
-      "name": "I Saw The Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
         "name": "Elderberry Wine",
         "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 215506,
       "name": "Elderberry Wine",
       "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
+        "name": "I Saw The Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "I Saw The Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
       "added_at": "2025-06-04 18:47:12",

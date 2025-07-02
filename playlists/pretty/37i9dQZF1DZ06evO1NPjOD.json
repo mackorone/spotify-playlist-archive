@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39124,
+  "num_followers": 39127,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABLdzJghs+Z1eBBg3OYjwBa",
+  "snapshot_id": "aGHTgAAAAABfRWHV5uB10c9bGQrzzNSM",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190491,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 208932,
       "name": "BILLS PAID (feat. Latto & City Girls)",
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 190491,
-      "name": "Flewed Out",
-      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 119893,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 160013,
       "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 119893,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Need A Thug",
-        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 117806,
-      "name": "I Need A Thug",
-      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 154106,
       "name": "Period (We Live)",
       "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
     },
     {
       "added_at": null,
@@ -995,22 +995,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+        "name": "Bad Boys For Life Soundtrack",
+        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
       },
       "artists": [
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 167441,
-      "name": "Static (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
+      "duration_ms": 158777,
+      "name": "Money Fight",
+      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
     }
   ],
   "unique_name": "This Is City Girls",

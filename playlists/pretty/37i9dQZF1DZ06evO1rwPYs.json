@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105826,
+  "num_followers": 105832,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACI/2eAxdLX84brHDCXGfr4",
+  "snapshot_id": "aGHTgAAAAABSkMgTOGkFUlddIK+PyK8Q",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tremendo Trio! (Remastered 2024)",
         "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 346144,
       "name": "Nadie Se Salva de la Rumba - Remastered 2024",
       "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,

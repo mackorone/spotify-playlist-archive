@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,599 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,831 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 34 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |
 | 35 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
 | 36 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Happiness Happening](https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0) | 3:35 |
-| 37 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
-| 38 | [Coming On Strong](https://open.spotify.com/track/1ZLjrNoJWPvfMb7grtSNVf) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [The World Of Trance \(40 Biggest Trance Hits Ever\) \- Armada Music](https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR) | 3:19 |
+| 37 | [Coming On Strong](https://open.spotify.com/track/1ZLjrNoJWPvfMb7grtSNVf) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [The World Of Trance \(40 Biggest Trance Hits Ever\) \- Armada Music](https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR) | 3:19 |
+| 38 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
 | 39 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 |
 | 40 | [We Control The Sunlight](https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Jwaydan](https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp) | [Armada Collected: Aly & Fila](https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1) | 3:46 |
 | 41 | [Xpander \- Edit](https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 3:22 |
 | 42 | [Satellite \- Above & Beyond Mix \(Edit\)](https://open.spotify.com/track/29xhHp7I079jDveVcoShIk) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [OceanLab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT) | [Satellite](https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c) | 3:29 |
-| 43 | [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 |
-| 44 | [The Theme](https://open.spotify.com/track/2VW6HO7fSA4dkbGgG1xkdn) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg) | [The Theme](https://open.spotify.com/album/3n0kAuzcbVBS0I893yXagK) | 3:07 |
+| 43 | [The Theme](https://open.spotify.com/track/2VW6HO7fSA4dkbGgG1xkdn) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg) | [The Theme](https://open.spotify.com/album/3n0kAuzcbVBS0I893yXagK) | 3:07 |
+| 44 | [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 |
 | 45 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99 \(feat\. Grace\)](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:34 |
 | 46 | [1998](https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:53 |
 | 47 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |

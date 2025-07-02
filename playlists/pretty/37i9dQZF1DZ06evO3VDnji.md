@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,444 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,470 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 33 | [Enseñame](https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:49 |
 | 34 | [Perdón](https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:57 |
 | 35 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 |
-| 36 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
-| 37 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
+| 36 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
+| 37 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
 | 38 | [Falsos Sentimientos](https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 4:46 |
 | 39 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
 | 40 | [ATRAPADO](https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 49 | [Chilling](https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [De Moda](https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz) | 2:04 |
 | 50 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
 
-Snapshot ID: `aGCCAAAAAAB5oV50YFcZtecfT1Rk+gNx`
+Snapshot ID: `aGHTgAAAAAAhBvytJ8U6bfwvolalZYv2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 > The hottest Latin hits in the US! Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,672,213 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,672,110 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

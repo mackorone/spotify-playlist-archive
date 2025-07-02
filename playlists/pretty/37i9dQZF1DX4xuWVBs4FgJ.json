@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1824578,
+  "num_followers": 1824491,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFmFqgAAAABdh/mn43VoWAt+yA0Wwcm+",
+  "snapshot_id": "aGRCfAAAAAARDGmvZWZWTQ6gqh6G/yFD",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
+      "added_at": "2025-07-01 20:18:04",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
       "added_at": "2025-01-10 05:00:39",
       "album": {
         "name": "Blood Bank",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
         "name": "3 Feet High and Rising",
         "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
       },
@@ -1591,22 +1623,6 @@
       "duration_ms": 252671,
       "name": "Eye Know",
       "url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1655,38 +1671,6 @@
       "duration_ms": 191244,
       "name": "Walk The Way",
       "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Crowded Table",
-      "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
     }
   ],
   "unique_name": "Dinner with Friends",

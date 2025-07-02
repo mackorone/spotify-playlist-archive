@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,892 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,928 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 49 | [Mi Lugar Favorito](https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:57 |
 | 50 | [Tú Ve](https://open.spotify.com/track/7pOuB6eH3MB758FlUqdcV7) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:58 |
 
-Snapshot ID: `aGCCAAAAAAAreuqbgjFAH65Mdd8XvVj1`
+Snapshot ID: `aGHTgAAAAADyPPyM4i/pl77g4WNNsGoT`

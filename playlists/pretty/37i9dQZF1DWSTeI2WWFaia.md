@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587,445 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,587,362 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 19 | [BULLFROG](https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:34 |
 | 20 | [BEST SERVED COLD \(feat\. NEMS\)](https://open.spotify.com/track/0zlkzlpHjhS3MOlc2wBxte) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [NEMS](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4) | [BEST SERVED COLD \(feat\. NEMS\)](https://open.spotify.com/album/2kB7TB0V3piKmMy3jdZXQT) | 4:02 |
 | 21 | [Do You Have A Destination?](https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:24 |
-| 22 | [The Louvre](https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Louvre](https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH) | 4:09 |
+| 22 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
 | 23 | [Munyon Canyon](https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:42 |
-| 24 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
+| 24 | [The Louvre](https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Louvre](https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH) | 4:09 |
 | 25 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:22 |
 | 26 | [Friendly Hallucinations](https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:45 |
 | 27 | [Lalala](https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 3:18 |

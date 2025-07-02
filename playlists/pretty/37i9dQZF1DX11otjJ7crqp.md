@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: flowerovlove
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,513 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,587 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

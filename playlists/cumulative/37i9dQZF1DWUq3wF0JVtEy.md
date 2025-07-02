@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-539 songs - 1 day 2 hr 16 min
+540 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Frequency](https://open.spotify.com/track/0dOur2LdsICZZ4fnfi1amr) | [Eddie Craig](https://open.spotify.com/artist/69IpNz134fIjeb0E6E8M6X), [Sweet Female Attitude](https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX) | [Frequency](https://open.spotify.com/album/7yRadG2gblVBJvqV2hrOMO) | 2:19 | 2024-01-12 | 2024-04-19 |
 | [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 | 2023-01-29 |
 | [GASOLINA & COCAINA](https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [GASOLINA & COCAINA](https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az) | 3:12 | 2023-10-27 |  |
+| [Gasoline](https://open.spotify.com/track/2pLjWO7lYfFOJYXZOWJUS1) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Gasoline](https://open.spotify.com/album/5HE9gH7CjPGyIT7MNKJhKW) | 2:26 | 2025-06-27 |  |
 | [Genesis \- Don Diablo Edit](https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Hackatone](https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Genesis \(Don Diablo Edit\)](https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz) | 3:16 | 2025-06-20 |  |
 | [Get Back \(feat\. TITUS\)](https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Get Back \(feat\. TITUS\)](https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO) | 2:40 | 2021-11-26 | 2022-07-28 |
 | [Get It](https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx) | [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Get It](https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO) | 3:11 | 2022-10-28 | 2023-04-12 |
@@ -373,7 +374,7 @@
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 | 2023-11-11 |
 | [Not Alone \- Don Diablo VIP Mix](https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone \(Don Diablo VIP Mix\)](https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX) | 2:31 | 2023-02-17 | 2025-02-16 |
 | [Not Dancing](https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Not Dancing](https://open.spotify.com/album/1O5tGALZgYG6VHycsGKsIu) | 2:43 | 2021-10-29 | 2022-04-28 |
-| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 |  |
+| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 | 2025-07-02 |
 | [Nudes](https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Nudes](https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb) | 2:16 | 2023-01-06 | 2023-03-25 |
 | [Obsessed](https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE) | [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Obsessed](https://open.spotify.com/album/1hsb6RcJ9etjnn4nl1qv9c) | 3:13 | 2024-02-23 | 2024-05-05 |
 | [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 | 2024-11-24 |

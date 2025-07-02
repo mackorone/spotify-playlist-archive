@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,105 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,372 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 12 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 13 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 |
 | 14 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 |
-| 15 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 |
+| 15 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
 | 16 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 |
-| 17 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
+| 17 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 |
 | 18 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 19 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
-| 20 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
-| 21 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
+| 20 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
+| 21 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
 | 22 | [Aun Lo Amo](https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Castillos De Cristal](https://open.spotify.com/album/1pf6pJVfH0FZZtphKRqQMP) | 4:38 |
-| 23 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
+| 23 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 24 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |
 | 25 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 |
 | 26 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 92 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
 | 93 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 |
 | 94 | [Princesa Tibetana](https://open.spotify.com/track/3ixFLKbMYQbw6sK1k78Zae) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 10](https://open.spotify.com/album/0AKeEzQyc4FRDqgXE3wiRw) | 6:41 |
-| 95 | [A Quien](https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Siempre Karina](https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6) | 3:55 |
-| 96 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
+| 95 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
+| 96 | [A Quien](https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Siempre Karina](https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6) | 3:55 |
 | 97 | [Pecado Original](https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:26 |
 | 98 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
-| 99 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
-| 100 | [Dime](https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 3:42 |
+| 99 | [Dime](https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 3:42 |
+| 100 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
 
 Snapshot ID: `Z27lEwAAAACJw1zriCNZv/LHZkw5wVOr`

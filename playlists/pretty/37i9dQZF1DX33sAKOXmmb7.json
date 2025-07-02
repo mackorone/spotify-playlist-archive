@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 79892,
+  "num_followers": 79914,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 313078,
       "name": "I Am California",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 257519,
       "name": "Agape",
       "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Joan Shelley",
         "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1395,6 +1379,22 @@
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 191813,
       "name": "\u00c9migr\u00e9",
       "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "The Carpenter",
+        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Live And Die",
+      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "We the Common",
         "url": "https://open.spotify.com/album/5pwm1xcWT69NiRzZDwb1M1"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 156146,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/0WdfCa2a7iNxVDgsLnulyt"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "The Carpenter",
-        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Live And Die",
-      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
     },
     {
       "added_at": "2024-08-28 14:05:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,015 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,048 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 | 25 | [Kona Kondakari](https://open.spotify.com/track/70693JY8eUtdybBX30Imfb) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Madha Yaanai Koottam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Td5ONSc20HPcW5SM1D6w6) | 4:34 |
 | 26 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 |
 | 27 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 |
-| 28 | [Mainaru Vetti Katti](https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Mainaru Vetti Katti \(From "Dasara"\) \(Tamil\)](https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV) | 3:23 |
-| 29 | [Verenna \(Ivan Yaro\)](https://open.spotify.com/track/1XTEmKvJNskIc72sfS4zNA) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Minnalae](https://open.spotify.com/album/5D43FdsC4l29brx9n6cjBn) | 5:24 |
+| 28 | [Verenna \(Ivan Yaro\)](https://open.spotify.com/track/1XTEmKvJNskIc72sfS4zNA) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Minnalae](https://open.spotify.com/album/5D43FdsC4l29brx9n6cjBn) | 5:24 |
+| 29 | [Mainaru Vetti Katti](https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Mainaru Vetti Katti \(From "Dasara"\) \(Tamil\)](https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV) | 3:23 |
 | 30 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A.R\. Reihana](https://open.spotify.com/artist/1NGDbzC6ZJ1jNt1V5Kv5lv), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:51 |
 | 31 | [Kambathu Ponnu](https://open.spotify.com/track/7s8UULMrFE2iq5dvHwzrNr) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kambathu Ponnu](https://open.spotify.com/album/5eFsjGRF6UYWITNvDoc2xb) | 3:35 |
 | 32 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 |

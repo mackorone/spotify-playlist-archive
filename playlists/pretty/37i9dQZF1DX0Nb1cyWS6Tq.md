@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,459 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,590 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 18 | [Ghost Rider \- Strange Weather EP](https://open.spotify.com/track/1BUHxOwNPXsk4eThHzEcm6) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [One Breath \(Deluxe Edition\)](https://open.spotify.com/album/5ixmOG2s5O1SKh8E2KSECL) | 2:45 |
 | 19 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 20 | [The Lovecats](https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:40 |
-| 21 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 |
-| 22 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
+| 21 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
+| 22 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 |
 | 23 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 24 | [Christian Woman](https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 8:58 |
 | 25 | [Vampyres](https://open.spotify.com/track/64eMRy4wA7f5guLIS2VL52) | [Inkubus Sukkubus](https://open.spotify.com/artist/5TcSmqbuyYcyn396CFLwPr) | [Belladonna & Aconite 2011 Digital Remaster](https://open.spotify.com/album/4zcd6nEpQl5o7rKleGQHcB) | 3:40 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 32 | [Be My Druidess](https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 5:25 |
 | 33 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 |
 | 34 | [Arabian Knights](https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:05 |
-| 35 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
+| 35 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 |
 | 36 | [The Passion of Lovers](https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:51 |
 | 37 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
 | 38 | [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,079 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,084 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 49 | [Through the Eyes of a Raven](https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 5:09 |
 | 50 | [Despicable Heroes](https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 2:12 |
 
-Snapshot ID: `aGCCAAAAAACpr07MaB+pCGn7lafAw5e+`
+Snapshot ID: `aGHTgAAAAAApwOfm8B21PvBcdZBBttwl`

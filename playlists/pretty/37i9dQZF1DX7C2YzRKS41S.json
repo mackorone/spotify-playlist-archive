@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 139751,
+  "num_followers": 139786,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-06-06 03:52:21",
-      "album": {
         "name": "Navegue No Seu Pr\u00f3prio Rio",
         "url": "https://open.spotify.com/album/5igA3zBsqyH0qwQHr5KNhf"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 168545,
       "name": "Navegue No Seu Pr\u00f3prio Rio",
       "url": "https://open.spotify.com/track/5uS0ZbPUzCy9B16pWUF5T3"
+    },
+    {
+      "added_at": "2025-06-06 03:52:21",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
-    },
-    {
-      "added_at": "2025-06-06 03:52:21",
-      "album": {
         "name": "A Coisa Mais Bonita",
         "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
       },
@@ -755,6 +739,26 @@
       "duration_ms": 169383,
       "name": "A Coisa Mais Bonita",
       "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
+    },
+    {
+      "added_at": "2025-06-06 03:52:21",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -779,22 +783,18 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
+        "name": "Mesma Sensa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 194547,
+      "name": "Mesma Sensa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f"
+    },
+    {
+      "added_at": "2025-06-06 03:52:21",
+      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
-    },
-    {
-      "added_at": "2025-06-06 03:52:21",
-      "album": {
-        "name": "Mesma Sensa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 194547,
-      "name": "Mesma Sensa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f"
     },
     {
       "added_at": "2025-06-06 03:52:21",

@@ -4,7 +4,7 @@
 
 > The soundtrack to lazing around.
 
-301 songs - 17 hr 9 min
+302 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2022-05-24 |  |
 | [First Love](https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [First Love](https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L) | 3:07 | 2025-03-14 |  |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-12 |  |
+| [Flowers \(Carry Me Home\)](https://open.spotify.com/track/70VTz7ZH2rCXUbk6PEo4Ap) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Flowers \(Carry Me Home\)](https://open.spotify.com/album/2vMtuoEPWr7zbQnjCoLoVa) | 3:42 | 2025-07-01 |  |
 | [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 | 2024-12-13 | 2025-06-21 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-09 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-08-08 |  |
@@ -124,7 +125,7 @@
 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 | 2024-05-24 | 2025-03-15 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-05-24 | 2023-02-04 |
 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-27 |  |
-| [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-07 |  |
+| [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-07 | 2025-07-02 |
 | [I wish for the rain](https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [I wish for the rain](https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk) | 2:31 | 2024-04-26 | 2024-07-03 |
 | [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 | 2023-08-08 | 2023-10-02 |
 | [I'm Into Something Good](https://open.spotify.com/track/6qrHnS0f1raPfbWUyZIz1b) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [I'm Into Something Good](https://open.spotify.com/album/6mxAZnOwKez168wCNZOciD) | 2:51 | 2022-05-24 | 2022-05-28 |

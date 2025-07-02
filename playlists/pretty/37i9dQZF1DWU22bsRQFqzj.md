@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,060 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,101 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 69 | [Friendships \(Lost My Love\)](https://open.spotify.com/track/0lQ2obtzmAsJu9xk3D6FqH) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Friendships \(Lost My Love\)](https://open.spotify.com/album/6AVjuEsz5TVQrOoRGIaicN) | 3:02 |
 | 70 | [Call Me \(with R3HAB, Timmy Trumpet & Charla K\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [Call Me \(with R3HAB, Timmy Trumpet & Charla K\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 |
 | 71 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 |
-| 72 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
-| 73 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 |
-| 74 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
+| 72 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 |
+| 73 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
+| 74 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 75 | [Bad Habits \- MEDUZA Remix](https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Bad Habits \(MEDUZA Remix\)](https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB) | 3:14 |
 
 Snapshot ID: `Z8m1EAAAAADJbBNhrrV3Nhe3LOVVowDh`

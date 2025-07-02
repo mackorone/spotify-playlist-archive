@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > ain't no country boy quitter 💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,556 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,672 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 30 | [Can't Fight The Moonlight](https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:35 |
 | 31 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 |
 | 32 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
-| 33 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
-| 34 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:50 |
+| 33 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:50 |
+| 34 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
 | 35 | [Dance The Night](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:56 |
 | 36 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Jo Dee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:28 |
 | 37 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 738111,
+  "num_followers": 738224,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAB2/Kec3/jpAtpk73JXkgYn",
+  "snapshot_id": "aGHTgAAAAAB+NTmAJN0aBPjqgMP3wqbC",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Internet Killed The Rockstar",
-        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },
       "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 151989,
-      "name": "Flames (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf"
+      "duration_ms": 234133,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
+        "name": "Internet Killed The Rockstar",
+        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
       },
       "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 234133,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
+      "duration_ms": 151989,
+      "name": "Flames (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf"
     },
     {
       "added_at": null,

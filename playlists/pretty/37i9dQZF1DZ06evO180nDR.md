@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,337 likes - 46 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,668 likes - 46 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 45 | [La Mas Bonita De Todas](https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:29 |
 | 46 | [Los Benjamines](https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Los Benjamines](https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa) | 2:46 |
 
-Snapshot ID: `aGCCAAAAAADYsbtfUB8UZFywFIXtCFMl`
+Snapshot ID: `aGHTgAAAAABBlmKCMHMnmr+pnuzasYY3`

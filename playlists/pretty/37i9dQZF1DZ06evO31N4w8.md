@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,753 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,771 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 37 | [Juan Marta](https://open.spotify.com/track/2qokG9oARhQAn2FPBt029T) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:31 |
 | 38 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Seguimos Firme](https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7) | 3:31 |
 | 39 | [Falsa y Mancornadora](https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:51 |
-| 40 | [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 |
+| 40 | [Una Aventura](https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Castillo de Ilusión](https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU) | 3:26 |
 | 41 | [Al Ver Que Te Vas](https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:28 |
-| 42 | [Una Aventura](https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Castillo de Ilusión](https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU) | 3:26 |
+| 42 | [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 |
 | 43 | [Una Mujer Como Tú](https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:09 |
 | 44 | [Despistando Al Enemigo](https://open.spotify.com/track/4m3GHbPZTuFGwYRaIpdTYl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Despistando Al Enemigo](https://open.spotify.com/album/1YE3fDpcdYzZ21cpZAPO9M) | 2:19 |
 | 45 | [Amor Ingrato](https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Capricho Maldito](https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:56 |
 | 50 | [Aunque Mal Paguen Ellas](https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:42 |
 
-Snapshot ID: `aGCCAAAAAACBJrwZJQrqNFgOqcYulR4Y`
+Snapshot ID: `aGHTgAAAAAA6QR8Bvz+XvOAjyz8o/X5q`

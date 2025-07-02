@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Briela
 
-495 songs - 23 hr 59 min
+496 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [PRAY](https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [PRAY](https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ) | 2:45 | 2025-01-16 | 2025-03-21 |
 | [Press Pause](https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Press Pause](https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD) | 3:19 | 2025-03-27 |  |
 | [PRETTY LIES](https://open.spotify.com/track/221vIAPfaaS1rN0l6TnrUg) | [Sally](https://open.spotify.com/artist/6UGUIOyibm8kA96ClpbF1A) | [PRETTY LIES](https://open.spotify.com/album/0Zx3pNSIZDJO341isoT8kf) | 2:44 | 2024-10-25 | 2025-01-24 |
-| [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 | 2025-04-03 |  |
+| [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 | 2025-04-03 | 2025-07-02 |
 | [Priorytety](https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj) | [Alan Cyprysiak](https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig) | [Priorytety](https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO) | 4:27 | 2024-06-28 | 2024-08-23 |
 | [Przy Tobie](https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Przy Tobie](https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz) | 2:40 | 2024-11-21 | 2025-03-14 |
 | [Przy Tobie to...](https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [MINT](https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y) | 2:44 | 2024-08-30 | 2025-01-24 |
@@ -447,6 +447,7 @@
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-17 | 2025-05-09 |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-18 | 2024-11-22 |
 | [Usypiasz Mnie Jak Lek](https://open.spotify.com/track/0m7mpiEImNabbFyxGsfACh) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [Usypiasz Mnie Jak Lek](https://open.spotify.com/album/28sM9BydOdzvNIbRFn3GQM) | 2:46 | 2025-02-20 | 2025-03-28 |
+| [UV](https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [UV](https://open.spotify.com/album/78O2rmEK9RDPfiaYMiNHrH) | 2:59 | 2025-06-27 |  |
 | [VIBE](https://open.spotify.com/track/2t613OFX9O1VTcCJmFjMUN) | [Olivka Majewska](https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [VIBE](https://open.spotify.com/album/7oMDu4vRQOfWhru1Xrsk1P) | 2:20 | 2024-08-30 | 2024-11-22 |
 | [w co ty dziś grasz?](https://open.spotify.com/track/0DotJtk7REWwFsZSTCTlw7) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Hodak](https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU) | [w co ty dziś grasz?](https://open.spotify.com/album/0PVYr7Fh8V6IKXug2EUGQr) | 3:36 | 2024-06-28 | 2024-07-27 |
 | [W moim śnie](https://open.spotify.com/track/4KbU2jeBjeQOsG8T0apLgK) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [W moim śnie](https://open.spotify.com/album/1cboBq4Gu3OhwHsr48YVHe) | 2:43 | 2024-06-28 | 2024-08-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Mingginyu (\ubc0d\uae30\ub274)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: OurR (\uc544\uc6d4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -12269,6 +12269,24 @@
     },
     {
       "album": {
+        "name": "Rainbow (\u0e23\u0e38\u0e49\u0e07)",
+        "url": "https://open.spotify.com/album/14QVqgxZbPr8Hd9zjzuJ7W"
+      },
+      "artists": [
+        {
+          "name": "OurR",
+          "url": "https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Rainbow (\u0e23\u0e38\u0e49\u0e07)",
+      "url": "https://open.spotify.com/track/3TBGPc9fUBo3AjBzgiXNGY"
+    },
+    {
+      "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
@@ -12320,7 +12338,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6"

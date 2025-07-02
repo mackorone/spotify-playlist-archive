@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-444 songs - 1 day 1 hr 45 min
+445 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 | 2024-12-13 |  |
 | [Peak \- Serum Remix](https://open.spotify.com/track/0AnrXxcc55u7i3jQZZbsqS) | [Rockwell](https://open.spotify.com/artist/5Bz409CcH4Rk3sqhmOpcxf), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Peak \(Serum Remix\)](https://open.spotify.com/album/5p7ymyIjku9JtrBId646gu) | 3:19 | 2024-09-12 | 2025-01-11 |
 | [Pearl River \- Karney Remix](https://open.spotify.com/track/0vdmdIWO128POiECtp1ekv) | [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0), [Johnny Shaker](https://open.spotify.com/artist/5yOo6QU2tfEj7C8jPoMMTk), [Karney](https://open.spotify.com/artist/4IYtlYqi3daKiscEqovUTG) | [Pearl River \(Karney Remix\)](https://open.spotify.com/album/6osgX9tHLWrPo8pDIn34JK) | 3:46 | 2023-12-27 | 2024-01-12 |
-| [Perfect](https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Perfect](https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94) | 3:19 | 2024-10-03 |  |
+| [Perfect](https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Perfect](https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94) | 3:19 | 2024-10-03 | 2025-07-02 |
 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 | 2024-01-26 | 2024-09-06 |
 | [Perfect Harmony \- Phibes VIP](https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Perfect Harmony \(Phibes VIP\)](https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6) | 2:43 | 2024-07-25 | 2024-11-22 |
 | [Personal](https://open.spotify.com/track/5o4ekLO60BhAf4s9LhefCL) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Personal](https://open.spotify.com/album/0pSnRC8TDE1j7B04j7QIq3) | 3:01 | 2024-10-24 |  |
@@ -420,6 +420,7 @@
 | [UFO](https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [UFO](https://open.spotify.com/album/4RDCwwCBcoC2Pv4vOYo7sT) | 2:34 | 2024-07-25 | 2024-09-19 |
 | [Underground Supply](https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Molecular](https://open.spotify.com/artist/69dILXHVwcYRPfoOhmd0uj) | [Underground Supply](https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj) | 4:12 | 2024-11-22 |  |
 | [V2](https://open.spotify.com/track/1aoyPNzIdM7lqaBoaV64Bn) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [DJ Hazard \- Dub Pack 2](https://open.spotify.com/album/28us1YbeaTvohpPaK5mNAn) | 4:07 | 2024-10-03 | 2024-10-06 |
+| [Vertigo](https://open.spotify.com/track/2nthNUBMT1nrgZII1mopKM) | [SIREN](https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Vertigo](https://open.spotify.com/album/5OFYWIaj2LruCihkQipBgQ) | 3:46 | 2025-06-12 |  |
 | [Vibe Check](https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [Jasmine Knight](https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh) | [Vibe Check](https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra) | 3:10 | 2025-01-10 |  |
 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 | 2023-05-19 | 2024-07-27 |
 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-04-12 | 2024-10-04 |

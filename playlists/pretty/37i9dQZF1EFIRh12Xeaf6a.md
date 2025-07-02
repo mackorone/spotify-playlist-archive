@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,093 likes - 271 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,095 likes - 271 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 |
-| 2 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
-| 3 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
+| 2 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
+| 3 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 4 | [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 |
 | 5 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
 | 6 | [The Lion Sleeps Tonight](https://open.spotify.com/track/5X6VbizePQKSnt55YWWyGS) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Both Sides Now](https://open.spotify.com/album/6I9RmyZrutcjFnXthpdhkx) | 2:33 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab1jfgAAAACBDuLQkUyndt65PV5DLjGy`
+Snapshot ID: `Ab1pHgAAAABOami409IdWHL5Ui74a/oN`

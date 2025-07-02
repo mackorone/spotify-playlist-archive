@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30962,
+  "num_followers": 30961,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADjqWXaqq3P1ATrsY4hzb2Y",
+  "snapshot_id": "aGHTgAAAAAAIkVy1NxQF4sCypDV6wZS/",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Tudo Isso Vai Passar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
     },
     {
       "added_at": null,
@@ -247,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
       "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
+      "duration_ms": 278000,
+      "name": "Tudo Isso Vai Passar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamante (2010)",
-        "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
+        "name": "Deixa Senhor",
+        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 271586,
-      "name": "Derrama Shekin\u00e1h",
-      "url": "https://open.spotify.com/track/1oyCby60fRcl15uEGLuggq"
+      "duration_ms": 362987,
+      "name": "Deixa Senhor",
+      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Senhor",
-        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
+        "name": "Diamante (2010)",
+        "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 362987,
-      "name": "Deixa Senhor",
-      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
+      "duration_ms": 271586,
+      "name": "Derrama Shekin\u00e1h",
+      "url": "https://open.spotify.com/track/1oyCby60fRcl15uEGLuggq"
     },
     {
       "added_at": null,

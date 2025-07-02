@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 
 > Tremendo vacilón\. Los éxitos del merengue de todos los tiempos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,070 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,115 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 11 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
 | 12 | [Insomnio](https://open.spotify.com/track/6s2hzq62m1ZR1HTrUTA6Pc) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Insomnio](https://open.spotify.com/album/5rh4F5LkfBtGxBCjgMqV4M) | 3:38 |
 | 13 | [Como Yo](https://open.spotify.com/track/1D5Z5K0orsn5dSDpnan8XO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM) | 3:25 |
-| 14 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
-| 15 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
+| 14 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
+| 15 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 16 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 17 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 18 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
-| 19 | [Tu Vas a Volar](https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vuelve el Merengue](https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj) | 4:56 |
-| 20 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
+| 19 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
+| 20 | [Tu Vas a Volar](https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vuelve el Merengue](https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj) | 4:56 |
 | 21 | [Guallando](https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 22 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
 | 23 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 44 | [Muchacho malo](https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Mujer De Fuego](https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ) | 4:27 |
 | 45 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
 | 46 | [El Niágra En Bicicleta \- Live \- Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 4:31 |
-| 47 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
-| 48 | [Ella es Tan Bella](https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:22 |
+| 47 | [Ella es Tan Bella](https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:22 |
+| 48 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 49 | [Latinos](https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Latinos](https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP) | 5:29 |
 | 50 | [Como Olvidar \- Merengue Versión](https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ronnie Torres](https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:39 |
 

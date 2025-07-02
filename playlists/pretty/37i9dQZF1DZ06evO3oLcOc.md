@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,878 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,898 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 47 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 |
 | 48 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 |
 | 49 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 |
-| 50 | [Bops Goin Brazy](https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Bops Goin Brazy](https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S) | 2:08 |
+| 50 | [Real Deal](https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Real Deal \- Single](https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0) | 3:37 |
 
-Snapshot ID: `aGCCAAAAAAALi+gdTTiGOC6Wy1SGJSGp`
+Snapshot ID: `aGHTgAAAAABqBA9MibN+uz6ZKDyGCLHJ`

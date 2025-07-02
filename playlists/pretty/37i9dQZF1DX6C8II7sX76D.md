@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,993 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,042 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
 | 2 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 |
-| 3 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
+| 3 | [Drugs I Like](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Drugs I Like](https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg) | 3:18 |
 | 4 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 |
 | 5 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 |
 | 6 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 |
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 15 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 16 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 |
 | 17 | [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 |
-| 18 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
+| 18 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 19 | [Blue Monday](https://open.spotify.com/track/5dXZhZbDHWu6zwXkssFQcs) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Blue Monday](https://open.spotify.com/album/743cLwhIfyy5dFZNEF6zOw) | 4:12 |
 | 20 | [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 |
 | 21 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 |
-| 22 | [Naughty](https://open.spotify.com/track/5bgu3gTNwvi4XaQ2PJTR6z) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Naughty](https://open.spotify.com/album/0B2n2xI3wgqwBjH2lXa7d6) | 3:22 |
+| 22 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 23 | [SOLANA](https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [SOLANA](https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT) | 3:10 |
 | 24 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 25 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
 | 50 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
 
-Snapshot ID: `aF7dDgAAAADTaLvsmlH8O0lyFUD4juZa`
+Snapshot ID: `aGRJ5gAAAACSBiRjCka0zqUf9vI6nzAH`

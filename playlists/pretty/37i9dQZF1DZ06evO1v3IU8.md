@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,351,134 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,351,181 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 16 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/3gHn8eZRKss5cD4r3k3jCA) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 17 | [Tengo Que Colgar](https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 4:08 |
 | 18 | [Mi Olvido](https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:38 |
-| 19 | [Cerrando Ciclos](https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:15 |
-| 20 | [Mejor Me Alejo](https://open.spotify.com/track/5OUGSwa2eadrcAsMdUItmO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:21 |
+| 19 | [Mejor Me Alejo](https://open.spotify.com/track/5OUGSwa2eadrcAsMdUItmO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:21 |
+| 20 | [Cerrando Ciclos](https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:15 |
 | 21 | [Solo Con Verte](https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:12 |
 | 22 | [Por Este Amor](https://open.spotify.com/track/0b8ONx6Vjfuq2u4G0uouuW) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:44 |
-| 23 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
-| 24 | [No Elegi Conocerte](https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 4:14 |
+| 23 | [No Elegi Conocerte](https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 4:14 |
+| 24 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
 | 25 | [Nos Extraño \(En Vivo\)](https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 3:00 |
 | 26 | [Las Cosas No Se Hacen Así](https://open.spotify.com/track/4CAoxv3Sppq7udbStUqk9D) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:45 |
 | 27 | [Sin Evidencia](https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:42 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 33 | [Se Podria Decir](https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:24 |
 | 34 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ) | 3:51 |
 | 35 | [Te Equivocas](https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 3:21 |
-| 36 | [De Ti Enamorado](https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:25 |
-| 37 | [La Mejor Versión De Mí](https://open.spotify.com/track/36V82ZTiFqW21W8UTzkloN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:48 |
-| 38 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
+| 36 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
+| 37 | [De Ti Enamorado](https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:25 |
+| 38 | [La Mejor Versión De Mí](https://open.spotify.com/track/36V82ZTiFqW21W8UTzkloN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:48 |
 | 39 | [Somos Los Que Somos \- En Vivo](https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 4:40 |
 | 40 | [Santo Patrón](https://open.spotify.com/track/2aejtdTxSKhsCkT51Wixhm) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Santo Patrón](https://open.spotify.com/album/4ymTuJ84CKaHgqxP8BElM0) | 2:21 |
 | 41 | [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
 | 50 | [Cahuates, Pistaches](https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Cahuates, Pistaches](https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy) | 2:57 |
 
-Snapshot ID: `aGCCAAAAAACRrEMCVzoSUId62WXzsVMK`
+Snapshot ID: `aGHTgAAAAAA/wwTO8VOd4oVg7DdPoEt9`

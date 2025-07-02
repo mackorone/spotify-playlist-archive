@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,920 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,943 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 23 | [Aşk](https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Karma](https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi) | 4:22 |
 | 24 | [Yalnız Ölmek](https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO) | [Can Güngör](https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN) | [Yalnız Ölmek](https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh) | 3:47 |
 | 25 | [Sen Istersin](https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Sen Istersin](https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5) | 3:23 |
-| 26 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
-| 27 | [Şarkılar Güzelse Hala](https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:37 |
+| 26 | [Şarkılar Güzelse Hala](https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:37 |
+| 27 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
 | 28 | [Kaybolur](https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Kaybolur](https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ) | 4:52 |
 | 29 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
 | 30 | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG) | 3:36 |

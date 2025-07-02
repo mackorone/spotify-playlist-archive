@@ -4,12 +4,13 @@
 
 > This is Liran' Roll\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 14 min
+65 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abrázame](https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 2:12 | 2023-01-14 |  |
 | [Aburrida la Vida](https://open.spotify.com/track/3cHLxUCHomsQ1J9MuNTCBw) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Juntos por el Rock, Vol\. 2](https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a) | 4:15 | 2023-01-14 | 2023-06-09 |
+| [Adiós Amigo](https://open.spotify.com/track/7FLQNTHpt9v3BLKBpNNKg5) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cambios](https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B) | 5:10 | 2025-07-02 |  |
 | [Así Es Mi Vida \(En Vivo\)](https://open.spotify.com/track/5N5r3huZlmt9wBgBN5YUMR) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [25 Años De Resistencia \(En Vivo\)](https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj) | 3:39 | 2023-01-14 |  |
 | [Barco Azul \- Remastered 2000](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 | 2023-01-14 |  |
 | [California](https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:20 | 2023-01-14 |  |
@@ -43,7 +44,7 @@
 | [La Vida Es Corta \- Remastered 2000](https://open.spotify.com/track/6GP0NwjA95OGQiwIbmen36) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 3:33 | 2023-01-14 |  |
 | [Le Diré a las Estrellas](https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:48 | 2024-01-04 |  |
 | [Mandar una Flor \- Remastered 2000](https://open.spotify.com/track/768gdK0kUekavH5CCqie9o) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 4:12 | 2023-01-14 |  |
-| [Mario](https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 2:21 | 2023-01-14 |  |
+| [Mario](https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 2:21 | 2023-01-14 | 2025-07-02 |
 | [María](https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:24 | 2023-01-14 |  |
 | [Memorias](https://open.spotify.com/track/3XY2U7BaIaMtcJt8Z6V1Ta) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 3:35 | 2023-01-14 |  |
 | [Mi Vida](https://open.spotify.com/track/5feROmYN9sejKGAXKOv2Uf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 3:51 | 2023-12-23 |  |

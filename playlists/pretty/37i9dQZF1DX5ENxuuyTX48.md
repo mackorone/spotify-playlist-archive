@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!\. Cover: ABANGSAPAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,632 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,637 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 35 | [Percuma](https://open.spotify.com/track/06WUx317ZgnzlEfiWPvcFm) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf), [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Percuma](https://open.spotify.com/album/1enR50jqoFl1yz75axX2sF) | 4:07 |
 | 36 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |
 | 37 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
-| 38 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
-| 39 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
+| 38 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
+| 39 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 40 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
 | 41 | [Tanpa Cinta](https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tanpa Cinta](https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz) | 4:15 |
 | 42 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |

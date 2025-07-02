@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: aespa\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: BABYMONSTER\)
 
-553 songs - 1 day 4 hr 52 min
+554 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-09-01 | 2023-09-07 |
 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 | 2023-10-12 | 2023-10-18 |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
+| [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 | 2025-07-01 |  |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-24 |  |
 | [How To Twerk \(Prod\. Czaer\)](https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:56 | 2023-09-06 | 2023-10-13 |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13\* | 2022-05-21 |
@@ -398,7 +399,7 @@
 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-04 | 2024-10-23 |
 | [RA TA TA \(Feat\. Lil Cherry\)](https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [RA TA TA](https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap) | 2:57 | 2023-10-12 | 2023-11-01 |
 | [Rap Queen](https://open.spotify.com/track/6STVMOIuRpzfuBmXxp2CEh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Gemini 2](https://open.spotify.com/album/7L6gqLdAo3t6DOJKiVInks) | 2:07 | 2020-10-13\* | 2021-03-15 |
-| [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-15 |  |
+| [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-15 | 2025-07-02 |
 | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3) | 3:23 | 2021-07-23 | 2022-04-21 |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-16 | 2024-01-30 |
 | [Remember](https://open.spotify.com/track/2ukD1180Mw0HYDIuS3Lcqu) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [Remember](https://open.spotify.com/album/5jHGdQ70hzjdgPtjoOgo2B) | 3:39 | 2021-03-02 | 2022-04-15 |

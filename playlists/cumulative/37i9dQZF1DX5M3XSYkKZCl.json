@@ -1035,44 +1035,6 @@
     },
     {
       "album": {
-        "name": "Live From Lincoln Center",
-        "url": "https://open.spotify.com/album/26pbp9R2KNpCsUk9H14LGu"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Dame Joan Sutherland",
-          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
-        },
-        {
-          "name": "Marilyn Horne",
-          "url": "https://open.spotify.com/artist/2X1SZFqImVgl59tWagfjcl"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "New York City Opera Orchestra",
-          "url": "https://open.spotify.com/artist/0bAN0dtIZuTD3Jf3nZScD7"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2021-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 413053,
-      "name": "Ernani / Part 4: \"Solingo, errante misero\" - Live In New York / 1981",
-      "url": "https://open.spotify.com/track/0BnMCDj4uKAI1ziOicgxUV"
-    },
-    {
-      "album": {
         "name": "Verdi",
         "url": "https://open.spotify.com/album/1iY9IQB9avls47I3shc9s7"
       },
@@ -1108,6 +1070,44 @@
       "duration_ms": 413053,
       "name": "Ernani / Part 4: \"Solingo, errante misero\" - Live In New York / 1981",
       "url": "https://open.spotify.com/track/3uGsBBESeDs4s50u0AoZU6"
+    },
+    {
+      "album": {
+        "name": "Live From Lincoln Center",
+        "url": "https://open.spotify.com/album/26pbp9R2KNpCsUk9H14LGu"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Marilyn Horne",
+          "url": "https://open.spotify.com/artist/2X1SZFqImVgl59tWagfjcl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "New York City Opera Orchestra",
+          "url": "https://open.spotify.com/artist/0bAN0dtIZuTD3Jf3nZScD7"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413053,
+      "name": "Ernani / Part 4: \"Solingo, errante misero\" - Live in New York, 1981",
+      "url": "https://open.spotify.com/track/0BnMCDj4uKAI1ziOicgxUV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Martox.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,896 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,880 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 34 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |
 | 35 | [FULL TIME](https://open.spotify.com/track/0PY1qmeW7TlrvMQIRTIbZp) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [FULL TIME](https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9) | 2:54 |
 | 36 | [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 |
-| 37 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 |
-| 38 | [digo que no, pero si](https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [digo que no, pero si](https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E) | 3:07 |
-| 39 | [talk](https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [talk](https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx) | 2:40 |
+| 37 | [talk](https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [talk](https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx) | 2:40 |
+| 38 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 |
+| 39 | [digo que no, pero si](https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [digo que no, pero si](https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E) | 3:07 |
 | 40 | [Miraverahí](https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Se Amaba Así](https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK) | 3:14 |
 | 41 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 42 | [Dónde Estás!](https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Canciones en Mi](https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE) | 2:22 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 70 | [Wow](https://open.spotify.com/track/2rfO0s9au8QDxnVaFCAYJ1) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Wow](https://open.spotify.com/album/0cUhlDIjDtXr1JOQzOKtNC) | 3:02 |
 | 71 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 |
 | 72 | [Tengo Una Nota](https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Toda Época Tiene Su Encanto](https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt) | 2:38 |
-| 73 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 |
-| 74 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 |
+| 73 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 |
+| 74 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 |
 | 75 | [Señales](https://open.spotify.com/track/1itug8TlWzLL2jxCpWQwtp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Señales](https://open.spotify.com/album/4rCqAWYzn68QdzE9b0o77M) | 3:30 |
 
 Snapshot ID: `aF4XawAAAADM0/5KOscPEhWK5y0PpivV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,006 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,012 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 49 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 |
 | 50 | [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 |
 
-Snapshot ID: `L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu`

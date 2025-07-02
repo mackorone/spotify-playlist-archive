@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,109 likes - 233 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,111 likes - 233 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 147 | [Deserve](https://open.spotify.com/track/08UOwr56mqHnQOTF2HThmd) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:01 |
 | 148 | [Slow Dancing](https://open.spotify.com/track/4lTdKQV6oaSZRQTmhnK1CU) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:24 |
 | 149 | [Woman](https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Woman](https://open.spotify.com/album/34Ya6PWAG8aOVRjUNIkmzq) | 2:36 |
-| 150 | [Fixerupper](https://open.spotify.com/track/1VKQWXyl22hSstnrxUywW4) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:34 |
-| 151 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 150 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 151 | [Fixerupper](https://open.spotify.com/track/1VKQWXyl22hSstnrxUywW4) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:34 |
 | 152 | [Ahead of Myself](https://open.spotify.com/track/4wZxKVfyQUk47Y4Rr6pfnD) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:49 |
 | 153 | [Where It Hurts \(feat\. Tayla Parx\)](https://open.spotify.com/track/51a3Q5SzGHFvCwVnrGX3JF) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:17 |
 | 154 | [System](https://open.spotify.com/track/3AxeDtEkCMGKDK2Jyrk7nj) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 3:02 |
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 186 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 | 187 | [Act Right](https://open.spotify.com/track/4o6IOdfo5PGPwvjmkHQkfd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:46 |
 | 188 | [Where I Belong](https://open.spotify.com/track/0ThrgSYBDexaGfJMBRXrSa) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Where I Belong EP](https://open.spotify.com/album/6FLKHS3sz64yWyvWGSNs3i) | 2:39 |
-| 189 | [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
-| 190 | [Fall Tonight](https://open.spotify.com/track/3lOw4G8OgayvKkj5kea7CN) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/2K1HtU9ddlCjChISLhPNLv) | 3:08 |
+| 189 | [Fall Tonight](https://open.spotify.com/track/3lOw4G8OgayvKkj5kea7CN) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/2K1HtU9ddlCjChISLhPNLv) | 3:08 |
+| 190 | [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
 | 191 | [Cheap Liquor](https://open.spotify.com/track/42oi5SgSne2Wvt3dkiX4pu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 1:59 |
 | 192 | [Bricks](https://open.spotify.com/track/7C8D8SOJ2jHrC15aB1yZ67) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:54 |
 | 193 | [Versions of Me](https://open.spotify.com/track/6SOCvo8NKJm5tfXqfBG0Uq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Versions of Me](https://open.spotify.com/album/701oucP6kZjma5iqb7cdX8) | 2:12 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 232 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 233 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `Ab1jpgAAAACE7Lgn4xdIYApoegkztGnS`
+Snapshot ID: `Ab1pKAAAAAADAwW90FeVwum/ln7VxiOb`

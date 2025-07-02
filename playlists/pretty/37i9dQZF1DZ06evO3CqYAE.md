@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,969 likes - 44 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,975 likes - 44 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 14 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
 | 15 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
 | 16 | [Oil on My Head \(Remix\)](https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oil on My Head \(Remix\)](https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU) | 3:37 |
-| 17 | [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 |
+| 17 | [More Than Gold \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:34 |
 | 18 | [Onememma \(feat\. Chioma Jesus\)](https://open.spotify.com/track/5B6ckleglIos5782GxMYml) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:06 |
-| 19 | [More Than Gold \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:34 |
+| 19 | [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 |
 | 20 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 |
 | 21 | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832) | 5:54 |
 | 22 | [Akamdinelu](https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:02 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 43 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
 | 44 | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2) | 5:56 |
 
-Snapshot ID: `aGCCAAAAAADi4AT0jW/tN6Pe3rgibAP9`
+Snapshot ID: `aGHTgAAAAADeR4tIr2fCEvamLh+ce0t/`

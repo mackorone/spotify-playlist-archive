@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-603 songs - 1 day 6 hr 38 min
+604 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,12 +121,13 @@
 | [Dare U](https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Dare U](https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V) | 2:21 | 2025-01-17 | 2025-04-01 |
 | [Dark Room \(feat\. ICEKIID\)](https://open.spotify.com/track/1eA6vc394WJF2l4lHLqJ2B) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Dark Room \(feat\. ICEKIID\)](https://open.spotify.com/album/7wwyWVyOkb8KVIp32Ocd4u) | 2:54 | 2024-07-25 | 2024-09-11 |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-09-05 | 2025-01-10 |
+| [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-26 |  |
 | [De Her Timer](https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA) | 3:28 | 2024-07-31 | 2024-08-24 |
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-31 | 2024-08-23 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 | 2024-11-08 |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-07-01 | 2024-07-17 |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-27 | 2025-05-23 |
-| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-06-19 |  |
+| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-06-19 | 2025-07-02 |
 | [Den Værste \(feat\. Lamin\)](https://open.spotify.com/track/52IGdLdV9AZVcRzr2MHvjr) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Den Værste \(feat\. Lamin\)](https://open.spotify.com/album/6OLWOyGE6bq4rd2f1g7G4s) | 2:40 | 2025-05-29 | 2025-06-13 |
 | [Det husker jeg](https://open.spotify.com/track/6cikjpj9o546fDpXI8nuhX) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Det husker jeg](https://open.spotify.com/album/4FovaogPU1BcjNZYDSd28O) | 3:20 | 2025-01-24 | 2025-02-07 |
 | [DET VÆRSTE VED DIG \(feat\. Ida Laurberg\)](https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [JEG VIL IKKE VIDE DU FINDES](https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM) | 2:54 | 2024-10-03 | 2024-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Maroon 5
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,729 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,771 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 32 | [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 |
 | 33 | [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 |
 | 34 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
-| 35 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 35 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 36 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 |
 | 37 | [ECHO! \(Prod\. WOOZI\)](https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:33 |
 | 38 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 |

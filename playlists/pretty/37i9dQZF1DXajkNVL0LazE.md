@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,105 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,132 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 51 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 52 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
 | 53 | [Sycamore](https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Woke On A Whaleheart](https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH) | 5:35 |
-| 54 | [He Lays In The Reins](https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In The Reins](https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921) | 3:43 |
-| 55 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
+| 54 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
+| 55 | [He Lays In The Reins](https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In The Reins](https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921) | 3:43 |
 | 56 | [Painter in Your Pocket](https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Destroyer's Rubies](https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii) | 4:10 |
 | 57 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 | 58 | [Girl in the War](https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:23 |

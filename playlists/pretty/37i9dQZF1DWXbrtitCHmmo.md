@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Paulina Rubio & David Bisbal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,663 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,059 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
-| 2 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
+| 1 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
+| 2 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
 | 3 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
 | 4 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
 | 5 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |

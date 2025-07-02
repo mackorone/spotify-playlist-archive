@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > hand\-picked and hot right now 📈 Sam Fender & Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,643 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,649 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 2 | [Victory Lap](https://open.spotify.com/track/1jorBT8jSOAK3IIVxAvCh8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 2:45 |
 | 3 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
 | 4 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
-| 5 | [Rein Me In](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(feat\. Olivia Dean\) \[Live at London Stadium\] Extended Intro](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 |
+| 5 | [Rein Me In](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(feat\. Olivia Dean\) \[Live at London Stadium\]](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 |
 | 6 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 |
 | 7 | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/track/6vAvTYuvHpVBzDOx7W4zJQ) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/1xTOkHI0GDVBNuFutqUmMF) | 1:49 |
 | 8 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |

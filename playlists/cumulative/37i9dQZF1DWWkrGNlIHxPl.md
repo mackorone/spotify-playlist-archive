@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover:Fulana
 
-362 songs - 19 hr 51 min
+363 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Batwanes Beek](https://open.spotify.com/track/1YsyeSTv6thppccjlrF7nt) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/14EHIFpulqmcBYw2L6eR84) | 2:09 | 2024-02-13 | 2024-04-19 |
 | [Batwanes Beek](https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Batwanes Beek](https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7) | 13:24 | 2022-06-06 | 2022-06-24 |
 | [Beating Broken Heart](https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jon Paul](https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Beating Broken Heart](https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl) | 2:19 | 2022-05-26 | 2022-12-08 |
+| [Beaucoup](https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Beaucoup](https://open.spotify.com/album/3jrVZmsNfhvh7ItgdxmdG3) | 3:13 | 2025-07-01 |  |
 | [Beirut](https://open.spotify.com/track/5FGA9IEDOPYX8viE5BtyLW) | [Dany Neville](https://open.spotify.com/artist/25eSvHHBfgPVlQLGN4HPkU) | [Beirut](https://open.spotify.com/album/7z6rpzua2aPy1dxLJ4arkm) | 3:05 | 2024-07-09 |  |
 | [Believing In Me \(feat\. King Los\)](https://open.spotify.com/track/7JwWZEXsbB1Fb7cmrmpoOo) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [Believing In Me](https://open.spotify.com/album/6oLdufnqZzlL643clLTGmM) | 2:24 | 2023-01-25 | 2023-09-07 |
 | [Bet](https://open.spotify.com/track/3iowVvAog2lPhMjuLpb6Sj) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Bet](https://open.spotify.com/album/0rmT0TYdnLKImISjpgiiQl) | 2:14 | 2023-09-19 | 2023-09-29 |
@@ -171,7 +172,7 @@
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-12 | 2023-03-15 |
 | [IL0V3Y0U](https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [IL0V3Y0U](https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz) | 2:43 | 2023-09-19 | 2024-03-12 |
 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 | 2023-06-02 |  |
-| [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 | 2024-02-08 |  |
+| [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 | 2024-02-08 | 2025-07-02 |
 | [In My Head](https://open.spotify.com/track/6ijfznxnQ4bxt3aESRanLG) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [In My Head](https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6) | 2:35 | 2022-11-19 | 2022-12-08 |
 | [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 | 2021-12-16 | 2022-10-09 |
 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/38XCa5T2vison2QekvDvWN) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 | 2022-12-07 | 2023-01-08 |

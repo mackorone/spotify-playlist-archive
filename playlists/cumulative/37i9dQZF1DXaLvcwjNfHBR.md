@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: ONEFOUR
 
-852 songs - 1 day 21 hr 8 min
+854 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-08-01 | 2023-09-02 |
 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 | 2024-01-19 | 2024-03-01 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-06-27 | 2023-07-28 |
+| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-07-01 |  |
 | [Gang Ties \(feat\. Headie One\)](https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Gang Ties \(feat\. Headie One\)](https://open.spotify.com/album/7EoemSCOLGwqP6QwOly6eR) | 3:00 | 2024-09-19 | 2024-10-25 |
 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 | 2025-06-27 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-05-02 | 2024-08-09 |
@@ -306,7 +307,7 @@
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-03-07 | 2024-04-19 |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-10 | 2023-11-06 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-06-15 | 2023-07-14 |
-| [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 |  |
+| [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 | 2025-07-02 |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-03 | 2023-08-26 |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-14 | 2024-04-05 |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-05 | 2023-11-17 |
@@ -324,6 +325,7 @@
 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 | 2024-09-12 | 2025-02-04 |
 | [Grown Woman](https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Grown Woman](https://open.spotify.com/album/3Zpdg1WMQqfWrf4sXAHxLJ) | 5:10 | 2023-12-15 | 2024-01-12 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 | 2024-09-06 |
+| [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 | 2025-07-01 |  |
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-09-01 | 2023-10-06 |
 | [Gunfinger \(Salute\)](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Gunfinger \(Salute\)](https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58) | 2:46 | 2024-08-15 | 2024-09-20 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 | 2024-12-06 |
@@ -449,7 +451,7 @@
 | [Lights Camera Action](https://open.spotify.com/track/6rGksJP4hwS7Qw4dURZUyd) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Lights Camera Action](https://open.spotify.com/album/2ikiluIld4ZKLV1m5tdijd) | 2:42 | 2024-09-27 | 2024-10-25 |
 | [LIKE A DAWG](https://open.spotify.com/track/3TLfrZEPkRaV42OMuysuiE) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [LIKE A DAWG](https://open.spotify.com/album/5YDGqVOCWWtMGSbsHstmIo) | 2:42 | 2024-08-15 | 2024-09-27 |
 | [Like A Girl Does](https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Like A Girl Does](https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW) | 2:52 | 2023-11-10 | 2024-01-19 |
-| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-18 |  |
+| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-18 | 2025-07-02 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-25 | 2024-04-12 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-27 | 2023-12-16 |
 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 | 2024-04-04 | 2024-05-10 |

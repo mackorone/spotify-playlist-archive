@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Kristi Steyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,776 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,781 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 43 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 44 | [Change](https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Change](https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah) | 3:59 |
 | 45 | [Ons Lewe Net Een Keer](https://open.spotify.com/track/5GgWWVgpPfX9qFHtZ1TNU2) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Ons Lewe Net Een Keer](https://open.spotify.com/album/1BSTOeLYWb5wh8t4SSGSpV) | 2:56 |
-| 46 | [Die Dood Is Blou](https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Die Dood Is Blou](https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob) | 2:38 |
-| 47 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 46 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 47 | [Die Dood Is Blou](https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Die Dood Is Blou](https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob) | 2:38 |
 | 48 | [Black Book](https://open.spotify.com/track/1vTbBTzLzLKz6TVmRIwIBK) | [Our Bodies](https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW) | [Black Book](https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg) | 2:56 |
 | 49 | [cobra\~](https://open.spotify.com/track/1fdQEQM1LHmTgScM6qf9XC) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [cobra\~](https://open.spotify.com/album/0q4Q3myGcOhUfGYveoXcb5) | 1:40 |
-| 50 | [Fantasy Factory](https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fantasy Factory](https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce) | 2:52 |
+| 50 | [Mindy](https://open.spotify.com/track/41pNyn4UJ96rgmDn7OOsv0) | [Kalden Berg](https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j) | [Mindy](https://open.spotify.com/album/3Hd9Y2xjdub3q3yNwJrejW) | 4:21 |
 
 Snapshot ID: `aF6iGAAAAADx8YToi5zM09VBwq34QQ9b`

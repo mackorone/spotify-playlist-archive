@@ -4,7 +4,7 @@
 
 > 
 
-284 songs - 15 hr 51 min
+285 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alone Again](https://open.spotify.com/track/67CeBSTKTSfzOlyLOfMxwF) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 2:32 | 2023-07-10 |  |
 | [Alone Together](https://open.spotify.com/track/0w1c9M3a9WCsxmBs3UkqlA) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [Hello?](https://open.spotify.com/album/0SMAjPAbO2Aa4LbEevyvAv) | 4:01 | 2023-08-27 |  |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2023-06-14 |  |
+| [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2025-07-01 |  |
 | [Another \(Demo\) One \#2](https://open.spotify.com/track/1LF3HPHVajnRT1mPCOqfOF) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another \(Demo\) One](https://open.spotify.com/album/0ewX28ddLRkurAnlVqkp5V) | 2:46 | 2023-08-26 |  |
 | [Answer](https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Wolf](https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB) | 3:50 | 2024-11-07 |  |
 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 | 2025-05-30 |  |

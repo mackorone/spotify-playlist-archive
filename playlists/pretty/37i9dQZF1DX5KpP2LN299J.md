@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KpP2LN299J.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,230,117 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,230,573 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

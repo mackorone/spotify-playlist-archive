@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,054 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,376 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

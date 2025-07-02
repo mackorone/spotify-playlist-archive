@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: To Eternity",
-  "num_followers": 38598,
+  "num_followers": 38601,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u0445\u0435\u0439 \u0439\u043e",
-        "url": "https://open.spotify.com/album/1irwbxDZPvU5YVX5oeRlkK"
-      },
-      "artists": [
-        {
-          "name": "renie cares",
-          "url": "https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        }
-      ],
-      "duration_ms": 209888,
-      "name": "\u0445\u0435\u0439 \u0439\u043e",
-      "url": "https://open.spotify.com/track/7y8h6JnGNKn8nnbOxQalLA"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
         "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 199556,
       "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
       "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "\u0445\u0435\u0439 \u0439\u043e",
+        "url": "https://open.spotify.com/album/1irwbxDZPvU5YVX5oeRlkK"
+      },
+      "artists": [
+        {
+          "name": "renie cares",
+          "url": "https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 209888,
+      "name": "\u0445\u0435\u0439 \u0439\u043e",
+      "url": "https://open.spotify.com/track/7y8h6JnGNKn8nnbOxQalLA"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
+        "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
+        "url": "https://open.spotify.com/album/7h2cSRUhyvAtXLLzT2FVpo"
+      },
+      "artists": [
+        {
+          "name": "\u042e\u043b\u044f \u042e\u0440\u0456\u043d\u0430",
+          "url": "https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM"
+        }
+      ],
+      "duration_ms": 183115,
+      "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
+      "url": "https://open.spotify.com/track/3SolEhaDZWKJhQ8lS7mZSv"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
         "name": "\u0445\u0456\u0431\u0430 \u0441\u043e\u0431\u0456 \u044f \u0432\u043e\u0440\u043e\u0433",
         "url": "https://open.spotify.com/album/4uRR1Sgtlxwo9XrPIuz9uD"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 184941,
       "name": "\u0445\u0456\u0431\u0430 \u0441\u043e\u0431\u0456 \u044f \u0432\u043e\u0440\u043e\u0433",
       "url": "https://open.spotify.com/track/7fXgxnfwe6GPL9wT5DbHmi"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
-        "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
-        "url": "https://open.spotify.com/album/7h2cSRUhyvAtXLLzT2FVpo"
-      },
-      "artists": [
-        {
-          "name": "\u042e\u043b\u044f \u042e\u0440\u0456\u043d\u0430",
-          "url": "https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM"
-        }
-      ],
-      "duration_ms": 183115,
-      "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
-      "url": "https://open.spotify.com/track/3SolEhaDZWKJhQ8lS7mZSv"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u0413\u043e\u043b\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-        "url": "https://open.spotify.com/album/0AwITtNogPRuPOmbgPdNbV"
-      },
-      "artists": [
-        {
-          "name": "teeNsad",
-          "url": "https://open.spotify.com/artist/7elTC4UjdEVwcpEnOvHoUN"
-        }
-      ],
-      "duration_ms": 110396,
-      "name": "\u041e\u0434\u0438\u043d \u0437 \u043d\u0435\u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0438\u0445 \u0434\u043d\u0456\u0432",
-      "url": "https://open.spotify.com/track/6ghQuCFsDTbuJbqfVXxwUy"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0423\u043b\u044e\u0431\u043b\u0435\u043d\u0456 \u0440\u0435\u0447\u0456",
         "url": "https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "Hard skill \u0431\u0443\u0442\u0438 \u0431\u0456\u0447",
-        "url": "https://open.spotify.com/album/4rLK1p8yKySn2LL7fkIzxL"
+        "name": "\u0413\u043e\u043b\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+        "url": "https://open.spotify.com/album/0AwITtNogPRuPOmbgPdNbV"
       },
       "artists": [
         {
-          "name": "\u0422\u0423\u0427\u0410",
-          "url": "https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ"
+          "name": "teeNsad",
+          "url": "https://open.spotify.com/artist/7elTC4UjdEVwcpEnOvHoUN"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Hard skill \u0431\u0443\u0442\u0438 \u0431\u0456\u0447",
-      "url": "https://open.spotify.com/track/3uPPTH0yU6YgBA1vLlcXln"
+      "duration_ms": 110396,
+      "name": "\u041e\u0434\u0438\u043d \u0437 \u043d\u0435\u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0438\u0445 \u0434\u043d\u0456\u0432",
+      "url": "https://open.spotify.com/track/6ghQuCFsDTbuJbqfVXxwUy"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -751,6 +735,22 @@
       "duration_ms": 316097,
       "name": "Spotguide",
       "url": "https://open.spotify.com/track/0tPLTXp6lkIi4qhOyRV6IO"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "Hard skill \u0431\u0443\u0442\u0438 \u0431\u0456\u0447",
+        "url": "https://open.spotify.com/album/4rLK1p8yKySn2LL7fkIzxL"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0423\u0427\u0410",
+          "url": "https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Hard skill \u0431\u0443\u0442\u0438 \u0431\u0456\u0447",
+      "url": "https://open.spotify.com/track/3uPPTH0yU6YgBA1vLlcXln"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -859,6 +859,26 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
+        "name": "\u0427\u0422\u041c\u0421",
+        "url": "https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS"
+      },
+      "artists": [
+        {
+          "name": "GRABAR",
+          "url": "https://open.spotify.com/artist/3oTWXfqg8nmS0nlSkYDiYK"
+        },
+        {
+          "name": "YUVI",
+          "url": "https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "\u0427\u0422\u041c\u0421",
+      "url": "https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
         "name": "\u0442\u0443\u0442 \u0442\u0430\u043c",
         "url": "https://open.spotify.com/album/5Tq45X8sRhoX0mh0ckV0SW"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 176144,
       "name": "\u0442\u0443\u0442 \u0442\u0430\u043c",
       "url": "https://open.spotify.com/track/4DQGcN326v52qQxIFclcc2"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
-        "name": "\u0427\u0422\u041c\u0421",
-        "url": "https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS"
-      },
-      "artists": [
-        {
-          "name": "GRABAR",
-          "url": "https://open.spotify.com/artist/3oTWXfqg8nmS0nlSkYDiYK"
-        },
-        {
-          "name": "YUVI",
-          "url": "https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "\u0427\u0422\u041c\u0421",
-      "url": "https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "Long Play: \u0413\u0440\u0430 \u0432 \u0434\u043e\u0432\u0433\u0443",
-        "url": "https://open.spotify.com/album/1rkCwt4qbVKH0X5vKtBHus"
-      },
-      "artists": [
-        {
-          "name": "Sofira",
-          "url": "https://open.spotify.com/artist/6IsIXhoZSxqf4BKGKGiN88"
-        }
-      ],
-      "duration_ms": 167214,
-      "name": "\u041d\u0435\u0431\u043e",
-      "url": "https://open.spotify.com/track/1wIaD1sUIBxkKBmE7wjyyj"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
         "name": "\u0421\u041c\u0423\u0413\u0418",
         "url": "https://open.spotify.com/album/5oePjlSoDXJgfHXgsjPu8C"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 217428,
       "name": "\u0421\u041c\u0423\u0413\u0418",
       "url": "https://open.spotify.com/track/61QVw84uXhjAsbM7GKyvP0"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
+        "name": "Long Play: \u0413\u0440\u0430 \u0432 \u0434\u043e\u0432\u0433\u0443",
+        "url": "https://open.spotify.com/album/1rkCwt4qbVKH0X5vKtBHus"
+      },
+      "artists": [
+        {
+          "name": "Sofira",
+          "url": "https://open.spotify.com/artist/6IsIXhoZSxqf4BKGKGiN88"
+        }
+      ],
+      "duration_ms": 167214,
+      "name": "\u041d\u0435\u0431\u043e",
+      "url": "https://open.spotify.com/track/1wIaD1sUIBxkKBmE7wjyyj"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
+        "name": "VIDMA",
+        "url": "https://open.spotify.com/album/1pTc5ODjmi21tEvxgGRC5J"
+      },
+      "artists": [
+        {
+          "name": "Sonyachna",
+          "url": "https://open.spotify.com/artist/5m1W82wDuCwcCvNI7cATEO"
+        }
+      ],
+      "duration_ms": 177091,
+      "name": "VIDMA",
+      "url": "https://open.spotify.com/track/4cHGD8j5irv30847lPnD4C"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
         "name": "\u041f\u0456\u0448\u0430\u043a",
         "url": "https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 199186,
       "name": "\u0421\u0443\u0442\u0456\u043d\u043a\u0438",
       "url": "https://open.spotify.com/track/5bAsKGr5prU5YdXRCksOfO"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
-        "name": "VIDMA",
-        "url": "https://open.spotify.com/album/1pTc5ODjmi21tEvxgGRC5J"
-      },
-      "artists": [
-        {
-          "name": "Sonyachna",
-          "url": "https://open.spotify.com/artist/5m1W82wDuCwcCvNI7cATEO"
-        }
-      ],
-      "duration_ms": 177091,
-      "name": "VIDMA",
-      "url": "https://open.spotify.com/track/4cHGD8j5irv30847lPnD4C"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
+        "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
+        "url": "https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5"
+      },
+      "artists": [
+        {
+          "name": "\u0442\u0443\u0434\u0438-\u0441\u044e\u0434\u0438 \u0456 \u0441\u043c\u0435\u0440\u0442\u044c",
+          "url": "https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK"
+        }
+      ],
+      "duration_ms": 174221,
+      "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
+      "url": "https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn"
+    },
+    {
+      "added_at": "2025-06-30 15:59:12",
+      "album": {
         "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u043a\u0430\u0439",
         "url": "https://open.spotify.com/album/1zs5Tya7peM4Ck7lyLsYhs"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2025-06-30 15:59:12",
       "album": {
-        "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
-        "url": "https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5"
+        "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/1OEyFSCk0GEdg8Dmww0ry0"
       },
       "artists": [
         {
-          "name": "\u0442\u0443\u0434\u0438-\u0441\u044e\u0434\u0438 \u0456 \u0441\u043c\u0435\u0440\u0442\u044c",
-          "url": "https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK"
+          "name": "Olyaska",
+          "url": "https://open.spotify.com/artist/3CHYK38IU7Igd9yiOO3I9J"
         }
       ],
-      "duration_ms": 174221,
-      "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
-      "url": "https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn"
+      "duration_ms": 181333,
+      "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/1ouqFkok0LZkDAt3qqaYFY"
     },
     {
       "added_at": "2025-06-30 15:59:12",
@@ -1263,22 +1279,6 @@
       "duration_ms": 126136,
       "name": "\u041c\u0456\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/0qpuExro0xkaUNP2O2M4dv"
-    },
-    {
-      "added_at": "2025-06-30 15:59:12",
-      "album": {
-        "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
-        "url": "https://open.spotify.com/album/1OEyFSCk0GEdg8Dmww0ry0"
-      },
-      "artists": [
-        {
-          "name": "Olyaska",
-          "url": "https://open.spotify.com/artist/3CHYK38IU7Igd9yiOO3I9J"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "\u0421\u0430\u0442\u0438\u0432\u0430",
-      "url": "https://open.spotify.com/track/1ouqFkok0LZkDAt3qqaYFY"
     },
     {
       "added_at": "2025-06-30 15:59:12",

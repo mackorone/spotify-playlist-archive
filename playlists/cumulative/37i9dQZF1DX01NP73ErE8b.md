@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Fabri Fibra in cover
 
-333 songs - 17 hr 0 min
+334 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [100 anni \(piangi\) \(feat\. gIANMARIA & Mostro\)](https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:54 | 2024-07-11 | 2024-07-27 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-07-01 | 2024-08-20 |
 | [160BPM](https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [160BPM](https://open.spotify.com/album/5sR7r3HcQrVlcCbQvN3yrf) | 2:40 | 2025-01-09 | 2025-01-24 |
+| [2000 Pensieri](https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:43 | 2025-07-01 |  |
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-07-01 | 2024-11-15 |
 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 | 2025-04-24 | 2025-05-27 |
 | [5cm](https://open.spotify.com/track/09zTRP1jupO6evQj54cqoO) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [5cm](https://open.spotify.com/album/4nU1cJTiDUmTp5bcNOIdAU) | 2:52 | 2025-02-27 | 2025-03-21 |

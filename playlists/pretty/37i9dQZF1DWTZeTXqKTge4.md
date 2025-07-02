@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: kinji00, lb66
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,657 likes - 74 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,674 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 60 | [Descente aux enfers](https://open.spotify.com/track/1tFBUTJkx8rPa8baeObKQG) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [Phénix](https://open.spotify.com/album/5r0WDq2OcLMz4zDa5cV4hs) | 3:04 |
 | 61 | [Tour](https://open.spotify.com/track/4v2DWcJS8tXPMqq9SKX5R5) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe) | [Tour](https://open.spotify.com/album/2m3epZUipMloYX7ubIeORv) | 3:23 |
 | 62 | [Zoo](https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Zoo](https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK) | 3:00 |
-| 63 | [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 |
+| 63 | [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 |
 | 64 | [Chief Keef](https://open.spotify.com/track/5ilRPSFAdxFZReuKUPKzTh) | [Zayo](https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n) | [Chief Keef](https://open.spotify.com/album/1Wau0tDMwWxZuELIPdWTPe) | 2:01 |
 | 65 | [TIK TAK](https://open.spotify.com/track/0IkvITCUa64UM1YrB6msU3) | [Tali\-B](https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT) | [TIK TAK](https://open.spotify.com/album/6anLNLmJcfC28huG3aTmb6) | 2:09 |
 | 66 | [Oui monsieur](https://open.spotify.com/track/3idjVa2TQt9OP1sN5Xp8AA) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Le cheval blanc de Napoléon](https://open.spotify.com/album/3ZoWSR9Fay4WzDRgemaC00) | 3:27 |

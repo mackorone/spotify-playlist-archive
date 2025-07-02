@@ -6975,6 +6975,28 @@
     },
     {
       "album": {
+        "name": "Big Bag",
+        "url": "https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166231,
+      "name": "Big Bag",
+      "url": "https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq"
+    },
+    {
+      "album": {
         "name": "For Us",
         "url": "https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL"
       },
@@ -14929,7 +14951,7 @@
     },
     {
       "album": {
-        "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece_Yvk)",
+        "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece Yvk)",
         "url": "https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L"
       },
       "artists": [
@@ -14954,7 +14976,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 323362,
-      "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece_Yvk)",
+      "name": "Down (feat. Xman Rsa, Lintonto & Masterpiece Yvk)",
       "url": "https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK"
     },
     {
@@ -27775,7 +27797,7 @@
     },
     {
       "album": {
-        "name": "Isaka (6am) - In Ghana",
+        "name": "Isaka (6am) Nektunez Mix - In Ghana",
         "url": "https://open.spotify.com/album/2D0IZQtNezD8rSZWbmT0i7"
       },
       "artists": [
@@ -27796,7 +27818,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230000,
-      "name": "Isaka (6am) - In Ghana",
+      "name": "Isaka (6am) Nektunez Mix - In Ghana",
       "url": "https://open.spotify.com/track/2PndMEPHoxjDcfPWQQJUme"
     },
     {
@@ -37021,14 +37043,10 @@
     },
     {
       "album": {
-        "name": "NEW GEN WAVE",
+        "name": "CRUX GLOBAL PRESENTS: NEW GEN WAVE",
         "url": "https://open.spotify.com/album/5Cqo2bmZ5s3TNqGZTXZ7Rq"
       },
       "artists": [
-        {
-          "name": "CRUX GLOBAL",
-          "url": "https://open.spotify.com/artist/6vlOng9ireAqlyOcRuehLt"
-        },
         {
           "name": "Daneva",
           "url": "https://open.spotify.com/artist/4jGsxc9jQioQkb6vcRxDgq"

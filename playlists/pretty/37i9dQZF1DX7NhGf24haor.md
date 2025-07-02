@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Dual Damage
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,805 likes - 91 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,913 likes - 91 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 38 | [AVERAGE SUMMER SONG](https://open.spotify.com/track/0PA3FPOMFGAW9ie4a2XW8G) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [AVERAGE SUMMER SONG](https://open.spotify.com/album/3w5RVJTnI9Jqf99S07kAII) | 2:48 |
 | 39 | [Summertime Madness](https://open.spotify.com/track/0N5s2NtgNo7QpePVtYjK9i) | [Broken Element](https://open.spotify.com/artist/6WMONlXvkrTWxC4TcI8qcD), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Summertime Madness](https://open.spotify.com/album/5RpWAFjjsMWSMLVAawiV6k) | 2:43 |
 | 40 | [Pandora](https://open.spotify.com/track/5gRwQF8cNeuSEhfCXsnXwK) | [ERABREAK](https://open.spotify.com/artist/1ykesmLeugHwTXDfc81Pu8), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Pandora](https://open.spotify.com/album/3F6VSKwV6xfozKCPkErWf1) | 3:34 |
-| 41 | [Holding On For Life](https://open.spotify.com/track/253lGgOK6eDVUSYAEfYTKA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Holding On For Life](https://open.spotify.com/album/0HQ8SLnATVroszOY401GaH) | 2:43 |
+| 41 | [Holding On For Life](https://open.spotify.com/track/253lGgOK6eDVUSYAEfYTKA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [Holding On For Life](https://open.spotify.com/album/0HQ8SLnATVroszOY401GaH) | 2:43 |
 | 42 | [Follow The Smoke](https://open.spotify.com/track/0BPsZWMQOaZq5gjnxSYy8E) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [Follow The Smoke](https://open.spotify.com/album/4kvXvXPsk9HXlSwrkb31Ds) | 2:51 |
 | 43 | [Party Rocker](https://open.spotify.com/track/2VqAEHgw3lX9RrDApOAJOG) | [Flux Overload](https://open.spotify.com/artist/6Y0b8U7HteRz5sDhg5SMAf) | [Party Rocker](https://open.spotify.com/album/0TPOaCOvPBrADebu1GWHTJ) | 2:19 |
 | 44 | [Escape Reality](https://open.spotify.com/track/1ykV9y2yIY7LLbWySsueYd) | [State of Deva](https://open.spotify.com/artist/7MyoSv4wg5VRYvoUBHdhJi) | [Escape Reality](https://open.spotify.com/album/0obeLaxo9Biz07hUgwCcxx) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,120 likes - 85 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,055 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 4 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 5 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 | 6 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 |
-| 7 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 7 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 8 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
 | 9 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 |
 | 10 | [Cowbella](https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Cowbella](https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH) | 4:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,792 likes - 304 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 304 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 88 | [Antidote](https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:42 |
 | 89 | [Jealousy](https://open.spotify.com/track/46df2qqZrXxDfhaXuSTRAm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 3:44 |
 | 90 | [November Rain](https://open.spotify.com/track/58ZdT5NQIAkeSWUxNneBg8) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:13 |
-| 91 | [Gotdamn](https://open.spotify.com/track/1lOvSqQIVIkNaDZlt645d0) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 2:52 |
-| 92 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 |
+| 91 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 |
+| 92 | [Gotdamn](https://open.spotify.com/track/1lOvSqQIVIkNaDZlt645d0) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 2:52 |
 | 93 | [Miami](https://open.spotify.com/track/1DfASEEKVByFKTgCArlkS5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:10 |
 | 94 | [Cost To Be Alive \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/3Y3PNfb2ZuRBZgdJ2sKySy) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:19 |
 | 95 | [Stand Back](https://open.spotify.com/track/2GN8cwTiUEUBxc03fsA0C0) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 3:27 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 177 | [Wall To Wall](https://open.spotify.com/track/6IgFFnT7ikUWvFSjzxNf0S) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:42 |
 | 178 | [Poppin Out \(feat\. BIG30\)](https://open.spotify.com/track/7CI5KZUJwnGjv3cL5uygTr) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:42 |
 | 179 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 |
-| 180 | [Push Up](https://open.spotify.com/track/3oypEAkR7cV0tG8Fds2mPS) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:02 |
-| 181 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 180 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 181 | [Push Up](https://open.spotify.com/track/3oypEAkR7cV0tG8Fds2mPS) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:02 |
 | 182 | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/track/2ZSQWhxpNwAbHG3n3V5Ol1) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/album/0Vu6i6ro4Gc5KWG93ieeac) | 3:19 |
 | 183 | [Woke Up](https://open.spotify.com/track/61qCOFYVc2N2No5F8EWrOC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:44 |
 | 184 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 188 | [Trick](https://open.spotify.com/track/6TVYfpUgrhL06qWlljUW5L) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:38 |
 | 189 | [Disciples](https://open.spotify.com/track/4uhHPuMHYujbT55nPXSaLc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:48 |
 | 190 | [That Bag](https://open.spotify.com/track/7u9B2WKqrmxk3iQNWFfD1I) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [That Bag](https://open.spotify.com/album/5RyA35Dok5w92uKZnclGd7) | 2:38 |
-| 191 | [Good Habits](https://open.spotify.com/track/5GewJp0nNK4UyGVGZ7v8tE) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:18 |
-| 192 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 191 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
+| 192 | [Good Habits](https://open.spotify.com/track/5GewJp0nNK4UyGVGZ7v8tE) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:18 |
 | 193 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:56 |
 | 194 | [For The Gang](https://open.spotify.com/track/50XPnMwsX4UErXirkEqs4v) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:39 |
 | 195 | [M&M's](https://open.spotify.com/track/5YAhCJ4X7Hgtwg6wr4nRyP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:49 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 303 | [Stay](https://open.spotify.com/track/6otCmruLPVXztgo0G214fQ) | [Jessica Pilnäs](https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf) | [Pretender](https://open.spotify.com/album/7BLFYoqfUvAudtlVq882nN) | 4:06 |
 | 304 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 
-Snapshot ID: `Ab1jpgAAAAB41Q2+oL2b36QLLzC2j7EO`
+Snapshot ID: `Ab1pKAAAAAAfg+iXXCcCVzzfP47yhwBA`

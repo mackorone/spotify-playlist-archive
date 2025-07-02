@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 
 > Dale play y dejá que la música te lleve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,907 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,959 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 51 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
 | 52 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 53 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
-| 54 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
+| 54 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 55 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
-| 56 | [Loca](https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:28 |
-| 57 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 56 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
+| 57 | [Loca](https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:28 |
 | 58 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 |
 | 59 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 60 | [Lunes Por La Madrugada](https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Himno De Mi Corazon](https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC) | 3:14 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 63 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 64 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 |
 | 65 | [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 |
-| 66 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
-| 67 | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 5:19 |
+| 66 | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 5:19 |
+| 67 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
 | 68 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 |
 | 69 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 70 | [Pronta Entrega](https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 4:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Billie Marten
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,159 likes - 95 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,153 likes - 95 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 12 | [Stonewall Riots Forever](https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Stonewall Riots Forever](https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P) | 3:58 |
 | 13 | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tariq Al\-Sabir](https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc) | 3:19 |
 | 14 | [An Hour Per Day](https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [An Hour Per Day](https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav) | 3:37 |
-| 15 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 15 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 16 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 |
 | 17 | [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 |
 | 18 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 |

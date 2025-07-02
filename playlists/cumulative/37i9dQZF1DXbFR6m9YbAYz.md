@@ -4,7 +4,7 @@
 
 > Country tracks to pump up your gaming.
 
-136 songs - 7 hr 49 min
+137 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 | 2024-06-12 |  |
 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2022-12-05 |  |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 | 2022-08-12 |  |
-| [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2024-06-12 |  |
+| [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2024-06-12 | 2025-07-02 |
 | [Hippies and Cowboys](https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa) | 5:00 | 2023-01-13 | 2024-04-19 |
 | [Hippies and Cowboys](https://open.spotify.com/track/1YWSAC0JPLKpf0PVCie4T7) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/2fUFSZr4KMEXOdsTw1LdSG) | 5:00 | 2022-08-12 | 2023-01-08 |
 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 | 2023-06-30 |  |
@@ -109,6 +109,7 @@
 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 | 2022-08-12 | 2024-04-19 |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2022-08-12 |  |
 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 | 2024-03-29 |  |
+| [Tequila Does \- Remix](https://open.spotify.com/track/5OAR2NIvwDJ5QAmrJYgGv5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Tequila Does \(Remix\)](https://open.spotify.com/album/34IfaAv6R5zmpjLQhzlwIh) | 3:29 | 2024-06-12 |  |
 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 | 2022-08-12 | 2023-12-11 |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2022-08-12 |  |
 | [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 | 2023-11-10 | 2024-04-19 |

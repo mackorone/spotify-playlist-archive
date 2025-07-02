@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,631 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,650 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 25 | [Like a Hurricane](https://open.spotify.com/track/4m9ogLz7APakQ8MibwIzHD) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [DIANNE](https://open.spotify.com/artist/3HwonmQtZrIXOXO6ghZcJG) | [Like a Hurricane](https://open.spotify.com/album/44T5LlXWNrE3gkURvj5PFe) | 4:17 |
 | 26 | [Astronaut In The Ocean](https://open.spotify.com/track/2qjH6wZfR0g11ZiT7KqyRO) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Astronaut In The Ocean](https://open.spotify.com/album/3OilDLxf5rFVhaQmez7ent) | 2:14 |
 | 27 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
-| 28 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 |
-| 29 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
+| 28 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
+| 29 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 |
 | 30 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 |
 | 31 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
 | 32 | [Rebel Yell](https://open.spotify.com/track/00L2MQuug19kvRNs41ZHFp) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [No Regrets](https://open.spotify.com/album/5zULa2uekANHFzQmI926qs) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 
 > It's all about the girls tonight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,705,314 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,705,157 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 | 11 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 12 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
 | 13 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 |
-| 14 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
-| 15 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
-| 16 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
+| 14 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 15 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
+| 16 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
 | 17 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 18 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
 | 19 | [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 | 65 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 66 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
 | 67 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
-| 68 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
-| 69 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |
+| 68 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |
+| 69 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
 | 70 | [My Oh My \(feat\. DaBaby\)](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 2:50 |
 | 71 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 72 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 |

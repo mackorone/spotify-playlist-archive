@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604,822 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,604,790 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 24 | [Marquee Moon](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 10:38 |
 | 25 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 26 | [Redondo Beach](https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:25 |
-| 27 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
-| 28 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
+| 27 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
+| 28 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
 | 29 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
 | 30 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
 | 31 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 46 | [Code Blue](https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC) | [T.S.O.L.](https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi) | [Dance With Me](https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t) | 2:08 |
 | 47 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
 | 48 | [Natural's Not in It](https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:06 |
-| 49 | [Los Angeles](https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles](https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj) | 2:24 |
-| 50 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
+| 49 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
+| 50 | [Los Angeles](https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles](https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj) | 2:24 |
 | 51 | [Mickey Mouse Is Dead](https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ) | [Subhumans](https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK) | [The Day the Country Died](https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1) | 2:44 |
 | 52 | [Viet Nam](https://open.spotify.com/track/21vp1orbqySVyww9ngW44w) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 1:29 |
 | 53 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |

@@ -4,14 +4,14 @@
 
 > Les hits du moment\. Cover: Ed Sheeran
 
-434 songs - 23 hr 16 min
+435 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2022-10-24 | 2023-10-15 |
 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-02-03 | 2024-06-01 |
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-27 | 2025-02-15 |
-| [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2025-02-19 |  |
+| [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2025-02-19 | 2025-07-02 |
 | [4 chiffres](https://open.spotify.com/track/5kV9rjO5C8ekF9vFGZdbcw) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Flou](https://open.spotify.com/album/67cpbnbv3A8dewZVqfHams) | 2:44 | 2022-05-12 | 2022-08-10 |
 | [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2025-01-31 | 2025-03-28 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:51 | 2024-07-18 | 2024-07-27 |
@@ -209,6 +209,7 @@
 | [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 | 2024-11-27 | 2024-12-05 |
 | [Laisse Tomber](https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Laisse Tomber](https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO) | 3:17 | 2022-08-30 | 2022-11-15 |
 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 | 2024-10-03 | 2025-06-07 |
+| [Lallahom](https://open.spotify.com/track/2uK5HzKs8LsOsGHs7i8c2M) | [Sofia Marikh](https://open.spotify.com/artist/0WxY1I56V69ZoSGFNmn77d) | [Lallahom](https://open.spotify.com/album/74Z0SrQ0AZlCB84ixPVMw3) | 2:46 | 2025-07-01 |  |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-05-12 | 2023-02-23 |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-09-19 | 2022-12-02 |
 | [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-09-01 | 2025-02-20 |
@@ -250,7 +251,7 @@
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2023-01-18 | 2024-05-10 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-07 |  |
 | [Mi Amor](https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Mi Amor](https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va) | 3:44 | 2025-03-27 | 2025-06-20 |
-| [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 | 2025-06-19 |  |
+| [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 | 2025-06-19 |  |
 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 | 2025-01-31 | 2025-06-20 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-05-12 | 2022-09-16 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2022-05-12 | 2022-08-31 |

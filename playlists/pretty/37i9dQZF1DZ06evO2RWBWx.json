@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 25236,
+  "num_followers": 25238,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAAO7tH4d4uACFS8/cFHygl3",
+  "snapshot_id": "aGHTgAAAAACgjv4viE6IJoUN8ll7Q4bZ",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soyokaze",
-        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 216417,
-      "name": "Soyokaze",
-      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u51e1\u624d",
         "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 212826,
       "name": "Happy Order?",
       "url": "https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soyokaze",
+        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 216417,
+      "name": "Soyokaze",
+      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u50d5\u3089\u3060",
-        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "\u50d5\u3089\u3060",
-      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u51e1\u624d",
         "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
@@ -343,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
+        "name": "\u50d5\u3089\u3060",
+        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
       },
       "artists": [
         {
@@ -352,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 202333,
-      "name": "\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
+      "duration_ms": 198173,
+      "name": "\u50d5\u3089\u3060",
+      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
     },
     {
       "added_at": null,
@@ -383,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NIGHT DANCER (BIG Naughty Remix)",
-        "url": "https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu"
+        "name": "\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
       },
       "artists": [
         {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 210451,
-      "name": "NIGHT DANCER - BIG Naughty Remix",
-      "url": "https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U"
+      "duration_ms": 202333,
+      "name": "\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
     },
     {
       "added_at": null,
@@ -415,6 +395,26 @@
       "duration_ms": 182680,
       "name": "I say bye",
       "url": "https://open.spotify.com/track/3E4UUWzgGUH9555Hpp7dNn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NIGHT DANCER (BIG Naughty Remix)",
+        "url": "https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 210451,
+      "name": "NIGHT DANCER - BIG Naughty Remix",
+      "url": "https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "18",
-      "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u51e1\u624d",
         "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "18",
+      "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30d7\u30ea\u30ba\u30e0",
         "url": "https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 210600,
       "name": "\u30d7\u30ea\u30ba\u30e0",
       "url": "https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 (imase \u00d7 mabanua MIX)",
-        "url": "https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 - imase \u00d7 mabanua MIX",
-      "url": "https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 196000,
       "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
       "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 (imase \u00d7 mabanua MIX)",
+        "url": "https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 - imase \u00d7 mabanua MIX",
+      "url": "https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8703\u6c17\u697c",
-        "url": "https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "\u8703\u6c17\u697c",
-      "url": "https://open.spotify.com/track/1BtsD0IBNAdXVdSAVe6sih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EGOIST",
         "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
       },
@@ -607,22 +591,6 @@
       "duration_ms": 192226,
       "name": "EGOIST",
       "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u3046\u305f\u3046",
-        "url": "https://open.spotify.com/album/7Lj0NrOpaDin2lrIhHRRiu"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 187222,
-      "name": "\u3046\u305f\u3046",
-      "url": "https://open.spotify.com/track/2Rvjw1HcE8rbxZmQludTCf"
     },
     {
       "added_at": null,
@@ -651,6 +619,38 @@
       "duration_ms": 221460,
       "name": "Pale Rain",
       "url": "https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8703\u6c17\u697c",
+        "url": "https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "\u8703\u6c17\u697c",
+      "url": "https://open.spotify.com/track/1BtsD0IBNAdXVdSAVe6sih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u3046\u305f\u3046",
+        "url": "https://open.spotify.com/album/7Lj0NrOpaDin2lrIhHRRiu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 187222,
+      "name": "\u3046\u305f\u3046",
+      "url": "https://open.spotify.com/track/2Rvjw1HcE8rbxZmQludTCf"
     },
     {
       "added_at": null,

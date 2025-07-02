@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,350,351 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350,675 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,18 +39,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 29 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:25 |
 | 30 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 31 | [Caramelo \- Remix](https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:53 |
-| 32 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
-| 33 | [No Me Cansare](https://open.spotify.com/track/7syffZQA1dpkQelMckldEw) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [No Me Cansare](https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx) | 2:42 |
+| 32 | [No Me Cansare](https://open.spotify.com/track/7syffZQA1dpkQelMckldEw) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [No Me Cansare](https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx) | 2:42 |
+| 33 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
 | 34 | [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 |
 | 35 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
-| 36 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
-| 37 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
+| 36 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
+| 37 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
 | 38 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
 | 39 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
-| 40 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 |
-| 41 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:15 |
+| 40 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:15 |
+| 41 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 |
 | 42 | [OKI DOKI](https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:23 |
 | 43 | [Culpables](https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:48 |
 | 44 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 
-Snapshot ID: `aGCCAAAAAABuK+srXIZayXh4LDNGHWYG`
+Snapshot ID: `aGHTgAAAAACq2Bw8n/FS9QxQWAqJzl6z`

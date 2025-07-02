@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 9838,
+  "num_followers": 9839,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACdy7PpFKJQMHMJS8oxreF0",
+  "snapshot_id": "aGHTgAAAAADY+ruchIi0gpfcgeqqupcK",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wakafrika",
-        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+        "name": "Salvamm 'o munno (20th Anniversary)",
+        "url": "https://open.spotify.com/album/6tLQig0rGAwnlSm0u72eKF"
       },
       "artists": [
         {
+          "name": "Enzo Avitabile",
+          "url": "https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO"
+        },
+        {
+          "name": "Bottari",
+          "url": "https://open.spotify.com/artist/5REMQdXJQ6H1R3Od8I5dtF"
+        },
+        {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Papa Wemba",
-          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
         }
       ],
-      "duration_ms": 278040,
-      "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
-      "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
+      "duration_ms": 232946,
+      "name": "Salvamm' o munno - 2024 Remaster",
+      "url": "https://open.spotify.com/track/07nEudDeniMFVGWSmjTx8X"
     },
     {
       "added_at": null,
@@ -583,6 +583,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
+      "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
       },
@@ -595,46 +619,6 @@
       "duration_ms": 196240,
       "name": "Wouri",
       "url": "https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africadelic",
-        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "Afro-Soul",
-      "url": "https://open.spotify.com/track/3gwtxoxNMMfeo48G42kkHB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Salvamm 'o munno (20th Anniversary)",
-        "url": "https://open.spotify.com/album/6tLQig0rGAwnlSm0u72eKF"
-      },
-      "artists": [
-        {
-          "name": "Enzo Avitabile",
-          "url": "https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO"
-        },
-        {
-          "name": "Bottari",
-          "url": "https://open.spotify.com/artist/5REMQdXJQ6H1R3Od8I5dtF"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Salvamm' o munno - 2024 Remaster",
-      "url": "https://open.spotify.com/track/07nEudDeniMFVGWSmjTx8X"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "Afro-Soul",
+      "url": "https://open.spotify.com/track/3gwtxoxNMMfeo48G42kkHB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Made",
-        "url": "https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 502693,
-      "name": "Tropical Garden",
-      "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventie's",
         "url": "https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 345333,
       "name": "Big Blow",
       "url": "https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home Made",
+        "url": "https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 502693,
+      "name": "Tropical Garden",
+      "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moko",
+        "url": "https://open.spotify.com/album/4x5VH28M3MDs2bXMIYrYN7"
+      },
+      "artists": [
+        {
+          "name": "Lokua Kanza",
+          "url": "https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 252706,
+      "name": "Nobody Cares",
+      "url": "https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Taciturne",
         "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
       },
@@ -899,22 +919,6 @@
       "duration_ms": 274626,
       "name": "Les gar\u00e7ons ne pleurent pas",
       "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paris je t'aime d'amour",
-        "url": "https://open.spotify.com/album/63ecpqpAUf4EMpHn6DFlLQ"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Paris je t'aime d'amour",
-      "url": "https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl"
     }
   ],
   "unique_name": "This Is Manu Dibango",

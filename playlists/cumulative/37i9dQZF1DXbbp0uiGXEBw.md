@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Cầm
+> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Juky San
 
-326 songs - 20 hr 41 min
+328 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Cứ Để Cho Em](https://open.spotify.com/track/0WTuWbQb1TGNClJ56KUe4Z) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Cứ Để Cho Em](https://open.spotify.com/album/7GJ8C1rs7sXzs9R15uNwKR) | 3:48 | 2024-04-02 | 2024-08-02 |
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2021-12-07 | 2022-05-20 |
 | [Do You?](https://open.spotify.com/track/03m9ySk1by3w5w5sqhthiJ) | [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Do You?](https://open.spotify.com/album/58oksYYTlFF652wUrMQpwE) | 2:39 | 2021-12-07 | 2022-01-01 |
+| [Don't Pick Up Your Phone](https://open.spotify.com/track/4HC20jMvTnTYmlA1FzprAF) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:21 | 2025-07-02 |  |
 | [DON’T WANNA SAY GOODBYE \- Special Version](https://open.spotify.com/track/6yyE3VL3OhqgTwSeAfXjkQ) | [Ái Phương](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [DON’T WANNA SAY GOODBYE \(Special Version\)](https://open.spotify.com/album/5zlGdwz8UeUqstB2NhyV5u) | 3:25 | 2025-01-08 | 2025-03-05 |
 | [Duyên Âm](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 | 2021-12-07 | 2024-12-05 |
 | [Dâu Thiên Hạ](https://open.spotify.com/track/0rfQw4NcOrsjkJUK1rsZ01) | [Suboi](https://open.spotify.com/artist/2Fc5cGXai8xzLhGyltp4tT) | [Dâu Thiên Hạ](https://open.spotify.com/album/5Sk4xzKCcD1eehwjTIgwft) | 2:48 | 2024-06-07 | 2024-09-06 |
@@ -152,6 +153,7 @@
 | [Lao Vào](https://open.spotify.com/track/6l0jR8cJqLRSWWXi9TZPLx) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:39 | 2025-03-04 |  |
 | [Let's Talk About Love](https://open.spotify.com/track/0urC4kxpc9YcVhmpWifrug) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Blacka](https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Let's Talk About Love](https://open.spotify.com/album/0JJbK3juFfG3bMetKGDQ7W) | 4:02 | 2021-12-24 | 2022-02-24 |
 | [letting go](https://open.spotify.com/track/4rQzo0R9ytClqdRpqdBQKQ) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [letting go](https://open.spotify.com/album/7BEfD56s0Pai4DvMBapMY8) | 3:35 | 2025-02-13 | 2025-06-05 |
+| [Lie Lie Lie](https://open.spotify.com/track/3ms0lr71cb4PVbqoUHdYXy) | [Alexis Cao](https://open.spotify.com/artist/3UE1YNzwGIdXvL8AnJXWRx), [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [Lie Lie Lie](https://open.spotify.com/album/0LjwczV1Py7HVc7sJCMGXD) | 2:47 | 2025-07-02 |  |
 | [Like This Like That \(feat\. tlinh\)](https://open.spotify.com/track/2sN4QQDFXMzqyfsm97iu9F) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [CONG](https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV) | 3:45 | 2023-02-21 | 2023-08-02 |
 | [Little Love \(But No Limit\)](https://open.spotify.com/track/7mA9oPfWSMXKOdPZqyow55) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Little Love \(But No Limit\)](https://open.spotify.com/album/2RZi0rxTOLwq3RZriuhq4W) | 3:58 | 2024-03-07 | 2025-03-05 |
 | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/track/6N877oVBaZveFGDvBIVlXm) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/album/0XDBxevzLBe2wT8YOO6GcW) | 6:30 | 2021-12-07 | 2022-04-07 |
@@ -233,7 +235,7 @@
 | [Phố Đã Lên Đèn](https://open.spotify.com/track/47Y12sZlWlug3AceKoS5Hh) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Phố Đã Lên Đèn](https://open.spotify.com/album/1JHWAfIDkPEz3Cs10s8nuR) | 4:46 | 2021-12-07 | 2022-07-29 |
 | [Quá Non](https://open.spotify.com/track/54ALpltRItn7C0DWJNjLAb) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Quá Non](https://open.spotify.com/album/2jCy87EiceLYBY2ktDg0rf) | 3:28 | 2021-12-30 | 2022-02-02 |
 | [Quá trễ xin lỗi](https://open.spotify.com/track/4PNKt35BnHJVUNARd1EJYL) | [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT) | [LEMONADE](https://open.spotify.com/album/3T9D0AFYWtbZBntbknRpzB) | 2:39 | 2025-06-04 |  |
-| [quý cô say xỉn \(secret sunday\)](https://open.spotify.com/track/5MkTNoZ8xaMZYh1XMwAPtA) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [CITOPIA](https://open.spotify.com/album/4h8yUXtgFWfqMY7WdK1eIg) | 3:22 | 2025-06-04 |  |
+| [quý cô say xỉn \(secret sunday\)](https://open.spotify.com/track/5MkTNoZ8xaMZYh1XMwAPtA) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [CITOPIA](https://open.spotify.com/album/4h8yUXtgFWfqMY7WdK1eIg) | 3:22 | 2025-06-04 | 2025-07-02 |
 | [Ra Là Em Đâu Quá Mong Manh](https://open.spotify.com/track/0AfV1Fr2nWmXFxC3RkhawH) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Ra Là Em Đâu Quá Mong Manh](https://open.spotify.com/album/202hOG3XMicPSsM983t21w) | 4:21 | 2023-08-01 | 2025-06-05 |
 | [Ra Ngõ Tụng Kinh](https://open.spotify.com/track/5bp0FDHrYXlNt2rDWVG0kc) | [Hà Trần](https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk) | [TrẦn TiẾn](https://open.spotify.com/album/5wxAS2OxVfimRt76LaLuxk) | 4:44 | 2024-06-07 | 2024-07-04 |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2021-12-07 |  |
@@ -301,7 +303,7 @@
 | [Xin loi anh qua phien](https://open.spotify.com/track/0ZJcKRLc0dZp24G6MkvSnq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Ten On Ten](https://open.spotify.com/album/7nKT6mGRVlK7P6JZEMIvgX) | 4:05 | 2022-04-06 | 2022-06-01 |
 | [Xin Lỗi](https://open.spotify.com/track/2XowCGRbycR53BUf8Y5b4d) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Xin Lỗi](https://open.spotify.com/album/5oaGXglA49juUjE5WwLCZS) | 4:04 | 2021-12-07 | 2022-07-29 |
 | [Xin Lỗi](https://open.spotify.com/track/5oqsevCqWkDwk61Y41bDQA) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Xin Lỗi](https://open.spotify.com/album/0g3uKyhjDjSeaLzT2MjT6r) | 4:04 | 2022-07-24 | 2023-01-24 |
-| [Yêu Hay Không Yêu](https://open.spotify.com/track/7L5B7R6ckM1E1iPaIxS4RR) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Yêu Hay Không Yêu](https://open.spotify.com/album/2svlVeHHM7hcFTbGUXvhAa) | 2:31 | 2024-05-21 |  |
+| [Yêu Hay Không Yêu](https://open.spotify.com/track/7L5B7R6ckM1E1iPaIxS4RR) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Yêu Hay Không Yêu](https://open.spotify.com/album/2svlVeHHM7hcFTbGUXvhAa) | 2:31 | 2024-05-21 | 2025-07-02 |
 | [Yêu Không Cần Ép](https://open.spotify.com/track/2nTXkAQ6SQKGfzDbOMwUbf) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Yêu Không Cần Ép](https://open.spotify.com/album/2iipprEHYpB7NNoHQE1HTT) | 3:15 | 2022-08-02 | 2022-08-31 |
 | [Yêu Không Cần Ép](https://open.spotify.com/track/5bxenPd3w5OMPP7KY7sGlc) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Yêu Không Cần Ép](https://open.spotify.com/album/4XTHKdB74r0kYknx32x974) | 3:15 | 2022-02-01 | 2022-03-22 |
 | [yêu thì yêu không yêu thì yêu](https://open.spotify.com/track/79xFFmGKtEyky0I2G9U9Jg) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:10 | 2021-12-07 | 2023-11-18 |

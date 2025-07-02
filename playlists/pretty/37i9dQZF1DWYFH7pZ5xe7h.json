@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 55226,
+  "num_followers": 55234,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -35,30 +35,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 6",
-        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 1368453,
-      "name": "Symphony No. 6 in A Minor: I. Allegro energico, ma non troppo. Heftig, aber markig - Live at Philharmonie, Berlin, 2004",
-      "url": "https://open.spotify.com/track/67ogz3Hz2JF5n2fgjqrH7N"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Song Cycles",
         "url": "https://open.spotify.com/album/0ofJuid6jQ2ebqrUsNznGZ"
       },
@@ -83,6 +59,30 @@
       "duration_ms": 422000,
       "name": "R\u00fcckert Lieder: Ich bin der Welt abhanden gekommen",
       "url": "https://open.spotify.com/track/1SKqoOM0KO1ABXDzal9TNn"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 1368453,
+      "name": "Symphony No. 6 in A Minor: I. Allegro energico, ma non troppo. Heftig, aber markig - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/67ogz3Hz2JF5n2fgjqrH7N"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -555,34 +555,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Klaus Florian Vogt",
-          "url": "https://open.spotify.com/artist/4XMFKAiKwRrsgsGhgImp32"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
-      "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
         "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
       },
@@ -667,8 +639,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Orchestral Songs",
-        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
       },
       "artists": [
         {
@@ -676,21 +648,21 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
           "name": "Kent Nagano",
           "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Klaus Florian Vogt",
+          "url": "https://open.spotify.com/artist/4XMFKAiKwRrsgsGhgImp32"
         },
         {
           "name": "Orchestre Symphonique de Montr\u00e9al",
           "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
-      "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
+      "duration_ms": 250986,
+      "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
+      "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -715,6 +687,34 @@
       "duration_ms": 1148173,
       "name": "Symphony No. 5 In C Sharp Minor: 3. Scherzo (Kr\u00e4ftig, nicht zu schnell)",
       "url": "https://open.spotify.com/track/6QNQHAY8KLaKstoszUp35z"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
+      "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -863,6 +863,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        }
+      ],
+      "duration_ms": 1297293,
+      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
+      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 194266,
       "name": "Das Lied von der Erde: III. Von der Jugend",
       "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 10",
-        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        }
-      ],
-      "duration_ms": 1297293,
-      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
-      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 1324586,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
+      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No.10",
         "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 667800,
       "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 2. Scherzo",
       "url": "https://open.spotify.com/track/3t08w44vk6GJ3gttgYQTbc"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 2",
-        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
-      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
     },
     {
       "added_at": "2022-06-27 09:16:34",

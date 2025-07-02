@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162199,
+  "num_followers": 162205,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACkdjnbI0GcH+ih0arSg7eh",
+  "snapshot_id": "aGHTgAAAAACOHpsf0TLUfzv7yDdfZeFf",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caminho de Milagres",
         "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
@@ -559,30 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Se Move",
-        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 341717,
-      "name": "Ele Se Move",
-      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz da Esperan\u00e7a",
         "url": "https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 311515,
       "name": "Luz da Esperan\u00e7a",
       "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Sempre (Forever)",
-        "url": "https://open.spotify.com/album/6NLD0fV3Bc9Huw2kxmeW2s"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 402500,
-      "name": "Pra Sempre (Forever)",
-      "url": "https://open.spotify.com/track/2Bqo9gax65ExHellyl2qZM"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+        "name": "Pra Sempre (Forever)",
+        "url": "https://open.spotify.com/album/6NLD0fV3Bc9Huw2kxmeW2s"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
+      "duration_ms": 402500,
+      "name": "Pra Sempre (Forever)",
+      "url": "https://open.spotify.com/track/2Bqo9gax65ExHellyl2qZM"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 449693,
       "name": "Consagra\u00e7\u00e3o / Louvor ao Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/49z6QBLAYJDbITRbidCoMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 167137,
-      "name": "Homenzinho Torto",
-      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros 20 Anos Ao Vivo",
         "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 236840,
       "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
       "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
     },
     {
       "added_at": null,

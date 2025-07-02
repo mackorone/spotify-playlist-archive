@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 228200,
+  "num_followers": 228230,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 286069,
       "name": "Love & Happiness",
       "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -1127,22 +1111,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Big Day in a Small Town",
-        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Drinkin' Smokin' Cheatin'",
-      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
         "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
       },
@@ -1159,22 +1127,34 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
+        "name": "Big Day in a Small Town",
+        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Detour (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
+      "duration_ms": 177560,
+      "name": "Drinkin' Smokin' Cheatin'",
+      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1195,6 +1175,26 @@
       "duration_ms": 161013,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Detour (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 246373,
       "name": "Learning How to Live Alone",
       "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 260333,
       "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Band of Brothers",
-        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Killing Fields",
         "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Live at the Old Quarter",
+        "url": "https://open.spotify.com/album/2drUynocyGveMTFheprmJy"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "My Favorite Picture Of You",
         "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Live at the Old Quarter",
-        "url": "https://open.spotify.com/album/2drUynocyGveMTFheprmJy"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2"
     },
     {
       "added_at": "2024-08-30 04:00:00",

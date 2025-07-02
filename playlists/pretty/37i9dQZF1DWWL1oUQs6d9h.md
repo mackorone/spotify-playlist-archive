@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,900 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,928 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 17 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 |
 | 18 | [What Do I Do](https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:47 |
 | 19 | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/4cfiNs7Yvr9UTLvbYWal1o) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/album/28jeiwB7ShkUOOZNK7bhwn) | 3:50 |
-| 20 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
-| 21 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
+| 20 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
+| 21 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
 | 22 | [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 |
 | 23 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 |
 | 24 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 33 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 34 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 |
 | 35 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
-| 36 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
-| 37 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
+| 36 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
+| 37 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
 | 38 | [how u been?](https://open.spotify.com/track/14MljYk21TMPj3cOQ8Rsz6) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [how u been?](https://open.spotify.com/album/3IFf3W3XEgx6uD0Ok6XknE) | 2:34 |
-| 39 | [Heaven](https://open.spotify.com/track/5NQpRUfFQh3jB0guBAkYWu) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:00 |
-| 40 | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 |
+| 39 | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 |
+| 40 | [Heaven](https://open.spotify.com/track/5NQpRUfFQh3jB0guBAkYWu) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:00 |
 | 41 | [Chocolate](https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Chocolate](https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa) | 3:04 |
 | 42 | [Younger And Hotter Than Me](https://open.spotify.com/track/0oJUk2PO3UVd9dZwPn0SRI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:09 |
 | 43 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |

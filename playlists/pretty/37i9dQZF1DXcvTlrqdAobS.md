@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 
 > Every summer needs a soundtrack\. 🐊🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,143 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,336 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 | 34 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
 | 35 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 |
 | 36 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
-| 37 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
-| 38 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
-| 39 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
+| 37 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
+| 38 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
+| 39 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
 | 40 | [Messiah](https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Messiah](https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd) | 2:56 |
 | 41 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 42 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |

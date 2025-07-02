@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,583,880 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,584,373 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 11 | [Me Ama Ou Me Larga \- Ao Vivo](https://open.spotify.com/track/2TSYxcrcrtLpdbsLY9NmzL) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Me Ama Ou Me Larga \(Ao Vivo\)](https://open.spotify.com/album/1UkbgOVEnnomwxvclUDYmS) | 2:28 |
 | 12 | [Resumindo \- Ao Vivo](https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:25 |
 | 13 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 |
-| 14 | [Eu Vou na Sua Casa](https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Vitão](https://open.spotify.com/artist/3obZRipWBuXC5bD2yFtZcI), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [RomantiDog](https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW) | 2:59 |
+| 14 | [Eu Vou na Sua Casa](https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [RomantiDog](https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW) | 2:59 |
 | 15 | [Mãe Solteira](https://open.spotify.com/track/3cUWviu7umxTV5SfK8IkfI) | [J\. Eskine](https://open.spotify.com/artist/3a9ocyPK0V1CuZs70cs9Nk), [DG e Batidão Stronda](https://open.spotify.com/artist/46QtNoaF8e2zLpwteHWQvo), [Mc Davi](https://open.spotify.com/artist/4Ew5s1DTdiUExCIFsx15XD), [MC G15](https://open.spotify.com/artist/6nN0PgojEXxw5V6TX5BSeg) | [Mãe Solteira](https://open.spotify.com/album/0kPQkEePUvR1eCgCyzZHGw) | 2:24 |
 | 16 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 3:15 |
 | 17 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |

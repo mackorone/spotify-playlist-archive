@@ -2,9 +2,9 @@
 
 ### [EQUAL Chile](https://open.spotify.com/playlist/37i9dQZF1DXaXeq4HFmqQR)
 
-> Mujeres a todo volumen, con Katteyes en portada.
+> Mujeres a todo volumen, con Seamoon en portada.
 
-973 songs - 2 day 5 hr 59 min
+976 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Espero Que Seas Feliz](https://open.spotify.com/track/5dUaUlBMj83strg2zjxofS) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 3:20 | 2022-07-06 | 2022-08-04 |
 | [Espiritu Libre](https://open.spotify.com/track/2vIdVOiPqulgL2pvo41ELy) | [Latina Sativa](https://open.spotify.com/artist/2QXm1P775jYpB8oJ5rNIv9), [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL), [Dj See All](https://open.spotify.com/artist/5FjZ9eNIqPhZ0MxoZPTs7U) | [Travesia](https://open.spotify.com/album/4gRIEXigHtAbEpU9wSozND) | 3:33 | 2022-01-05 | 2022-02-02 |
 | [Esquemas Juveniles](https://open.spotify.com/track/572uC924WbnO4ABB2r1Edc) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Esquemas Juveniles](https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF) | 3:34 | 2024-07-03 | 2024-09-04 |
+| [ESQUIVA](https://open.spotify.com/track/6Wxm4ETl1UHPRf4GJhfNOe) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [ESQUIVA](https://open.spotify.com/album/7J9z4mnz4I5zwZgZrFVwo4) | 3:28 | 2025-07-02 |  |
 | [Esta Canción](https://open.spotify.com/track/6n9ddGXxuun1jTX2bxYilp) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 3:14 | 2022-07-06 | 2022-08-04 |
 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-11-30 | 2023-01-05 |
 | [Estabas Ahí](https://open.spotify.com/track/27dh77ARViIpPL0Om53dKU) | [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Estabas Ahí](https://open.spotify.com/album/0YU3M1COCndvvYbpWwMoo1) | 3:27 | 2023-09-06 | 2023-10-05 |
@@ -331,6 +332,7 @@
 | [FAMOSA](https://open.spotify.com/track/0QoI6vEuyqnbSUWbnPsCAj) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:20 | 2024-09-04 | 2025-02-06 |
 | [FAMOSA](https://open.spotify.com/track/7cZZvIsvAY6MVmhKR4qWqt) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [LA CLASSE DELUXE](https://open.spotify.com/album/49r75OH4osyX18regUrHDy) | 3:20 | 2025-05-01 |  |
 | [Fantásticx](https://open.spotify.com/track/6qyBDABPLA3rnhj3NxX6m6) | [Otherness](https://open.spotify.com/artist/5TErnITI1p7XdTWM5CTwIL) | [Fantásticx](https://open.spotify.com/album/5cjJZWWbc287t07yEqLfMK) | 3:54 | 2022-04-06 | 2022-05-05 |
+| [Faro](https://open.spotify.com/track/26B4rsQwRJDwCKw2qHqZzF) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Faro](https://open.spotify.com/album/6dTauP2OCwTVcfpKwwC8F2) | 3:13 | 2025-07-02 |  |
 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 | 2021-12-17 | 2024-09-04 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-05-04 | 2022-07-07 |
 | [Fck That](https://open.spotify.com/track/6aZomHzOBYl76O7KSoApa5) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Triste Y Linda: Triste](https://open.spotify.com/album/165LKgBYEmOFnLT55uFIk5) | 2:36 | 2024-09-04 | 2025-02-06 |
@@ -925,6 +927,7 @@
 | [Under](https://open.spotify.com/track/0edPhUydcczV9ouIcZtc8P) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew), [Dj Alrroma](https://open.spotify.com/artist/0eG9NxccdeWpsGqvAZnGOd) | [Under](https://open.spotify.com/album/71z6a8fMecncWOBHhpQ7QU) | 2:17 | 2022-11-02 | 2022-12-01 |
 | [Uno De Esos Días](https://open.spotify.com/track/3knplr6ptMfZ4B1inYhfXP) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Uno De Esos Días](https://open.spotify.com/album/6P4acuRUxR1uWUxB07yBJW) | 2:48 | 2023-03-02 | 2023-04-06 |
 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 | 2022-09-07 | 2023-08-03 |
+| [VAHO](https://open.spotify.com/track/04CGu5VJS4alxvC6DVlr0a) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [VAHO](https://open.spotify.com/album/0p0TrR0g3NL45wDHct9jZK) | 1:38 | 2025-07-02 |  |
 | [Valientes](https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Valientes](https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z) | 4:01 | 2022-02-02 | 2023-11-10 |
 | [Valientes](https://open.spotify.com/track/7kEJ3ajOHug4iTG3ogQtQd) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Claroscuro](https://open.spotify.com/album/0BJVfmQhzjNLJuupXUzRQ5) | 4:01 | 2023-03-02 | 2023-04-06 |
 | [Vamos a Almorzar](https://open.spotify.com/track/1Exy9Y5em8PcfNIDs41nS5) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Flores Como Gato](https://open.spotify.com/album/2qQjsD0f7yHuRHoVj1LX4B) | 3:12 | 2022-06-01 | 2022-07-25 |

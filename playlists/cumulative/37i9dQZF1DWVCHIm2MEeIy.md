@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Adriatique, Bipolar Sunshine
 
-546 songs - 1 day 21 hr 40 min
+547 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,9 +518,10 @@
 | [Untold](https://open.spotify.com/track/4k2XhQNH68LpS0YxQDTcov) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/3RrTZKnXObb9lbtUkgySTl) | 6:42 | 2022-04-15 | 2022-10-18 |
 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 | 2022-10-14 | 2024-01-23 |
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-06-17 |  |
+| [Verano En NY](https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Verano En NY](https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu) | 4:05 | 2025-06-26 |  |
 | [Vertigo \(Living Without You\) \- Dapayk Solo Remix](https://open.spotify.com/track/5Qa6eTk3GHcaPtnK7282q3) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl), [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Vertigo \(Living Without You\)](https://open.spotify.com/album/4qiYX3P9IyACwdeljvksCP) | 5:54 | 2022-04-15 | 2022-07-28 |
 | [VIBIN](https://open.spotify.com/track/3rbG1qQlzkijc5tfGvjNJC) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [VIBIN](https://open.spotify.com/album/38ERQWZ0KIhlE0VFYJ39Xs) | 3:46 | 2022-04-15 | 2023-08-08 |
-| [Victory](https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Victory](https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME) | 3:17 | 2025-06-17 |  |
+| [Victory](https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Victory](https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME) | 3:17 | 2025-06-17 | 2025-07-02 |
 | [Visionaire](https://open.spotify.com/track/080Ta6y45xccSK0q9Hct9d) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Visionaire](https://open.spotify.com/album/0cdOTswaFmWaGLvWYsoEuA) | 6:49 | 2022-06-24 | 2022-07-22 |
 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 | 2022-04-15 | 2023-12-10 |
 | [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 | 2023-01-13 | 2023-02-04 |

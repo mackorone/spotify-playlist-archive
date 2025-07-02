@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: SZA",
-  "num_followers": 293590,
+  "num_followers": 293611,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-06-25 17:21:14",
       "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "added_at": "2025-06-25 17:21:14",
+      "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2025-06-25 17:21:14",
-      "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": "2025-06-25 17:21:14",

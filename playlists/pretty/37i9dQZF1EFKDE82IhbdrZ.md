@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 61 | [Little White Lies](https://open.spotify.com/track/0O6VeBiFCwHrpVURJSsGsU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:17 |
 | 62 | [Spaces](https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:16 |
 | 63 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 |
-| 64 | [Does He Know?](https://open.spotify.com/track/3aGJClg6klBoSa0UZnXeMM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:59 |
-| 65 | [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
+| 64 | [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
+| 65 | [Does He Know?](https://open.spotify.com/track/3aGJClg6klBoSa0UZnXeMM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:59 |
 | 66 | [Once in a Lifetime](https://open.spotify.com/track/1dD1aarWotVIiFo5gGdMc2) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 2:38 |
 | 67 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 68 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 |
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 155 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
 | 156 | [24 Hours x Gypsy Woman \(feat\. Yasmin Green, Crystal Waters & Bougenvilla \) \[VIP Mash\-up\]](https://open.spotify.com/track/2YhF6jwopT55f7mKQynoQq) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [Yasmin Green](https://open.spotify.com/artist/2UWEzvq7cBIcPt5Z9AwD1Y) | [24 Hours x Gypsy Woman \(feat\. Yasmin Green, Crystal Waters & Bougenvilla \) \[VIP Mash\-up\]](https://open.spotify.com/album/4hUvBq66ZnTxafPFy7Vgzg) | 2:23 |
 | 157 | [Know My Way Around](https://open.spotify.com/track/794PgTv90bMLrOQPK9R6Uf) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:54 |
-| 158 | [Bread & Butter](https://open.spotify.com/track/68z5TvxM89OsImKKcsfeEc) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/7MjEYntJZEyV6s6MFqsqed) | 2:59 |
-| 159 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 158 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 159 | [Bread & Butter](https://open.spotify.com/track/68z5TvxM89OsImKKcsfeEc) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/7MjEYntJZEyV6s6MFqsqed) | 2:59 |
 | 160 | [Cashmere](https://open.spotify.com/track/55sJWbfqyI3XjzNua7Mqk8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 2:55 |
 | 161 | [24 Hours \(feat\. Yasmin Green\)](https://open.spotify.com/track/7iGYKBPel065LynLZBnaqg) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Yasmin Green](https://open.spotify.com/artist/2UWEzvq7cBIcPt5Z9AwD1Y) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:02 |
 | 162 | [Take The Stairs](https://open.spotify.com/track/4vLf3XzJ3K25Jh8aiEdgFa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:22 |
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 204 | [Let Me Hold You](https://open.spotify.com/track/5RTYwdNrb6DNwfKrGFNV4G) | [Josh Krajcik](https://open.spotify.com/artist/0ngASMM5dPGOByz9QmIY7C) | [Blindly, Lonely, Lovely](https://open.spotify.com/album/7dugoBUZwtpVqnXo7rMTIh) | 4:05 |
 | 205 | [Touch](https://open.spotify.com/track/2oRua7SgA8ZJy9h4ViBAl5) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:46 |
 | 206 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
-| 207 | [Here We Go](https://open.spotify.com/track/0wzlsBqUWJ7ltS5uXsXdwh) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
-| 208 | [Co\-Pilot](https://open.spotify.com/track/6smZCaAKItX6uxvQUUKVnO) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Kristina Maria](https://open.spotify.com/artist/3owOnUCZD2qFcf5RHbv1Zg) | [Les Inséparables](https://open.spotify.com/album/6nbVBDBL2Uk58p2CL48B0Y) | 3:46 |
+| 207 | [Co\-Pilot](https://open.spotify.com/track/6smZCaAKItX6uxvQUUKVnO) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Kristina Maria](https://open.spotify.com/artist/3owOnUCZD2qFcf5RHbv1Zg) | [Les Inséparables](https://open.spotify.com/album/6nbVBDBL2Uk58p2CL48B0Y) | 3:46 |
+| 208 | [Here We Go](https://open.spotify.com/track/0wzlsBqUWJ7ltS5uXsXdwh) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 209 | [Off the Market](https://open.spotify.com/track/6zOdNkaCjXPlAWsoUE3VSn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 2:44 |
 | 210 | [Brave](https://open.spotify.com/track/4rbsNwG7oVRdjsCJsUy25v) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 3:36 |
 | 211 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab1jpgAAAAB4L9bqutHYWWt/qMtSlCRz`
+Snapshot ID: `Ab1pMgAAAAAEXlNKmSqIqO00BnqI04Jb`

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 131,
+  "num_followers": 135,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "R\u00f8de Rubin",
+        "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
+      },
+      "artists": [
+        {
+          "name": "Plaza",
+          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
+        }
+      ],
+      "duration_ms": 156459,
+      "name": "R\u00f8de Rubin",
+      "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Span",
         "url": "https://open.spotify.com/album/2S5n4V0A35bSnBoIG4SqG1"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 143606,
       "name": "Span",
       "url": "https://open.spotify.com/track/7zZKjXmvQXRl17gzd15Lb2"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "R\u00f8de Rubin",
-        "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
-      },
-      "artists": [
-        {
-          "name": "Plaza",
-          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
-        }
-      ],
-      "duration_ms": 156459,
-      "name": "R\u00f8de Rubin",
-      "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -503,26 +503,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "TT2",
-        "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        }
-      ],
-      "duration_ms": 221350,
-      "name": "Aldebaran (feat. vinni)",
-      "url": "https://open.spotify.com/track/7fx9OH8lBckr9n1rciaIYM"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "H\u00e4r Ute",
         "url": "https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 159010,
       "name": "H\u00e4r Ute",
       "url": "https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "TT2",
+        "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "duration_ms": 221350,
+      "name": "Aldebaran (feat. vinni)",
+      "url": "https://open.spotify.com/track/7fx9OH8lBckr9n1rciaIYM"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "NEPOBABY",
-      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "S\u00e4g Mig",
         "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 128880,
+      "name": "NEPOBABY",
+      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Stikk I Brystet",
         "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 154320,
       "name": "King Of The Hill (feat. Roc Boyz)",
       "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "THANK GOD",
-        "url": "https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM"
-      },
-      "artists": [
-        {
-          "name": "Sa_G",
-          "url": "https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Bed\u00f8velse Gj\u00f8r Mester",
         "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 221276,
       "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "THANK GOD",
+        "url": "https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM"
+      },
+      "artists": [
+        {
+          "name": "Sa_G",
+          "url": "https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Kvar - Spotify Studio 100 Recording",
-        "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
-      },
-      "artists": [
-        {
-          "name": "Alawee",
-          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
-        },
-        {
-          "name": "Youzie",
-          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Kvar - Spotify Studio 100 Recording",
-      "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "TT2",
         "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 165601,
       "name": "Boo (feat. 2J)",
       "url": "https://open.spotify.com/track/2pLA0Qflc1eNmQTR6DXnjv"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Kvar - Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        },
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Kvar - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "2 Trekk",
+        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 172841,
+      "name": "2 Trekk",
+      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "YOUNG THUG P\u00c5 1M",
         "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 145797,
       "name": "YOUNG THUG P\u00c5 1M",
       "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "2 Trekk",
-        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 172841,
-      "name": "2 Trekk",
-      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Pennen & Sverdet",
-        "url": "https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa"
-      },
-      "artists": [
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        },
-        {
-          "name": "Tshawe",
-          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
-        }
-      ],
-      "duration_ms": 158006,
-      "name": "Byggeklosser",
-      "url": "https://open.spotify.com/track/4oTk9KPi04XhB0eFxLLDoo"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
         "url": "https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 178802,
       "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
       "url": "https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Pennen & Sverdet",
+        "url": "https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Tshawe",
+          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
+        }
+      ],
+      "duration_ms": 158006,
+      "name": "Byggeklosser",
+      "url": "https://open.spotify.com/track/4oTk9KPi04XhB0eFxLLDoo"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "ROSA BLOMST",
-        "url": "https://open.spotify.com/album/2rSLPuHbKJ21KIMHiie3s7"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        },
-        {
-          "name": "FRAM",
-          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
-        }
-      ],
-      "duration_ms": 202145,
-      "name": "ROSA BLOMST",
-      "url": "https://open.spotify.com/track/7gW0MBMwTtOfwGmpd4njBr"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Natalie",
         "url": "https://open.spotify.com/album/5lWzTiBVNoylShsjwMu7Tz"
       },
@@ -1375,22 +1355,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Voksen Mann Uten Slips",
-        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
+        "name": "ROSA BLOMST",
+        "url": "https://open.spotify.com/album/2rSLPuHbKJ21KIMHiie3s7"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
         },
         {
-          "name": "Voksen Mann Uten Slips",
-          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+          "name": "FRAM",
+          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
         }
       ],
-      "duration_ms": 132609,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
+      "duration_ms": 202145,
+      "name": "ROSA BLOMST",
+      "url": "https://open.spotify.com/track/7gW0MBMwTtOfwGmpd4njBr"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1411,6 +1391,26 @@
       "duration_ms": 167315,
       "name": "I DAG",
       "url": "https://open.spotify.com/track/28Dz9bnFa5iKkubc51TCml"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Voksen Mann Uten Slips",
+        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "duration_ms": 132609,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Vi",
-        "url": "https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        }
-      ],
-      "duration_ms": 108196,
-      "name": "Vi",
-      "url": "https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "MEST ELSKET & Hatet - Deluxe",
         "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 111214,
       "name": "Hel/Halv",
       "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "duration_ms": 108196,
+      "name": "Vi",
+      "url": "https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK"
     },
     {
       "added_at": "2025-05-22 22:00:39",

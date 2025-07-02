@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. el Jefe Guadaña por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,881 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,946 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 42 | [Detrás de los Cerros](https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 3:58 |
 | 43 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 44 | [Desde Que](https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:38 |
-| 45 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 |
+| 45 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
 | 46 | [Peligroso Pop](https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 3:36 |
-| 47 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
+| 47 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 |
 | 48 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 49 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
 | 50 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 58 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 59 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 |
 | 60 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
-| 61 | [Ja, Ja, Ja](https://open.spotify.com/track/00YFVZpB91oVB7wIwEUiZ8) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Tres\-D](https://open.spotify.com/album/74vmH4UpHZolSYKsHa0qns) | 2:40 |
-| 62 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
-| 63 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
+| 61 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
+| 62 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
+| 63 | [Ja, Ja, Ja](https://open.spotify.com/track/00YFVZpB91oVB7wIwEUiZ8) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Tres\-D](https://open.spotify.com/album/74vmH4UpHZolSYKsHa0qns) | 2:40 |
 | 64 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
 | 65 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
 | 66 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |

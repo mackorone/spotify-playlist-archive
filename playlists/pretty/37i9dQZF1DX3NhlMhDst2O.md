@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > el primer tonto de tu vida quiero ser 🥺🥀😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,471 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,630 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 24 | [Palabras Tristes](https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh) | 3:26 |
 | 25 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 |
 | 26 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 |
-| 27 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [El Fenómeno](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 |
-| 28 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
+| 27 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
+| 28 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [El Fenómeno](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 |
 | 29 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
 | 30 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 31 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 69 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
 | 70 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
 | 71 | [Al ritmo de la lluvia \- Rhythm of the Rain](https://open.spotify.com/track/52C4jG5kIhSZbAGErim8nr) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:20 |
-| 72 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
-| 73 | [Sin Tu Amor](https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:43 |
+| 72 | [Sin Tu Amor](https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:43 |
+| 73 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
 | 74 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
 | 75 | [Amor Querido](https://open.spotify.com/track/28ybanxKBA9n0zUpqVmB03) | [Los Silver](https://open.spotify.com/artist/6Gq2KFKpQgJgoLPDtxdRtD) | [15 Exitos De Los Silver](https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1) | 4:23 |
 | 76 | [Pecado Mortal](https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5) | [Los Barbaros](https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:26 |

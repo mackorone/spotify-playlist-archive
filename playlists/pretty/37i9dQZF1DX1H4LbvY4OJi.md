@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 
 > Embrace those happy vibes with these feel\-good hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,784 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,793 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 | 50 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 51 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 |
 | 52 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 |
-| 53 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
-| 54 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
+| 53 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
+| 54 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 55 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 56 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 |
 | 57 | [Love Story](https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:56 |

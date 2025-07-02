@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,632 likes - 46 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,673 likes - 46 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 21 | [Towers](https://open.spotify.com/track/7CIKMtUUz31yX6MNX2nGbB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 3:08 |
 | 22 | [Lump Sum](https://open.spotify.com/track/6MpKc6ceAd2fAMEpkLxkiF) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:21 |
 | 23 | [Friends \(feat\. Bon Iver\)](https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:08 |
-| 24 | [Short Story](https://open.spotify.com/track/5gkXT32DgfW10RPN8cJoMX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 1:56 |
+| 24 | [If Only I Could Wait](https://open.spotify.com/track/06o2hgwnRJN0HYelhyVsLm) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:22 |
 | 25 | [Minnesota, WI](https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 3:52 |
 | 26 | [Lost In The World](https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:16 |
 | 27 | [Creature Fear](https://open.spotify.com/track/7jJH5jAOUvR0FxkbYBmAQA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:06 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 45 | [Marion](https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:21 |
 | 46 | [715 \- CR∑∑KS](https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 2:12 |
 
-Snapshot ID: `aGCCAAAAAAAj7nncKpz5+h/YU4VIlQAs`
+Snapshot ID: `aGHTgAAAAADvfpvbRotF0Qw5uHGmB+TO`

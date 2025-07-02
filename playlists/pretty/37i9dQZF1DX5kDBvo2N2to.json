@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59760,
+  "num_followers": 59762,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Leyla",
         "url": "https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 146352,
       "name": "Leyla",
       "url": "https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 187537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Sv\u00e5rt",
         "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
       },
@@ -427,6 +443,22 @@
       "duration_ms": 179616,
       "name": "Sv\u00e5rt",
       "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "MSN & Lunar",
+        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "MSN & Lunar",
+      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -451,22 +483,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "MSN & Lunar",
-        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "MSN & Lunar",
-      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Lampan t\u00e4nd f\u00f6r dig",
         "url": "https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 153176,
       "name": "Lampan t\u00e4nd f\u00f6r dig",
       "url": "https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Aldrig g\u00e5",
-        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
-      },
-      "artists": [
-        {
-          "name": "Lov1",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Aldrig g\u00e5",
-      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Do You Love Me",
         "url": "https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 182133,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Aldrig g\u00e5",
+        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
+      },
+      "artists": [
+        {
+          "name": "Lov1",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Aldrig g\u00e5",
+      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 139444,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Dancing Around The Truth",
         "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 230670,
       "name": "Dancing Around The Truth",
       "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Murphy",
-        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 153618,
-      "name": "Vem fan \u00e4r Murphy?",
-      "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Rocko",
         "url": "https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "The Prettiest Face",
-        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
+        "name": "Murphy",
+        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
       },
       "artists": [
         {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
         }
       ],
-      "duration_ms": 211973,
-      "name": "The Prettiest Face",
-      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
+      "duration_ms": 153618,
+      "name": "Vem fan \u00e4r Murphy?",
+      "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -923,6 +907,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "The Prettiest Face",
+        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "The Prettiest Face",
+      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "TVIVEL & TRO",
         "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 139310,
       "name": "INATT IGEN",
       "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
+      },
+      "artists": [
+        {
+          "name": "Natalie Reigo",
+          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -987,38 +1003,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "It Was You",
-        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
-      },
-      "artists": [
-        {
-          "name": "Natalie Reigo",
-          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "GET RICH OR DIE TRYING",
-        "url": "https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD"
-      },
-      "artists": [
-        {
-          "name": "ABY iO",
-          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "GET RICH OR DIE TRYING",
-      "url": "https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Seiko",
         "url": "https://open.spotify.com/album/41DEIBqikMJW924W2KUaG0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "GET RICH OR DIE TRYING",
+        "url": "https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD"
+      },
+      "artists": [
+        {
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "GET RICH OR DIE TRYING",
+      "url": "https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
+      },
+      "artists": [
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "duration_ms": 182372,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Trappa till himlen",
         "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 236842,
       "name": "Trappa till himlen",
       "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Feel Free",
-        "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
-      },
-      "artists": [
-        {
-          "name": "KURT.",
-          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
-        }
-      ],
-      "duration_ms": 182372,
-      "name": "Feel Free",
-      "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "fooo00oool",
-        "url": "https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs"
-      },
-      "artists": [
-        {
-          "name": "Venus Anon",
-          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "fooo00oool",
-      "url": "https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Lasse & hunden",
         "url": "https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "fooo00oool",
+        "url": "https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "fooo00oool",
+      "url": "https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Mormors Sommarvisa",
         "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 143649,
       "name": "Mormors Sommarvisa",
       "url": "https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Fast Love",
-        "url": "https://open.spotify.com/album/2db6iLYLLKTIf6qO4AhwIV"
-      },
-      "artists": [
-        {
-          "name": "Kim Cesarion",
-          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Fast Love",
-      "url": "https://open.spotify.com/track/7GIfbg4hznwd4AV24SJruG"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1315,18 +1299,34 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "L\u00e4ngesen",
-        "url": "https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ"
+        "name": "Fast Love",
+        "url": "https://open.spotify.com/album/2db6iLYLLKTIf6qO4AhwIV"
       },
       "artists": [
         {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
         }
       ],
-      "duration_ms": 191999,
-      "name": "L\u00e4ngesen",
-      "url": "https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de"
+      "duration_ms": 160840,
+      "name": "Fast Love",
+      "url": "https://open.spotify.com/track/7GIfbg4hznwd4AV24SJruG"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1343,6 +1343,38 @@
       "duration_ms": 148906,
       "name": "violet",
       "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "L\u00e4ngesen",
+        "url": "https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "L\u00e4ngesen",
+      "url": "https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "In Terms Of You",
+        "url": "https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 150843,
+      "name": "In Terms Of You",
+      "url": "https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1367,34 +1399,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Dansa med mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
+        "name": "Hj\u00e4rtat kan ha fel ibland",
+        "url": "https://open.spotify.com/album/6Kdvv7a6OSJ2392TMGKkIQ"
       },
       "artists": [
         {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+          "name": "diffust",
+          "url": "https://open.spotify.com/artist/4tcbmCUN6VQXg8dOwmOFXa"
         }
       ],
-      "duration_ms": 127250,
-      "name": "Dansa med mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "In Terms Of You",
-        "url": "https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW"
-      },
-      "artists": [
-        {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
-        }
-      ],
-      "duration_ms": 150843,
-      "name": "In Terms Of You",
-      "url": "https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2"
+      "duration_ms": 148058,
+      "name": "Hj\u00e4rtat kan ha fel ibland",
+      "url": "https://open.spotify.com/track/3f4ZfUlxPWfmcyFfm8l4f2"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Hj\u00e4rtat kan ha fel ibland",
-        "url": "https://open.spotify.com/album/6Kdvv7a6OSJ2392TMGKkIQ"
-      },
-      "artists": [
-        {
-          "name": "diffust",
-          "url": "https://open.spotify.com/artist/4tcbmCUN6VQXg8dOwmOFXa"
-        }
-      ],
-      "duration_ms": 148058,
-      "name": "Hj\u00e4rtat kan ha fel ibland",
-      "url": "https://open.spotify.com/track/3f4ZfUlxPWfmcyFfm8l4f2"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Limoncello",
         "url": "https://open.spotify.com/album/7AEW3httXe5eAFYwsYPBkj"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Mr. Vibe Killer",
-        "url": "https://open.spotify.com/album/0yRDW91fBRvdL2CUNYG3wK"
+        "name": "snackar f\u00f6r mycket",
+        "url": "https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq"
       },
       "artists": [
         {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+          "name": "Chris Taylor",
+          "url": "https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q"
         }
       ],
-      "duration_ms": 200031,
-      "name": "Mr. Vibe Killer",
-      "url": "https://open.spotify.com/track/2aBQL5TBYfsI76U98vX9WR"
+      "duration_ms": 161614,
+      "name": "snackar f\u00f6r mycket",
+      "url": "https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4"
     }
   ],
   "unique_name": "p\u00e5 repeat",

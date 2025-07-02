@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72180,
+  "num_followers": 72181,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACVM1Y8oL5jt7+X9jABPIDR",
+  "snapshot_id": "aGHTgAAAAAAGOn9th5PxNVuNKUTtP4L2",
   "tracks": [
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Rory Hope",
-          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
-        }
-      ],
-      "duration_ms": 159090,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You for the Summer",
         "url": "https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 172727,
       "name": "Love You for the Summer",
       "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "duration_ms": 159090,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
     },
     {
       "added_at": null,
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
-      },
-      "artists": [
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "XYL\u00d8",
-          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
       "artists": [
         {
@@ -920,13 +920,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+      "duration_ms": 234609,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
     },
     {
       "added_at": null,
@@ -955,30 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Forever",
-        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
-        },
-        {
-          "name": "Sam Martin",
-          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
-        }
-      ],
-      "duration_ms": 234609,
-      "name": "Love You Forever",
-      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow Comes",
         "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": null,
@@ -1095,6 +1095,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 253440,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
       "added_at": null,

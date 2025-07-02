@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,895 likes - 68 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,950 likes - 68 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 22 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
 | 23 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 24 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
-| 25 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
-| 26 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
+| 25 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
+| 26 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
 | 27 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 28 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
 | 29 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |

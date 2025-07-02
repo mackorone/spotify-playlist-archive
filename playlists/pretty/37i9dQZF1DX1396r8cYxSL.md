@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuracak şarkılar\. Kapak: Sefo x Demet Akalın
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,654 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,229 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

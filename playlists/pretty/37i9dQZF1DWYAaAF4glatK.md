@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle de ton été 🌞 Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,666 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,118 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 3 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 4 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 5 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
-| 6 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
+| 6 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
 | 7 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 8 | [I'm Still Standing](https://open.spotify.com/track/4oWCrSyeEjOguYbzp1rlnT) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [I'm Still Standing](https://open.spotify.com/album/1alxyy8q5B64oNIKUwI6cp) | 2:25 |
 | 9 | [Mood](https://open.spotify.com/track/58rVY9wmIYBOzdLXygVs6i) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Focus](https://open.spotify.com/album/3DC0X3LwqpYnAnfTge7YE7) | 2:51 |

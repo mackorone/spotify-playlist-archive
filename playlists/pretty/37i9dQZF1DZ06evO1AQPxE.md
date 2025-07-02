@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,780 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,794 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 15 | [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 |
 | 16 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 17 | [I WANNA SEE SOME ASS \(feat\. jetsonmade\)](https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:05 |
-| 18 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 |
-| 19 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
+| 18 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
+| 19 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 |
 | 20 | [Nail Tech](https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:26 |
 | 21 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
 | 22 | [Route 66 \(feat\. EST Gee\)](https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:33 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 34 | [Keep It Light](https://open.spotify.com/track/2BUP8KOWDlCsdEV8DJPQQn) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:23 |
 | 35 | [Moana](https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Moana](https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0) | 2:58 |
 | 36 | [ROTTEN \(feat\. EST Gee\)](https://open.spotify.com/track/15jg4vt123axobdGleLugn) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:10 |
-| 37 | [SMELLS LIKE INCENSE](https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:24 |
-| 38 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |
+| 37 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |
+| 38 | [SMELLS LIKE INCENSE](https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:24 |
 | 39 | [No Enhancers](https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:39 |
 | 40 | [WALK IN THE PARK](https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:32 |
 | 41 | [KNACK FOR IT](https://open.spotify.com/track/7znMNt4SWNyheMtwgzvUzK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [DRIP DROP \(feat\. Cyhi The Prynce\)](https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 3:23 |
 | 50 | [HEAVY HITTER](https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:27 |
 
-Snapshot ID: `aGCCAAAAAADYa6xs0x6YZAw6Y9jZRNIX`
+Snapshot ID: `aGHTgAAAAADZ6UCmtILOdf3wIfL56C3a`

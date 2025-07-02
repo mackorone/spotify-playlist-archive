@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-938 songs - 1 day 21 hr 26 min
+942 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Cryogenic](https://open.spotify.com/track/72h583lkdV6HhI5PiNkDEU) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Cryogenic](https://open.spotify.com/album/0Vs8liFqMTvsbZspKXmZWc) | 2:32 | 2023-04-06 | 2024-01-18 |
 | [Curved](https://open.spotify.com/track/2n3Nzq9Mv1CUXzac82tw4M) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Curved](https://open.spotify.com/album/65DVyRqrCUhyHlGExoKBQ0) | 2:17 | 2023-09-29 | 2024-05-05 |
 | [Dadivoso](https://open.spotify.com/track/6TQTn4yVTfcKogv4rW2J4m) | [Salina Cardenas](https://open.spotify.com/artist/3UJgE628TwNqsowj6m4m4k) | [Dadivoso](https://open.spotify.com/album/4K2KqYwcfVXTl28zVnWeiN) | 2:09 | 2023-04-06 | 2024-04-06 |
+| [Dale](https://open.spotify.com/track/36uo4MgUSTwWSf1jm74LQe) | [Twin Sleeps](https://open.spotify.com/artist/6fZ73QzFfEEPCugLWSsuE3) | [Dale](https://open.spotify.com/album/5P1qW9kcJgxGO5Ng7IMOMz) | 2:12 | 2025-07-01 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2023-04-06 | 2024-04-06 |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2023-04-06 | 2024-02-09 |
 | [Dark Lights](https://open.spotify.com/track/7hb9cJh5t16WJiRWVPbzMZ) | [Emmitt Howard](https://open.spotify.com/artist/4ZWPxlJt6aJXZ6ZqtSKsDe) | [Dark Lights](https://open.spotify.com/album/24jHwcu0OnEKV4DCiiCxRF) | 2:37 | 2023-04-06 | 2024-01-18 |
@@ -343,6 +344,7 @@
 | [For These Reasons](https://open.spotify.com/track/0jBJMUnzVfdgvGudnNjTKw) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [For These Reasons](https://open.spotify.com/album/1D0HXijd9Hzxs1gH3bHspk) | 2:48 | 2023-04-06 | 2024-04-06 |
 | [For You](https://open.spotify.com/track/3vW3wAJq5ZiTDBN9IlVG3Y) | [Visual Flow](https://open.spotify.com/artist/1JWRuM0jwY2GwjWbCoMKCv) | [For You](https://open.spotify.com/album/78Q9z02wrA7JPEBAqfUTOK) | 2:44 | 2025-02-28 |  |
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2023-04-06 | 2024-02-09 |
+| [Forever](https://open.spotify.com/track/3QgmKbSDCqtRPddUVfZaQJ) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Forever](https://open.spotify.com/album/57mOqhGCvWhcJrOQs1J3C5) | 2:45 | 2025-07-01 |  |
 | [Forget Time](https://open.spotify.com/track/5Wg5I5BNr6TZaf2RMEjMgg) | [Pius Sylla](https://open.spotify.com/artist/7cD2wGIWLgv5oxmmgS1EY5) | [Forget Time](https://open.spotify.com/album/1Vk4JRjTY9PGgzE3PbqKx0) | 3:14 | 2024-02-08 | 2024-08-31 |
 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 | 2023-04-06 | 2024-04-06 |
 | [Fragile](https://open.spotify.com/track/1jNuMTWsvFvPMwyJcb30FF) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Fragile](https://open.spotify.com/album/23yYxqfArgUd8RkreaCD4t) | 2:59 | 2023-04-06 | 2024-02-09 |
@@ -465,6 +467,7 @@
 | [Lage](https://open.spotify.com/track/3CqiVCGBvST27IugG68rRc) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Lage](https://open.spotify.com/album/32nYyoyqI2idlGFfmqzxo4) | 2:53 | 2024-02-27 | 2024-03-07 |
 | [Laomedeia](https://open.spotify.com/track/5VBAXRSw6VWYHs3omom0za) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Laomedeia](https://open.spotify.com/album/0zvxor9ZfHJsPBGMKuYg2B) | 2:51 | 2025-05-14 |  |
 | [Leisure](https://open.spotify.com/track/37miKtLQZKUNQksw2XnE1w) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Leisure](https://open.spotify.com/album/6X1zZSUqkd10JC0u670BWF) | 2:47 | 2024-03-06 | 2024-10-16 |
+| [Leo Minor](https://open.spotify.com/track/77b1PCipFncBUP0xpkbehw) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Leo Minor](https://open.spotify.com/album/23QK18yRUQoWTjhVrq6paB) | 3:12 | 2025-07-01 |  |
 | [Leontopodium](https://open.spotify.com/track/27mYRqQbA13UomGHQkpsTt) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Leontopodium](https://open.spotify.com/album/6m0863uAuoweadPHYEmDze) | 2:57 | 2024-02-08 |  |
 | [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 | 2024-02-27 | 2024-03-07 |
 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 | 2023-04-06 | 2024-01-18 |
@@ -648,6 +651,7 @@
 | [Quiet](https://open.spotify.com/track/47wZeEB51rxneHGdmVwA63) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Quiet](https://open.spotify.com/album/4gdOCIRKdhVaH4mglrW33m) | 2:17 | 2025-04-29 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-04-06 | 2024-01-18 |
 | [Quiet Lake](https://open.spotify.com/track/7lUKUjDzDLcBvQPnkZK0pq) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Quiet Lake](https://open.spotify.com/album/0FHVoflRoaPyg9YkEActnS) | 2:55 | 2024-06-13 | 2024-07-10 |
+| [Quiet Light](https://open.spotify.com/track/2xE06YCKl6g8ijAuDi0zFA) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Quiet Light](https://open.spotify.com/album/4SNJ5nQHVkFGghppB5rJNf) | 2:15 | 2025-07-01 |  |
 | [Quiet Shores](https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Quiet Shores](https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i) | 3:43 | 2024-03-20 | 2024-07-16 |
 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 | 2023-04-06 | 2024-01-18 |
 | [Quintessence](https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Quintessence](https://open.spotify.com/album/5PH13nzrRBq9xYIN89kESf) | 2:51 | 2025-02-14 |  |

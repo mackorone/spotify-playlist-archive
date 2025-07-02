@@ -1,12 +1,12 @@
 {
   "description": "This is Adam Brand. The essential tracks, all in one playlist.",
-  "num_followers": 4857,
+  "num_followers": 4858,
   "original_name": "This Is Adam Brand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABQ6SGhj0aX8Yt8yNkGmHVM",
+  "snapshot_id": "aGHTgAAAAABVCPHJIeWFAbpSx2rxwE5H",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Loud",
-        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "Number 34",
-      "url": "https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Side of the Street",
         "url": "https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF"
       },
@@ -631,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "You Are To Me",
-      "url": "https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Few Good Years Left Yet",
         "url": "https://open.spotify.com/album/4nbYOTRfsQMshTEJiIscJI"
       },
@@ -667,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed of Life",
-        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
       },
       "artists": [
         {
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 182140,
-      "name": "Speed of Life",
-      "url": "https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT"
+      "duration_ms": 192360,
+      "name": "You Are To Me",
+      "url": "https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c"
     },
     {
       "added_at": null,
@@ -703,6 +671,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 182140,
+      "name": "Speed of Life",
+      "url": "https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "Number 34",
+      "url": "https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get On Your Feet",
         "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
       },
@@ -715,26 +715,6 @@
       "duration_ms": 180533,
       "name": "Get on Your Feet",
       "url": "https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dust Will Settle",
-        "url": "https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo"
-      },
-      "artists": [
-        {
-          "name": "The Sunny Cowgirls",
-          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
-        },
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
       "duration_ms": 218133,
       "name": "Love Away The Night - with Adam Brand",
       "url": "https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Will Settle",
+        "url": "https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo"
+      },
+      "artists": [
+        {
+          "name": "The Sunny Cowgirls",
+          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
+        },
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Of A Ride",
-        "url": "https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Thump",
-      "url": "https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speed of Life",
         "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 194824,
       "name": "Fly",
       "url": "https://open.spotify.com/track/4U6D6XdBhkDWVaf8lNTs5K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Thump",
+      "url": "https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH"
     },
     {
       "added_at": null,

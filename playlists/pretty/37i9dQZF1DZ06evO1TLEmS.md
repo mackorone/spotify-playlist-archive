@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,817 likes - 48 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,874 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Secret Place \- Acoustic](https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:43 |
-| 2 | [Blood On The Page](https://open.spotify.com/track/1s7fzrM3FdNDcNYc5i85ZJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:06 |
-| 3 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
+| 2 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
+| 3 | [Blood On The Page](https://open.spotify.com/track/1s7fzrM3FdNDcNYc5i85ZJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:06 |
 | 4 | [Passengers](https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:32 |
 | 5 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
 | 6 | [Summer Rain \(feat\. Madison Cunningham & Chris Thile\)](https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:51 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 47 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 |
 | 48 | [The Gotholympians Featuring Madison Cunningham](https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 3:23 |
 
-Snapshot ID: `aGCCAAAAAADx1OiK66jRiSp3WFAxXwlY`
+Snapshot ID: `aGHTgAAAAAA+0hghtRlj98yTndSTKZpe`

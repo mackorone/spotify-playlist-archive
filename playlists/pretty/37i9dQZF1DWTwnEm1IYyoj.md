@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 
 > Warm familiar pop you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,699,306 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,699,562 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 | 74 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
 | 75 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 76 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 |
-| 77 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 |
-| 78 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 |
-| 79 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
-| 80 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
+| 77 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 |
+| 78 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 |
+| 79 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
+| 80 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 81 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 82 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 |
 | 83 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,296 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,367 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 50 | [Men Da Elly Nesik](https://open.spotify.com/track/40nMdOO13b130ubQmVPGN3) | [Bishoy Safwat](https://open.spotify.com/artist/775ljvQOg3RywKlWUpuAzj), [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [Men Da Elly Nesik](https://open.spotify.com/album/2Rnf3KDkagUqQL78Lh1TVO) | 1:04 |
 | 51 | [برتاح معاك](https://open.spotify.com/track/13fRYCIjPIr5fi9Z3a9lGW) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:35 |
 | 52 | [Khaleke Fe Hodny el Leila](https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Khaleke Fe Hodny el Leila](https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4) | 3:20 |
-| 53 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
-| 54 | [Awel Mara Etabelna](https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq) | [Hani Adel](https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Awel Mara Etabelna](https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju) | 3:38 |
+| 53 | [Awel Mara Etabelna](https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq) | [Hani Adel](https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Awel Mara Etabelna](https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju) | 3:38 |
+| 54 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
 | 55 | [3Einy Shayfa Feky](https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [3Einy Shayfa Feky](https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW) | 3:19 |
 | 56 | [أمانة عليك](https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [أمانة عليك](https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB) | 2:54 |
 | 57 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,068 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,091 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 42 | [La Rubia del Avión](https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 4:12 |
 | 43 | [Aquí no podemos hacerlo](https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 4:36 |
 | 44 | [Te Ví en un Tren](https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:05 |
-| 45 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
-| 46 | [Para No Verte Más](https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Colección Suprema](https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t) | 3:14 |
+| 45 | [Para No Verte Más](https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Colección Suprema](https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t) | 3:14 |
+| 46 | [El 38](https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 2:29 |
 | 47 | [No Le Dijo Nada](https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 3:42 |
-| 48 | [El 38](https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 2:29 |
-| 49 | [Carnaval Toda la Vida \- Remasterizado 2008](https://open.spotify.com/track/1ymdiBKBQ1BH3lUClFVhOP) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 6:04 |
-| 50 | [Me Late](https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:30 |
+| 48 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
+| 49 | [Me Late](https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:30 |
+| 50 | [Carnaval Toda la Vida \- Remasterizado 2008](https://open.spotify.com/track/1ymdiBKBQ1BH3lUClFVhOP) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 6:04 |
 | 51 | [Pulsar](https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:54 |
 | 52 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
 | 53 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |

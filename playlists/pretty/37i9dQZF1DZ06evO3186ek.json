@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 159730,
+  "num_followers": 159767,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABjONsbiwM9DHHQi+2BDbcf",
+  "snapshot_id": "aGHTgAAAAACmZ/Q0QnRTuRfvKsj8F1N2",
   "tracks": [
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 492415,
       "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
     },
     {
       "added_at": null,

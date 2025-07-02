@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Chris Steyn en Bella
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,030 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,099 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 13 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
 | 14 | [Klomp Keer Lekker](https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Klomp Keer Lekker](https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP) | 3:05 |
 | 15 | [Liefde In 'n Loopdop](https://open.spotify.com/track/374VSOlTOiVF4L4KPXXVTs) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Liefde In 'n Loopdop](https://open.spotify.com/album/0pAUjxoPRLfUtYM6Uod8Pm) | 3:31 |
-| 16 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
-| 17 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 |
+| 16 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 |
+| 17 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
 | 18 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 |
 | 19 | [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 |
 | 20 | [Hart Se Taal](https://open.spotify.com/track/2xsi5mXx1oQqW3Zu3zoHiA) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Hart Se Taal](https://open.spotify.com/album/3IDe6qUpf3OD9dphpCaR7o) | 2:45 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 66 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 |
 | 67 | [Net Myne](https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Net Myne](https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0) | 3:02 |
 | 68 | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 |
-| 69 | [Skud](https://open.spotify.com/track/20ktnkPodVMerBp5mhFYbM) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Skud](https://open.spotify.com/album/014jSb56bQP2gTWdPSuKM6) | 2:59 |
-| 70 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
+| 69 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
+| 70 | [Skud](https://open.spotify.com/track/20ktnkPodVMerBp5mhFYbM) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Skud](https://open.spotify.com/album/014jSb56bQP2gTWdPSuKM6) | 2:59 |
 | 71 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
 | 72 | [By Die Dam](https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [By Die Dam](https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ) | 3:08 |
 | 73 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 76 | [Kies](https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Kies](https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs) | 3:28 |
 | 77 | [Naweek My Nou \(feat\. Loufi\)](https://open.spotify.com/track/3tu4zpsCPi3ME24Y1a3T2N) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Naweek My Nou \(feat\. Loufi\)](https://open.spotify.com/album/4D6oXces9lMf86k9ytJahz) | 2:53 |
 | 78 | [Bosveld Dans](https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Bosveld Dans](https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0) | 3:14 |
-| 79 | [Deur Die Winters](https://open.spotify.com/track/5kYfjmKb8nUGeTS7YBAslO) | [Venter](https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS) | [Deur Die Winters](https://open.spotify.com/album/7xbqMfdKNRSjGFzzF71uvZ) | 3:42 |
-| 80 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
+| 79 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
+| 80 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
 
 Snapshot ID: `aF3DAwAAAAA83UlG/DnCQbrvw6B1t5Gq`

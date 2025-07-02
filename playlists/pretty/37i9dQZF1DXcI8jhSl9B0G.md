@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,739 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,735 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 27 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
 | 28 | [Take Me Home \(feat\. Nadia Reid\)](https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 4:54 |
 | 29 | [Evermore](https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE) | 3:43 |
-| 30 | [Oh My Girl](https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Oh My Girl](https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu) | 2:48 |
-| 31 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
+| 30 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
+| 31 | [Oh My Girl](https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Oh My Girl](https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu) | 2:48 |
 | 32 | [Letting Go](https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [Letting Go](https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL) | 3:46 |
 | 33 | [Every Side Of You](https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK) | 3:24 |
 | 34 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 46 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
 | 47 | [The Winner Takes It All](https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [The Winner Takes It All](https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU) | 5:19 |
 | 48 | [5am Paradise \(Acoustic\) \- Sunrise Version](https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [5am Paradise \(Acoustic\) \[Sunrise Version\]](https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4) | 3:23 |
-| 49 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
-| 50 | [Feeling Fine](https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Feeling Fine](https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM) | 3:15 |
+| 49 | [Feeling Fine](https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Feeling Fine](https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM) | 3:15 |
+| 50 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
 | 51 | [Green Valleys](https://open.spotify.com/track/5nxU2qr4jRVtd8IBEJf27E) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 4:26 |
 | 52 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
 | 53 | [The Breach](https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach, A Vast Decade](https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH) | 4:17 |
 | 54 | [Laundromat](https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Hit or Miss](https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6) | 3:55 |
-| 55 | [Fairy Floss Sky](https://open.spotify.com/track/0W4PlkXqZR4AZ4nrpLdSRj) | [Jack Willis](https://open.spotify.com/artist/5bDMEki3F51J9AwYPJeBZY) | [Fairy Floss Sky](https://open.spotify.com/album/1yzydT6WbXJbSrniPmHHr4) | 3:29 |
-| 56 | [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 |
+| 55 | [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 |
+| 56 | [Fairy Floss Sky](https://open.spotify.com/track/0W4PlkXqZR4AZ4nrpLdSRj) | [Jack Willis](https://open.spotify.com/artist/5bDMEki3F51J9AwYPJeBZY) | [Fairy Floss Sky](https://open.spotify.com/album/1yzydT6WbXJbSrniPmHHr4) | 3:29 |
 | 57 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 |
 | 58 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 |
 | 59 | [Jackson \- Cover](https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi), [Ike Campbell](https://open.spotify.com/artist/3lj5OOeZrVaSN71dqJCXcX) | [Jackson \(Cover\)](https://open.spotify.com/album/28REKiqomkBstRutFWUkom) | 3:25 |

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1045089,
+  "num_followers": 1045034,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Whenever (feat. Conor Maynard)",
         "url": "https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 163636,
       "name": "Whenever (feat. Conor Maynard)",
       "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Natalie Don\u2019t",
+        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Natalie Don't",
+      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Save Me (feat. MKLA)",
         "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 193548,
       "name": "Save Me (feat. MKLA)",
       "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Natalie Don\u2019t",
-        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Natalie Don't",
-      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
     },
     {
       "added_at": "2024-11-15 03:00:00",

@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: WHYLUCAS\.  Artwork: Isu Kim.
 
-1,074 songs - 2 day 10 hr 25 min
+1,075 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [ALONE TOGETHER](https://open.spotify.com/track/53fjWjjGJDqm1M79W7fHT3) | [UTCPLUS8](https://open.spotify.com/artist/368mLOChWZCXPkEfIRx3or), [jimmy\_thegoat](https://open.spotify.com/artist/47guwsdQUnnKYOEInCv42p), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [ALONE TOGETHER](https://open.spotify.com/album/16FyV3LsShp44hfdFe9jTk) | 3:58 | 2023-03-09 | 2024-01-12 |
 | [Always at a Crossing](https://open.spotify.com/track/2NhazR6ZFsyLCh3ZTjYJH5) | [carlixe](https://open.spotify.com/artist/2QPm4y6rPTKDW2cFCzeu9P) | [Always at a Crossing](https://open.spotify.com/album/7gV0n6xcvPIimtIvvlxbRY) | 2:53 | 2023-06-15 | 2024-02-16 |
 | [always summertime](https://open.spotify.com/track/6DRhRdtVHMPnc2amhMiWSy) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [The Morning After](https://open.spotify.com/album/6y8NCfY19sEVFahTwtnlnt) | 3:05 | 2023-05-04 | 2023-06-23 |
+| [alwaystrustaria](https://open.spotify.com/track/7seGKouK7aNflo3oSRidHM) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu) | [alwaystrustaria](https://open.spotify.com/album/58dxwK3lRhaBde8PtftXGu) | 5:35 | 2025-07-01 |  |
 | [AMNESIA](https://open.spotify.com/track/20t4yahxbvf0iXpkuzhEp8) | [goneMUNE](https://open.spotify.com/artist/6SsAyywSRs06Y9h25bdCi2) | [AMNESIA](https://open.spotify.com/album/3DEjaxHAfDpyFswMcwSRGX) | 3:52 | 2025-03-21 | 2025-05-03 |
 | [An Athlete](https://open.spotify.com/track/7GKV0j1Qdj8VQwMth5yypS) | [Boey](https://open.spotify.com/artist/6rgGhhquiyHRb9IodAYGYU) | [An Athlete](https://open.spotify.com/album/7o34gGO5eBlOWrC5ZcqGHv) | 2:39 | 2025-03-21 | 2025-05-03 |
 | [Angel](https://open.spotify.com/track/3KNDc2QCNN6BoGrWiecSae) | [Cactus Cactus](https://open.spotify.com/artist/51x2pHGxvd8eEeOK4FBFYJ) | [Life is Short](https://open.spotify.com/album/1C2cbAU8vcCX6MSvrqyuDA) | 4:48 | 2023-05-26 | 2023-11-18 |
@@ -109,7 +110,7 @@
 | [Better Off](https://open.spotify.com/track/6m3FlzIcQUCMBT5IYgakIs) | [Kyle Waves](https://open.spotify.com/artist/4JI8Ua08Ilxh3BVUZTSdiR), [PAILIN](https://open.spotify.com/artist/2KifQWXgwwnO5ENWvKQxF6) | [Better Off](https://open.spotify.com/album/699OKNFz1tOZAsRLzXhiZN) | 3:08 | 2024-02-25 | 2024-05-10 |
 | [BETTER OFF](https://open.spotify.com/track/4iCEgsiLhznxXLc0VjjruT) | [Reiklytokyo](https://open.spotify.com/artist/3CoxnqdIPx4y03sqIcXeFx) | [BETTER OFF](https://open.spotify.com/album/49lq6IVAiJd1aXd2zigg4L) | 2:13 | 2024-05-23 | 2024-11-22 |
 | [BETTER OFF](https://open.spotify.com/track/5tzis02TASC31fFtOJR8NI) | [Reiklytokyo](https://open.spotify.com/artist/3CoxnqdIPx4y03sqIcXeFx) | [BEFORE IT GETS DARK](https://open.spotify.com/album/7mgZ1GPCXfXqFLR72c9ag0) | 2:13 | 2024-12-04 | 2025-01-18 |
-| [Bila Aku Jatuh Cinta](https://open.spotify.com/track/3uhZJnCFtpJjhCnURZgtFw) | [Addie](https://open.spotify.com/artist/03RtNRnNwDHdk3a26xBjdU) | [Bila Aku Jatuh Cinta](https://open.spotify.com/album/5Gztw7UOlcIFA1cGIU9OuJ) | 3:19 | 2025-06-26 |  |
+| [Bila Aku Jatuh Cinta](https://open.spotify.com/track/3uhZJnCFtpJjhCnURZgtFw) | [Addie](https://open.spotify.com/artist/03RtNRnNwDHdk3a26xBjdU) | [Bila Aku Jatuh Cinta](https://open.spotify.com/album/5Gztw7UOlcIFA1cGIU9OuJ) | 3:19 | 2025-06-26 | 2025-07-02 |
 | [Bila Kau Datang Menangis](https://open.spotify.com/track/6TlACOcaPsEf7MbYbWas4H) | [DUKES](https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER) | [Bila Kau Datang Menangis](https://open.spotify.com/album/24tBZ5WLzm2xZkm4BEcR2B) | 3:46 | 2025-06-26 |  |
 | [bittersweet](https://open.spotify.com/track/2VhCaIbw36S8NXi6734ehU) | [CLARY](https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm), [zeauk](https://open.spotify.com/artist/6lSwya9NXVN29RnQqQCHnE) | [bittersweet](https://open.spotify.com/album/6JrE0n1iAvsxx1ae2V2j6P) | 3:01 | 2022-01-13 | 2022-06-17 |
 | [bittersweet](https://open.spotify.com/track/3rIFI3Qr5F6ZMAeX1R8bzh) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [bittersweet](https://open.spotify.com/album/5FO2kVPKiicZfH0ypjWrBx) | 2:38 | 2022-10-27 | 2023-05-12 |

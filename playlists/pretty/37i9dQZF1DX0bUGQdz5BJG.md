@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Blake Whiten
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,283 likes - 215 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,354 likes - 215 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

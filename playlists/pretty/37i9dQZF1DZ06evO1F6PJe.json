@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 107314,
+  "num_followers": 107331,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADF+y4Vmk5hmwoPtv/0rJNQ",
+  "snapshot_id": "aGHTgAAAAAB4rq12VG/t1ut3FjcfYZOp",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "You Upset Me Baby",
-      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Shades of Blue",
         "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 279226,
       "name": "Different Shades of Blue",
       "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "You Upset Me Baby",
+      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 409720,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 409720,
-      "name": "Slow Train",
-      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Radio City Music Hall",
         "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 340186,
-      "name": "One of these Days",
-      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 246306,
       "name": "When Will I Let Her Go",
       "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 340186,
+      "name": "One of these Days",
+      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Ball Peen Hammer",
-      "url": "https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beacon Theatre - Live from New York",
         "url": "https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 341466,
       "name": "I'll Take Care of You",
       "url": "https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Ball Peen Hammer",
+      "url": "https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m"
     },
     {
       "added_at": null,

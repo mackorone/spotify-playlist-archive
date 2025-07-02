@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "Deslocado",
         "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
@@ -25,7 +25,75 @@
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        }
+      ],
+      "duration_ms": 135475,
+      "name": "Pobre Secretaria",
+      "url": "https://open.spotify.com/track/0lTAedtZ55pf7wFrcDEPM0"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "YO y T\u00da",
+        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 198153,
+      "name": "YO y T\u00da",
+      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 168140,
+      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
+      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
@@ -49,7 +117,59 @@
       "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        }
+      ],
+      "duration_ms": 165014,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/47wy1oZsKUtxGV8YpbvYTS"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "Tipo Nino Vs Kabrinha",
         "url": "https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH"
@@ -73,7 +193,135 @@
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "P\u00d3RTATE BIEN!",
+        "url": "https://open.spotify.com/album/3kledHeySuGr5oXC39ncnl"
+      },
+      "artists": [
+        {
+          "name": "mvrk",
+          "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
+        }
+      ],
+      "duration_ms": 169656,
+      "name": "Apretar +",
+      "url": "https://open.spotify.com/track/2zvvoRLAWTaq0PbbcWUsoc"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "De Qu\u00e9 Te Vale Fingir (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/3FxBOibeL5odJlHznvyLQ2"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 388778,
+      "name": "Acariciame, El Gato Y Yo, Acariciame (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/0beZQvJCsdtdBV48YBzYBH"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 159125,
+      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n) - DT Billardo Remix",
+      "url": "https://open.spotify.com/track/219VTk1qQjHoClgqJ9fotZ"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 184547,
+      "name": "si te pillara",
+      "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "Woy",
         "url": "https://open.spotify.com/album/2JkcMT5sw72hYSRV7hNKCn"
@@ -93,7 +341,43 @@
       "url": "https://open.spotify.com/track/3UB1zEUQBh9Ff1emup6gvW"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Luis Gerardo M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/1oAw6E1cuq3azV5hhHCE1N"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Soldado Del Amor",
+      "url": "https://open.spotify.com/track/16dYwcyV6Yl0GaYP3kD4dE"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "KORAZONG",
+        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 174048,
+      "name": "KORAZONG",
+      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
@@ -117,7 +401,27 @@
       "url": "https://open.spotify.com/track/2Kx9AfJPaJib9DwAdDYdB9"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "NATSUKASHII YORU",
+        "url": "https://open.spotify.com/album/2kqsyJgOp61wugJ9VvmgNY"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 200606,
+      "name": "LOKENECESITAS",
+      "url": "https://open.spotify.com/track/1cQx85WypWumn7ZQjUxWQi"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -133,7 +437,39 @@
       "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 125470,
+      "name": "Castillos (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -144,44 +480,44 @@
           "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 184547,
-      "name": "si te pillara",
-      "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "EU TAVA AQUI PENSADO",
-        "url": "https://open.spotify.com/album/6sqTQwYsWhLuOXEUOUEd59"
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
       "artists": [
         {
-          "name": "Aestus",
-          "url": "https://open.spotify.com/artist/3Zpqcw9f2Teu5tFEvKKv5j"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 189559,
-      "name": "EU TAVA AQUI PENSADO - Bossa nova",
-      "url": "https://open.spotify.com/track/3iIrsQt3hhyWKLU0M9y4oS"
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+      "duration_ms": 190431,
+      "name": "Frecuencia",
+      "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "DIA DEL\u00cdCIA",
         "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
@@ -205,87 +541,39 @@
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "KORAZONG",
-        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
+        "name": "WEEKND",
+        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
         }
       ],
-      "duration_ms": 174048,
-      "name": "KORAZONG",
-      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
+      "duration_ms": 203333,
+      "name": "WEEKND",
+      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225197,
-      "name": "Heterocrom\u00eda",
-      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "LO MISMO DE SIEMPRE",
-        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "DETR\u00c1S DE TU ALMA",
-      "url": "https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -301,79 +589,83 @@
       "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+        "name": "LO MISMO DE SIEMPRE",
+        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 190431,
-      "name": "Frecuencia",
-      "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
+      "duration_ms": 237000,
+      "name": "DETR\u00c1S DE TU ALMA",
+      "url": "https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "Forni",
-        "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
       "artists": [
         {
-          "name": "Los Ballers",
-          "url": "https://open.spotify.com/artist/5P6cHh4NtlZIaRKDHji2fY"
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
         },
         {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 203265,
-      "name": "Forni",
-      "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
+      "duration_ms": 110224,
+      "name": "Es Ella Mas Que Yo",
+      "url": "https://open.spotify.com/track/76U0tk9qvImvBhwPgSw2z9"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "MamaZota",
-        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
+        "name": "Sr. Santos II Sue\u00f1os de Grandeza",
+        "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
       },
       "artists": [
         {
-          "name": "Arlene MC",
-          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
-        }
-      ],
-      "duration_ms": 122125,
-      "name": "MamaZota",
-      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Un Dia en Mi Barrio",
-        "url": "https://open.spotify.com/album/0LCkVTaIfTXqJW4JSEUqKT"
-      },
-      "artists": [
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
         {
-          "name": "Tony Monta",
-          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
+          "name": "Austin San",
+          "url": "https://open.spotify.com/artist/0TC8XvQTSQMh4beW43FsAH"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Un Dia en Mi Barrio",
-      "url": "https://open.spotify.com/track/3G5E96MgweWL5SvL3GAwZ9"
+      "duration_ms": 164124,
+      "name": "Gohan y Goku",
+      "url": "https://open.spotify.com/track/2EAwwTv6neelEJVY2BNsYz"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
@@ -393,159 +685,43 @@
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
       "artists": [
         {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
         },
         {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+      "duration_ms": 116611,
+      "name": "De Color De Rosa",
+      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Crema Helado",
-        "url": "https://open.spotify.com/album/1ynwWMXLjJvJ8rRT9a0AaZ"
-      },
-      "artists": [
-        {
-          "name": "Leandro Santos",
-          "url": "https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4"
-        }
-      ],
-      "duration_ms": 157611,
-      "name": "Crema Helado",
-      "url": "https://open.spotify.com/track/5opOLLSVs2jhxV0KHzpyZ6"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "WEEKND",
-        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "WEEKND",
-      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "MASNA REMIX",
-        "url": "https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "MASNA REMIX",
-      "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Linda Mujer",
-        "url": "https://open.spotify.com/album/4ArFsKMhKbHdMhBQiWIfbN"
-      },
-      "artists": [
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 234410,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/116NyTQvOVrcAWLrGwTiSA"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
-      },
-      "artists": [
-        {
-          "name": "Carrion GodBle$$",
-          "url": "https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU"
-        },
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Vaitimbora",
-        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        },
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 135131,
-      "name": "Vaitimbora",
-      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "Pelotero A La Bola",
         "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
@@ -565,7 +741,155 @@
       "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 160028,
+      "name": "Detr\u00e1s De Mi Ventana",
+      "url": "https://open.spotify.com/track/1CQ5fSPQCQe54kkh4lPIRE"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Vem Vem",
+        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "duration_ms": 83183,
+      "name": "Vem Vem",
+      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        }
+      ],
+      "duration_ms": 133342,
+      "name": "Te Est\u00e1s Pasando",
+      "url": "https://open.spotify.com/track/3fbtPHtzU7xSGDjaH0HSwn"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "MamaZota",
+        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
+      },
+      "artists": [
+        {
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+        }
+      ],
+      "duration_ms": 122125,
+      "name": "MamaZota",
+      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Camino a Encontrarte (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/3CiP8TzsCJPgh45x93pgkQ"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Antes Que al M\u00edo",
+      "url": "https://open.spotify.com/track/1ofm4yM1aSQLvLNTfaAAQR"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "Un Dia en Mi Barrio",
+        "url": "https://open.spotify.com/album/0LCkVTaIfTXqJW4JSEUqKT"
+      },
+      "artists": [
+        {
+          "name": "Tony Monta",
+          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Un Dia en Mi Barrio",
+      "url": "https://open.spotify.com/track/3G5E96MgweWL5SvL3GAwZ9"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "la culpa (track 11)",
+        "url": "https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "la culpa (track 11)",
+      "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
+      },
+      "artists": [
+        {
+          "name": "Carrion GodBle$$",
+          "url": "https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -589,167 +913,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159522,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "piel / krav mag\u00e1",
-        "url": "https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "krav mag\u00e1",
-      "url": "https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Vem Vem",
-        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
-      },
-      "artists": [
-        {
-          "name": "Jmilton",
-          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
-        },
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        }
-      ],
-      "duration_ms": 83183,
-      "name": "Vem Vem",
-      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Shake It To The Max (FLY) (Remix)",
-        "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Silent Addy",
-          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Shake It To The Max (FLY) - Remix",
-      "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "QUE ME PEGUE +",
-        "url": "https://open.spotify.com/album/4yQUbHvgzMCb3JrCo8L4Ds"
-      },
-      "artists": [
-        {
-          "name": "Farah",
-          "url": "https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK"
-        },
-        {
-          "name": "Don Pablo Mures",
-          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
-        },
-        {
-          "name": "Italian Somali",
-          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "QUE ME PEGUE +",
-      "url": "https://open.spotify.com/track/7Jw88gAPxTaM8GWMAJV97A"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Otros Planes",
-        "url": "https://open.spotify.com/album/7xVXWXbRaBCEMXMqnuIWg8"
-      },
-      "artists": [
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 196065,
-      "name": "Otros Planes",
-      "url": "https://open.spotify.com/track/3YnNJdbJwgJbIY52RqWPVn"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "piel / krav mag\u00e1",
-        "url": "https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 204900,
-      "name": "piel",
-      "url": "https://open.spotify.com/track/7Jr1NHeq1sBOcEEdpx9cuq"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
         "name": "Los Rockstar No Van Al Cielo",
         "url": "https://open.spotify.com/album/0KOrCMi72n2oZDsorvS3vn"
@@ -769,176 +933,92 @@
       "url": "https://open.spotify.com/track/5bh8LBXTKPJ8nl9yWuonqo"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/4ArFsKMhKbHdMhBQiWIfbN"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 234410,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/116NyTQvOVrcAWLrGwTiSA"
+    },
+    {
+      "added_at": "2025-07-01 17:17:35",
+      "album": {
+        "name": "La Del Proceso",
+        "url": "https://open.spotify.com/album/6OJxH8hYHEmSRHkavCnlVJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Panda Black",
-          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 175280,
-      "name": "444",
-      "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+      "duration_ms": 184050,
+      "name": "La Del Proceso",
+      "url": "https://open.spotify.com/track/1AH1OsF7LabIl5RjhXR0u2"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
         },
         {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
         }
       ],
-      "duration_ms": 141109,
-      "name": "Johnny Glamour",
-      "url": "https://open.spotify.com/track/4YZhsgOBQtKvxZWjVuJD9H"
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
-      "added_at": "2025-06-30 15:51:13",
+      "added_at": "2025-07-01 17:17:35",
       "album": {
-        "name": "Triple Lavada",
-        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
+        "name": "Crema Helado",
+        "url": "https://open.spotify.com/album/1ynwWMXLjJvJ8rRT9a0AaZ"
       },
       "artists": [
         {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+          "name": "Leandro Santos",
+          "url": "https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4"
         }
       ],
-      "duration_ms": 165790,
-      "name": "Triple Lavada",
-      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "God Is A Weapon",
-        "url": "https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        },
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 215444,
-      "name": "God Is A Weapon",
-      "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Milagros",
-        "url": "https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "Camino a Encontrarte (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/3CiP8TzsCJPgh45x93pgkQ"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "Antes Que al M\u00edo",
-      "url": "https://open.spotify.com/track/1ofm4yM1aSQLvLNTfaAAQR"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "FERXXO VOL X: Sagrado",
-        "url": "https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 162613,
-      "name": "NO ME DEJO XXIMBIAR",
-      "url": "https://open.spotify.com/track/7MyKjQ56jusvJ3cuAZEDcn"
-    },
-    {
-      "added_at": "2025-06-30 15:51:13",
-      "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 121392,
-      "name": "TUTA",
-      "url": "https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y"
+      "duration_ms": 157611,
+      "name": "Crema Helado",
+      "url": "https://open.spotify.com/track/5opOLLSVs2jhxV0KHzpyZ6"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

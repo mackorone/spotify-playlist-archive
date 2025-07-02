@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,035,018 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,625 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 68 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 |
 | 69 | [obsessed](https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP) | [zandros](https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q), [Limi](https://open.spotify.com/artist/2SPIThivWqjfsjlYPNxYX9) | [obsessed](https://open.spotify.com/album/0bbp2pnr07VBdkjMkAMtN3) | 3:00 |
 | 70 | [Favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
-| 71 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 |
-| 72 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
+| 71 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
+| 72 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 |
 | 73 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 |
 | 74 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
-| 75 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
-| 76 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
+| 75 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
+| 76 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
 | 77 | [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:19 |
 | 78 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
 | 79 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 84 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 85 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
 | 86 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 |
-| 87 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 |
-| 88 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 87 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 88 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 |
 | 89 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
 | 90 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
 | 91 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 |

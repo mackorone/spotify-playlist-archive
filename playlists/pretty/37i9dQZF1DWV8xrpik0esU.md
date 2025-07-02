@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,130 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,279 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 36 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
 | 37 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
 | 38 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
-| 39 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
-| 40 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
+| 39 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
+| 40 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 41 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 42 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 43 | [\(I Can't Help\) Falling In Love With You](https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Promises And Lies](https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d) | 3:27 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 54 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
 | 55 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
 | 56 | [Thank U](https://open.spotify.com/track/3CVDronuSnhguSUguPoseM) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Supposed Former Infatuation Junkie](https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp) | 4:18 |
-| 57 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
-| 58 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 |
+| 57 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 |
+| 58 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
 | 59 | [Just Another Day](https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
 | 60 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 61 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 |

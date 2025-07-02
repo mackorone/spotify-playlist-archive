@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Grateful Heart",
+        "url": "https://open.spotify.com/album/75zYBzxg6ZC83tsN0MUcMV"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "Grateful Heart",
+      "url": "https://open.spotify.com/track/7kYoiZEQQikzaWXQKGGZwS"
+    },
+    {
+      "album": {
         "name": "Half to the hills",
         "url": "https://open.spotify.com/album/5SP8ji4ojuWDoE99p5CDKj"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 257970,
       "name": "I\u00b4m Yours",
       "url": "https://open.spotify.com/track/3GV9OflZxX0dQhk3lAPn69"
@@ -2592,7 +2610,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 155802,
       "name": "Little Boat",
       "url": "https://open.spotify.com/track/4noc1JvLn446v2kBacnEoe"
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 220410,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM"
@@ -2884,6 +2902,24 @@
       "duration_ms": 192554,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS"
+    },
+    {
+      "album": {
+        "name": "Memories of Old",
+        "url": "https://open.spotify.com/album/1Vu3jZXLUu3amLJyxIH71P"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Memories of Old",
+      "url": "https://open.spotify.com/track/5aBvwMKUJXUd3qF2eJ83Um"
     },
     {
       "album": {
@@ -3150,10 +3186,28 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 207000,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W"
+    },
+    {
+      "album": {
+        "name": "My Invitation",
+        "url": "https://open.spotify.com/album/6gPcS0XkKq7xfEaO5AupT2"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206528,
+      "name": "My Invitation",
+      "url": "https://open.spotify.com/track/1hoIJarUXDtPDiQxw4GKlG"
     },
     {
       "album": {
@@ -4564,7 +4618,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 196974,
       "name": "That\u00b4s All",
       "url": "https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn"
@@ -4838,6 +4892,24 @@
       "duration_ms": 206523,
       "name": "The Light Over Chesapeake Bay",
       "url": "https://open.spotify.com/track/5ZU9TV5L4zo40G6VdXbLOQ"
+    },
+    {
+      "album": {
+        "name": "The Missing Scene",
+        "url": "https://open.spotify.com/album/668p7bhApKWgHJp7NrzjZc"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252529,
+      "name": "The Missing Scene",
+      "url": "https://open.spotify.com/track/6TvLtYO5RPIAbymeR0Xvw7"
     },
     {
       "album": {
@@ -5750,6 +5822,24 @@
       "duration_ms": 299029,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
+    },
+    {
+      "album": {
+        "name": "You Made Me Smile",
+        "url": "https://open.spotify.com/album/1Ni71AxKo0dDcDWuL3DhAk"
+      },
+      "artists": [
+        {
+          "name": "Le Bleu Ensemble",
+          "url": "https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229783,
+      "name": "You Made Me Smile",
+      "url": "https://open.spotify.com/track/6yuIsNSrxG7qMjbyKz3LzC"
     },
     {
       "album": {

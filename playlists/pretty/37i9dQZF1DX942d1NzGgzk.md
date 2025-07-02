@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Tyler Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,595 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,602 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 15 | [lvl 1 \- HOME ALONE](https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 1 \- HOME ALONE](https://open.spotify.com/album/5gsTwlcGGuSOTQxR6pCcVN) | 3:30 |
 | 16 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 |
 | 17 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 |
-| 18 | [I know](https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [I know](https://open.spotify.com/album/6d007bzGban8JqmIvrubZW) | 3:15 |
+| 18 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 | 19 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 20 | [Automatic](https://open.spotify.com/track/1rQeZ0Tpmm78r2zfjunoiV) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Automatic](https://open.spotify.com/album/4WbNR7vcKMrVIfKCu1u9ao) | 3:23 |
-| 21 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
-| 22 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 |
-| 23 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
+| 21 | [I know](https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [I know](https://open.spotify.com/album/6d007bzGban8JqmIvrubZW) | 3:15 |
+| 22 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
+| 23 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 |
 | 24 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 |
 | 25 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
 | 26 | [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 31 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 32 | [Only Happen](https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Happen](https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR) | 3:28 |
 | 33 | [alone](https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [alone](https://open.spotify.com/album/078mNMvgotfFlDzQge83em) | 3:06 |
-| 34 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 |
-| 35 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 |
+| 34 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 |
+| 35 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 |
 | 36 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
 | 37 | [sauna](https://open.spotify.com/track/1IzaYVea9wm69Tby8ekGSD) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 1:54 |
-| 38 | [Follow You](https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Follow You](https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM) | 3:32 |
-| 39 | [Nobody Else](https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Nobody Else](https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW) | 2:11 |
+| 38 | [Nobody Else](https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Nobody Else](https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW) | 2:11 |
+| 39 | [Follow You](https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Follow You](https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM) | 3:32 |
 | 40 | [Midnight Calls](https://open.spotify.com/track/6AFBfuZXOzSfwcMx3ZhBYt) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Midnight Calls](https://open.spotify.com/album/0JogIhJJds1bQ7T5D4Ck3p) | 2:45 |
 | 41 | [Bending My Rules](https://open.spotify.com/track/797M1rBDoxy7pPsTkXPqUn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:44 |
 | 42 | [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 |

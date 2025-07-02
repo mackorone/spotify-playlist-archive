@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,832 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,896 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 26 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
 | 27 | [That Girl](https://open.spotify.com/track/4khP6dCz7SXygoxPqaIqLR) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Orenjii](https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW) | 2:34 |
 | 28 | [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 |
-| 29 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 |
-| 30 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
-| 31 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 |
+| 29 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
+| 30 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 |
+| 31 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 |
 | 32 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 |
 | 33 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
 | 34 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 56 | [Out The Blue](https://open.spotify.com/track/6shs8JgU7UnKHYCohd8iUo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Out The Blue](https://open.spotify.com/album/32SZQwbKHdXkMB7dGJxYFg) | 2:57 |
 | 57 | [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 |
 | 58 | [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 |
-| 59 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
-| 60 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
+| 59 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
+| 60 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
 
 Snapshot ID: `aF5PFAAAAAD85OddNNwkBEeo033qVpyh`

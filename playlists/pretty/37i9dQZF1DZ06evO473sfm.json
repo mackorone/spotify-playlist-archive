@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 497262,
+  "num_followers": 497497,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACwzO/jQMxwLC5wA0B5FoVb",
+  "snapshot_id": "aGHTgAAAAAB0juHoUHpIUJpvSTMQDuI4",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Pedo Qui\u00e9n Sabe",
-        "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 191284,
-      "name": "Ya Pedo Qui\u00e9n Sabe",
-      "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mutuo",
         "url": "https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 177888,
       "name": "Mutuo",
       "url": "https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Pedo Qui\u00e9n Sabe",
+        "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 191284,
+      "name": "Ya Pedo Qui\u00e9n Sabe",
+      "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Lo Que Viene",
+        "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 200608,
+      "name": "No Se Parece A Ti",
+      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 157600,
       "name": "0 SENTIMIENTOS",
       "url": "https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Lo Que Viene",
-        "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 200608,
-      "name": "No Se Parece A Ti",
-      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
     },
     {
       "added_at": null,

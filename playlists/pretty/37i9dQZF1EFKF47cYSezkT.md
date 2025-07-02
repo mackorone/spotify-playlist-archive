@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 61 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 61 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 17 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
 | 18 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
 | 19 | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/track/0rwaGvuSd4rCKuCt9w82Nm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/album/5at4UMpAW5bTh8d4jLeUmz) | 3:36 |
-| 20 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
-| 21 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
-| 22 | [M.I.A](https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 2:09 |
+| 20 | [M.I.A](https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 2:09 |
+| 21 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
+| 22 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
 | 23 | [Let it Lie](https://open.spotify.com/track/7gT2JSjZWWw1EvZfnuFie4) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let it Lie](https://open.spotify.com/album/5KYxtISj2XF8yd14w2r25S) | 2:32 |
 | 24 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 |
 | 25 | [Faccio un casino](https://open.spotify.com/track/1knOlvwv1A6AVadKwM2UR8) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/1r3kQVZ87tRU00QVzvN0oO) | 2:53 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 60 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 61 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Ab1jfgAAAAD8QWVEfRN8PYYtRFcUWzuw`
+Snapshot ID: `Ab1pHgAAAAAmOMyGWP8p86JPgJ6KieFq`

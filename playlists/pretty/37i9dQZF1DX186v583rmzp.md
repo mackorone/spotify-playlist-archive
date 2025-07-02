@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,093,457 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,094,386 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 95 | [Damn It Feels Good to Be a Gangsta](https://open.spotify.com/track/0HOqINudNgQFpg1le5Hnqe) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [Uncut Dope](https://open.spotify.com/album/7caok0dVcdy1tLFuvIf92H) | 5:10 |
 | 96 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
 | 97 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
-| 98 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:08 |
-| 99 | [It's Been A Long Time](https://open.spotify.com/track/4sMH75ctV0RVSOHZqXJpHD) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 3:57 |
+| 98 | [It's Been A Long Time](https://open.spotify.com/track/4sMH75ctV0RVSOHZqXJpHD) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 3:57 |
+| 99 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:08 |
 | 100 | [Back That Azz Up](https://open.spotify.com/track/525yPO8r5J6kLostDxm3XK) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Greatest Hits](https://open.spotify.com/album/0UlugUB43h0SKODTgJDc35) | 4:25 |
 
 Snapshot ID: `aFL+mQAAAAByWtOAUwTROJcUTVbiyW1Y`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 44779,
+  "num_followers": 44782,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABfOyWu6fwMj2q7KIgxk/Mp",
+  "snapshot_id": "aGHTgAAAAAC3lvzm1RyNtuZRyYIGNRm+",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 296724,
-      "name": "Oh My Sweet Carolina",
-      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+      "duration_ms": 192732,
+      "name": "My Winding Wheel",
+      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 192732,
-      "name": "My Winding Wheel",
-      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
+      "duration_ms": 296724,
+      "name": "Oh My Sweet Carolina",
+      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+      "duration_ms": 218400,
+      "name": "The Rescue Blues",
+      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
     },
     {
       "added_at": null,
@@ -520,41 +520,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 218400,
-      "name": "The Rescue Blues",
-      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Oh My God, Whatever, Etc.",
-      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -575,6 +543,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Colors",
-        "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 213946,
-      "name": "Fuck The Rain",
-      "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+      "duration_ms": 162306,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 162306,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Sign",
+        "url": "https://open.spotify.com/album/39Z95ATooToWTznmXTLMx4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Shinin' through the Dark",
+      "url": "https://open.spotify.com/track/7igP2tWAoNgUgMTFKAlKY2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 274146,
       "name": "When You Cross Over",
       "url": "https://open.spotify.com/track/4AMSEr9CDJh7oryZM1Ga9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Sign",
-        "url": "https://open.spotify.com/album/39Z95ATooToWTznmXTLMx4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Shinin' through the Dark",
-      "url": "https://open.spotify.com/track/7igP2tWAoNgUgMTFKAlKY2"
     },
     {
       "added_at": null,

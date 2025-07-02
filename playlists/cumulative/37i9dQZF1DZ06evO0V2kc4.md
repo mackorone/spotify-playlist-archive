@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 51 min
+114 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Banks Of The Ohio](https://open.spotify.com/track/5baVOcZQr3sulDmGQennee) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:09 | 2022-10-07 | 2022-10-11 |
 | [Barbara Allen](https://open.spotify.com/track/3Q9rnd8kBeJjkNeUukJA0c) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [How Sweet The Sound](https://open.spotify.com/album/0yd4yXz2KHDtb9BuZWG2qR) | 4:17 | 2022-09-22 | 2022-10-13 |
 | [Battle Hymn Of The Republic](https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [In Concert \(Live\)](https://open.spotify.com/album/1JnZvQiB4y9W4uzJgxLerQ) | 3:24 | 2022-10-11 | 2022-10-13 |
+| [Be Of Good Heart](https://open.spotify.com/track/1hqjun0JLCQRYv9pNVYXFv) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 4:02 | 2025-07-02 |  |
 | [Blackbird](https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:24 | 2023-01-21 | 2025-01-01 |
 | [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 | 2022-09-24 | 2025-01-27 |
 | [Blowin' In The Wind \- Live](https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [From Every Stage](https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd) | 2:35 | 2022-09-22 |  |
@@ -101,7 +102,7 @@
 | [Silver Dagger](https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:32 | 2022-09-27 |  |
 | [Silver Dagger \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/7buaEIGFa9f7rXjOAApie9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:41 | 2025-02-15 | 2025-06-16 |
 | [Simple Twist Of Fate](https://open.spotify.com/track/6f39dg5y3Hj0p179o2Bu8z) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:45 | 2022-09-24 | 2024-10-20 |
-| [Stones In The Road](https://open.spotify.com/track/77f6vclAJFfqksX1G2XbSZ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 4:41 | 2025-06-20 |  |
+| [Stones In The Road](https://open.spotify.com/track/77f6vclAJFfqksX1G2XbSZ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 4:41 | 2025-06-20 | 2025-07-02 |
 | [Streets Of Laredo](https://open.spotify.com/track/6atyMxxmx1kmVkNSncQfxv) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 2:40 | 2025-01-27 | 2025-06-04 |
 | [Swallow Song \- Live](https://open.spotify.com/track/3CyG7tEbrRzGtrO4i8NxYe) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [Ring Them Bells \(Collector's Edition / Live\)](https://open.spotify.com/album/5UVNLEgUPc2vhDB30herJN) | 3:09 | 2023-04-12 | 2023-04-15 |
 | [Sweet Sir Galahad](https://open.spotify.com/track/0wVsSz391qR4eORwDy3Xvg) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:43 | 2022-09-22 |  |

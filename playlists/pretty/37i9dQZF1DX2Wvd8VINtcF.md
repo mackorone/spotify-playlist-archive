@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨ABY iO✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,087 likes - 102 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,101 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

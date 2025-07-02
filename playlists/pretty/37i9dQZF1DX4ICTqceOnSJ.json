@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 408929,
+  "num_followers": 408952,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "El camino de la libertad",
-        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 220001,
-      "name": "Encendedor",
-      "url": "https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Magia & Efectos Especiales",
         "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 273893,
       "name": "Qu\u00e9 Bien",
       "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "El camino de la libertad",
+        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 220001,
+      "name": "Encendedor",
+      "url": "https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Viento de Cara",
         "url": "https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 257106,
       "name": "Viento de Cara",
       "url": "https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 167044,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 234566,
       "name": "Mango",
       "url": "https://open.spotify.com/track/15QTKrbWHY653qgiKbfS16"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 167044,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pol\u00edtico",
-        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 226742,
-      "name": "M\u00e9xico",
-      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 268280,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Pol\u00edtico",
+        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 226742,
+      "name": "M\u00e9xico",
+      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 265740,
-      "name": "La Flotadera",
-      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 222573,
       "name": "Baila",
       "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 265740,
+      "name": "La Flotadera",
+      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
     },
     {
       "added_at": "2024-06-14 04:59:00",

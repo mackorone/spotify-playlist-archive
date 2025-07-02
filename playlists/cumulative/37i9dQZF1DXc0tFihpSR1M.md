@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-311 songs - 16 hr 6 min
+312 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-06-27 | 2025-02-21 |
 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 |  |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 | 2025-01-31 |
+| [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-26 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-05-02 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-06-08 |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-06-27 | 2024-11-02 |
@@ -135,7 +136,7 @@
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-06-27 | 2024-11-05 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-06-27 | 2024-11-02 |
-| [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 |  |
+| [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 | 2025-07-02 |
 | [Hur många mil](https://open.spotify.com/track/1Vvsi25b3d1FzEnbaCoYLm) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hur många mil](https://open.spotify.com/album/0Vslua8p3vs0fJrqqAzQHc) | 2:27 | 2025-04-03 | 2025-05-27 |
 | [hvem kan seile foruten vind?](https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [hvem kan seile foruten vind?](https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3) | 3:23 | 2025-03-06 | 2025-04-23 |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 | 2025-03-08 |

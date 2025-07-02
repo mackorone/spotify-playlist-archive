@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,823 likes - 46 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,798 likes - 46 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 27 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
 | 28 | [Like a Girl](https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:04 |
 | 29 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
-| 30 | [CRASHOUT](https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:55 |
+| 30 | [JUST 4 FUN](https://open.spotify.com/track/7BFydzRqLiUUH2qcHUJhzN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:33 |
 | 31 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
 | 32 | [Soulmate](https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
 | 33 | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL) | 3:17 |
-| 34 | [JUST 4 FUN](https://open.spotify.com/track/7BFydzRqLiUUH2qcHUJhzN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:33 |
+| 34 | [CRASHOUT](https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:55 |
 | 35 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 |
 | 36 | [Exactly How I Feel \(feat\. Gucci Mane\)](https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:23 |
 | 37 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 45 | [A Change Is Gonna Come \(feat\. Lizzo\) \- Live at SXSW 2013](https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Spotify Sessions \(Live at SXSW 2014\)](https://open.spotify.com/album/36YdveJJhT49E0blTQODsS) | 5:16 |
 | 46 | [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 |
 
-Snapshot ID: `aGCCAAAAAABOmsIAM+uzNa1LYMFfWCUj`
+Snapshot ID: `aGHTgAAAAACO/OkQ750o5Iq2VVuhy3mC`

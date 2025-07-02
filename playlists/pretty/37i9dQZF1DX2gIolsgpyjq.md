@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > 10 years of the best new music by independent artists in the Nordics\. Cover: Caesar Omaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,078 likes - 103 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,085 likes - 103 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 26 | [break my fall](https://open.spotify.com/track/1Pm9Ccvs4z9w4vQEWKDICe) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [break my fall](https://open.spotify.com/album/3uRPMGgQ87zRkUD2WNqCUl) | 2:49 |
 | 27 | [Chameleon](https://open.spotify.com/track/7deikA8SR1syatHaY2q3vA) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [Eternity/Chameleon](https://open.spotify.com/album/26QEx2C6zmGQWLbVEdhp8I) | 3:28 |
 | 28 | [The Weight Of It All](https://open.spotify.com/track/0ryG1kn1mtbjXeJoe6uY4y) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [The Weight Of It All](https://open.spotify.com/album/6ZrIEGcSVwq9Z7Cuwe4Ni5) | 2:33 |
-| 29 | [wheniseeyouitallcomesback](https://open.spotify.com/track/6v1nbUdyczgSEK4xp6p9DU) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [wheniseeyouitallcomesback](https://open.spotify.com/album/6WpBQoNffwbCWOd1njvllt) | 2:48 |
+| 29 | [wheniseeuitallcomesback](https://open.spotify.com/track/6v1nbUdyczgSEK4xp6p9DU) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [wheniseeuitallcomesback](https://open.spotify.com/album/6WpBQoNffwbCWOd1njvllt) | 2:48 |
 | 30 | [Blue Eyed Buck](https://open.spotify.com/track/3ywpJWfy6OA2DIZVYDqVt5) | [Jon Santana](https://open.spotify.com/artist/05XxXeBmy0Kge0WdgDfj05), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Blue Eyed Buck](https://open.spotify.com/album/2KeXE0UPTzV7zoEMfg344N) | 2:22 |
 | 31 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 |
 | 32 | [So Fine](https://open.spotify.com/track/4fWcqE5zqaaam4s5qiDWBu) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [So Fine](https://open.spotify.com/album/0OxrTAy27NMDQt7Fz5liwJ) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Seltsam
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,726 likes - 106 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,616 likes - 106 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

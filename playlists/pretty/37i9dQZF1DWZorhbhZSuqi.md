@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > to the people who look at the stars and wish 🧚‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,906 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,909 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

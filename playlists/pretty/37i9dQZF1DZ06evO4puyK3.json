@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 165381,
+  "num_followers": 165389,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADZtU+UpMsesjA8FuJ04vjJ",
+  "snapshot_id": "aGHTgAAAAAC4rQ+FaRI4uDoh8Kw6j4yJ",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suplicar",
+        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Suplicar",
+      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Sil\u00eancio Que Grita",
         "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 190196,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/4HYZYfXAeETot63750cbxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suplicar",
-        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Suplicar",
-      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
     },
     {
       "added_at": null,

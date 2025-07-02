@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "VVVV",
+        "url": "https://open.spotify.com/album/5YIFQJSIdQUDwFsjiVYrEG"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "BACKBENCHER",
+      "url": "https://open.spotify.com/track/2usZ3mwqhynCm7nz9HmZux"
+    },
+    {
+      "album": {
         "name": "Fear Joy",
         "url": "https://open.spotify.com/album/5IwhhpakdKOhmPX8W9EbXG"
       },
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 203637,
       "name": "BEBASI",
       "url": "https://open.spotify.com/track/4Hp0NDzLa9wkwcLGxvDrap"
@@ -3822,6 +3840,28 @@
       "duration_ms": 209147,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/4xCFv3QBK1dgEaSBdv3oSQ"
+    },
+    {
+      "album": {
+        "name": "Calendar Flow",
+        "url": "https://open.spotify.com/album/71CAWPcvhcxBAwPACRCU0J"
+      },
+      "artists": [
+        {
+          "name": "MC Altaf",
+          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
+        },
+        {
+          "name": "Zero Chill",
+          "url": "https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Calendar Flow",
+      "url": "https://open.spotify.com/track/2RL8opPneGmBM9rEvcNHnr"
     },
     {
       "album": {
@@ -8164,7 +8204,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 144955,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0wo6n2DTPonukTYqtd6bFf"
@@ -9461,6 +9501,28 @@
     },
     {
       "album": {
+        "name": "Jobless",
+        "url": "https://open.spotify.com/album/1ysqeo5pVtFYlFAort3U9W"
+      },
+      "artists": [
+        {
+          "name": "Asif Razza",
+          "url": "https://open.spotify.com/artist/64sWVF7XVNGqdqcNO309Fd"
+        },
+        {
+          "name": "Jagjit",
+          "url": "https://open.spotify.com/artist/1VGdqt8AgZdXOE04qs9l8C"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159941,
+      "name": "Jobless",
+      "url": "https://open.spotify.com/track/1wynK4dUiRyr524nhJHVUG"
+    },
+    {
+      "album": {
         "name": "Joota Japani",
         "url": "https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK"
       },
@@ -9704,6 +9766,24 @@
       "duration_ms": 135167,
       "name": "Kaali Gaddi",
       "url": "https://open.spotify.com/track/2fp7ibEUx13oq4CkmKS6k1"
+    },
+    {
+      "album": {
+        "name": "Kaali Kaali Aankhein",
+        "url": "https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206015,
+      "name": "Kaali Kaali Aankhein",
+      "url": "https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU"
     },
     {
       "album": {
@@ -10820,7 +10900,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 196500,
       "name": "Kya Mai Karu Bol?",
       "url": "https://open.spotify.com/track/6DZamcQk7mqWvMZu6d7v31"
@@ -14955,6 +15035,32 @@
     },
     {
       "album": {
+        "name": "VVVV",
+        "url": "https://open.spotify.com/album/5YIFQJSIdQUDwFsjiVYrEG"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        },
+        {
+          "name": "Siyaahi",
+          "url": "https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb"
+        },
+        {
+          "name": "K!LLSWITCH",
+          "url": "https://open.spotify.com/artist/5tpLviK5ROsONd867VwS28"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149677,
+      "name": "PAYCHECK",
+      "url": "https://open.spotify.com/track/6LZaElOslYuYOL2DnRZ3ZR"
+    },
+    {
+      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/1MG5oTtA0KSwxxiYs11XKR"
       },
@@ -15510,7 +15616,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 208004,
       "name": "Raat Andheri",
       "url": "https://open.spotify.com/track/76BvBvBDYjkvkPUmTW9A1x"
@@ -16818,7 +16924,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 165176,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/6lKiKqKIcNrj9hia7xejMF"
@@ -17950,7 +18056,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 196153,
       "name": "TASKAR",
       "url": "https://open.spotify.com/track/6EVxFgKHC2vVH9BtJPyo4Y"
@@ -18222,6 +18328,28 @@
       "duration_ms": 114957,
       "name": "THAPPAD!",
       "url": "https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y"
+    },
+    {
+      "album": {
+        "name": "VVVV",
+        "url": "https://open.spotify.com/album/5YIFQJSIdQUDwFsjiVYrEG"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        },
+        {
+          "name": "Prathamesh",
+          "url": "https://open.spotify.com/artist/1s3KIr4EL3Qm033fYAn6sf"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "THAT SHIT HARD",
+      "url": "https://open.spotify.com/track/572Vynj6eDfRbYuGtsjmpF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,788 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,814 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 45 | [Girl It's True, Yes I'll Always Love You](https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Stone Gon'](https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR) | 8:40 |
 | 46 | [Staying Power](https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 6:10 |
 | 47 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
-| 48 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
-| 49 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
+| 48 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
+| 49 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
 | 50 | [The Erotic Garden \- After Hours Version Of Secret Garden](https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Unlimited](https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua) | 8:52 |
 
-Snapshot ID: `aGCCAAAAAADXgRo5quR7NFBb22N6fjpv`
+Snapshot ID: `aGHTgAAAAACNEq/pGc+bsJmJDGNw5V1w`

@@ -5612,7 +5612,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 145473,
       "name": "EL LOKERON",
       "url": "https://open.spotify.com/track/6X6m4xmdFcz31p1h7Qg68c"
@@ -8184,7 +8184,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -9547,6 +9547,28 @@
     },
     {
       "album": {
+        "name": "La Pantera",
+        "url": "https://open.spotify.com/album/0AXPYYhLk3997LVKYTreIT"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "La Pantera",
+      "url": "https://open.spotify.com/track/0TOQQZVCZdMFMxzHT6WEtD"
+    },
+    {
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -10116,7 +10138,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 159522,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA"
@@ -18800,7 +18822,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
@@ -20438,7 +20460,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"

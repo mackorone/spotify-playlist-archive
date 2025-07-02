@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 101749,
+  "num_followers": 101798,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Given To The Wild",
+        "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "When The Night (Deluxe)",
         "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 210746,
       "name": "Let\u2019s Go",
       "url": "https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Given To The Wild",
-        "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
-      },
-      "artists": [
-        {
-          "name": "The Maccabees",
-          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Pelican",
-      "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 314986,
       "name": "Taro",
       "url": "https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 232132,
-      "name": "That's What's Up",
-      "url": "https://open.spotify.com/track/5njddWcaUd9FQFJJaSOCze"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 232132,
+      "name": "That's What's Up",
+      "url": "https://open.spotify.com/track/5njddWcaUd9FQFJJaSOCze"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Candy Bar Creep Show",
-        "url": "https://open.spotify.com/album/3haeyF5mrvhNtZvTxoIxxb"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
       "artists": [
         {
-          "name": "MS MR",
-          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/4LidQrfqHouXmnAWlJu5vO"
+      "duration_ms": 182666,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/1LfKHwrMydWNruvTonm0eO"
     }
   ],
   "unique_name": "Best of Indie 2012",

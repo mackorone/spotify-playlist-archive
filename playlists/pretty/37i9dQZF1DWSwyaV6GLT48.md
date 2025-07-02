@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,937 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,994 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 71 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 72 | [My Type](https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type](https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE) | 3:26 |
 | 73 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |
-| 74 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
-| 75 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 |
+| 74 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 |
+| 75 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
 | 76 | [Changes \- Radio Mix](https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changes](https://open.spotify.com/album/5T513gBStZcClfbKCRkE9E) | 3:22 |
 | 77 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
 | 78 | [A\-Punk](https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:17 |

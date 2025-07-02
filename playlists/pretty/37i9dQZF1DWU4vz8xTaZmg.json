@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 73634,
+  "num_followers": 73636,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 244444,
-      "name": "Otro Atardecer",
-      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Shawn Mendes (Deluxe)",
         "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 190799,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 244444,
+      "name": "Otro Atardecer",
+      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -267,42 +267,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Space Cadet (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -323,6 +287,42 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Space Cadet (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Nos Siguen Pegando Abajo",
-      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Gondwana",
         "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 292800,
       "name": "Sentimiento Original",
       "url": "https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Devorando Intensidad",
         "url": "https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 268998,
       "name": "El Riesgo",
       "url": "https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Goin Baby",
-      "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "Dirt Bag",
         "url": "https://open.spotify.com/album/4eAiHYd3nih3os2BqHm0vt"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 151146,
       "name": "Daddy (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/4hanO6Du5J7QEguNHYZHmw"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Goin Baby",
+      "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
     },
     {
       "added_at": "2025-04-04 03:00:17",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2025-04-04 03:00:17",
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "Baby Sitter (feat. Offset)",
-      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
-    },
-    {
-      "added_at": "2025-04-04 03:00:17",
-      "album": {
         "name": "LOVE FOR GUALA",
         "url": "https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 224915,
       "name": "How I Move (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/14X1WxiHXdVRJ99cMCBzOE"
+    },
+    {
+      "added_at": "2025-04-04 03:00:17",
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
     }
   ],
   "unique_name": "Antidomingo",

@@ -4,7 +4,7 @@
 
 > When you're thinking of the one who gives you the butterflies.
 
-132 songs - 7 hr 16 min
+133 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-12 |  |
 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 | 2023-07-12 |  |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2023-07-12 |  |
+| [Favorite Flower](https://open.spotify.com/track/2SbPpCY3aoaP0RnjF8gZOw) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB) | [J + S](https://open.spotify.com/album/53tn2Riamwag8e1kTksooi) | 2:23 | 2025-07-01 |  |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-03-21 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2023-07-12 |  |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2024-10-11 |  |
@@ -64,7 +65,7 @@
 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 | 2023-07-12 | 2023-09-13 |
 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 | 2023-07-12 |  |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2023-07-12 |  |
-| [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 | 2024-03-08 |  |
+| [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 | 2024-03-08 | 2025-07-02 |
 | [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 | 2023-09-04 | 2024-10-12 |
 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2023-07-12 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2023-07-12 |  |

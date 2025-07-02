@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 
 > Os maiores hits do pop dos últimos tempos estão reunidos nesta playlist! Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,221 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,284 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 55 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
 | 56 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 | 57 | [Can't Remember to Forget You \(feat\. Rihanna\)](https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:26 |
-| 58 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 |
-| 59 | [Drag Me Down](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
+| 58 | [Drag Me Down](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
+| 59 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 |
 | 60 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 61 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 62 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 77 | [Touch My Body](https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:24 |
 | 78 | [Diva](https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:20 |
 | 79 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
-| 80 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 |
+| 80 | [The Sweet Escape](https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU) | 4:06 |
 | 81 | [Only Girl \(In The World\)](https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 3:55 |
-| 82 | [The Sweet Escape](https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU) | 4:06 |
+| 82 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 |
 | 83 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 |
 | 84 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 |
 | 85 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |

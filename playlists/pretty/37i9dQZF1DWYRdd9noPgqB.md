@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,031 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,042 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 8 | [Joking](https://open.spotify.com/track/1XJKUkTvBkf20razODzMVp) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Joking](https://open.spotify.com/album/7xMaPPrAPdeAvVXTYuIzo9) | 2:38 |
 | 9 | [Gasoline](https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:39 |
 | 10 | [Submarine](https://open.spotify.com/track/0QSlgbKl5MZW7AbjTbj8jw) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo](https://open.spotify.com/album/7gE23KRzNbXeB6nZmQVqa3) | 4:45 |
-| 11 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 11 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 12 | [Marguerita](https://open.spotify.com/track/6epwUk5pVSWjnYGNJgYNzm) | [Rémi Klein](https://open.spotify.com/artist/06JZ26vMJOjeIjwG35mP7e) | [Marguerita](https://open.spotify.com/album/4ReX9ZxdlLE3AeVnqfjTxc) | 3:34 |
 | 13 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
 | 14 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 |

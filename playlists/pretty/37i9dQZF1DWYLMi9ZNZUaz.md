@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,183 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,228 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 40 | [Mời Em](https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mcee Blue](https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:23 |
 | 41 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
 | 42 | [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 |
-| 43 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
-| 44 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
+| 43 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
+| 44 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
 | 45 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
 | 46 | [NGÁO NGƠ \(feat\. HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL & Orange\)](https://open.spotify.com/track/64PCybDxes3edHijrcsPV4) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Anh Tú Atus](https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo), [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [ANH TRAI "SAY HI", Tập 7](https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ) | 4:12 |
 | 47 | [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 |

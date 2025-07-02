@@ -1,15 +1,31 @@
 {
-  "description": "Mujeres a todo volumen, con Katteyes en portada. ",
+  "description": "Mujeres a todo volumen, con Seamoon en portada. ",
   "num_followers": 14749,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBLj0gAAAAD2//o+a5CNiayawYvpxHm+",
+  "snapshot_id": "aGSgyQAAAAAtjj8D1NWJlU0/1Lj43VLm",
   "tracks": [
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
+      "album": {
+        "name": "ESQUIVA",
+        "url": "https://open.spotify.com/album/7J9z4mnz4I5zwZgZrFVwo4"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 208714,
+      "name": "ESQUIVA",
+      "url": "https://open.spotify.com/track/6Wxm4ETl1UHPRf4GJhfNOe"
+    },
+    {
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "PONTE LOKITA",
         "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
@@ -33,7 +49,7 @@
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Conv\u00e9ncete (Remix)",
         "url": "https://open.spotify.com/album/4tmbV9VHWjdlaDu1YK3yQO"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/4OA8RnYn0HIQMBDgIFnrJu"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "As\u00ed Soy",
         "url": "https://open.spotify.com/album/5UaLXLldJkPjdjsjm6zaZ5"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/3ZTd26yeOXIAnXwkTJjifV"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "epistolares",
         "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
@@ -97,7 +113,39 @@
       "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
+      "album": {
+        "name": "Faro",
+        "url": "https://open.spotify.com/album/6dTauP2OCwTVcfpKwwC8F2"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Faro",
+      "url": "https://open.spotify.com/track/26B4rsQwRJDwCKw2qHqZzF"
+    },
+    {
+      "added_at": "2025-07-02 03:00:25",
+      "album": {
+        "name": "Febrero",
+        "url": "https://open.spotify.com/album/4mmcM1ZG1UvRcpqnlX22M3"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "duration_ms": 164985,
+      "name": "Febrero",
+      "url": "https://open.spotify.com/track/4LIVoYHPiHaxQZAnsEe4sI"
+    },
+    {
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "TONINI",
         "url": "https://open.spotify.com/album/53QbHt39FFQ8O27HrWlnCr"
@@ -117,23 +165,7 @@
       "url": "https://open.spotify.com/track/0rYGGxF4VitfzCyw3zmhlN"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
-      "album": {
-        "name": "Febrero",
-        "url": "https://open.spotify.com/album/4mmcM1ZG1UvRcpqnlX22M3"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        }
-      ],
-      "duration_ms": 164985,
-      "name": "Febrero",
-      "url": "https://open.spotify.com/track/4LIVoYHPiHaxQZAnsEe4sI"
-    },
-    {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "POSE\u00cdDA",
         "url": "https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB"
@@ -149,27 +181,7 @@
       "url": "https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
-      "album": {
-        "name": "besitos, cu\u00eddate",
-        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 175505,
-      "name": "nasty",
-      "url": "https://open.spotify.com/track/2WXMvFkfCn938wlvJxttAN"
-    },
-    {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "epistolares",
         "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
@@ -189,7 +201,43 @@
       "url": "https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
+      "album": {
+        "name": "besitos, cu\u00eddate",
+        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 175505,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/2WXMvFkfCn938wlvJxttAN"
+    },
+    {
+      "added_at": "2025-07-02 03:00:25",
+      "album": {
+        "name": "VAHO",
+        "url": "https://open.spotify.com/album/0p0TrR0g3NL45wDHct9jZK"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 98666,
+      "name": "VAHO",
+      "url": "https://open.spotify.com/track/04CGu5VJS4alxvC6DVlr0a"
+    },
+    {
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "LIMPIATE ADIKTA",
         "url": "https://open.spotify.com/album/16tkJk6H52E1Sz1MB1Prso"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/4oKyMskkHElqwWExL18XDR"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "acaramelada",
         "url": "https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "FICA PAPI",
         "url": "https://open.spotify.com/album/1fiww3hEVjJUeU2tL43sFO"
@@ -245,7 +293,7 @@
       "url": "https://open.spotify.com/track/6qFJRXEdL4DYDhle6D2hsq"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "ESTAMINA",
         "url": "https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Volar",
         "url": "https://open.spotify.com/album/6Nehd9XhkZFYsIJwuOUWEH"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/6TTrUdM6iRVzeruzdfC9yZ"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Triste, Linda y Bellaka: El \u00c1lbum",
         "url": "https://open.spotify.com/album/6HlyIfhKuYTdTN79aYvpXQ"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/2NPJMuB6vJV7aqinVvjO42"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "inmortal",
         "url": "https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "ANNA Vol2. EL OJO DE MI FRENTE",
         "url": "https://open.spotify.com/album/1bwYAzwTb5drWveYL6eXyU"
@@ -345,7 +393,7 @@
       "url": "https://open.spotify.com/track/3eTm0jYwUO0tFAPDoWxKU3"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Solteras",
         "url": "https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "BEBE VEN Y BELLAKEAME",
         "url": "https://open.spotify.com/album/2ykhlqef20bSvWtpRuHmdH"
@@ -389,7 +437,7 @@
       "url": "https://open.spotify.com/track/5YKO4wsrPaa8qgd3evFdIj"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Quiz\u00e1s",
         "url": "https://open.spotify.com/album/7vjHz9VqvjJJGUHgO5DGpu"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/79ZxTFIe1mM6qKLL2uBEmc"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Espa\u00f1a",
         "url": "https://open.spotify.com/album/2IzWxuy73g719MUV8mmntz"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/1tBpI4LbFaRNwBfvY4gucR"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "XULA",
         "url": "https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "V\u00edbora",
         "url": "https://open.spotify.com/album/5DXD7N3CDHWuh7Wb20U6gN"
@@ -461,7 +509,7 @@
       "url": "https://open.spotify.com/track/4Hp7tnvW7AuxrM3EZosWit"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "LA CLASSE DELUXE",
         "url": "https://open.spotify.com/album/49r75OH4osyX18regUrHDy"
@@ -485,7 +533,7 @@
       "url": "https://open.spotify.com/track/7cZZvIsvAY6MVmhKR4qWqt"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Tus Mentiras",
         "url": "https://open.spotify.com/album/0KlPSEZoVeRN37yRBYiJcr"
@@ -505,7 +553,7 @@
       "url": "https://open.spotify.com/track/0ysopZtFhKe8DOfKEz4TE8"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Bellakita",
         "url": "https://open.spotify.com/album/0T9Uvf8QusjsTncxnWQlbC"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/1tT99w1XFJlJknlm6FttUX"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5KOltlYrX4bhElNF7Zl1Rr"
@@ -549,7 +597,7 @@
       "url": "https://open.spotify.com/track/1NnZ7emUfCZusbO91f52vD"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "MI ULTIMO DESEO",
         "url": "https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5"
@@ -565,7 +613,7 @@
       "url": "https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "LA CLASSE DELUXE",
         "url": "https://open.spotify.com/album/49r75OH4osyX18regUrHDy"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/31tYK58uxznuO2KYltOJQQ"
     },
     {
-      "added_at": "2025-05-01 03:00:34",
+      "added_at": "2025-07-02 03:00:25",
       "album": {
         "name": "Bad Girl",
         "url": "https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC"

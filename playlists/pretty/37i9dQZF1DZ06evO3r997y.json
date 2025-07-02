@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADzJ8NUtWqkxwnTZwVFFRHp",
+  "snapshot_id": "aGHTgAAAAADQhuCZV7m4yYFkSFF1ZzRT",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Style",
-        "url": "https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Dear My Distance",
-      "url": "https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 261306,
       "name": "Dear Doze Days",
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Dear My Distance",
+      "url": "https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
-      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 211613,
       "name": "\u6df1\u591c\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/1VFiqzQ8xiq7fdbM9q4kxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
+      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 261440,
-      "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973",
-      "url": "https://open.spotify.com/track/1LL34cI74PJCGJq6i3o5s1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 262920,
       "name": "Follow me!",
       "url": "https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 261440,
+      "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973",
+      "url": "https://open.spotify.com/track/1LL34cI74PJCGJq6i3o5s1"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Drawing a Wish",
-      "url": "https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
@@ -315,38 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "DEAD or CALL MY NAME",
-      "url": "https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 200853,
-      "name": "\u9752\u306e\u4e00\u30b3\u30de",
-      "url": "https://open.spotify.com/track/6rTYNf6AmB64jbmSbt6JUw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
       },
@@ -356,25 +308,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 241160,
-      "name": "INNOCENT",
-      "url": "https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
+      "duration_ms": 195080,
+      "name": "Drawing a Wish",
+      "url": "https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB"
     },
     {
       "added_at": null,
@@ -395,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
       "artists": [
         {
@@ -404,9 +340,25 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 209213,
-      "name": "FLAMES",
-      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
+      "duration_ms": 231866,
+      "name": "DEAD or CALL MY NAME",
+      "url": "https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
     },
     {
       "added_at": null,
@@ -420,9 +372,25 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 264760,
-      "name": "Fly-High-Five!",
-      "url": "https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc"
+      "duration_ms": 241160,
+      "name": "INNOCENT",
+      "url": "https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 200853,
+      "name": "\u9752\u306e\u4e00\u30b3\u30de",
+      "url": "https://open.spotify.com/track/6rTYNf6AmB64jbmSbt6JUw"
     },
     {
       "added_at": null,
@@ -443,6 +411,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "With a Wish",
+        "url": "https://open.spotify.com/album/3SluHCkyfKF9wngEBOWT7M"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Eternally",
+      "url": "https://open.spotify.com/track/3Qa4XkazoM3bHBo9635NWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 264760,
+      "name": "Fly-High-Five!",
+      "url": "https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "FLAMES",
+      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u5922\u306e\u7cf8",
         "url": "https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP"
       },
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "With a Wish",
-        "url": "https://open.spotify.com/album/3SluHCkyfKF9wngEBOWT7M"
+        "name": "Magie\u00d7Magie",
+        "url": "https://open.spotify.com/album/5Nymj45jme7PoBC6z8FCGU"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Eternally",
-      "url": "https://open.spotify.com/track/3Qa4XkazoM3bHBo9635NWT"
+      "duration_ms": 244053,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30b0\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magie\u00d7Magie",
-        "url": "https://open.spotify.com/album/5Nymj45jme7PoBC6z8FCGU"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "\u30a2\u30d5\u30bf\u30fc\u30b0\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 184626,
-      "name": "BYERONY",
-      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
+      "duration_ms": 253040,
+      "name": "illminate",
+      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Unchained mind",
-      "url": "https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire Again",
         "url": "https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Unchained mind",
+      "url": "https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 253040,
-      "name": "illminate",
-      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
+      "duration_ms": 184626,
+      "name": "BYERONY",
+      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
     },
     {
       "added_at": null,

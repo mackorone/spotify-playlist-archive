@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-342 songs - 18 hr 42 min
+343 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Hall of the Mountain King](https://open.spotify.com/track/6Ck7C5rO2I5sBBxIksPmYp) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Path Of Passion](https://open.spotify.com/album/3SkFXqcFzEwXLVYWZTkb1P) | 3:03 | 2023-12-04 | 2024-06-28 |
 | [Halleluya \- The Dark Horror Remix](https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp) | [LSD](https://open.spotify.com/artist/29UCoWXa1AR4xrtymc82l4), [D\-Element](https://open.spotify.com/artist/7G0VfvskohR6COYMHwPizU), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Halleluya \- The F\*cked Up Remixes](https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC) | 3:08 | 2022-12-08 | 2023-09-02 |
 | [Hard 2 The Core](https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hard 2 The Core](https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ) | 2:56 | 2023-05-15 | 2023-06-30 |
+| [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 | 2025-07-01 |  |
 | [Hard Knock Life](https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Hard Knock Life](https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ) | 3:35 | 2022-12-08 | 2023-12-22 |
 | [Hardcore By Nature \(Official Titanium Festival 2022 Anthem\) \- Radio Edit](https://open.spotify.com/track/4Vss1bAPHkVTVbxURknLwL) | [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Hardcore By Nature](https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ) | 3:21 | 2022-12-08 | 2023-06-30 |
 | [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 | 2023-10-12 | 2024-09-10 |
@@ -198,7 +199,7 @@
 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 | 2024-06-13 | 2025-04-06 |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
-| [Mambo Italiano](https://open.spotify.com/track/1y6QYYCh7Jp0hwAsu7gWTf) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Mambo Italiano](https://open.spotify.com/album/7BRteG2b8skCcFxtoBKWew) | 1:49 | 2025-04-25 |  |
+| [Mambo Italiano](https://open.spotify.com/track/1y6QYYCh7Jp0hwAsu7gWTf) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Mambo Italiano](https://open.spotify.com/album/7BRteG2b8skCcFxtoBKWew) | 1:49 | 2025-04-25 | 2025-07-02 |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
 | [Melancholic Life](https://open.spotify.com/track/0LOWVfO6x8azUYQOD20i1Y) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Melancholic Life](https://open.spotify.com/album/2VVqBCyVe21ygdQ8NUVWHE) | 4:32 | 2025-02-07 | 2025-02-11 |
 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 | 2025-02-27 |  |

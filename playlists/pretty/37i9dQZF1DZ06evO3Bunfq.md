@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,144 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,154 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 38 | [El Bolsón](https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Bolsón](https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe) | 3:51 |
 | 39 | [Tony Montana \(feat\. Tornillo\)](https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:47 |
 | 40 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 |
-| 41 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
-| 42 | [Mecha Corta](https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mecha Corta](https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA) | 3:30 |
+| 41 | [Mecha Corta](https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mecha Corta](https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA) | 3:30 |
+| 42 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
 | 43 | [No tengo amigos](https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:27 |
 | 44 | [La Misión \(Episodio 4\)](https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [La Misión \(Episodio 4\)](https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e) | 4:53 |
-| 45 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
-| 46 | [Retumbando en la Ciudad](https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36) | 3:34 |
+| 45 | [Retumbando en la Ciudad](https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36) | 3:34 |
+| 46 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
 | 47 | [Si la muerte pregunta](https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:29 |
 | 48 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 | 49 | [Todo El Barrio](https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Da Street Album](https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z) | 2:20 |
 | 50 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
 
-Snapshot ID: `aGCCAAAAAACy1ahR8VNcuJYXpZSJ7JRy`
+Snapshot ID: `aGHTgAAAAAAfUE6Rek5H54ELUrSFiO/g`

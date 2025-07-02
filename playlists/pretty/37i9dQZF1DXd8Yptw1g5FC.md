@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Norm Ender x Ebru Gündeş ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,844 likes - 114 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,893 likes - 114 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

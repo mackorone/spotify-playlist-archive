@@ -1,6 +1,6 @@
 {
   "description": "Puras rolitas pa' empinar el codo.",
-  "num_followers": 1150195,
+  "num_followers": 1150356,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2025-03-07 06:20:22",
+      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+      "duration_ms": 180871,
+      "name": "El Taquicardio",
+      "url": "https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW"
     },
     {
       "added_at": "2025-03-07 06:20:22",
@@ -855,22 +871,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2025-03-07 06:20:22",
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180871,
-      "name": "El Taquicardio",
-      "url": "https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW"
     },
     {
       "added_at": "2025-03-07 06:20:22",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
-        "name": "Dolido Pero No Arrepentido",
-        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 147877,
-      "name": "Enculado",
-      "url": "https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH"
-    },
-    {
-      "added_at": "2025-03-07 06:20:22",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2025-03-07 06:20:22",
+      "album": {
+        "name": "Dolido Pero No Arrepentido",
+        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 147877,
+      "name": "Enculado",
+      "url": "https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH"
     },
     {
       "added_at": "2025-03-07 06:20:22",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2025-03-07 06:20:22",
+      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2025-03-07 06:20:22",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2025-03-07 06:20:22",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 156908,
+      "name": "Malditas Ganas",
+      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
+    },
+    {
+      "added_at": "2025-03-07 06:20:22",
+      "album": {
         "name": "Apaga El Cel",
         "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 170832,
       "name": "Apaga El Cel",
       "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
-    },
-    {
-      "added_at": "2025-03-07 06:20:22",
-      "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 156908,
-      "name": "Malditas Ganas",
-      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
     },
     {
       "added_at": "2025-03-07 06:20:22",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "added_at": "2025-03-07 06:20:22",
+      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
-    },
-    {
-      "added_at": "2025-03-07 06:20:22",
-      "album": {
-        "name": "Di Que Si",
-        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que Si",
-      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
       "added_at": "2025-03-07 06:20:22",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": "2025-03-07 06:20:22",
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s"
+    },
+    {
+      "added_at": "2025-03-07 06:20:22",
+      "album": {
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2025-03-07 06:20:22",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-03-07 06:20:22",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2025-03-07 06:20:22",
-      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
+    },
+    {
+      "added_at": "2025-03-07 06:20:22",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2025-03-07 06:20:22",

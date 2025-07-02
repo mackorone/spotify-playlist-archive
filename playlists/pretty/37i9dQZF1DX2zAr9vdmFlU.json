@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 441884,
+  "num_followers": 441877,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Mar Y Cielo",
-      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 180648,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Mar Y Cielo",
+      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -811,22 +811,18 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Tiene Sabor",
-        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
+        "name": "Quemar La Casa",
+        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Valent\u00edn Puentes",
-          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
         }
       ],
-      "duration_ms": 240562,
-      "name": "Tiene Sabor",
-      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
+      "duration_ms": 243356,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -867,18 +863,22 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Quemar La Casa",
-        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
+        "name": "Tiene Sabor",
+        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
       "artists": [
         {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Valent\u00edn Puentes",
+          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
         }
       ],
-      "duration_ms": 243356,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
+      "duration_ms": 240562,
+      "name": "Tiene Sabor",
+      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
         "name": "Danz\u00f3n Para La Espera",
         "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 313750,
       "name": "Grietas",
       "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
-      },
-      "artists": [
-        {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
-        }
-      ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Rosalie (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rosalie (Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "sweet nothings",
         "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 138151,
       "name": "sweet nothings",
       "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
+        "name": "Rosalie (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rosalie (Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
     },
     {
       "added_at": "2025-05-22 20:40:01",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-05-22 20:40:01",
       "album": {
-        "name": "Harissa",
-        "url": "https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo"
-      },
-      "artists": [
-        {
-          "name": "AvenREC",
-          "url": "https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB"
-        }
-      ],
-      "duration_ms": 183702,
-      "name": "No S\u00e9 Que Hacer",
-      "url": "https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh"
-    },
-    {
-      "added_at": "2025-05-22 20:40:01",
-      "album": {
         "name": "Nobreza",
         "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 182234,
       "name": "Me Das",
       "url": "https://open.spotify.com/track/6zBkexycHADArkud3zGT6x"
+    },
+    {
+      "added_at": "2025-05-22 20:40:01",
+      "album": {
+        "name": "Harissa",
+        "url": "https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo"
+      },
+      "artists": [
+        {
+          "name": "AvenREC",
+          "url": "https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB"
+        }
+      ],
+      "duration_ms": 183702,
+      "name": "No S\u00e9 Que Hacer",
+      "url": "https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh"
     },
     {
       "added_at": "2025-05-22 20:40:01",

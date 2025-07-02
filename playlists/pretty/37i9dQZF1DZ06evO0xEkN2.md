@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,074 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,125 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 42 | [Rojo](https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rojo](https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO) | 3:06 |
 | 43 | [Amargo Adios](https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:01 |
 | 44 | [C.D.A.](https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:36 |
-| 45 | [Lamento De Amor](https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rigo Es Amor](https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26) | 3:15 |
-| 46 | [Un Derecho de Nacimiento](https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 5:21 |
+| 45 | [Un Derecho de Nacimiento](https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 5:21 |
+| 46 | [Lamento De Amor](https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rigo Es Amor](https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26) | 3:15 |
 | 47 | [Sobreviviré](https://open.spotify.com/track/6gVV28leSTAI70fV8fVP7L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sobreviviré](https://open.spotify.com/album/0QStKql1TfAGFQhHbt9cUF) | 3:57 |
 | 48 | [Seguir Bailando](https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:57 |
 | 49 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
 | 50 | [Inocente Pobre Amigo](https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:41 |
 
-Snapshot ID: `aGCCAAAAAAAVE5PUcLAVsnK7gZ9ZByaG`
+Snapshot ID: `aGHTgAAAAADKNH+0E0Al7KE7/r7JtOdk`

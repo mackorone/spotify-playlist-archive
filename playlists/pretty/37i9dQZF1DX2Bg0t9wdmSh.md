@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,797 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,804 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 7 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 8 | [Said Sum](https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:35 |
 | 9 | [Mr\. Right Now \(feat\. Drake\)](https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 |
-| 10 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
-| 11 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
+| 10 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
+| 11 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
 | 12 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 |
 | 13 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 6:23 |
 | 14 | [Whoopty](https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Whoopty](https://open.spotify.com/album/5oBYG6dEI2Er6EeLnmonGE) | 2:03 |

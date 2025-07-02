@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,021 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,122 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 44 | [We Just Disagree](https://open.spotify.com/track/7qpuECko60EoztznowMWj1) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775) | [Super Hits](https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH) | 3:00 |
 | 45 | [The Pretender](https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Pretender](https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8) | 5:51 |
 | 46 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
-| 47 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
-| 48 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
+| 47 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
+| 48 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
 | 49 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
 | 50 | [Make Believe](https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 3:43 |
 | 51 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
 | 52 | [Smoke from a Distant Fire](https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T) | [Sanford Townsend Band](https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0) | [Smoke From A Distant Fire](https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX) | 3:33 |
-| 53 | [I Was Only Joking](https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Foot Loose & Fancy Free](https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg) | 6:07 |
-| 54 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
+| 53 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
+| 54 | [I Was Only Joking](https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Foot Loose & Fancy Free](https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg) | 6:07 |
 | 55 | [Chevy Van](https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw) | [Sammy Johns](https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH) | [Sammy Johns](https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z) | 2:59 |
 | 56 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini?](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
 | 57 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |

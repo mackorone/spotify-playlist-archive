@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,615 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,695 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 32 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
 | 33 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
 | 34 | [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 |
-| 35 | [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 |
-| 36 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
+| 35 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
+| 36 | [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 |
 | 37 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
 | 38 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
 | 39 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 82 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 |
 | 83 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
 | 84 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
-| 85 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
-| 86 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
+| 85 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
+| 86 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
 | 87 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 88 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
 | 89 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Melanie Fiona
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,763 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,766 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

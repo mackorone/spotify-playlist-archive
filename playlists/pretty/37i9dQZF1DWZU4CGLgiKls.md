@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 
 > Se viene el partido, la previa es con música!
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,550 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,536 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 62 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
 | 63 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
 | 64 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
-| 65 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 |
+| 65 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
 
 Snapshot ID: `Z9MfNAAAAAD9mIwY0fpjr+VNsU7Zit9J`

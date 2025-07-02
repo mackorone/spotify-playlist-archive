@@ -4,7 +4,7 @@
 
 > The songs of the 1990s that will make you dance all summer long!
 
-183 songs - 12 hr 13 min
+184 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2022-04-16 |  |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2022-06-14 | 2024-04-19 |
 | [Bidi Bidi Bom Bom \- 1994 Version](https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:30 | 2022-04-16 | 2022-06-14 |
+| [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 4:12 | 2025-07-01 |  |
 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2022-04-16 |  |
 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 | 2022-04-16 |  |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 | 2022-06-14 | 2024-03-08 |
@@ -168,7 +169,7 @@
 | [The Power \(7" Version\)](https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Power](https://open.spotify.com/album/02RKBqDzmc2uSo3L1CZM04) | 3:47 | 2023-06-16 | 2024-04-19 |
 | [The Rhythm of the Night](https://open.spotify.com/track/3L9RIFcNF9IDGPRE96EO7N) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [Disco 90's](https://open.spotify.com/album/385wsbH2dVjZDB9rdVOHUH) | 4:24 | 2023-06-16 |  |
 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 | 2022-04-16 |  |
-| [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 | 2023-06-16 |  |
+| [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 | 2023-06-16 | 2025-07-02 |
 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 | 2022-04-16 |  |
 | [Things That Make You Go Hmmmm...\. \(feat\. Freedom Williams\)](https://open.spotify.com/track/4QWU4b9viti7aUefIHrccZ) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 5:22 | 2022-04-16 | 2022-07-29 |
 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 | 2022-04-16 |  |

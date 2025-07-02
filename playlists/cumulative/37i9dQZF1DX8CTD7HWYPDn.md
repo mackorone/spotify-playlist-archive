@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8CTD7HWYPDn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8CTD7HWYPDn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8CTD7HWYPDn)
 
-### [Karaoke 2024](https://open.spotify.com/playlist/37i9dQZF1DX8CTD7HWYPDn)
+### [Karaoke 2025](https://open.spotify.com/playlist/37i9dQZF1DX8CTD7HWYPDn)
 
 > Tu karaoke personal para darlo todo cantando.
 

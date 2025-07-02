@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-343 songs - 17 hr 42 min
+344 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-03 | 2024-02-20 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-12-03 | 2023-12-30 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-04 | 2022-11-13 |
+| [Drugs I Like](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Drugs I Like](https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg) | 3:18 | 2025-07-01 |  |
 | [Eatin' Good](https://open.spotify.com/track/1NIxmZsepizxk5Nv7oxVhP) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/2IsPyuqc8MBTSygIdYibZE) | 3:41 | 2025-01-07 | 2025-05-17 |
 | [Edge](https://open.spotify.com/track/4pCvnGkf7jveRMKHZosxxB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [The Silence Is Deafening](https://open.spotify.com/album/52vZKQID1SqrbDnzE0Je5K) | 3:43 | 2022-01-26 | 2022-04-21 |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-02-06 | 2024-04-19 |
@@ -217,7 +218,7 @@
 | [Music Sounds Better with You](https://open.spotify.com/track/24nL5EXPrdodyCdxXoRRBZ) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3qbSZYqMbVXUzTAAMYFy78) | 3:18 | 2021-12-03 | 2022-06-27 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-13 | 2024-12-07 |
 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 | 2021-12-31 | 2022-07-04 |
-| [Naughty](https://open.spotify.com/track/5bgu3gTNwvi4XaQ2PJTR6z) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Naughty](https://open.spotify.com/album/0B2n2xI3wgqwBjH2lXa7d6) | 3:22 | 2025-06-27 |  |
+| [Naughty](https://open.spotify.com/track/5bgu3gTNwvi4XaQ2PJTR6z) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Naughty](https://open.spotify.com/album/0B2n2xI3wgqwBjH2lXa7d6) | 3:22 | 2025-06-27 | 2025-07-02 |
 | [Never Be Like You](https://open.spotify.com/track/5AWMbJ60z0NmztJ1Edl00K) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/6pFOh9PfVU4NUycoWYkEl2) | 3:54 | 2024-04-19 | 2024-05-01 |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2024-01-12 | 2024-04-19 |
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-12-01 | 2024-01-02 |

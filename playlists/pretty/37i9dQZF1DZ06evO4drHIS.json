@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17274,
+  "num_followers": 17288,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADpLsCPgc3ELshNA2nBIf7r",
+  "snapshot_id": "aGHTgAAAAABrXQJHLxvl8p6w46TjUxVv",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
         "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 225520,
       "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
       "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 185680,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
     },
     {
       "added_at": null,
@@ -583,30 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Beso a Medias",
-        "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez Jr.",
-          "url": "https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 233091,
-      "name": "Un Beso a Medias",
-      "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 224506,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Beso a Medias",
+        "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez Jr.",
+          "url": "https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 233091,
+      "name": "Un Beso a Medias",
+      "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Apartes De M\u00ed",
-        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tik Tik Tik",
         "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 191546,
       "name": "Tik Tik Tik",
       "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": null,

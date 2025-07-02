@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > What\. Was\. That?! Lorde releases new album Virgin at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a> 🩻
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,334 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,294 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 14 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 15 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
 | 16 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
-| 17 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 17 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 18 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 19 | [Family Matters](https://open.spotify.com/track/68STxEDIhToladxl3oGG2x) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Family Matters](https://open.spotify.com/album/04h4i41YIOejEzpwGBnEGM) | 2:57 |
 | 20 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 |

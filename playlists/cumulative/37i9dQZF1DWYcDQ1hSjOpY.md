@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-995 songs - 2 day 0 hr 41 min
+999 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Cynefin](https://open.spotify.com/track/1C9e2HhO9qpMYl1FYg5yBZ) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Cynefin](https://open.spotify.com/album/1GeP88hFXR90DgXtU860ov) | 3:23 | 2021-11-10 | 2024-04-06 |
 | [D'une Certaine Distance](https://open.spotify.com/track/3bUaSIfWsg01lqJW9O5JCS) | [Aintzane Martzel](https://open.spotify.com/artist/48LwBBG7FfBjBUjGdaRCiO) | [D'une Certaine Distance](https://open.spotify.com/album/1XHuFjN6JmqlzCfZ91KRAh) | 2:51 | 2021-11-10 | 2023-05-06 |
 | [Dachaigh](https://open.spotify.com/track/7BqlHggYnNB26lfAw6y7Ch) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Dachaigh](https://open.spotify.com/album/2UnxVf2gBHvYG9GvfGYWPw) | 3:17 | 2021-11-10 | 2024-03-21 |
+| [Dale](https://open.spotify.com/track/36uo4MgUSTwWSf1jm74LQe) | [Twin Sleeps](https://open.spotify.com/artist/6fZ73QzFfEEPCugLWSsuE3) | [Dale](https://open.spotify.com/album/5P1qW9kcJgxGO5Ng7IMOMz) | 2:12 | 2025-07-01 |  |
 | [Dancing Thoughts](https://open.spotify.com/track/79rm3OdsYXQwDZTQOdLU9M) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Dancing Thoughts](https://open.spotify.com/album/6KGNRJTcnjJ4x8KplkHd32) | 3:09 | 2023-10-20 | 2024-02-08 |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2022-06-16 | 2024-05-05 |
 | [Dark Lines](https://open.spotify.com/track/2Sc7CxUDp0zCpJeLNUkK2P) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Dark Lines](https://open.spotify.com/album/0jUS6bsTaTgcwyn0E3OQUY) | 2:50 | 2024-07-09 |  |
@@ -378,6 +379,7 @@
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-02-17 | 2023-07-29 |
 | [For You](https://open.spotify.com/track/3vW3wAJq5ZiTDBN9IlVG3Y) | [Visual Flow](https://open.spotify.com/artist/1JWRuM0jwY2GwjWbCoMKCv) | [For You](https://open.spotify.com/album/78Q9z02wrA7JPEBAqfUTOK) | 2:44 | 2025-02-28 |  |
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-02-09 | 2024-05-05 |
+| [Forever](https://open.spotify.com/track/3QgmKbSDCqtRPddUVfZaQJ) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Forever](https://open.spotify.com/album/57mOqhGCvWhcJrOQs1J3C5) | 2:45 | 2025-07-01 |  |
 | [Fresh Sky](https://open.spotify.com/track/20SlQNNjADqbjAfzlCL1xg) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Fresh Sky](https://open.spotify.com/album/2eXKhTlcj0iQO5CrUxpjDy) | 3:03 | 2024-01-18 |  |
 | [friendship](https://open.spotify.com/track/46FHTWfIlwJmV1hz30FgAx) | [Dalliance Blues](https://open.spotify.com/artist/4gwkNRgkSrQhmyJevVAuCu) | [friendship](https://open.spotify.com/album/4CrQSPAgBUpOEbhnGPIGoT) | 2:05 | 2024-06-13 | 2025-06-18 |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-11-10 | 2024-03-21 |
@@ -513,6 +515,7 @@
 | [Lay Down with Me](https://open.spotify.com/track/7v49py6TF4kTEFXNx3KMBf) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Subtle Perceptions](https://open.spotify.com/album/5wruu2VIx70v132QBLXeex) | 5:01 | 2024-01-18 | 2024-04-16 |
 | [Lazy Day](https://open.spotify.com/track/5UKNlerIjVt1DKTFvVuCsv) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Lazy Day](https://open.spotify.com/album/2tUw2L7aIETEh9UegbTLwS) | 3:48 | 2024-02-27 | 2025-04-02 |
 | [Lenire](https://open.spotify.com/track/2Yc8rAsXiWR5EsupD1pO7w) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Lenire](https://open.spotify.com/album/0mxHswmyQSAfEWIE4klQVe) | 2:32 | 2025-06-03 |  |
+| [Leo Minor](https://open.spotify.com/track/77b1PCipFncBUP0xpkbehw) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Leo Minor](https://open.spotify.com/album/23QK18yRUQoWTjhVrq6paB) | 3:12 | 2025-07-01 |  |
 | [Leuer](https://open.spotify.com/track/7pbCBohVdoqOYHDybtc3mw) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Leuer](https://open.spotify.com/album/76PMsG9N2yaFMIVYPsgRpi) | 3:02 | 2024-03-20 |  |
 | [Levitate](https://open.spotify.com/track/7ouhO49AH3Tnbci1dp6Yvt) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Levitate](https://open.spotify.com/album/5qqv57msfY6G6m7v88a0Xx) | 2:47 | 2024-07-15 |  |
 | [Liberation](https://open.spotify.com/track/2S8zzsvlurouRcb7zbJOz1) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Liberation](https://open.spotify.com/album/7JF9wKUHdFIRxazAFUOMMX) | 2:30 | 2021-11-10 | 2024-02-08 |
@@ -715,6 +718,7 @@
 | [Querencia](https://open.spotify.com/track/4VdLOyYe6ZEyLx0LbYdyvy) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Querencia](https://open.spotify.com/album/6xqRYu3sp4EmrKESzm68tz) | 3:14 | 2021-11-10 | 2024-01-18 |
 | [Quiet](https://open.spotify.com/track/47wZeEB51rxneHGdmVwA63) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Quiet](https://open.spotify.com/album/4gdOCIRKdhVaH4mglrW33m) | 2:17 | 2025-04-29 |  |
 | [Quiet Lake](https://open.spotify.com/track/7lUKUjDzDLcBvQPnkZK0pq) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Quiet Lake](https://open.spotify.com/album/0FHVoflRoaPyg9YkEActnS) | 2:55 | 2024-06-13 |  |
+| [Quiet Light](https://open.spotify.com/track/2xE06YCKl6g8ijAuDi0zFA) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Quiet Light](https://open.spotify.com/album/4SNJ5nQHVkFGghppB5rJNf) | 2:15 | 2025-07-01 |  |
 | [Quiet Shores](https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Quiet Shores](https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i) | 3:43 | 2024-03-20 | 2025-02-15 |
 | [Quiet Stars](https://open.spotify.com/track/7KdBDKcvAKp8DcV4jMbk62) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Quiet Stars](https://open.spotify.com/album/0R6seJn1CnZmDlDpd3RzLg) | 3:12 | 2024-02-07 | 2024-10-16 |
 | [Quintessence](https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Quintessence](https://open.spotify.com/album/5PH13nzrRBq9xYIN89kESf) | 2:51 | 2025-02-14 |  |

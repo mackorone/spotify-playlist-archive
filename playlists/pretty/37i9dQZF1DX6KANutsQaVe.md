@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > The best of rock & alt this year, handpicked by Spotify Canada editors\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,578 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,577 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

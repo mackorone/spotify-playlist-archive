@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285320,
+      "name": "Dizzy Spin",
+      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
+    },
+    {
+      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
       },
@@ -8436,7 +8454,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 227160,
       "name": "Pelican Canyon",
       "url": "https://open.spotify.com/track/49qJvUShIV2XKLvp4KvcBa"

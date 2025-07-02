@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر مع <a href="https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl?si=6m5I27tLRiminIYSION2cw"> احمد موزه   </a>  🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,764 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,092 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 9 | [مالناش كبير كبيرنا فوق](https://open.spotify.com/track/0qX9ZQfcUBFyhOcKGFYEpR) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [مالناش كبير كبيرنا فوق](https://open.spotify.com/album/74GKpgztjUy5B8CZxqM8QF) | 5:16 |
 | 10 | [هنط جامب بالاوكابي](https://open.spotify.com/track/7kNyHl1MLu8p3jQmqRgFgQ) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [هنط جامب بالاوكابي](https://open.spotify.com/album/7tiZjF4gHx4Ocnts7Pb5yP) | 3:32 |
 | 11 | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 |
-| 12 | [طمنيني](https://open.spotify.com/track/02WytyOun59cEcy1LhyGP3) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/48Hqj988XJYOOzaudRAj70) | 3:55 |
+| 12 | [طمنيني](https://open.spotify.com/track/02WytyOun59cEcy1LhyGP3) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [Tameneni](https://open.spotify.com/album/48Hqj988XJYOOzaudRAj70) | 3:55 |
 | 13 | [خمسه عليكي فالته](https://open.spotify.com/track/2jqdLZ9ts1Echt7AaTzYsY) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [خمسه عليكي فالته](https://open.spotify.com/album/788HXbaBgPjdMj9Qt9CNbI) | 3:04 |
 | 14 | [قراميط قراميط و الهلافيت عاملين مظابيط \( صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7ETpUgYD15LDc2j509HKp2) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \( صحبي اللي اداك يدينا \)](https://open.spotify.com/album/0ej0lLO8icWzoIzzRuQokf) | 3:51 |
 | 15 | [بعبع دايرتى](https://open.spotify.com/track/10xPGi2k2sVqeUEH10iNso) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [بعبع دايرتى](https://open.spotify.com/album/67fejejPtGJzNO2i8LKYpI) | 3:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,454 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,618 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

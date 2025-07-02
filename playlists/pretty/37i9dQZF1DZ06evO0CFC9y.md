@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,684 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,694 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Cult Status](https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:57 |
 | 50 | [Trash Bat](https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Trash Bat](https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp) | 2:07 |
 
-Snapshot ID: `aGCCAAAAAACG2Zb+hI5JXhjqHripdAWP`
+Snapshot ID: `aGHTgAAAAACnHKdbwtnkfwY1Y08fnm69`

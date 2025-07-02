@@ -294,6 +294,24 @@
     {
       "album": {
         "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161524,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
+    },
+    {
+      "album": {
+        "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
       },
       "artists": [
@@ -304,7 +322,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 161524,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy"

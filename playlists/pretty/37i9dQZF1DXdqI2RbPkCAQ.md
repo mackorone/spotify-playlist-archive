@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 
 > marrakech season
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,121 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,837 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 | 62 | [L'ghayta](https://open.spotify.com/track/6PCCKQXxKppiMWn6UBz2bB) | [Sadek \(MAR](https://open.spotify.com/artist/6QcYWMXVK74qRrymAYABZ7) | [L'ghayta](https://open.spotify.com/album/3Szu6IRquBwggaiM5wEdbF) | 5:42 |
 | 63 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 |
 | 64 | [Bo Bom \- Alan Dixon Remix](https://open.spotify.com/track/1iLQ6TLiUWa91dvELYujTh) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Bo Bom \(Alan Dixon Remix\)](https://open.spotify.com/album/3CXIxPdrZNb9clvMXlHQxU) | 5:39 |
-| 65 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 |
-| 66 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 |
-| 67 | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/track/6QMUjJ6U90lSwC6wjzH5jP) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [GUAPO \(AO\)](https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/album/27btvaDkPDLQJhPRlaJMlt) | 3:04 |
-| 68 | [Tangerines](https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Tangerines](https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt) | 2:31 |
+| 65 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
+| 66 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 |
+| 67 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 |
+| 68 | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/track/6QMUjJ6U90lSwC6wjzH5jP) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [GUAPO \(AO\)](https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/album/27btvaDkPDLQJhPRlaJMlt) | 3:04 |
 | 69 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 70 | [Go Again](https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Go Again](https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS) | 3:41 |
 
-Snapshot ID: `aF7k7wAAAAD0DCYAm9zV6Azjw0n9B5Yo`
+Snapshot ID: `aGONYgAAAABm5sQ39cXpGC9pC3eSP3Da`

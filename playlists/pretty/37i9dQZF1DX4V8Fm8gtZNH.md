@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,528 likes - 339 songs - 20 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,541 likes - 339 songs - 20 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,7 +236,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 226 | [What Jesus Is To Me](https://open.spotify.com/track/33CN8J1kI3T1X6vJFYMm2u) | [Bessie Griffin](https://open.spotify.com/artist/7goMrdxVtKz7a8kLWV1Fin) | [Even Me: Four Decades of Recording](https://open.spotify.com/album/7DxXkVadD0UqOIHXe3bD51) | 2:55 |
 | 227 | [Neon Lights \(feat\. Supa Bwe & Lil Yachty\)](https://open.spotify.com/track/3QVu5yFeifgUwpX35PFrmx) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [ZiG](https://open.spotify.com/artist/6HxZVLe5XQKhYFnGesRbKU), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Restoration of an American Idol](https://open.spotify.com/album/2XXqBkpXDNhUQw9K4fNj8t) | 5:05 |
 | 228 | [Rents Due](https://open.spotify.com/track/5yz3TrZM4AywEGlPqHgBc7) | [FreeWifi](https://open.spotify.com/artist/5BcQcV91uEIAnvdF9WvyBA) | [Freequency \- EP](https://open.spotify.com/album/1Ne4WbwERo19AL12QgkDIY) | 2:37 |
-| 229 | [On My Way Home](https://open.spotify.com/track/2RXKv6DAvqY15cNjw6lxaf) | [Maurice Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [The Mood](https://open.spotify.com/album/5sezxOLhknFC9eJVeIyj2g) | 7:16 |
+| 229 | [On My Way Home](https://open.spotify.com/track/2RXKv6DAvqY15cNjw6lxaf) | [Maurice Mobetta Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [The Mood](https://open.spotify.com/album/5sezxOLhknFC9eJVeIyj2g) | 7:16 |
 | 230 | [Got To Get Back \(To My Baby\)](https://open.spotify.com/track/5e5FZEfKTyijJTqw7C2kog) | [The Bo\-Keys \(feat\. Otis Clay\)](https://open.spotify.com/artist/5GozKckmnw7VUVEtmgZkJE) | [Got To Get Back!](https://open.spotify.com/album/06yTFcU8N7rytg6NT2YPU4) | 3:25 |
 | 231 | [Funky Worm](https://open.spotify.com/track/4SGcV28NuS1IdCaEsnYKi5) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Pleasure](https://open.spotify.com/album/0uo6U4u3gt3ciHVIDYFSFh) | 2:40 |
 | 232 | [Dazed](https://open.spotify.com/track/1dvkrvYn5GuitUWeoMm33j) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:46 |

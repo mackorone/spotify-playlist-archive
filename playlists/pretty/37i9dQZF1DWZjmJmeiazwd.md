@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,184 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,335 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 21 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
 | 22 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 |
 | 23 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
-| 24 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
-| 25 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 24 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 25 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
 | 26 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 |
 | 27 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
 | 28 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 91 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 |
 | 92 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
 | 93 | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK) | 2:31 |
-| 94 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 |
-| 95 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
+| 94 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
+| 95 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 |
 | 96 | [Stress](https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Antibloom](https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk) | 2:58 |
 | 97 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |
 | 98 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |

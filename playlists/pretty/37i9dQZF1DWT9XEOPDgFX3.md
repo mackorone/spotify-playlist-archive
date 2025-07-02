@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,572 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,582 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 80 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 81 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 82 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
-| 83 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 84 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
+| 83 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
+| 84 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 85 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 |
 | 86 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
 | 87 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 119 | [Thompson's Station](https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Thompson's Station](https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV) | 3:24 |
 | 120 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 |
 | 121 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
-| 122 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
+| 122 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
 | 123 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 |
-| 124 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
-| 125 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
+| 124 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
+| 125 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
 
 Snapshot ID: `Zy2a0AAAAABTWHxjgZVk+UXIGnovHSOL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,441 likes - 115 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,527 likes - 115 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 40 | [La Tiene Prendia](https://open.spotify.com/track/51T8Dt0Ckvaj8wBFknJvwf) | [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [La Tiene Prendia](https://open.spotify.com/album/74SAt4lvpYqtK11mfwBlh4) | 2:23 |
 | 41 | [Yo No Te Sigo](https://open.spotify.com/track/67ux76n9caFXgF9OF5cRWM) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Yo No Te Sigo](https://open.spotify.com/album/5VcvcWO6NNavnbXfDecsG1) | 2:05 |
 | 42 | [Chino Dale Frito + Ella No Es Mala](https://open.spotify.com/track/0QNOpPJDmUuzxYEfTQ8jlO) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY) | [Chino Dale Frito + Ella No Es Mala](https://open.spotify.com/album/7zepTejz7Yog4Fh7X7dE7Q) | 2:32 |
-| 43 | [Pa Tripea](https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/5URYGDnbKvb8Trms0UyPTh) | [Pa Tripea](https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL) | 2:13 |
+| 43 | [Pa Tripea](https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Pa Tripea](https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL) | 2:13 |
 | 44 | [BENDECIDO](https://open.spotify.com/track/2NWK9zRbxW6HExovaAhGRJ) | [Alter Ego RD](https://open.spotify.com/artist/3TLLZ88Dx1ktoJzkjzDrTz), [Neil Collado](https://open.spotify.com/artist/5VD2vEnEKNwZ8QjiIMEH2F), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [BENDECIDO](https://open.spotify.com/album/5L5SotKKr9huw0YBgQsD42) | 3:05 |
 | 45 | [Gracias A Dios](https://open.spotify.com/track/2RxjoGVd55GuhNOF9CcjEC) | [Nata Record](https://open.spotify.com/artist/5I82NM6jN4Y267iHwVeNR9), [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A) | [Gracias A Dios](https://open.spotify.com/album/0Ck6CVYU2PNbik1FU3O7Ax) | 2:42 |
 | 46 | [AY BOBO MAMI](https://open.spotify.com/track/1u79aB04RsxmLmaQZRpy9N) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Yeral El De Lo Palo](https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb), [El Virus El Preso](https://open.spotify.com/artist/1BG2RHTHidRvR6LhOuFCn3) | [AY BOBO MAMI](https://open.spotify.com/album/668Fast4QzyySi7G6bxDdL) | 2:22 |

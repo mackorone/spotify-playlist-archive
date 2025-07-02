@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-787 songs - 1 day 14 hr 14 min
+788 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Bella](https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 3:03 | 2024-02-13 | 2024-02-16 |
 | [Belle](https://open.spotify.com/track/2gdO9XcEWeXOL79XksUjzj) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Belle](https://open.spotify.com/album/1zHSD43t39HAZcLGlDvr7H) | 2:40 | 2024-06-28 | 2024-07-22 |
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-20 | 2023-08-18 |
-| [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 | 2025-03-07 |  |
+| [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 | 2025-03-07 | 2025-07-02 |
 | [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-17 | 2023-04-17 |
 | [Bibanke](https://open.spotify.com/track/3GgYYPUOIwd1uMBvfv5bNW) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ASA \(Asha\) \[Deluxe Edition\]](https://open.spotify.com/album/6jJE2t5ZfWq3I7n5KhF89d) | 4:15 | 2024-02-13 | 2024-02-16 |
 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-03 | 2024-02-09 |
@@ -219,6 +219,7 @@
 | [Evergreen](https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT) | [Evergreen](https://open.spotify.com/album/6ApVH27GE5u86dQs11WiuB) | 2:44 | 2023-04-14 | 2023-05-05 |
 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 | 2023-05-26 | 2023-08-04 |
 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 | 2024-02-09 | 2024-11-22 |
+| [Excellent Remix \(with Joeboy, King Promise & Kelvyn Boy\)](https://open.spotify.com/track/0lp1k2fmSoTdCoRfFtPLPW) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent Remix \(with Joeboy, King Promise & Kelvyn Boy\)](https://open.spotify.com/album/2geggdYPDLsp9f2xCnWGyI) | 3:52 | 2025-06-27 |  |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 | 2023-02-24 |
 | [Eyes on You](https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr) | 3:02 | 2023-10-13 | 2023-10-27 |
 | [Eyes on You](https://open.spotify.com/track/7LBytJhdE0ntt1eAXEiehP) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/7Gjb0f3QkmRWqDl09pB9GM) | 3:02 | 2023-09-21 | 2023-09-29 |

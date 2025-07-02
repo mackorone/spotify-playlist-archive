@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,475 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,519 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 32 | [El mar no cesa \- Live](https://open.spotify.com/track/08v40ca902gDGV6HAymDqn) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 3:17 |
 | 33 | [Flor de loto](https://open.spotify.com/track/7A0ssOm7kMkPlLPHWpaPUQ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:19 |
 | 34 | [El camino del exceso \- 2012 Remastered Version](https://open.spotify.com/track/3RazmaCGFiOkLQJW1uOjyU) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 5:38 |
-| 35 | [Derivas](https://open.spotify.com/track/0hPi8XhV0LpONFo1u4YK8D) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 1:00 |
-| 36 | [...16](https://open.spotify.com/track/3iWYIYKVgcG7sfGqXwy1ZH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:53 |
-| 37 | [Parasiempre](https://open.spotify.com/track/60iCTsV9HhgNQ6p0reBXHb) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:05 |
+| 35 | [...16](https://open.spotify.com/track/3iWYIYKVgcG7sfGqXwy1ZH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:53 |
+| 36 | [Parasiempre](https://open.spotify.com/track/60iCTsV9HhgNQ6p0reBXHb) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:05 |
+| 37 | [Nuestros nombres](https://open.spotify.com/track/3SXQxt1VDRzcftYXbodXlf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 5:57 |
 | 38 | [Bendecida 2 \- 2012 Remastered Version](https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 0:36 |
-| 39 | [Nuestros nombres](https://open.spotify.com/track/3SXQxt1VDRzcftYXbodXlf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 5:57 |
+| 39 | [Derivas](https://open.spotify.com/track/0hPi8XhV0LpONFo1u4YK8D) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 1:00 |
 | 40 | [La lluvia gris](https://open.spotify.com/track/3LWr1doKSH2hSfnE9kMX6U) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 4:22 |
 | 41 | [Babel](https://open.spotify.com/track/6GvY4JaGqmUwFbgAUCSvFD) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 4:24 |
 | 42 | [Los placeres de la pobreza \- 2012 Remastered Version](https://open.spotify.com/track/0f8Hi2EhqSWkabarO3pMTP) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [El cuadro](https://open.spotify.com/track/4NqE2hU5HW6tTkYGd4qpgu) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:39 |
 | 50 | [Morir todavía](https://open.spotify.com/track/2O8t3a09MDOyqcaHeh9lOp) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:14 |
 
-Snapshot ID: `aGCCAAAAAABqKJ/HW8CGZFE/sbAcxrHp`
+Snapshot ID: `aGHTgAAAAACljxibOJpSs2d+2+fspAlz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Unknown Mortal Orchestra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,427 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,470 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 31 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 |
 | 32 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 | 33 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
-| 34 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
+| 34 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
 | 35 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
-| 36 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
+| 36 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
 | 37 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 38 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
-| 39 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |
-| 40 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
-| 41 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
-| 42 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
-| 43 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
+| 39 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
+| 40 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |
+| 41 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
+| 42 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
+| 43 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
 | 44 | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS) | 2:38 |
 | 45 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 |
 | 46 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |

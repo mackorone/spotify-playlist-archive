@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Rels B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,926 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,954 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Carita Angelikal](https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:55 |
 | 2 | [EXPECTATIVAS](https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EXPECTATIVAS](https://open.spotify.com/album/172ipzW34GEnl38MHofXcf) | 3:22 |
 | 3 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
-| 4 | [TOKARTE](https://open.spotify.com/track/33mpYlzcqp66RDI9Io3AI7) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [Baby Jey](https://open.spotify.com/artist/5GolQU57CCP3fKTwWgcm8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [TOKARTE](https://open.spotify.com/album/74daGXMIAkPxNcnjx7VY3s) | 3:21 |
+| 4 | [TOKARTE](https://open.spotify.com/track/33mpYlzcqp66RDI9Io3AI7) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [Baby Jey](https://open.spotify.com/artist/5Oq7EwA4wS5J6L4hYtf9Tk), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [TOKARTE](https://open.spotify.com/album/74daGXMIAkPxNcnjx7VY3s) | 3:21 |
 | 5 | [ENLOKCIENDO](https://open.spotify.com/track/4RvLWywNgTMHyKS3z9UEPB) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt) | [ENLOKCIENDO](https://open.spotify.com/album/2m2KnfLnt7vBJCuTOMfTcz) | 2:43 |
 | 6 | [MASNA REMIX](https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MASNA REMIX](https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS) | 4:08 |
 | 7 | [maltratame u.u](https://open.spotify.com/track/0FnsTrZI3u14n2M9TIijZ9) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [maltratame u.u](https://open.spotify.com/album/1osADY9tqvDO9L82FMF1OP) | 2:28 |

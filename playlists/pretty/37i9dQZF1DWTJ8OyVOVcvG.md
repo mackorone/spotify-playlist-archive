@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de vară
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,123 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,127 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 41 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 42 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 43 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
-| 44 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
-| 45 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
+| 44 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
+| 45 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 46 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
 | 47 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
 | 48 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 |
-| 49 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
-| 50 | [You’re Gonna Go Far](https://open.spotify.com/track/6rlI2QIaVw5DmmQKp2mkhB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:46 |
+| 49 | [You’re Gonna Go Far](https://open.spotify.com/track/6rlI2QIaVw5DmmQKp2mkhB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:46 |
+| 50 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
 | 51 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 52 | [Dandelion](https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dandelion](https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI) | 3:22 |
 | 53 | [Să Fii Tu](https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Să Fii Tu](https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X) | 3:20 |

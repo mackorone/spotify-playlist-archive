@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Mingginyu \(밍기뉴\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: OurR \(아월\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-986 songs - 2 day 11 hr 57 min
+987 songs - 2 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,9 +662,10 @@
 | [Rain](https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [Rain](https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4) | 3:36 | 2022-03-31 | 2022-04-16 |
 | [Rain Drop 주르륵 \(With danwoo lim\)](https://open.spotify.com/track/3tlCKAqLhoHpzKvOlBMVqY) | [OHZU](https://open.spotify.com/artist/1JI61NmjPxJltAJwcNgb81), [danwoo lim](https://open.spotify.com/artist/3ubaacfE5aNEXvmHhkNlTZ) | [Rain Drop 주르륵](https://open.spotify.com/album/0Cnt5CZL9rJoXVxjBXma0S) | 3:24 | 2022-04-12 | 2022-04-21 |
 | [Rain In The Night](https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:01 | 2021-12-21 | 2022-06-24 |
+| [Rainbow \(รุ้ง\)](https://open.spotify.com/track/3TBGPc9fUBo3AjBzgiXNGY) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Rainbow \(รุ้ง\)](https://open.spotify.com/album/14QVqgxZbPr8Hd9zjzuJ7W) | 2:18 | 2025-07-01 |  |
 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 | 2021-12-12 | 2024-07-13 |
 | [Rather Go Blind](https://open.spotify.com/track/7rBO40xtZaRkpxXKnEQa26) | [ZAYSTIN](https://open.spotify.com/artist/7BQgVJEUzCUX8Q2KZDgrH8) | [Rather Go Blind](https://open.spotify.com/album/6XAmqfdbVy1lpNqMppNg7m) | 3:58 | 2022-03-31 | 2022-04-08 |
-| [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 | 2025-04-11 |  |
+| [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 | 2025-04-11 | 2025-07-02 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-12-21 | 2024-07-27 |
 | [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 | 2024-11-11 | 2025-01-10 |
 | [Red Lines](https://open.spotify.com/track/1YJ5G3mdv6Bps9XhbIv89E) | [Pony](https://open.spotify.com/artist/4Lxb5bo6TR7l8QL8UxDdd6), [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [The Pacific Ocean 태평양](https://open.spotify.com/album/21CrO1TGS7e9tTuRzaOiqX) | 2:41 | 2022-03-31 | 2022-04-19 |

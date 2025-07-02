@@ -4,7 +4,7 @@
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: فضل شاكر
 
-399 songs - 23 hr 52 min
+400 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [ماتيجي اعدي عليكي](https://open.spotify.com/track/4Tfdzh30bYmSPsWhAnUhYG) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:25 | 2024-08-09 | 2025-05-16 |
 | [مارتحناش](https://open.spotify.com/track/7MQEgw6m2eAxJMsy5AURlG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [مارتحناش](https://open.spotify.com/album/5TV3DdIKADbHPmMP7QyJbP) | 3:36 | 2024-02-17 | 2024-12-20 |
 | [متسبنيش](https://open.spotify.com/track/3qurTdaglT8lhKMV0RvHQh) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [متسبنيش](https://open.spotify.com/album/18F9gCtFiJkUX1uxI5TJZ3) | 3:47 | 2025-06-20 |  |
+| [محسبتهاش](https://open.spotify.com/track/5XdqlGhKKzvUANYjDI6wsB) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 4:14 | 2025-07-01 |  |
 | [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 | 2024-02-06 | 2024-07-30 |
 | [مروق](https://open.spotify.com/track/5zjKKQ1t1PMFIRl3WROr7V) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [مروق](https://open.spotify.com/album/1RwYyfJJFHhUY45u9IpaWJ) | 3:19 | 2023-08-18 | 2024-02-07 |
 | [مش حكاية](https://open.spotify.com/track/5hJd88Jh9I2mu6zVFeQBag) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [مش حكاية](https://open.spotify.com/album/7bAdpvE40z9lyVNkbBLaDC) | 3:43 | 2023-12-08 | 2024-02-18 |
@@ -396,7 +397,7 @@
 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 | 2024-01-12 | 2024-08-10 |
 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 | 2025-03-12 |  |
 | [وسط الوشوش \- تتر مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(تتر مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 | 2023-06-08 | 2023-07-26 |
-| [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 | 2024-12-06 |  |
+| [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 | 2024-12-06 | 2025-07-02 |
 | [ومتبعدنيش](https://open.spotify.com/track/0K3qRetrs7ZKQq2FFUiDbr) | [Zad](https://open.spotify.com/artist/2oiLaoEq9dJjrRhVuvAZMZ) | [ومتبعدنيش](https://open.spotify.com/album/4JZUx5zH6UvRfbTsnwJ2DQ) | 3:52 | 2024-12-11 |  |
 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-05-17 | 2023-07-11 |
 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-02-09 | 2024-07-30 |

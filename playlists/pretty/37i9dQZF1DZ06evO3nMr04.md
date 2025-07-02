@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410,985 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411,057 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 49 | [No More Parties In LA](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:14 |
 | 50 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 |
 
-Snapshot ID: `aGCCAAAAAADmwaZKsdg6axBwPmanvYpu`
+Snapshot ID: `aGHTgAAAAABsfuJxgDiFG4vBm0VYNqkg`

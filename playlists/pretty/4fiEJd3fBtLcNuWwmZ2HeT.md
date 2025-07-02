@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 305 songs - 17 hr 15 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 306 songs - 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,5 +313,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 303 | [Cubism](https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78) | [Qisano](https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML) | [Cubism](https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc) | 3:25 |
 | 304 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 |
 | 305 | [人生は夢だらけ](https://open.spotify.com/track/0z2xgbxkLvrpzBZDtYIIXS) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:14 |
+| 306 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
 
-Snapshot ID: `AAAJGD7yYqnMmxASQfrDuqgpqj3VO9yG`
+Snapshot ID: `AAAJGRS5r/b+SzIBQ7CkMZLgw5BmDjqF`

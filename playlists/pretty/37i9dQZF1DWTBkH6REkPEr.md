@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,421 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,462 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 62 | [Do It Again](https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Do It Again](https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV) | 5:06 |
 | 63 | [Miami 82 \- Kygo Remix](https://open.spotify.com/track/2DFT4mdft2yUPs7rX6coSd) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Armada Deep House Selection, Vol\. 3 \(The Finest Deep House Tunes\)](https://open.spotify.com/album/5ibzTdYFvMukXN8J6ZEzvF) | 5:41 |
 | 64 | [Cocaine Model](https://open.spotify.com/track/5MxDkXp4X06zjnIUqvEvdQ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 4:15 |
-| 65 | [I Wanna Feel \- Radio Edit](https://open.spotify.com/track/1rj4TnlFsWbxjMXdCCsrzt) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel \(Remixes\)](https://open.spotify.com/album/4JGh8iizIHkiMm6GrRf43u) | 3:05 |
-| 66 | [Dance Our Tears Away \(feat\. Kristin Amparo\) \- Radio Edit](https://open.spotify.com/track/4bXqiSIapO9Ybmj5T76Hvy) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Far from Home](https://open.spotify.com/album/5sxjm2ovH0G0sHl2yiIc0T) | 3:00 |
+| 65 | [Dance Our Tears Away \(feat\. Kristin Amparo\) \- Radio Edit](https://open.spotify.com/track/4bXqiSIapO9Ybmj5T76Hvy) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Far from Home](https://open.spotify.com/album/5sxjm2ovH0G0sHl2yiIc0T) | 3:00 |
+| 66 | [I Wanna Feel \- Radio Edit](https://open.spotify.com/track/1rj4TnlFsWbxjMXdCCsrzt) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel \(Remixes\)](https://open.spotify.com/album/4JGh8iizIHkiMm6GrRf43u) | 3:05 |
 | 67 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 |
 | 68 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 |
 | 69 | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/track/6HhrMBN43RnGlGv7vIdnM5) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Till It Hurts \(feat\. Ayden\)](https://open.spotify.com/album/5j7gJBnJLzY2RGYe9ndCxZ) | 3:08 |

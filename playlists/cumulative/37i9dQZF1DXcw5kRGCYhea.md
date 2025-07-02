@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-273 songs - 13 hr 57 min
+275 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [KEDABA](https://open.spotify.com/track/6EJIkDorvfRvFYPuEzJYm2) | [Versa999](https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF), [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [SABRE](https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R) | 3:15 | 2025-01-12 | 2025-01-20 |
 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 | 2025-05-24 | 2025-06-11 |
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-12-10 | 2025-01-02 |
+| [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 | 2025-07-01 |  |
 | [Koutchi](https://open.spotify.com/track/2XBRLKDrkMfOo8e7jCyM3D) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Koutchi](https://open.spotify.com/album/5rB6vAUt14KimlyANCJZNg) | 2:42 | 2024-10-17 | 2024-12-11 |
 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2025-05-14 |  |
 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 | 2024-08-02 | 2024-08-16 |
@@ -162,7 +163,7 @@
 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 | 2024-06-22 | 2024-08-23 |
 | [Mi Amor](https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Mi Amor](https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va) | 3:44 | 2025-06-10 | 2025-06-21 |
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2024-03-26 | 2024-05-23 |
-| [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 | 2025-06-10 |  |
+| [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 | 2025-06-10 |  |
 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 | 2025-06-10 |  |
 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 | 2024-10-03 | 2025-05-25 |
 | [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-12-10 | 2025-05-25 |
@@ -171,10 +172,11 @@
 | [Mok ya mok](https://open.spotify.com/track/5JobkufjKtdGgCASCaOGCP) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/0glB4KAxl5lStonhyTUi1g) | 2:38 | 2025-05-24 |  |
 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-09-14 | 2025-05-25 |
 | [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-06-10 |  |
-| [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 | 2024-12-30 |  |
+| [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 | 2024-12-30 | 2025-07-02 |
 | [Mouka](https://open.spotify.com/track/2KVSkX4aTymza4VMoOkz9K) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Mâle\-Chanceux](https://open.spotify.com/album/2W3tkAvXR3UVVYrzkHh9t9) | 3:12 | 2024-08-02 | 2024-12-11 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-23 | 2024-08-31 |
-| [My Darling \- Habibti](https://open.spotify.com/track/5oflgQFgT6gmPsNGfLzvCI) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [My Darling](https://open.spotify.com/album/6HXLr6yIRp4iLM7XViRcTn) | 2:40 | 2025-06-10 |  |
+| [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-07-01 |  |
+| [My Darling \- Habibti](https://open.spotify.com/track/5oflgQFgT6gmPsNGfLzvCI) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [My Darling](https://open.spotify.com/album/6HXLr6yIRp4iLM7XViRcTn) | 2:40 | 2025-06-10 | 2025-07-02 |
 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 | 2024-05-27 | 2025-04-18 |
 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 | 2024-12-10 | 2025-05-25 |
 | [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 | 2024-09-08 | 2024-10-12 |

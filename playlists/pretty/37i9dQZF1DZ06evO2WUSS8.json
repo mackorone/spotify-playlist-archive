@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14701,
+  "num_followers": 14702,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAC6gex0gQRp/pXgzn2g2lO6",
+  "snapshot_id": "aGHTgAAAAAAmuQWnDwK6TXQMU7FH3Z1z",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Naima",
+      "url": "https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C'est dr\u00f4le la vie",
         "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 161866,
       "name": "C'est dr\u00f4le la vie",
       "url": "https://open.spotify.com/track/2uMfVlGi30aHKy4ntQUzso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Naima",
-      "url": "https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King 2: Simba's Pride",
-        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -467,34 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Humanity",
-        "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
+        "name": "The Lion King 2: Simba's Pride",
+        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
       },
       "artists": [
         {
-          "name": "Playing For Change",
-          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 365217,
-      "name": "Biko",
-      "url": "https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI"
+      "duration_ms": 250760,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
     },
     {
       "added_at": null,
@@ -591,22 +559,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW"
+        "name": "Songs For Humanity",
+        "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
       },
       "artists": [
         {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+          "name": "Playing For Change",
+          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 394640,
-      "name": "Sparrow (feat. Angelique Kidjo)",
-      "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"
+      "duration_ms": 365217,
+      "name": "Biko",
+      "url": "https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
       "duration_ms": 253373,
       "name": "Olofoofo",
       "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 394640,
+      "name": "Sparrow (feat. Angelique Kidjo)",
+      "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Wombo Lombo",
-      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Lon Lon",
-      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 329189,
       "name": "JERUSALEMA",
       "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Lon Lon",
+      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunlight to My Soul",
-        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 205797,
-      "name": "Sunlight to My Soul",
-      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond Music Vol. 4 - Social Change",
         "url": "https://open.spotify.com/album/47t8nHiTV6chufKdAouUsc"
       },
@@ -859,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunlight to My Soul",
+        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 205797,
+      "name": "Sunlight to My Soul",
+      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/5gvkZr0EvB8x9vYy1pwBr2"
       },
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Logozo",
         "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
       },
@@ -903,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
       },
       "artists": [
         {
@@ -912,9 +928,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
+      "duration_ms": 348813,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
       "duration_ms": 217613,
       "name": "Samba Pa Ti",
       "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 348813,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep Rising (The Woman King)",
-        "url": "https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ"
-      },
-      "artists": [
-        {
-          "name": "Jessy Wilson",
-          "url": "https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 194164,
-      "name": "Keep Rising - The Woman King",
-      "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
@@ -1019,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Rising (Live)",
-        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Summertime - Live",
-      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fifa",
         "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
@@ -1047,6 +1011,42 @@
       "duration_ms": 237666,
       "name": "Fifa",
       "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep Rising (The Woman King)",
+        "url": "https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ"
+      },
+      "artists": [
+        {
+          "name": "Jessy Wilson",
+          "url": "https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 194164,
+      "name": "Keep Rising - The Woman King",
+      "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
     },
     {
       "added_at": null,

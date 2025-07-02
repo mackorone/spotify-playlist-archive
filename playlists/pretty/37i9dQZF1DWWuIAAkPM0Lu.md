@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra ICEKIID og Artigeardit, Lewis Capaldi, MAS og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,152 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,157 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

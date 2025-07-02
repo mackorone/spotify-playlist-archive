@@ -1,6 +1,6 @@
 {
   "description": "Ebony e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 371694,
+  "num_followers": 371676,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2025-06-28 01:13:30",
       "album": {
+        "name": "QUASE QUE FALEI TE AMO",
+        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 166058,
+      "name": "QUASE QUE FALEI TE AMO",
+      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
+    },
+    {
+      "added_at": "2025-06-28 01:13:30",
+      "album": {
         "name": "Hoje Tem, Hoje Tem",
         "url": "https://open.spotify.com/album/7MMi8E2UzXYAN9HrHpFzgP"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 280615,
       "name": "Hoje Tem, Hoje Tem",
       "url": "https://open.spotify.com/track/3mfJvLwi1VocsfO2VUXuHO"
-    },
-    {
-      "added_at": "2025-06-28 01:13:30",
-      "album": {
-        "name": "QUASE QUE FALEI TE AMO",
-        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 166058,
-      "name": "QUASE QUE FALEI TE AMO",
-      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
     },
     {
       "added_at": "2025-06-28 01:13:30",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-06-28 01:13:30",
       "album": {
-        "name": "Desabafo 2",
-        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Desabafo 2",
-      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
-    },
-    {
-      "added_at": "2025-06-28 01:13:30",
-      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 240000,
       "name": "Veterano",
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
+    },
+    {
+      "added_at": "2025-06-28 01:13:30",
+      "album": {
+        "name": "Desabafo 2",
+        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Desabafo 2",
+      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
     },
     {
       "added_at": "2025-06-28 01:13:30",

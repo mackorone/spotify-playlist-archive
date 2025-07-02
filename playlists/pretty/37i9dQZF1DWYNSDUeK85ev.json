@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 686084,
+  "num_followers": 686100,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
+        "name": "La Morocha",
+        "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
+    },
+    {
+      "added_at": "2025-06-27 21:02:36",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 250840,
       "name": "No Es Justo",
       "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
-    },
-    {
-      "added_at": "2025-06-27 21:02:36",
-      "album": {
-        "name": "La Morocha",
-        "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 134144,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -975,8 +975,8 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
       "artists": [
         {
@@ -984,13 +984,13 @@
           "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
       "artists": [
         {
@@ -1104,13 +1104,13 @@
           "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+        "name": "La Jeepeta (Remix)",
+        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
       "artists": [
         {
@@ -1168,17 +1168,25 @@
           "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
         }
       ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+      "duration_ms": 345240,
+      "name": "La Jeepeta - Remix",
+      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -1271,8 +1279,8 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "La Jeepeta (Remix)",
-        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
       "artists": [
         {
@@ -1280,25 +1288,17 @@
           "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 345240,
-      "name": "La Jeepeta - Remix",
-      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "Si Me Tomo una Cerveza",
-        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
-        }
-      ],
-      "duration_ms": 182198,
-      "name": "Si Me Tomo Una Cerveza",
-      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
-    },
-    {
-      "added_at": "2025-06-27 21:02:36",
-      "album": {
         "name": "Me Enter\u00e9",
         "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
+    },
+    {
+      "added_at": "2025-06-27 21:02:36",
+      "album": {
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        }
+      ],
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
-    },
-    {
-      "added_at": "2025-06-27 21:02:36",
-      "album": {
         "name": "TURRA",
         "url": "https://open.spotify.com/album/2g1zRrhhMX2cnyoP8HvgH7"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 206400,
       "name": "TURRA",
       "url": "https://open.spotify.com/track/4w3R0drhPCc7zeO2OtBV8r"
+    },
+    {
+      "added_at": "2025-06-27 21:02:36",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
+        "name": "Inocente",
+        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
+    },
+    {
+      "added_at": "2025-06-27 21:02:36",
+      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
-    },
-    {
-      "added_at": "2025-06-27 21:02:36",
-      "album": {
-        "name": "Inocente",
-        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
-    },
-    {
-      "added_at": "2025-06-27 21:02:36",
-      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+    },
+    {
+      "added_at": "2025-06-27 21:02:36",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
       "added_at": "2025-06-27 21:02:36",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2025-06-27 21:02:36",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 167843,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH"
-    },
-    {
-      "added_at": "2025-06-27 21:02:36",
-      "album": {
         "name": "Ram Pam Pam",
         "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
+    },
+    {
+      "added_at": "2025-06-27 21:02:36",
+      "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 167843,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH"
     },
     {
       "added_at": "2025-06-27 21:02:36",

@@ -1,6 +1,6 @@
 {
   "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Leon Thomas",
-  "num_followers": 1743860,
+  "num_followers": 1743807,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 166742,
+      "name": "gameboy",
+      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
         "name": "\u00dcbermensch",
         "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 153664,
       "name": "TOO BAD",
       "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 166742,
-      "name": "gameboy",
-      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1777,22 +1777,6 @@
       "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
     },
     {
-      "added_at": "2025-04-18 05:43:30",
-      "album": {
-        "name": "Teach Me How To Love",
-        "url": "https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 182913,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "JAGUAR II",
@@ -1807,6 +1791,22 @@
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "added_at": "2025-04-18 05:43:30",
+      "album": {
+        "name": "Teach Me How To Love",
+        "url": "https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 182913,
+      "name": "Teach Me How To Love",
+      "url": "https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1863,6 +1863,26 @@
       "duration_ms": 170760,
       "name": "Bad For You (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
+    },
+    {
+      "added_at": "2025-06-27 04:00:46",
+      "album": {
+        "name": "MY FACE HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "IRL (FEAT. SZA)",
+      "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1983,26 +2003,6 @@
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
-    },
-    {
-      "added_at": "2025-06-27 04:00:46",
-      "album": {
-        "name": "MY FACE HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "IRL (FEAT. SZA)",
-      "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2261,26 +2261,6 @@
       "url": "https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf"
     },
     {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
-        "name": "I Like It I Like It",
-        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "I Like It I Like It",
-      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
-    },
-    {
       "added_at": "2025-03-21 04:00:51",
       "album": {
         "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
@@ -2299,6 +2279,26 @@
       "duration_ms": 97371,
       "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
       "url": "https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "I Like It I Like It",
+        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "I Like It I Like It",
+      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
     },
     {
       "added_at": "2025-05-02 05:24:33",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 164645,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
@@ -2419,22 +2403,6 @@
       "duration_ms": 209182,
       "name": "FEELINGS ON SILENT (feat. Wale)",
       "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
-    },
-    {
-      "added_at": "2025-05-30 04:19:50",
-      "album": {
-        "name": "Main Character",
-        "url": "https://open.spotify.com/album/5x0xJxWW4Meb2M79eEHm6M"
-      },
-      "artists": [
-        {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        }
-      ],
-      "duration_ms": 188382,
-      "name": "Main Character",
-      "url": "https://open.spotify.com/track/6UT5bzdmspm2noDOOxWthd"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2455,6 +2423,38 @@
       "duration_ms": 173440,
       "name": "Wake Up (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
+    },
+    {
+      "added_at": "2025-05-30 04:19:50",
+      "album": {
+        "name": "Main Character",
+        "url": "https://open.spotify.com/album/5x0xJxWW4Meb2M79eEHm6M"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "duration_ms": 188382,
+      "name": "Main Character",
+      "url": "https://open.spotify.com/track/6UT5bzdmspm2noDOOxWthd"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2599,22 +2599,18 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+        "name": "When It Comes To You",
+        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Timeless (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2635,18 +2631,22 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "When It Comes To You",
-        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
+      "duration_ms": 256000,
+      "name": "Timeless (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2687,26 +2687,22 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "CANDY GUM",
-        "url": "https://open.spotify.com/album/5Fq5BisVEmrXUH8C0BZOpP"
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 169466,
-      "name": "CANDY GUM",
-      "url": "https://open.spotify.com/track/4JWPHzfChXRSPMbo0s4ZPl"
+      "duration_ms": 178160,
+      "name": "Look What You Did (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
     }
   ],
   "unique_name": "Channel-X",

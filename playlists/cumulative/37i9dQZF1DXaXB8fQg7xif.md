@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,240 songs - 2 day 18 hr 26 min
+1,241 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-13 | 2025-03-29 |
 | [24](https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [24](https://open.spotify.com/album/7pkYBo20zBpRzfyTqBkzhM) | 3:20 | 2021-12-11 | 2022-07-29 |
 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 | 2022-04-01 | 2022-04-20 |
-| [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-06 |  |
+| [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-06 | 2025-07-02 |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-07-16 |  |
 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2024-09-20 |  |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-04-01 | 2023-03-25 |
@@ -193,6 +193,7 @@
 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 | 2022-04-15 | 2022-06-21 |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2024-02-09 | 2024-02-27 |
 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 | 2021-09-28 | 2022-06-03 |
+| [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 | 2025-06-27 |  |
 | [Castles In The Sky](https://open.spotify.com/track/4xZax8srPgsXV2mpMerqEk) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Castles In The Sky](https://open.spotify.com/album/3TolDOsMadcVP94ucEJEqU) | 3:43 | 2020-12-05 | 2021-12-09 |
 | [Catania](https://open.spotify.com/track/5t8ya2Qx7Xc6bG53piXMYY) | [Södermalm](https://open.spotify.com/artist/0oNBRfSsZBHcgFGcWaVr0R) | [Catania](https://open.spotify.com/album/3PO7P1e9CiJlzKBCqL9pg3) | 3:40 | 2020-07-01 | 2021-10-12 |
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2021-11-19 | 2022-07-29 |

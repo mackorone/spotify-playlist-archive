@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2025! Cover: Calvin Harris, Clementine Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,838 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,824 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 29 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
 | 30 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
 | 31 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
-| 32 | [Rein Me In](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(feat\. Olivia Dean\) \[Live at London Stadium\] Extended Intro](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 |
+| 32 | [Rein Me In](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(feat\. Olivia Dean\) \[Live at London Stadium\]](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 |
 | 33 | [Run It Back \(feat\. Caroline Byrne\)](https://open.spotify.com/track/2pfX8Wf4Unns6Jt3lThEjk) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Run It Back \(feat\. Caroline Byrne\)](https://open.spotify.com/album/4s7Ja1e8NiQfGkbvXhhC3i) | 3:05 |
 | 34 | [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 |
 | 35 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |

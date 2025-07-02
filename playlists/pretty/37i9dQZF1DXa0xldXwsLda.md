@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,605 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,602 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 2 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 3 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
 | 4 | [Un Viaje a Todas Partes](https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Un Viaje a Todas Partes](https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0) | 3:23 |
-| 5 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
+| 5 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 | 6 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 |
-| 7 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
+| 7 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
 | 8 | [Dos Gardenias](https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Dos Gardenias](https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS) | 3:01 |
 | 9 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 10 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |

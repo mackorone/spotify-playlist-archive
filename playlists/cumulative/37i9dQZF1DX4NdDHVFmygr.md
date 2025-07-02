@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-464 songs - 1 day 0 hr 46 min
+465 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-17 |  |
 | [Bohdi li fiha](https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 2:53 | 2023-01-04 | 2023-01-14 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-04-25 | 2025-05-27 |
+| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 |  |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-08-28 |  |
 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-12-03 |  |
 | [Bouhali](https://open.spotify.com/track/7xO6CfFdUb5meXwUFkGAYV) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Bouhali](https://open.spotify.com/album/6kkrS3firsO8bP9rklJAHQ) | 3:11 | 2025-01-15 |  |
@@ -117,7 +118,7 @@
 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 | 2024-11-02 |  |
 | [Dirou Niyya \- Official Moroccan Fan Chant](https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb) | 2:57 | 2022-12-27 | 2023-03-07 |
 | [Dj](https://open.spotify.com/track/0agokZZS8l1k5HBwwFsUz6) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [DJ](https://open.spotify.com/album/0MQHeMqNgSqfmMGIb9NFTO) | 4:07 | 2023-01-16 | 2023-02-03 |
-| [Doberwoman](https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP) | 2:58 | 2025-04-01 |  |
+| [Doberwoman](https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP) | 2:58 | 2025-04-01 | 2025-07-02 |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2025-03-03 |
 | [Douga](https://open.spotify.com/track/7H8cWXov4JefpfvzXiXt6B) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Douga](https://open.spotify.com/album/4moiez6TVp0ta4iGHf3Ms5) | 3:20 | 2022-06-17 | 2023-04-29 |
 | [Douka](https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy) | [Adil Assil](https://open.spotify.com/artist/5idudw3rFRe9uVUCus4Kp1) | [Douka](https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch) | 3:12 | 2022-02-22 | 2023-02-07 |

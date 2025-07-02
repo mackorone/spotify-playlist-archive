@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 
 > Game day is our favorite day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,785 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,820 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 75 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
 | 76 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
 | 77 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
-| 78 | [Last Night](https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:43 |
-| 79 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
-| 80 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
-| 81 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
-| 82 | [two](https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ) | 2:15 |
-| 83 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
+| 78 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
+| 79 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
+| 80 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
+| 81 | [Last Night](https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:43 |
+| 82 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
+| 83 | [two](https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ) | 2:15 |
 | 84 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 85 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
 | 86 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 90 | [All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:59 |
 | 91 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 |
 | 92 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 |
-| 93 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
-| 94 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
+| 93 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
+| 94 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 | 95 | [Dirt On My Boots](https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:21 |
 | 96 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 97 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 98 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
-| 99 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
+| 99 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 |
 | 100 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
 
 Snapshot ID: `Z6WTewAAAACDarw0JjBUZ8twcxUIkouR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,760 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,830 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 32 | [Fuego Contra Fuego](https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 3:06 |
 | 33 | [La Baraja](https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 3:19 |
 | 34 | [Que Lástima](https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:52 |
-| 35 | [Y Que Ganaste](https://open.spotify.com/track/58f8H6UCND0m4Isp1NufSH) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:15 |
-| 36 | [Mi Amante](https://open.spotify.com/track/38KL0tZ65yErYnqS1CoLGz) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Paso A La Reina](https://open.spotify.com/album/6qjq1PeDXd7uuJbMnXFR1K) | 3:51 |
+| 35 | [Mi Amante](https://open.spotify.com/track/38KL0tZ65yErYnqS1CoLGz) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Paso A La Reina](https://open.spotify.com/album/6qjq1PeDXd7uuJbMnXFR1K) | 3:51 |
+| 36 | [Y Que Ganaste](https://open.spotify.com/track/58f8H6UCND0m4Isp1NufSH) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:15 |
 | 37 | [La Pera Madura](https://open.spotify.com/track/3GPFDXIvn9QEgd3l06TskS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 2:25 |
 | 38 | [Soy](https://open.spotify.com/track/3oiOs1nY8AxIJYZJzJmXws) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:47 |
 | 39 | [Me Olvidaste](https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [Popurrí: Cardenaleando La Cumbia](https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 5:24 |
 | 50 | [Quiero Ver tus Ojos](https://open.spotify.com/track/3yWoJKSMdCWNd9oQCpjeEE) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 2:32 |
 
-Snapshot ID: `aGCCAAAAAADBrHYhAgfEwxE2/zPPry+q`
+Snapshot ID: `aGHTgAAAAAAgkJFO+So2xE0F9rf1C6q/`

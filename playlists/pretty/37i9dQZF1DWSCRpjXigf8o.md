@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,684 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,691 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 86 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
 | 87 | [I Was Made For Loving You](https://open.spotify.com/track/3vOmmLuvEUgGaVuRsCs2QF) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/6Q7yIbfFPzplTCBM7d1WRO) | 3:08 |
 | 88 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
-| 89 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
+| 89 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
 | 90 | [Feel Those Things \- Edit](https://open.spotify.com/track/5g1PiWaOKr7LGDY5VupNTi) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Feel Those Things / Riverside](https://open.spotify.com/album/6AqJJfCWmCKZEqM3Mphbso) | 3:32 |
-| 91 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
-| 92 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
-| 93 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
+| 91 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
+| 92 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
+| 93 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 |
 | 94 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
-| 95 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 |
+| 95 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
 | 96 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
 | 97 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 98 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |

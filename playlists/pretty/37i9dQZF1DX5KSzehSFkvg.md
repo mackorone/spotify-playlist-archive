@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,662 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,773 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 |
 | 50 | [Siri](https://open.spotify.com/track/4MXXtusvtDflGAwR5hmchC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Siri](https://open.spotify.com/album/05wbo8BJGYhmLCpu2NER6B) | 3:12 |
 
-Snapshot ID: `aFqF8AAAAAAx/NksoRKeCTFNR/gnsmpV`
+Snapshot ID: `aGOIlgAAAADHGwfLLlhOKUbFdQCmWbVw`

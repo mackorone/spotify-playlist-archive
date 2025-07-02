@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAD1na7wr28BsrNx75rm2rAK",
+  "snapshot_id": "aGHTgAAAAACPlDaNwvlANDB0hmBiEfig",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 326346,
+      "name": "Jesus Saves - Live",
+      "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Hallelujah",
         "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 345179,
       "name": "One Hallelujah",
       "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 326346,
-      "name": "Jesus Saves - Live",
-      "url": "https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Love This Place - Live",
-      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intercession (Live)",
         "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Love This Place - Live",
+      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
-        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 428354,
-      "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
-      "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel According To PJ",
         "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 236352,
       "name": "Never Be The Same (feat. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene)",
       "url": "https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
+        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 428354,
+      "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
+      "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
     },
     {
       "added_at": null,

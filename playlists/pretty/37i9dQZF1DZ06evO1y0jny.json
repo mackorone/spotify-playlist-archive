@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAAAjeP7LbVUEelYdmdznknuE",
+  "snapshot_id": "aGHTgAAAAACOsWnhOkfJgiTxppXWTMaP",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K\u0101wili",
+        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "duration_ms": 159020,
+      "name": "He Aloha Wau i\u0101 \u02bbOe",
+      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hahani Mai (21st Anniversary Edition)",
         "url": "https://open.spotify.com/album/35rgOxshONl1KMNXOH71Yv"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 150487,
       "name": "Ulunui Waltz (Reimagined) [feat. Keauhou]",
       "url": "https://open.spotify.com/track/4ZqhG1g8joMt52tGGpnybU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K\u0101wili",
-        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 159020,
-      "name": "He Aloha Wau i\u0101 \u02bbOe",
-      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
     },
     {
       "added_at": null,

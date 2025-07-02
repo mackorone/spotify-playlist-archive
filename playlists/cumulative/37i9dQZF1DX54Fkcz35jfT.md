@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: アイスクリームネバーグラウンド
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: UVERworld
 
-401 songs - 23 hr 1 min
+404 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,8 @@
 | [DYSTOPIA](https://open.spotify.com/track/4Qg1BZPTvFLegnFPdURGBf) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [DYSTOPIA](https://open.spotify.com/album/1Nqm7ntku7DKw37MVkqMGP) | 4:13 | 2023-10-19 | 2023-11-22 |
 | [Echoes](https://open.spotify.com/track/1dBr4hC9Idh0QpD5UFQNax) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z), [Thick Big Band](https://open.spotify.com/artist/4uvYNUwuS7WemNAca84zFo), [Lu](https://open.spotify.com/artist/21O16pHYMPKVpklJ9eauYv) | [ECHOES](https://open.spotify.com/album/2YCoHwTpKtM9N4LiswCAPc) | 2:59 | 2024-03-19 | 2024-05-01 |
 | [Enchant](https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Enchant](https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG) | 2:44 | 2023-07-20 | 2025-04-16 |
+| [ENDGAME](https://open.spotify.com/track/2toJ3Yovx8mqHZIIQOpTG1) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [aИomaly](https://open.spotify.com/album/0zf73QkRFifuL3Skr4ShxQ) | 3:43 | 2025-07-01 |  |
+| [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 | 2025-07-01 |  |
 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 | 2023-11-21 |  |
 | [Everything is all lies](https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX) | 3:45 | 2023-10-19 | 2023-10-21 |
 | [Everything is all lies](https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937) | 3:45 | 2023-10-19 | 2023-11-08 |
@@ -108,6 +110,7 @@
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2023-07-20 |  |
 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 | 2023-07-20 | 2023-10-11 |
 | [FXXKFXXKFXXK](https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Beware](https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5) | 2:25 | 2023-07-20 | 2023-07-28 |
+| [Galaxy Of Black Hole](https://open.spotify.com/track/5Ij7OdS2JBKZ1onV9wnJcN) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [Season Ⅱ](https://open.spotify.com/album/13FBVpnVRYK1GR1x4ecEAY) | 4:33 | 2025-07-01 |  |
 | [gg燦然](https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [gg燦然](https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR) | 2:29 | 2024-07-09 |  |
 | [GIRL'S TALK](https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [GIRL'S TALK](https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO) | 2:54 | 2024-05-14 |  |
 | [girls lie.](https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [DIGITAL PARANOIA 2052](https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO) | 2:45 | 2024-02-06 | 2025-05-12 |
@@ -144,7 +147,7 @@
 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 | 2023-09-26 |  |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2023-11-21 | 2024-07-02 |
 | [JUNGLE BUN DEM](https://open.spotify.com/track/3wWMqIeTZcC6eLmR0G5dcG) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/24eIv5TgqoGWZNocPZsa5E) | 3:13 | 2023-10-03 | 2023-10-18 |
-| [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 | 2023-10-03 |  |
+| [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 | 2023-10-03 | 2025-07-02 |
 | [Jupiter](https://open.spotify.com/track/2R4IXQQ3DoWosEB2BrtdxF) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 3:20 | 2023-07-20 | 2023-11-16 |
 | [Kanzen kankaku Dreamer](https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:12 | 2023-07-20 | 2024-04-19 |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2023-07-20 |  |
@@ -191,7 +194,7 @@
 | [Misfortune](https://open.spotify.com/track/1cBYQGzX0JKMS4KhbM10s4) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/2CpgOP94gBLcx93uqJnJGU) | 2:39 | 2024-07-30 | 2024-08-31 |
 | [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 | 2023-07-20 |  |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-07-20 |  |
-| [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 |  |
+| [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 | 2025-07-02 |
 | [MUSIC](https://open.spotify.com/track/1nEqHv1JzL3d8f9Kh7IJNE) | [SHIFT\_CONTROL](https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9) | [MUSIC](https://open.spotify.com/album/0mo1q8CqwCzEIarbF64a6L) | 2:45 | 2024-06-11 | 2024-07-10 |
 | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp) | 1:11 | 2025-04-15 | 2025-05-14 |
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2024-03-04 |
@@ -243,7 +246,7 @@
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-20 | 2023-09-27 |
 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 | 2023-07-20 | 2023-11-22 |
 | [RIDE ON](https://open.spotify.com/track/0K6V6cHP8H7y7Ot8f6OUKq) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [We Are Square](https://open.spotify.com/album/0YzdiGzb6X9UmVeSv45HQQ) | 3:12 | 2023-11-21 | 2023-12-27 |
-| [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 | 2023-07-20 |  |
+| [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 | 2023-07-20 | 2025-07-02 |
 | [Risin'](https://open.spotify.com/track/1lAnhwKFShmu4T0QniMKbe) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Risin'](https://open.spotify.com/album/6icSqeefzGTW6V8Mqk1BN6) | 1:17 | 2023-08-15 | 2023-08-25 |
 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 | 2023-10-05 | 2023-11-22 |
 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 | 2023-10-03 |  |

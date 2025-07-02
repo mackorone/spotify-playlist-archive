@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,726 likes - 89 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,728 likes - 89 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 32 | [Summer Breeze](https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Givin' It Up](https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T) | 5:01 |
 | 33 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 |
 | 34 | [Hurt](https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 3:01 |
-| 35 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
-| 36 | [Groovin'](https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:57 |
+| 35 | [Groovin'](https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:57 |
+| 36 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
 | 37 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 | 38 | [I'M A MAN \- MIDNIGHT VERSION](https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OLD SONGS, SAME LOVE](https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5) | 2:50 |
 | 39 | [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Volt Chartbusters Vol 1](https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE) | 3:50 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 49 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 |
 | 50 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
 | 51 | [New York State Of Mind](https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:33 |
-| 52 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
-| 53 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 |
+| 52 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 |
+| 53 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
 | 54 | [I Can't See Myself Leaving You](https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:01 |
 | 55 | [Too Much, Too Little, Too Late \(with Deniece Williams\)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Essential Johnny Mathis 3.0](https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv) | 2:58 |
 | 56 | [Never Change \(feat\. Philip Bailey\)](https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 4:16 |

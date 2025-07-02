@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,311,824 likes - 200 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311,696 likes - 200 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 56 | [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 |
 | 57 | [SELFISH](https://open.spotify.com/track/6Ky2CqdpWLV35Z1ESO1BvP) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [SELFISH](https://open.spotify.com/album/3mgrle8H07VuJp2RclNtff) | 2:25 |
 | 58 | [KNOW ME BETTER](https://open.spotify.com/track/1VhxDXdzihB4MRpC0iHZ46) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [KNOW ME BETTER](https://open.spotify.com/album/0ZSSubbH1WaZZaoQo5XJCl) | 2:50 |
-| 59 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 59 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 60 | [I Remember You A Dancer](https://open.spotify.com/track/1elDxfWBV5ETXElujTfK2H) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [I Remember You A Dancer](https://open.spotify.com/album/2eSeWJYlji0aOZF0zXjnpw) | 4:00 |
 | 61 | [Bluff](https://open.spotify.com/track/3Egw5YY3FnbOFBBukF1ran) | [Forth Wanderers](https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs) | [Bluff](https://open.spotify.com/album/4lyaxz47Hv2pxOzFS1vPYL) | 2:34 |
 | 62 | [Neon Bog](https://open.spotify.com/track/5neafYM83TuVSss3yQZ4S5) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Neon Bog](https://open.spotify.com/album/6VTeR0rSQ72OVRLUdC2CgW) | 2:42 |

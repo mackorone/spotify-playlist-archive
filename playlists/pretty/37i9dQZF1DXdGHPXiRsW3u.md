@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 
 > Mellow songs from the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,962 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,833 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 |
 | 2 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
-| 3 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
-| 4 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
+| 3 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
+| 4 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 5 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 |
 | 6 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 7 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 60 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
 | 61 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
 | 62 | [Far Away](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:58 |
-| 63 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 |
-| 64 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
+| 63 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
+| 64 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 |
 | 65 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 5:11 |
 | 66 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
 | 67 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 88 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 |
 | 89 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:33 |
 | 90 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 |
-| 91 | [Hometown Glory](https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 4:31 |
-| 92 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
+| 91 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
+| 92 | [Hometown Glory](https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 4:31 |
 | 93 | [Big Yellow Taxi](https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hard Candy](https://open.spotify.com/album/4ZY9wbPTIFpX5IdFemqIyZ) | 3:46 |
 | 94 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
 | 95 | [Never Had A Dream Come True](https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | ["7"](https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ) | 4:00 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 130 | [Right To Be Wrong](https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:40 |
 | 131 | [No Promises](https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Shayne Ward \(Expanded Edition\)](https://open.spotify.com/album/5OVa321qfDoIKRFaYxjZNC) | 3:42 |
 | 132 | [This I Promise You](https://open.spotify.com/track/2Dp2LRrY71XIfLe3co2Qnh) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 4:43 |
-| 133 | [When You Say Nothing At All](https://open.spotify.com/track/7d66u8J2iM8WXcUKdujNZJ) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/6BNUYhhSL5a4yrvrfasKcF) | 4:16 |
-| 134 | [Mandy](https://open.spotify.com/track/48jd71gnyIlLdXOYX2qJ6p) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:19 |
+| 133 | [Mandy](https://open.spotify.com/track/48jd71gnyIlLdXOYX2qJ6p) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:19 |
+| 134 | [When You Say Nothing At All](https://open.spotify.com/track/7d66u8J2iM8WXcUKdujNZJ) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/6BNUYhhSL5a4yrvrfasKcF) | 4:16 |
 | 135 | [Have You Ever](https://open.spotify.com/track/4Xm0G6DRlWUjCgpKh5OPyv) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [Sunshine](https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0) | 3:21 |
 | 136 | [Milk and Toast and Honey](https://open.spotify.com/track/26WofNkvCADcYTfqA0yLnN) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Room Service \(Extended Version\)](https://open.spotify.com/album/3xcq8XRHl2VacEqcYZNJ2H) | 4:04 |
 | 137 | [Lost](https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:39 |

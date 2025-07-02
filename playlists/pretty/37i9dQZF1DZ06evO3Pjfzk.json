@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 93882,
+  "num_followers": 93960,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADRlw8bUvP9PiOYSOsmd4Kv",
+  "snapshot_id": "aGHTgAAAAAAGl4f0e0KEtBIcP6dR2FxG",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 204709,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eagle Feather",
         "url": "https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 201653,
       "name": "Feather In My Hat (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 204709,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
     },
     {
       "added_at": null,

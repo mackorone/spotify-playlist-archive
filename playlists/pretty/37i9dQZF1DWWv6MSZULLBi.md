@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,646 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,651 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lewis Capaldi, Nina Chuba, Lorde, Bausa und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,517 likes - 88 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,499 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

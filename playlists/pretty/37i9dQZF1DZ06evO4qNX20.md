@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,223 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,288 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 16 | [Armando Aguirre](https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Alma Enamorada](https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M) | 3:00 |
 | 17 | [Me Persigue Tu Sombra](https://open.spotify.com/track/6UgBKqtys1ddS9wnzfJBps) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:32 |
 | 18 | [Carta De Luto](https://open.spotify.com/track/1Z3kGH4Gr3QHeEjloB4GHQ) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 |
-| 19 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/3hPONUfgInu27vGEezmcWR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:11 |
-| 20 | [Corazoncito Tirano](https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:19 |
+| 19 | [Corazoncito Tirano](https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:19 |
+| 20 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/3hPONUfgInu27vGEezmcWR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:11 |
 | 21 | [Nocturno A Rosario](https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 |
 | 22 | [Jorge Cazares](https://open.spotify.com/track/7uyg1D20KT3R5tRlLSkkqJ) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:06 |
 | 23 | [Ramiro Sierra](https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:11 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 29 | [El Pitallón](https://open.spotify.com/track/2HvtcMIVVKLyiRekISxGk3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:46 |
 | 30 | [Mario Portillo](https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 4:02 |
 | 31 | [El Dos Dedos](https://open.spotify.com/track/5HPNKShAEtHcnKAaFmtsmR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:25 |
-| 32 | [Las Uvas](https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 3:10 |
-| 33 | [Rigo Campos](https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:40 |
+| 32 | [Rigo Campos](https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:40 |
+| 33 | [Las Uvas](https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 3:10 |
 | 34 | [María De La Luz](https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 4:02 |
 | 35 | [Julián Del Real](https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 2:40 |
 | 36 | [Corrido De Olegario](https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [Reto a la Muerte](https://open.spotify.com/track/1U7RVWs5oFa3e3eHN06W5F) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [20 Exitos](https://open.spotify.com/album/0nJ38JGt1eAIQx6PZ3wDk2) | 3:01 |
 | 50 | [Por Una Rencilla Vieja](https://open.spotify.com/track/2CMcLBaFgUFVkMeHnyhNGR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 3:38 |
 
-Snapshot ID: `aGCCAAAAAAC4t5FbRiHg09hUrNIloBzy`
+Snapshot ID: `aGHTgAAAAABmIoApETSvCp+y/XW43w8Z`

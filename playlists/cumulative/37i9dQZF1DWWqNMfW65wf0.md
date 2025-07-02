@@ -2,9 +2,9 @@
 
 ### [goodnight.](https://open.spotify.com/playlist/37i9dQZF1DWWqNMfW65wf0)
 
-> can't sleep? this might keep you company  💤
+> you are feeling sleepy, just go to sleep 💤
 
-148 songs - 7 hr 24 min
+153 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Calm Waters](https://open.spotify.com/track/5xY4aftKW7VJrOngL6VJIG) | [Veloré](https://open.spotify.com/artist/2uYIsfuXPti6GvkF05qW6Q) | [Calm Waters](https://open.spotify.com/album/55hETlk41l6szlTI9lA4ma) | 3:30 | 2025-02-28 |  |
 | [can't sleep](https://open.spotify.com/track/51h8OOwcmfbgkfU8SjcaV7) | [Nova Dust](https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI) | [can't sleep](https://open.spotify.com/album/5EQnwpuO2ayCxiNGefURQ1) | 2:12 | 2025-06-16 |  |
 | [Cepheus](https://open.spotify.com/track/4g4chEiLclZj9I7egaexvB) | [Deneber](https://open.spotify.com/artist/3PVhxeq0h8IPsVLVKmiluI) | [Cepheus](https://open.spotify.com/album/7z3FVq1h9wv7P1dj2bb7ac) | 2:29 | 2025-05-20 |  |
+| [Ceratonia](https://open.spotify.com/track/4PGLaWi0tW71crGW6DSIOB) | [Loch Lua](https://open.spotify.com/artist/1JJPFtcxFOpLgrbnhtvyqO) | [Ceratonia](https://open.spotify.com/album/4hbx8EL6RJ00LX6ASEG5qu) | 2:45 | 2025-07-01 |  |
 | [Cesula](https://open.spotify.com/track/4B5el6QHxMK4mjiA8QDvLh) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Cesula](https://open.spotify.com/album/0wLHMKKWuUyuhlyPGyxkcb) | 2:27 | 2025-02-28 |  |
-| [Cherry Blossom](https://open.spotify.com/track/038KeNjAMACcJBQ7yadyis) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Cherry Blossom](https://open.spotify.com/album/1bgYm1WkoUiOaqDF41fcf3) | 3:11 | 2025-02-28 |  |
+| [Cherry Blossom](https://open.spotify.com/track/038KeNjAMACcJBQ7yadyis) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Cherry Blossom](https://open.spotify.com/album/1bgYm1WkoUiOaqDF41fcf3) | 3:11 | 2025-02-28 | 2025-07-02 |
 | [Christmas Flutes](https://open.spotify.com/track/3f2TR0iYxBQnmLt84NpTrD) | [Pure Purposes](https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY) | [Christmas Flutes](https://open.spotify.com/album/1PbSKLKCPdmSmLa0ws0iOB) | 2:33 | 2025-02-28 | 2025-04-05 |
 | [cold hands](https://open.spotify.com/track/6ocoQ7GfNXWpPVTHqdOKZC) | [halfsoul](https://open.spotify.com/artist/4lbFdz2lQ1V2gAlmCvVuy0) | [cold hands](https://open.spotify.com/album/44ThNHZRLkZ8ZrRTpmqGqm) | 1:36 | 2025-06-16 |  |
 | [Collapse](https://open.spotify.com/track/0iqivJVCS7xVJkIbDnHNH2) | [Northern Sirens](https://open.spotify.com/artist/5qtIa4GIOYRDRH18X2Ru1C) | [Collapse](https://open.spotify.com/album/44DVcnSfBcAHtneBoDzNN2) | 3:38 | 2025-02-28 |  |
@@ -43,6 +44,7 @@
 | [Diamond Sutra](https://open.spotify.com/track/6RFf8vnZYUNvA60TckNSGY) | [Wanderminds](https://open.spotify.com/artist/1klTTHODeL7EIW2Kd0nWUL) | [Diamond Sutra](https://open.spotify.com/album/08X6YSD8AykiPTJk0IiIZT) | 2:53 | 2025-02-28 |  |
 | [Divinity](https://open.spotify.com/track/4CiLp22MqtNOx8aY2pxXHA) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Divinity](https://open.spotify.com/album/01r2Bj3gFjGAkHcmi4OueG) | 2:52 | 2025-02-28 |  |
 | [Divinity Code](https://open.spotify.com/track/3ttGGcnPM2uEl7ypEUBWI3) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Divinity Code](https://open.spotify.com/album/1aI9zCtmkt8FLZ5q5HzswX) | 2:43 | 2025-04-29 |  |
+| [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-01 |  |
 | [Down The Path](https://open.spotify.com/track/5cmX2WLuzNuiCGTHd1BqMM) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Down The Path](https://open.spotify.com/album/3ew7IVFptGHoMTqenBa0nS) | 3:18 | 2025-02-28 |  |
 | [Dream Night](https://open.spotify.com/track/4jpl9zetwW7XtmMrCbejxS) | [Space Nebula](https://open.spotify.com/artist/2ikFx3AkUWNVbXei3YdBCO) | [Dream Night](https://open.spotify.com/album/0vTt9ErrB2dfzSJGC5vim6) | 2:58 | 2025-04-04 |  |
 | [Dreamcatcher](https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS) | [Rikkas](https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us) | [Dreamcatcher](https://open.spotify.com/album/2ZmeAZ258xhc6jPbJysT2o) | 2:59 | 2025-02-28 |  |
@@ -58,6 +60,7 @@
 | [Espacio Sagrado](https://open.spotify.com/track/2bVxRMmGrjNcuGChzWugK6) | [Ayla Nenura](https://open.spotify.com/artist/0xHbH4Lf2B7lHMjMMT1gRs) | [Espacio Sagrado](https://open.spotify.com/album/77G3sJ9ji3fwa57ng6rpFr) | 2:20 | 2025-05-20 |  |
 | [Evening Stars](https://open.spotify.com/track/6geMaeSsCLqQfjsQ4crgje) | [Vibescape](https://open.spotify.com/artist/13SkEtLTwkdAEShkRmXNsS) | [Evening Stars](https://open.spotify.com/album/2ho8Plordw25t2C1I5YZSz) | 2:16 | 2025-02-28 |  |
 | [Faded Years](https://open.spotify.com/track/6gZexfxBmAqMiQ4KJOxHvD) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Faded Years](https://open.spotify.com/album/1mpt0f45e3ln9qazTfubfz) | 2:50 | 2025-02-28 |  |
+| [fauna](https://open.spotify.com/track/6o9Df3i1O2fwYt2pkKoc0I) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [fauna](https://open.spotify.com/album/0t02D4L0K9OdsRQOMf1Gfo) | 2:58 | 2025-07-01 |  |
 | [Feel the Blue](https://open.spotify.com/track/6Ma2XgwgbXGDdtqLvJlyJA) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Feel the Blue](https://open.spotify.com/album/4tGb78udAD0BlbS2cKoNSa) | 2:26 | 2025-06-09 |  |
 | [Fire](https://open.spotify.com/track/0xSMpYJGWNJEFDXxnA93D5) | [Deep Seek](https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy) | [Fire](https://open.spotify.com/album/6jgjuNUC7ZJDiKAmMSisoK) | 2:49 | 2025-02-28 |  |
 | [Fireflies](https://open.spotify.com/track/3atAfR4aXUyhTaO387Uemj) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Fireflies](https://open.spotify.com/album/4BgQbbSfFkKQhcwtZnrx47) | 3:22 | 2025-04-29 |  |
@@ -86,7 +89,8 @@
 | [Lueur](https://open.spotify.com/track/0AxN7eLbDMjTGaFQMeWN60) | [Le Coralie](https://open.spotify.com/artist/7svB5Mw6IP6Io3r7dEQi20) | [Lueur](https://open.spotify.com/album/3C2OyKWpQD0ojuDVNnhZIJ) | 2:58 | 2025-05-20 |  |
 | [Lunar Tides](https://open.spotify.com/track/66yCeBYojbYqwucauGK4lT) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Lunar Tides](https://open.spotify.com/album/5YEdY6cYiKiCfIltNLeB5e) | 3:20 | 2025-02-28 |  |
 | [Lyra](https://open.spotify.com/track/72PS1twWusWEETe5iTlFpL) | [Deneber](https://open.spotify.com/artist/3PVhxeq0h8IPsVLVKmiluI) | [Lyra](https://open.spotify.com/album/4GPkjNP2ekWuV90ILcsY9A) | 2:23 | 2025-06-09 |  |
-| [Marvel Statues](https://open.spotify.com/track/1tIHEoAZldLDgtUzSv3hcC) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Marvel Statues](https://open.spotify.com/album/0ZhLeDoEoVgYZP5YzDaOyz) | 3:01 | 2025-02-28 |  |
+| [Marvel Statues](https://open.spotify.com/track/1tIHEoAZldLDgtUzSv3hcC) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Marvel Statues](https://open.spotify.com/album/0ZhLeDoEoVgYZP5YzDaOyz) | 3:01 | 2025-02-28 | 2025-07-02 |
+| [meta\-lapse](https://open.spotify.com/track/5g2i0C15cB5EldHcKMBq4J) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [meta\-lapse](https://open.spotify.com/album/7DjuyxiJiSx2HGoLeiDsK3) | 3:30 | 2025-07-01 |  |
 | [midnight session](https://open.spotify.com/track/1BQZgeu6kzduKrI5TfqUIM) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [suffershade](https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [midnight session](https://open.spotify.com/album/3BBGbRPIohTjPDD5IK2cJX) | 1:36 | 2025-02-28 |  |
 | [Midsommar Lullaby](https://open.spotify.com/track/06OBsCF4QF4uTBBWNchv7t) | [tòna](https://open.spotify.com/artist/0KYrSXd1TGKtbF3Q2Xi2ib) | [Midsommar Lullaby](https://open.spotify.com/album/6G89DYbTiwPIxx3YSf8qjf) | 2:36 | 2025-05-20 |  |
 | [Moonlit Tides](https://open.spotify.com/track/1C0teNocGEAzGlxZAyxzmQ) | [Arctilok](https://open.spotify.com/artist/40mS9P51UfvhIamB24wx91) | [Moonlit Tides](https://open.spotify.com/album/4VFQwN7ZN8zH4oxVdde6Ew) | 3:36 | 2025-04-04 |  |
@@ -103,6 +107,7 @@
 | [Orion's Belt](https://open.spotify.com/track/32WBMMaZIiB3Mzp08cVPLS) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Orion's Belt](https://open.spotify.com/album/4iIPlEMUmcbnuUB6gATNFQ) | 2:27 | 2025-04-04 |  |
 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 | 2025-06-09 |  |
 | [Oändlig](https://open.spotify.com/track/3ZMX3XE6hZRTF2pBT6iJyc) | [Agnes Vidsjö](https://open.spotify.com/artist/41tdmj2pTCBWS8wXZfPZb5) | [Oändlig](https://open.spotify.com/album/6Kif9XeyE9PtGJrBBZzqqy) | 2:49 | 2025-02-28 |  |
+| [Passing Through](https://open.spotify.com/track/3YASnguqV1gi40P6XVsUpD) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Passing Through](https://open.spotify.com/album/3ILuXHlE12wfsanX5hnAMn) | 3:38 | 2025-07-01 |  |
 | [Pausing](https://open.spotify.com/track/0pEePWF8FcLdOHnFjf29A2) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Pausing](https://open.spotify.com/album/4FauwXnGSO6M0ShtrrG28X) | 2:50 | 2025-04-04 |  |
 | [Pegasus](https://open.spotify.com/track/1jGS8rm7Te3H04MCyH9mEB) | [A Deeper Sense](https://open.spotify.com/artist/34C1icJqIMVraGaiyybDSW) | [Pegasus](https://open.spotify.com/album/1cz9axpFgE3LYTvOr45CQZ) | 2:35 | 2025-02-28 |  |
 | [Pleasure For Sense](https://open.spotify.com/track/4442bEF4hlMtibMoInOHXU) | [Above Neon](https://open.spotify.com/artist/5c1cJaN0HDFVtzxD5yY85E) | [Pleasure For Sense](https://open.spotify.com/album/0N5tyokgtWSl0wkOdzKUAd) | 2:43 | 2025-02-28 |  |
@@ -128,7 +133,7 @@
 | [Song for You](https://open.spotify.com/track/20v3MJLKuVwMjAfXlCkVvY) | [Quies Mentis](https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT) | [Song for You](https://open.spotify.com/album/6MAOc8ruWuzxdXztcNiCzO) | 2:55 | 2025-02-28 |  |
 | [Sova](https://open.spotify.com/track/0aRsStJ9thnpiSPL4cHazY) | [Oak Signum](https://open.spotify.com/artist/778Jcgt9K46ugLXd2DgsKy) | [Sova](https://open.spotify.com/album/5SMakHDUPZnxnQEcCrJquj) | 2:47 | 2025-02-28 |  |
 | [Spirit Drone](https://open.spotify.com/track/7FxyHCVNAVPIIwXQa2XMCs) | [C\. Seffora](https://open.spotify.com/artist/0QZTkU8lVulswGYzloetsp) | [Spirit Drone](https://open.spotify.com/album/1u7z4vSmuU1x8ebJDHm8pb) | 4:00 | 2025-02-28 |  |
-| [Stay](https://open.spotify.com/track/4sSpGrqmO2lT3iDiaFU8Tu) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Flora](https://open.spotify.com/album/6DK4BWKtXmcObGitoU9D4j) | 7:39 | 2025-02-28 |  |
+| [Stay](https://open.spotify.com/track/4sSpGrqmO2lT3iDiaFU8Tu) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Flora](https://open.spotify.com/album/6DK4BWKtXmcObGitoU9D4j) | 7:39 | 2025-02-28 | 2025-07-02 |
 | [Stella](https://open.spotify.com/track/0qWCRE6OeQNEy0w7l1DS7Q) | [Under the Stars](https://open.spotify.com/artist/6p1G6IzT5hRsjq7pwCkOqI) | [Stella](https://open.spotify.com/album/0BMf0gfPZxsmTavxu83ETn) | 3:04 | 2025-04-29 |  |
 | [Submerge](https://open.spotify.com/track/1oxqltzMnBZBuBmXOFz5IF) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Submerge](https://open.spotify.com/album/2bY0J5ekEMo5G5RpjzVE62) | 2:21 | 2025-05-20 |  |
 | [Superior One](https://open.spotify.com/track/6ZHECfXA39MVACMuHInTH0) | [Semi Sphere](https://open.spotify.com/artist/1cTlMGKyJ6rAlPDTX3AKLU) | [Superior One](https://open.spotify.com/album/7chyTDzEXesDEjCQtU3Ylh) | 3:24 | 2025-02-28 |  |

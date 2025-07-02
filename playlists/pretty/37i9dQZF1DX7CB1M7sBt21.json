@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 21760,
+  "num_followers": 21779,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,30 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -387,30 +411,6 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Tillf\u00e4lligheter / Hungry Hearts (Mashup)",
         "url": "https://open.spotify.com/album/2dJWXi5jTW9MFHJ17ruXFc"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 194933,
       "name": "Tillf\u00e4lligheter / Hungry Hearts - Mashup",
       "url": "https://open.spotify.com/track/2BCskl15k3IkQmj2YTYk2b"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "added_at": "2024-08-29 22:00:00",

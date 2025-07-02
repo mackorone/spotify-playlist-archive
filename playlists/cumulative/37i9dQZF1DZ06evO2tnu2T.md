@@ -4,7 +4,7 @@
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-17 songs - 53 min 4 sec
+18 songs - 55 min 45 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 | 2025-05-03 |  |
 | [Stay With Me](https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [The Sun Comes Up](https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p) | 3:25 | 2025-05-03 |  |
 | [Stay With Me \(with Absolutely\)](https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Stay With Me \(with Absolutely\)](https://open.spotify.com/album/5IcJs3auFFMiIxrDqqweC6) | 3:26 | 2025-05-10 | 2025-06-17 |
-| [Symphony](https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:41 | 2025-05-03 |  |
+| [Symphony](https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:41 | 2025-07-02 |  |
+| [Symphony](https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:41 | 2025-05-03 | 2025-07-02 |
 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2025-05-03 |  |
 | [Window](https://open.spotify.com/track/4tyFeHplcXUlAFhb6y28AT) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:23 | 2025-05-03 | 2025-06-18 |
 

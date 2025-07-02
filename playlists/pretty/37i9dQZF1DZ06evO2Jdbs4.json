@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29703,
+  "num_followers": 29709,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADztoHuRHJqQXh7Gt3BFT4u",
+  "snapshot_id": "aGHTgAAAAABRG16Xj1y4CQgmljD1epQh",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Separarnos",
-      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/7wWbD4WnxyLy7bix3d07r3"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/2G6gnsbzUJYDCGHOtIBoWy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Separarnos",
+      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 170426,
-      "name": "Me Derrito (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 194874,
       "name": "Separarnos - En Vivo",
       "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
     },
     {
       "added_at": null,

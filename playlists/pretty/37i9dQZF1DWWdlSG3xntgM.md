@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,217 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,216 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 17 | [Chuyện hẹn hò](https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt) | [Nhật Trường](https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 5:05 |
 | 18 | [Chuyến tàu hoàng hôn](https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Thương Về Miền Trung](https://open.spotify.com/album/3N6nwHtcPzuxlnwWFj4jYA) | 5:36 |
 | 19 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1SqPuyurBgZXwhIj2oP2lU) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 4:52 |
-| 20 | [Mưa Lệ](https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH) | [Tuấn Anh](https://open.spotify.com/artist/4zQeGGpvdaprG8JNG2pueS) | [Hương Tình Cũ 2](https://open.spotify.com/album/6dx0sFloEPYu8goYx9Hmpr) | 4:21 |
-| 21 | [Hoa Su Nha Nang](https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Hoa Su Nha Nang](https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J) | 4:25 |
+| 20 | [Hoa Su Nha Nang](https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Hoa Su Nha Nang](https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J) | 4:25 |
+| 21 | [Mưa Lệ](https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH) | [Tuấn Anh](https://open.spotify.com/artist/4zQeGGpvdaprG8JNG2pueS) | [Hương Tình Cũ 2](https://open.spotify.com/album/6dx0sFloEPYu8goYx9Hmpr) | 4:21 |
 | 22 | [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 |
 | 23 | [Giọt Lệ Đài Trang \(feat\. Hoài Lâm\)](https://open.spotify.com/track/29MAQcIvkJOQ0NVceIdElR) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad), [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Xót Xa](https://open.spotify.com/album/0WTjdkH320Kk3jiUeCWLU5) | 5:55 |
 | 24 | [Tình Đời](https://open.spotify.com/track/3AapzAOz30pa0xmE9ojPh1) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 1](https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp) | 4:51 |

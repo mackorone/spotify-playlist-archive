@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,878 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,877 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 33 | [JZWWZJ](https://open.spotify.com/track/6SHI61VemlOua5StSLM6sL) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW), [DJ Gondek](https://open.spotify.com/artist/77rH9w8wnkKGNrKDSAFOsU) | [Życia Weteran](https://open.spotify.com/album/56axY2U9ujBdKqkPz7e07p) | 2:51 |
 | 34 | [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 |
 | 35 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |
-| 36 | [LV Parano](https://open.spotify.com/track/6J7a6S2F6yMGVlNIfEq2P6) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [LV Parano](https://open.spotify.com/album/3ekTeWvVUxFxgFhuVL4fm1) | 2:41 |
-| 37 | [Królowie Demolki](https://open.spotify.com/track/1VrkYX7OUcfbBKA6PN3mbK) | [Donguralesko](https://open.spotify.com/artist/7kaEEK2cQh07aEfEEBd4Hn), [Fokus](https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [MIEJSKIE PTAKI](https://open.spotify.com/album/1vcnO1M72SNnU1Ctsc9nyk) | 3:50 |
+| 36 | [Królowie Demolki](https://open.spotify.com/track/1VrkYX7OUcfbBKA6PN3mbK) | [Donguralesko](https://open.spotify.com/artist/7kaEEK2cQh07aEfEEBd4Hn), [Fokus](https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [MIEJSKIE PTAKI](https://open.spotify.com/album/1vcnO1M72SNnU1Ctsc9nyk) | 3:50 |
+| 37 | [LV Parano](https://open.spotify.com/track/6J7a6S2F6yMGVlNIfEq2P6) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [LV Parano](https://open.spotify.com/album/3ekTeWvVUxFxgFhuVL4fm1) | 2:41 |
 | 38 | [młody gandolfini](https://open.spotify.com/track/3tf8gSdD6Ch9Rz4H2uJKOO) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [młody gandolfini](https://open.spotify.com/album/3hzZqUcymHfXpnuo9Czhig) | 2:32 |
 | 39 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
 | 40 | [JOHNNY DANG](https://open.spotify.com/track/2Q8WXdzGE4okUzDWbzKH48) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [JOHNNY DANG](https://open.spotify.com/album/37cllReDw2lRsZsOdUl2lT) | 3:00 |

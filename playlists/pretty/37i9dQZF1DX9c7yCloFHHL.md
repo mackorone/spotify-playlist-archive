@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Mark Van Hoen
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,744 likes - 110 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,837 likes - 110 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

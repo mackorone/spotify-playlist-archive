@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,626 likes - 90 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,993 likes - 90 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

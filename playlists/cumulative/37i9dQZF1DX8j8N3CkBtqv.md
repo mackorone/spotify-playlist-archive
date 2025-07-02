@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Justh and other exciting artists.
 
-1,090 songs - 2 day 11 hr 28 min
+1,091 songs - 2 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [Jee Lunga](https://open.spotify.com/track/3G2Dmfxo9W68twpibDaJPr) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31) | [Jee Lunga](https://open.spotify.com/album/2WlLGC3mfJxVmnaSCHA0SS) | 3:23 | 2024-08-09 | 2024-09-28 |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 | 2023-06-30 |
 | [Jheelon Pe Shaam](https://open.spotify.com/track/6uT0YnvjK2AgqctOoJAuvX) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Vedang Gaikwad](https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Himalayan Harmonies](https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS) | [Harvest](https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI) | 4:09 | 2024-10-11 | 2024-11-23 |
-| [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 | 2025-06-13 |  |
+| [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 | 2025-06-13 | 2025-07-02 |
 | [Ji Huzoori](https://open.spotify.com/track/63mIuWznP6M5oWDYpINFZt) | [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Ji Huzoori](https://open.spotify.com/album/64BxUYvr0aAt7ARQUgFAXx) | 2:54 | 2024-05-03 | 2024-06-15 |
 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 | 2025-03-27 |  |
 | [Jiya Jaise](https://open.spotify.com/track/0HN9mR6ajzVOnJcD4L0R8Z) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jiya Jaise](https://open.spotify.com/album/7cOkHnDXeP1bZYiscIIMcj) | 3:30 | 2024-01-12 | 2024-03-30 |
@@ -672,6 +672,7 @@
 | [Moondance](https://open.spotify.com/track/17yvccxoD44O8rWIa0P03W) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Moondance](https://open.spotify.com/album/7qQifVVRwztG6YPGvU8sBr) | 3:24 | 2023-10-27 | 2023-12-02 |
 | [More Sajan](https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [More Sajan](https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN) | 2:04 | 2024-02-16 | 2024-03-23 |
 | [Move On Easily](https://open.spotify.com/track/6ElUtgbpiJwI78vjyEaHfo) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Move On Easily](https://open.spotify.com/album/1TDsEMuoijSkiP8iy8jlG0) | 3:09 | 2024-09-13 | 2024-10-04 |
+| [Mujhe Bhool Na Jaana](https://open.spotify.com/track/4g2SYiEMqvMKO762SjEWLh) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Mujhe Bhool Na Jaana](https://open.spotify.com/album/7kZghidlh6PB9ooIDBrnn8) | 3:26 | 2025-06-27 |  |
 | [Mujhe Jaane Do](https://open.spotify.com/track/1s4i0g5V562jjLKkPnSoAd) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Mujhe Jaane Do](https://open.spotify.com/album/4gBunWnRTT67ZMoY4XHRfs) | 4:20 | 2024-08-30 | 2024-09-21 |
 | [Mujhsa Agar Mile](https://open.spotify.com/track/00cuNiTXGhs2ivGjn0Qatl) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Mujhsa Agar Mile](https://open.spotify.com/album/1hMptdBJhUVx82a45o2azd) | 4:14 | 2024-08-16 | 2024-10-12 |
 | [Mukhatib](https://open.spotify.com/track/7C8p5um8QfjaiFkgB3j2iX) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Mukhatib](https://open.spotify.com/album/7hEFhZS4TaY0StC4DDv4of) | 3:52 | 2024-09-13 | 2024-11-09 |

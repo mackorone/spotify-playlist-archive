@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Dr\. Prinz and Chizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,314 likes - 80 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,350 likes - 80 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 52 | [Judah \- Live](https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Judah \(Live\)](https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd) | 8:54 |
 | 53 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
 | 54 | [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 |
-| 55 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
-| 56 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
+| 55 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
+| 56 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
 | 57 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
 | 58 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 |
 | 59 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |

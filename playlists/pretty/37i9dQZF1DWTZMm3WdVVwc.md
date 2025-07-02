@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,006 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,007 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 60 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 |
 | 61 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |
 | 62 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |
-| 63 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 |
-| 64 | [O Holy Night](https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [O Holy Night](https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9) | 3:25 |
-| 65 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
-| 66 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
+| 63 | [O Holy Night](https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [O Holy Night](https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9) | 3:25 |
+| 64 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 |
+| 65 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
+| 66 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 67 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 |
 | 68 | [Liebe vor der Tür](https://open.spotify.com/track/7nDAkQ4VSflNta0tR9Rykq) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Liebe vor der Tür](https://open.spotify.com/album/2YxiPjSaIAKzJXFU9Tq6y3) | 3:00 |
 | 69 | [marble latte](https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [marble latte](https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6) | 3:37 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 72 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
 | 73 | [Do They Know It's Christmas? \- 2024 Ultimate Mix](https://open.spotify.com/track/3cK10zROGQYpqa3vsU6bs9) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/3U7g9bUNcfD41XNVhtrwY7) | 4:58 |
 | 74 | [ブービー・プライズ](https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブービー・プライズ](https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT) | 4:01 |
-| 75 | [枯葉のステーション](https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [枯葉のステーション](https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU) | 5:51 |
-| 76 | [FAREWELL](https://open.spotify.com/track/3ce6LGqKRakOk6SsZthMdO) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [cocomi](https://open.spotify.com/artist/2bHwzeISpKCS9xQKqaKAaD) | [FAREWELL](https://open.spotify.com/album/2I1wPlx5OuoM0m4sRwP7Rw) | 3:31 |
+| 75 | [FAREWELL](https://open.spotify.com/track/3ce6LGqKRakOk6SsZthMdO) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [cocomi](https://open.spotify.com/artist/2bHwzeISpKCS9xQKqaKAaD) | [FAREWELL](https://open.spotify.com/album/2I1wPlx5OuoM0m4sRwP7Rw) | 3:31 |
+| 76 | [枯葉のステーション](https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [枯葉のステーション](https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU) | 5:51 |
 | 77 | [愛のうた](https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF) | 4:32 |
 | 78 | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq) | 3:34 |
 | 79 | [Sayonara no mahou](https://open.spotify.com/track/3EMQeu65z8Syt10BIKe3Tt) | [Kanau Matsumura](https://open.spotify.com/artist/03dBLURxQxZxLkYKteHBEN) | [Sayonara no mahou](https://open.spotify.com/album/2Pe3RCQd8S7fQdEZ3atixC) | 3:49 |

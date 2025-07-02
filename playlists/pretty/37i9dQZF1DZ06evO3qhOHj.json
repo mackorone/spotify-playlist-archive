@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 29687,
+  "num_followers": 29696,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACn/CoPEVnsPnfTYCCxR9IN",
+  "snapshot_id": "aGHTgAAAAABnsOtuumfR/8LYtUgcbOJF",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
-        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Seven Impossible Days",
-      "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Cuts: The Best Of The Ballads",
         "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 306560,
       "name": "You Don't Have to Be Strong",
       "url": "https://open.spotify.com/track/2fEWmr3cr5A00CFd6NaKNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
+        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Seven Impossible Days",
+      "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
-      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Man [Expanded]",
         "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 288600,
       "name": "If That's What It Takes",
       "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
+      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 226706,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+      "duration_ms": 200453,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
+      "duration_ms": 226706,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Take A Walk - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
+      "duration_ms": 289266,
+      "name": "Big Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...The Stories We Could Tell",
-        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 259293,
-      "name": "Just Let Your Heart Decide",
-      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
+      "duration_ms": 252533,
+      "name": "My Kinda Woman - 2021 Remastered",
+      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
     },
     {
       "added_at": null,
@@ -756,15 +756,15 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 289266,
-      "name": "Big Love - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+        "name": "...The Stories We Could Tell",
+        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 252533,
-      "name": "My Kinda Woman - 2021 Remastered",
-      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
+      "duration_ms": 259293,
+      "name": "Just Let Your Heart Decide",
+      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
     },
     {
       "added_at": null,

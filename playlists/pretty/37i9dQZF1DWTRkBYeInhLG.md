@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,443 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,460 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 25 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
 | 26 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
 | 27 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
-| 28 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
-| 29 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
+| 28 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
+| 29 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 30 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
 | 31 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 32 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 71 | [Ekspektasi](https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1), [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Ekspektasi](https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M) | 4:59 |
 | 72 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
 | 73 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 |
-| 74 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
-| 75 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
+| 74 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
+| 75 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
 | 76 | [Pergi Untuk Kembali](https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Ello](https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s) | 4:27 |
 | 77 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
 | 78 | [Bukan Cinta Biasa \- Dekade Version](https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 
 > Las divas del pop latino de ayer y hoy\. Foto: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,587 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,617 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 | 19 | [Tusa](https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:21 |
 | 20 | [No Querías Lastimarme](https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
 | 21 | [Tú No Eres Para Mi](https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Dos](https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo) | 3:25 |
-| 22 | [La\_Original.mp3](https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:20 |
-| 23 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
+| 22 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
+| 23 | [La\_Original.mp3](https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:20 |
 | 24 | [Cuando Te Besé](https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:16 |
 | 25 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
 | 26 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |

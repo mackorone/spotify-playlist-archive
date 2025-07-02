@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 21041,
+  "num_followers": 21047,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,42 @@
     {
       "added_at": "2025-06-27 03:01:21",
       "album": {
+        "name": "SOLEAO",
+        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
+    },
+    {
+      "added_at": "2025-06-27 03:01:21",
+      "album": {
+        "name": "EXPECTATIVAS",
+        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "EXPECTATIVAS",
+      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
+    },
+    {
+      "added_at": "2025-06-27 03:01:21",
+      "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
       },
@@ -87,22 +123,6 @@
     {
       "added_at": "2025-06-27 03:01:21",
       "album": {
-        "name": "EXPECTATIVAS",
-        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "EXPECTATIVAS",
-      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
-    },
-    {
-      "added_at": "2025-06-27 03:01:21",
-      "album": {
         "name": "OHNANA",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
@@ -115,6 +135,26 @@
       "duration_ms": 156577,
       "name": "OHNANA",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2025-06-27 03:01:21",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
       "added_at": "2025-06-27 03:01:21",
@@ -143,26 +183,6 @@
     {
       "added_at": "2025-06-27 03:01:21",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
-    },
-    {
-      "added_at": "2025-06-27 03:01:21",
-      "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 158571,
       "name": "AEROMO\u00c7A",
       "url": "https://open.spotify.com/track/48prukdF0AI4Q7AMOzkxnQ"
-    },
-    {
-      "added_at": "2025-06-27 03:01:21",
-      "album": {
-        "name": "SOLEAO",
-        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "SOLEAO",
-      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
     },
     {
       "added_at": "2025-06-27 03:01:21",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-06-27 03:01:21",
       "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2025-06-27 03:01:21",
+      "album": {
         "name": "A Beira Mar",
         "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 228735,
       "name": "A Beira Mar",
       "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
-    },
-    {
-      "added_at": "2025-06-27 03:01:21",
-      "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2025-06-27 03:01:21",

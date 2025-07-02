@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 488989,
+  "num_followers": 489043,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
         }
       ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -683,22 +699,6 @@
       "duration_ms": 257426,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "GPS (w/ Felly)",
-        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 168316,
-      "name": "GPS (w/ Felly)",
-      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 243680,
       "name": "Humble & Kind",
       "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "GPS (w/ Felly)",
+        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 168316,
+      "name": "GPS (w/ Felly)",
+      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
       "artists": [
         {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
         }
       ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Desert Song",
-        "url": "https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2"
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
       },
       "artists": [
         {
-          "name": "s\u00e4je",
-          "url": "https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi"
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
         }
       ],
-      "duration_ms": 235474,
-      "name": "Desert Song",
-      "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1431,6 +1415,22 @@
       "duration_ms": 151828,
       "name": "Not a Man, Not a Woman",
       "url": "https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Desert Song",
+        "url": "https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2"
+      },
+      "artists": [
+        {
+          "name": "s\u00e4je",
+          "url": "https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi"
+        }
+      ],
+      "duration_ms": 235474,
+      "name": "Desert Song",
+      "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
-      },
-      "artists": [
-        {
-          "name": "The National Forest",
-          "url": "https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "A Running Start",
         "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
+      },
+      "artists": [
+        {
+          "name": "The National Forest",
+          "url": "https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Such Love Does",
-        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Such Love Does",
-      "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 323591,
       "name": "River",
       "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Such Love Does",
+        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "Such Love Does",
+      "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Wildflowers In The Sky",
-        "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
+        "name": "Reliance",
+        "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Amy Jay",
+          "url": "https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3"
         }
       ],
-      "duration_ms": 162099,
-      "name": "Wildflowers In The Sky",
-      "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
+      "duration_ms": 219245,
+      "name": "Reliance",
+      "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Reliance",
-        "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
+        "name": "Wildflowers In The Sky",
+        "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
       },
       "artists": [
         {
-          "name": "Amy Jay",
-          "url": "https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 219245,
-      "name": "Reliance",
-      "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
+      "duration_ms": 162099,
+      "name": "Wildflowers In The Sky",
+      "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
     },
     {
       "added_at": "2025-06-11 19:27:11",

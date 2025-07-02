@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,698 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,758 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 17 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 |
 | 18 | [Rainforest Life](https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:38 |
 | 19 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
-| 20 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
-| 21 | [Forest Stream and Ambience](https://open.spotify.com/track/7rl0hWyHYElIiRhIeSI9C9) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:05 |
+| 20 | [Forest Stream and Ambience](https://open.spotify.com/track/7rl0hWyHYElIiRhIeSI9C9) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:05 |
+| 21 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
 | 22 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 |
 | 23 | [Distant Gentle Stream](https://open.spotify.com/track/3VtBYUFa9A3oqOrale3kO2) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
 | 24 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 64 | [Pouring River & Forest Sounds](https://open.spotify.com/track/7pecvxazasdLJwT4IQbmUa) | [Reikini](https://open.spotify.com/artist/41EYcaGVBz9149nNS89YYJ) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 4:33 |
 | 65 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
 | 66 | [Sleep Under The Leaves](https://open.spotify.com/track/1PsGLGg9ohMYigEsqoQrqQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Wild life](https://open.spotify.com/album/4EcVNjlDHEfNuS8OsnbQ4z) | 3:28 |
-| 67 | [Tropical Rain](https://open.spotify.com/track/1pemaAsyKtm9yvwGDTu8oZ) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Tutendo](https://open.spotify.com/album/6ccWP7k4DNx6t9TXJyBy4o) | 2:50 |
-| 68 | [Echoes of the Forest](https://open.spotify.com/track/2SyWrYLmK4Ax5wCtoKVdNQ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Echoes of the Forest](https://open.spotify.com/album/7xnEZ83r1Y3etJS0ofFQK4) | 2:23 |
-| 69 | [Rainforest](https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:55 |
-| 70 | [Rain Forest Birds](https://open.spotify.com/track/2yX5Adexq0JukUGJvqlkYA) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 2:40 |
-| 71 | [Tropical Rainbirds](https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:05 |
+| 67 | [Echoes of the Forest](https://open.spotify.com/track/2SyWrYLmK4Ax5wCtoKVdNQ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Echoes of the Forest](https://open.spotify.com/album/7xnEZ83r1Y3etJS0ofFQK4) | 2:23 |
+| 68 | [Tropical Rain](https://open.spotify.com/track/1pemaAsyKtm9yvwGDTu8oZ) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Tutendo](https://open.spotify.com/album/6ccWP7k4DNx6t9TXJyBy4o) | 2:50 |
+| 69 | [Tropical Rainbirds](https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:05 |
+| 70 | [Rainforest](https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:55 |
+| 71 | [Rain Forest Birds](https://open.spotify.com/track/2yX5Adexq0JukUGJvqlkYA) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 2:40 |
 | 72 | [Forest for rest](https://open.spotify.com/track/09ivEmCidtMHce7mS2XInL) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Forest Rain Sounds](https://open.spotify.com/album/0u5LVWFnf1IB2fXEhg2WkO) | 2:44 |
 | 73 | [Na Foresta](https://open.spotify.com/track/6z3iPlhweUAe8gWOeYWYX4) | [Precipitação](https://open.spotify.com/artist/46km264wFWt9vtPfr9kls2) | [Chove Chuva](https://open.spotify.com/album/3tFdVqYCmj14H7FTOn3bOq) | 2:46 |
 | 74 | [Sierra Nevada Dawn after Rain](https://open.spotify.com/track/53rnuqvDjs2SfnL94Barm1) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Sierra Nevada Dawn after Rain](https://open.spotify.com/album/7tpj7GkDDjYietM3PHPM4c) | 2:03 |

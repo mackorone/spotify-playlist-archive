@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: Lil Tecca
 
-1,386 songs - 2 day 19 hr 27 min
+1,387 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1330,6 +1330,7 @@
 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 | 2023-10-27 | 2023-12-09 |
 | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh) | 2:33 | 2024-08-02 | 2024-08-10 |
 | [Went Left \(feat\. G Herbo\)](https://open.spotify.com/track/0rMQahunK7ZPXTioVbBCim) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hella Greedy](https://open.spotify.com/album/2EuvkUe8SavQcxrRmolxtk) | 3:30 | 2024-10-18 | 2024-10-26 |
+| [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 | 2025-07-01 |  |
 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 | 2023-11-11 |
 | [Wet](https://open.spotify.com/track/3HJieeTlsEvplHO5HjDcLx) | [Bella Blaq](https://open.spotify.com/artist/5fVqCTmEK6KwE54TdziL3R) | [Wet](https://open.spotify.com/album/70nl5X9CS497Y9SndPc4zE) | 3:06 | 2022-05-20 | 2022-05-28 |
 | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/album/7oiCF1Nw8pNFHkA8TS2bwV) | 2:41 | 2022-06-03 | 2023-01-21 |

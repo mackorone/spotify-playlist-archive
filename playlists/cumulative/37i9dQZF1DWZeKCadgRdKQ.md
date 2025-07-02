@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-917 songs - 1 day 22 hr 13 min
+925 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,9 @@
 | [Aerial](https://open.spotify.com/track/51UIPuuBH2tK7N8KqqlVzI) | [Yume](https://open.spotify.com/artist/4BgMskNNvTm3R0amoQs2eD) | [Aerial](https://open.spotify.com/album/7F4Szz93gGrxD7JlAQyeaa) | 2:54 | 2025-06-12 |  |
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 | 2023-09-26 |
 | [Afloat](https://open.spotify.com/track/12cv99jtRwMqsEnRuUYUNL) | [GLADE](https://open.spotify.com/artist/20XycE4QYZIKItSVkGu0Gl) | [Afloat](https://open.spotify.com/album/4ZS72CW48tIEqgMRIHGT4R) | 2:39 | 2023-07-28 | 2024-11-22 |
+| [Afterglow](https://open.spotify.com/track/78p6SGjhMfPRocbv0EqO8Z) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Afterglow](https://open.spotify.com/album/4K0uC1ME8vTAczHNhQ31R3) | 2:37 | 2025-07-01 |  |
 | [Airglow](https://open.spotify.com/track/3YMYq87kCu0qFlqtof3q8E) | [Víolet Dawn](https://open.spotify.com/artist/7oZu4iBcw4ZT653Xo0pADm) | [Airglow](https://open.spotify.com/album/5AV8HyK3KDVBAtkSVYhHau) | 2:16 | 2024-03-08 | 2025-03-15 |
+| [Aligned](https://open.spotify.com/track/1edcxn4D9VKWDMHDjA1K7f) | [Space Access](https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy) | [Aligned](https://open.spotify.com/album/2tILE2uSqrLWfxlXwcZVDM) | 2:04 | 2025-07-01 |  |
 | [All across the Globe](https://open.spotify.com/track/45wivOLIh3TwUciPUMPN0W) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [All across the Globe](https://open.spotify.com/album/13uxP2KvlBtwe08xh7eFvM) | 2:37 | 2024-07-14 | 2025-02-15 |
 | [All at Once](https://open.spotify.com/track/2zMC6uUmuF3XCWkO6cDSF2) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [All at Once](https://open.spotify.com/album/19NsKwr1MJ01pITOxAFX0x) | 2:53 | 2025-02-07 | 2025-04-24 |
 | [Allegria](https://open.spotify.com/track/7KtjtJqxdejIq2k1bSW4h1) | [Gabriel Stone](https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1) | [Allegria](https://open.spotify.com/album/5VBxggRl9srHJJamuknQCp) | 2:18 | 2024-12-04 | 2025-06-13 |
@@ -78,6 +80,7 @@
 | [Behind the World](https://open.spotify.com/track/03VnvcUaAxCkmtk2YrTlZb) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 4:06 | 2019-06-19\* | 2020-08-07 |
 | [Believer](https://open.spotify.com/track/2FNyRpa6cSEWiJ3gjcC2pC) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Believer](https://open.spotify.com/album/03dNrcidXhnTMwnQwxAYc4) | 2:24 | 2024-12-18 | 2025-06-13 |
 | [Better Days](https://open.spotify.com/track/6khlBlB6iShVLMqPbV6j9M) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Better Days](https://open.spotify.com/album/6eNxA6nl36qz8bWE1nrjoB) | 2:14 | 2025-04-01 |  |
+| [Between](https://open.spotify.com/track/7kjIIByD5cQiykH7Z4lDed) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Between](https://open.spotify.com/album/35FSmaNICV3GtYx81jS9SA) | 2:34 | 2025-07-01 |  |
 | [Between Planets](https://open.spotify.com/track/0CgRVRJbaVu2DKSbatJeln) | [Radical Blue](https://open.spotify.com/artist/5EXIwQ7w4WohTiKbmCqavs) | [Between Planets](https://open.spotify.com/album/4FE4fEl20wmVhtj9ZmU5Dq) | 2:54 | 2020-10-08 | 2021-11-19 |
 | [bewildered](https://open.spotify.com/track/3YszK66xCFReY90ys3jP6o) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [bewildered](https://open.spotify.com/album/2KZxDKcrrH3a9hdvgxfXNN) | 2:42 | 2022-07-27 | 2023-09-26 |
 | [Beyond](https://open.spotify.com/track/0NhNKKIvh1fRuyUN5iK39e) | [Pallendum](https://open.spotify.com/artist/4z7Kq8oX9JFwQuJrrvVqpZ) | [Beyond](https://open.spotify.com/album/77kNCdmb7dd0Nm7auAWrXF) | 2:05 | 2025-02-28 | 2025-04-02 |
@@ -152,7 +155,7 @@
 | [Clear Language](https://open.spotify.com/track/0JGfoZbSvYQiPVQQQSSxmr) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/3W9oDXNed8I4RJiQek5vkE) | 3:13 | 2019-06-19\* | 2021-09-03 |
 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 | 2019-06-19\* | 2023-08-25 |
 | [Closer](https://open.spotify.com/track/3kkH1XIAqtsWrb3vXdAnym) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Closer](https://open.spotify.com/album/3yOlCRaOGv6KmzkPKlzE8X) | 2:29 | 2019-06-19\* | 2020-08-07 |
-| [Cloud Reflection](https://open.spotify.com/track/3BoZ0xFlLM9mtjUfjW89zh) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Cloud Reflection](https://open.spotify.com/album/6qCjk57X0UmIBen3TUp0G9) | 2:35 | 2024-06-11 |  |
+| [Cloud Reflection](https://open.spotify.com/track/3BoZ0xFlLM9mtjUfjW89zh) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Cloud Reflection](https://open.spotify.com/album/6qCjk57X0UmIBen3TUp0G9) | 2:35 | 2024-06-11 | 2025-07-02 |
 | [Cloud5](https://open.spotify.com/track/1rfbQdf8AYt7qZOIzaP5PP) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Cloud5](https://open.spotify.com/album/6RBIvAncdozL6m8r0sdsxT) | 2:35 | 2022-06-29 | 2023-07-14 |
 | [clouds at dawn](https://open.spotify.com/track/37heyT3ubZt6EY0rYBZVXJ) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [clouds at dawn](https://open.spotify.com/album/4o5ZQeQKnvYuRr0CoMFF8Z) | 2:24 | 2024-02-13 | 2024-09-03 |
 | [Clovelly Dreams](https://open.spotify.com/track/55ojtTlWV3pyJLxIWEn0Z2) | [Zero Mileage](https://open.spotify.com/artist/6Ighdl27ZYCe5lkwr4nd0a) | [Clovelly Dreams](https://open.spotify.com/album/6F843Gp74FosoRk9RXvBs0) | 3:11 | 2019-06-19\* | 2021-09-14 |
@@ -261,8 +264,10 @@
 | [etoile](https://open.spotify.com/track/0UKBKrUMi31e2BKx1fiJFR) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [etoile](https://open.spotify.com/album/2PRw7mo9DtlhHaaE1I0O9O) | 3:17 | 2025-01-08 | 2025-03-15 |
 | [Eulogy](https://open.spotify.com/track/0yS587osB0zPG0JB01roTg) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Eulogy](https://open.spotify.com/album/2qZy8wp8au2NuByaBvaIB0) | 2:27 | 2022-06-24 | 2024-05-12 |
 | [Euphoria](https://open.spotify.com/track/2srKKTOmWUOEUZogGDTCIm) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Euphoria](https://open.spotify.com/album/7Bs1tiV1SjNSRzm2ZvJeVV) | 3:30 | 2019-06-19\* | 2019-06-27 |
+| [Euphoria](https://open.spotify.com/track/5HDitxtwaHT876SXXQzZbK) | [Traviamo](https://open.spotify.com/artist/61ZwXCWZbNHt1s9LNlWvOq) | [Euphoria](https://open.spotify.com/album/27xA83u4rgYbXTXtVQzmnQ) | 2:29 | 2025-07-01 |  |
 | [Event Horizon](https://open.spotify.com/track/7lSHfDPdyGdRyG234h5ToK) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 5:10 | 2019-06-27 | 2020-12-24 |
 | [Everest](https://open.spotify.com/track/5OHNiEcJSvVv2gB8dd5ntH) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Dear Avalanche](https://open.spotify.com/album/1Q4lWl84CNsZDDXQCm9VLe) | 3:03 | 2019-05-26\* | 2019-06-19 |
+| [Evergreen](https://open.spotify.com/track/6ZCkIkNffFe9dWTj6ACalD) | [Astral Reunion](https://open.spotify.com/artist/2jeNFIpZQESTM2Bi6fSyoD) | [Evergreen](https://open.spotify.com/album/3kec5BlrvGo6ZE1VYkg5OG) | 2:10 | 2025-07-01 |  |
 | [Everlonging](https://open.spotify.com/track/7ncqZEutTnKNmxJn50URcf) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Everlonging](https://open.spotify.com/album/1DQviQUrW2Ek5Nas6q3mUw) | 2:07 | 2022-04-07 | 2023-09-27 |
 | [everpresent](https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [everpresent](https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q) | 2:35 | 2022-05-05 | 2023-09-26 |
 | [Everything](https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/7CyISiIyKSbgIQZr8JaqoS) | 5:37 | 2019-05-26\* | 2019-06-27 |
@@ -293,10 +298,12 @@
 | [First](https://open.spotify.com/track/4pr31JsI5qADn6dHd7t5cQ) | [Roary](https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd) | [First](https://open.spotify.com/album/5YIGvy1UBUMBhTWQa59Khx) | 4:35 | 2019-06-19\* | 2021-04-02 |
 | [First Fall](https://open.spotify.com/track/2TgGlxFm2D0Abt4Iao9pEF) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Sierra](https://open.spotify.com/album/6ivAgfz6fzB5SFAzGUbp9g) | 8:20 | 2019-05-26\* | 2019-06-19 |
 | [first snowdrops](https://open.spotify.com/track/2nFeufV7d4MFFLlppEKzwP) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [first snowdrops](https://open.spotify.com/album/4YQtnLj4Ih31sAEyrm4BGb) | 2:23 | 2024-05-11 | 2025-05-07 |
+| [Flashpoint](https://open.spotify.com/track/3QjclgXtJSvC02OllPVyif) | [Elysar](https://open.spotify.com/artist/0DbIdCkQlSF99HXAv8bckc) | [Flashpoint](https://open.spotify.com/album/68AQzprwhJFUzH1ugNpaqh) | 2:20 | 2025-07-01 |  |
 | [Float in Time](https://open.spotify.com/track/6K6reTcwKbULf7UWeB1Rzy) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Float in Time](https://open.spotify.com/album/2CafEDyKC0I2DXuZT08wD0) | 2:16 | 2025-02-28 |  |
 | [Floating Sunbeams](https://open.spotify.com/track/7hJZMJqFRlypzSlxC7Kn8n) | [Michael Orvind](https://open.spotify.com/artist/5T6TsN3w0beYOD37SZqb6n) | [Floating Sunbeams](https://open.spotify.com/album/0q40RzJIgk67Sv3aG8iAPd) | 2:39 | 2020-08-07 | 2022-01-06 |
-| [Flow](https://open.spotify.com/track/1EoPRePRDBhnZz0uMRjPVY) | [Portal Plan](https://open.spotify.com/artist/01yE7EbTF9j8IQAN0VA1Wi) | [Flow](https://open.spotify.com/album/3jSaUVMNNmsg8j7gyftJBo) | 2:12 | 2024-06-11 |  |
+| [Flow](https://open.spotify.com/track/1EoPRePRDBhnZz0uMRjPVY) | [Portal Plan](https://open.spotify.com/artist/01yE7EbTF9j8IQAN0VA1Wi) | [Flow](https://open.spotify.com/album/3jSaUVMNNmsg8j7gyftJBo) | 2:12 | 2024-06-11 | 2025-07-02 |
 | [Flowing](https://open.spotify.com/track/06G5MnuMA3cLbNwjFs8zIS) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Flowing](https://open.spotify.com/album/1lxdpGzbUD6WbQzoIeiY33) | 2:11 | 2020-08-07 | 2024-03-27 |
+| [Flowstate](https://open.spotify.com/track/1avao3kEPmPYm4ylwCu6Ew) | [bluescape](https://open.spotify.com/artist/1yu77LzkFIhpDDnHQ330aN) | [Flowstate](https://open.spotify.com/album/7k0u3SLBxocdh4XPSFySDH) | 2:12 | 2025-07-01 |  |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-05-18 | 2023-07-14 |
 | [Focus](https://open.spotify.com/track/3DZ7DFolE5U2xEGIzFjeGo) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Focus](https://open.spotify.com/album/11a6ahi4zzT4ZRFH06KODz) | 3:10 | 2019-06-27 | 2022-11-18 |
 | [Follow me](https://open.spotify.com/track/7d44sL4znFm5HZ6ltUVqbI) | [Andre Ehmann](https://open.spotify.com/artist/1PsIQFkwqSXuQpqK4lxkf6) | [Follow me](https://open.spotify.com/album/7u7hd3qp84YgMuLtsT0GJU) | 3:24 | 2019-07-31 | 2023-07-14 |
@@ -362,6 +369,7 @@
 | [Hiking](https://open.spotify.com/track/6ewlF5IJizIAwNwtJJ0L77) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:06 | 2019-06-19\* | 2020-06-06 |
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2021-12-09 | 2024-05-12 |
 | [Hold the Handle](https://open.spotify.com/track/49K00nm3DD6HZwQg2I4HmP) | [Forest Landing](https://open.spotify.com/artist/08v4nyzPeP6HFSIsk0ELKV) | [Hold the Handle](https://open.spotify.com/album/2QkgSQMQHr1nYl2D3omcNo) | 3:28 | 2021-03-02 | 2024-05-12 |
+| [Holistic High](https://open.spotify.com/track/1Ob1jYwRLcaNOtVPk1OZ69) | [Focus Guru](https://open.spotify.com/artist/1yWe5ty9WLBIjmFV4hfsvM) | [Holistic High](https://open.spotify.com/album/5I5OZmwP39sLLZJB9Iz9MU) | 2:21 | 2025-07-01 |  |
 | [Home](https://open.spotify.com/track/0ViWiSqKgExiuU4hXlVIDF) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Secret Garden](https://open.spotify.com/album/4bUGWpYmF6I4rFWabvvayp) | 4:53 | 2019-05-26\* | 2019-08-13 |
 | [Honeysuckle](https://open.spotify.com/track/0TmExm6rEHFCUkpkIxahZf) | [Alex Blackwood](https://open.spotify.com/artist/5fuFyKhxbLNaNH7I9c1ch2) | [Honeysuckle](https://open.spotify.com/album/3bMNA0kg2aVOXGzas3IWMb) | 2:25 | 2024-05-11 |  |
 | [Hope Valley Hill](https://open.spotify.com/track/1ZsVFKysSROWBWZX3ZG1Gu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Caesura](https://open.spotify.com/album/5fPb6Ef7P5uPSmVIyNRvhj) | 5:18 | 2019-05-26\* | 2020-01-09 |

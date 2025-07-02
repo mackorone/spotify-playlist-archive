@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,773 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,810 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 36 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
 | 37 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 |
 | 38 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
-| 39 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
-| 40 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 |
+| 39 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 |
+| 40 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
 | 41 | [Ya Yuma Wen](https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Ya Yuma Wen](https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY) | 3:08 |
 | 42 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
 | 43 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |

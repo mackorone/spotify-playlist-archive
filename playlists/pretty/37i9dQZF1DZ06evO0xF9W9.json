@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADm/5q+xdhOj6uOpQdAG8+2",
+  "snapshot_id": "aGHTgAAAAADLxnRs0wIFTPQS1TlOuaZa",
   "tracks": [
     {
       "added_at": null,
@@ -35,46 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARTiANDO",
-        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Diamond la Mafia",
-          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "CHARTiANDO",
-      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quedate (Live)",
-        "url": "https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Quedate - Live",
-      "url": "https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "kikito",
         "url": "https://open.spotify.com/album/5nbJjWvzVCCHDkukuPiOrr"
       },
@@ -99,18 +59,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec"
+        "name": "CHARTiANDO",
+        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
       },
       "artists": [
         {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Vibrador",
-      "url": "https://open.spotify.com/track/5BbXK5VJCA09fU2A7ZdCSX"
+      "duration_ms": 172198,
+      "name": "CHARTiANDO",
+      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
     },
     {
       "added_at": null,
@@ -131,6 +99,38 @@
       "duration_ms": 187694,
       "name": "Vamono Lejos",
       "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vibrador",
+      "url": "https://open.spotify.com/track/5BbXK5VJCA09fU2A7ZdCSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quedate (Live)",
+        "url": "https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Quedate - Live",
+      "url": "https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Puto Amo",
-        "url": "https://open.spotify.com/album/2Kz1M3efVHHJ9f4azQ14zA"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 126205,
-      "name": "El Puto Amo",
-      "url": "https://open.spotify.com/track/2cE8NFkwGrPBUwChlpkqaG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu No Me Conoces",
         "url": "https://open.spotify.com/album/0Kf2Cxcg7mLyurZaNlpbbe"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 211000,
       "name": "Tu No Me Conoces",
       "url": "https://open.spotify.com/track/5hagWOIk1mHOJBlnaf5Sl0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Puto Amo",
+        "url": "https://open.spotify.com/album/2Kz1M3efVHHJ9f4azQ14zA"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 126205,
+      "name": "El Puto Amo",
+      "url": "https://open.spotify.com/track/2cE8NFkwGrPBUwChlpkqaG"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Provoca",
-        "url": "https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 206785,
-      "name": "Provoca",
-      "url": "https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Noche Tranquila (Version Discoteca)",
         "url": "https://open.spotify.com/album/46GOunIlxWaUlFbbhlkHOe"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 182210,
       "name": "Una Noche Tranquila - Version Discoteca",
       "url": "https://open.spotify.com/track/3svW0Wq31tR9dDzDlPMmD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Provoca",
+        "url": "https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 206785,
+      "name": "Provoca",
+      "url": "https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz"
     },
     {
       "added_at": null,

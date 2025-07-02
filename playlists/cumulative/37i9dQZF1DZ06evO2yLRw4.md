@@ -4,7 +4,7 @@
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 47 min
+81 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Freaking Me Out](https://open.spotify.com/track/523qGN4DKJ4o4IIxWYAobG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 3:28 | 2023-10-10 | 2023-12-14 |
 | [Guilty Filthy Soul](https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:33 | 2022-10-26 |  |
 | [Handyman](https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:22 | 2022-10-26 |  |
-| [Here Come the Runts](https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:19 | 2022-10-26 |  |
+| [Here Come the Runts](https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:19 | 2022-10-26 | 2025-07-02 |
 | [Hollow Moon \(Bad Wolf\)](https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:18 | 2022-10-26 |  |
 | [I Am](https://open.spotify.com/track/31CgjKFR1pzFO5Im365rXB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:34 | 2022-10-26 |  |
 | [I Am Happy](https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Am Happy](https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F) | 3:02 | 2024-07-21 | 2024-09-27 |
@@ -81,6 +81,7 @@
 | [The Best](https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:43 | 2023-09-15 |  |
 | [Thiskidsnotalright](https://open.spotify.com/track/0dGPGavyiPtOdAGGi11pt3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:41 | 2022-10-26 |  |
 | [Wake Up](https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:02 | 2022-10-26 |  |
+| [Walking Away](https://open.spotify.com/track/5EGlRPjdwqWQLDexcHMnwK) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG) | 2:54 | 2025-07-02 |  |
 | [We Are All Insane](https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [We Are All Insane](https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm) | 3:31 | 2023-09-15 |  |
 | [We Are All Insane](https://open.spotify.com/track/2N175zTqPQhQ5FHOrgsW3h) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [We Are All Insane](https://open.spotify.com/album/5ymWKh4Tp382PsDDSimpNI) | 3:31 | 2022-11-06 | 2023-09-16 |
 | [We Are All Insane](https://open.spotify.com/track/6tILMsEgA97Eawkz1Ejyj7) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 3:31 | 2023-10-10 | 2023-11-11 |

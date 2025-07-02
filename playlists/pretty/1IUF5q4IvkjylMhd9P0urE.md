@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,551 likes - 107 songs - 5 hr 54 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,558 likes - 107 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 13 | [Scanners](https://open.spotify.com/track/5p9JMOuMlYLDtfWtzW23v6) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Scanners](https://open.spotify.com/album/6UoOcnOdy6hnb6p63inGC0) | 5:37 |
 | 14 | [Zagga Dat](https://open.spotify.com/track/7gIsmMYCcyuzSPnpMWqD5X) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Zagga Dat](https://open.spotify.com/album/2f9Ojh9Dzjvc3ZB7a3nuhI) | 2:08 |
 | 15 | [N.U.M.T.E.](https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [N.U.M.T.E.](https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS) | 2:53 |
-| 16 | [Mirror](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
+| 16 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 17 | [Arquivo](https://open.spotify.com/track/4wqU0nKfH7LTZiP7TPVJqJ) | [Lokowat](https://open.spotify.com/artist/0tQQDxDD4vZvqwsjfOd7Ri) | [DOIS MUNDOS](https://open.spotify.com/album/2dFrabpKDshz8HhBaENq9D) | 2:14 |
 | 18 | [Tus Ojos](https://open.spotify.com/track/2IV7yjZ7veSRuWNuNYHllj) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK), [NIDIA](https://open.spotify.com/artist/4l6LyGdstZUzB2kKR9Jetv) | [Tus Ojos](https://open.spotify.com/album/3362TWtxIpszAE44kJraQH) | 4:34 |
 | 19 | [Carrier](https://open.spotify.com/track/2niq2cIbpX6TQQw6gKSxv8) | [bambinodj](https://open.spotify.com/artist/1XZlMHqN41hHE8KTwrCDf7) | [Silent Dispatch](https://open.spotify.com/album/70djeA4dMLjKrrhFkjEO4D) | 5:52 |

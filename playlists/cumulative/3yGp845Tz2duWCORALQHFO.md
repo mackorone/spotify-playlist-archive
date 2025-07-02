@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,280 songs - 7 day 10 hr 19 min
+3,283 songs - 7 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1923,6 +1923,7 @@
 | [my body](https://open.spotify.com/track/13pGjD8VdMUlZH9OXQFjSJ) | [moth](https://open.spotify.com/artist/7CR2xiCt4qw5nEvGgwM0j3) | [my body](https://open.spotify.com/album/4CLiAJxIq2UJojZvIdj99G) | 3:40 | 2025-04-26 | 2025-05-03 |
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-17 | 2024-05-25 |
 | [My Ecstasy](https://open.spotify.com/track/5iKijkzWJgDSrtDRm1tKgm) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Down To The Groove](https://open.spotify.com/album/7CqiqUxAcYxYheQCVU0RzN) | 3:11 | 2025-06-06 | 2025-06-14 |
+| [My Ecstasy](https://open.spotify.com/track/0WIl3V0ACFN76eTHgTwhsp) | [GROSSMAN](https://open.spotify.com/artist/6V5BCao3BtZj8AW3ddx9I5) | [My Ecstasy](https://open.spotify.com/album/4pF9shYcLPRJ1VWILJeuXx) | 3:55 | 2025-07-01 |  |
 | [My Fantasy](https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [My Fantasy](https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF) | 3:00 | 2024-08-23 | 2024-08-31 |
 | [My Girl \(with Da Tweekaz\)](https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [My Girl \(with Da Tweekaz\)](https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA) | 3:10 | 2024-05-24 | 2024-06-01 |
 | [My Heart](https://open.spotify.com/track/36T0TcHFZS9IyrkQr9VDTj) | [Vareso](https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l) | [My Heart](https://open.spotify.com/album/60J3EhD9WlLqVot4i4FHYi) | 3:48 | 2025-02-28 | 2025-03-08 |
@@ -2252,6 +2253,7 @@
 | [Pray \(feat\. Jazzi Sirius\)](https://open.spotify.com/track/6p01TrnodGu9pCPlIJN7aK) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [Jazzi Sirius](https://open.spotify.com/artist/3cD28Rd2stPXqDVEDWe03P) | [Pray \(feat\. Jazzi Sirius\)](https://open.spotify.com/album/6iShQtt9orFtGOasN5cLRS) | 2:41 | 2025-02-28 | 2025-03-08 |
 | [Prayer in C \- Paul Kalkbrenner Remix](https://open.spotify.com/track/7xavr5xmO2aoHfKDWNHtiK) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Prayer in C \(Paul Kalkbrenner Remix\)](https://open.spotify.com/album/73WlvhF3NhxO97U3MeVNet) | 3:39 | 2024-07-19 | 2024-07-27 |
 | [Preacher](https://open.spotify.com/track/5a2rSXCgOqJXcRfSHkWPPb) | [Johnny Bolzan](https://open.spotify.com/artist/4fKTfY2zmy8iON72LI1Oqq) | [Preacher](https://open.spotify.com/album/7Hwxyv9N5cY28n4rkYb4Pf) | 2:51 | 2025-05-09 | 2025-05-17 |
+| [Press It](https://open.spotify.com/track/4xW3FAdSLoEzg9l1EXlOgF) | [D3LT4](https://open.spotify.com/artist/5lnYov1RCZ0TjsHKDzpeaI) | [Press It](https://open.spotify.com/album/6kloHtHii1LBrL78V25nAS) | 2:28 | 2025-07-01 |  |
 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-09-26 | 2024-10-05 |
 | [Pressure](https://open.spotify.com/track/2qdmF0OXZlp9Tqz0e8IdUc) | [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO) | [Pressure](https://open.spotify.com/album/2LvgS7vpTViUH9zh1qVLu5) | 3:15 | 2025-04-18 | 2025-04-25 |
 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 | 2025-05-09 | 2025-05-17 |
@@ -2701,6 +2703,7 @@
 | [Summer Crush](https://open.spotify.com/track/4WpbZTylASaKbyubTm5VBa) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 2:35 | 2024-05-29 | 2024-06-08 |
 | [Summer is Calling...](https://open.spotify.com/track/1I5mKrYPLvHLP3eiOndPIP) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Summer is Calling...](https://open.spotify.com/album/5syl0FODvOf4WjzYDYMxeW) | 3:09 | 2025-05-14 | 2025-05-23 |
 | [Summer Is Gone](https://open.spotify.com/track/7goW5gFmYvULzRXbpkDf8a) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Summer Is Gone](https://open.spotify.com/album/6wDQAat0BiYhKUNErcYJOq) | 3:21 | 2024-09-06 | 2024-09-13 |
+| [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 | 2025-07-01 |  |
 | [Summer of '99](https://open.spotify.com/track/2jEpmhYTYByGsFhpkWBEm8) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Summer of ‘99](https://open.spotify.com/album/5r8KHlK7EuR5C77Aimvg00) | 3:48 | 2024-08-08 | 2024-08-16 |
 | [Summer of Love](https://open.spotify.com/track/7AgxXHoq45JDAnvTEj2tQ4) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer of Love](https://open.spotify.com/album/5nwFxRbZEZ6V4pMBDmBy31) | 2:03 | 2024-07-19 | 2024-07-27 |
 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-06-20 | 2024-06-29 |

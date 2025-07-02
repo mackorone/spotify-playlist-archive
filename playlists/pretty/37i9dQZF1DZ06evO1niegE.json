@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8455,
+  "num_followers": 8456,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADtpjjMbfAJG4WXpc2l3VBM",
+  "snapshot_id": "aGHTgAAAAAAYIllMFbOFaVjnLly0/aEF",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "2D",
+      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockea Bien Duro",
         "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 224533,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "2D",
-      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
     },
     {
       "added_at": null,

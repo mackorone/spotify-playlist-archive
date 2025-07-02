@@ -4,7 +4,7 @@
 
 > All new Contemporary Christian songs on the rise! Cover: Dan Bremnes
 
-605 songs - 1 day 13 hr 34 min
+606 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Hallelujah Everyday](https://open.spotify.com/track/0qKwz58QAzQU5QeIBP2Lpb) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Hallelujah Everyday](https://open.spotify.com/album/2yep0nxeQFJznZIDBxNvkK) | 3:36 | 2025-06-21 |  |
 | [Happy](https://open.spotify.com/track/0Xp0lKqJIdgrjSH6sgzgZd) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Happy](https://open.spotify.com/album/5otImxxh8AbzxndieeMrZb) | 3:27 | 2022-10-29 | 2024-06-08 |
 | [Hard Fought Hallelujah](https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah](https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5) | 5:16 | 2024-11-29 | 2025-03-22 |
+| [He Deserves](https://open.spotify.com/track/4QVv44aTIaWECRVLCjVNXx) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [He Deserves](https://open.spotify.com/album/3S0eES2GzpLLnzmMESitPH) | 4:05 | 2025-06-21 |  |
 | [He is](https://open.spotify.com/track/7LzaqmzuCALLAe3oUqJ4ns) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [He is](https://open.spotify.com/album/3D4lzsOzNBCK4uPVYJ0Lms) | 3:40 | 2024-10-11 | 2024-11-30 |
 | [He Is Not Worried](https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [He Is Not Worried](https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st) | 4:29 | 2022-05-27 | 2022-10-30 |
 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 | 2022-10-29 | 2024-06-08 |

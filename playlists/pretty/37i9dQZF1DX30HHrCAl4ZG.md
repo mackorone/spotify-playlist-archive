@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Lord Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,974 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,842 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 9 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 |
 | 10 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 |
 | 11 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
-| 12 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 12 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 13 | [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 |
 | 14 | [The Hole](https://open.spotify.com/track/1f2ef3Upp7f4On9KIoFoZZ) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [The Hole](https://open.spotify.com/album/4CT5At8cCKUiwtOWuTVKke) | 3:17 |
 | 15 | [Spinning Around](https://open.spotify.com/track/6hPXdgRVXu1X04HenogfCN) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Spinning Around](https://open.spotify.com/album/7BYtZl0G55gqnZwFWVrzzh) | 3:22 |

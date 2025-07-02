@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Aterciopelados
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,044 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,047 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 39 | [INVESTIDO](https://open.spotify.com/track/2BJS8zYnk91hYVpX2m9OMz) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:23 |
 | 40 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
 | 41 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 |
-| 42 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
-| 43 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |
+| 42 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |
+| 43 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
 | 44 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
 | 45 | [¿Quién Te Hizo Tanto Daño?](https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [WIPLASH](https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf) | 3:06 |
 | 46 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 70 | [Quetzal](https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:10 |
 | 71 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 |
 | 72 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 |
-| 73 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 |
-| 74 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
-| 75 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 |
+| 73 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
+| 74 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 |
+| 75 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 |
 
 Snapshot ID: `aDktXAAAAABrH/NnIwS7pSvM4TeNZvxy`

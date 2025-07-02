@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 334221,
+  "num_followers": 334270,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Sonic Poems",
-        "url": "https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/3OT9zVVg5JFjXfGmn2TNrL"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
@@ -887,18 +871,42 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Tetra",
-        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
+        "name": "Sonic Poems",
+        "url": "https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn"
       },
       "artists": [
         {
-          "name": "C2C",
-          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
         }
       ],
-      "duration_ms": 207186,
-      "name": "Down The Road",
-      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
+      "duration_ms": 185213,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/3OT9zVVg5JFjXfGmn2TNrL"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        },
+        {
+          "name": "ADLR",
+          "url": "https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr"
+        },
+        {
+          "name": "Different Hits",
+          "url": "https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK"
+        }
+      ],
+      "duration_ms": 200823,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
     }
   ],
   "unique_name": "Soir\u00e9e",

@@ -4,7 +4,7 @@
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 54 min
+52 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,10 +45,11 @@
 | [Que Sera, Sera \(Whatever Will Be, Will Be\)](https://open.spotify.com/track/52Xfwd81ZsBMDTW2S2X3zz) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 5:22 | 2025-06-10 |  |
 | [Remember Who You Are](https://open.spotify.com/track/21zc5vR3zofPz2WZIVLYgJ) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 3:17 | 2025-06-10 |  |
 | [Runnin' Away \- Single Version](https://open.spotify.com/track/2clHc3VGk2bITHsgPY7atj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 2:57 | 2025-06-10 |  |
-| [Say You Will](https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:18 | 2025-06-10 |  |
+| [Say You Will](https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:18 | 2025-06-10 | 2025-07-02 |
 | [Sing a Simple Song \- Single Version](https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:55 | 2025-06-10 |  |
 | [Skin I'm In](https://open.spotify.com/track/0y1eoYIvyK5OLMv6CkH95K) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:54 | 2025-06-10 |  |
 | [Somebody's Watching You](https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:20 | 2025-06-10 |  |
+| [Soul Clappin'](https://open.spotify.com/track/5BL5MdCvMGykfaxPFtycG9) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:37 | 2025-07-02 |  |
 | [Stand!](https://open.spotify.com/track/68DqLs1hv7zI08EBvu53wV) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:07 | 2025-06-10 |  |
 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2025-06-10 |  |
 | [Thankful n' Thoughtful](https://open.spotify.com/track/2r0qJtOqcEep29uYsDLlEb) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 4:40 | 2025-06-10 |  |

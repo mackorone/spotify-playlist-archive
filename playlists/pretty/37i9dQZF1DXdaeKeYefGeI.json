@@ -1,29 +1,13 @@
 {
   "description": "Wat kan het Nederlands toch mooi zijn. Cover: Stef Bos",
-  "num_followers": 33612,
+  "num_followers": 33622,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE/oYgAAAACKzzEj0dr/2By7yoxDl74M",
+  "snapshot_id": "aGN7MQAAAADBkgBObVAj8/0TyWu1V1uf",
   "tracks": [
-    {
-      "added_at": "2025-06-16 09:48:18",
-      "album": {
-        "name": "Weg uit Nederland",
-        "url": "https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1"
-      },
-      "artists": [
-        {
-          "name": "Leonie Meijer",
-          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
-        }
-      ],
-      "duration_ms": 232403,
-      "name": "Weg uit Nederland",
-      "url": "https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc"
-    },
     {
       "added_at": "2025-06-16 09:48:18",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 235293,
       "name": "Kaartenhuis",
       "url": "https://open.spotify.com/track/1xrvttihsSQmU1qpUY48XJ"
-    },
-    {
-      "added_at": "2025-06-16 09:48:18",
-      "album": {
-        "name": "Platonisch",
-        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
-        }
-      ],
-      "duration_ms": 182929,
-      "name": "Platonisch",
-      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "added_at": "2025-06-16 09:48:18",
@@ -75,6 +43,38 @@
       "duration_ms": 216887,
       "name": "Schaduw",
       "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
+    },
+    {
+      "added_at": "2025-06-16 09:48:18",
+      "album": {
+        "name": "Weg uit Nederland",
+        "url": "https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        }
+      ],
+      "duration_ms": 232403,
+      "name": "Weg uit Nederland",
+      "url": "https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc"
+    },
+    {
+      "added_at": "2025-06-16 09:48:18",
+      "album": {
+        "name": "Platonisch",
+        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "duration_ms": 182929,
+      "name": "Platonisch",
+      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "added_at": "2025-06-16 09:48:18",

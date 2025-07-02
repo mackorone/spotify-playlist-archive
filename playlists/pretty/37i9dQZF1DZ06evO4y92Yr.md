@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 
 > This is Chappell Roan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,208 likes - 16 songs - 58 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,211 likes - 16 songs - 58 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 | 15 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 |
 | 16 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
 
-Snapshot ID: `aGCCAAAAAADYSDVRfiEx71Axr8MEkDih`
+Snapshot ID: `aGHTgAAAAABfNgK9ntonIuTaqNKs1xRP`

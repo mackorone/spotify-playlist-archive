@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,558 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,912 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,22 +74,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 64 | [You Might Think](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:04 |
 | 65 | [867\-5309 / Jenny](https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [Tommy Tutone \- 2](https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1) | 3:46 |
 | 66 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
-| 67 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
-| 68 | [Stuck With You](https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:29 |
+| 67 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
+| 68 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
 | 69 | [Good Times Roll](https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
-| 70 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
-| 71 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
-| 72 | [Sister Christian](https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Midnight Madness](https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs) | 5:02 |
+| 70 | [Stuck With You](https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:29 |
+| 71 | [Sister Christian](https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Midnight Madness](https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs) | 5:02 |
+| 72 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
 | 73 | [The Reflex \- Single Version; 2010 Remaster](https://open.spotify.com/track/4sz1Ng2Cgidfqqiy0pNL6R) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Seven and the Ragged Tiger \(Deluxe Edition\)](https://open.spotify.com/album/0jBIq5EY9zRBZJuCE9iuM1) | 4:27 |
 | 74 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 |
 | 75 | [Hip To Be Square](https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:05 |
 | 76 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
 | 77 | [Mr\. Roboto](https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Kilroy Was Here](https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6) | 5:28 |
 | 78 | [Young Turks](https://open.spotify.com/track/6sBA8b9bT8Z8G8TkVDvNTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Tonight I'm Yours \(Expanded Edition\)](https://open.spotify.com/album/6gDOvRUvES84YOBkMEQTbD) | 5:03 |
-| 79 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 |
-| 80 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
-| 81 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
-| 82 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
+| 79 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
+| 80 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 |
+| 81 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
+| 82 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 83 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
 | 84 | [Roam](https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 4:55 |
 | 85 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |

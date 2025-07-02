@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADi7j4HM9RyhNdNnVyIgeQz",
+  "snapshot_id": "aGHTgAAAAAAykxAWC/6KkTQesvyJW/IU",
   "tracks": [
     {
       "added_at": null,
@@ -315,30 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
       "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Trini Boy",
-          "url": "https://open.spotify.com/artist/3W1Kpy9jPz9QRKN9ECtVab"
+          "name": "O.C.",
+          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
         }
       ],
-      "duration_ms": 186728,
-      "name": "God Bodies (feat. Trini Boy)",
-      "url": "https://open.spotify.com/track/2WHgxalzCLF0RfGxwF76Dm"
+      "duration_ms": 255373,
+      "name": "Marquee",
+      "url": "https://open.spotify.com/track/5Tmh2XPCW0auf6wjl01yrW"
     },
     {
       "added_at": null,
@@ -371,22 +363,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
       },
       "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "O.C.",
-          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Trini Boy",
+          "url": "https://open.spotify.com/artist/3W1Kpy9jPz9QRKN9ECtVab"
         }
       ],
-      "duration_ms": 255373,
-      "name": "Marquee",
-      "url": "https://open.spotify.com/track/5Tmh2XPCW0auf6wjl01yrW"
+      "duration_ms": 186728,
+      "name": "God Bodies (feat. Trini Boy)",
+      "url": "https://open.spotify.com/track/2WHgxalzCLF0RfGxwF76Dm"
     },
     {
       "added_at": null,
@@ -643,54 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 198418,
-      "name": "BK 2 NJ",
-      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 227624,
-      "name": "The Fight Song (feat. Pharoahe Monch)",
-      "url": "https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Thine Own Self Be True",
         "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
       },
@@ -723,6 +675,54 @@
       "duration_ms": 282509,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4OeuVrcHZ6LSxJLOgsnonH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 227624,
+      "name": "The Fight Song (feat. Pharoahe Monch)",
+      "url": "https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 198418,
+      "name": "BK 2 NJ",
+      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
     },
     {
       "added_at": null,
@@ -880,13 +880,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Copywrite",
-          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
+          "name": "Wordsworth",
+          "url": "https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
+      "duration_ms": 221266,
+      "name": "Wrong One",
+      "url": "https://open.spotify.com/track/40H22sFbazRwISu76U1qh0"
     },
     {
       "added_at": null,
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Wordsworth",
-          "url": "https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD"
+          "name": "Copywrite",
+          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
         }
       ],
-      "duration_ms": 221266,
-      "name": "Wrong One",
-      "url": "https://open.spotify.com/track/40H22sFbazRwISu76U1qh0"
+      "duration_ms": 264960,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
     },
     {
       "added_at": null,
@@ -983,6 +983,30 @@
       "duration_ms": 150786,
       "name": "What Is The Question",
       "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Double Barrel",
+        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "DJ Revolution",
+          "url": "https://open.spotify.com/artist/5OsTd4JBco0XckFuy3vCql"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Double Barrel",
+      "url": "https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k"
     },
     {
       "added_at": null,
@@ -1015,34 +1039,6 @@
       "duration_ms": 160954,
       "name": "Strange Universe (Marco Polo Remix)",
       "url": "https://open.spotify.com/track/5tuI2aNbzHNtW48rLbLqT9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Barrel",
-        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "Sean Price",
-          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
     },
     {
       "added_at": null,
@@ -1096,33 +1092,29 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Dj Haem",
-          "url": "https://open.spotify.com/artist/18517Eowkj2uscvAX3FdOm"
+          "name": "Lil Fame",
+          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 235154,
-      "name": "D\u0142ugi",
-      "url": "https://open.spotify.com/track/7haE5yRQF0r2KEjP6wYUVI"
+      "duration_ms": 315369,
+      "name": "Kartagina",
+      "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+        "name": "Baker's Dozen: Marco Polo",
+        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
       },
       "artists": [
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 162951,
-      "name": "Makin' Up",
-      "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"
+      "duration_ms": 161092,
+      "name": "The Rub",
+      "url": "https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj"
     },
     {
       "added_at": null,
@@ -1138,11 +1130,19 @@
         {
           "name": "Torae",
           "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Sean Price",
+          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         }
       ],
-      "duration_ms": 180506,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
+      "duration_ms": 187800,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
     },
     {
       "added_at": null,
@@ -1188,45 +1188,33 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Green",
-          "url": "https://open.spotify.com/artist/425dAH6elWgBjvcJmSxMbf"
-        },
-        {
-          "name": "Kas",
-          "url": "https://open.spotify.com/artist/1lFQ4azorYPPjFr4RyTFrn"
-        },
-        {
-          "name": "Zorak",
-          "url": "https://open.spotify.com/artist/3pJVkXr1jLitXhE0u7vutE"
+          "name": "Dj Haem",
+          "url": "https://open.spotify.com/artist/18517Eowkj2uscvAX3FdOm"
         }
       ],
-      "duration_ms": 345813,
-      "name": "Garri Kasparow",
-      "url": "https://open.spotify.com/track/4fiK2HSueG8QBQSbmD3h5g"
+      "duration_ms": 235154,
+      "name": "D\u0142ugi",
+      "url": "https://open.spotify.com/track/7haE5yRQF0r2KEjP6wYUVI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Exxecution",
-        "url": "https://open.spotify.com/album/7D64j1CgrZMK5Zu9a5WuF5"
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
       "artists": [
         {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Ruste Juxx",
-          "url": "https://open.spotify.com/artist/34jkD9MaYCGeY9V1zqDGEP"
-        },
-        {
-          "name": "Black Moon",
-          "url": "https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb"
         }
       ],
-      "duration_ms": 256320,
-      "name": "Let's Take a Sec",
-      "url": "https://open.spotify.com/track/4bCk5wae4jZ62SNQte71av"
+      "duration_ms": 162951,
+      "name": "Makin' Up",
+      "url": "https://open.spotify.com/track/2WUUwYV7SmKgFXgKlgGPYJ"
     }
   ],
   "unique_name": "This Is Marco Polo",

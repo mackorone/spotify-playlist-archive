@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: W Sound, Beéle, Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,061 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,309 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

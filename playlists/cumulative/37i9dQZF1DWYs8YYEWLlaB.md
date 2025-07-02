@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\.  Kapak: Bahadır Tatlıöz
 
-185 songs - 9 hr 37 min
+186 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Numaracı](https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:16 | 2024-07-02 | 2024-11-28 |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-07-02 | 2025-01-08 |
 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 | 2024-08-22 |  |
-| [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-08 |  |
+| [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-08 | 2025-07-02 |
 | [Padişahım](https://open.spotify.com/track/0kQKA9E7CkYTA4l3MXbQrI) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/5Y14uuFJGiuOZkXfZComxG) | 2:33 | 2025-03-25 | 2025-04-04 |
 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 | 2024-10-10 | 2024-10-22 |
 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 | 2024-10-24 | 2024-11-22 |
@@ -187,6 +187,7 @@
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-17 |  |
 | [ÇÖZEMEZLER](https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TEMPO](https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f) | 2:10 | 2024-10-02 | 2024-12-06 |
 | [Çözemezsin](https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Çözemezsin](https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a) | 4:37 | 2025-05-01 |  |
+| [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 | 2025-07-01 |  |
 | [Çıt Çıt Çedene](https://open.spotify.com/track/45LpIgOnh3OryDAuYXqTkp) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Hal Hal](https://open.spotify.com/album/1hvLeIVO5s6PvhsoE7Fxqf) | 3:52 | 2025-05-19 | 2025-07-01 |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-07-23 | 2025-05-13 |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-07-02 |  |

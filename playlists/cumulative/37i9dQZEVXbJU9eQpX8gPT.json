@@ -8653,6 +8653,28 @@
     },
     {
       "album": {
+        "name": "Doberwoman",
+        "url": "https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        },
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178214,
+      "name": "Doberwoman",
+      "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
+    },
+    {
+      "album": {
         "name": "Docteur (Spotify Singles)",
         "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
       },
@@ -13440,7 +13462,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -21406,7 +21428,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -34320,7 +34342,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"

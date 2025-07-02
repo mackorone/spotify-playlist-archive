@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Franni Cash
 
-9,534 songs - 26 day 2 hr 42 min
+9,535 songs - 26 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3173,6 +3173,7 @@
 | [He Came Through \(PMJ Trap Praise Break\)](https://open.spotify.com/track/5H3JXipTNglmYN6GczFHVj) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got Away](https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf) | 5:47 | 2024-04-19 | 2024-05-11 |
 | [He Can Handle It \- Live](https://open.spotify.com/track/5E6qPtR1Riful1E9rZUNjx) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [He Can Handle It \(Live\)](https://open.spotify.com/album/1GzTFUmq8Kd3f6j3IZosN7) | 5:09 | 2023-04-28 | 2023-05-13 |
 | [He Can Use Me](https://open.spotify.com/track/51ogQfo0sbZeq39trW5ZJz) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [He Can Use Me](https://open.spotify.com/album/6NplocDTlDaXU1zD64n5R2) | 4:54 | 2023-02-24 | 2023-03-04 |
+| [He Deserves](https://open.spotify.com/track/4QVv44aTIaWECRVLCjVNXx) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [He Deserves](https://open.spotify.com/album/3S0eES2GzpLLnzmMESitPH) | 4:05 | 2025-06-27 |  |
 | [He Does](https://open.spotify.com/track/0t4kmXJO0v7NCJCORWTX19) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [He Does](https://open.spotify.com/album/1izoxi6E2Uk1TFdf20gmHW) | 2:18 | 2024-01-12 | 2024-01-27 |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-19 | 2024-06-01 |
 | [He Got a Hold of Me](https://open.spotify.com/track/6TzjdXiUn6iPBX6LcyyoFP) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [He Got a Hold of Me](https://open.spotify.com/album/5IWDeyHcJ6CR6Y0bQxuRdN) | 3:40 | 2023-09-15 | 2023-09-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 227788,
+  "num_followers": 227814,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADXgRo5quR7NFBb22N6fjpv",
+  "snapshot_id": "aGHTgAAAAACNEq/pGc+bsJmJDGNw5V1w",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 452306,
+      "name": "Sha La La Means I Love You",
+      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 267106,
       "name": "You're The First, The Last, My Everything - Live",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 452306,
-      "name": "Sha La La Means I Love You",
-      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
     },
     {
       "added_at": null,

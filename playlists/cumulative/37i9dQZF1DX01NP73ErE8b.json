@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "UFORIA",
+        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163939,
+      "name": "2000 Pensieri",
+      "url": "https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO"
+    },
+    {
+      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
       },

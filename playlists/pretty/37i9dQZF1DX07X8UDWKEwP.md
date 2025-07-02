@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,359 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,390 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

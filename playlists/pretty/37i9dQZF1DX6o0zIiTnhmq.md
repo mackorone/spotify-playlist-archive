@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,383 likes - 75 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,439 likes - 75 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 7 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 |
 | 8 | [Shree Saraswati Mantra for Knowledge and Wisdom](https://open.spotify.com/track/7vf3fOCQRzLJ3tWV6b0XTj) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chants from India, Vol\. 10](https://open.spotify.com/album/5uT4LDe2IIoOD1pzXSCDCz) | 4:10 |
 | 9 | [Om Gum Ganapatayei Namaha \(Removing of Obstacles\)](https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 8:12 |
-| 10 | [Namami Shamishan](https://open.spotify.com/track/6nGtJ1HhbqWvgEKL2WJbj3) | [Rohan Ajani](https://open.spotify.com/artist/3GYNX8lxoarT8oUdYQb4DI) | [Namami Shamishan](https://open.spotify.com/album/6SWdJmXFwZzXEI35V82EpX) | 4:49 |
+| 10 | [Namami Shamishan](https://open.spotify.com/track/6nGtJ1HhbqWvgEKL2WJbj3) | [Rohan Ajani](https://open.spotify.com/artist/3GYNX8lxoarT8oUdYQb4DI) | [Namami Shamishan](https://open.spotify.com/album/6SWdJmXFwZzXEI35V82EpX) | 4:46 |
 | 11 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 | 12 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 |
 | 13 | [108 Om Chants](https://open.spotify.com/track/4cvFUTWRq0wFavHjWtOgTQ) | [Dr\. Ananda Balayogi Bhavanani](https://open.spotify.com/artist/1V15Qmcc8D4gYTHvzHYeQ9) | [Patanjali Yoga Sutra \(Chanting\)](https://open.spotify.com/album/5vLVE2qKObC0dsmlBUrf4U) | 23:42 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 56 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
 | 57 | [Shri Jagannath Mantra](https://open.spotify.com/track/07MERhs6arzVy8r81g7Wc6) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Shri Jagannath Mantra](https://open.spotify.com/album/2HW0R77BL3mWQF0qR7cIM3) | 5:47 |
 | 58 | [Om Namoh Hanumate Rudravataraya Mantra](https://open.spotify.com/track/5oOVQSeZ7Ju2n3Db7mlmkn) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Rinku Giri](https://open.spotify.com/artist/6KTxdJHAeOBHMwMZhoPBFE) | [Om Namoh Hanumate Rudravataraya Mantra](https://open.spotify.com/album/5mohdfYe1g23futO6cTwra) | 5:05 |
-| 59 | [Ram Chakra Mantra To Build Your Confidence](https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:25 |
-| 60 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 |
+| 59 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 |
+| 60 | [Ram Chakra Mantra To Build Your Confidence](https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:25 |
 | 61 | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/track/1dU4ZqrFn9yQUV3lPIAPj5) | [Abdhesh Goswami](https://open.spotify.com/artist/7rZPDmbzGNoO9N0PJvimgh) | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/album/138BGFqBjODTBthMLxLzjd) | 3:30 |
 | 62 | [Green Tara Mantra](https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Green Tara Mantra](https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV) | 4:19 |
 | 63 | [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 |

@@ -1,28 +1,28 @@
 {
-  "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u0442\u0435\u043f\u043b\u0438\u0445 \u0434\u043d\u0456\u0432 \ud83c\udf3b\u2600\ufe0f\ud83c\udfd5\ufe0f",
-  "num_followers": 36450,
+  "description": "\u041f\u0440\u0438\u0454\u043c\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u0441\u043f\u0435\u043a\u043e\u0442\u043d\u0438\u0445 \u0434\u043d\u0456\u0432. \u041e\u0441\u043e\u0431\u043b\u0438\u0432\u043e \u0432 \u043b\u0438\u043f\u043d\u0456 \ud83c\udf4b \ud83c\udf34\ud83d\udca6",
+  "num_followers": 36461,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD7G2wAAAAAZr0hM2OoluxVKItExraSk",
+  "snapshot_id": "aGPWMgAAAADc+mEukyfp4bpB3PAeSm4k",
   "tracks": [
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Ajahuaska",
+        "url": "https://open.spotify.com/album/0bc98Rgl6H71m7LfCQgN6i"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 332160,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/11QdPbPZlGxzxUCpHnZ40v"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -47,18 +47,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "Nich",
-        "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 230660,
-      "name": "Nich",
-      "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "Ajahuaska",
-        "url": "https://open.spotify.com/album/0bc98Rgl6H71m7LfCQgN6i"
-      },
-      "artists": [
-        {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
-        }
-      ],
-      "duration_ms": 332160,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/11QdPbPZlGxzxUCpHnZ40v"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "Learn To Let You Go",
         "url": "https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 191166,
       "name": "Learn To Let You Go",
       "url": "https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "Nich",
+        "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "duration_ms": 230660,
+      "name": "Nich",
+      "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "LIE DOWN..",
-        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 309381,
-      "name": "LIE DOWN..",
-      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 173952,
       "name": "The Table",
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
-        "url": "https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl"
-      },
-      "artists": [
-        {
-          "name": "Grohotsky",
-          "url": "https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi"
-        }
-      ],
-      "duration_ms": 213992,
-      "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
-      "url": "https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u0414\u0456\u0442\u0438",
         "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 238672,
       "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
       "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
+        "url": "https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl"
+      },
+      "artists": [
+        {
+          "name": "Grohotsky",
+          "url": "https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi"
+        }
+      ],
+      "duration_ms": 213992,
+      "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
+      "url": "https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Zathura",
-      "url": "https://open.spotify.com/track/6Islqc8DcHVE9adCyoV3e4"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "Zathura",
+      "url": "https://open.spotify.com/track/6Islqc8DcHVE9adCyoV3e4"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

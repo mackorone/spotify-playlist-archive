@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 30726,
+  "num_followers": 30733,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADouH96NigOWwk/AEJcQ14l",
+  "snapshot_id": "aGHTgAAAAABYFDT79Mu1acit+1sMR/sF",
   "tracks": [
     {
       "added_at": null,
@@ -999,38 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman 2",
-        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Songs That Make a Difference",
-      "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1063,6 +1031,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Songs That Make a Difference",
+      "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Silver Tongued Devil and I",
         "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 215133,
       "name": "Casey's Last Ride",
       "url": "https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surreal Thing",
-        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "If You Don't Like Hank Williams",
-      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
     },
     {
       "added_at": null,
@@ -1171,6 +1155,22 @@
       "duration_ms": 212840,
       "name": "Angels Love Bad Men",
       "url": "https://open.spotify.com/track/4erMZWKJDVPko0AQtWD5ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surreal Thing",
+        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "If You Don't Like Hank Williams",
+      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
     },
     {
       "added_at": null,

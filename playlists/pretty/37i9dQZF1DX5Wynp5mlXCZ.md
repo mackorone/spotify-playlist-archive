@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Golubenko
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,420 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,425 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 6 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
 | 7 | [Про тебе](https://open.spotify.com/track/36rT5B4D5vV8i1MA7Y4vwu) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Про тебе](https://open.spotify.com/album/5UVheNDo4qMpJu0lS7s0a0) | 3:29 |
 | 8 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 9 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
+| 9 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
 | 10 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
 | 11 | [BALAMUT](https://open.spotify.com/track/3fGpH0PONVw8mIy8Ch1hzB) | [KHAYAT](https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK) | [BALAMUT](https://open.spotify.com/album/28TG8RXtzpt6bhqgBXY9PG) | 2:08 |
-| 12 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 12 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 13 | [911](https://open.spotify.com/track/16Ssmu3cwZjySQWJ8MXyZt) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [911](https://open.spotify.com/album/3pKldQ7aSXiE9qD6oaxNre) | 2:22 |
 | 14 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 15 | [А чи було літо](https://open.spotify.com/track/3SolEhaDZWKJhQ8lS7mZSv) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [А чи було літо](https://open.spotify.com/album/7h2cSRUhyvAtXLLzT2FVpo) | 3:03 |

@@ -1045,6 +1045,36 @@
     },
     {
       "album": {
+        "name": "Baroque Concertos",
+        "url": "https://open.spotify.com/album/4Z9GTf0uQit5gXi34Mvp2L"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alison Balsom",
+          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
+        },
+        {
+          "name": "Pinnock\u2019s Players",
+          "url": "https://open.spotify.com/artist/4peV4scGjB4APji3O5shGs"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Handel: Concerto grosso in D Major, HWV 323: III. Presto (Transcr. for Piccolo Trumpet and Baroque Orchestra by Simon Wright)",
+      "url": "https://open.spotify.com/track/7eM705mG5sOtYp28DDuVm6"
+    },
+    {
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1496,7 +1526,7 @@
       ],
       "date_added": "2020-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 247760,
       "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
       "url": "https://open.spotify.com/track/146RNShLmmRzeyizGCD7bk"
@@ -1784,6 +1814,32 @@
       "duration_ms": 219360,
       "name": "Messiah, HWV 56, Pt. 2: No. 44, Chorus. Hallelujah, for the Lord God Omnipotent Reigneth",
       "url": "https://open.spotify.com/track/4TNCQyG2gmepsGoeLdRKn4"
+    },
+    {
+      "album": {
+        "name": "Minuet in G Minor, HWV 434/4 (Arr. for Harp & Piano by Jan-Peter Kl\u00f6pfel)",
+        "url": "https://open.spotify.com/album/29pJy0Ug8Kpd14lqmnkDXm"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163058,
+      "name": "Minuet in G Minor, HWV 434/4 (Arr. for Harp & Piano by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/6n1X3QiRDg8CAYvK5N2S9Q"
     },
     {
       "album": {
@@ -2750,7 +2806,7 @@
       ],
       "date_added": "2020-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 324413,
       "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
       "url": "https://open.spotify.com/track/7cTmdaL6cGWzHk1GVy7L4Y"

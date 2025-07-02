@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,552 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,569 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 28 | [Territory Time](https://open.spotify.com/track/6roCB2PRkDbuE6HFLMklAd) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH) | [Territory Time](https://open.spotify.com/album/7a5eGe0BAUZptvWMQa6cYh) | 3:18 |
 | 29 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
 | 30 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
-| 31 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
-| 32 | [Swingin' Door](https://open.spotify.com/track/1hOmOZUQ9d7GmlXr0p3QQK) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Too Far Gone](https://open.spotify.com/album/5C7S5okhC9fxrsnMaMfBpd) | 3:45 |
+| 31 | [Swingin' Door](https://open.spotify.com/track/1hOmOZUQ9d7GmlXr0p3QQK) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Too Far Gone](https://open.spotify.com/album/5C7S5okhC9fxrsnMaMfBpd) | 3:45 |
+| 32 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
 | 33 | [Took the Children Away](https://open.spotify.com/track/2PolnevtHIyrxe6CjWYpXx) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 5:24 |
 | 34 | [A Little Further North](https://open.spotify.com/track/77lErsyeAfTywgOud05g8E) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 3:38 |
 | 35 | [Mama's Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/4sxNwFc2YHfuhpDd8rXJS3) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [The Great Country Songbook](https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan) | 4:03 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 54 | [9 To 5](https://open.spotify.com/track/7E2jg8Vl3fC0VTDhHLUzWM) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Great Women Of Country And The Songs That Made Them](https://open.spotify.com/album/19n03c8yJe4JBn4z8Jhn6U) | 3:27 |
 | 55 | [River Boy](https://open.spotify.com/track/3YeWaNZYh3SMEmRaGC0Ou9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Shane Howard](https://open.spotify.com/artist/5tsrQhSZ8itdWGtjNWW6f3) | [Borrowed & Blue](https://open.spotify.com/album/2Cs7Ak4mFH1JXIw9Nd3hIn) | 2:51 |
 | 56 | [What If I Was Willing](https://open.spotify.com/track/0OKjR5SHiBZbYDv0M4pAz4) | [Deep Creek Road](https://open.spotify.com/artist/3k46FD3ZStLNs73TwTgFxV) | [What If I Was Willing](https://open.spotify.com/album/7cPZTDXG4C8cHEEqab4iHw) | 3:30 |
-| 57 | [A Little More](https://open.spotify.com/track/1MTsJP1zoc3sFiXgrt7uLv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 3:19 |
-| 58 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
+| 57 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
+| 58 | [A Little More](https://open.spotify.com/track/1MTsJP1zoc3sFiXgrt7uLv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 3:19 |
 | 59 | [Jolene](https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Under the Covers](https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY) | 2:36 |
 | 60 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
 | 61 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 68 | [Koori Rose](https://open.spotify.com/track/6fSuXbKHvfjPgsnbre7oJo) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:36 |
 | 69 | [Dancin' with Elvis](https://open.spotify.com/track/0nvRN2P2zKZ1HnBeRdVELA) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Somebody's Daughter](https://open.spotify.com/album/3qSwSOljlJQC62UatQYzOu) | 3:25 |
 | 70 | [Heatwave](https://open.spotify.com/track/3RRFPAWfF7SzXtdePPQIr7) | [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Piece Of Me](https://open.spotify.com/album/06AzmWtWOUCb5ZKJLh68b4) | 3:16 |
-| 71 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
-| 72 | [Highway Sky](https://open.spotify.com/track/4Pda5mOC2wOK2LnhgAm6Vr) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Adam & Brooke](https://open.spotify.com/album/6jnnOv7dRx8nenDWoMfrC2) | 5:20 |
-| 73 | [Showing Off](https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Coro Drive](https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy) | 3:32 |
+| 71 | [Showing Off](https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Coro Drive](https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy) | 3:32 |
+| 72 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
+| 73 | [Highway Sky](https://open.spotify.com/track/4Pda5mOC2wOK2LnhgAm6Vr) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Adam & Brooke](https://open.spotify.com/album/6jnnOv7dRx8nenDWoMfrC2) | 5:20 |
 | 74 | [So Long So Long](https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [So Long So Long](https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh) | 3:00 |
 | 75 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
 | 76 | [Home](https://open.spotify.com/track/0uVGDMlCO2I9UZQHr8GfHG) | [Mae Valley](https://open.spotify.com/artist/5vRoP692tghSyI7wFV0gLB) | [Mae Valley](https://open.spotify.com/album/1F2w7aXInM21WMXzy2dtrm) | 2:57 |

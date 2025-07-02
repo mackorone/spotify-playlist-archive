@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 35 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
 | 36 | [Claridad](https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:38 |
 | 37 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [No Se Ha Dado Cuenta](https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r) | 2:22 |
-| 38 | [Que Bonita Te Ves](https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:20 |
+| 38 | [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 |
 | 39 | [Playa Sola](https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:51 |
 | 40 | [Only Fans](https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Only Fans](https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6) | 2:41 |
 | 41 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 |
-| 42 | [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 |
+| 42 | [Que Bonita Te Ves](https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:20 |
 | 43 | [Y Nos Dieron las Diez](https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:27 |
 | 44 | [Hombre Muerto](https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:42 |
 | 45 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 47 | [Popurrí: Charanga / Pachanga](https://open.spotify.com/track/1ZJYFOo6v9v4Y9r2I3W3eS) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 7:18 |
 | 48 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 |
 
-Snapshot ID: `aGCCAAAAAAC3nn2M4kcIrOJiHv1IU0QG`
+Snapshot ID: `aGHTgAAAAABFDvDnri0PL9T1/KszkTtW`

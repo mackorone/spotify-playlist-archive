@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Nach y Nanpa Básico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,108 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,134 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

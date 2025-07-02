@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-318 songs - 20 hr 40 min
+319 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/6utQlfLooYsUkq5xUg3vxt) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7) | 3:42 | 2022-12-11 |  |
 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2019-02-04 |  |
 | [Now & Forever](https://open.spotify.com/track/4zLOwx1yRJXWkHKt1XzF1p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:41 | 2024-01-23 |  |
+| [Old wooden rafters](https://open.spotify.com/track/0KqDYr4qjE4aQ4MdiYAHSu) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapters 3+4 \(Original Game Soundtrack\)](https://open.spotify.com/album/4wsN31rpFBwGS06xi3rp1P) | 1:38 | 2025-07-01 |  |
 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 | 2020-05-22 |  |
 | [One Thing Left to Try](https://open.spotify.com/track/52pWggDlN5mVeX111i06PP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:20 | 2021-07-13 |  |
 | [Only Love Can Save Us Now](https://open.spotify.com/track/3sSDCpbg9ju2bqKDfcPTzm) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Eat The Acid](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 2:34 | 2024-01-26 |  |

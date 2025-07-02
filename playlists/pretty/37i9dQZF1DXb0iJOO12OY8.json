@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 214085,
+  "num_followers": 214091,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "Fredagsbarn",
-        "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Fredagsbarn",
-      "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
-    },
-    {
-      "added_at": "2025-06-26 22:00:20",
-      "album": {
         "name": "Hvitt Gull (Kilroy)",
         "url": "https://open.spotify.com/album/0hU5JEbaEsODriACbBtUsM"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 136338,
       "name": "Hvitt Gull (Kilroy)",
       "url": "https://open.spotify.com/track/5Qy0doMqmgxa2D1pGZr0Io"
+    },
+    {
+      "added_at": "2025-06-26 22:00:20",
+      "album": {
+        "name": "Fredagsbarn",
+        "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Fredagsbarn",
+      "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
     },
     {
       "added_at": "2025-06-26 22:00:20",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
+        "name": "Det L\u00f8ser Seg",
+        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Det L\u00f8ser Seg",
+      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
+    },
+    {
+      "added_at": "2025-06-26 22:00:20",
+      "album": {
         "name": "In Memory Of Some Stand Up Guys",
         "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 178010,
       "name": "Da Vi M\u00f8tte Fanden",
       "url": "https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD"
-    },
-    {
-      "added_at": "2025-06-26 22:00:20",
-      "album": {
-        "name": "Det L\u00f8ser Seg",
-        "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Det L\u00f8ser Seg",
-      "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
     },
     {
       "added_at": "2025-06-26 22:00:20",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "John Carew (feat. Roc Boyz)",
-        "url": "https://open.spotify.com/album/5db4qNSo7J24GNTJQU5YCw"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 200401,
-      "name": "John Carew (feat. Roc Boyz)",
-      "url": "https://open.spotify.com/track/4sr29tcFUbSu2FYyHNAdrE"
-    },
-    {
-      "added_at": "2025-06-26 22:00:20",
-      "album": {
         "name": "Gettin' Away With It",
         "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 135737,
       "name": "Vil Ikke Dele",
       "url": "https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg"
+    },
+    {
+      "added_at": "2025-06-26 22:00:20",
+      "album": {
+        "name": "John Carew (feat. Roc Boyz)",
+        "url": "https://open.spotify.com/album/5db4qNSo7J24GNTJQU5YCw"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 200401,
+      "name": "John Carew (feat. Roc Boyz)",
+      "url": "https://open.spotify.com/track/4sr29tcFUbSu2FYyHNAdrE"
     },
     {
       "added_at": "2025-06-26 22:00:20",

@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 135652,
       "name": "Dronelands",
       "url": "https://open.spotify.com/track/0VrHyuyaQFAUFBAarlTZtx"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 176217,
       "name": "Gaussian Blur",
       "url": "https://open.spotify.com/track/76GqGpM1MWAVFyyc1Wcmlw"
@@ -4142,7 +4142,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 151764,
       "name": "Hovering Sunset",
       "url": "https://open.spotify.com/track/3dN1wWNoL9pwA2FPUYdI07"
@@ -6479,6 +6479,24 @@
     },
     {
       "album": {
+        "name": "Protected",
+        "url": "https://open.spotify.com/album/5Nl4uHkiTI9HJTrL2bh9YM"
+      },
+      "artists": [
+        {
+          "name": "Zoniacs",
+          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144116,
+      "name": "Protected",
+      "url": "https://open.spotify.com/track/7utSBnn1kR1KltU0ZdaTfO"
+    },
+    {
+      "album": {
         "name": "Pure Air",
         "url": "https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq"
       },
@@ -6886,7 +6904,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 156375,
       "name": "Rhea",
       "url": "https://open.spotify.com/track/6V4IEFjcu0pA54fcP3GqgR"
@@ -8344,7 +8362,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 190777,
       "name": "Tillsammans",
       "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"

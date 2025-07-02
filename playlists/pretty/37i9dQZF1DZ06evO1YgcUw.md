@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,301 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,375 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 26 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 |
 | 27 | [A Thing Or Two \- Track & Backing Vocals](https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [1967 \- Sunshine Tomorrow](https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G) | 1:00 |
 | 28 | [Be True To Your School \- Remastered](https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:11 |
-| 29 | [All I Wanna Do \- Remastered 2009](https://open.spotify.com/track/7y9O8sJmuX7DvmyrR7h3PY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:36 |
-| 30 | ['Til I Die \- Remastered 2009](https://open.spotify.com/track/2Uup75DRkJ03P91XyITXGC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:33 |
+| 29 | ['Til I Die \- Remastered 2009](https://open.spotify.com/track/2Uup75DRkJ03P91XyITXGC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:33 |
+| 30 | [All I Wanna Do \- Remastered 2009](https://open.spotify.com/track/7y9O8sJmuX7DvmyrR7h3PY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:36 |
 | 31 | [409](https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:00 |
 | 32 | [Dance, Dance, Dance](https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:04 |
 | 33 | [Do You Wanna Dance?](https://open.spotify.com/track/4MFU8kCLOQD9nV03Gfvrkn) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 49 | [Here She Comes \- Remastered 2000](https://open.spotify.com/track/0nYy99TKeqt8T2LdSWzFHN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Carl & The Passions \- So Tough \(Remastered\)](https://open.spotify.com/album/632t0m8ejm3Geu5rW1CELD) | 5:12 |
 | 50 | [Surf's Up \- Remastered 2009](https://open.spotify.com/track/5YniFjdw9nU8jCzvWlVVQC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:13 |
 
-Snapshot ID: `aGCCAAAAAAAwQxQdHe/2y0Yjpk8U6f4F`
+Snapshot ID: `aGHTgAAAAADtHE9fbhjvyrxzXHvZcYl3`

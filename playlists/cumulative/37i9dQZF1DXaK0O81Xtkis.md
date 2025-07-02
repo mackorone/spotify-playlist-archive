@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: 24kGoldn
 
-1,377 songs - 2 day 20 hr 32 min
+1,378 songs - 2 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [Leave Yourself Alone](https://open.spotify.com/track/1ECRkneyoDC73Qy8QHj797) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/1rSDikvb8bxqtexbALKt1W) | 3:09 | 2022-01-21 | 2022-02-26 |
 | [Lemon Tree](https://open.spotify.com/track/4g7t4gur0b65QHYjNmq4J5) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Lemon Tree](https://open.spotify.com/album/2TgW5hBwWMUdyc9K1Cuwqt) | 1:54 | 2025-01-03 | 2025-03-22 |
 | [Lemonade](https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL) | [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Lemonade](https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd) | 4:04 | 2022-09-16 | 2022-11-19 |
+| [LEMONHEAD](https://open.spotify.com/track/4RTcv1gtLJGLygmqePlgL2) | [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp), [koby](https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02), [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [LEMONHEAD](https://open.spotify.com/album/2fAaPnMxR2qolZUO1PmhK3) | 3:17 | 2025-07-01 |  |
 | [Less From You](https://open.spotify.com/track/56kvCYeCBppVYIGxmG6kB1) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [Less From You](https://open.spotify.com/album/7plv2gnX70AG4jFTvkibcW) | 3:42 | 2022-10-28 | 2023-03-04 |
 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 | 2023-12-22 | 2024-01-13 |
 | [Let It Rain](https://open.spotify.com/track/11zgphiq5vlwjis2uFi271) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Let It Rain](https://open.spotify.com/album/274sh16x8L1VQQZvTeTJzC) | 3:29 | 2024-08-23 | 2025-01-11 |
@@ -975,7 +976,7 @@
 | [Red](https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Red](https://open.spotify.com/album/1sgjxEl0WbYxAkJEkgk54x) | 3:28 | 2025-01-10 | 2025-03-08 |
 | [Red Hot](https://open.spotify.com/track/2oBS99VNVMUPFp1m4S7Omn) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [madwoman EP](https://open.spotify.com/album/0kzWo1WLOms89dJaNSCdIw) | 2:49 | 2023-03-31 | 2023-04-29 |
 | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm) | 2:53 | 2023-05-05 | 2023-07-29 |
-| [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-06-20 |  |
+| [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-06-20 |  |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-14 |  |
 | [Remedy](https://open.spotify.com/track/7uaNfiYtYgxOpGbS1GTKWb) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Remedy](https://open.spotify.com/album/0WlUsnkWxzhxePhELUzxXO) | 3:33 | 2024-11-15 | 2025-01-25 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-15 |
@@ -1030,7 +1031,7 @@
 | [Second Wind](https://open.spotify.com/track/2gTneFmEt5ycP3sxYENcEj) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/6LCUa6ZtfjsP21VZRoCjTT) | 2:49 | 2025-01-31 | 2025-03-22 |
 | [See You Later](https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:35 | 2023-10-13 | 2024-01-05 |
 | [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 | 2023-06-30 | 2023-10-19 |
-| [self\-fulfilling prophecy](https://open.spotify.com/track/582JbWRQHuIenmQw1AsKPE) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [self\-fulfilling prophecy](https://open.spotify.com/album/6TSDeEgkTScNo2YSJZkCjI) | 2:47 | 2025-06-06 |  |
+| [self\-fulfilling prophecy](https://open.spotify.com/track/582JbWRQHuIenmQw1AsKPE) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [self\-fulfilling prophecy](https://open.spotify.com/album/6TSDeEgkTScNo2YSJZkCjI) | 2:47 | 2025-06-06 | 2025-07-02 |
 | [Semi Pro](https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Semi Pro](https://open.spotify.com/album/52lZvD8hEnCoYnnvVC6dbp) | 3:02 | 2021-12-03 | 2022-02-05 |
 | [September Baby](https://open.spotify.com/track/5QlhAs2Xud8nAIGLEmL9I3) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [September Baby](https://open.spotify.com/album/6lIFcbUTt0Hh2d7HSKnnDh) | 3:39 | 2024-08-30 | 2024-11-06 |
 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 | 2024-12-13 | 2025-03-01 |

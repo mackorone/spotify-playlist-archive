@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,306 songs - 3 day 4 hr 36 min
+1,307 songs - 3 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-06 | 2024-10-25 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-05 | 2022-05-14 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
+| [Strategy](https://open.spotify.com/track/22fSzde77hjB052Vo155LF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 2:46 | 2025-07-01 |  |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-22 | 2025-01-26 |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-07 | 2025-01-31 |
 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-10-21 | 2021-11-09 |
@@ -797,7 +798,7 @@
 | [Who Doesn’t Wanna](https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Love, Lord](https://open.spotify.com/album/2Z2Lv8Cl0QcTirhjo9IvDq) | 4:05 | 2024-03-28 | 2024-04-11 |
 | [Who I Am](https://open.spotify.com/track/76O16TXhsSMYZhEQAJXwmZ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Who I Am](https://open.spotify.com/album/6rossoBfDzEiVWn0EdD8DQ) | 3:45 | 2021-10-08 | 2021-10-14 |
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-04-20 | 2024-04-24 |
-| [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 | 2025-06-28 | 2025-06-30 |
+| [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 | 2025-06-28 |  |
 | [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-01-30 | 2024-04-08 |
 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-23 | 2024-01-31 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-15 |
@@ -1042,7 +1043,7 @@
 | [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 | 2024-10-08 |  |
 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 | 2025-03-02 |  |
 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 | 2021-03-27\* | 2021-08-21 |
-| [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 | 2024-12-30 |  |
+| [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 | 2024-12-30 | 2025-07-02 |
 | [愛錯](https://open.spotify.com/track/4vdX5mQE0oXkflFqsqQkUP) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心中的日月](https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw) | 3:58 | 2025-01-05 | 2025-04-24 |
 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 | 2024-02-07 | 2024-03-12 |
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2021-03-27\* | 2024-02-09 |
@@ -1082,7 +1083,7 @@
 | [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 | 2021-03-27\* | 2021-04-02 |
 | [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/track/2DhX6wct6tY8lbZpq5KgXp) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/album/5mb99zTzuEmUFdUcslQbQS) | 3:20 | 2024-08-15 | 2024-09-30 |
 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 | 2024-10-01 | 2024-10-23 |
-| [才二十三](https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:44 | 2025-03-02 |  |
+| [才二十三](https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:44 | 2025-03-02 | 2025-07-02 |
 | [才二十三](https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [才二十三](https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh) | 3:44 | 2024-08-24 | 2024-08-26 |
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2021-03-27\* | 2024-04-21 |
 | [抱一抱一下](https://open.spotify.com/track/6SGR2LQdKn1mqbwVNR8kz7) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [柯佳嬿](https://open.spotify.com/artist/0L61ClriEEw74NE3HCTkAS) | [抱一抱一下](https://open.spotify.com/album/0f4nwlvnd30tiDBXPj7r3U) | 3:31 | 2021-11-25 | 2021-12-10 |

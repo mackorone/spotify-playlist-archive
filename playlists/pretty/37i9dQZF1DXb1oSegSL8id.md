@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,265 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,312 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 30 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 |
 | 31 | [Parada Louca](https://open.spotify.com/track/72g37RoelSnovZakG5MwnF) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Parada Louca](https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn) | 2:59 |
 | 32 | [Sogra \- Ao Vivo](https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Open House \(Ao Vivo\)](https://open.spotify.com/album/69BEwRfwBeIpoene374tX2) | 2:57 |
-| 33 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 |
-| 34 | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV) | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR) | 2:30 |
+| 33 | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV) | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR) | 2:30 |
+| 34 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 |
 | 35 | [Baby Me Atende](https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Baby Me Atende](https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V) | 3:45 |
 | 36 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
 | 37 | [Figurinha \- Ao Vivo](https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4) | [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Figurinha \(Ao Vivo\)](https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8) | 3:26 |

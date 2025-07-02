@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: JERGE
 
-441 songs - 1 day 3 hr 39 min
+443 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alipin](https://open.spotify.com/track/4M58QFY0zKnt2V2IPKsoy5) | [Khel Pangilinan](https://open.spotify.com/artist/39ZvrXAretQWcY8yDoWAtP) | [Alipin](https://open.spotify.com/album/4AD5QC9YS6u0flPv458gtE) | 3:55 | 2024-11-20 | 2025-02-26 |
 | [Alitaptap](https://open.spotify.com/track/3M9ZlNsdyW7O5yWYYhkqip) | [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [Alitaptap](https://open.spotify.com/album/63v49wfOqvf4Z0NCMRtV1F) | 3:56 | 2024-07-11 | 2024-09-25 |
 | [all i do is cry](https://open.spotify.com/track/1C3Irw3T4piq1HTSSr5SIU) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears \(and then some\)](https://open.spotify.com/album/1yvLkOMPYN1Lngb8TJZBYY) | 4:40 | 2024-11-29 | 2025-02-13 |
+| [Alon](https://open.spotify.com/track/0MCy9PWMVvgrGmuKXRISBL) | [JL](https://open.spotify.com/artist/7iecBkGAXnfTwF49zfBzbf) | [Alon](https://open.spotify.com/album/33PsXTNsTcgM8xzYldyXyG) | 2:59 | 2025-07-01 |  |
 | [Ano Ba Talaga Tayo?](https://open.spotify.com/track/2u8JwugJPL5Gv56l3asQj0) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/3ZglfO9QkXmNlZGgcjtEbX) | 3:56 | 2025-04-28 |  |
 | [ano ba talaga?](https://open.spotify.com/track/25ShFEmOxAztkDH90gDjnN) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [ano ba talaga?](https://open.spotify.com/album/3qnEoTZUorPccoiVv3KGdZ) | 3:06 | 2025-03-14 | 2025-05-24 |
 | [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-16 | 2024-11-21 |
@@ -261,6 +262,7 @@
 | [Misbehave](https://open.spotify.com/track/4kdK6ElvEvHh3MaD2sBAOh) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Misbehave](https://open.spotify.com/album/18BMu9faCjCie5pvbEejmc) | 3:42 | 2025-05-30 |  |
 | [Miss](https://open.spotify.com/track/42Ca18hBHZyFIdw0JCL51j) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Miss](https://open.spotify.com/album/40bq8R3mU0a5b1tjFI2OLC) | 3:37 | 2024-07-26 | 2024-11-09 |
 | [miss na kita](https://open.spotify.com/track/0p6FNNJvTSSMLrLewHbLvv) | [sean ilada](https://open.spotify.com/artist/5KZB24d3jD5Si9WbQB1PD8) | [miss na kita](https://open.spotify.com/album/2Ke1SfoP27BzMdX2vRACvw) | 4:28 | 2024-08-09 | 2024-11-09 |
+| [miss senti\(mental\)](https://open.spotify.com/track/1BaPkfjMReYqrz2Gz5tKc1) | [RAIN](https://open.spotify.com/artist/5S4lGG6zcdPX0ehhSsJYwu) | [b luvd](https://open.spotify.com/album/6F2cmP1dbtWIHpKaVSqoLb) | 2:48 | 2025-07-01 |  |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-07-02 | 2024-08-03 |
 | [Moonlight](https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ) | 2:48 | 2024-07-02 | 2024-07-13 |
 | [morenita](https://open.spotify.com/track/33uxA28bUvEG6LkA5DtbkT) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [morenita](https://open.spotify.com/album/3gFgsuVf4OXdH2CBRsggsO) | 2:42 | 2024-09-24 | 2024-12-05 |

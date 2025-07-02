@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHrK6XFPCM1.md) - [plain]
 
 > Waktu Indonesia bagian mager dan dengar lagu\-lagu enak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,138 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,106 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHrK6XFPCM1.md) - [plain]
 | 27 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 28 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 29 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
-| 30 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 |
-| 31 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
+| 30 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
+| 31 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 |
 | 32 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 33 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 34 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
-| 35 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
-| 36 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 35 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 36 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 37 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 38 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 |
 | 39 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 |
 | 40 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
-| 41 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
-| 42 | [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 |
+| 41 | [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 |
+| 42 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 | 43 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 44 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 45 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
 | 46 | [Daylight](https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:53 |
 | 47 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 |
 | 48 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
-| 49 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
-| 50 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
+| 49 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
+| 50 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
 
 Snapshot ID: `aGI4sAAAAAA8uvvYw49kWqTa+lsclcZF`

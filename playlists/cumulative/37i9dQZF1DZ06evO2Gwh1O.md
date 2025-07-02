@@ -4,13 +4,13 @@
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 44 min
+105 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1%](https://open.spotify.com/track/0EqdznnVPVuNjdZw3VNjtj) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/6lsMnLYE9t3tswbShhwcwb) | 3:43 | 2024-12-07 | 2025-05-07 |
 | [1%](https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:43 | 2022-10-25 | 2024-10-18 |
-| [1% \- Live](https://open.spotify.com/track/5SSUh05MjQ3Us7I2pbleJF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours \(Live at Islington Academy, London, 2014\)](https://open.spotify.com/album/7jJa4Nv3fCxNb9vUv3cbnV) | 3:57 | 2025-06-28 | 2025-07-01 |
+| [1% \- Live](https://open.spotify.com/track/5SSUh05MjQ3Us7I2pbleJF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours \(Live at Islington Academy, London, 2014\)](https://open.spotify.com/album/7jJa4Nv3fCxNb9vUv3cbnV) | 3:57 | 2025-06-28 |  |
 | [10 Scene Points to the Winner](https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Escape Artists Never Die \(EW283CD\)](https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH) | 2:38 | 2024-10-15 | 2024-10-18 |
 | [10.45 Amsterdam Conversations](https://open.spotify.com/track/4t0VJ7J6QMZBE5lz0LdbjU) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 3:39 | 2022-10-25 | 2025-06-28 |
 | [After All These Years...Like a Light Bulb Going off in My Head](https://open.spotify.com/track/5un9WlTtlY2JLYT87DLMyh) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:32 | 2024-10-02 | 2024-10-07 |
@@ -60,6 +60,7 @@
 | [Lazarus \(In the Wilderness\)](https://open.spotify.com/track/0QKkv1YGBqWAw4VzjzC1X0) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Streetcar](https://open.spotify.com/album/5lKrUDYLVWkzPxeDs48x5o) | 2:49 | 2024-02-10 |  |
 | [Man Alive](https://open.spotify.com/track/1kA1bCNfXuDqajsf9h3oHc) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 2:49 | 2024-02-24 | 2024-02-26 |
 | [Maybe I Am?](https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:38 | 2024-09-08 |  |
+| [Medicated](https://open.spotify.com/track/3JM8FkUY2eP2F0sz6RGwJO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/0vkbbnIFkRRs71VBVQiKt7) | 3:36 | 2025-07-02 |  |
 | [Modern Excuse of a Man](https://open.spotify.com/track/33gRce24npD7SMId6DN4HX) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 1:47 | 2023-12-13 | 2024-10-17 |
 | [Monsters](https://open.spotify.com/track/3k0coNayddFcRWKYJujrx4) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK) | 3:29 | 2022-10-25 |  |
 | [Nails](https://open.spotify.com/track/0EBKtFz0V1zfIghLZJceyv) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:57 | 2024-04-13 | 2024-10-18 |

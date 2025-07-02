@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,610 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,637 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 16 | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tariq Al\-Sabir](https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Field \(feat\. The Durutti Column, Tariq Al\-Sabir, Caroline Polachek & Daniel Caesar\)](https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc) | 3:19 |
 | 17 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 18 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 |
-| 19 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 19 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 20 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
 | 21 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
 | 22 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |

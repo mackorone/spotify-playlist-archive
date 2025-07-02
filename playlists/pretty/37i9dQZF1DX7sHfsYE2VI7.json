@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 66906,
+  "num_followers": 66922,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Portraits Outtakes",
+        "url": "https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Manila",
+      "url": "https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Portraits Outtakes",
-        "url": "https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Manila",
-      "url": "https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm"
     },
     {
       "added_at": "2024-12-17 13:01:13",

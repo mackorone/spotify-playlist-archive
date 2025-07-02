@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39436,
+  "num_followers": 39442,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADYpMwSUjCGphHKlVwhm5Vo",
+  "snapshot_id": "aGHTgAAAAACHoqDIj4TvotJOxpJbH1qL",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 169166,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 147386,
       "name": "You Might Find Me",
       "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 169166,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best of the 1990s classics, 90s throwbacks, 90s R&amp;B, 90s Pop, 90s Songs, 90s Music, 90s Alternative and more from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-248 songs - 17 hr 17 min
+249 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 | 2022-06-03 | 2023-01-20 |
 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2023-05-08 |  |
 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2022-06-03 | 2023-01-20 |
+| [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2025-07-01 |  |
 | [Lullaby](https://open.spotify.com/track/5sMUwUR3JI2woCOrNbizUt) | [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [The Essential Shawn Mullins](https://open.spotify.com/album/56a0jajgyzAVEAYBJc8BG6) | 5:30 | 2022-06-03 | 2023-01-20 |
 | [Make Me Lose Control](https://open.spotify.com/track/31HhcRSNcS8Rgv9ldIfh66) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:45 | 2024-07-18 |  |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2022-06-03 |  |

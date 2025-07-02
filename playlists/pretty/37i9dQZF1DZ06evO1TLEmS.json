@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3817,
+  "num_followers": 3874,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADx1OiK66jRiSp3WFAxXwlY",
+  "snapshot_id": "aGHTgAAAAAA+0hghtRlj98yTndSTKZpe",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 186813,
       "name": "Blood On The Page",
       "url": "https://open.spotify.com/track/1s7fzrM3FdNDcNYc5i85ZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
     },
     {
       "added_at": null,

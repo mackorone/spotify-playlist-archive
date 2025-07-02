@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,987 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,019 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 2 | [Ando Enfocado](https://open.spotify.com/track/6HRCOGVHfqXk60weyHLMIo) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Y Lo Que Falta](https://open.spotify.com/album/2rlU1lP7dG380YCf3EVkZu) | 3:03 |
 | 3 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ) | 3:10 |
 | 4 | [Te Lo Dije](https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Te Lo Dije](https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt) | 3:18 |
-| 5 | [EL R2](https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El R2](https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc) | 2:32 |
-| 6 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
+| 5 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
+| 6 | [EL R2](https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El R2](https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc) | 2:32 |
 | 7 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 | 8 | [La Que Se Fue](https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/39VyjyZRf9Rctib71z1A0I) | 4:27 |
 | 9 | [Olvídame Tú](https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is) | 3:40 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 43 | [El General](https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El General](https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg) | 3:47 |
 | 44 | [Te Vi](https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Te Vi](https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x) | 2:42 |
 
-Snapshot ID: `aGCCAAAAAABJuFaVD7jVh3zpYF9Mp4dQ`
+Snapshot ID: `aGHTgAAAAADzZ2WSVcshSCQYxE6jiR+m`

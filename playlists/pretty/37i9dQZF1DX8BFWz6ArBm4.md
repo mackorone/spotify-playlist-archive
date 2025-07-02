@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Dimos Anastasiadis
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,443 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,451 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 22 | [Gia Tin Epomeni](https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg) | 2:48 |
 | 23 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 |
 | 24 | [To Viografiko](https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [To Viografiko](https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr) | 3:25 |
-| 25 | [Mavra Matia](https://open.spotify.com/track/3KpyeBandv07ri3WUu111o) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Mavra Matia](https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z) | 3:01 |
-| 26 | [Tetoia Ora Tetoia Logia](https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Tetoia Ora Tetoia Logia](https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS) | 3:12 |
+| 25 | [Tetoia Ora Tetoia Logia](https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Tetoia Ora Tetoia Logia](https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS) | 3:12 |
+| 26 | [Mavra Matia](https://open.spotify.com/track/3KpyeBandv07ri3WUu111o) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Mavra Matia](https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z) | 3:01 |
 | 27 | [Gyrismos](https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu), [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Gyrismos](https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp) | 3:32 |
 | 28 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 |
 | 29 | [Ypervoles](https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp) | [Droulias Brothers](https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ypervoles](https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr) | 2:47 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 36 | [Monaxia](https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Monaxia](https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP) | 3:24 |
 | 37 | [Etsi Koitazes Emena](https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Etsi Koitazes Emena](https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM) | 3:48 |
 | 38 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
-| 39 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 |
-| 40 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 |
+| 39 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 |
+| 40 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 |
 | 41 | [Ti Na Sas Po](https://open.spotify.com/track/5rlPTd5apJPPcrX6P2OJov) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Ti Na Sas Po](https://open.spotify.com/album/0hRZTC2c59AyqLRAtiZX6x) | 3:19 |
 | 42 | [Auta Ta Matia Ta Glika](https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 3:13 |
 | 43 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 |

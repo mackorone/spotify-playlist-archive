@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,664 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,696 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,14 +98,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 88 | [Princesa \- En Vivo](https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa \(En Vivo\)](https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm) | 2:50 |
 | 89 | [Tú Eres Ajena / No Quiero Herirte \(En Vivo Gran Rex\)](https://open.spotify.com/track/6BjBSu7f5GshEq0VXRI4WK) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Tú Eres Ajena / No Quiero Herirte \(En Vivo Gran Rex\)](https://open.spotify.com/album/6R6DuafSX3x5CqRucKRjhf) | 4:46 |
 | 90 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
-| 91 | [El tiempo pasa](https://open.spotify.com/track/64TQSAqul6b5y0ueOyMKzf) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [El tiempo pasa](https://open.spotify.com/album/65WGQQm6DvvJU3KM5RvZ9F) | 2:34 |
-| 92 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
-| 93 | [Buena Vida](https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Buena Vida](https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu) | 2:22 |
+| 91 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
+| 92 | [Buena Vida](https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Buena Vida](https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu) | 2:22 |
+| 93 | [El tiempo pasa](https://open.spotify.com/track/64TQSAqul6b5y0ueOyMKzf) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [El tiempo pasa](https://open.spotify.com/album/65WGQQm6DvvJU3KM5RvZ9F) | 2:34 |
 | 94 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
 | 95 | [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 |
-| 96 | [¿Quién te dijo?](https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [NHAY](https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG) | [¿Quién te dijo?](https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn) | 2:45 |
-| 97 | [Corazón Partío \- En Vivo](https://open.spotify.com/track/1og22H4fikIPnS3wu92Gzr) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Corazón Partío \(En Vivo\)](https://open.spotify.com/album/6SquTKyvOuQuFxF2M3MZ0C) | 3:01 |
-| 98 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
+| 96 | [Corazón Partío \- En Vivo](https://open.spotify.com/track/1og22H4fikIPnS3wu92Gzr) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Corazón Partío \(En Vivo\)](https://open.spotify.com/album/6SquTKyvOuQuFxF2M3MZ0C) | 3:01 |
+| 97 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
+| 98 | [¿Quién te dijo?](https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [NHAY](https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG) | [¿Quién te dijo?](https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn) | 2:45 |
 | 99 | [Como La Primera Vez](https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Como La Primera Vez](https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd) | 3:53 |
 | 100 | [No Se Vivir Si No Es Contigo](https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [No Se Vivir Si No Es Contigo](https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx) | 3:22 |
 

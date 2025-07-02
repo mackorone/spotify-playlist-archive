@@ -4,7 +4,7 @@
 
 > ✨ cucinando questo capitolo dell'estate ✨
 
-421 songs - 22 hr 51 min
+422 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-06-27 | 2024-07-27 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2024-07-26 |  |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-18 |  |
-| [Only Girl \(In The World\)](https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 3:55 | 2025-05-18 |  |
+| [Only Girl \(In The World\)](https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 3:55 | 2025-05-18 | 2025-07-02 |
 | [Oroscopo \(feat\. Takagi & Ketra\) \- Ghost track](https://open.spotify.com/track/7yJZlPui7PYh2L9UXmtQWc) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [Mainstream +](https://open.spotify.com/album/1ydmsbKjOxrWFBQmoz1O91) | 3:18 | 2025-05-18 |  |
 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2024-07-25 | 2024-10-04 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2025-05-18 | 2025-06-18 |
@@ -322,6 +322,7 @@
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-27 | 2024-12-06 |
 | [Shake Dat Ass \(Twerk Song\)](https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Too Slippery](https://open.spotify.com/album/3ESmtTRJZkIjPShkV48tdL) | 3:17 | 2024-10-04 | 2025-01-09 |
 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 | 2024-07-09 | 2024-07-25 |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-07-01 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2025-05-18 |  |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-07-27 |
 | [So Much Wine](https://open.spotify.com/track/1JuzAhwnyk10YCVORdWabv) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Parting Glass](https://open.spotify.com/album/4hC3PA7iYZp8VYpc1FKceV) | 4:03 | 2024-07-09 | 2024-07-25 |

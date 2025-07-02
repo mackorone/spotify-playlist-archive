@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,690,449 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,689,970 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 25 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
 | 26 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 27 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
-| 28 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
-| 29 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
+| 28 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
+| 29 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 30 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 31 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 32 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 83 | [Who Saved Who](https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv), [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Who Saved Who](https://open.spotify.com/album/50Ddcp9wVHb6ZRNkJ5WbbX) | 4:05 |
 | 84 | [Wondrous Love](https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 2:35 |
 | 85 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
-| 86 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 |
-| 87 | [Wedding Song](https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:04 |
+| 86 | [Wedding Song](https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:04 |
+| 87 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
 | 89 | [I Do](https://open.spotify.com/track/0x2kJ54nT96frJQ27700jS) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Euphorics](https://open.spotify.com/album/1WPoh6fbUUAapxP6xfeY9D) | 3:39 |
 | 90 | [Chandelier Love](https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:23 |
-| 91 | [Upon These Stones](https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu) | [Tom Francis](https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH) | [One Step Away](https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ) | 4:18 |
-| 92 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:26 |
+| 91 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:26 |
+| 92 | [Upon These Stones](https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu) | [Tom Francis](https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH) | [One Step Away](https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ) | 4:18 |
 | 93 | [Love You the Most](https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Love You the Most](https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ) | 2:51 |
 | 94 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
 | 95 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 |

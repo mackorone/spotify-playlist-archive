@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27614,
+  "num_followers": 27616,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADStOQ9kp/omkKJBpu8OUld",
+  "snapshot_id": "aGHTgAAAAAByja997FLs4Mg/T4wDbxzN",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "innocent starter",
-        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+        "name": "NEOGENE CREATION",
+        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 281133,
-      "name": "innocent starter",
-      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+      "duration_ms": 268706,
+      "name": "UNLIMITED BEAT",
+      "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEOGENE CREATION",
-        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
+        "name": "innocent starter",
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 268706,
-      "name": "UNLIMITED BEAT",
-      "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
+      "duration_ms": 281133,
+      "name": "innocent starter",
+      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
     },
     {
       "added_at": null,
@@ -428,9 +428,25 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 240240,
-      "name": "\u30b7\u30e3\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/2zsyK9VNE2x2ISN8SEGPwF"
+      "duration_ms": 191800,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/6MBV1gIZyMLlhREr5MAJVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 305032,
+      "name": "FINAL COMMANDER -Aufwachen Form-",
+      "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 305032,
-      "name": "FINAL COMMANDER -Aufwachen Form-",
-      "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CONTEMPORARY EMOTION",
         "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 232106,
       "name": "Virtual Cruiser",
       "url": "https://open.spotify.com/track/4SivujSrkOb0zZFwxojti6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 260201,
+      "name": "DAYBREAKERS",
+      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 260201,
-      "name": "DAYBREAKERS",
-      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CONTEMPORARY EMOTION",
         "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
       },
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/6MBV1gIZyMLlhREr5MAJVx"
+      "duration_ms": 240240,
+      "name": "\u30b7\u30e3\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2zsyK9VNE2x2ISN8SEGPwF"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNAL LIBERTY",
-        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 284400,
-      "name": "Vitalization-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+        "name": "SUPERNAL LIBERTY",
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239000,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
+      "duration_ms": 284400,
+      "name": "Vitalization-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
     },
     {
       "added_at": null,

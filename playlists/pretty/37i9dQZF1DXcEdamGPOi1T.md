@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,130 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,140 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 9 | [Printemps](https://open.spotify.com/track/7lh98qsgRr8SkGnyjHeLKK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Printemps](https://open.spotify.com/album/6pFoqH1ei5kVVUJwakL2mT) | 2:21 |
 | 10 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 11 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 |
-| 12 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
+| 12 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 13 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 |
-| 14 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
+| 14 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 15 | [Tutto Passa](https://open.spotify.com/track/5gWMTyoZzfGvTTNIlJF6DL) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Tutto Passa](https://open.spotify.com/album/6E3IXkTWPlTQarReII9eC5) | 3:10 |
 | 16 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 17 | [Toutes les femmes savent danser](https://open.spotify.com/track/4wWe5g3mTIJ72lq8BIIgX2) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Une année record](https://open.spotify.com/album/69uk7o6mVn1hPr4HAn1NEO) | 2:41 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 59 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
 | 60 | [Belle](https://open.spotify.com/track/1XBTbrFqzkb8eQpnqcYGsm) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK), [Bnyofficial](https://open.spotify.com/artist/5BqM9z6eisbGASuqh5B6QM) | [Belle](https://open.spotify.com/album/6hMkE5cYDkXqUd5rL8iFfV) | 3:14 |
 | 61 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
-| 62 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
+| 62 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 63 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 64 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
-| 65 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
+| 64 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
+| 65 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
 | 66 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 67 | [Elle est partie](https://open.spotify.com/track/5FkWYuIuDFKmftXU31RGHe) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Poupée Russe](https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD) | 2:41 |
 | 68 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |

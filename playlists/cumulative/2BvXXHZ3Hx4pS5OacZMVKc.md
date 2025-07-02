@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-399 songs - 20 hr 46 min
+400 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Montagem Toma](https://open.spotify.com/track/1ukD6B5zhWdi7KM8ECFspS) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [SK3TCH01](https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC), [X972](https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50) | [Montagem Toma](https://open.spotify.com/album/2hYJXuu5zfVZqBmzwLBaJs) | 2:02 | 2025-05-09 |  |
 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 | 2025-01-18 |  |
 | [Mr\. Bully](https://open.spotify.com/track/63GP77KaR6enaUNsPp4kbc) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [Mr\. Bully](https://open.spotify.com/album/4JdzrLO2LgjoHDGLTAwi4o) | 4:12 | 2022-02-03 |  |
+| [musicismytherapy](https://open.spotify.com/track/2UcM2CcwY4AmNwJtsHTf03) | [chy deep](https://open.spotify.com/artist/3Rgn1N6FniSgfTz9sqnuXp) | [musicismytherapy](https://open.spotify.com/album/4Q0P2uJMSwmQfH4TvQxmpy) | 3:18 | 2025-07-01 |  |
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 | 2022-08-01 |
 | [Need You](https://open.spotify.com/track/7JYG1EVlbe62e8UadeRqGV) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [YOU](https://open.spotify.com/album/6bqaOob66pWCH2dlvQU1cf) | 3:16 | 2022-02-03 | 2022-09-15 |
 | [Need You Again](https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Need You Again](https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ) | 3:56 | 2025-06-24 |  |

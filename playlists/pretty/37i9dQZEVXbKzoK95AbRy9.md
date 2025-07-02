@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,990 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,057 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Saveiro](https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Saveiro](https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS) | 2:24 |
 | 50 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 |
 
-Snapshot ID: `L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu`

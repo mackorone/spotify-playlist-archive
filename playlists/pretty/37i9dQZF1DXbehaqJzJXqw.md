@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,409 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,670 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 17 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
 | 18 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
 | 19 | [Le Temps D'Un Jazz](https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z) | [DANIEL ROURE](https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO) | [Le Temps D'un Jazz](https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9) | 3:53 |
-| 20 | [Un jour comme un autre](https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 2:20 |
-| 21 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
+| 20 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
+| 21 | [Un jour comme un autre](https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 2:20 |
 | 22 | [Les Etoiles](https://open.spotify.com/track/5yQOP5W4KZtUDjsHjVQvT9) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/3qIM1SPrb3OWoATtDxR6eB) | 3:20 |
 | 23 | [Je Cherche Un Homme](https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Miss Kitt To You](https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO) | 2:52 |
 | 24 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 38 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
 | 39 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
 | 40 | [Samba Saravah](https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:50 |
-| 41 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
-| 42 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
+| 41 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
+| 42 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
 | 43 | [Je m'ennuie](https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 4:32 |
 | 44 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
 | 45 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |

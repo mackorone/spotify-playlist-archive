@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,267 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,726 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 40 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 41 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 |
 | 42 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
-| 43 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
-| 44 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 |
+| 43 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 |
+| 44 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
 | 45 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 |
 | 46 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
 | 47 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 58 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
 | 59 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 |
 | 60 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
-| 61 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
-| 62 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
+| 61 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
+| 62 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
 | 63 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 | 64 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
 | 65 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
 | 66 | [Je Pense à Toi](https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Je pense à toi](https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz) | 4:32 |
-| 67 | [Vámonos \- Vazlá Remix](https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vazlá](https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV) | [Dj friendly](https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o) | 3:54 |
-| 68 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
-| 69 | [Agua, Arena, Sol y Viento](https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:08 |
+| 67 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
+| 68 | [Agua, Arena, Sol y Viento](https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:08 |
+| 69 | [Vámonos \- Vazlá Remix](https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vazlá](https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV) | [Dj friendly](https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o) | 3:54 |
 | 70 | [Negro Santo](https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:58 |
 
 Snapshot ID: `Z5xXZgAAAAB4oMw3dVCJAuj+e4dFzSJl`

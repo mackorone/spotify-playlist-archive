@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Maz B
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,101 likes - 175 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,195 likes - 175 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

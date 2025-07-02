@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,894 likes - 209 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,895 likes - 209 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 78 | [Don't Understand](https://open.spotify.com/track/4MTuL20LF3pWebeJbcNh7p) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:03 |
 | 79 | [Laugh It Off](https://open.spotify.com/track/26EjM7ZMAnWOKPAuKNOX24) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 4:06 |
 | 80 | [Landmine](https://open.spotify.com/track/6Sjg6cp8yXtKX5DrcEl7HV) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:04 |
-| 81 | [Straight to Hell](https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 3:45 |
-| 82 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/3YYnFEXCLNbaWuC0hIEnIS) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 7:21 |
-| 83 | [Don't Call Tonight](https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:45 |
-| 84 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 81 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 82 | [Straight to Hell](https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 3:45 |
+| 83 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/3YYnFEXCLNbaWuC0hIEnIS) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 7:21 |
+| 84 | [Don't Call Tonight](https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:45 |
 | 85 | [Buyer Beware](https://open.spotify.com/track/6wOmmoM5nyS6mOyzo9wDjC) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:53 |
 | 86 | [THE END](https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [THE END](https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e) | 3:26 |
 | 87 | [Hold My Breath](https://open.spotify.com/track/4qtxILwBcAHEHbG7R0xF4r) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:28 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 136 | [Home](https://open.spotify.com/track/29O6FQ41qJOLfHeJUenn6M) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Home](https://open.spotify.com/album/6MjqtsWcicPuNmTpBwdT2j) | 2:01 |
 | 137 | [Holy For Tonight](https://open.spotify.com/track/583XgUuJHqnS2YlFmyz1Uh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 4:52 |
 | 138 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
-| 139 | [Something Special](https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:06 |
-| 140 | [Who Believes In Angels?](https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 5:13 |
+| 139 | [Who Believes In Angels?](https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 5:13 |
+| 140 | [Something Special](https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:06 |
 | 141 | [Forgot About You](https://open.spotify.com/track/73xYQWRzImNfVHhz0x9ETV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:53 |
 | 142 | [React, Respond](https://open.spotify.com/track/33rc0hKdMyHf6lz7WMTRdh) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:30 |
 | 143 | [Upper Hand](https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:57 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 208 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 |
 | 209 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 
-Snapshot ID: `Ab1jpgAAAAABq6CjQ33xxzKC/MgBJ67D`
+Snapshot ID: `Ab1pPAAAAADfxjvNAcBcAgVCFwO1VjeU`

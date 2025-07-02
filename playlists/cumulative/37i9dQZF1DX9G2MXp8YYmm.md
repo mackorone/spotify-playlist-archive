@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: İrem Derici
 
-298 songs - 15 hr 0 min
+299 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Gözlerin Silah](https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Gözlerin Silah](https://open.spotify.com/album/40vrmeBLOD6yG33ADnmumm) | 2:07 | 2024-12-05 | 2025-01-27 |
 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 | 2025-01-31 |  |
 | [Güle Güle Anlattım Seni](https://open.spotify.com/track/3cTwNe8huG0WSiwl3NhYsV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Güle Güle Anlattım Seni](https://open.spotify.com/album/5GtEpsNE9gDVi5pdWPwKtx) | 3:14 | 2024-09-12 | 2024-10-28 |
-| [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 |  |
+| [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 | 2025-07-02 |
 | [Hain](https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Hain](https://open.spotify.com/album/6QQvURc9aYL6RTOEfwF1KD) | 3:21 | 2024-06-27 | 2024-08-04 |
 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 | 2025-06-26 |  |
 | [Halim](https://open.spotify.com/track/06mKAmOzCoaBxyvRRr8U6L) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Halim](https://open.spotify.com/album/6tx8KRugMjbWQc7AlcKMXU) | 3:52 | 2025-05-08 | 2025-05-23 |
@@ -294,6 +294,7 @@
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-13 |  |
 | [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-06 | 2025-02-21 |
 | [Çok Özlüyorum](https://open.spotify.com/track/39gABHIgJSl52G0TnTddeU) | [Berksan](https://open.spotify.com/artist/72OZeQyKCAebfnRJAIEpnx) | [Çok Özlüyorum](https://open.spotify.com/album/5ZYMBeTtPpwW1xTgLUKOic) | 2:57 | 2024-07-11 | 2024-07-17 |
+| [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 | 2025-06-26 |  |
 | [Ömrüm](https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Ömrüm](https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz) | 2:33 | 2024-10-03 | 2024-11-15 |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-27 |  |
 | [Özgürlük](https://open.spotify.com/track/19oVO1hFQBqrum2bmHBqvC) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Özgürlük](https://open.spotify.com/album/1H2JdnSioGeGGgnxfyT0rN) | 3:03 | 2025-03-06 | 2025-04-12 |

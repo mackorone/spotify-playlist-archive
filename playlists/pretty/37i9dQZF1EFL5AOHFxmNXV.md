@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,978 likes - 169 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 169 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 22 | [Dreamin](https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dreamin](https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd) | 2:27 |
 | 23 | [Elevate](https://open.spotify.com/track/3szf2z1Cy1QMrtHrbn8rz9) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:04 |
 | 24 | [TBH](https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/3HAkHqZtXoyEH0Whnamswu) | 2:03 |
-| 25 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 4:41 |
-| 26 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 |
+| 25 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 |
+| 26 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 4:41 |
 | 27 | [Shot Clock](https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:21 |
 | 28 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
 | 29 | [Just Might \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:25 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 122 | [Bad Intentions](https://open.spotify.com/track/3fVyVFzbi7kY9VL4Fimtv7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:14 |
 | 123 | [NEVER AGAIN](https://open.spotify.com/track/4WSzt0Tdm6ziMxwfadYQk5) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:52 |
 | 124 | [High Hopes](https://open.spotify.com/track/47977ddRuDJUsPGBqoIKSt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 7:22 |
-| 125 | [Never Played Me](https://open.spotify.com/track/4GjUOTIHuiEVHC1kZraZ0H) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:09 |
-| 126 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 |
+| 125 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 |
+| 126 | [Never Played Me](https://open.spotify.com/track/4GjUOTIHuiEVHC1kZraZ0H) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:09 |
 | 127 | [Breather \(feat\. Ty Dolla $ign & PARTYNEXTDOOR\)](https://open.spotify.com/track/3Xvw3dLZUjnOxgLmgd1q3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Just Cause Y'all Waited](https://open.spotify.com/album/1R8YtoBYJgC2ue7eq9Xa8d) | 4:36 |
 | 128 | [Better Man \(feat\. Rick Ross\)](https://open.spotify.com/track/6Oj8Uf2qnCNDEIJNOuQbLc) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:37 |
 | 129 | [Can't Hang](https://open.spotify.com/track/1VycJxkDtBSEClyVPrIlWT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 2:59 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 168 | [Elevate](https://open.spotify.com/track/3HEe35p5i97KcFoBra4pIn) | [Siedd](https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14) | [Elevate](https://open.spotify.com/album/01Abn8AtQ1psk6jwqqHPta) | 2:12 |
 | 169 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `Ab1jpgAAAAC7BKrF2D2Axe7BVypi7Kvr`
+Snapshot ID: `Ab1pPAAAAADZ0YrXB3qcY/6qQKSNgrfP`

@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Turnstile at <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi\">Glastonbury 2025</a>",
-  "num_followers": 470419,
+  "num_followers": 470461,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-06-30 11:23:54",
       "album": {
+        "name": "Dream Bigger",
+        "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Amy Taylor",
+          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "Dream Bigger",
+      "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
+    },
+    {
+      "added_at": "2025-06-30 11:23:54",
+      "album": {
         "name": "Keep Planting Flowers",
         "url": "https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR"
       },
@@ -443,6 +463,22 @@
       "duration_ms": 203853,
       "name": "Spineless",
       "url": "https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa"
+    },
+    {
+      "added_at": "2025-06-30 11:23:54",
+      "album": {
+        "name": "stone cold summer",
+        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 167829,
+      "name": "stone cold summer",
+      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
     },
     {
       "added_at": "2025-06-30 11:23:54",
@@ -463,22 +499,6 @@
       "duration_ms": 159414,
       "name": "Love & Co.",
       "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
-    },
-    {
-      "added_at": "2025-06-30 11:23:54",
-      "album": {
-        "name": "stone cold summer",
-        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 167829,
-      "name": "stone cold summer",
-      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
     },
     {
       "added_at": "2025-06-30 11:23:54",
@@ -511,26 +531,6 @@
       "duration_ms": 170970,
       "name": "Big Al Dente",
       "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
-    },
-    {
-      "added_at": "2025-06-30 11:23:54",
-      "album": {
-        "name": "Dream Bigger",
-        "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        },
-        {
-          "name": "Amy Taylor",
-          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "Dream Bigger",
-      "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
     },
     {
       "added_at": "2025-06-30 11:23:54",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-06-30 11:23:54",
       "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
-    },
-    {
-      "added_at": "2025-06-30 11:23:54",
-      "album": {
         "name": "Bite Me",
         "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 127185,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+    },
+    {
+      "added_at": "2025-06-30 11:23:54",
+      "album": {
+        "name": "Pretty Good To Feel Something",
+        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 186679,
+      "name": "Pretty Good To Feel Something",
+      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
     },
     {
       "added_at": "2025-06-30 11:23:54",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-06-30 11:23:54",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
-    },
-    {
-      "added_at": "2025-06-30 11:23:54",
-      "album": {
         "name": "I really am feeling better",
         "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2025-06-30 11:23:54",
       "album": {
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2025-06-30 11:23:54",
+      "album": {
         "name": "An Artist Is An Artist",
         "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 191448,
       "name": "An Artist Is An Artist",
       "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
+    },
+    {
+      "added_at": "2025-06-30 11:23:54",
+      "album": {
+        "name": "Puppet Stringers",
+        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 169659,
+      "name": "Puppet Stringers",
+      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
     },
     {
       "added_at": "2025-06-30 11:23:54",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2025-06-30 11:23:54",
       "album": {
-        "name": "Puppet Stringers",
-        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 169659,
-      "name": "Puppet Stringers",
-      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
-    },
-    {
-      "added_at": "2025-06-30 11:23:54",
-      "album": {
         "name": "Fascist Bob",
         "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2025-06-30 11:23:54",
+      "album": {
+        "name": "My Apologies To The Chef",
+        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 162851,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv"
     },
     {
       "added_at": "2025-06-30 11:23:54",
@@ -1291,34 +1307,18 @@
     {
       "added_at": "2025-06-30 11:23:54",
       "album": {
-        "name": "My Apologies To The Chef",
-        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+        "name": "ONE NATION",
+        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
         }
       ],
-      "duration_ms": 162851,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv"
-    },
-    {
-      "added_at": "2025-06-30 11:23:54",
-      "album": {
-        "name": "Funny Face",
-        "url": "https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 167904,
-      "name": "Funny Face",
-      "url": "https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV"
+      "duration_ms": 183000,
+      "name": "ONE NATION",
+      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
     }
   ],
   "unique_name": "Today's Punk",

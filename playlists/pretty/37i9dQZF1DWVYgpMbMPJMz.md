@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Planetshakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,909 likes - 95 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,878 likes - 95 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Anointed One \- Live](https://open.spotify.com/track/7GQGFYbyxEpQ9tj5rGcYZR) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Anointed One \(Live\)](https://open.spotify.com/album/4F8kWun4WGBV7LiuFuA5eA) | 6:49 |
+| 1 | [Anointed One \- Live](https://open.spotify.com/track/7GQGFYbyxEpQ9tj5rGcYZR) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Anointed One \(Live\)](https://open.spotify.com/album/4F8kWun4WGBV7LiuFuA5eA) | 6:41 |
 | 2 | [Praise The Lord Forever](https://open.spotify.com/track/6gwp0ubEzuUyZmbMdX9JFG) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Praise The Lord Forever](https://open.spotify.com/album/0iql1Q9RHLdfX6e32SUxKJ) | 4:24 |
 | 3 | [Dwell](https://open.spotify.com/track/33G7XMjL3uKBJwlaamaUsa) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Dwell](https://open.spotify.com/album/2KqpntXs36LLr188Bo31Tc) | 5:47 |
 | 4 | [1,000,000 Reasons Why](https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [King Of Hearts \(Full Deck Deluxe\)](https://open.spotify.com/album/58h0AZmXG7bYxk7gBxIWu0) | 3:22 |

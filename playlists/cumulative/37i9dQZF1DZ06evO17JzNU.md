@@ -4,10 +4,11 @@
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 31 min
+90 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [130](https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/0wbnTjxysM59zeh4z4a5ID) | 3:03 | 2025-07-02 |  |
 | [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2024-01-29 | 2024-08-27 |
 | [Ahora Piden Paros](https://open.spotify.com/track/5QfjZFXqcHkIFPPh1gevNI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/5rKEVR1pa9iVTLIGQaTosD) | 2:19 | 2024-08-27 |  |
 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 | 2024-01-29 |  |
@@ -24,7 +25,7 @@
 | [Bloody Steps](https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bloody Steps](https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY) | 3:15 | 2024-01-29 |  |
 | [Bola De Corrientes](https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Bola De Corrientes](https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm) | 3:39 | 2024-01-29 |  |
 | [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 | 2024-01-29 |  |
-| [Como Un Carnal](https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Como Un Carnal](https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb) | 3:46 | 2024-10-19 |  |
+| [Como Un Carnal](https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Como Un Carnal](https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb) | 3:46 | 2024-10-19 | 2025-07-02 |
 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 | 2024-01-29 |  |
 | [Contigo Me Veo](https://open.spotify.com/track/7LMMzvDbCVyKu3gF1uR9A5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Contigo Me Veo](https://open.spotify.com/album/08zbwNKwS5DfmPRgDBTcQW) | 3:15 | 2024-01-29 |  |
 | [Diablo CMG](https://open.spotify.com/track/1GfnkaVOmfgAv5i5ab5ZNg) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos](https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH) | 3:02 | 2025-05-15 |  |

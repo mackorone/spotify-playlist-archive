@@ -4,7 +4,7 @@
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 12 min
+61 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [New World](https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:47 | 2025-01-03 |  |
 | [New York](https://open.spotify.com/track/1DJFBjtxPwiTlHFpBnp7kp) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:30 | 2025-01-03 |  |
 | [Noah](https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:47 | 2025-01-03 |  |
+| [Nocturne](https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:13 | 2025-07-02 |  |
 | [On a Cloud](https://open.spotify.com/track/4FLnSfoyAZ1upX2uerS9XO) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:46 | 2025-01-03 |  |
 | [Peace of Mind](https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 4:22 | 2025-01-03 |  |
 | [Perfect Balance](https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 1:54 | 2025-01-03 |  |

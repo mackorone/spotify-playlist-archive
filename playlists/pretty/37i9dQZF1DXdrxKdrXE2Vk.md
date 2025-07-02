@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Sons of Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,611 likes - 75 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,667 likes - 75 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Higher Than I](https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 4:18 |
 | 2 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
 | 3 | [Greatly To Be Praised \- Live](https://open.spotify.com/track/4nxbshOlmnBPG94wjMHsaU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Greatly To Be Praised \(Live\)](https://open.spotify.com/album/2OSFDqMbtiqHrSVXbWbQHM) | 8:58 |
-| 4 | [Anointed One \- Live](https://open.spotify.com/track/7GQGFYbyxEpQ9tj5rGcYZR) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Anointed One \(Live\)](https://open.spotify.com/album/4F8kWun4WGBV7LiuFuA5eA) | 6:49 |
+| 4 | [Anointed One \- Live](https://open.spotify.com/track/7GQGFYbyxEpQ9tj5rGcYZR) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Anointed One \(Live\)](https://open.spotify.com/album/4F8kWun4WGBV7LiuFuA5eA) | 6:41 |
 | 5 | [Consider Him \- Live](https://open.spotify.com/track/0yqqeDcVDTvVHi1Vp0pz2G) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [1350 \(Live\)](https://open.spotify.com/album/1GTvVA3HOCDDEnW27RV52Z) | 5:32 |
 | 6 | [Come Into The Light/Touch The Sky \- Live](https://open.spotify.com/track/6fiCQ6J5220cCdTVl9Ioft) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light \(Live\)](https://open.spotify.com/album/68c3QXsNVkO3HIJEbxt2Pv) | 7:16 |
 | 7 | [The Lamb's Book of Life \- Live From Passion 2025](https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:02 |

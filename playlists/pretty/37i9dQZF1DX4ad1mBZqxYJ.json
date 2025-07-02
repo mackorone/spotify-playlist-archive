@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 112834,
+  "num_followers": 112840,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Volando",
-        "url": "https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Poco A Poco",
-        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "Poco A Poco",
-      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Ahog\u00e1ndome en Alcohol",
         "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 257846,
       "name": "Ahog\u00e1ndome en Alcohol",
       "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1747,30 +1747,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Tendencia Global",
-        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 234402,
-      "name": "Tendencia Global",
-      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -1791,6 +1767,30 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Tendencia Global",
+        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 234402,
+      "name": "Tendencia Global",
+      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
     },
     {
       "added_at": "2024-10-04 19:39:18",

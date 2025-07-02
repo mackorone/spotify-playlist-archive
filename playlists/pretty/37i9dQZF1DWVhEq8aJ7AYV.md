@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,866 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,878 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 51 | [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 |
 | 52 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
 | 53 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
-| 54 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
-| 55 | [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 |
+| 54 | [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 |
+| 55 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
 | 56 | [Defcon 5](https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 3:13 |
-| 57 | [Bomber Man](https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Bomber Man](https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe) | 2:14 |
-| 58 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
+| 57 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
+| 58 | [Bomber Man](https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Bomber Man](https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe) | 2:14 |
 | 59 | [Qué He Sacado Con Quererte \(aka Violeta Parra\)](https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2017](https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H) | 4:57 |
 | 60 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 |
 | 61 | [Runaway \- En Directo](https://open.spotify.com/track/6n9lXiZ7ncFaTQyGV9RaAy) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino: El Concierto \(En Directo\)](https://open.spotify.com/album/7tpauqGPBkR0RHrDhSSH0a) | 3:03 |

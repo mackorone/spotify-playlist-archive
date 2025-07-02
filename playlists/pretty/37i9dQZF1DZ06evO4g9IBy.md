@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,831 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,839 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 14 | [Bella Donna \- 2016 Remaster](https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:22 |
 | 15 | [Blue Denim](https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:23 |
 | 16 | [If You Ever Did Believe](https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 4:11 |
-| 17 | [Edge of Seventeen](https://open.spotify.com/track/3OeHBpJwMsIGcdumxCtzte) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 5:27 |
-| 18 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
+| 17 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
+| 18 | [Edge of Seventeen](https://open.spotify.com/track/3OeHBpJwMsIGcdumxCtzte) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 5:27 |
 | 19 | [I Will Run to You \- 2016 Remaster](https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 3:21 |
 | 20 | [After the Glitter Fades \- 2016 Remaster](https://open.spotify.com/track/0JHm1MZjQ1smYmD8XCGx11) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:30 |
 | 21 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 38 | [Secret Love](https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [In Your Dreams](https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj) | 3:15 |
 | 39 | [Every Day](https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 3:36 |
 | 40 | [Sister Honey](https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:50 |
-| 41 | [Gypsy \(Live\)](https://open.spotify.com/track/3gsoMKVzc0FoKaxn2rdGUL) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Live In Concert: The 24 Karat Gold Tour](https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq) | 4:16 |
-| 42 | [Blue Lamp \- 2016 Remaster](https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 3:50 |
+| 41 | [Blue Lamp \- 2016 Remaster](https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 3:50 |
+| 42 | [Gypsy \(Live\)](https://open.spotify.com/track/3gsoMKVzc0FoKaxn2rdGUL) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Live In Concert: The 24 Karat Gold Tour](https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq) | 4:16 |
 | 43 | [Maybe Love Will Change Your Mind](https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:19 |
 | 44 | [I Sing for Things](https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:44 |
 | 45 | [Whole Lotta Trouble](https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 49 | [Enchanted \- 2016 Remaster](https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 3:06 |
 | 50 | [Sometimes It's a Bitch](https://open.spotify.com/track/0BMD6HPm0gS1pSTi5ZpHrR) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:38 |
 
-Snapshot ID: `aGCCAAAAAAAbrPZseVaG3cDpMcxlfCJE`
+Snapshot ID: `aGHTgAAAAACgfPrpGNmOoQ3u1VEYh7n/`

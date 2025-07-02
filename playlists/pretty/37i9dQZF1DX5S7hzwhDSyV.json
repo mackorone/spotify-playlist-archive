@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 136936,
+  "num_followers": 136997,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 387480,
       "name": "You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC",
       "url": "https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "I Got Rhythm",
         "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187746,
       "name": "As Times Goes By",
       "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+        "name": "Sunday At The Village Vanguard",
+        "url": "https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 299760,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
+      "duration_ms": 515039,
+      "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
+      "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1127,6 +1127,38 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 299760,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Pres and Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1143,38 +1175,6 @@
       "duration_ms": 410666,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Sunday At The Village Vanguard",
-        "url": "https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 515039,
-      "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
-      "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "The Legendary Prestige Quintet Sessions",
+        "url": "https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 500480,
+      "name": "If I Were A Bell - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/2I1WZ8gHdusnDJKEm7qnNy"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Konitz Meets Mulligan",
         "url": "https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 178640,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "The Legendary Prestige Quintet Sessions",
-        "url": "https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 500480,
-      "name": "If I Were A Bell - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/2I1WZ8gHdusnDJKEm7qnNy"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano Sextet",
+          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 285533,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/1e9NygW5Cd1T37OmQOz3ro"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano Sextet",
-          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Stella By Starlight - Remaster/2004",
-      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 339160,
       "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Stella By Starlight - Remaster/2004",
+      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
     },
     {
       "added_at": "2024-07-08 06:51:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,370 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 19 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
 | 20 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 |
 | 21 | [La Travesia](https://open.spotify.com/track/47nD9EtDtUORYiLPDY4DeI) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM) | 3:25 |
-| 22 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
-| 23 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
+| 22 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
+| 23 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 24 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 |
 | 25 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |
 | 26 | [El Niágara en Bicicleta](https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 4:25 |

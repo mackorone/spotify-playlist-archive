@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn?si=WuYDqhGOTQCrC9uq9LbGhA">ZVRI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,048 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,099 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

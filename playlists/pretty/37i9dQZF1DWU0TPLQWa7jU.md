@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,103 likes - 56 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,104 likes - 56 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 8 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
 | 9 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
 | 10 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
-| 11 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |
-| 12 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
+| 11 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
+| 12 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |
 | 13 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 |
 | 14 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 15 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 42 | [Brazil](https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:32 |
 | 43 | [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 |
 | 44 | [Global Warming \(feat\. Sensato\)](https://open.spotify.com/track/292kifgxa7S78AuzA5NMpL) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 1:25 |
-| 45 | [مش فير](https://open.spotify.com/track/29K7YMYrPPUJwUjkrfW507) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [مش فير](https://open.spotify.com/album/6O9Li1zrgVGeawmEMIIyOQ) | 3:50 |
+| 45 | [مش فير](https://open.spotify.com/track/29K7YMYrPPUJwUjkrfW507) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Msh Fair](https://open.spotify.com/album/6O9Li1zrgVGeawmEMIIyOQ) | 3:50 |
 | 46 | [Apex](https://open.spotify.com/track/3S9cX3Uzt330yZT0uypT9E) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Rocket League x Monstercat Vol\. 1](https://open.spotify.com/album/4pCdGlt4v1pqW0nOjB1T2o) | 2:43 |
 | 47 | [TEGE GOAL](https://open.spotify.com/track/0TvMcVxIQaxZCkT4R6yjpS) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:16 |
 | 48 | [Nostalgia](https://open.spotify.com/track/2x2vTBR8Q4ANKVUj6pPKCM) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Nostalgic Illusions](https://open.spotify.com/album/730K0aD79Hh6AzpQVGn2Ct) | 2:40 |

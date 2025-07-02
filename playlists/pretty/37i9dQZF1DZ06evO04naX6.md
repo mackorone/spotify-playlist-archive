@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,692 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,699 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 26 | [Vamos Hacerlo](https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 2:48 |
 | 27 | [Te Suelto el Pelo](https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 2:16 |
 | 28 | [PÓLVORA](https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:05 |
-| 29 | [SEXO ES LA MODA](https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SEXO ES LA MODA](https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD) | 2:45 |
-| 30 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
-| 31 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 |
-| 32 | [Wells Fargo](https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Sr\. Santos II Sueños de Grandeza](https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9) | 4:53 |
+| 29 | [Wells Fargo](https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Sr\. Santos II Sueños de Grandeza](https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9) | 4:53 |
+| 30 | [SEXO ES LA MODA](https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SEXO ES LA MODA](https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD) | 2:45 |
+| 31 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
+| 32 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 |
 | 33 | [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 |
 | 34 | [Porsche Carrera](https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Haze](https://open.spotify.com/artist/4oq6Twpq0DgU7WqpGpJHhv) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 4:14 |
 | 35 | [Pierdo la Cabeza \- Remix](https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Pierdo la Cabeza \(Remix\)](https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Abusadora \- Sinfónico En Vivo](https://open.spotify.com/track/47LpnBPn52IEyVn9JaUK5u) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 1:34 |
 | 50 | [De Negro](https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:34 |
 
-Snapshot ID: `aGCCAAAAAACXMOsc34jIAKtPvpDM8H2v`
+Snapshot ID: `aGHTgAAAAAAF+5Rl/ptdtRoa1wJSQxvz`

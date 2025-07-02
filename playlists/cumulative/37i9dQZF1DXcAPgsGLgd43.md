@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-421 songs - 22 hr 42 min
+422 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Q' Pario](https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i) | [Sunday Noise](https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY), [Cris Ocana](https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI) | [Q' Pario](https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx) | 3:51 | 2023-12-01 | 2024-02-24 |
 | [Que Pasa](https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Que Pasa](https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi) | 2:48 | 2024-01-26 | 2024-06-22 |
 | [Que Pasa](https://open.spotify.com/track/7CN0ZjQErfJD4wJatYcpH9) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Federico Scavo](https://open.spotify.com/artist/0sPG1Yn8sWnhwDHsUbrU0F) | [Que Pasa](https://open.spotify.com/album/78E6QSMd9p01dXv8f8iDrX) | 3:34 | 2025-03-14 | 2025-05-26 |
-| [Quema Quema](https://open.spotify.com/track/0UHgu6IsBEFbgM3yBVGpG5) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Quema Quema](https://open.spotify.com/album/7G5sNykeQyN6A5AViRTEDL) | 2:53 | 2025-03-14 |  |
+| [Quema Quema](https://open.spotify.com/track/0UHgu6IsBEFbgM3yBVGpG5) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Quema Quema](https://open.spotify.com/album/7G5sNykeQyN6A5AViRTEDL) | 2:53 | 2025-03-14 | 2025-07-02 |
 | [Quema Quema](https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau) | [Mister Pancho](https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe) | [Quema Quema](https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ) | 2:06 | 2023-12-01 | 2024-03-02 |
 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 | 2021-11-05 | 2023-11-11 |
 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 | 2021-10-08 | 2023-11-11 |
@@ -332,6 +332,7 @@
 | [rosa blanca](https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [rosa blanca](https://open.spotify.com/album/4NGRy9UvvUGKhdwCGlis7k) | 2:34 | 2024-05-03 | 2025-02-22 |
 | [Rosa Linda](https://open.spotify.com/track/2fqGJdo3D7BHJclySj6BWR) | [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh) | [Rosa Linda](https://open.spotify.com/album/5LpPjlxE6iZXciNPwnQXfO) | 2:32 | 2025-02-28 | 2025-06-14 |
 | [Rosa Que Linda Eres \- Joe Mangione Edit Remix](https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN) | [Joseph Sinatra](https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn), [Joe Mangione](https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2) | [Rosa Que Linda Eres \(Joe Mangione Remix\)](https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4) | 2:47 | 2024-05-24 | 2025-06-25 |
+| [Rulay](https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Mydoz](https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Rulay](https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN) | 2:45 | 2025-06-27 |  |
 | [Safari](https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [Safari](https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA) | 3:06 | 2021-10-08 | 2023-11-11 |
 | [Sandia](https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu) | [Adiel Mora](https://open.spotify.com/artist/30KnooN1xQy6naR8IT0cEo), [Cris Ocana](https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI) | [Sandia](https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp) | 2:32 | 2023-12-01 | 2024-02-24 |
 | [Sarava](https://open.spotify.com/track/0bszKc6KnjdZxtLjUMFs52) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Sarava](https://open.spotify.com/album/32hf6dpv1rxU5OcFtsg9R8) | 3:18 | 2023-12-01 | 2024-04-19 |

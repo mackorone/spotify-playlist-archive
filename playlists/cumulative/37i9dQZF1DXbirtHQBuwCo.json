@@ -7397,6 +7397,24 @@
     },
     {
       "album": {
+        "name": "Interlunar",
+        "url": "https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "Interlunar",
+      "url": "https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F"
+    },
+    {
+      "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
@@ -7734,7 +7752,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
@@ -12644,7 +12662,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -16506,7 +16524,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 179146,
       "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"

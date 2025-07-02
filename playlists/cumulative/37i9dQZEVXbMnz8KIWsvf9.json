@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2"
@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 180127,
       "name": "Dirty Work (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW"
@@ -5596,10 +5596,32 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 163879,
       "name": "Hurry up!",
       "url": "https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq"
+    },
+    {
+      "album": {
+        "name": "Hurry up!",
+        "url": "https://open.spotify.com/album/7nIcwlLNGmPOLeDu4RDjmu"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "7Vibes",
+          "url": "https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163879,
+      "name": "Hurry up!",
+      "url": "https://open.spotify.com/track/6i03vhoaUZxi3MfICeF3s9"
     },
     {
       "album": {
@@ -6464,7 +6486,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 258206,
       "name": "Just For You",
       "url": "https://open.spotify.com/track/1rHCpL5fzMrHwhFA5rk6wO"
@@ -10416,7 +10438,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/65ZihkVQO3KqPj7ZKxmcev"
@@ -11008,7 +11030,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -11758,6 +11780,48 @@
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
       "album": {
@@ -16310,7 +16374,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 365538,
       "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e15\u0e31\u0e27\u0e40\u0e18\u0e2d\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5"

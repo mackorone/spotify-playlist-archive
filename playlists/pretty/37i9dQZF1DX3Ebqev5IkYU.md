@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950,676 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,950,558 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 23 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 24 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
 | 25 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
-| 26 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 27 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
+| 26 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
+| 27 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
 | 28 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 29 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 30 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |

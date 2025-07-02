@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,814 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,941 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 47 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 48 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 |
 | 49 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 |
-| 50 | [I'll Be There](https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 2:54 |
-| 51 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
+| 50 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
+| 51 | [I'll Be There](https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 2:54 |
 | 52 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
 | 53 | [What You Need](https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 3:16 |
 | 54 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 69 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
 | 70 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 71 | [GODSTAINED](https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [GODSTAINED](https://open.spotify.com/album/47pWWT0JyRpY7Fo2Wat8aY) | 3:25 |
-| 72 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
-| 73 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
+| 72 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
+| 73 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
 | 74 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
-| 75 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
+| 75 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
 | 76 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
-| 77 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
-| 78 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
+| 77 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
+| 78 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
 | 79 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
 | 80 | [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 |
 

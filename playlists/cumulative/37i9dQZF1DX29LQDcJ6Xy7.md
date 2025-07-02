@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-226 songs - 16 hr 3 min
+227 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Ikarus](https://open.spotify.com/track/1b6Ew1aj2KZ8P4v1WAHZXu) | [Ost+Front](https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs) | [Dein Helfer in der Not](https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY) | 3:31 | 2022-10-21 | 2024-04-19 |
 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 | 2022-07-01 |  |
 | [In the Void](https://open.spotify.com/track/5AsHysrBAAPMusL0WUHsCl) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Johannes Persson](https://open.spotify.com/artist/3xV1nzks756iynRSEAN2ux), [Final Light](https://open.spotify.com/artist/4Uiua0tWypGcttzUkddFMH) | [In the Void](https://open.spotify.com/album/5aiIy9BVEoDh7AdP3PoDbf) | 8:58 | 2022-07-01 | 2022-10-08 |
-| [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 | 2022-07-01 |  |
+| [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 | 2022-07-01 | 2025-07-02 |
 | [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 | 2022-10-21 | 2024-04-19 |
 | [Into the Void](https://open.spotify.com/track/3rz3sJDO0t0sTqaN2cAood) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into the Void](https://open.spotify.com/album/1qqlfNmX52dUuFFtrO7i05) | 5:16 | 2022-07-01 | 2022-07-29 |
 | [Into the Void](https://open.spotify.com/track/6Q12JjOHsE9kTGVshxrm3F) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into the Void](https://open.spotify.com/album/3ij353MTGCDCftSBF9GLVm) | 5:16 | 2022-07-01 | 2022-10-17 |
@@ -211,6 +211,7 @@
 | [The Beautiful People](https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 3:38 | 2022-07-01 |  |
 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 | 2022-07-01 | 2024-04-19 |
 | [The Death & Resurrection Show](https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs) | 6:56 | 2022-07-01 |  |
+| [The Faces of the Devil](https://open.spotify.com/track/6fQvnCo4jnfCYuacuBfG7C) | [King Satan](https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW) | [The Faces of the Devil](https://open.spotify.com/album/2Q7f4T0KyGgWwDxXcD9uFq) | 3:15 | 2025-02-10 |  |
 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 | 2022-08-12 |  |
 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 | 2022-07-01 |  |
 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 | 2022-07-01 |  |

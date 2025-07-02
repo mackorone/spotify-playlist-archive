@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,412 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,418 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 44 | [LETTER FROM A BLACKBIRD](https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 2:13 |
 | 45 | [Sober](https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Sober](https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs) | 3:21 |
 | 46 | [Northern Sky \- from The Fire Inside](https://open.spotify.com/track/6ySbh4Se81hlu3oqITPCAL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Northern Sky \(from The Fire Inside\)](https://open.spotify.com/album/5SUt4IBkcDOfQPtukbwJkO) | 3:30 |
-| 47 | [Wild Enough](https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:46 |
+| 47 | [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 |
 | 48 | [AM I?](https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:16 |
-| 49 | [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 |
+| 49 | [Wild Enough](https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:46 |
 | 50 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
 
-Snapshot ID: `aGCCAAAAAACEhZ4KGMVRhMW+pAvglRmm`
+Snapshot ID: `aGHTgAAAAAAWEMlcEimm38DPBn2WKOsN`

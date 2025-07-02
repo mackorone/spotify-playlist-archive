@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > ¡Disfruta de las canciones pop para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,702 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,695 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

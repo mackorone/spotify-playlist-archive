@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,008 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,059 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 20 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
 | 21 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 |
 | 22 | [Sem Mim](https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Sem Mim](https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC) | 3:46 |
-| 23 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
+| 23 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
 | 24 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 |
-| 25 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
+| 25 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 26 | [Faz Valer](https://open.spotify.com/track/7k5zZAR7OuGwS2cBaosApL) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Origens](https://open.spotify.com/album/06hxAgBVwsGsDBqnfWyovt) | 2:22 |
-| 27 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
+| 27 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
 | 28 | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY) | 7:10 |
 | 29 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 |
-| 30 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
-| 31 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 |
+| 30 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 |
+| 31 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
 | 32 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
 | 33 | [Não Abandone A Sua Cruz](https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Não Abandone A Sua Cruz](https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ) | 4:05 |
 | 34 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 
 > The tracks you can put on repeat all day\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,590 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,611 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 55 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
 | 56 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 |
 | 57 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
-| 58 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
-| 59 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
-| 60 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 |
+| 58 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 |
+| 59 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
+| 60 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 61 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |
 | 62 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 63 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |

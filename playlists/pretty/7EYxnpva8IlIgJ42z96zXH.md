@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,734 likes - 68 songs - 3 hr 23 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,732 likes - 67 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,6 +75,5 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 65 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 |
 | 66 | [somebody else](https://open.spotify.com/track/6aInSNYXYd5fSDZN5zX6Tc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [somebody else](https://open.spotify.com/album/1hHndqjMpJ426F7xFruQ2z) | 2:11 |
 | 67 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |
-| 68 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
 
-Snapshot ID: `AAAPFqkvW4Zpj12wGnvQNZszvUItrPq/`
+Snapshot ID: `AAAPFxmte/MzFZnsLiXZrV9/tN358hQz`

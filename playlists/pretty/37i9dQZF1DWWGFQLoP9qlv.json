@@ -1,6 +1,6 @@
 {
   "description": "Great songs by indisputable music legends. Cover: The Beatles",
-  "num_followers": 4233371,
+  "num_followers": 4233445,
   "original_name": "Legendary",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -323,18 +319,22 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
       "added_at": "2024-02-05 22:59:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > raga tirate fuori le <a href="https://www.instagram.com/personebarmediterraneo/">camicie variopinte</a> sono tornati i nu genea 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,641 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,642 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-406 songs - 1 day 2 hr 37 min
+407 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Enredo](https://open.spotify.com/track/4Kj95umHAARCK2IQBTXyip) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Tomás Maldonado](https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p) | [Enredo](https://open.spotify.com/album/01mBIFc1U66MZlbfsYUXXN) | 3:28 | 2022-04-01 | 2022-06-17 |
 | [Entre Sombras](https://open.spotify.com/track/18XRuFvjFZYWMqDt4NHuvZ) | [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W) | [Entre Sombras](https://open.spotify.com/album/0CQdBhtZ3tgxueUZRTn8qD) | 3:18 | 2023-09-22 | 2024-01-27 |
 | [Entre Sombras](https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY) | [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM) | [Entre Sombras](https://open.spotify.com/album/1nNKsMJWo80HyYbg6rKIob) | 3:18 | 2022-09-30 | 2023-08-04 |
-| [Entre Sueños y Raíces](https://open.spotify.com/track/5nq2HHQtaXvLmzzPRtYjCQ) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Entre Sueños y Raíces](https://open.spotify.com/album/54P5ka3t8iz5aQJ87WjWih) | 5:18 | 2023-11-10 |  |
+| [Entre Sueños y Raíces](https://open.spotify.com/track/5nq2HHQtaXvLmzzPRtYjCQ) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Entre Sueños y Raíces](https://open.spotify.com/album/54P5ka3t8iz5aQJ87WjWih) | 5:18 | 2023-11-10 | 2025-07-02 |
 | [Enviciame \- Flex Version](https://open.spotify.com/track/52CNsdNu6mifPPtE19pV6R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Enviciame \(Flex Version\)](https://open.spotify.com/album/3jnBSmHAIh1ceCNMP7oEIA) | 4:08 | 2023-08-18 | 2023-09-09 |
 | [Eres primavera](https://open.spotify.com/track/4IAROFMLpdwMYKlMpPbaUu) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Eres primavera](https://open.spotify.com/album/2bZ1VW4MmN4K9Eby2Q2H3j) | 4:28 | 2021-12-10 | 2022-07-24 |
 | [Este Sol](https://open.spotify.com/track/0PEPAQmz4mSOGHJutRUn37) | [Los Yerberos](https://open.spotify.com/artist/2TFvR5gom9iqPeTD7VHIDh) | [Los Yerberos 3](https://open.spotify.com/album/5yVb7YfqiTmE8EzQgvRtfQ) | 4:12 | 2021-12-10 | 2022-04-18 |
@@ -254,6 +254,7 @@
 | [Mi Yerba Siempre Sube](https://open.spotify.com/track/0pltFU6OY4iRAertDeQb4Z) | [Chulito Camacho](https://open.spotify.com/artist/409BGtiorPu7SiAJKsUGSW) | [Mi Yerba Siempre Sube](https://open.spotify.com/album/4PwHU7dPUpflgabt8BOSuM) | 2:48 | 2023-03-03 | 2023-05-06 |
 | [Mil Noches en Vela](https://open.spotify.com/track/2fRP313b0kxKzDGtfC37yW) | [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Mil Noches en Vela](https://open.spotify.com/album/23l5sVAJJZzFkv1FgscGCy) | 3:04 | 2024-05-10 | 2024-07-05 |
 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 | 2021-12-10 | 2023-01-19 |
+| [Mira Qué Buena Que Estás](https://open.spotify.com/track/04ro70w4y43l6TjjJZhTt9) | [Los Elefantes](https://open.spotify.com/artist/6tgzJFBvtuw7rITf072msd) | [Grandes Éxitos de Otros](https://open.spotify.com/album/57VDRtzaKThZTnI2qOhpxW) | 5:12 | 2025-06-06 |  |
 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 | 2021-12-10 |  |
 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 | 2021-12-10 | 2025-05-30 |
 | [Moreno](https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Moreno](https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4) | 4:18 | 2022-10-14 | 2022-12-08 |

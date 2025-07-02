@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatoD1BSWRau.md) - [plain]
 
 > Listen to your favorite songs from Marvel’s Guardians of the Galaxy — including music from Vol\. 3 \(written and directed by James Gunn\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,409,043 likes - 96 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,408,956 likes - 96 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatoD1BSWRau.md) - [plain]
 | 79 | [Mrs\. Claus](https://open.spotify.com/track/6HB7SrfAYptuujPknUexlz) | [Little Jackie](https://open.spotify.com/artist/2TBPRVLhhMpMPwXL1MXMmv) | [Mrs\. Claus](https://open.spotify.com/album/3dsxJOOadHTH5AqZ3WdsbQ) | 2:57 |
 | 80 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 |
 | 81 | [Christmastime](https://open.spotify.com/track/3KssJXt4QgQ7wdce7xlXj7) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 3:16 |
-| 82 | [Fairytale of New York \- Edit](https://open.spotify.com/track/4MsLmDuHHagdrcfA4S1Cmx) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:35 |
+| 82 | [Fairytale of New York \(feat\. Kristy MacColl\) \- Edit](https://open.spotify.com/track/4MsLmDuHHagdrcfA4S1Cmx) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:35 |
 | 83 | [Christmas Wrapping](https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [The Best Of The Waitresses](https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU) | 5:20 |
 | 84 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 85 | [Come A Little Bit Closer](https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Come A Little Bit Closer: The Best Of Jay & The Americans](https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6) | 2:46 |

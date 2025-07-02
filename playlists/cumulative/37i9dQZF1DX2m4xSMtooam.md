@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-280 songs - 17 hr 43 min
+281 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Dindi](https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dindi](https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL) | 2:41 | 2022-12-08 |  |
 | [Don't Know Why](https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n) | [Naira Fonseca](https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC) | [Don't Know Why](https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq) | 3:24 | 2023-01-19 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-05-13 |  |
-| [Drivers License \- Bossa Nova](https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Drivers License \(Bossa Nova\)](https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ) | 4:08 | 2022-05-13 |  |
+| [Drivers License \- Bossa Nova](https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Drivers License \(Bossa Nova\)](https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ) | 4:08 | 2022-05-13 | 2025-07-02 |
 | [Easy To Love](https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:36 | 2022-05-13 |  |
 | [Effortlessly](https://open.spotify.com/track/75VrNlO6GbJJHByrwJkpgr) | [Eleonora Kouneni](https://open.spotify.com/artist/5PcatRGgqZngGcVfmHWs6m) | [Effortlessly](https://open.spotify.com/album/0g04IdZKalfueB9Nr1F0fl) | 4:57 | 2023-06-13 |  |
 | [Embarcadero](https://open.spotify.com/track/3zDRToKAQvpvyIbb06b4RD) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:00 | 2022-05-13 | 2022-11-12 |
@@ -288,5 +288,6 @@
 | [Águas De Março](https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 3:34 | 2022-11-11 | 2022-11-14 |
 | [Águas de Março](https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:01 | 2022-05-13 |  |
 | [Águas Do Passado](https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Águas Do Passado](https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp) | 2:22 | 2023-03-23 | 2024-11-26 |
+| [É Preciso Perdoar](https://open.spotify.com/track/4wauUZpotzqJuZBULcI8vt) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Joshua Crumbly](https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4) | [Hello](https://open.spotify.com/album/1Ky9OOOReMN8OfFwohWK32) | 4:22 | 2025-07-01 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM"
+    },
+    {
+      "album": {
         "name": "RIOPY",
         "url": "https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Music for enjoying your space
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,532 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,534 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 54 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
 | 55 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 | 56 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
-| 57 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 |
-| 58 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
-| 59 | [Bruised One](https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Bruised One](https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ) | 3:00 |
-| 60 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
-| 61 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
-| 62 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
+| 57 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 58 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 |
+| 59 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
+| 60 | [Bruised One](https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Bruised One](https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ) | 3:00 |
+| 61 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
+| 62 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
 | 63 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 |
 | 64 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 65 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 95 | [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 |
 | 96 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 |
 | 97 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 |
-| 98 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
-| 99 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 |
-| 100 | [Natural Disaster](https://open.spotify.com/track/49PxAddYDPWtMY1HcHAV8B) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations \(Deluxe Edition\)](https://open.spotify.com/album/4NT4YMnOYMc29uJqQjgS1p) | 3:23 |
+| 98 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
+| 99 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
+| 100 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 |
 
 Snapshot ID: `aD13ogAAAAAUPTAP9c2/afa3otiwk09C`

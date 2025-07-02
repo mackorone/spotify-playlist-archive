@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 202267,
+  "num_followers": 202314,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "Slime Patrol 2",
-        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
-      },
-      "artists": [
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "You Know I Got That / Wont Stop Callin",
-      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
-    },
-    {
       "added_at": "2024-05-03 16:59:29",
       "album": {
         "name": "The Turning Ground",
@@ -631,6 +615,22 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "Slime Patrol 2",
+        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
+      },
+      "artists": [
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "You Know I Got That / Wont Stop Callin",
+      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
       "added_at": "2024-02-23 00:16:26",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
+      "added_at": "2024-01-04 01:06:11",
+      "album": {
+        "name": "Dumb Guitar",
+        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 310865,
+      "name": "Dumb Guitar",
+      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
+    },
+    {
       "added_at": "2024-09-18 13:52:43",
       "album": {
         "name": "Selva",
@@ -771,22 +787,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2024-01-04 01:06:11",
-      "album": {
-        "name": "Dumb Guitar",
-        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 310865,
-      "name": "Dumb Guitar",
-      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
     },
     {
       "added_at": "2023-06-02 00:24:20",
@@ -893,30 +893,6 @@
       "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
     },
     {
-      "added_at": "2024-01-11 03:53:36",
-      "album": {
-        "name": "Vidrio",
-        "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
-      },
-      "artists": [
-        {
-          "name": "Titanic",
-          "url": "https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i"
-        },
-        {
-          "name": "I la Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 277308,
-      "name": "An\u00f3nima",
-      "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
-    },
-    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -939,6 +915,30 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+    },
+    {
+      "added_at": "2024-01-11 03:53:36",
+      "album": {
+        "name": "Vidrio",
+        "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
+      },
+      "artists": [
+        {
+          "name": "Titanic",
+          "url": "https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i"
+        },
+        {
+          "name": "I la Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 277308,
+      "name": "An\u00f3nima",
+      "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
     },
     {
       "added_at": "2024-08-29 02:18:16",
@@ -1221,38 +1221,6 @@
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
-      "added_at": "2024-08-19 20:57:31",
-      "album": {
-        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
-        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 154910,
-      "name": "I'VE BEEN EVIL",
-      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
-    },
-    {
-      "added_at": "2024-10-23 05:15:10",
-      "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1271,6 +1239,38 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2024-10-23 05:15:10",
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
+    },
+    {
+      "added_at": "2024-08-19 20:57:31",
+      "album": {
+        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
+        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
+      },
+      "artists": [
+        {
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
+        }
+      ],
+      "duration_ms": 154910,
+      "name": "I'VE BEEN EVIL",
+      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -1343,6 +1327,22 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2024-09-18 13:52:43",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
-    },
-    {
       "added_at": "2023-08-24 03:26:17",
       "album": {
         "name": "RPG",
@@ -1541,20 +1525,20 @@
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
-      "added_at": "2023-03-31 19:12:14",
+      "added_at": "2024-01-30 05:23:45",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
       },
       "artists": [
         {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
         }
       ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1577,20 +1561,20 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
-      "added_at": "2024-08-16 20:06:32",
+      "added_at": "2023-03-31 19:12:14",
       "album": {
-        "name": "Sur La Terre",
-        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
       },
       "artists": [
         {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
         }
       ],
-      "duration_ms": 196331,
-      "name": "Sur la terre",
-      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -1609,24 +1593,20 @@
       "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
     },
     {
-      "added_at": "2023-06-26 14:24:59",
+      "added_at": "2024-08-16 20:06:32",
       "album": {
-        "name": "Island Family (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
+        "name": "Sur La Terre",
+        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
       },
       "artists": [
         {
-          "name": "Pictish Trail",
-          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
-        },
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 269399,
-      "name": "Island Family - uh Remix",
-      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
+      "duration_ms": 196331,
+      "name": "Sur la terre",
+      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1651,6 +1631,26 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
+    },
+    {
+      "added_at": "2023-06-26 14:24:59",
+      "album": {
+        "name": "Island Family (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
+      },
+      "artists": [
+        {
+          "name": "Pictish Trail",
+          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
+        },
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 269399,
+      "name": "Island Family - uh Remix",
+      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
       "added_at": "2024-07-18 21:58:08",

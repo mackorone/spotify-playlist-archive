@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: HIT 3",
-  "num_followers": 412892,
+  "num_followers": 413325,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFKqXQAAAABe5pZ+eKmZ+DFpyPI5TCo+",
+  "snapshot_id": "aGPt6wAAAABnFGIkZuu42yf9wbrBIugM",
   "tracks": [
     {
       "added_at": "2025-05-09 09:56:17",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/4qhfUpYE22YcimID3qnwUD"
     },
     {
+      "added_at": "2025-07-01 14:17:15",
+      "album": {
+        "name": "Daripontothundu",
+        "url": "https://open.spotify.com/album/5G7oWezSgXlKjFwA18RSnl"
+      },
+      "artists": [
+        {
+          "name": "Mamidi Mounika",
+          "url": "https://open.spotify.com/artist/3Ndbf8EbaxpIzFFEJ2eyBZ"
+        }
+      ],
+      "duration_ms": 224299,
+      "name": "Daripontothundu",
+      "url": "https://open.spotify.com/track/3ilUMXzt17n2l4SUAw3jPo"
+    },
+    {
       "added_at": "2024-10-21 06:33:22",
       "album": {
         "name": "Devara Part 1 [TELUGU]",
@@ -227,30 +243,6 @@
       "duration_ms": 340906,
       "name": "Pileche",
       "url": "https://open.spotify.com/track/1mOCb1w5n62jLGHJqpGL2W"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Atithi Devobhava (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4IfrN0wja84AWvgT68KCtX"
-      },
-      "artists": [
-        {
-          "name": "Shekar Chandra",
-          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Nutana Mohan",
-          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Baguntundhi Nuvvu Navvithe",
-      "url": "https://open.spotify.com/track/1eWooUUh7E796VP86o15BN"
     },
     {
       "added_at": "2023-08-30 10:44:11",

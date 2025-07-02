@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,258 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,310 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 49 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
 | 50 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 
-Snapshot ID: `L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu`

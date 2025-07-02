@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,125 songs - 2 day 1 hr 44 min
+1,126 songs - 2 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/2gBcHHTMTuh0BPgDl8WpAK) | [Sunday](https://open.spotify.com/artist/5vFf9aCTZJfrRjuszHhxcd), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp) | 2:01 | 2024-05-02 | 2025-03-08 |
 | [Bound To Fade](https://open.spotify.com/track/1lVwetY7Xsf93qI9NoxCNx) | [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB), [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [Bound To Fade](https://open.spotify.com/album/0K2lgl0nuXWmaUDDKEhFAY) | 2:49 | 2024-05-24 | 2024-06-24 |
 | [Breaking Me](https://open.spotify.com/track/2tRJVRP57kSSRDJTIcv80f) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [Breaking Me](https://open.spotify.com/album/69HKdAFZWEphSo2IOxgK5z) | 2:58 | 2024-01-26 | 2024-03-02 |
+| [Breaking Point](https://open.spotify.com/track/0n0bfvh0TfOKW96qc3mq3K) | [Jaron](https://open.spotify.com/artist/0rDKYvqyfGthWzRk712Wll) | [Dusk EP](https://open.spotify.com/album/0SnF61sJR17Vg5vop4GYCZ) | 3:11 | 2025-07-01 |  |
 | [Breathe](https://open.spotify.com/track/2c2RhXuw5y84srXSeAtX0O) | [Polariz](https://open.spotify.com/artist/5iw2cqb1v4T3RXOfKKslbq), [Fabio Vee](https://open.spotify.com/artist/1KtT51ksm6OrjbhVOUyXMu) | [Breathe](https://open.spotify.com/album/7LpjHCY8Yv4vyHOP5fCJCH) | 2:16 | 2025-05-30 |  |
 | [Breathe Me](https://open.spotify.com/track/2unaBmyInwN8BzEwxXrwqS) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Breathe Me](https://open.spotify.com/album/6JPcg5lP7g7gBSSgvkS9GP) | 2:32 | 2025-03-28 | 2025-05-03 |
 | [Breathing](https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Breathing](https://open.spotify.com/album/3KXlYR3ZbDaEpxxQ5T6Ez7) | 2:16 | 2024-11-29 | 2025-04-13 |

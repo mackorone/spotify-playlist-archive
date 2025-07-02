@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4626,
+  "num_followers": 4628,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADpNJtnZhccZxhV4/tDhZzu",
+  "snapshot_id": "aGHTgAAAAADvj4c/z39wMU4PR7oyIVLW",
   "tracks": [
     {
       "added_at": null,
@@ -387,46 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For\u00e1neos",
-        "url": "https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "For\u00e1neos",
-      "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 201064,
-      "name": "A Veces Quiero",
-      "url": "https://open.spotify.com/track/3IDyqKsdCXBmQRuIF3UDyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado A",
         "url": "https://open.spotify.com/album/68xA7j7fPsALFS0ySq35P0"
       },
@@ -487,6 +447,46 @@
       "duration_ms": 300712,
       "name": "Cypher Lado A",
       "url": "https://open.spotify.com/track/7ClKLjU2W5GrEgucy5YENf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 201064,
+      "name": "A Veces Quiero",
+      "url": "https://open.spotify.com/track/3IDyqKsdCXBmQRuIF3UDyW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For\u00e1neos",
+        "url": "https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "For\u00e1neos",
+      "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Pasaporte Colombiano",
-      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Quise",
         "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 212980,
       "name": "Yo Quise",
       "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Pasaporte Colombiano",
+      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
     },
     {
       "added_at": null,
@@ -935,90 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradezco",
-        "url": "https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 188924,
-      "name": "Agradezco",
-      "url": "https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estado Popular Del Alma \u2022 Epa",
-        "url": "https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1"
-      },
-      "artists": [
-        {
-          "name": "Nicolai Fella",
-          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "RI",
-          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Invente",
-      "url": "https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 170527,
-      "name": "Otra Pa' Mi Cuenta",
-      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 183809,
-      "name": "Hijos de los D\u00edas",
-      "url": "https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado B",
         "url": "https://open.spotify.com/album/6EWQflQucPkygMGtzzeVce"
       },
@@ -1079,6 +995,90 @@
       "duration_ms": 305015,
       "name": "Cypher Lado B",
       "url": "https://open.spotify.com/track/7cuwYmPLL3nHTYaLEKqfOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agradezco",
+        "url": "https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 188924,
+      "name": "Agradezco",
+      "url": "https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 170527,
+      "name": "Otra Pa' Mi Cuenta",
+      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 183809,
+      "name": "Hijos de los D\u00edas",
+      "url": "https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estado Popular Del Alma \u2022 Epa",
+        "url": "https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1"
+      },
+      "artists": [
+        {
+          "name": "Nicolai Fella",
+          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "RI",
+          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Invente",
+      "url": "https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO"
     },
     {
       "added_at": null,

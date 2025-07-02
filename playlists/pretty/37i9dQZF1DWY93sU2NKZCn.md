@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,952 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,996 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 47 | [Krippy Kush](https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 3:50 |
 | 48 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 |
 | 49 | [PANTIES Y BRASIERES](https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
-| 50 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
+| 50 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 |
 
 Snapshot ID: `ZlT6KgAAAABKAnW3SH3Cb030fJFLiC6I`

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Sum 41",
-  "num_followers": 726234,
+  "num_followers": 726324,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-28 16:47:55",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": "2025-03-28 16:47:55",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 230773,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+    },
+    {
+      "added_at": "2025-03-28 16:47:55",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": "2025-03-28 16:47:55",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-03-28 16:47:55",
       "album": {
-        "name": "**** Live In Phoenix",
-        "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Beat It - Studio Version",
-      "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
-    },
-    {
-      "added_at": "2025-03-28 16:47:55",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
+    },
+    {
+      "added_at": "2025-03-28 16:47:55",
+      "album": {
+        "name": "**** Live In Phoenix",
+        "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Beat It - Studio Version",
+      "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
     },
     {
       "added_at": "2025-03-28 16:47:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,549 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,608 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 65 | [Don't Kill My Vibe](https://open.spotify.com/track/5DCaAsjQRLYvvdFUzaYnAz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:04 |
 | 66 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 67 | [BMO](https://open.spotify.com/track/7Ffgp7DIow5wECYQyzEiTq) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 2:26 |
-| 68 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
-| 69 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
+| 68 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
+| 69 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
 | 70 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
 | 71 | [Shark In The Water](https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j) | 3:04 |
 | 72 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
@@ -92,18 +92,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 82 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |
 | 83 | [Good Day](https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:26 |
 | 84 | [JEKYLL & HIDE](https://open.spotify.com/track/3UmBgQiJhbNMmyPVceuH4d) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:16 |
-| 85 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
-| 86 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
+| 85 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
+| 86 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
 | 87 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
 | 88 | [Ring Pop](https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Ring Pop](https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH) | 2:26 |
 | 89 | [Fingers Crossed](https://open.spotify.com/track/7f0SiAYG8XjOoQyfGvgbLA) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:23 |
-| 90 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
-| 91 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
-| 92 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
-| 93 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 90 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
+| 91 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
+| 92 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 93 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
 | 94 | [Celeste](https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste](https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb) | 3:23 |
-| 95 | [Entropy](https://open.spotify.com/track/5Dp8m5EWFkNc3TbCSxKSzu) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:41 |
-| 96 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
+| 95 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
+| 96 | [Entropy](https://open.spotify.com/track/5Dp8m5EWFkNc3TbCSxKSzu) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:41 |
 | 97 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
 | 98 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
 | 99 | [Everybody Wants To Be Famous](https://open.spotify.com/track/4BVFVaa1fDo20Ud1q5Gd2N) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 3:04 |

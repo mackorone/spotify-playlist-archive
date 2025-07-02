@@ -4,7 +4,7 @@
 
 > this playlist could close the hellmouth fr.
 
-2,185 songs - 4 day 17 hr 36 min
+2,186 songs - 4 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-07-01 |
 | [Faulty Wiring](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Wiring](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 | 2023-08-18 | 2023-09-02 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-03-29 | 2024-06-08 |
+| [Favorite Flower](https://open.spotify.com/track/2SbPpCY3aoaP0RnjF8gZOw) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB) | [J + S](https://open.spotify.com/album/53tn2Riamwag8e1kTksooi) | 2:23 | 2025-07-01 |  |
 | [Favorite Song](https://open.spotify.com/track/2cCbPPjgPMRjjwRtJhdBkq) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song \(Versions\)](https://open.spotify.com/album/3Fo8uA7Pf9tbFEpfDoG3O8) | 3:28 | 2023-03-03 | 2023-07-22 |
 | [Favorite Song \- Sped Up](https://open.spotify.com/track/4YtTVZsCukz30wcv9TpXek) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song \(Versions\)](https://open.spotify.com/album/3Fo8uA7Pf9tbFEpfDoG3O8) | 2:40 | 2023-03-10 | 2023-03-18 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-17 | 2024-05-04 |

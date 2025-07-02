@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,519 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,517 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 55 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
 | 56 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
 | 57 | [DPMO](https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ) | [Equation Billionz](https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL) | [DPMO](https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY) | 2:27 |
-| 58 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
-| 59 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
+| 58 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
+| 59 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
 | 60 | [Couple Little Things](https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:26 |
 | 61 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
 | 62 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |

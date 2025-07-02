@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Cpg5RfTEZl.md) - [plain]
 
 > ¿A vuelta de rueda? Con esta playlist el camino será más ligero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,498 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,740 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Cpg5RfTEZl.md) - [plain]
 | 72 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
 | 73 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 74 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
-| 75 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
+| 75 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
 
 Snapshot ID: `Z7gWbgAAAACDHv0dmcI3d1jtCPPDwspr`

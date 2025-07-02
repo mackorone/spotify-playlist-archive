@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > The Indie highlights of 2010\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,084 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,216 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 37 | [Wide Eyes](https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:26 |
 | 38 | [Moneygrabber](https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 3:09 |
 | 39 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 |
-| 40 | [October](https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:38 |
-| 41 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 |
+| 40 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 |
+| 41 | [October](https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:38 |
 | 42 | [Plage](https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love](https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq) | 3:50 |
 | 43 | [Take Care](https://open.spotify.com/track/2aydv0bsXbIZg3Sk2S6u86) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 5:48 |
 | 44 | [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 59 | [He Would Have Laughed](https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 7:29 |
 | 60 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 |
 | 61 | [Giving Up the Gun](https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 4:46 |
-| 62 | [Brother Sparrow](https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:58 |
-| 63 | [At Home](https://open.spotify.com/track/3vpjiTrzJEt1zXer9ig6g0) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love](https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq) | 5:06 |
+| 62 | [At Home](https://open.spotify.com/track/3vpjiTrzJEt1zXer9ig6g0) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love](https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq) | 5:06 |
+| 63 | [Brother Sparrow](https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:58 |
 | 64 | [Factory](https://open.spotify.com/track/3wNti9PJJPrP9nF2ccsQvw) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 4:35 |
 | 65 | [BORN FREE](https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [/\\/\\ /\\ Y /\\](https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV) | 4:07 |
 | 66 | [Airplanes](https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 3:57 |

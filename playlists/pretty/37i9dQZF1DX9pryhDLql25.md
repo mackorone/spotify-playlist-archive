@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > fresh produce, iced coffee, & all the lovely spring things
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,360 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,392 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

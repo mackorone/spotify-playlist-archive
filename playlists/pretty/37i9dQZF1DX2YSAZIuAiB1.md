@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit diesem sonnigen Genre Mix 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,649 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,525 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 27 | [Toto \(feat\. RAF Camora\)](https://open.spotify.com/track/1fyvQWmRbW81M0xXKI1Rrk) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Toto \(feat\. RAF Camora\)](https://open.spotify.com/album/46AeeUyALzfQLfbo0NSOJK) | 3:25 |
 | 28 | [Lej](https://open.spotify.com/track/0vbwh73VVywWynUOfB25Q6) | [Don Xhoni](https://open.spotify.com/artist/2z6t0UGq0WAM8X6zDeXKXj), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Lej](https://open.spotify.com/album/0CL8ncsbJ70jkEsP167NPa) | 2:28 |
 | 29 | [WHINE & KOTCH \(feat\. Pronto\)](https://open.spotify.com/track/4PWRxVMXsCYk5nsYwl4MJQ) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [WHINE & KOTCH \(feat\. Pronto\)](https://open.spotify.com/album/0LGFcnA22gThkFYxPzW0rG) | 2:41 |
-| 30 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
+| 30 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
 | 31 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/7gSBUvyOmm3Ek89IwPEZyX) | 2:01 |
 | 32 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 |
 | 33 | [Hm Hm hm](https://open.spotify.com/track/3vKxVl3J8FezNfzhIhGAdM) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Hm Hm hm](https://open.spotify.com/album/7qbOZjRLXgxHxPWl2xlbCI) | 2:11 |

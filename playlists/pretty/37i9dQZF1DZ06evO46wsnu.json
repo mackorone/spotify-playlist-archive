@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 173586,
+  "num_followers": 173608,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADYAVTJ4HoLUbCknKwTfMSG",
+  "snapshot_id": "aGHTgAAAAADMQWBY6f8eCVlIXN2fbiwV",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 255960,
-      "name": "The Black Market",
-      "url": "https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 255960,
+      "name": "The Black Market",
+      "url": "https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Sudden Urge",
-      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
+      "duration_ms": 224973,
+      "name": "Forfeit",
+      "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Forfeit",
-      "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
+      "duration_ms": 226960,
+      "name": "Sudden Urge",
+      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
     },
     {
       "added_at": null,

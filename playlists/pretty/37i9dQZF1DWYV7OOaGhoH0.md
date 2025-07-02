@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Kurt Vile and Luke Roberts
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,978 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,557 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

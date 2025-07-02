@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,798 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,833 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 28 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
 | 29 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
 | 30 | [Es la Que Va](https://open.spotify.com/track/6wmpw1ZAHEQcfykKSI977I) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ) | [Melodias Lokas](https://open.spotify.com/album/2kpWtXSdpjIesDTlILJOMg) | 2:38 |
-| 31 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
-| 32 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 |
+| 31 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 |
+| 32 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 33 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
 | 34 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
 | 35 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 85 | [Toma Que Toma](https://open.spotify.com/track/6yyMCHaI791nDwTuUv3F6J) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np) | [Toma Que Toma](https://open.spotify.com/album/6fkih0rIXP26FGe3Ool6MX) | 3:11 |
 | 86 | [Como una Loba](https://open.spotify.com/track/4VBCgMKAbdaf4ciadcwWFD) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Como una Loba](https://open.spotify.com/album/6ksaWRpw6B4GjbDDJsy8UZ) | 3:00 |
 | 87 | [Otra Noche Mas](https://open.spotify.com/track/3lMEPelothQRaULnBdIbzU) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Otra Noche Mas](https://open.spotify.com/album/70ICWIZlmOzFhtDHuyoVy1) | 2:59 |
-| 88 | [El Marginal](https://open.spotify.com/track/1mfzK8pSUvMHgj7MWAAqEv) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [El Marginal](https://open.spotify.com/album/4Nvo6ic0h2uYm5X9RQoqgu) | 3:27 |
+| 88 | [Te Regalaste](https://open.spotify.com/track/58MnyrLnEqzn1VlSWx0Pq4) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Con los Viejos No / Te Regalaste](https://open.spotify.com/album/02whvyZYmast2ghLHO3gOK) | 3:24 |
 | 89 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
 | 90 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 |
 | 91 | [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 |
-| 92 | [Un Montón de Estrellas \- En Vivo Gran Rex](https://open.spotify.com/track/555Op74S64KmntebD6O3wa) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Un Montón de Estrellas \(En Vivo Gran Rex\)](https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR) | 2:45 |
-| 93 | [Te Regalaste](https://open.spotify.com/track/58MnyrLnEqzn1VlSWx0Pq4) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Con los Viejos No / Te Regalaste](https://open.spotify.com/album/02whvyZYmast2ghLHO3gOK) | 3:24 |
-| 94 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 |
+| 92 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 |
+| 93 | [El Marginal](https://open.spotify.com/track/1mfzK8pSUvMHgj7MWAAqEv) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [El Marginal](https://open.spotify.com/album/4Nvo6ic0h2uYm5X9RQoqgu) | 3:27 |
+| 94 | [Un Montón de Estrellas \- En Vivo Gran Rex](https://open.spotify.com/track/555Op74S64KmntebD6O3wa) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Un Montón de Estrellas \(En Vivo Gran Rex\)](https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR) | 2:45 |
 | 95 | [A Veces Responde](https://open.spotify.com/track/3qawstmTK8GwZMy9zx9cKd) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Underdann](https://open.spotify.com/artist/38vgy1HVVWTE9VJtxFn1cz) | [A Veces Responde](https://open.spotify.com/album/3rBBGPpNxPCcTOpRfb6jxx) | 3:03 |
-| 96 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 |
+| 96 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 |
 | 97 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 |
 | 98 | [El Está en el Asunto](https://open.spotify.com/track/565XdywdSSdycmcXIAuwN1) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Los Pibes del Penal](https://open.spotify.com/album/4dNjuJbpg3RT3Cj48NUYsR) | 3:20 |
-| 99 | [El Amor Se Fue](https://open.spotify.com/track/4gL6hu70wpAspYTkhcPs0B) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/1LrZFbEAykwB4amfxagu6u) | 3:50 |
-| 100 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
+| 99 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 |
+| 100 | [El Amor Se Fue](https://open.spotify.com/track/4gL6hu70wpAspYTkhcPs0B) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/1LrZFbEAykwB4amfxagu6u) | 3:50 |
 
 Snapshot ID: `aF6pJgAAAAD+3RE/BIjSpf1FFMYhzGaw`

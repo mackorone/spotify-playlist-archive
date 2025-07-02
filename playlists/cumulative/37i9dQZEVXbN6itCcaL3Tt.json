@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -4700,7 +4700,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -7426,6 +7426,32 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
+    },
+    {
+      "album": {
+        "name": "Dla fanek euforii",
+        "url": "https://open.spotify.com/album/4yIytvXDK0ZIIU2W4fnABJ"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Klaudia Szafra\u0144ska",
+          "url": "https://open.spotify.com/artist/5KQOO1nMW2y16wX56EDZep"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/34u4K9WM9syTgswZpZyNdH"
     },
     {
       "album": {
@@ -13616,7 +13642,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -16660,6 +16686,28 @@
       "duration_ms": 194782,
       "name": "G\u0141UPIE POMYS\u0141Y",
       "url": "https://open.spotify.com/track/5BGG7LhSsf1WR5T1gNTUZM"
+    },
+    {
+      "album": {
+        "name": "Dla fan\u00f3w eklektyki",
+        "url": "https://open.spotify.com/album/7JqWIQgTsTn87oISLkSDu3"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278742,
+      "name": "Half Dead",
+      "url": "https://open.spotify.com/track/4cKS1r9LVQYuuGVo32wFER"
     },
     {
       "album": {
@@ -38614,7 +38662,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -38632,7 +38680,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -39846,7 +39894,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
@@ -43010,7 +43058,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 232171,
       "name": "Szum",
       "url": "https://open.spotify.com/track/3qD07JJOPiyqjiQeg1wDK3"
@@ -46642,7 +46690,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: WHYLUCAS\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,004 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,006 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 19 | [Dermaga Bernyawa](https://open.spotify.com/track/3L8zufCQFc0TbyGQ8j5Y2P) | [Ameen Redza](https://open.spotify.com/artist/0VjnLRTp0nHnkEzIeVQuTi) | [Dermaga Bernyawa](https://open.spotify.com/album/7mea8aPybIG9oC1nSmc5NK) | 3:44 |
 | 20 | [Demam](https://open.spotify.com/track/1w5rYCgmghqAa9Q0yfspfT) | [7Evening](https://open.spotify.com/artist/6QzWlmMk6hBasBSrwig2OR) | [Demam](https://open.spotify.com/album/2UqDXv4oiF8fbRd0BzGsXI) | 3:29 |
 | 21 | [Damon](https://open.spotify.com/track/3ZNTzCwrXzRMqvMJsCuEeO) | [Rijeu](https://open.spotify.com/artist/3eG7DA0YFijuQcvWl39ka1) | [Damon](https://open.spotify.com/album/1DAyuzXHYGSBtWTx1T1SSL) | 3:24 |
-| 22 | [Bila Aku Jatuh Cinta](https://open.spotify.com/track/3uhZJnCFtpJjhCnURZgtFw) | [Addie](https://open.spotify.com/artist/03RtNRnNwDHdk3a26xBjdU) | [Bila Aku Jatuh Cinta](https://open.spotify.com/album/5Gztw7UOlcIFA1cGIU9OuJ) | 3:19 |
+| 22 | [alwaystrustaria](https://open.spotify.com/track/7seGKouK7aNflo3oSRidHM) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu) | [alwaystrustaria](https://open.spotify.com/album/58dxwK3lRhaBde8PtftXGu) | 5:35 |
 | 23 | [TAKNAK](https://open.spotify.com/track/4SCV6JOLANNBshRcQhjNTi) | [A\-Jin](https://open.spotify.com/artist/66cUbiHT6jTOYzxzaeBD2U) | [TAKNAK](https://open.spotify.com/album/1bxgUFjM143dMwqcPO8UAw) | 2:55 |
 | 24 | [一剑世间 \(新传媒戏剧《带剑女孩》主题曲\)](https://open.spotify.com/track/2zS6qfcjcnzqWdsv0VRJGB) | [Ferlyn G](https://open.spotify.com/artist/35ZJOtqAuh2El8GVW5W2GW) | [一剑世间 \(新传媒戏剧《带剑女孩》主题曲\)](https://open.spotify.com/album/0EqPWCE9zx0qWZ9szFw3iM) | 1:40 |
 | 25 | [你的關係，不關於我](https://open.spotify.com/track/5tQ1mEucjeK7NNo124w4Y5) | [Wendy 胡繢頤](https://open.spotify.com/artist/2aasQQcvsJBJXt5nAvBBIF) | [你的關係，不關於我](https://open.spotify.com/album/2kMw7cCZx4x3DsZC3HiSGf) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 99 | [Liar](https://open.spotify.com/track/42XnBPw1P4eL4INT5cXiaR) | [Jazleen](https://open.spotify.com/artist/3obHFo1SGnGHXISRDdLV86) | [Liar](https://open.spotify.com/album/1gUAtNBKGy8XYK5IOwOSGl) | 3:35 |
 | 100 | [It Takes a Village](https://open.spotify.com/track/2s3DAttWGx3V9Tpn2KIaSB) | [Takes a Village Music](https://open.spotify.com/artist/6KiMspLqJr2LjEzlFhkNnu), [Winnie Wong](https://open.spotify.com/artist/5r93c7fYfcbTEaq9iNZWPw), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n), [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy) | [It Takes a Village](https://open.spotify.com/album/4X0Vj81GVeyosHEkCcuXPI) | 4:02 |
 
-Snapshot ID: `aF13HQAAAAAjoenJWIBia/f8MSu/2kJ2`
+Snapshot ID: `aGOoMQAAAACC6ob25pIaI8a39V93u8lg`

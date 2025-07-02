@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 370055,
+  "num_followers": 370132,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADORakIzOvF06F5pkWRmpjN",
+  "snapshot_id": "aGHTgAAAAADXg457nUw6MoBDx2OG4nRa",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": null,
@@ -807,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+        "name": "F*%K U Baby",
+        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 144932,
-      "name": "Pobre No",
-      "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
+      "duration_ms": 153024,
+      "name": "F*%K U Baby",
+      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 144932,
+      "name": "Pobre No",
+      "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -863,46 +883,6 @@
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F*%K U Baby",
-        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "F*%K U Baby",
-      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hay de Dos",
-        "url": "https://open.spotify.com/album/2FrO1LxSHglrW7opD6c1ZX"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Alex Torres",
-          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
-        }
-      ],
-      "duration_ms": 131413,
-      "name": "Hay de Dos",
-      "url": "https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz"
     },
     {
       "added_at": null,
@@ -927,6 +907,26 @@
       "duration_ms": 142285,
       "name": "Tommy Vercetti",
       "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hay de Dos",
+        "url": "https://open.spotify.com/album/2FrO1LxSHglrW7opD6c1ZX"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "duration_ms": 131413,
+      "name": "Hay de Dos",
+      "url": "https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 39461,
+  "num_followers": 39476,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABY+JX7QuhNCtOi7FcuTRBp",
+  "snapshot_id": "aGHTgAAAAADFZBguOab6GH4TxFYgaXwk",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reina Leona",
+        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 185400,
       "name": "El Distractor",
       "url": "https://open.spotify.com/track/2U9clWgCEFDCwUM5Rdw6dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reina Leona",
-        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Reina Leona",
-      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
     },
     {
       "added_at": null,
@@ -955,22 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo (Remix)",
-        "url": "https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg"
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
       "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Solo - Remix",
-      "url": "https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b"
+      "duration_ms": 190320,
+      "name": "De Otro Planeta",
+      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
     },
     {
       "added_at": null,
@@ -991,18 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+        "name": "Solo (Remix)",
+        "url": "https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg"
       },
       "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 190320,
-      "name": "De Otro Planeta",
-      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
+      "duration_ms": 160573,
+      "name": "Solo - Remix",
+      "url": "https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b"
     },
     {
       "added_at": null,

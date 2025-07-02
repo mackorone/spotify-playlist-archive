@@ -1,6 +1,6 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2705314,
+  "num_followers": 2705157,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Love Stuff",
         "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 202173,
       "name": "Ex's & Oh's",
       "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2024-05-02 22:00:00",

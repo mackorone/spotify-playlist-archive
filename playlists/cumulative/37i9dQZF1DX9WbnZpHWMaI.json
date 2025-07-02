@@ -6950,6 +6950,24 @@
     {
       "album": {
         "name": "Mirror",
+        "url": "https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF"
+    },
+    {
+      "album": {
+        "name": "Mirror (feat. Jessy Lanza & Yaeji)",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
       },
       "artists": [
@@ -6970,26 +6988,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168500,
-      "name": "Mirror",
+      "name": "Mirror (feat. Jessy Lanza & Yaeji)",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-    },
-    {
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz"
-      },
-      "artists": [
-        {
-          "name": "Perel",
-          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
-        }
-      ],
-      "date_added": "2025-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192250,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF"
     },
     {
       "album": {

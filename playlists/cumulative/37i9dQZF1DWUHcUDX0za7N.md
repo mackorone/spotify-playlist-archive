@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Ladipoe
 
-608 songs - 1 day 4 hr 37 min
+609 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [11:11](https://open.spotify.com/track/4opSFGcLXcnaacX04QvEiB) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [11:11](https://open.spotify.com/album/22URoqf24iLEXcZPKd6NWn) | 2:30 | 2023-08-10 | 2023-09-29 |
 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 | 2024-04-26 | 2024-11-22 |
 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2023-09-14 | 2023-10-16 |
-| [20 Degrees](https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [20 Degrees](https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x) | 2:33 | 2025-03-21 |  |
+| [20 Degrees](https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [20 Degrees](https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x) | 2:33 | 2025-03-21 | 2025-07-02 |
 | [234 \(PRBLMS\)](https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV) | [2AAB](https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [234 \(PRBLMS\)](https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3) | 2:59 | 2023-06-02 | 2023-06-11 |
 | [3AM](https://open.spotify.com/track/6OHJx893brg4fNrgDOEPfH) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Belu Vuitton](https://open.spotify.com/artist/0aMcHs9KqS3BM83hwR9Kk9), [Blakkboi](https://open.spotify.com/artist/1irKyDpZ6RCRkVlCm6Sn73) | [3AM](https://open.spotify.com/album/1IqjNIMWcVuDQnvwPxAdtC) | 2:52 | 2025-05-30 | 2025-06-28 |
 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 | 2023-11-17 | 2024-02-28 |
@@ -455,6 +455,7 @@
 | [Pressure](https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Pressure](https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2) | 2:24 | 2024-01-26 | 2024-02-26 |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-11-09 |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 | 2024-07-19 |
+| [Proud Of Life](https://open.spotify.com/track/2VduAuuyGrDrCBN2Pwj7yg) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [GE3 \(The Beginning\)](https://open.spotify.com/album/6eR5eDrWGOUMtPgKzpReFt) | 3:48 | 2025-06-27 |  |
 | [PS2](https://open.spotify.com/track/360eQCVMiXHI9zqkduxbVf) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [GOD'S ENGINEERING 2](https://open.spotify.com/album/7Ml0G3q46jK8eDDtVTp2Ul) | 3:22 | 2023-05-04 | 2023-05-15 |
 | [PULL UP](https://open.spotify.com/track/3seFszD60GPDuyVMmPs7LQ) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Vector](https://open.spotify.com/artist/02r5as63OlkJomim50Zgzx), [Idyl](https://open.spotify.com/artist/2L7Vza3szswJ0fGJiVK61J), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:27 | 2023-09-29 | 2023-10-13 |
 | [Raba](https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Sir hopy](https://open.spotify.com/artist/1bWf2YvWHsAb9M9agK2Hwu) | [Raba](https://open.spotify.com/album/6F8fAHLAtjOqrfPHLs2MWS) | 2:38 | 2024-09-20 | 2024-09-25 |

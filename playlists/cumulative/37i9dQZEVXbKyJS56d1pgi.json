@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 182500,
       "name": "A Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 197862,
       "name": "Acordar",
       "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -23458,7 +23458,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 245461,
       "name": "Pa\u00eds das Maravilhas",
       "url": "https://open.spotify.com/track/0qGRWcPOMkkt7edm4wMVRf"
@@ -24020,7 +24020,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 195692,
       "name": "Pirocada Quente",
       "url": "https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG"
@@ -24198,6 +24198,24 @@
       "duration_ms": 221461,
       "name": "Plut\u00e3o",
       "url": "https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P"
+    },
+    {
+      "album": {
+        "name": "Pobre Ex-Namorado",
+        "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Pobre Ex-Namorado",
+      "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
     },
     {
       "album": {
@@ -30001,6 +30019,28 @@
     },
     {
       "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126800,
+      "name": "Talvez voc\u00ea precise de mim",
+      "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
+    },
+    {
+      "album": {
         "name": "You Are Forgiven",
         "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
       },
@@ -30070,7 +30110,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 159751,
       "name": "Tata",
       "url": "https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj"
@@ -30128,7 +30168,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 258222,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5kr0kja5gbZAaT7w3TGKts"
@@ -32780,7 +32820,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"

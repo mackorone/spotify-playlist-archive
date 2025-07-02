@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,682 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,761 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 4 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 5 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 6 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 7 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
-| 8 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
+| 7 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
+| 8 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 9 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 10 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 11 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 66 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
 | 67 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
 | 68 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
-| 69 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
-| 70 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
-| 71 | [Truth or Dare](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:10 |
-| 72 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
-| 73 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 |
+| 69 | [Truth or Dare](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:10 |
+| 70 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
+| 71 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
+| 72 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 |
+| 73 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 74 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 |
 | 75 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
 | 76 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 |

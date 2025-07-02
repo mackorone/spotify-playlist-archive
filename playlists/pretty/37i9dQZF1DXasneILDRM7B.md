@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,010,099 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,010,055 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 52 | [Pressure](https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:05 |
 | 53 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 |
 | 54 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
-| 55 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
+| 55 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
 | 56 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
 | 57 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 |
-| 58 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
+| 58 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
 | 59 | [Know Your Enemy](https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:10 |
 | 60 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
 | 61 | [I'd Do Anything](https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:17 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 73 | [Savior](https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 4:02 |
 | 74 | [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 |
 | 75 | [Minority](https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 2:48 |
-| 76 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 |
-| 77 | [Breathing](https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:38 |
+| 76 | [Breathing](https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:38 |
+| 77 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 |
 | 78 | [Pain](https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:01 |
 | 79 | [Move Along](https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 3:58 |
 | 80 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: Parker McCollum
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,586 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,597 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 22 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
 | 23 | [Nykie](https://open.spotify.com/track/2kK8T5mbA5rJaC578CyKQ0) | [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Nykie](https://open.spotify.com/album/4L2oOZclkPXDTGIblnXyBw) | 3:19 |
 | 24 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
-| 25 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
+| 25 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
 | 26 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 |
-| 27 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 27 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
 | 28 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 29 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
 | 30 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
-| 31 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
+| 31 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 |
 | 32 | [Sex, Drugs, & Country Music](https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Sex, Drugs, & Country Music](https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8) | 3:37 |
-| 33 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 |
+| 33 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
 | 34 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
 | 35 | [Left To Get Right](https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Spanish Moss](https://open.spotify.com/album/7k56MAd5kMXPEGLlH8s13V) | 3:01 |
 | 36 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |

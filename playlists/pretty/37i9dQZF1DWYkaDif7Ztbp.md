@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Famous Pluto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,090 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,279 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 16 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
 | 17 | [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 |
 | 18 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 |
-| 19 | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece\_Yvk\)](https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece\_Yvk\)](https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L) | 5:23 |
+| 19 | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece Yvk\)](https://open.spotify.com/track/6xzsLAbPl2ObayPlTuEkLK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Down \(feat\. Xman Rsa, Lintonto & Masterpiece Yvk\)](https://open.spotify.com/album/5c4SEQNQEQG4bdyyjMiG3L) | 5:23 |
 | 20 | [Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 |
 | 21 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 22 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 |

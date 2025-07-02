@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is kessoku band\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,355 likes - 27 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,375 likes - 27 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 10 | [ドッペルゲンガー](https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ドッペルゲンガー / Re:Re:](https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H) | 3:39 |
 | 11 | [惑う星](https://open.spotify.com/track/4iWnWYDtg7ITUoNh6OjJUz) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 4:33 |
 | 12 | [青い春と西の空](https://open.spotify.com/track/7hfOYw1pDISWok8ZR8JALg) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:13 |
-| 13 | [忘れてやらない](https://open.spotify.com/track/5ISHFvPLUqKz2JfDRtwnb2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:43 |
+| 13 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
 | 14 | [秒針少女](https://open.spotify.com/track/0o4gPwmVjQCdmAuaGfD63k) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 4:31 |
 | 15 | [milky way](https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:32 |
 | 16 | [星座になれたら \-恒星\- Live ver.](https://open.spotify.com/track/3Rtv7KXHFVcjWYlPFOxDvc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:41 |
-| 17 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
+| 17 | [忘れてやらない](https://open.spotify.com/track/5ISHFvPLUqKz2JfDRtwnb2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:43 |
 | 18 | [青春コンプレックス\-instrumental\-](https://open.spotify.com/track/1eBJIQFMrwRy0bDhaGsMyK) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk) | 3:25 |
 | 19 | [夢を束ねて](https://open.spotify.com/track/2Tc6Yq6HAjFU0OORD3b8w2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 5:02 |
 | 20 | [あのバンド \-恒星\- Live ver.](https://open.spotify.com/track/2M4VFiQx8J9z8KjojIXH8t) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:05 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 26 | [Distortion!! \-恒星\- Live ver.](https://open.spotify.com/track/3dcIyoeDzG5ROztf8ErTP3) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 3:37 |
 | 27 | [忘れてやらない \-恒星\- Live ver.](https://open.spotify.com/track/5kSQT3kthSFcU7ewqYN43D) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:43 |
 
-Snapshot ID: `aGCCAAAAAAAnjlhQPXy3z+vGHBZq3qbs`
+Snapshot ID: `aGHTgAAAAAD8GvmxuGLR4e2zuKGLaE0u`

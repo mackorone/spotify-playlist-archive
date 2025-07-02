@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Marine, Teddy Swims, Soolking & Ninho au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,831 likes - 104 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,813 likes - 104 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 2 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
 | 3 | [C'est Fort](https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est Fort](https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS) | 2:39 |
 | 4 | [Crime ensoleillé](https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 3:50 |
-| 5 | [KATCHU\-KATA](https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [BON QU'À ÇA](https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv) | 2:00 |
+| 5 | [KATCHU\-KATA](https://open.spotify.com/track/1BAG8uKdKs1L8KOXkf60vN) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [BON QU'À ÇA](https://open.spotify.com/album/6jJfAAK3H4jvjGGtzv3Axv) | 2:00 |
 | 6 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 |
 | 7 | [Lighter](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lighter](https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875) | 3:06 |
 | 8 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 81 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
 | 82 | [don't let this be the end](https://open.spotify.com/track/5zIGJwMvspuvhHZCpz6f6P) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [don't let this be the end](https://open.spotify.com/album/0VK8w7hqRE6XyoIvShWnJX) | 3:17 |
 | 83 | [June](https://open.spotify.com/track/0cCX9hZfhr138GDXFbTemL) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [June](https://open.spotify.com/album/5agU8VDl3O3RCdslS3p5Wg) | 3:21 |
-| 84 | [Évidemment](https://open.spotify.com/track/47BnLsZuNT8DpFlZAyddJV) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [On verra demain](https://open.spotify.com/album/4br2gXCOiTzwphGThvXlaF) | 3:12 |
+| 84 | [Évidemment](https://open.spotify.com/track/47BnLsZuNT8DpFlZAyddJV) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [On verra demain](https://open.spotify.com/album/4br2gXCOiTzwphGThvXlaF) | 3:12 |
 | 85 | [Mini Moi](https://open.spotify.com/track/77lEiVLxXAwof70K4ohabm) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Reine \(Deluxe\)](https://open.spotify.com/album/5ysyXw3W6VgSCCHxGPjlnm) | 2:24 |
 | 86 | [Headshot](https://open.spotify.com/track/3NGc1znX9nAARM5bZ9OUQ4) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Headshot](https://open.spotify.com/album/1dB9kDruKAMiLmVICvh09b) | 2:33 |
 | 87 | [Human](https://open.spotify.com/track/3QV6KLr9VXTDMRLW0OSMUA) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Human](https://open.spotify.com/album/572MbsTP9h95W06jzXL1W2) | 2:35 |

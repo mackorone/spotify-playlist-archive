@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ season in full swing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,121 likes - 492 songs - 1 day 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,275 likes - 492 songs - 1 day 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 4 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
 | 5 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |
 | 6 | [Esperanza](https://open.spotify.com/track/7qwYI7or3ozNquQWQOCazN) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [AWAŸKEN](https://open.spotify.com/artist/2oNiJMAEXgGuZjkQ9ZERa7) | [Esperanza](https://open.spotify.com/album/5qoUam4FsJma7nkDPp6xPj) | 6:25 |
-| 7 | [Isaka \(6am\) \- In Joburg](https://open.spotify.com/track/5ncLgVY26bAfHhUjTm7Sz4) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\) \- In Joburg](https://open.spotify.com/album/2pSnEC7Cf4IhMSUrXPjrUN) | 3:24 |
+| 7 | [Isaka \(6am\) Vanco Mix \- In Joburg](https://open.spotify.com/track/5ncLgVY26bAfHhUjTm7Sz4) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\) Vanco Mix \- In Joburg](https://open.spotify.com/album/2pSnEC7Cf4IhMSUrXPjrUN) | 3:24 |
 | 8 | [I Just Want You To Smile](https://open.spotify.com/track/26jWskVc8NRVYeP2C3noTv) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [I Just Want You To Smile](https://open.spotify.com/album/2wc2zJZngG1XrRmn9F5kko) | 3:42 |
 | 9 | [Dancing](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Dancing](https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n) | 3:45 |
 | 10 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 |

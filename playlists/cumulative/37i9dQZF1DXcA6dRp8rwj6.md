@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Ramengvrl\)
 
-2,891 songs - 6 day 2 hr 5 min
+2,892 songs - 6 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BALANCE](https://open.spotify.com/album/53TUP9i0S2t2gDRe9pCfYB) | 1:53 | 2024-09-06 | 2024-10-25 |
 | [BETTER OFF](https://open.spotify.com/track/4iCEgsiLhznxXLc0VjjruT) | [Reiklytokyo](https://open.spotify.com/artist/3CoxnqdIPx4y03sqIcXeFx) | [BETTER OFF](https://open.spotify.com/album/49lq6IVAiJd1aXd2zigg4L) | 2:13 | 2024-05-24 | 2024-06-28 |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-28 | 2023-09-08 |
+| [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:46 | 2025-06-27 |  |
 | [Big Body \(feat\. Lil Yachty\)](https://open.spotify.com/track/1sl6OyOIA17y8pVwgcX4dn) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [For Us](https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL) | 3:04 | 2025-01-24 | 2025-02-28 |
 | [Big Boi \(All Star Remix\)](https://open.spotify.com/track/6v6Sz8zjizL72erxXsyO00) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi), [Ninjaboi](https://open.spotify.com/artist/4k8Lmq0mgPi7KcE97numIN), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [ChronicalZ](https://open.spotify.com/artist/3OvM4PgW1240WvfbIi9hDh), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq), [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE) | [Big Boi \(All Star Remix\)](https://open.spotify.com/album/4pPNSJGQMmnOJVcPWslC73) | 5:20 | 2022-01-20 | 2022-02-25 |
 | [Big Burna](https://open.spotify.com/track/3cmPUqi8Dnv1a9MRjgMZGa) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Big Burna](https://open.spotify.com/album/2uG3PrRbukgoFFBCrOvVQJ) | 2:42 | 2022-11-17 | 2023-01-13 |

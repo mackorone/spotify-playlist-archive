@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849,028 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,848,990 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 32 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 33 | [I'd Rather Pretend](https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [VANITY](https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g) | 3:04 |
 | 34 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
-| 35 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
-| 36 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 35 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 36 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 | 37 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 38 | [Helium](https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:12 |
 | 39 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 55 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 56 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
 | 57 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
-| 58 | [100 Years](https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle for Everything](https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq) | 4:04 |
-| 59 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
-| 60 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
-| 61 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
+| 58 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
+| 59 | [100 Years](https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle for Everything](https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq) | 4:04 |
+| 60 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
+| 61 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 | 62 | [Welcome to Wonderland](https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Welcome to Wonderland](https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp) | 3:19 |
 | 63 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
 | 64 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 |

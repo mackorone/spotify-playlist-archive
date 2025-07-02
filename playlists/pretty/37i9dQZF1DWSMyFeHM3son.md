@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > you look so cool\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,306 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,319 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 35 | [Sex](https://open.spotify.com/track/7va4DfhB8BsfYTWTEQOnno) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Sex EP](https://open.spotify.com/album/10CzC8El7gcizNUMFUjAyM) | 3:27 |
 | 36 | [F\*\*kin' Problems \(feat\. Drake, 2 Chainz & Kendrick Lamar\)](https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:53 |
 | 37 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
-| 38 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
-| 39 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 38 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 39 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 40 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
 | 41 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 |
 | 42 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |

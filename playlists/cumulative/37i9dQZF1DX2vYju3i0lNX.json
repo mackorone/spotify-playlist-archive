@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "A New Hope",
+        "url": "https://open.spotify.com/album/0yX04smpSOdGBQsWMZ1Pmu"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "A New Hope",
+      "url": "https://open.spotify.com/track/77fb2hmBPLvOod5ij9rsmx"
+    },
+    {
+      "album": {
         "name": "A New Story",
         "url": "https://open.spotify.com/album/3txv5NrvYUyxgEwxCHlYlG"
       },
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 208133,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw"
@@ -4395,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "Deep Blue Calling",
+        "url": "https://open.spotify.com/album/5E9vatIh46Nv3eg3cwxx8B"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Deep Blue Calling",
+      "url": "https://open.spotify.com/track/6yfRcQx8py7kvja0P65knN"
+    },
+    {
+      "album": {
         "name": "Deep In A Dream",
         "url": "https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK"
       },
@@ -5034,6 +5070,24 @@
       "duration_ms": 183562,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1"
+    },
+    {
+      "album": {
+        "name": "Echoes of a Lonely Love",
+        "url": "https://open.spotify.com/album/6LwTy6FXobxNAQsWSgcfPa"
+      },
+      "artists": [
+        {
+          "name": "The Low Light Trio",
+          "url": "https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172402,
+      "name": "Echoes of a Lonely Love",
+      "url": "https://open.spotify.com/track/1hg3JYrnrScJRWDAhzlAvn"
     },
     {
       "album": {
@@ -6370,7 +6424,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 158645,
       "name": "Forget About It, Al",
       "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
@@ -11032,7 +11086,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 226073,
       "name": "Look For The Silver Lining",
       "url": "https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu"
@@ -14434,7 +14488,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 264028,
       "name": "Pink Balloons",
       "url": "https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir"
@@ -16944,6 +16998,24 @@
       "duration_ms": 202051,
       "name": "Steps Ahead",
       "url": "https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio"
+    },
+    {
+      "album": {
+        "name": "Still Not Found",
+        "url": "https://open.spotify.com/album/1KskVMt5yjecImxWaMp5Tx"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Still Not Found",
+      "url": "https://open.spotify.com/track/4HWUGeT2caYlO3busEJole"
     },
     {
       "album": {

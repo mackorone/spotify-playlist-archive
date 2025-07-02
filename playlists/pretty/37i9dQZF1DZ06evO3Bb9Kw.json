@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173069,
+  "num_followers": 173082,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAABFwdPwoBlJZrItelInUk3A",
+  "snapshot_id": "aGHTgAAAAAAfus7QllCft80pgbwLtgbD",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Holding On to You",
-      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Holding On to You",
+      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+        "name": "Space in My Heart",
+        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 183242,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
+      "duration_ms": 178849,
+      "name": "Space in My Heart",
+      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
     },
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space in My Heart",
-        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 178849,
-      "name": "Space in My Heart",
-      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lorde, Lasgo, Marine, Lil Kleine & Yade Lauren and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,705 likes - 98 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,708 likes - 98 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 12 | [Messiah](https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Messiah](https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd) | 2:56 |
 | 13 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
 | 14 | [Spotlight \- Uit Milo](https://open.spotify.com/track/1JMm1cGbq67T5OotXSnI46) | [Milo](https://open.spotify.com/artist/5S5dmk3QOstGborv89x64n), [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Muziek Seizoen 2](https://open.spotify.com/album/1HQhAhRjbd5qW5XNvoAal3) | 2:51 |
-| 15 | [Évidemment](https://open.spotify.com/track/47BnLsZuNT8DpFlZAyddJV) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [On verra demain](https://open.spotify.com/album/4br2gXCOiTzwphGThvXlaF) | 3:12 |
+| 15 | [Évidemment](https://open.spotify.com/track/47BnLsZuNT8DpFlZAyddJV) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [On verra demain](https://open.spotify.com/album/4br2gXCOiTzwphGThvXlaF) | 3:12 |
 | 16 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
 | 17 | [Love Of My Life](https://open.spotify.com/track/0Q3RbOiHt7aPTBOQDDMOw3) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Love Of My Life](https://open.spotify.com/album/5gTrlQZgwWH7WdAShMZEmP) | 2:55 |
 | 18 | [This Is \- Single Edit](https://open.spotify.com/track/7MAMO8dokg9IRhWTiBJqK0) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb) | [This Is](https://open.spotify.com/album/0qThG45ynm1pF51jQx41fs) | 3:25 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 43 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
 | 44 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
 | 45 | [Born Again](https://open.spotify.com/track/4WwQoyBaKpfOltfCIXcqdw) | [DJ Piscine](https://open.spotify.com/artist/5gmP8CSKXAQLjluN6WR93o) | [Born Again](https://open.spotify.com/album/5m64eTLRaBfYPUV9VIc5YO) | 2:38 |
-| 46 | [Building a windmill](https://open.spotify.com/track/3C2vuqXLj7c1eAxNtYNcvQ) | [When Heaven Met Earth](https://open.spotify.com/artist/5Ea1VJPlh9HSHxZX2i57Hx), [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Building a windmill](https://open.spotify.com/album/0nWCHEpdNgCjePcke6C672) | 4:26 |
+| 46 | [Building a windmill](https://open.spotify.com/track/3C2vuqXLj7c1eAxNtYNcvQ) | [When Heaven met Earth](https://open.spotify.com/artist/5Ea1VJPlh9HSHxZX2i57Hx), [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Building a windmill](https://open.spotify.com/album/0nWCHEpdNgCjePcke6C672) | 4:26 |
 | 47 | [Before I Lose You](https://open.spotify.com/track/0VZTOeRdGxV3veEUVgveFJ) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Before I Lose You](https://open.spotify.com/album/1fA8rLSaOaCrRgCyJEDmS3) | 3:37 |
 | 48 | [Na alles](https://open.spotify.com/track/13irTQj1JC2lJEysoQN3Oe) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Na alles](https://open.spotify.com/album/76K342zT9QDjcn9laqL5Rs) | 3:20 |
 | 49 | [Lighter](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lighter](https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875) | 3:06 |

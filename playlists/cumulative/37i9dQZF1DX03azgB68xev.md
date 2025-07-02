@@ -4,7 +4,7 @@
 
 > Pop bops for the saints!  Cover: bodie
 
-552 songs - 1 day 6 hr 10 min
+553 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-10-31 | 2023-01-14 |
 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 | 2023-01-13 | 2024-07-06 |
 | [Happy Sad](https://open.spotify.com/track/4tC5zD76WwY6ibqphFAL9X) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Happy Sad](https://open.spotify.com/album/12lfy14lzxVSkgYZE5DkpN) | 2:26 | 2021-10-31 | 2022-07-11 |
+| [He Deserves](https://open.spotify.com/track/4QVv44aTIaWECRVLCjVNXx) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [He Deserves](https://open.spotify.com/album/3S0eES2GzpLLnzmMESitPH) | 4:05 | 2025-06-21 |  |
 | [Head First \(From "Gabriel and the Guardians"\)](https://open.spotify.com/track/6ByyNMdLP4pta9V5Jt1Pc2) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Head First \(From "Gabriel and the Guardians"\)](https://open.spotify.com/album/3h6AAXb8Nd5VyyJIC5ylIK) | 2:58 | 2025-03-21 | 2025-05-17 |
 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 | 2021-10-31 | 2023-01-14 |
 | [Headspace \- GOLDHOUSE Remix](https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Headspace](https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y) | 3:08 | 2021-10-31 | 2022-07-29 |

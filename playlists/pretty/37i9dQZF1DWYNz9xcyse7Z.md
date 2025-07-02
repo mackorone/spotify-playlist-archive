@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,681 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,813 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 15 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
 | 16 | [Por No Perderte Te Perdi](https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:32 |
 | 17 | [Cortinas Guindas](https://open.spotify.com/track/6KBMoO8Ku4ZAFJ4lT9qAQI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Sinaloense Hecho Y Derecho](https://open.spotify.com/album/7M2i31TZWIiqZeZs7rXWTK) | 3:42 |
-| 18 | [El Cajoncito](https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Anda Alterada La Gente](https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa) | 3:32 |
-| 19 | [Coqueta](https://open.spotify.com/track/27188WhdFnBQXf1MzjIIAS) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:58 |
+| 18 | [Coqueta](https://open.spotify.com/track/27188WhdFnBQXf1MzjIIAS) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:58 |
+| 19 | [El Cajoncito](https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Anda Alterada La Gente](https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa) | 3:32 |
 | 20 | [El Foco \- Version Ranchera](https://open.spotify.com/track/74hOMmO8kJ1zCqDxhMlEsn) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [La Iguana](https://open.spotify.com/album/2dk85Srmd9lUhPQ7u4AoqG) | 3:53 |
 | 21 | [Te Metiste](https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:29 |
 | 22 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 72 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
 | 73 | [Te vi venir](https://open.spotify.com/track/37ELDkWCHvpfcRHUQCqhEw) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 2:57 |
 | 74 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
-| 75 | [Tus Verdades](https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 2:43 |
-| 76 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
+| 75 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
+| 76 | [Tus Verdades](https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 2:43 |
 | 77 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
 | 78 | [A puro dolor](https://open.spotify.com/track/2ogZkQ1paxVHkOSwbEzmNv) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 3:14 |
 | 79 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |

@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 56 min
+97 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,10 +60,10 @@
 | [Mala Cara](https://open.spotify.com/track/0ArXnrjWXgLdqfVCosRSHQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mala Cara](https://open.spotify.com/album/2kJvz4V7Thc5FyI6r8pq4T) | 2:47 | 2024-05-17 | 2024-07-21 |
 | [Mala Cara](https://open.spotify.com/track/7jzWJgzbodsjOhJ5brR6eu) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:48 | 2024-05-10 | 2024-05-17 |
 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 | 2023-11-10 |  |
-| [Maldición](https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:08 | 2023-11-10 | 2025-05-16 |
+| [Maldición](https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:08 | 2023-11-10 |  |
 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 | 2023-11-10 |  |
 | [Me Quedo](https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 2:54 | 2023-11-10 |  |
-| [MI COLETA](https://open.spotify.com/track/7EJDBVATR8jdE5b9Y7QEU9) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:07 | 2025-03-30 |  |
+| [MI COLETA](https://open.spotify.com/track/7EJDBVATR8jdE5b9Y7QEU9) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:07 | 2025-03-30 | 2025-07-02 |
 | [MISSION005](https://open.spotify.com/track/0O3OFlXT0PrrjpTuCfLoz6) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:09 | 2025-03-30 | 2025-06-30 |
 | [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 | 2025-06-15 |  |
 | [Mujer Bruja](https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:22 | 2023-11-10 |  |
@@ -85,7 +85,8 @@
 | [Se Pega](https://open.spotify.com/track/4WiySU6ohEQpdnbze6D2CH) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Eso Es Mental](https://open.spotify.com/album/4OLHRygJAxYw6GG5qylWAy) | 2:18 | 2023-11-10 | 2024-03-28 |
 | [SI TE VAS](https://open.spotify.com/track/3KKfbG7lkeaQeu14a0RtPa) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mimi](https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:35 | 2023-12-16 | 2024-02-21 |
 | [SI TE VAS](https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mimi](https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:35 | 2024-02-20 |  |
-| [SIN AUTOTUNE](https://open.spotify.com/track/2xkAMFdKwbFFfY5jMEhi42) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 2:41 | 2025-03-30 |  |
+| [SIN AUTOTUNE](https://open.spotify.com/track/2xkAMFdKwbFFfY5jMEhi42) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 2:41 | 2025-03-30 | 2025-07-02 |
+| [SIN AUTOTUNE](https://open.spotify.com/track/5MG4QNLAZfxIiGethXtl8X) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 2:41 | 2025-07-02 |  |
 | [Spice Girls](https://open.spotify.com/track/6QibTRZoT2eg0662PMEQk6) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:30 | 2023-11-10 | 2024-07-15 |
 | [Spinelli \[From The Series La Niña \(Amazon Original\)\]](https://open.spotify.com/track/6cvS7yVjST2bkal2hIIK1I) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña XXL](https://open.spotify.com/album/3EcUGvI4ePuIEzzBg1GUSC) | 2:25 | 2023-11-10 | 2025-01-29 |
 | [Tamagochi](https://open.spotify.com/track/2SQ1gU5lP0C6yAZQu37iTr) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:46 | 2023-11-10 | 2024-08-24 |

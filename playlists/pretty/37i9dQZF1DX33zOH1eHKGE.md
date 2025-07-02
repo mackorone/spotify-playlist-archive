@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 61 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 |
 | 62 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
 | 63 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 |
-| 64 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
-| 65 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
+| 64 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
+| 65 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 | 66 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
 | 67 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 68 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels, featuring VALÉ\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,103 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,140 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

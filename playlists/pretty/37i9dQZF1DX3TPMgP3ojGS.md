@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,710 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,756 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 44 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
 | 45 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
 | 46 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |
-| 47 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 |
-| 48 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
+| 47 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
+| 48 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 |
 | 49 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 50 | [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 |
 | 51 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 56 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
 | 57 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
 | 58 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
-| 59 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 |
+| 59 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
 | 60 | [harunikaeru](https://open.spotify.com/track/4QjdyUdTjTsZes5sHV8rxh) | [OKADA PISUS](https://open.spotify.com/artist/2mUBpfT13TbmoGlUB4rmZg) | [doyoubinoyume](https://open.spotify.com/album/4H5jI3XpaEHmViBx2vaN8J) | 3:31 |
-| 61 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
+| 61 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 |
 | 62 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
 | 63 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
 | 64 | [Just Stay](https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Just Stay](https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO) | 2:03 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 82 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 | 83 | [Mare Nostrum](https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Mare Nostrum](https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7) | 3:15 |
 | 84 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
-| 85 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
-| 86 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
+| 85 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
+| 86 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
 | 87 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 88 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
 | 89 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 |

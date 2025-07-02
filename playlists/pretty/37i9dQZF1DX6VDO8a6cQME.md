@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: Mary J\. Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,755,631 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,756,013 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 39 | [I Can Love You](https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:46 |
 | 40 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 |
 | 41 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
-| 42 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
-| 43 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
+| 42 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
+| 43 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
 | 44 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
 | 45 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 |
 | 46 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,564 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,603 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 19 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
 | 20 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
 | 21 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
-| 22 | [Na Estrada](https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Verde Anil Amarelo Cor de Rosa e Carvão](https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i) | 3:34 |
+| 22 | [Deixa A Gira Girar](https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 3:11 |
 | 23 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
-| 24 | [Deixa A Gira Girar](https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 3:11 |
+| 24 | [Na Estrada](https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Verde Anil Amarelo Cor de Rosa e Carvão](https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i) | 3:34 |
 | 25 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 26 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
 | 27 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 52 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 53 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
 | 54 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 |
-| 55 | [Nao Force](https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD) | [Joutro Mundo](https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:04 |
-| 56 | [Meu Nome É Gal](https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:46 |
+| 55 | [Meu Nome É Gal](https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:46 |
+| 56 | [Nao Force](https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD) | [Joutro Mundo](https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:04 |
 | 57 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |
 | 58 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
 | 59 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,707 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,851 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 86 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
 | 87 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
 | 88 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
-| 89 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
-| 90 | [Cartas](https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Cartas](https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1) | 2:33 |
+| 89 | [Cartas](https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Cartas](https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1) | 2:33 |
+| 90 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 91 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
 | 92 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
 | 93 | [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 143 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
 | 144 | [Rodeo Drive](https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Rodeo Drive](https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11) | 2:08 |
 | 145 | [Recordando](https://open.spotify.com/track/4kDe3NzNqfQwkr7VEgbfwh) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Recordando](https://open.spotify.com/album/5bTnGQJ9YS1Rat4ksg09by) | 3:18 |
-| 146 | [Tú No Vuelves](https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Tú No Vuelves](https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA) | 3:23 |
-| 147 | [Lo Intenté](https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Lo Intenté](https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr) | 3:08 |
+| 146 | [Lo Intenté](https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Lo Intenté](https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr) | 3:08 |
+| 147 | [Tú No Vuelves](https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Tú No Vuelves](https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA) | 3:23 |
 | 148 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 |
 | 149 | [Mas de Cien Canciones](https://open.spotify.com/track/0zGxVax2XaBmm42KU39mmi) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ), [Three Kingz Global](https://open.spotify.com/artist/23yjPxUzURIfc143xqU9zO) | [Mas de Cien Canciones](https://open.spotify.com/album/32K6zDWvgpA7MxzoqV7voB) | 4:17 |
 | 150 | [Mi Error](https://open.spotify.com/track/1AktxtPO11d9jRVqIU5Ixc) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Mi Error](https://open.spotify.com/album/0Odak28sLk2nII6qJX5QQC) | 3:42 |

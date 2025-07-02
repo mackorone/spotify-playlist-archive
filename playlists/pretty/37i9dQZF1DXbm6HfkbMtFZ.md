@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,647 likes - 115 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,792 likes - 115 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 57 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
 | 58 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
 | 59 | [RISE](https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE](https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ) | 5:03 |
-| 60 | [Handsome](https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX) | [Drug Cabin](https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk) | [Wiggle Room](https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW) | 2:27 |
-| 61 | [The Gold \- Nick Waterhouse Remix](https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [The Gold \(Nick Waterhouse Remix\)](https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu) | 4:09 |
+| 60 | [The Gold \- Nick Waterhouse Remix](https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [The Gold \(Nick Waterhouse Remix\)](https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu) | 4:09 |
+| 61 | [Handsome](https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX) | [Drug Cabin](https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk) | [Wiggle Room](https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW) | 2:27 |
 | 62 | [Talk About It](https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Talk About It \(B\-Side\)](https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr) | 2:12 |
 | 63 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 |
 | 64 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 90 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 |
 | 91 | [Upside Down](https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stunning & Atrocious](https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH) | 3:37 |
 | 92 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
-| 93 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
-| 94 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 |
+| 93 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 |
+| 94 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
 | 95 | [Picture Frame](https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [Picture Frame](https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU) | 3:15 |
 | 96 | [U Got Me](https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [The Midst of Things](https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ) | 3:26 |
 | 97 | [Find Somebody to Love](https://open.spotify.com/track/7D4mBnlIlSG7VBvAljjkZS) | [Dante Elephante](https://open.spotify.com/artist/3RdlkFPALHduIIZSinXgJZ) | [Mid\-Century Modern Romance](https://open.spotify.com/album/3lquhZzldiNKkeBxSEDUuJ) | 3:12 |
@@ -117,11 +117,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 107 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 |
 | 108 | [You Make Me Smile](https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mamalarky](https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43) | 3:36 |
 | 109 | [Play Pretend](https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Play Pretend](https://open.spotify.com/album/4gk7cTFVAi1cvhsGJSP6IT) | 3:24 |
-| 110 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 |
-| 111 | [I'm Late](https://open.spotify.com/track/6KV7F3IPwbTiPQ4mA7maO2) | [KERA](https://open.spotify.com/artist/0ZLjlul3kXdLihVJqJn0PR), [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [I'm Late](https://open.spotify.com/album/2qSWLEtkcSZ5ljd7zxaFR1) | 2:39 |
+| 110 | [I'm Late](https://open.spotify.com/track/6KV7F3IPwbTiPQ4mA7maO2) | [KERA](https://open.spotify.com/artist/0ZLjlul3kXdLihVJqJn0PR), [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [I'm Late](https://open.spotify.com/album/2qSWLEtkcSZ5ljd7zxaFR1) | 2:39 |
+| 111 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 |
 | 112 | [Lynchpin](https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [More Or Less](https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL) | 4:02 |
-| 113 | [High on Your Love](https://open.spotify.com/track/6snSPqco0MOZTibmHLAH7O) | [Kings Go Forth](https://open.spotify.com/artist/2TtCm6pJEbuTVt7dTEaPEB) | [The Outsiders Are Back](https://open.spotify.com/album/1zL1bCnuSQsWuao9g7urmb) | 4:13 |
-| 114 | [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 |
+| 113 | [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 |
+| 114 | [High on Your Love](https://open.spotify.com/track/6snSPqco0MOZTibmHLAH7O) | [Kings Go Forth](https://open.spotify.com/artist/2TtCm6pJEbuTVt7dTEaPEB) | [The Outsiders Are Back](https://open.spotify.com/album/1zL1bCnuSQsWuao9g7urmb) | 4:13 |
 | 115 | [Keep Your Faith to the Sky](https://open.spotify.com/track/3EvsbWc8SXFKp03SS2B9Ok) | [Willie Scott & The Birmingham Spirituals](https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI) | [Keep Your Faith to the Sky](https://open.spotify.com/album/49LpwpMHPPNni1Vi7IM6oV) | 5:09 |
 
 Snapshot ID: `aEBJPgAAAABr9hG0sEGlZWW+ytg5UDSh`

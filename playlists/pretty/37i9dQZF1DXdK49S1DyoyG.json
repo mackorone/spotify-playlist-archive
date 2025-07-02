@@ -1,6 +1,6 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 90480,
+  "num_followers": 90595,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-03-24 17:29:16",
       "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2025-03-24 17:29:16",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
-    },
-    {
-      "added_at": "2025-03-24 17:29:16",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2025-03-24 17:29:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-03-24 17:29:16",
       "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2025-03-24 17:29:16",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2025-03-24 17:29:16",
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "added_at": "2025-03-24 17:29:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-03-24 17:29:16",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
-    },
-    {
-      "added_at": "2025-03-24 17:29:16",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "added_at": "2025-03-24 17:29:16",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2025-03-24 17:29:16",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-03-24 17:29:16",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2025-03-24 17:29:16",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 269696,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2025-03-24 17:29:16",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2025-03-24 17:29:16",
@@ -1207,6 +1207,42 @@
     {
       "added_at": "2025-03-24 17:29:16",
       "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2025-03-24 17:29:16",
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "added_at": "2025-03-24 17:29:16",
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -1235,42 +1271,6 @@
       "duration_ms": 215506,
       "name": "Can't Fight The Moonlight",
       "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
-    },
-    {
-      "added_at": "2025-03-24 17:29:16",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
-    },
-    {
-      "added_at": "2025-03-24 17:29:16",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
       "added_at": "2025-03-24 17:29:16",

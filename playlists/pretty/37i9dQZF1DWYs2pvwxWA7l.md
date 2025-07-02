@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,786 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,997 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 11 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |
 | 12 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 13 | [Bend](https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb) | 3:12 |
-| 14 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 |
+| 14 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
 | 15 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 |
 | 16 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
-| 17 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
+| 17 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 |
 | 18 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 19 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 20 | [FINAL \(feat\. Frescool\)](https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [FINAL \(feat\. Frescool\)](https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR) | 3:35 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 32 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
 | 33 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
 | 34 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
-| 35 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
-| 36 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
+| 35 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
+| 36 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
 | 37 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
 | 38 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
 | 39 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39257,
+  "num_followers": 39269,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAADYNRUtKzVaHMprAYbLecKQ",
+  "snapshot_id": "aGHTgAAAAACR7KD5Jnzbfh2OPx/AT8Er",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Her Greatest Live Recitals",
+        "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "North German Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3rwr89g0JzQsjz9XNZog2E"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Bellini: Il pirata, Act 2: \"Col sorriso d'innocenza\" (Imogene) [Live, Hamburg, 1959]",
+      "url": "https://open.spotify.com/track/5v5V27CailGREFEFAROoRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas, Maria: Liebeslieder",
+        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "RAI Symphony Orchestra, Rome",
+          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Turandot, Act I: Signore, ascolta!",
+      "url": "https://open.spotify.com/track/49xX0JOQufLKlueVBPzT0r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Boh\u00e8me - Puccini",
         "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
       },
@@ -815,62 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Her Greatest Live Recitals",
-        "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
-        },
-        {
-          "name": "North German Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3rwr89g0JzQsjz9XNZog2E"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Bellini: Il pirata, Act 2: \"Col sorriso d'innocenza\" (Imogene) [Live, Hamburg, 1959]",
-      "url": "https://open.spotify.com/track/5v5V27CailGREFEFAROoRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas, Maria: Liebeslieder",
-        "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "RAI Symphony Orchestra, Rome",
-          "url": "https://open.spotify.com/artist/2clnASQ1DI04ZF0ero5UpF"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "Turandot, Act I: Signore, ascolta!",
-      "url": "https://open.spotify.com/track/49xX0JOQufLKlueVBPzT0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 1963 Recital at the Th\u00e9\u00e2tre des Champs-Elys\u00e9es, Paris: Works by Berlioz, Bizet, Gluck, Gounod & Massenet (The Original Sound of Maria Callas)",
         "url": "https://open.spotify.com/album/5VKttFwHQzWoYnbcrE5vTC"
       },
@@ -923,34 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verdi: Il trovatore",
-        "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
-      "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -983,26 +955,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
+        "name": "Verdi: Il trovatore",
+        "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
       },
       "artists": [
         {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "The Orchestra National De La Radiodiffusion Francaise",
-          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         }
       ],
-      "duration_ms": 318826,
-      "name": "Samson et Dalila (1997 Digital Remaster): Mon coeur s'ouvre \u00e0 ta voix.",
-      "url": "https://open.spotify.com/track/4TyIrhkM8BhVTSaokH40Sx"
+      "duration_ms": 213880,
+      "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
+      "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra of the San Carlos Opera House, Lisbon",
+          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
+        },
+        {
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
+      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
       },
       "artists": [
         {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "The Orchestra National De La Radiodiffusion Francaise",
+          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
+        },
+        {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra of the San Carlos Opera House, Lisbon",
-          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
         }
       ],
-      "duration_ms": 204226,
-      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
-      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
+      "duration_ms": 318826,
+      "name": "Samson et Dalila (1997 Digital Remaster): Mon coeur s'ouvre \u00e0 ta voix.",
+      "url": "https://open.spotify.com/track/4TyIrhkM8BhVTSaokH40Sx"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,42 @@
       "duration_ms": 131933,
       "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
       "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verdi: La traviata",
+        "url": "https://open.spotify.com/album/3bwUAH05B3fFdrN6o2djtp"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Alfredo Kraus",
+          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
+        },
+        {
+          "name": "Orquestra Sinf\u00f3nica do Teatro Nacional de S\u00e3o Carlos Lisboa",
+          "url": "https://open.spotify.com/artist/3Ns74kJ2H8fFNmeLH8oYQe"
+        },
+        {
+          "name": "Coro do Teatro Nacional de S\u00e3o Carlos Lisboa",
+          "url": "https://open.spotify.com/artist/4BwrIYW2DTNd8FzMpvYjQO"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "La traviata: Act I: Libiamo ne' lieti calici (Alfredo, Violetta, Chorus)",
+      "url": "https://open.spotify.com/track/2bdKKTN86j06sD6LEvbYeJ"
     },
     {
       "added_at": null,
@@ -1115,42 +1151,6 @@
       "duration_ms": 205826,
       "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
       "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Verdi: La traviata",
-        "url": "https://open.spotify.com/album/3bwUAH05B3fFdrN6o2djtp"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Alfredo Kraus",
-          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
-        },
-        {
-          "name": "Orquestra Sinf\u00f3nica do Teatro Nacional de S\u00e3o Carlos Lisboa",
-          "url": "https://open.spotify.com/artist/3Ns74kJ2H8fFNmeLH8oYQe"
-        },
-        {
-          "name": "Coro do Teatro Nacional de S\u00e3o Carlos Lisboa",
-          "url": "https://open.spotify.com/artist/4BwrIYW2DTNd8FzMpvYjQO"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "La traviata: Act I: Libiamo ne' lieti calici (Alfredo, Violetta, Chorus)",
-      "url": "https://open.spotify.com/track/2bdKKTN86j06sD6LEvbYeJ"
     },
     {
       "added_at": null,

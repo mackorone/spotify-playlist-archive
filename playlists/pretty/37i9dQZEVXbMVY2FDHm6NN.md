@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,746 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,760 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:31 |
 | 50 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 |
 
-Snapshot ID: `L/YEqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,234 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,324 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 44 | [God's Gonna Cut You Down](https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God's Gonna Cut You Down](https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf) | 2:40 |
 | 45 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 46 | [All Along the Watchtower](https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:58 |
-| 47 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
-| 48 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
+| 47 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
+| 48 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
 | 49 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 |
 | 50 | [Survivor](https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Survivor](https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs) | 3:13 |
 | 51 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 56 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
 | 57 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
 | 58 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 |
-| 59 | [Beat It \- Studio Version](https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [\*\*\*\* Live In Phoenix](https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh) | 3:47 |
-| 60 | [Iris](https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Iris](https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7) | 3:44 |
+| 59 | [Iris](https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Iris](https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7) | 3:44 |
+| 60 | [Beat It \- Studio Version](https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [\*\*\*\* Live In Phoenix](https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh) | 3:47 |
 | 61 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
 | 62 | [Bohemian Rhapsody](https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 6:03 |
 | 63 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovHcLREwOK.md) - [plain]
 
 > Mantém a energia positiva!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,352 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,394 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovHcLREwOK.md) - [plain]
 | 77 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 78 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 79 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 |
-| 80 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
-| 81 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
+| 80 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
+| 81 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 82 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
-| 83 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
+| 83 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
 | 84 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
-| 85 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
-| 86 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 85 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 86 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 87 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 88 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
 | 89 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |

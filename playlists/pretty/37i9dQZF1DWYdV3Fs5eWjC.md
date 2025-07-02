@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: The Arti$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,193 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,195 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 54 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 55 | [OpenYourEyes](https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [OpenYourEyes](https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT) | 3:13 |
 | 56 | [The Rush \(feat\. Nia Long & Amaarae\)](https://open.spotify.com/track/7yLA0kPEYxI4ZEYuBwFecQ) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Nia Long](https://open.spotify.com/artist/6BM4RlXELVhbs7U0H1OlnH) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:43 |
-| 57 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
-| 58 | [Try](https://open.spotify.com/track/6ryhqQIMGqBoS3cQQymXrf) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Try](https://open.spotify.com/album/4LUvxjd3yTeXkwRIAubsqX) | 1:53 |
-| 59 | [Mirror](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
-| 60 | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/album/4slIaFabUZiXFQt1LJXTu1) | 3:18 |
+| 57 | [Try](https://open.spotify.com/track/6ryhqQIMGqBoS3cQQymXrf) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Try](https://open.spotify.com/album/4LUvxjd3yTeXkwRIAubsqX) | 1:53 |
+| 58 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
+| 59 | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/album/4slIaFabUZiXFQt1LJXTu1) | 3:18 |
+| 60 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 61 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 62 | [Proper](https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7) | 2:24 |
 | 63 | [The Returner](https://open.spotify.com/track/4jYZSSA45xDLnQvIUConFB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw) | 3:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2619868,
+  "num_followers": 2619786,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,30 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
         "name": "tell you straight",
         "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "light years (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         },
         {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 220978,
-      "name": "light years (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -815,6 +795,26 @@
       "duration_ms": 200156,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
+        "name": "light years (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 220978,
+      "name": "light years (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -875,6 +875,26 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
+        "name": "Get Busy (Odd Mob Club Mix)",
+        "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 165909,
+      "name": "Get Busy - Odd Mob Club Mix",
+      "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
         "name": "Silence (John Summit Remix)",
         "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 203556,
       "name": "Apaga la luz",
       "url": "https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
-        "name": "Get Busy (Odd Mob Club Mix)",
-        "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Get Busy - Odd Mob Club Mix",
-      "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "Tarantella",
-        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
-        }
-      ],
-      "duration_ms": 145553,
-      "name": "Tarantella",
-      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
         "name": "No Room For A Saint (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 236128,
       "name": "No Room For A Saint (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
+        "name": "Tarantella",
+        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 145553,
+      "name": "Tarantella",
+      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
         }
       ],
-      "duration_ms": 205270,
-      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
-      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
+      "duration_ms": 171165,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 171165,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "4am In A Rave / Speed Is A Deed",
-        "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
-        }
-      ],
-      "duration_ms": 147121,
-      "name": "4am In A Rave (feat. rhys from the sticks)",
-      "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
         "name": "Dream A Little Dream",
         "url": "https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B"
       },
@@ -1771,6 +1751,26 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
+        "name": "4am In A Rave / Speed Is A Deed",
+        "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 147121,
+      "name": "4am In A Rave (feat. rhys from the sticks)",
+      "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
@@ -1783,6 +1783,34 @@
       "duration_ms": 176898,
       "name": "Vent",
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 215905,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -1843,30 +1871,18 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "Carry You",
-        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 215905,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -1911,22 +1927,6 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "So H\u00ef",
-        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "So H\u00ef",
-      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
         "name": "Until The Lights Go Out",
         "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
       },
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 180540,
       "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -2151,6 +2151,30 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
+        "name": "Like A Prayer",
+        "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        },
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        }
+      ],
+      "duration_ms": 229337,
+      "name": "Like A Prayer",
+      "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
+    },
+    {
+      "added_at": "2025-06-13 04:00:45",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
@@ -2191,30 +2215,6 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2025-06-13 04:00:45",
-      "album": {
-        "name": "Like A Prayer",
-        "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
-      },
-      "artists": [
-        {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        },
-        {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
-        },
-        {
-          "name": "Annabel",
-          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
-        }
-      ],
-      "duration_ms": 229337,
-      "name": "Like A Prayer",
-      "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
     },
     {
       "added_at": "2025-06-13 04:00:45",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2025-06-13 04:00:45",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr"
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 216888,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r"
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
     }
   ],
   "unique_name": "Power Hour",

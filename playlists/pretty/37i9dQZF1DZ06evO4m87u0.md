@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,320 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,349 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 19 | [Heavy Soul](https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:08 |
 | 20 | [Meet Me in the City](https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Chulahoma](https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ) | 3:38 |
 | 21 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
-| 22 | [Psychotic Girl](https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 4:10 |
+| 22 | [Keep Me](https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 2:52 |
 | 23 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
-| 24 | [Keep Me](https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 2:52 |
+| 24 | [Psychotic Girl](https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 4:10 |
 | 25 | [I Forgot To Be Your Lover](https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:27 |
 | 26 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 27 | [10 Lovers](https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 49 | [Read Em And Weep](https://open.spotify.com/track/2u89yyB1DUGqGSYhFVSqy7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 3:23 |
 | 50 | [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 |
 
-Snapshot ID: `aGCCAAAAAAA3Qb3Dqyb1NZ8+wEVV7D3L`
+Snapshot ID: `aGHTgAAAAAABT70fSYthMVH1LJNIMYfb`

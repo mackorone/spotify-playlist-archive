@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028,033 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,028,088 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 35 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
 | 36 | [Rock and Roll \- Remaster](https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:40 |
 | 37 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
-| 38 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
+| 38 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 39 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
-| 40 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
+| 40 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
 | 41 | [I Am the Highway](https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 5:34 |
 | 42 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
 | 43 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 56 | [Rock You Like a Hurricane \- 2011](https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 4:15 |
 | 57 | [Burden In My Hand](https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 4:50 |
 | 58 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
-| 59 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
-| 60 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
+| 59 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
+| 60 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 61 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
 | 62 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
 | 63 | [Thunderstruck](https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Iron Man 2](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv) | 4:52 |
@@ -127,9 +127,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 117 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 118 | [Maktub](https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:13 |
 | 119 | [Say What You Will](https://open.spotify.com/track/4nkIEw3tLQ153CXJBu5WWN) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Art Of Letting Go](https://open.spotify.com/album/0eXQmC5w5ziGRBN3yhnQKK) | 3:33 |
-| 120 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 |
+| 120 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
 | 121 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 |
-| 122 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
+| 122 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 |
 | 123 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
 | 124 | [I’m Alright](https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi) | 4:35 |
 | 125 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 142 | [Can't Stop Talking](https://open.spotify.com/track/09b2bFKmoijMzZrT1l3bmT) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Can't Stop Talking](https://open.spotify.com/album/7onaqBNVYbUE8CkAmBzXaA) | 2:43 |
 | 143 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 |
 | 144 | [Rollin' Stoned](https://open.spotify.com/track/6g07pGLohIi4rVWByiR2uG) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Can't Get There From Here](https://open.spotify.com/album/4YHmbZbBNbtkiiLDVOeqeJ) | 4:09 |
-| 145 | [20/20 Vision](https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [20/20 Vision](https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd) | 3:47 |
-| 146 | [Darkside](https://open.spotify.com/track/1tgFoqQG9thuoI6If2olvA) | [Dead Posey](https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO) | [Are You in a Cult?](https://open.spotify.com/album/0gpASYYFSbwON3aNeR3Kms) | 3:17 |
+| 145 | [Darkside](https://open.spotify.com/track/1tgFoqQG9thuoI6If2olvA) | [Dead Posey](https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO) | [Are You in a Cult?](https://open.spotify.com/album/0gpASYYFSbwON3aNeR3Kms) | 3:17 |
+| 146 | [20/20 Vision](https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [20/20 Vision](https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd) | 3:47 |
 | 147 | [Lo/Hi](https://open.spotify.com/track/77MbZsDaKvJEizcU36WnMu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Go / Eagle Birds / Lo/Hi](https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG) | 2:57 |
 | 148 | [Got No Shame](https://open.spotify.com/track/5c1nPzFo0fziACO6fKtxqT) | [Brother Cane](https://open.spotify.com/artist/4C2mRKodTEQRrE5EaGtjr5) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 4:34 |
 | 149 | [California Dreamin'](https://open.spotify.com/track/3C2yrpMcXa3b9JsG3kLPb1) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [California Dreamin'](https://open.spotify.com/album/2tXpwyplOkYgdLldDl0fIE) | 4:18 |

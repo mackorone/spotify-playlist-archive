@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lewis Capaldi, Lorde, J Hus and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,249 likes - 115 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,308 likes - 115 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

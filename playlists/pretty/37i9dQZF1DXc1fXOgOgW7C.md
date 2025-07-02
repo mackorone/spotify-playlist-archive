@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,296 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,303 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 29 | [Ya Pasó](https://open.spotify.com/track/4VYM9hLG6qOy3X59llsSwQ) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:44 |
 | 30 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
 | 31 | [Víctimas del Cielo](https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Brindando por Nada](https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx) | 4:13 |
-| 32 | [En Redondel](https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos](https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4) | 4:27 |
+| 32 | [Me estás tratando mal](https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Parque De Depresiones](https://open.spotify.com/album/3RhgCYHq0Jae6cH6rNCbBC) | 3:37 |
 | 33 | [Aventura \(feat\. Marcela Morelo\)](https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:29 |
-| 34 | [Me estás tratando mal](https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Parque De Depresiones](https://open.spotify.com/album/3RhgCYHq0Jae6cH6rNCbBC) | 3:37 |
+| 34 | [En Redondel](https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos](https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4) | 4:27 |
 | 35 | [Comodín](https://open.spotify.com/track/5ujrjQsZYp7oark6k7SFVa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [El Tiempo Otra Vez Avanza](https://open.spotify.com/album/314m9ZiGXnoaDtXp96LlHs) | 2:49 |
 | 36 | [Ingrediente](https://open.spotify.com/track/6M6aCePRkHqmQsUGa6BegN) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 3:36 |
 | 37 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 52 | [Y la Banda Sigue](https://open.spotify.com/track/1fHYfXMXkhrWd9dzIOharS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Y la Banda Sigue](https://open.spotify.com/album/2025IlqtTWDI90ejSXEulm) | 3:30 |
 | 53 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
 | 54 | [Aves Migratorias](https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [¿Dónde Vas?](https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ) | 3:22 |
-| 55 | [Se te nota](https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [El Club De Los Martes](https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G) | 3:59 |
-| 56 | [Alas Rotas](https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:33 |
+| 55 | [Alas Rotas](https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:33 |
+| 56 | [Se te nota](https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [El Club De Los Martes](https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G) | 3:59 |
 | 57 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 |
 | 58 | [Puedo Sentirlo \(feat\. Julieta Venegas\)](https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lebón & Co.](https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2) | 3:27 |
 | 59 | [Años Luz](https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Años Luz](https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO) | 3:13 |

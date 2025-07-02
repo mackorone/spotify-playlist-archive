@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 98313,
+  "num_followers": 98407,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "Bae Bae",
+      "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
@@ -79,26 +99,6 @@
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Bae Bae",
-      "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 165448,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 237868,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 237868,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -1427,18 +1443,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+        "name": "Maproso",
+        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
       },
       "artists": [
         {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        },
+        {
+          "name": "Suzanna Owiyo",
+          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
         }
       ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+      "duration_ms": 252428,
+      "name": "Maproso",
+      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1495,26 +1515,6 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0HnlM5zv18lM1gKIxOiW96"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Maproso",
-        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
-      },
-      "artists": [
-        {
-          "name": "Wakadinali",
-          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
-        },
-        {
-          "name": "Suzanna Owiyo",
-          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "Maproso",
-      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
     },
     {
       "added_at": "2025-04-17 07:46:17",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-04-17 07:46:17",
       "album": {
+        "name": "Radio & Weasel",
+        "url": "https://open.spotify.com/album/2oiaqdD3XKbjEHHiE6pYtC"
+      },
+      "artists": [
+        {
+          "name": "Radio And Weasel",
+          "url": "https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Breath Away",
+      "url": "https://open.spotify.com/track/4rfxJw6Ujuqo7swQfjlppQ"
+    },
+    {
+      "added_at": "2025-04-17 07:46:17",
+      "album": {
         "name": "Best of DJ Bongz, Vol. 1",
         "url": "https://open.spotify.com/album/0mcfKi5RkrrFXslOlS5N6R"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 386873,
       "name": "Sobabili",
       "url": "https://open.spotify.com/track/2dyYRTVdDFjnSQ6elduMG1"
-    },
-    {
-      "added_at": "2025-04-17 07:46:17",
-      "album": {
-        "name": "Radio & Weasel",
-        "url": "https://open.spotify.com/album/2oiaqdD3XKbjEHHiE6pYtC"
-      },
-      "artists": [
-        {
-          "name": "Radio And Weasel",
-          "url": "https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Breath Away",
-      "url": "https://open.spotify.com/track/4rfxJw6Ujuqo7swQfjlppQ"
     },
     {
       "added_at": "2025-04-17 07:46:17",

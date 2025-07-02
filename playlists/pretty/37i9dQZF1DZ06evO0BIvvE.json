@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 11157,
+  "num_followers": 11161,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGCCAAAAAACIW2LZi5NFUbymlhQ7blbx",
+  "snapshot_id": "aGHTgAAAAABQ2UQZh0v3HU4dY8UgqOtx",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Billy's Back Home",
-      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 177933,
       "name": "Thank You (For This Blessing)",
       "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Billy's Back Home",
+      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandra de S\u00e1 (1988)",
-        "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 325053,
-      "name": "Amanh\u00e3 (feat. Billy Paul)",
-      "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sandra de S\u00e1 (1988)",
+        "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 325053,
+      "name": "Amanh\u00e3 (feat. Billy Paul)",
+      "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 302733,
-      "name": "Everybody's Breakin' Up",
-      "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
+      "duration_ms": 302053,
+      "name": "The Times Of Our Lives",
+      "url": "https://open.spotify.com/track/5CKiJHl7e2TgQV7uggALnK"
     },
     {
       "added_at": null,
@@ -780,41 +780,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 302053,
-      "name": "The Times Of Our Lives",
-      "url": "https://open.spotify.com/track/5CKiJHl7e2TgQV7uggALnK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 321013,
-      "name": "America (We Need the Light)",
-      "url": "https://open.spotify.com/track/3rCSyRKxjdX7l6QtIQmGhi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 387426,
-      "name": "East",
-      "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
+      "duration_ms": 302733,
+      "name": "Everybody's Breakin' Up",
+      "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
     },
     {
       "added_at": null,
@@ -835,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 321013,
+      "name": "America (We Need the Light)",
+      "url": "https://open.spotify.com/track/3rCSyRKxjdX7l6QtIQmGhi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ebony Woman",
         "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 230440,
       "name": "Let's Fall In Love All Over Again",
       "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 387426,
+      "name": "East",
+      "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
     }
   ],
   "unique_name": "This Is Billy Paul",

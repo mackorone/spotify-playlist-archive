@@ -10840,7 +10840,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Fokusi",
       "url": "https://open.spotify.com/track/3nppacUxD6iC4iycwtXLFJ"
@@ -20187,6 +20187,24 @@
     },
     {
       "album": {
+        "name": "Azis 2014",
+        "url": "https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau"
+      },
+      "artists": [
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "MMA",
+      "url": "https://open.spotify.com/track/1ECPrnFJtWFq5AUuH0iNoc"
+    },
+    {
+      "album": {
         "name": "MNOGO SI DOBRA",
         "url": "https://open.spotify.com/album/76YZE7BmL3UHj0g2ZyTlSY"
       },
@@ -20936,7 +20954,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 225601,
       "name": "Mrasnica",
       "url": "https://open.spotify.com/track/1LXRWQeHY486xZVgl3uJ4x"
@@ -24375,6 +24393,28 @@
     },
     {
       "album": {
+        "name": "SRCE <3",
+        "url": "https://open.spotify.com/album/3gWUSePjD1Ftku7PoaHQ6u"
+      },
+      "artists": [
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        },
+        {
+          "name": "Mila Robert",
+          "url": "https://open.spotify.com/artist/5tLSSaTETr45nkqq42McjK"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Polujivi",
+      "url": "https://open.spotify.com/track/5USdMIrRxaU3vnKaPxqj1C"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -24848,6 +24888,28 @@
       "duration_ms": 194713,
       "name": "PROBLEMATIC",
       "url": "https://open.spotify.com/track/1ty0at2tUKqMGTyYbJ43eL"
+    },
+    {
+      "album": {
+        "name": "Andrea's Best Balkan Hits",
+        "url": "https://open.spotify.com/album/1YEc03bBuq5t5Sohmalq8n"
+      },
+      "artists": [
+        {
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209690,
+      "name": "Probvai Se (feat. Azis)",
+      "url": "https://open.spotify.com/track/2RC5CkvOzaaQeJZEO08Cdg"
     },
     {
       "album": {
@@ -33520,7 +33582,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 206052,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/3U7LRoxDT1WvbliazYkmpV"
@@ -34960,7 +35022,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -36516,7 +36578,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 178356,
       "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
       "url": "https://open.spotify.com/track/42z5ag3XE4nIApxnqnRCCO"
@@ -38252,6 +38314,28 @@
       "duration_ms": 236250,
       "name": "\u041a\u0430\u043f\u0430\u043d",
       "url": "https://open.spotify.com/track/1elhmaUKMRen3uB3Ab3DWT"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u043f\u0443\u0447\u0438\u043d\u0430",
+        "url": "https://open.spotify.com/album/5HJ4d3WvoVRPrqyfIJUdZI"
+      },
+      "artists": [
+        {
+          "name": "DJ Damyan",
+          "url": "https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI"
+        },
+        {
+          "name": "Sofi Marinova",
+          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "\u041a\u0430\u043f\u0443\u0447\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/0dBBOeVLEIysM0EqCbO7dJ"
     },
     {
       "album": {
@@ -40070,7 +40154,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"

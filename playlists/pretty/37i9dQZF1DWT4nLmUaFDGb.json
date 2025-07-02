@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 582914,
+  "num_followers": 583185,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "So in Love",
+        "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
+      },
+      "artists": [
+        {
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+        }
+      ],
+      "duration_ms": 275043,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/7IeAEMhtC2iFE910W1Ghvw"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 250546,
       "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "So in Love",
-        "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 275043,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/7IeAEMhtC2iFE910W1Ghvw"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "Oh My Love",
-      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Lover Man (Oh, Where Can You Be?)",
         "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183901,
       "name": "Lover Man (Oh, Where Can You Be?)",
       "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 176720,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "The Boy Next Door",
-        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
-      },
-      "artists": [
-        {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "David",
-          "url": "https://open.spotify.com/artist/7lWeQXC5Y8S7FBi9k2eGFv"
-        },
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "What The World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 283586,
       "name": "First Song",
       "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "The Boy Next Door",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
+      },
+      "artists": [
+        {
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "David",
+          "url": "https://open.spotify.com/artist/7lWeQXC5Y8S7FBi9k2eGFv"
+        },
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "What The World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "They Oughta Write a Song",
         "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 283026,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 130162,
       "name": "Tis Autumn",
       "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Lonely Waltz",
         "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 194973,
       "name": "Lonely Waltz",
       "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "True Love's Flame",
         "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 152360,
       "name": "A Place I Don\u2019t Know",
       "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -2111,42 +2111,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "One At A Time",
-      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
-        }
-      ],
-      "duration_ms": 226656,
-      "name": "Blue in Green",
-      "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Somehow Life Got in the Way",
         "url": "https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo"
       },
@@ -2179,6 +2143,42 @@
       "duration_ms": 336600,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "duration_ms": 226656,
+      "name": "Blue in Green",
+      "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "One At A Time",
+      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Boy Boredom",
-        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
-      },
-      "artists": [
-        {
-          "name": "Cosma Joy",
-          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2271,6 +2255,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
+      },
+      "artists": [
+        {
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "A Reckoning Bell",
-        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
-      },
-      "artists": [
-        {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "The Molly Johnson Songbook",
         "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 205040,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "A Reckoning Bell",
+        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
+      },
+      "artists": [
+        {
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -2463,6 +2463,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "Till There Was You",
+        "url": "https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "Make It Another Old Fashioned, Please",
         "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 285375,
       "name": "Philodendron",
       "url": "https://open.spotify.com/track/1lUNJmZi4S01kQsyAcXITZ"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "Till There Was You",
-        "url": "https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C"
     },
     {
       "added_at": "2025-06-27 08:22:05",

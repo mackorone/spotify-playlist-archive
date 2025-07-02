@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: No Guard Okey
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: TOTALFAT
 
-834 songs - 1 day 20 hr 12 min
+837 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
 | [Go For It](https://open.spotify.com/track/6WEC4dCGAuMfrUMoF55BD4) | [ANGER FLARES](https://open.spotify.com/artist/1KT2rYCKxq9UQ6tqnXLhSP) | [Punk Rock Compilation, Vol​​.1](https://open.spotify.com/album/5L0WzRvc31A7qaHd3yDdHK) | 1:53 | 2023-01-24 | 2023-04-19 |
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
-| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 |  |
+| [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 | 2023-12-12 | 2025-07-02 |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
 | [Goodbye Tears](https://open.spotify.com/track/3V27KAsj2RJ9b3SqXlI6JX) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [Gift from God E.P.](https://open.spotify.com/album/1MQCFv8QcQI6p8A68KA7tp) | 2:31 | 2023-12-05 | 2023-12-20 |
 | [Gotta Fight](https://open.spotify.com/track/4GlygmoLSxhHNXC23DRWeA) | [LEXT](https://open.spotify.com/artist/2jxq5Mq4Ulrm5WNSJVEauT) | [FLASHBACK](https://open.spotify.com/album/36ZIvfOxwtyKMtAvK7MB21) | 2:49 | 2025-01-21 | 2025-05-14 |
@@ -507,6 +507,7 @@
 | [Still Remember](https://open.spotify.com/track/4wqxCUJUg89gdhw41oASfr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [torches](https://open.spotify.com/album/5dQf9Hqmb9HbGO4s4ZX1mK) | 4:13 | 2022-05-12 | 2022-07-24 |
 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 | 2024-07-30 |  |
 | [Stupid!!](https://open.spotify.com/track/4sWWmy5AKtN8isxqv6crsT) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Smoke!!](https://open.spotify.com/album/7vFJI5E9v7jFfxhCCXsIX2) | 2:11 | 2022-05-12 | 2022-07-29 |
+| [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 | 2025-07-01 |  |
 | [Summertime Blue](https://open.spotify.com/track/1Cia7gpB6Kqd9qlbSs0V48) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々2](https://open.spotify.com/album/7HFOgeQ6lNbNPI4TzsaYcO) | 4:29 | 2024-09-24 |  |
 | [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 | 2022-05-12 | 2025-03-02 |
 | [SUNTOWN](https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [WOKE](https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW) | 4:41 | 2022-05-12 |  |
@@ -619,7 +620,7 @@
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
 | [こいのうた](https://open.spotify.com/track/2KPBIjQLE3tOGYQi6dyJEk) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 5:56 | 2022-05-19 | 2023-11-07 |
 | [ここにいた才能](https://open.spotify.com/track/4GBBbMpBEz4isZYAvJk3Qr) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [ここにいた才能](https://open.spotify.com/album/0kPcDIfAmEr9FNhCfuketW) | 2:15 | 2024-03-12 | 2024-05-01 |
-| [このまま僕らが大人になっても](https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [大都会に告ぐ](https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0) | 1:28 | 2024-01-16 |  |
+| [このまま僕らが大人になっても](https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [大都会に告ぐ](https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0) | 1:28 | 2024-01-16 | 2025-07-02 |
 | [これでいいのだ](https://open.spotify.com/track/5YEUcZpNQH5OujYr2vTdgE) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [これでいいのだ](https://open.spotify.com/album/6wwcWh2rUlOKDdjxtai1hF) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [さよなら涙](https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [神様からの贈物 e.p.](https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY) | 2:31 | 2023-12-05 | 2023-12-07 |
 | [さよなら絶望](https://open.spotify.com/track/0dWL3BuWTwwLiyrnUUcVER) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 1:57 | 2022-05-12 | 2023-03-22 |
@@ -734,6 +735,7 @@
 | [優しいウソで](https://open.spotify.com/track/7yFaNhX7rmlzk5kXHlu86q) | [岡田康太](https://open.spotify.com/artist/2JDyuIyYuD6CIt0Dn3DiUX), [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [優しいウソで](https://open.spotify.com/album/4s5sco6vLDdMKFEZz0UDNk) | 5:14 | 2022-09-06 | 2022-09-09 |
 | [全力男](https://open.spotify.com/track/0t2cPeuCU3izpsNpVU4U7R) | [Newrotica](https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh) | [ピエロイズム](https://open.spotify.com/album/20x8RaV0Mj6ZsF6C3pokBl) | 3:13 | 2023-06-15 | 2023-07-05 |
 | [兼愛非攻](https://open.spotify.com/track/70FWTfKhfkLe6Rai1Uoml6) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5), [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [兼愛非攻](https://open.spotify.com/album/1XrwoXSVlVBrHzwr92xser) | 3:02 | 2022-05-19 | 2022-07-26 |
+| [分岐点](https://open.spotify.com/track/1tB2Lz6LWAaQ4EJMDnlXyQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [分岐点](https://open.spotify.com/album/5b08OcgRSens2yg0lXwYPF) | 2:56 | 2025-07-01 |  |
 | [名犬ニッパー・ドッグンロール](https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [名犬ニッパー・ドッグンロール](https://open.spotify.com/album/1Pfe2R00Gm8btOSEQrU8Qs) | 4:27 | 2022-05-12 | 2022-07-27 |
 | [嘔吐く！！！](https://open.spotify.com/track/3QecP5LKr4AEW2dtS5id75) | [清 竜人TOWN](https://open.spotify.com/artist/6jnNnpti0hsYXCgVYnwvXB) | [嘔吐く！！！](https://open.spotify.com/album/4dQmWJOzfnQcp0kJ3Crfj6) | 1:16 | 2025-06-05 |  |
 | [国家の不正を暴きたい](https://open.spotify.com/track/2tuNtDVgN5cYnFHcOMNB9l) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [セカンドe.p](https://open.spotify.com/album/5IWfQmOJPgOkhYCMJ8vDaL) | 2:57 | 2022-05-12 | 2022-07-25 |
@@ -741,6 +743,7 @@
 | [地球防衛軍](https://open.spotify.com/track/1LoZELNpLb5AsX5vuCWxq1) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [地球防衛軍](https://open.spotify.com/album/18P2oW59emDr19Fk7zuyZe) | 2:02 | 2024-10-08 | 2025-03-12 |
 | [境川天国方面](https://open.spotify.com/track/6YDByGDQItlSOFlJCtsuRW) | [樂円音樂](https://open.spotify.com/artist/043ssY1AZoNzcjnxO1BAx0) | [境川天国方面](https://open.spotify.com/album/1RtnqcpFDn9fII1vJ8PPg5) | 3:38 | 2023-06-27 | 2023-07-07 |
 | [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 | 2022-05-17 | 2023-10-05 |
+| [夏ノ大蜥蜴](https://open.spotify.com/track/63fwRBRpMejI4jBL2DIB0V) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [玉屋2060%](https://open.spotify.com/artist/6xKVoR6tKgatCC2ddMnjDa) | [夏ノ大蜥蜴](https://open.spotify.com/album/6U6tzbiFlpJLAa18AMVUFH) | 2:54 | 2025-07-01 |  |
 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 | 2023-09-07 | 2024-10-09 |
 | [夜明け待つ](https://open.spotify.com/track/0ttCzije2FUanrpB43DZfB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [夜明け待つ](https://open.spotify.com/album/2PZtXYPmJ1IsLwyHh7lPI7) | 3:45 | 2022-05-12 | 2022-07-25 |
 | [夢で逢えたら](https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [DOOR](https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a) | 5:01 | 2022-05-12 |  |
@@ -805,7 +808,7 @@
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |
 | [泣き虫デスマッチ](https://open.spotify.com/track/0N9uFmMjZLBK28fwYxbFtZ) | [Garlicboys](https://open.spotify.com/artist/6nPBc3gSUZ1rQaMvD0VXZz) | [再録ベスト](https://open.spotify.com/album/39cFpk3zsEtX8aE0Mgs7WU) | 2:36 | 2022-05-12 | 2022-07-24 |
 | [火花](https://open.spotify.com/track/5sqCFj25fms531Jx41FhoX) | [SULLIVAN's FUN CLUB](https://open.spotify.com/artist/03d8MZYqxq7mS9DDxWV18U) | [Panta rhei](https://open.spotify.com/album/5yYOvOyzsVLy8AYDIENgOT) | 1:37 | 2022-05-19 | 2022-07-11 |
-| [爛々ラプソディ](https://open.spotify.com/track/3D7PGdcyvB8IeMOeCqqO0H) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [爛々ラプソディ](https://open.spotify.com/album/0QwkSO5pRNQyDcHoygANkS) | 4:02 | 2024-12-03 |  |
+| [爛々ラプソディ](https://open.spotify.com/track/3D7PGdcyvB8IeMOeCqqO0H) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [爛々ラプソディ](https://open.spotify.com/album/0QwkSO5pRNQyDcHoygANkS) | 4:02 | 2024-12-03 | 2025-07-02 |
 | [犬畜生](https://open.spotify.com/track/61BcQ7Am8RNvmeRs06vMM6) | [SAKURAN\-ZENSEN](https://open.spotify.com/artist/4mNp4owuJY4zp3A3RT2rEB) | [おどろーよ](https://open.spotify.com/album/6kQE2PT6SWpJSXkM8DJARj) | 2:09 | 2022-06-07 | 2022-07-17 |
 | [現実世界魔法少年少女](https://open.spotify.com/track/5xp0ELbtF8QyYd1tLPFYIr) | [アフロバンク](https://open.spotify.com/artist/1KeGTjgJK5pZ9F0RwtsZag) | [現実世界魔法少年少女](https://open.spotify.com/album/2dtdDytFUnRjbeVVsJyhZW) | 2:20 | 2022-05-12 | 2022-07-27 |
 | [理想と現実](https://open.spotify.com/track/4iJ8gbwQxNhdun2Vz7maj1) | [WEAKEND HEROES](https://open.spotify.com/artist/4JJsbXfC3fanYgoCP4T0F8) | [振り出しに向かう](https://open.spotify.com/album/0HvmWwHOIxjGkaPrVGgTcx) | 3:36 | 2022-05-12 | 2022-07-24 |

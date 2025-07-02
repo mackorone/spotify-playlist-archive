@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,748 likes - 49 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,752 likes - 49 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 38 | [Usa\-Holes](https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:13 |
 | 39 | [The Longest Line](https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The Longest Line](https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt) | 2:04 |
 | 40 | [We Threw Gasoline.......](https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:44 |
-| 41 | [The Irrationality of Rationality](https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:32 |
-| 42 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 |
+| 41 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 |
+| 42 | [The Irrationality of Rationality](https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:32 |
 | 43 | [60%](https://open.spotify.com/track/6Rnht7CdElV3gwvTGv6It0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:25 |
 | 44 | [I Believe in Goddess](https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 1:34 |
-| 45 | [She's Nubs](https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:05 |
-| 46 | [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 |
+| 45 | [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 |
+| 46 | [She's Nubs](https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:05 |
 | 47 | [Hobophobic \(Scared of Bums\)](https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 0:48 |
 | 48 | [Darby Crashing Your Party](https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:24 |
 | 49 | [Take Two Placebos And Call Me Lame](https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:25 |
 
-Snapshot ID: `aGCCAAAAAADF/8bE5ldvRQs0yO4Z9kgG`
+Snapshot ID: `aGHTgAAAAAABXLf8hKfevuuEVIz0F66F`

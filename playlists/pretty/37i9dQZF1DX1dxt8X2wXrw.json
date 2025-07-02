@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 69241,
+  "num_followers": 69253,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2025-06-17 14:01:22",
       "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "added_at": "2025-06-17 14:01:22",
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 263250,
       "name": "bad",
       "url": "https://open.spotify.com/track/6H67gFuycHyTOROX2M4bbs"
-    },
-    {
-      "added_at": "2025-06-17 14:01:22",
-      "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "added_at": "2025-06-17 14:01:22",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-06-17 14:01:22",
       "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
-      "added_at": "2025-06-17 14:01:22",
-      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": "2025-06-17 14:01:22",
+      "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2025-06-17 14:01:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-06-17 14:01:22",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
-      "added_at": "2025-06-17 14:01:22",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2025-06-17 14:01:22",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2025-06-17 14:01:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,736 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,768 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

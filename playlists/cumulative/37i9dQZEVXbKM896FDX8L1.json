@@ -516,10 +516,28 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/6dANcQ00uiiWoBDYVrsGvz"
     },
     {
       "album": {
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 251510,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -7684,7 +7702,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 290892,
       "name": "Dawns (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
@@ -22286,7 +22304,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 161799,
       "name": "Motorcycle Drive By",
       "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
@@ -31063,6 +31081,24 @@
     },
     {
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265427,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
+    },
+    {
+      "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
@@ -31786,7 +31822,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-02",
       "duration_ms": 241688,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
@@ -35528,7 +35564,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -35764,6 +35800,24 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
     },
     {
       "album": {
@@ -38356,6 +38410,24 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
+    },
+    {
+      "album": {
+        "name": "Young And Beautiful",
+        "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Young And Beautiful",
+      "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
     },
     {
       "album": {

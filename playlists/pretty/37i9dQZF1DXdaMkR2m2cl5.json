@@ -195,6 +195,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 136000,
       "name": "Lucky for You",
       "url": "https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "One More Second",
         "url": "https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2e4f9Tv2fwL9LCho2NT5AF"
       },
       "artists": [
         {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+          "name": "Magnolian",
+          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
         }
       ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+      "duration_ms": 272302,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/3FCt30JpAVLYSVVtEqSjoo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 212212,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/2UJ9eh4cex6ulccBrskJXd"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/2e4f9Tv2fwL9LCho2NT5AF"
-      },
-      "artists": [
-        {
-          "name": "Magnolian",
-          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
-        }
-      ],
-      "duration_ms": 272302,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/3FCt30JpAVLYSVVtEqSjoo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 220848,
+      "name": "Scattershot",
+      "url": "https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 220848,
-      "name": "Scattershot",
-      "url": "https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Friday Night Lights",
         "url": "https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 200280,
       "name": "Friday Night Lights",
       "url": "https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "when i look at you.",
-        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "when i look at you.",
-      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "when i look at you.",
+        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 232800,
+      "name": "when i look at you.",
+      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1627,6 +1611,22 @@
       "duration_ms": 200435,
       "name": "Power Over Me - Acoustic",
       "url": "https://open.spotify.com/track/47rNYq9IUveetu35c65xTw"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-09-15 04:00:00",
