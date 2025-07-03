@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 131612,
       "name": "anywhere but here",
       "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
@@ -4580,7 +4580,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 176516,
       "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
       "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
@@ -18339,6 +18339,28 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140739,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC"
+    },
+    {
+      "album": {
         "name": "Sweet Memories",
         "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
       },
@@ -18504,7 +18526,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 137842,
       "name": "take it slow",
       "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"

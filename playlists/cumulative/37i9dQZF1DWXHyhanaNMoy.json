@@ -6072,36 +6072,6 @@
     {
       "album": {
         "name": "Closer",
-        "url": "https://open.spotify.com/album/5rCJ4Ht5ShTer3L1WFo4bH"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "Udi Mars",
-          "url": "https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi"
-        },
-        {
-          "name": "GEM-Z",
-          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
-        }
-      ],
-      "date_added": "2025-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1MTWqXxXiVLIosuDReN3oi"
-    },
-    {
-      "album": {
-        "name": "Closer",
         "url": "https://open.spotify.com/album/3i2SDc94DAN8ETtpZpDYCs"
       },
       "artists": [
@@ -6116,6 +6086,36 @@
       "duration_ms": 187428,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0lEEsa1wMDOjfEOlvvx0g0"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5rCJ4Ht5ShTer3L1WFo4bH"
+      },
+      "artists": [
+        {
+          "name": "Udi Mars",
+          "url": "https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        },
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1MTWqXxXiVLIosuDReN3oi"
     },
     {
       "album": {
@@ -19500,12 +19500,12 @@
       },
       "artists": [
         {
-          "name": "ILLIE",
-          "url": "https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5"
-        },
-        {
           "name": "Jinho 9",
           "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        },
+        {
+          "name": "ILLIE",
+          "url": "https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5"
         },
         {
           "name": "GEM-Z",
@@ -30552,12 +30552,12 @@
       },
       "artists": [
         {
-          "name": "Kish",
-          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
-        },
-        {
           "name": "Masri",
           "url": "https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA"
+        },
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
         },
         {
           "name": "GEM-Z",

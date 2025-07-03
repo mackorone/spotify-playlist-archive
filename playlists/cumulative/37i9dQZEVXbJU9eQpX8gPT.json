@@ -8668,7 +8668,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 178214,
       "name": "Doberwoman",
       "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
@@ -10378,7 +10378,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 155440,
       "name": "FERNANDEL (with Oli)",
       "url": "https://open.spotify.com/track/7Gicb6BCfIgnAU8h4f5UUH"
@@ -24033,6 +24033,24 @@
     },
     {
       "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/6TACK3BkcqV7y2vN4bCNLd"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228022,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/25HQYanyzatjRv0c1vgnmM"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -25126,7 +25144,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "POPO",
       "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
@@ -34342,7 +34360,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"
@@ -34824,7 +34842,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 179468,
       "name": "\u0628\u062a\u0645\u0646\u0649 \u0623\u0646\u0633\u0627\u0643",
       "url": "https://open.spotify.com/track/0Rv0N34JIc3XGK5x2ohPOG"

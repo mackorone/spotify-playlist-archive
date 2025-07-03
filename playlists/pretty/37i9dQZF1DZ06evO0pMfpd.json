@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 75799,
+  "num_followers": 75809,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAADgxI0/G1JWpJLEwe51jUTF",
+  "snapshot_id": "aGMlAAAAAACPJlpn6/d9/e7+QiD7TMDn",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
+        "name": "16 Enormes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 220723,
-      "name": "La Chinita",
-      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
+      "duration_ms": 210407,
+      "name": "Ya Lleg\u00f3",
+      "url": "https://open.spotify.com/track/7AWSuywfNb8uEZXSyRbAO1"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Enormes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 210407,
-      "name": "Ya Lleg\u00f3",
-      "url": "https://open.spotify.com/track/7AWSuywfNb8uEZXSyRbAO1"
+      "duration_ms": 220723,
+      "name": "La Chinita",
+      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo (En Vivo at Centro de Espectaculos Rio Nilo / Guadalajara, MX)",
-        "url": "https://open.spotify.com/album/6WzJ8umxBq6Q1OA2Nw5Jyj"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 121480,
-      "name": "Jessica - En Vivo",
-      "url": "https://open.spotify.com/track/0HNpgMBlBmBRuKdeT0xHE7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Canso Ganso",
         "url": "https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 195326,
       "name": "Me Canso Ganso",
       "url": "https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo (En Vivo at Centro de Espectaculos Rio Nilo / Guadalajara, MX)",
+        "url": "https://open.spotify.com/album/6WzJ8umxBq6Q1OA2Nw5Jyj"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 121480,
+      "name": "Jessica - En Vivo",
+      "url": "https://open.spotify.com/track/0HNpgMBlBmBRuKdeT0xHE7"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
-        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 256725,
-      "name": "Mambo Del Ruletero",
-      "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie (Remastered 2025)",
         "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203556,
       "name": "Que G\u00fcera - Remastered 2025",
       "url": "https://open.spotify.com/track/7KuEJrkfPEkae82i9jw6UJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
+        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 256725,
+      "name": "Mambo Del Ruletero",
+      "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Enormes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "La Negra Catalina",
-      "url": "https://open.spotify.com/track/3SxQ87XoLgOAZIRAHpktnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie (Remastered 2025)",
         "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 214152,
       "name": "Herido - Remastered 2025",
       "url": "https://open.spotify.com/track/2cnN94JvFkQoCM3FvYipbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Enormes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "La Negra Catalina",
+      "url": "https://open.spotify.com/track/3SxQ87XoLgOAZIRAHpktnP"
     },
     {
       "added_at": null,

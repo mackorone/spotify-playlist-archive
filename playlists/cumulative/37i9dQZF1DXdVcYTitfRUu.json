@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/119h0mxguRunS06HPCClZc"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/32xDPFMeAHC6kKLcVebFo4"
+    },
+    {
+      "album": {
         "name": "Wedding Impossible (Original Soundtrack Special)",
         "url": "https://open.spotify.com/album/4SjPoZdHsCXFOz1Nb6ZKSo"
       },
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 242680,
       "name": "Flowerpot",
       "url": "https://open.spotify.com/track/67g0FMcEh3KJ7rxNvSL0vi"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 259000,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/4i1LAgQdsq1D28nPiFKPyh"
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 168013,
       "name": "Rebloom",
       "url": "https://open.spotify.com/track/5GbwES8DxcSHpRzVs9vuBQ"
@@ -2929,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Someday, The Man",
+        "url": "https://open.spotify.com/album/6NUSyUkZIVMJUql3xBowqD"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Someday, The Man",
+      "url": "https://open.spotify.com/track/2ebbekzBESFE6wWBA96Gbw"
+    },
+    {
+      "album": {
         "name": "Lovely Runner, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1"
       },
@@ -2944,6 +2980,32 @@
       "duration_ms": 201595,
       "name": "Spring Snow",
       "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/2wJ2i4UQ1Hjp1gqrTtMXgD"
+      },
+      "artists": [
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        },
+        {
+          "name": "Moon Se Yoon",
+          "url": "https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05"
+        },
+        {
+          "name": "As One",
+          "url": "https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "Stay With Me (Feat. As One)",
+      "url": "https://open.spotify.com/track/2BU4hyW2QRikHfa7on9jMp"
     },
     {
       "album": {

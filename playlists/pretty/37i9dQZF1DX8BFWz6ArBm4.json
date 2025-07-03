@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Dimos Anastasiadis",
-  "num_followers": 35451,
+  "num_followers": 35437,
   "original_name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
-        "name": "Allo",
-        "url": "https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        }
-      ],
-      "duration_ms": 213846,
-      "name": "Allo",
-      "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
-    },
-    {
-      "added_at": "2025-06-26 21:06:33",
-      "album": {
         "name": "Ypervoles",
         "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
       },
@@ -503,18 +483,22 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
-        "name": "Perifanos Aetos",
-        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav"
       },
       "artists": [
         {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
         }
       ],
-      "duration_ms": 228835,
-      "name": "Perifanos Aetos",
-      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
+      "duration_ms": 213846,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
     },
     {
       "added_at": "2025-06-26 21:06:33",
@@ -535,6 +519,22 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
+        "name": "Perifanos Aetos",
+        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "duration_ms": 228835,
+      "name": "Perifanos Aetos",
+      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
+    },
+    {
+      "added_at": "2025-06-26 21:06:33",
+      "album": {
         "name": "Me Sighorite",
         "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
-        "name": "Bam",
-        "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 166198,
-      "name": "Bam",
-      "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
-    },
-    {
-      "added_at": "2025-06-26 21:06:33",
-      "album": {
         "name": "Lekes",
         "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 255430,
       "name": "Lekes",
       "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
+    },
+    {
+      "added_at": "2025-06-26 21:06:33",
+      "album": {
+        "name": "Bam",
+        "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 166198,
+      "name": "Bam",
+      "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
     },
     {
       "added_at": "2025-06-26 21:06:33",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-06-26 21:06:33",
       "album": {
+        "name": "Tha Grapsoume Istoria",
+        "url": "https://open.spotify.com/album/25BZDyu2Ui8GqEzWCB6EMa"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        }
+      ],
+      "duration_ms": 186442,
+      "name": "Tha Grapsoume Istoria",
+      "url": "https://open.spotify.com/track/01Yi1adIapW3den379xnF4"
+    },
+    {
+      "added_at": "2025-06-26 21:06:33",
+      "album": {
         "name": "Parea Me Tin Ioulia",
         "url": "https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 159664,
       "name": "Shik Shak Shock",
       "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
-    },
-    {
-      "added_at": "2025-06-26 21:06:33",
-      "album": {
-        "name": "Tha Grapsoume Istoria",
-        "url": "https://open.spotify.com/album/25BZDyu2Ui8GqEzWCB6EMa"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Livanis",
-          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
-        }
-      ],
-      "duration_ms": 186442,
-      "name": "Tha Grapsoume Istoria",
-      "url": "https://open.spotify.com/track/01Yi1adIapW3den379xnF4"
     }
   ],
   "unique_name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Cris Mj en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,986 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,977 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 8 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 9 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 |
 | 10 | [Gatito](https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Gatito](https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8) | 2:58 |
-| 11 | [B.L.A.S.S.](https://open.spotify.com/track/3vO9dIvDnlyp9ccOKzEMW6) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ), [JS Beatz](https://open.spotify.com/artist/2n448HRkEYTXxlqFlW24G5) | [Sandunguero 3](https://open.spotify.com/album/0cFNnfR3okpX2ImbcXtej4) | 3:24 |
+| 11 | [B.L.A.S.S.](https://open.spotify.com/track/3vO9dIvDnlyp9ccOKzEMW6) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ), [JS Beatz](https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK) | [Sandunguero 3](https://open.spotify.com/album/0cFNnfR3okpX2ImbcXtej4) | 3:24 |
 | 12 | [CUANDO](https://open.spotify.com/track/64vKyzRjkcmTUntwsLxo0m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 3:06 |
 | 13 | [BLANQUITA PERLA](https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [BLANQUITA PERLA](https://open.spotify.com/album/1bIIgYf8b5YXHIADEPBPST) | 2:38 |
 | 14 | [Cuando No Era Cantante](https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:31 |

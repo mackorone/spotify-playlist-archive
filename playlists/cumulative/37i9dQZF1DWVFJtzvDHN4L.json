@@ -1939,6 +1939,32 @@
     },
     {
       "album": {
+        "name": "Light and Shadow",
+        "url": "https://open.spotify.com/album/4tSwVev13zJxh3UTdX1a5d"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Orchestra of the Swan",
+          "url": "https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq"
+        },
+        {
+          "name": "David le Page",
+          "url": "https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154853,
+      "name": "Truman Sleeps - Arr. for Orchestra by David Le Page",
+      "url": "https://open.spotify.com/track/1wBKODaRY52BIpiUshP7SZ"
+    },
+    {
+      "album": {
         "name": "Everything, Everything (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
       },

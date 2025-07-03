@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 30231,
+  "num_followers": 30279,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAACVa6fdBirFJ1QDApj7EpdQ",
+  "snapshot_id": "aGMlAAAAAAAD52oTY/JzoF+MowJUXz7X",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 202474,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pass the Salt (feat. Vince Staples)",
         "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 167010,
       "name": "Pass the Salt (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perception EP",
-        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 202474,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Since I Left You (Demo)",
-        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 207048,
-      "name": "Since I Left You - Demo",
-      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
+      "duration_ms": 183151,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+        "name": "Since I Left You (Demo)",
+        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 183151,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
+      "duration_ms": 207048,
+      "name": "Since I Left You - Demo",
+      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Le John",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Maki",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 228500,
       "name": "KABANATA",
       "url": "https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd"
@@ -4699,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "Pasado",
+        "url": "https://open.spotify.com/album/44PsVipyfXXv1s3jDG4TwE"
+      },
+      "artists": [
+        {
+          "name": "It All Started In May",
+          "url": "https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217338,
+      "name": "Pasado",
+      "url": "https://open.spotify.com/track/6CnRHAc2wQxd1q4MyQU2lr"
+    },
+    {
+      "album": {
         "name": "Pasensyoso",
         "url": "https://open.spotify.com/album/55n5ypmobXM2XfuUZosSo4"
       },
@@ -4840,6 +4858,28 @@
       "duration_ms": 263571,
       "name": "PLANETA",
       "url": "https://open.spotify.com/track/1g3bRh2QMoIFsDqjxSrALk"
+    },
+    {
+      "album": {
+        "name": "PLY4",
+        "url": "https://open.spotify.com/album/1pjgSL6hP3LmD21fwZkhQP"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "MMONN",
+          "url": "https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "PLY4",
+      "url": "https://open.spotify.com/track/3nRlbohAuTQDgKdB7RQWBk"
     },
     {
       "album": {
@@ -6070,7 +6110,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 224318,
       "name": "Time",
       "url": "https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF"

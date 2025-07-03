@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,804 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,826 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 29 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 |
 | 30 | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/album/52wMl2ktm9T0EnixrpPwBz) | 3:32 |
 | 31 | [Breakup Song \- From "Naan Sirithal"](https://open.spotify.com/track/7wXCinXw50iT5VdReFalv2) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Breakup Song \(From "Naan Sirithal"\)](https://open.spotify.com/album/6ABJBM7ORI04UjG0btqkDL) | 2:49 |
-| 32 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 |
-| 33 | [Stove Mela Kadai](https://open.spotify.com/track/0AHacDckN5t7mjpMBUcV03) | [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3) | [Stove Mela Kadai](https://open.spotify.com/album/0UjGjoszjltH9fCeJrl2Dw) | 3:19 |
+| 32 | [Stove Mela Kadai](https://open.spotify.com/track/0AHacDckN5t7mjpMBUcV03) | [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3) | [Stove Mela Kadai](https://open.spotify.com/album/0UjGjoszjltH9fCeJrl2Dw) | 3:19 |
+| 33 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 |
 | 34 | [Simtaangaran](https://open.spotify.com/track/5wAhrduRLWFLI3stVpoMV2) | [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Vipin Aneja](https://open.spotify.com/artist/019iJ3BZtBNRA4y3ZmbGS1), [Aparna Narayanan](https://open.spotify.com/artist/03CYaapmrQbh1xpKdn0c1t) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 4:42 |
 | 35 | [Dillubaru Aaja \- From "Diesel"](https://open.spotify.com/track/70IoaTklA1E3IX3YoA2KPE) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Dillubaru Aaja \(From "Diesel"\)](https://open.spotify.com/album/4YVEzRYKQE10m0tiHIuaDe) | 4:38 |
 | 36 | [Arakkonam Style \- From "Blue Star"](https://open.spotify.com/track/51NhQWfzmCMK6hB1PFKmPc) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Arakkonam Style \(From "Blue Star"\)](https://open.spotify.com/album/4LsdHtrT3Xy4XeLnQ8oFLm) | 3:11 |

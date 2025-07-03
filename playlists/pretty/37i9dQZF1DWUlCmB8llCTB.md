@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Perreando toda la noche con Cris Mj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,493 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,518 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 | 8 | [Minnie 2](https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Minnie 2](https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ) | 4:23 |
 | 9 | [Suculenta](https://open.spotify.com/track/6GC99m9l40lVVQ9ddZ4PKO) | [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Zalo La Z](https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn), [Jossed](https://open.spotify.com/artist/4kWhpupWwZKlAWpoRh2Ae0), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Suculenta](https://open.spotify.com/album/6gijD93Mj5sIb6TiZBDRt6) | 3:44 |
 | 10 | [Me Mareo](https://open.spotify.com/track/0F1svfSx95E3qDBySn719G) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Me Mareo](https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc) | 2:48 |
-| 11 | [B.L.A.S.S.](https://open.spotify.com/track/3vO9dIvDnlyp9ccOKzEMW6) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ), [JS Beatz](https://open.spotify.com/artist/2n448HRkEYTXxlqFlW24G5) | [Sandunguero 3](https://open.spotify.com/album/0cFNnfR3okpX2ImbcXtej4) | 3:24 |
+| 11 | [B.L.A.S.S.](https://open.spotify.com/track/3vO9dIvDnlyp9ccOKzEMW6) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ), [JS Beatz](https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK) | [Sandunguero 3](https://open.spotify.com/album/0cFNnfR3okpX2ImbcXtej4) | 3:24 |
 | 12 | [+ Perra + Bitch](https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:18 |
 | 13 | [Seguimo a lo Under](https://open.spotify.com/track/2jfN0x37f1x3w0PNwLMnxZ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Nico Canada](https://open.spotify.com/artist/0yqEvM2Huy4NWzhKK7hPFF) | [Seguimo a lo Under](https://open.spotify.com/album/7Bev0mIjfx6a9DKV6DHgsk) | 2:19 |
 | 14 | [YATEE](https://open.spotify.com/track/4g3eryYUnyoM8KfeTcQ86l) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [YATEE](https://open.spotify.com/album/1R6rQCFcgUWEFwDCMLKe99) | 3:30 |

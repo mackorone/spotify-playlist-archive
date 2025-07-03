@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,589 likes - 200 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,969 likes - 200 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,19 +17,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 7 | [Be Life](https://open.spotify.com/track/0q2xzgrDunFhmPgpSu149R) | [Pol Fickley](https://open.spotify.com/artist/2pStyQI4n02qA3GGPUkoVX) | [Be Life](https://open.spotify.com/album/6UNxuEpz59uE7r6J5WvhDM) | 2:10 |
 | 8 | [Afterglow](https://open.spotify.com/track/6PdMZlWariPbXnQfFREMKv) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Afterglow](https://open.spotify.com/album/73yxhEbudVxME2Ht8i5IBU) | 3:00 |
 | 9 | [Ritmo Apacible](https://open.spotify.com/track/637Tcs4eNm7evG1SDzWCtV) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Ritmo Apacible](https://open.spotify.com/album/37PBrNsuvDaeMdu9NmmsuN) | 2:29 |
-| 10 | [pour yourself a drink](https://open.spotify.com/track/1yy8AqZIVjIyeg3pYxBCai) | [cece lace](https://open.spotify.com/artist/24QzzwZteqjZM84UzNSCma) | [pour yourself a drink](https://open.spotify.com/album/6B3kZfVS8YgJverWa2bZ5y) | 1:52 |
-| 11 | [cogumelo](https://open.spotify.com/track/5CZiLnNVWHIpqDn2Mf0OKt) | [is aí](https://open.spotify.com/artist/3NwIzHY8O3sZwL94phZWo2) | [cogumelo](https://open.spotify.com/album/52jIZBbZYYQ1CG9NEgbjdZ) | 2:21 |
-| 12 | [sip at zibetto](https://open.spotify.com/track/26nx2DrmEhpfw67zsvLPgZ) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [sip at zibetto](https://open.spotify.com/album/3TVwc64dpqtucwupK2dFYR) | 2:20 |
-| 13 | [kites in the sky](https://open.spotify.com/track/1K5AVPjIGLp0HKbPR5riIY) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [kites in the sky](https://open.spotify.com/album/5MOfKdghIL13WNTBz9FPxD) | 2:14 |
-| 14 | [Mayday](https://open.spotify.com/track/4aW84GgpQvYlgMiEoZBFPy) | [Lao Von](https://open.spotify.com/artist/00bhOjj07DnsIU1KDcleW4) | [Mayday](https://open.spotify.com/album/7fRTErsJppxxXovsJkrE7w) | 2:16 |
-| 15 | [nightfall](https://open.spotify.com/track/5ecjLNs1mY61pMIA4XQRut) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [nightfall](https://open.spotify.com/album/0i7GY4fhjgv1aAuVlxNY1b) | 2:27 |
-| 16 | [Antarta](https://open.spotify.com/track/708zYiRD3KF6a3DQnXmO6T) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Antarta](https://open.spotify.com/album/1JSFswlIzsldf6SobiCzxk) | 2:24 |
-| 17 | [Weekend At The Ortegas](https://open.spotify.com/track/32SzVxbLDwCl9O4HkreOnG) | [Huang's Fine Vinyls](https://open.spotify.com/artist/3McIkQOTYiAvEQmM7QRSuz) | [Weekend At The Ortegas](https://open.spotify.com/album/14dDo8yQE9efuTsx5E7Ve3) | 2:10 |
-| 18 | [3 pm](https://open.spotify.com/track/0HoWhKBcNCjomwXVCg5Mcz) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [3 pm](https://open.spotify.com/album/4ATHCe9ZEngQ0GNxJToKQ6) | 1:57 |
-| 19 | [on the terrace](https://open.spotify.com/track/0AbuC23iUppX9MipvdXeJC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [on the terrace](https://open.spotify.com/album/1zIMPlA52mPelbyPUc5tif) | 2:07 |
-| 20 | [Right&Left](https://open.spotify.com/track/2xvcgM5or71q13LkfHiwBo) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Right&Left](https://open.spotify.com/album/2z8B6fu05BifTQmsOeQ0Cs) | 2:40 |
-| 21 | [first valentino](https://open.spotify.com/track/72vP7d1KwQ1pPsWy4xoKwt) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [first valentino](https://open.spotify.com/album/5KiLoQ8dmzV8cKhykgdOpn) | 2:04 |
-| 22 | [Easy Up](https://open.spotify.com/track/5Hfu9Uy1UQ3pyZhtn2YxTr) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [Easy Up](https://open.spotify.com/album/6yhN4pnlqWYQNktHWZEoHX) | 2:16 |
+| 10 | [cogumelo](https://open.spotify.com/track/5CZiLnNVWHIpqDn2Mf0OKt) | [is aí](https://open.spotify.com/artist/3NwIzHY8O3sZwL94phZWo2) | [cogumelo](https://open.spotify.com/album/52jIZBbZYYQ1CG9NEgbjdZ) | 2:21 |
+| 11 | [sip at zibetto](https://open.spotify.com/track/26nx2DrmEhpfw67zsvLPgZ) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [sip at zibetto](https://open.spotify.com/album/3TVwc64dpqtucwupK2dFYR) | 2:20 |
+| 12 | [kites in the sky](https://open.spotify.com/track/1K5AVPjIGLp0HKbPR5riIY) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [kites in the sky](https://open.spotify.com/album/5MOfKdghIL13WNTBz9FPxD) | 2:14 |
+| 13 | [Mayday](https://open.spotify.com/track/4aW84GgpQvYlgMiEoZBFPy) | [Lao Von](https://open.spotify.com/artist/00bhOjj07DnsIU1KDcleW4) | [Mayday](https://open.spotify.com/album/7fRTErsJppxxXovsJkrE7w) | 2:16 |
+| 14 | [nightfall](https://open.spotify.com/track/5ecjLNs1mY61pMIA4XQRut) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [nightfall](https://open.spotify.com/album/0i7GY4fhjgv1aAuVlxNY1b) | 2:27 |
+| 15 | [Antarta](https://open.spotify.com/track/708zYiRD3KF6a3DQnXmO6T) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Antarta](https://open.spotify.com/album/1JSFswlIzsldf6SobiCzxk) | 2:24 |
+| 16 | [Weekend At The Ortegas](https://open.spotify.com/track/32SzVxbLDwCl9O4HkreOnG) | [Huang's Fine Vinyls](https://open.spotify.com/artist/3McIkQOTYiAvEQmM7QRSuz) | [Weekend At The Ortegas](https://open.spotify.com/album/14dDo8yQE9efuTsx5E7Ve3) | 2:10 |
+| 17 | [3 pm](https://open.spotify.com/track/0HoWhKBcNCjomwXVCg5Mcz) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [3 pm](https://open.spotify.com/album/4ATHCe9ZEngQ0GNxJToKQ6) | 1:57 |
+| 18 | [on the terrace](https://open.spotify.com/track/0AbuC23iUppX9MipvdXeJC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [on the terrace](https://open.spotify.com/album/1zIMPlA52mPelbyPUc5tif) | 2:07 |
+| 19 | [Right&Left](https://open.spotify.com/track/2xvcgM5or71q13LkfHiwBo) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Right&Left](https://open.spotify.com/album/2z8B6fu05BifTQmsOeQ0Cs) | 2:40 |
+| 20 | [first valentino](https://open.spotify.com/track/72vP7d1KwQ1pPsWy4xoKwt) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [first valentino](https://open.spotify.com/album/5KiLoQ8dmzV8cKhykgdOpn) | 2:04 |
+| 21 | [Easy Up](https://open.spotify.com/track/5Hfu9Uy1UQ3pyZhtn2YxTr) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [Easy Up](https://open.spotify.com/album/6yhN4pnlqWYQNktHWZEoHX) | 2:16 |
+| 22 | [pour yourself a drink](https://open.spotify.com/track/1yy8AqZIVjIyeg3pYxBCai) | [cece lace](https://open.spotify.com/artist/24QzzwZteqjZM84UzNSCma) | [pour yourself a drink](https://open.spotify.com/album/6B3kZfVS8YgJverWa2bZ5y) | 1:52 |
 | 23 | [Phunsmoke](https://open.spotify.com/track/3IHGcfzz0Xk2xUcU8jXugV) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [Phunsmoke](https://open.spotify.com/album/0nOMouHfVR3QfSE9kCb117) | 1:52 |
 | 24 | [Cerebral Hemispheres](https://open.spotify.com/track/3JWHNLTvYVDDFkkVkeK5gP) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Gatekeepers Between The Spinal](https://open.spotify.com/album/27mjVyKedx9zOtRNwqTiTZ) | 2:00 |
 | 25 | [bossa cut](https://open.spotify.com/track/6YVIaAq88PGVOmfJ9nsYxP) | [Joey Silva](https://open.spotify.com/artist/4wVViv1ngnAiahW2T7UQgB) | [bossa cut](https://open.spotify.com/album/1mxng9ytsNgTFwP8HzsQmb) | 1:23 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 199 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 |
 | 200 | [Set the Sky on Fire](https://open.spotify.com/track/3jZ6PpHPQuON6Bt2PYl7Vs) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Set the Sky on Fire](https://open.spotify.com/album/2B5IYKmqCNKbUAouQeWf8L) | 2:22 |
 
-Snapshot ID: `aGJ9AAAAAACtCAfIjzSovG0wkatcjuwB`
+Snapshot ID: `aGT5TAAAAABQ5pXGklX/Anc+JBTYsLLB`

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,988 songs - 1 day 16 hr 15 min
+1,989 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [New Home Lullaby](https://open.spotify.com/track/7uTwtcj6fffHnbDzzWOraJ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Three Soft Piano Lullabies](https://open.spotify.com/album/3rQoLYUaODWodjY4mksraY) | 1:00 | 2023-07-01 | 2024-01-30 |
 | [New Life](https://open.spotify.com/track/2jwqiLJRXd5XZgWtwAoyJp) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [New Life](https://open.spotify.com/album/0bBM72Hu2XsZikGisnTizd) | 1:01 | 2022-10-21 |  |
 | [New Perspectives](https://open.spotify.com/track/2IetmvmHpsj4sJmhPREUqf) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:05 | 2022-01-27 |  |
+| [New Season](https://open.spotify.com/track/4agAItKasx4BcJRNSk1QeI) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [New Season](https://open.spotify.com/album/2jXhdsiz5AMSKkqf76Zltb) | 1:00 | 2025-07-02 |  |
 | [New Year Wishes](https://open.spotify.com/track/65KR652xNYJGqkhwxQMtJX) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [New Year Wishes](https://open.spotify.com/album/7bBMDMHX3Kc00KabFPXlsh) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [New Year Wishes \- Strings Version](https://open.spotify.com/track/5Dq2K38sUL8oMM6uUc4PWM) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [New Year Wishes \(Strings Version\)](https://open.spotify.com/album/2kahX2NWNqC24dbOXkVB1e) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Night](https://open.spotify.com/track/23zsr7wGueCok1sHABOq4y) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Night](https://open.spotify.com/album/5as3YQ1oUzCu9SCii56xU1) | 1:01 | 2024-02-09 | 2024-02-13 |

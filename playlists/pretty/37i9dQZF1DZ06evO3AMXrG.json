@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 242676,
+  "num_followers": 242689,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAACgK5jFeXl1FCyQLNc0yfmm",
+  "snapshot_id": "aGMlAAAAAABFy0/PP6SKcctYhI2DAzh/",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/71v6RtyqohRd1AVAG4nmzi"
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/67w1H4Wb3IX5yX7cIAs6DQ"
+      "duration_ms": 343963,
+      "name": "Herida Mortal",
+      "url": "https://open.spotify.com/track/7rHbPavcdiIPaxFsCyILhU"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/71v6RtyqohRd1AVAG4nmzi"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 343963,
-      "name": "Herida Mortal",
-      "url": "https://open.spotify.com/track/7rHbPavcdiIPaxFsCyILhU"
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/67w1H4Wb3IX5yX7cIAs6DQ"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Aniversario en el Luna Park",
-        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Niz5BRAbOVpC9tX2M4lCG"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 351280,
-      "name": "D\u00edas Intensos - En Vivo",
-      "url": "https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm"
+      "duration_ms": 307856,
+      "name": "Hasta la Noche (Ilegal)",
+      "url": "https://open.spotify.com/track/6hpBf1QXo93YoGDipKr5wx"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Niz5BRAbOVpC9tX2M4lCG"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 307856,
-      "name": "Hasta la Noche (Ilegal)",
-      "url": "https://open.spotify.com/track/6hpBf1QXo93YoGDipKr5wx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
       },
@@ -756,9 +740,29 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 269080,
-      "name": "Bocanada - En Vivo",
-      "url": "https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm"
+      "duration_ms": 351280,
+      "name": "D\u00edas Intensos - En Vivo",
+      "url": "https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Codigos Del Alma",
+        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
+      },
+      "artists": [
+        {
+          "name": "Rastrillos",
+          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 307720,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
     },
     {
       "added_at": null,
@@ -795,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Codigos Del Alma",
-        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
+        "name": "15 Aniversario en el Luna Park",
+        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
       },
       "artists": [
-        {
-          "name": "Rastrillos",
-          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
-        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 307720,
-      "name": "La Musica",
-      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
+      "duration_ms": 269080,
+      "name": "Bocanada - En Vivo",
+      "url": "https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm"
     },
     {
       "added_at": null,

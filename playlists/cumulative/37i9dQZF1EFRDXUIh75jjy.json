@@ -2240,6 +2240,24 @@
     {
       "album": {
         "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/7I9Y2DHOoBjmzxsGPq3R3e"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0eH1kRmBIrFA1voIUSM0c1"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
       "artists": [
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 202373,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/22YECKvXAQGWpsUUULCWcM"

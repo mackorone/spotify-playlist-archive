@@ -4,7 +4,7 @@
 
 > 
 
-1,071 songs - 2 day 5 hr 36 min
+1,076 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Akbar](https://open.spotify.com/track/357EwLZfD9vuGTZ7dxqumw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:22 | 2022-06-10 | 2023-12-14 |
 | [Akorn](https://open.spotify.com/track/2BSC5k7wf96ofscMZAcFuh) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [La Vibes](https://open.spotify.com/album/021ENWQHYyQsDDdNFuWqYz) | 2:19 | 2022-09-13 | 2023-04-12 |
 | [Album Just For You](https://open.spotify.com/track/2ZY8kGlTB6EgRKuTC2yFsv) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:45 | 2023-01-27 | 2023-04-24 |
+| [Alkaline](https://open.spotify.com/track/2HICdPKr1U60RWy1Zm5J07) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 3:10 | 2025-07-02 |  |
 | [All Alone](https://open.spotify.com/track/5aPxRnBDFJLTHPBMk2B76R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 1:53 | 2024-11-23 | 2025-05-21 |
 | [All Kap](https://open.spotify.com/track/22sCCapRrg0KvCajcGFinX) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [All Kap](https://open.spotify.com/album/3oOzhQKzdTlnfzYrMtry2P) | 2:15 | 2023-02-09 | 2023-04-12 |
 | [All of It](https://open.spotify.com/track/2Il6mimRM8nLAZlphiAQcC) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [All of It](https://open.spotify.com/album/52e8vZgod5X2s0CUib8YtJ) | 2:41 | 2025-05-16 |  |
@@ -153,6 +154,7 @@
 | [Broad Day](https://open.spotify.com/track/0u7q9Ok2YzPk7JfciLS6Gi) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:09 | 2022-02-25 | 2023-12-14 |
 | [Broad Day \- Solo Version](https://open.spotify.com/track/2RUnaSDdEsxiKNcHweIQ7g) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Broad Day \(Solo Version\)](https://open.spotify.com/album/4L9m6x0WaNoGgA0SmeU7hP) | 2:13 | 2022-12-21 | 2023-12-14 |
 | [Broccoli & Cheese](https://open.spotify.com/track/7HI9qCv1vRyn59iJGpjLHx) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 2:21 | 2023-10-03 | 2024-03-05 |
+| [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2025-07-02 |  |
 | [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 | 2025-04-23 |  |
 | [Bullet Wound \(feat\. Lil Wayne & Young Scooter\)](https://open.spotify.com/track/6t9dhGRdZ79uPGpqjyuB2q) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:27 | 2025-05-06 | 2025-05-21 |
 | [Burn](https://open.spotify.com/track/1X8E4vVoOM3BpSQlEDSjjM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:37 | 2025-04-08 |  |
@@ -180,6 +182,7 @@
 | [Chess Players \(feat\. DaBoii\)](https://open.spotify.com/track/6V6fObNpllxOL1edp0i7uY) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:11 | 2022-08-25 | 2024-04-24 |
 | [Chicago Zoo](https://open.spotify.com/track/3wehrmgzXoyZxV5JeIwerp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:28 | 2025-04-07 |  |
 | [Child \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Long Live Mexico](https://open.spotify.com/album/3JDiBSlLalqzv0GTEDRi8i) | 2:36 | 2023-12-27 | 2024-03-05 |
+| [Church](https://open.spotify.com/track/3bHLtoy9F6W2EhVzRqRy9N) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:22 | 2025-07-02 |  |
 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 | 2024-04-23 | 2024-11-06 |
 | [clap](https://open.spotify.com/track/28EZNysBMBi2VXMZJhJ5by) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Texako](https://open.spotify.com/artist/23tAJ7sIqmvk4AIdECYTdg), [Lawsy](https://open.spotify.com/artist/4uhLYYGnG9XAH7gW0VXj9f) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 3:21 | 2022-12-21 | 2023-05-09 |
 | [Clear](https://open.spotify.com/track/5KMRIyeFdvQM6WbVQlT8FB) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:30 | 2023-01-06 | 2023-03-21 |
@@ -412,6 +415,7 @@
 | [Hobos](https://open.spotify.com/track/2tOUQ0d8EePqpJltokyhWo) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Hobos](https://open.spotify.com/album/4i0w8RJhXhNU5SdLQPj7w7) | 1:12 | 2023-01-06 | 2023-05-09 |
 | [Holler!](https://open.spotify.com/track/6KvF7iueP2GDA6AuQlt24w) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:42 | 2025-05-16 |  |
 | [Hollywood](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:01 | 2022-07-23 | 2023-12-14 |
+| [Hollywood](https://open.spotify.com/track/40ZsN7vKatjbyoY8zx0DM8) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 4:01 | 2025-07-02 |  |
 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2023-03-31 | 2023-12-14 |
 | [Honeyberry 2](https://open.spotify.com/track/7DST9azASHMawTfFksNnoT) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Honeyberry 2](https://open.spotify.com/album/60ijJ6s8jhv1cHtrUId9mq) | 2:50 | 2023-04-03 | 2023-05-09 |
 | [Hop Off A Jet \(feat\. Travis Scott\)](https://open.spotify.com/track/3RZftiuTcLOqpsd8ZlwNhr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 2:54 | 2023-11-29 |  |
@@ -741,6 +745,7 @@
 | [Power Trip](https://open.spotify.com/track/3bDH7eIQ84QWdBeWwffUZD) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:24 | 2024-02-21 | 2024-04-24 |
 | [Praise Da Most High](https://open.spotify.com/track/38hxguECpjDWojaM01WJwo) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:00 | 2023-01-27 | 2023-04-24 |
 | [Precision](https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Precision](https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO) | 2:47 | 2024-03-23 | 2024-11-06 |
+| [Pretty Little Birds \(feat\. Isaiah Rashad\)](https://open.spotify.com/track/1IgePMOW0qEe1AViWgkal9) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:05 | 2025-07-02 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-12-23 | 2023-04-12 |
 | [Problem](https://open.spotify.com/track/1o5jdqnWybW9Mau4GDWPMa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 4:01 | 2024-07-09 | 2025-05-21 |
 | [Program](https://open.spotify.com/track/5lMmp06Yt5opZrKdszyh8Y) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:56 | 2024-12-04 | 2025-05-21 |

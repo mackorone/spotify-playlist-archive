@@ -1,13 +1,445 @@
 {
-  "description": "Celebrating 10 years of  the best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb?si=IDMXxIdHR1-uran8XginQA\"> Spaceluvrrr</a>. Updates every Wednesday.",
-  "num_followers": 268501,
+  "description": "Celebrating 10 years of  the best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr?si=Pi2iUrcgSE2G622YAp6GPw\"> nyan</a>. Updates every Wednesday.",
+  "num_followers": 268619,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFjQywAAAADRtsSxRbc+ClAsjgoDN+Lb",
+  "snapshot_id": "aGV9KAAAAADADpS8ChLX6rVxpTZQ0LaG",
   "tracks": [
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Spend Time",
+        "url": "https://open.spotify.com/album/2wQxkctDkVrVqKxR1SuIkw"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "duration_ms": 202974,
+      "name": "Spend Time",
+      "url": "https://open.spotify.com/track/6yV0FSSQmhlm1jz5Hd5Vbo"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/6mTOxrQnRLH9z59TgJGG76"
+      },
+      "artists": [
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU"
+        }
+      ],
+      "duration_ms": 173869,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/79caefVm1doZCBxjGeb6Xi"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Been Here Before",
+        "url": "https://open.spotify.com/album/0YqKvS9WInh9tlMeD90KOj"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 228438,
+      "name": "Been Here Before",
+      "url": "https://open.spotify.com/track/2AugNlI0B3qB6f574Msr7F"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/2LHPKf1JxTI2lDa7vrNyIU"
+      },
+      "artists": [
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g"
+        }
+      ],
+      "duration_ms": 96408,
+      "name": "You Do You",
+      "url": "https://open.spotify.com/track/0pQFEpe9ey17dMPEvAlVDR"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "traces",
+        "url": "https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f"
+      },
+      "artists": [
+        {
+          "name": "TYLER LEWIS",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "duration_ms": 205597,
+      "name": "traces",
+      "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "DSTRCTNS",
+        "url": "https://open.spotify.com/album/3pUYOXQkTKaLY2UGe9thIb"
+      },
+      "artists": [
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
+        }
+      ],
+      "duration_ms": 181941,
+      "name": "DSTRCTNS",
+      "url": "https://open.spotify.com/track/3mQYkw8dP9o3CsH4EAZYpL"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Anoint Me",
+        "url": "https://open.spotify.com/album/5xNL2ScbIWfhMrKN5veFfD"
+      },
+      "artists": [
+        {
+          "name": "Qiuntellii",
+          "url": "https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Anoint Me",
+      "url": "https://open.spotify.com/track/5yLuyc6YVPsg80sQUHnX2j"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Group Chat Therapy",
+        "url": "https://open.spotify.com/album/1MWVhyHrOkbeECrV8UYXqt"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Group Chat Therapy",
+      "url": "https://open.spotify.com/track/31mFzqBcio0xsRQyXu7AM6"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Crashout",
+        "url": "https://open.spotify.com/album/6ChZFiOz165bk82p3sHmGU"
+      },
+      "artists": [
+        {
+          "name": "Gio Genesis",
+          "url": "https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Crashout",
+      "url": "https://open.spotify.com/track/3LDYjHFnknoyMVUZO7CMiX"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Ain\u2019t Right",
+        "url": "https://open.spotify.com/album/1snlTVecWEIJ67qvC91ymu"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
+        }
+      ],
+      "duration_ms": 159885,
+      "name": "Ain\u2019t Right",
+      "url": "https://open.spotify.com/track/4Zey2b8NdUnwFERX48Q4MH"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/7unAbuOaiLjuTQxSxTzQO1"
+      },
+      "artists": [
+        {
+          "name": "Lylo Gold",
+          "url": "https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW"
+        }
+      ],
+      "duration_ms": 185835,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/1Zx9yRiuCJiYh8vCdC6y7A"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "this very thing",
+        "url": "https://open.spotify.com/album/6zDg8b92jQHQ4ac8APNQRF"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "duration_ms": 223823,
+      "name": "this very thing",
+      "url": "https://open.spotify.com/track/11JLMABcN1aHTQtCVnfzf1"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Hug My Throat",
+        "url": "https://open.spotify.com/album/07MRMAJcUU6IDbokQaBYyz"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "duration_ms": 143131,
+      "name": "Hug My Throat",
+      "url": "https://open.spotify.com/track/2Vzf40O46ca1t2d6rW6cNt"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "JUST A GIRL",
+        "url": "https://open.spotify.com/album/6xnr8breTaS8mmF7OAy9KB"
+      },
+      "artists": [
+        {
+          "name": "Ed\u00e1ja",
+          "url": "https://open.spotify.com/artist/6TTI4TbSp1raahsulxWqYe"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "JUST A GIRL",
+      "url": "https://open.spotify.com/track/1oMKHI1TtzP0aozf1nD6xi"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Rockets",
+        "url": "https://open.spotify.com/album/3c5r8y2K1oISb5YJNtuK3d"
+      },
+      "artists": [
+        {
+          "name": "NanaBcool",
+          "url": "https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq"
+        },
+        {
+          "name": "Ariel J.",
+          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
+        },
+        {
+          "name": "Greedo",
+          "url": "https://open.spotify.com/artist/23o3FXVfRj8CZIy1fGidqm"
+        }
+      ],
+      "duration_ms": 164090,
+      "name": "Rockets",
+      "url": "https://open.spotify.com/track/16cuT8nELEaWxjaHl4Wp3t"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/7sghYP0IoVJP7FSvjxNIHf"
+      },
+      "artists": [
+        {
+          "name": "Divine Lightbody",
+          "url": "https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/65BbGdeFa38YvVqpgD0xEL"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Baby Daddy",
+        "url": "https://open.spotify.com/album/1ITJyQG8Tph2gcP79lqMbq"
+      },
+      "artists": [
+        {
+          "name": "Feliciana",
+          "url": "https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY"
+        }
+      ],
+      "duration_ms": 107500,
+      "name": "Baby Daddy",
+      "url": "https://open.spotify.com/track/0lrlU8PSGuZmI1cjs4D5cb"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "rendezvous",
+        "url": "https://open.spotify.com/album/2zbNk2nQs8YOt5drhwe8hR"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "duration_ms": 156728,
+      "name": "rendezvous",
+      "url": "https://open.spotify.com/track/5qNHV389z0Ug7oYGl8k7yf"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Can I Bother You?",
+        "url": "https://open.spotify.com/album/2vS1uBfi6aLaLT2BnoOq8M"
+      },
+      "artists": [
+        {
+          "name": "Zeke Pujols",
+          "url": "https://open.spotify.com/artist/6DkjuCr4iY5W4ej8gO3MAG"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/0Eyw0sAQPLN1NZAY660rVP"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "THE WRITING'S ON THE WALL",
+        "url": "https://open.spotify.com/album/5MvUKAFfq2gNmV2G8PHFvX"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "duration_ms": 257703,
+      "name": "THE WRITING'S ON THE WALL",
+      "url": "https://open.spotify.com/track/3pyAbuLdgVjx98vRRkDegf"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Corset",
+        "url": "https://open.spotify.com/album/0f9AQ6v6P1NaReJhap2xfl"
+      },
+      "artists": [
+        {
+          "name": "iyla",
+          "url": "https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op"
+        }
+      ],
+      "duration_ms": 230254,
+      "name": "Corset",
+      "url": "https://open.spotify.com/track/111NQD3d2LHAP9Tzi2qTkp"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Risk Your (feat. Bonbero)",
+        "url": "https://open.spotify.com/album/0pCn0fBpXfo5l0cKhbsNbz"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "duration_ms": 154015,
+      "name": "Risk Your (feat. Bonbero)",
+      "url": "https://open.spotify.com/track/3VcYAT1gpB49G5gKNHQDHp"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "duration_ms": 197211,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Phenomenal Woman",
+        "url": "https://open.spotify.com/album/0rCn5qVhW48njVdzzMDcS6"
+      },
+      "artists": [
+        {
+          "name": "Shanuka",
+          "url": "https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny"
+        }
+      ],
+      "duration_ms": 228112,
+      "name": "Phenomenal Woman",
+      "url": "https://open.spotify.com/track/2qLR1a051WNtgV2ozemUPO"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "Props",
+        "url": "https://open.spotify.com/album/3jBdfSNTrbcWqPY5CAB06f"
+      },
+      "artists": [
+        {
+          "name": "Nate Curry",
+          "url": "https://open.spotify.com/artist/6nQU2fgCIK8xSFT8weMxP4"
+        }
+      ],
+      "duration_ms": 105974,
+      "name": "Props",
+      "url": "https://open.spotify.com/track/4gC9jVU5ZgMX0LA5q3zWDy"
+    },
+    {
+      "added_at": "2025-07-02 18:40:40",
+      "album": {
+        "name": "The Same Things",
+        "url": "https://open.spotify.com/album/1y4JOVJOfz1oPWzz4UMthh"
+      },
+      "artists": [
+        {
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Same Things",
+      "url": "https://open.spotify.com/track/77eP8LMwfjDeyQzbX3mMLA"
+    },
     {
       "added_at": "2025-06-06 15:39:44",
       "album": {

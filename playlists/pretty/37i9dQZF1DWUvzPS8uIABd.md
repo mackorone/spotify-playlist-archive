@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa VIIVI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,668 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,691 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 5 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
 | 6 | [Kultainen sukupolvi](https://open.spotify.com/track/4YklVPiwl9oF6mVsdQiVCc) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Kultainen sukupolvi](https://open.spotify.com/album/2jWK2gDIISWMqU9xVoQbnj) | 3:37 |
 | 7 | [Kaihosielu](https://open.spotify.com/track/6bh5bVJ3agYEEZAduje0Zu) | [Komiat](https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna) | [Kaihosielu](https://open.spotify.com/album/3DrQkAh6kHbcxVPJd71vaI) | 2:45 |
-| 8 | [Tämän kesän viheltelen](https://open.spotify.com/track/4pPImvY6UT7E0R1kozRkM7) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Tämän kesän viheltelen](https://open.spotify.com/album/1upsapQ1u3t0K2VVhpjb4l) | 3:08 |
-| 9 | [Kesähäät](https://open.spotify.com/track/1UlzvdqHMbekpDOJ6zySpW) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Kesähäät](https://open.spotify.com/album/2qd6wpbK9t2dnsQCf3kDmT) | 3:15 |
-| 10 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
-| 11 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 |
-| 12 | [Don Julio](https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Don Julio](https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX) | 2:55 |
-| 13 | [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 |
-| 14 | [Tuhat ja yksi yötä \(feat\. Pyrythekid\)](https://open.spotify.com/track/20Nt3aOo3er6LNt7SMg8dY) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Tuhat ja yksi yötä \(feat\. Pyrythekid\)](https://open.spotify.com/album/2hkWZnhsUo3JhklbUvinlV) | 2:37 |
-| 15 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
+| 8 | [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 |
+| 9 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 |
+| 10 | [Tämän kesän viheltelen](https://open.spotify.com/track/4pPImvY6UT7E0R1kozRkM7) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Tämän kesän viheltelen](https://open.spotify.com/album/1upsapQ1u3t0K2VVhpjb4l) | 3:08 |
+| 11 | [Kesähäät](https://open.spotify.com/track/1UlzvdqHMbekpDOJ6zySpW) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Kesähäät](https://open.spotify.com/album/2qd6wpbK9t2dnsQCf3kDmT) | 3:15 |
+| 12 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
+| 13 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 |
+| 14 | [Don Julio](https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Don Julio](https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX) | 2:55 |
+| 15 | [Tuhat ja yksi yötä \(feat\. Pyrythekid\)](https://open.spotify.com/track/20Nt3aOo3er6LNt7SMg8dY) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Tuhat ja yksi yötä \(feat\. Pyrythekid\)](https://open.spotify.com/album/2hkWZnhsUo3JhklbUvinlV) | 2:37 |
 | 16 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
 | 17 | [Ollaanko tämä kesä näin?](https://open.spotify.com/track/45W3OW8VgBNjb8lOpPXWeT) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Ikuiset lapset](https://open.spotify.com/album/06d2wF12THMtOee4tagK7K) | 4:17 |
 | 18 | [Räppii, Seksii & Huumeita](https://open.spotify.com/track/1hNTGoZc51wAyqjbE6IUbT) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Räppii, Seksii & Huumeita](https://open.spotify.com/album/0XhierAt8V97usuha8tTzF) | 2:31 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 78 | [Kuka sä luulit et mä oon?](https://open.spotify.com/track/6rfRgjZ5IrLlGqpTcytRQo) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Kuka sä luulit et mä oon?](https://open.spotify.com/album/2cNltXIjkuCZxJugsd7Fxe) | 2:36 |
 | 79 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 |
 
-Snapshot ID: `aGI/KwAAAAALdv1v8s2eQX5VynjDR/HK`
+Snapshot ID: `aGTZ2wAAAAB3M6+dbKR8MNfISetekcq/`

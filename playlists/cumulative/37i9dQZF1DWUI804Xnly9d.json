@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "BERUKHI",
+        "url": "https://open.spotify.com/album/3boFPzadTWozEURysiWHID"
+      },
+      "artists": [
+        {
+          "name": "Kuhu Gracia",
+          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166774,
+      "name": "BERUKHI",
+      "url": "https://open.spotify.com/track/0gqGFRHkJe7GQiM27WK8Du"
+    },
+    {
+      "album": {
         "name": "Betabiyaan",
         "url": "https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4"
       },
@@ -7338,7 +7356,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 158506,
       "name": "noor",
       "url": "https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn"

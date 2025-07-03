@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 
 > but listened to this instead
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,642 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,685 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hometown Glory \(Piano Instrumental\)](https://open.spotify.com/track/1rNDXWs0V2lQ4Efiz28rOa) | [At The Piano](https://open.spotify.com/artist/4yUYZXIvGk4SVFLYKEDQrD) | [Hometown Glory \(Piano Instrumental\)](https://open.spotify.com/album/3w1kQDMdLX3EMBpYb5FbIt) | 4:15 |
-| 2 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 |
-| 3 | [That's So True](https://open.spotify.com/track/3wfQvxeJREWqSMceBL40Fc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [That's So True](https://open.spotify.com/album/4pVfyoenHrnYwSRlJalQ4H) | 3:34 |
-| 4 | [Ordinary \- Piano Version](https://open.spotify.com/track/0SiBf9yNAadpXdYku3PRpS) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [Ordinary \(Piano Version\)](https://open.spotify.com/album/7nSH4KNxlGnTQLh8iNIjiU) | 3:13 |
-| 5 | [Good Luck, Babe!](https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Good Luck, Babe!](https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE) | 2:28 |
-| 6 | [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 |
-| 7 | [APT\. \- Piano Version](https://open.spotify.com/track/075QR1Nby1qAXjSlfucYPK) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [APT\. \(Piano Version\)](https://open.spotify.com/album/4eJUPB3Yurg6xJ5xLivd8J) | 2:49 |
-| 8 | [Anti\-Hero](https://open.spotify.com/track/3RxfF2edq7exdBu3qJMsRX) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Anti\-Hero](https://open.spotify.com/album/4frVM4kdubuOKtEozblrcY) | 3:03 |
-| 9 | [Revolving Door](https://open.spotify.com/track/5nUvBVsd05Zfl3lh4Z0ZNO) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Revolving Door](https://open.spotify.com/album/2SU9GgNS6xwdr1RSfpiQ8j) | 3:33 |
+| 1 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 |
+| 2 | [That's So True](https://open.spotify.com/track/3wfQvxeJREWqSMceBL40Fc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [That's So True](https://open.spotify.com/album/4pVfyoenHrnYwSRlJalQ4H) | 3:34 |
+| 3 | [Ordinary \- Piano Version](https://open.spotify.com/track/0SiBf9yNAadpXdYku3PRpS) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [Ordinary \(Piano Version\)](https://open.spotify.com/album/7nSH4KNxlGnTQLh8iNIjiU) | 3:13 |
+| 4 | [Good Luck, Babe!](https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Good Luck, Babe!](https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE) | 2:28 |
+| 5 | [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 |
+| 6 | [APT\. \- Piano Version](https://open.spotify.com/track/075QR1Nby1qAXjSlfucYPK) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [APT\. \(Piano Version\)](https://open.spotify.com/album/4eJUPB3Yurg6xJ5xLivd8J) | 2:49 |
+| 7 | [Anti\-Hero](https://open.spotify.com/track/3RxfF2edq7exdBu3qJMsRX) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Anti\-Hero](https://open.spotify.com/album/4frVM4kdubuOKtEozblrcY) | 3:03 |
+| 8 | [Revolving Door](https://open.spotify.com/track/5nUvBVsd05Zfl3lh4Z0ZNO) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Revolving Door](https://open.spotify.com/album/2SU9GgNS6xwdr1RSfpiQ8j) | 3:33 |
+| 9 | [Hometown Glory \(Piano Instrumental\)](https://open.spotify.com/track/1rNDXWs0V2lQ4Efiz28rOa) | [At The Piano](https://open.spotify.com/artist/4yUYZXIvGk4SVFLYKEDQrD) | [Hometown Glory \(Piano Instrumental\)](https://open.spotify.com/album/3w1kQDMdLX3EMBpYb5FbIt) | 4:15 |
 | 10 | [Apple](https://open.spotify.com/track/2rrwo4gjTvrZi2N6hvl3Bs) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Apple: Piano Instrumental](https://open.spotify.com/album/2pZSORHl4cVj4kgRfUIJYq) | 1:45 |
 | 11 | [Abracadabra](https://open.spotify.com/track/4UtNQyXM4o0dcGsfpCfhNt) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [Abracadabra](https://open.spotify.com/album/4pA9jajBJEWCf6QNiW8QUi) | 2:12 |
 | 12 | [august](https://open.spotify.com/track/3hSSzo9nGgxJ8fr0Bwhnpp) | [Tindré](https://open.spotify.com/artist/5ZcHw4sYgIBPo09KgHLtvf) | [august](https://open.spotify.com/album/5djItPLbGgnwYkZpLDUv6c) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 | 49 | [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 |
 | 50 | [Peaches \- Piano](https://open.spotify.com/track/3ZnxEuvghnpte4SGlRbIXF) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 3:05 |
 
-Snapshot ID: `aF1ZIwAAAADeoJN75l1oNDCiigOnouK/`
+Snapshot ID: `aGUy5gAAAAD1qN/JsE12KsKFXkdBq9LX`

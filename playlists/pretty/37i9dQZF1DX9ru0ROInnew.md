@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,168 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,206 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 62 | [Estamos Clear](https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Estamos Clear](https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x) | 4:35 |
 | 63 | [Como Soy II](https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Como Soy II](https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f) | 5:41 |
 | 64 | [Sigo Fresh \- Remix](https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sigo Fresh \(Remix\)](https://open.spotify.com/album/2wqXRIXMzKipo603C9C2ft) | 4:34 |
-| 65 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 |
-| 66 | [Bodak Yellow \(feat\. Messiah\) \- Latin Trap Remix](https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Bodak Yellow \(feat\. Messiah\) \[Latin Trap Remix\]](https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU) | 3:42 |
+| 65 | [Bodak Yellow \(feat\. Messiah\) \- Latin Trap Remix](https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Bodak Yellow \(feat\. Messiah\) \[Latin Trap Remix\]](https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU) | 3:42 |
+| 66 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 |
 | 67 | [No Le Bajé](https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:45 |
 | 68 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 |
 | 69 | [Tyson](https://open.spotify.com/track/7sS5P7HJpRI6dslzJ55z6C) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Tyson](https://open.spotify.com/album/7bQIXLkfIzUnpEqfDElNA0) | 2:41 |

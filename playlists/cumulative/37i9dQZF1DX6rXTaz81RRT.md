@@ -2,7 +2,7 @@
 
 ### [Top Video Hits España](https://open.spotify.com/playlist/37i9dQZF1DX6rXTaz81RRT)
 
-> Los videoclips de los últimos años más populares\. Solo en Premium.
+> Los videoclips más populares de los últimos años\. Solo en Premium.
 
 230 songs - 14 hr 25 min
 

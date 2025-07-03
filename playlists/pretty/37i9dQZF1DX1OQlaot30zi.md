@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di DJ Shocca,  Tony Boy, Fabri Fibra, Icy Subzero, Promessa,  Villabanks, Frezza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,668 likes - 140 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,674 likes - 140 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 3 | [Russian Roulette \(feat\. Ernia\)](https://open.spotify.com/track/4KZp6Bkk3ydyXBjc1lgwOr) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Mentre Los Angeles Brucia \(Bonus\)](https://open.spotify.com/album/0bXXnGT7RghELWV1h81SjA) | 2:19 |
 | 4 | [KILLA KILLA \(feat\. Guè, Faneto & Melons\)](https://open.spotify.com/track/38BP0SrMvhIHggZxOCxw9S) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [KILLA KILLA \(feat\. Guè, Faneto & Melons\)](https://open.spotify.com/album/65yE4D2rf9wOyVe711wSLo) | 3:05 |
 | 5 | [Fiamma Viva](https://open.spotify.com/track/7auf659meNLVarSccVCnvJ) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Primo](https://open.spotify.com/artist/1CO6gl6tx1Ter4PZKKE2NT), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 3:43 |
-| 6 | [Oppio \(feat\. Simba La Rue\)](https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:47 |
+| 6 | [Oppio \(feat\. Simba La Rue\)](https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:47 |
 | 7 | [È ANDATA BENE](https://open.spotify.com/track/7v6MU8noZbr8uv0VHZs3g2) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/6cUscVIjYVXtaK9ctUIT5C) | 2:12 |
 | 8 | [ZWAG](https://open.spotify.com/track/4PMKj9iU8aMPT7WzhUenet) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [ZWAG](https://open.spotify.com/album/5SBrKnarmYAxeXKIKio9Mo) | 3:14 |
 | 9 | [GOTTI](https://open.spotify.com/track/6rN2wG1mw83UckLIdaiVcm) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [GOTTI](https://open.spotify.com/album/79dt9XYgzco3QEoYukK5pg) | 2:17 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 139 | [Buio Pesto](https://open.spotify.com/track/3jCMX9UIn78O0eBpRQrhGF) | [Brahma](https://open.spotify.com/artist/5Jw9oxZhjreU9LvjKN2Ptp), [Gianno](https://open.spotify.com/artist/2NO3AVCKs2bl3Zpjgv3xmu) | [Buio Pesto](https://open.spotify.com/album/0O8eDqBRRrejZq1hJjcZfx) | 2:22 |
 | 140 | [MEZZE VERITÀ feat\. Kid Yugi \(Jam\)](https://open.spotify.com/track/1JhX0OZnQNEhCKpseEvUiv) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA \(Jam\)](https://open.spotify.com/album/1xcWRxlgPGOEhzSeDUB0pS) | 3:46 |
 
-Snapshot ID: `aGKnqgAAAACNpxUqwfBuYjLj6ECJ/ruG`
+Snapshot ID: `aGTqXwAAAACoL1W/nR1OMBwHH4pV2+i6`

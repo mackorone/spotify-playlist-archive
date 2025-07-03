@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Kenya Grace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,392 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,405 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 34 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 |
 | 35 | [Lipsync](https://open.spotify.com/track/0KBBHOGtufMl66CpoUlZsc) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Lipsync](https://open.spotify.com/album/6aaxvD1ddFiPcwvN8BkXbD) | 2:43 |
 | 36 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 |
-| 37 | [Blue Sky](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 |
+| 37 | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 |
 | 38 | [On and On \(You Lie\)](https://open.spotify.com/track/0IW5kFYSyUhsKy0Y7Q8Ygn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [On and On \(You Lie\)](https://open.spotify.com/album/1WH8dMwBKHgamutE49x73O) | 6:00 |
 | 39 | [C C C](https://open.spotify.com/track/2SXLCcrH227dQ1ffi7PbnH) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [C C C](https://open.spotify.com/album/4LxaKUWOsO7I15CMN0wVxC) | 3:06 |
 | 40 | [2011](https://open.spotify.com/track/1yR8bzEUw1hNCwdl0oXXWV) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [2011](https://open.spotify.com/album/2BAazPbKqWC2V8HbcINUdg) | 4:29 |

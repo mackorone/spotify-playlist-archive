@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "The Family Jewels (Deluxe)",
+        "url": "https://open.spotify.com/album/3vcPZf2pYrjqrHNVkPTDVL"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3mfwweW6FkfixF5DFP2TTJ"
+    },
+    {
+      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },

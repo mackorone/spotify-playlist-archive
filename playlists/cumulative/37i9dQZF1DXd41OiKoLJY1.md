@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Celebrating 10 years of fresh releases from your future favorite artists\. Cover:  AEUNA Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover:  AEUNA Artwork: Isu Kim
 
 3,376 songs - 8 day 5 hr 54 min
 

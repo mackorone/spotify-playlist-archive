@@ -1,13 +1,61 @@
 {
   "description": "Celebrating 10 years of the best new folk music from independent artists. Cover: Tommy W\u00c1",
-  "num_followers": 91792,
+  "num_followers": 91880,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFwdGQAAAAAIVFHR3ulbrxwyOpOFwKsZ",
+  "snapshot_id": "aGSuxgAAAACtm5TLduNHA2drrPkHwUDa",
   "tracks": [
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "we all live on borrowed time",
+        "url": "https://open.spotify.com/album/7xHrjeRqu3cH5ztteku5Ws"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 244617,
+      "name": "that's the day",
+      "url": "https://open.spotify.com/track/1awcKCzrr91kebm4p9gjhz"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Sweet To Know Ya",
+        "url": "https://open.spotify.com/album/1YYXsRrMZZeOROrmAA27LR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Sweet To Know Ya",
+      "url": "https://open.spotify.com/track/7aP8uKXvoSLeEzV8Vr1OQG"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/45d1Bo9dyNq53zEfhrfMg4"
+      },
+      "artists": [
+        {
+          "name": "Laney Tripp",
+          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "Sea",
+      "url": "https://open.spotify.com/track/1jlONRx2cKvut2oyWKDIMu"
+    },
     {
       "added_at": "2025-06-18 04:00:16",
       "album": {
@@ -27,6 +75,22 @@
     {
       "added_at": "2025-06-25 16:00:25",
       "album": {
+        "name": "Moth Song",
+        "url": "https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 303902,
+      "name": "Moth Song",
+      "url": "https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6"
+    },
+    {
+      "added_at": "2025-06-25 16:00:25",
+      "album": {
         "name": "My Love Is Free",
         "url": "https://open.spotify.com/album/2q2HUL8YO2qRKSCpQFVkmk"
       },
@@ -41,20 +105,224 @@
       "url": "https://open.spotify.com/track/1TzdiVSUg4y1FzVYQKFx2P"
     },
     {
-      "added_at": "2025-06-25 16:00:25",
+      "added_at": "2025-07-02 04:00:06",
       "album": {
-        "name": "Moth Song",
-        "url": "https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN"
+        "name": "I Forget Myself",
+        "url": "https://open.spotify.com/album/3qvh4z5Tbe4th26RZpqHFe"
       },
       "artists": [
         {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+          "name": "Akeeda",
+          "url": "https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK"
         }
       ],
-      "duration_ms": 303902,
-      "name": "Moth Song",
-      "url": "https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6"
+      "duration_ms": 216237,
+      "name": "Fucking Games",
+      "url": "https://open.spotify.com/track/2AeEdDUGn1iUilYGcsuLtk"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Clear as Mud Pt. 1",
+        "url": "https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO"
+      },
+      "artists": [
+        {
+          "name": "Maddy Jane",
+          "url": "https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "June",
+      "url": "https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Life After Death",
+        "url": "https://open.spotify.com/album/6RRnGTNdhhNUVTbB8MtsuS"
+      },
+      "artists": [
+        {
+          "name": "Wells Ferrari",
+          "url": "https://open.spotify.com/artist/7y3H6facbUSu09KdIycZu0"
+        },
+        {
+          "name": "Mikey Ferrari",
+          "url": "https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7"
+        },
+        {
+          "name": "Will Wells",
+          "url": "https://open.spotify.com/artist/4okeaWBRoehWh3jJ9x6N4Z"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Life After Death",
+      "url": "https://open.spotify.com/track/1ywudI4qwz79dpTC8l5ugL"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "where will I go now?",
+        "url": "https://open.spotify.com/album/1ehQOCO0mZBfqRJ6kBMt5V"
+      },
+      "artists": [
+        {
+          "name": "Downey Chase",
+          "url": "https://open.spotify.com/artist/3JXZ7DSkdeW6hqJ06iNJOl"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "where will I go now?",
+      "url": "https://open.spotify.com/track/0B5E9CqUZspiokHwi3KmXg"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "If I Can\u2019t Win (With You)",
+        "url": "https://open.spotify.com/album/5YvyCqKE2qP59fJjGSIONc"
+      },
+      "artists": [
+        {
+          "name": "The Pink Stones",
+          "url": "https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG"
+        }
+      ],
+      "duration_ms": 200073,
+      "name": "If I Can\u2019t Win (With You)",
+      "url": "https://open.spotify.com/track/0xcQe52wlh6AcndADrKF7S"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Jump in the River",
+        "url": "https://open.spotify.com/album/3Q6bPJcC3JTJkJ090K4NvP"
+      },
+      "artists": [
+        {
+          "name": "Lucie Glang",
+          "url": "https://open.spotify.com/artist/0ZS4xe2Yw2THFYyyUTtoBg"
+        }
+      ],
+      "duration_ms": 156961,
+      "name": "Jump in the River",
+      "url": "https://open.spotify.com/track/443yUzBexJe8ntrrzp4WXb"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Merida",
+        "url": "https://open.spotify.com/album/4cI86sAuUiQeVCGomCJHI9"
+      },
+      "artists": [
+        {
+          "name": "Charlie South",
+          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Merida",
+      "url": "https://open.spotify.com/track/6rsdvabOWtm7ZnqiTpqo2W"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Who Will I Be",
+        "url": "https://open.spotify.com/album/5RADu2hJ59HU0BoO5B2tpK"
+      },
+      "artists": [
+        {
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+        },
+        {
+          "name": "Rey Louise",
+          "url": "https://open.spotify.com/artist/26qT4A2CHcbJ5Hb2UXqaVn"
+        }
+      ],
+      "duration_ms": 248625,
+      "name": "Who Will I Be",
+      "url": "https://open.spotify.com/track/0NlWFWA5H6L3Q60Xp4a1Ja"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Memories of You",
+        "url": "https://open.spotify.com/album/248WywElLRgttC7UEVmRr8"
+      },
+      "artists": [
+        {
+          "name": "Dillan Witherow",
+          "url": "https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl"
+        }
+      ],
+      "duration_ms": 170546,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/35MyWV54XDMuTTvj8Ji41J"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Landing Gear",
+        "url": "https://open.spotify.com/album/7tDoQDoDkXy45wJGdbBM2K"
+      },
+      "artists": [
+        {
+          "name": "Henry Nowhere",
+          "url": "https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq"
+        }
+      ],
+      "duration_ms": 182100,
+      "name": "Landing Gear",
+      "url": "https://open.spotify.com/track/0w5cD9p8fPdnSLrOGXiYfK"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Strangest Feeling",
+        "url": "https://open.spotify.com/album/7yseyiVWegHcUlc74AeqHB"
+      },
+      "artists": [
+        {
+          "name": "Bonniesongs",
+          "url": "https://open.spotify.com/artist/4l0pF7b69t1iGNbwfFZOKd"
+        }
+      ],
+      "duration_ms": 272414,
+      "name": "Strangest Feeling",
+      "url": "https://open.spotify.com/track/4ppKxtET7NORgNGxMCXY6a"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Favorite Color",
+        "url": "https://open.spotify.com/album/0fSoY0HZvJBXpevw3MZfcD"
+      },
+      "artists": [
+        {
+          "name": "Paper Matador",
+          "url": "https://open.spotify.com/artist/04gqlZwccLi0nzbhQF5LS0"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Favorite Color",
+      "url": "https://open.spotify.com/track/6PKj1wyALqYsegpRLi09XL"
+    },
+    {
+      "added_at": "2025-07-02 04:00:06",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/50xzv7Qf3ARYDpIkIDzda9"
+      },
+      "artists": [
+        {
+          "name": "Ellie Williams",
+          "url": "https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/5rS0qCBXl9z48gNG0nvTjR"
     },
     {
       "added_at": "2025-06-25 16:00:25",
@@ -1843,118 +2111,6 @@
       "duration_ms": 145947,
       "name": "Outfield",
       "url": "https://open.spotify.com/track/1UmQY448DqdhVoF0o9uQHL"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "colors",
-        "url": "https://open.spotify.com/album/04JSydmkVKxY2q6knq38Mz"
-      },
-      "artists": [
-        {
-          "name": "beaming",
-          "url": "https://open.spotify.com/artist/3CXe43s6Cq1U4ycpcxFvui"
-        }
-      ],
-      "duration_ms": 219117,
-      "name": "colors",
-      "url": "https://open.spotify.com/track/11mykBRWU4tOhCjkemSNgi"
-    },
-    {
-      "added_at": "2025-04-24 17:40:57",
-      "album": {
-        "name": "Texas Sky",
-        "url": "https://open.spotify.com/album/2Zdswn5lbaiwDuebt8NwZ6"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
-        }
-      ],
-      "duration_ms": 213679,
-      "name": "Texas Sky",
-      "url": "https://open.spotify.com/track/5kD9Yd1ZSKaflLXryRWJJd"
-    },
-    {
-      "added_at": "2025-04-30 16:00:25",
-      "album": {
-        "name": "Daddy's Trip To Brazil",
-        "url": "https://open.spotify.com/album/4YAp0Bhuu5aYMdxjqnWDYa"
-      },
-      "artists": [
-        {
-          "name": "Marc Ribot",
-          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
-        }
-      ],
-      "duration_ms": 233358,
-      "name": "Daddy's Trip to Brazil",
-      "url": "https://open.spotify.com/track/5ffloLvZmxVtrsauMj0G2k"
-    },
-    {
-      "added_at": "2025-04-24 17:40:57",
-      "album": {
-        "name": "Snooze",
-        "url": "https://open.spotify.com/album/0Msy8PYA8OLNQykLdjNImB"
-      },
-      "artists": [
-        {
-          "name": "Sun Child",
-          "url": "https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX"
-        }
-      ],
-      "duration_ms": 233834,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/2G7zEVmMLsDfsg4wEUIEd4"
-    },
-    {
-      "added_at": "2025-04-17 15:55:46",
-      "album": {
-        "name": "DNA Guarantee",
-        "url": "https://open.spotify.com/album/1zbnbjtdrmlJnpEfvvubad"
-      },
-      "artists": [
-        {
-          "name": "Kodi Rhianne",
-          "url": "https://open.spotify.com/artist/0SxMiauNf6nzyx8nicQ4ow"
-        }
-      ],
-      "duration_ms": 225725,
-      "name": "DNA Guarantee",
-      "url": "https://open.spotify.com/track/7EimwDV1rXzsiXYGXVUEkC"
-    },
-    {
-      "added_at": "2025-04-24 17:40:57",
-      "album": {
-        "name": "Metal in the Microwave",
-        "url": "https://open.spotify.com/album/4kibxtgrlmnCBcvsDB2Naw"
-      },
-      "artists": [
-        {
-          "name": "Will Fox",
-          "url": "https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Overthinking It",
-      "url": "https://open.spotify.com/track/3Pb5oXl65fQsohOeTbnSVT"
-    },
-    {
-      "added_at": "2025-04-24 17:40:57",
-      "album": {
-        "name": "Velvet Blues",
-        "url": "https://open.spotify.com/album/1tuHj0atuhVAVujOV9I6Ev"
-      },
-      "artists": [
-        {
-          "name": "BODHI",
-          "url": "https://open.spotify.com/artist/5bHle2xQVzFgtUxLUhTbHt"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Velvet Blues",
-      "url": "https://open.spotify.com/track/2FNJU8ZdNVihctRSmH83il"
     },
     {
       "added_at": "2025-04-16 20:37:41",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover the future of Punjabi Pop!  Cover: Davvy
+> Discover the future of Punjabi Pop!  Cover: Anmol Dhandra
 
-364 songs - 17 hr 3 min
+365 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Loaded](https://open.spotify.com/track/7c3LluuFcYY9b9n3L0WrTD) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/6j6Wb14YgJXj3sh8JIGFI0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 3:30 | 2025-04-30 |  |
 | [LONE WOLF](https://open.spotify.com/track/6h2MCDsH9CmBrsMSVNKeGT) | [TERA MUSAFIRR](https://open.spotify.com/artist/6GD40pnf6z91XAxh1j2EWj) | [LONE WOLF](https://open.spotify.com/album/2wAMkmFfh7YMnX43KoLhCb) | 5:07 | 2025-02-25 | 2025-03-12 |
 | [Long Distance](https://open.spotify.com/track/2uGov0C50BMmNhWEjznwIL) | [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Deep Bajheriwala](https://open.spotify.com/artist/7rZrBECX3UBrOBloYmC7jL) | [Long Distance](https://open.spotify.com/album/32aTwYbiLXm2Gna2RAkm3h) | 2:19 | 2024-07-03 | 2025-01-09 |
-| [LOOK WHAT YOU DID](https://open.spotify.com/track/4r7X7gGvgtqEqPcCHchq7I) | [VE5](https://open.spotify.com/artist/5NhLt9FJxnYM5N2mAeeCIU) | [LOOK WHAT YOU DID](https://open.spotify.com/album/0MmBoWwlm7hwmczQZORi7M) | 2:27 | 2025-06-11 |  |
+| [LOOK WHAT YOU DID](https://open.spotify.com/track/4r7X7gGvgtqEqPcCHchq7I) | [VE5](https://open.spotify.com/artist/5NhLt9FJxnYM5N2mAeeCIU) | [LOOK WHAT YOU DID](https://open.spotify.com/album/0MmBoWwlm7hwmczQZORi7M) | 2:27 | 2025-06-11 | 2025-07-03 |
 | [Lovelorn](https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn) | [Pavvi Singh](https://open.spotify.com/artist/4p8vDVPxlrR6IVZvIwqsJF) | [Lovelorn](https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a) | 2:36 | 2024-07-03 | 2024-07-24 |
 | [Lowkey Lover](https://open.spotify.com/track/2vRuQppvqmbJUAgwKeqQIK) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Lowkey Lover](https://open.spotify.com/album/0chtCbqOVG9jc8mbAsdxj3) | 2:20 | 2025-02-12 | 2025-04-24 |
 | [Main Teriyan](https://open.spotify.com/track/596eXAmuLYKtUXVBgImgr2) | [Kalra Saab](https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD) | [Main Teriyan](https://open.spotify.com/album/50eQJlIfGhAa17U636kEei) | 3:35 | 2024-07-23 | 2024-08-03 |
@@ -279,6 +279,7 @@
 | [Raia](https://open.spotify.com/track/52kEz25TXZ6FobnUH6kWHp) | [Roohan](https://open.spotify.com/artist/4hxfheOtGndp6m7J666vcj), [Aden](https://open.spotify.com/artist/6A393NuWg2ACAFPefgiaFv), [Raja](https://open.spotify.com/artist/5XdYfUuAbJI8JPxA4WKycY) | [Raia](https://open.spotify.com/album/13g9hnfHAbRkX4PCz1U25j) | 2:30 | 2024-10-02 | 2025-01-30 |
 | [RECOMMEND](https://open.spotify.com/track/6DritQPJhlWshwrdrDohU0) | [Simran Veer](https://open.spotify.com/artist/7u5oYrUADeMQvMy37Y2Yi3) | [RECOMMEND](https://open.spotify.com/album/5ybV5EIKnfI9YMU50SwTnO) | 2:12 | 2025-05-21 |  |
 | [Remember](https://open.spotify.com/track/0FDQ8uLxJtGOEsdOqbquCC) | [Happy Manewala](https://open.spotify.com/artist/5Wg1hR1WN0FhlOnYfAm68d), [Gulshaan Dhot](https://open.spotify.com/artist/4ODd6GUfUr1lrUKNEkviBl), [Ranjha Likhari](https://open.spotify.com/artist/5DKWDya7JZ4Qs5JUTNXa62) | [Remember](https://open.spotify.com/album/57pv8Ky0AnkrlNcT52Pnxf) | 3:28 | 2025-02-05 | 2025-03-05 |
+| [Rog](https://open.spotify.com/track/5oO0uZLhoq6tHluaYuQNWr) | [AJAYVIR](https://open.spotify.com/artist/3hgvSvfc1QUtxiZqMmPN71), [Sonny](https://open.spotify.com/artist/2RCgXVND894YVj4YLaUYOg) | [Rog](https://open.spotify.com/album/6kql8XuSnBdKihhVyBtAIO) | 2:04 | 2025-07-02 |  |
 | [Rona Aaya Na](https://open.spotify.com/track/6r71exas2Bbhd7QIGDASvD) | [Samar Veer](https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Rona Aaya Na](https://open.spotify.com/album/2yTah8RpncHHIZ8JQNG92P) | 3:22 | 2025-04-23 | 2025-05-22 |
 | [Rool Ditta Ee](https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC) | [Asif Masood](https://open.spotify.com/artist/6zVaELKGjvE7kA3bCzTsBl), [Saba Riaz](https://open.spotify.com/artist/4zmPgXIIr38vLo5N2TRntN) | [Rool Ditta Ee](https://open.spotify.com/album/4D7XfY3vTeavXDxFndrvHS) | 3:14 | 2024-09-11 | 2024-11-21 |
 | [Roya Na Karin](https://open.spotify.com/track/3cLkIJGT6y64tuk1On97Lk) | [Jass Sandhu](https://open.spotify.com/artist/4D615EABEm53Jdr7WZOLf1) | [Roya Na Karin](https://open.spotify.com/album/5p9PEFZeGyhZeyrNMm82Zw) | 3:51 | 2024-09-11 | 2024-10-16 |

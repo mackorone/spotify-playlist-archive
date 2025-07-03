@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Just Keke",
+        "url": "https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63180,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/5SdKSYnJIgppelAHCIEQVJ"
+    },
+    {
+      "album": {
         "name": "Good Burger 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q"
       },

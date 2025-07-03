@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Faris Adam",
+  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Adrianna Cinta, Farouk Roman",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 267477,
       "name": "Dayang Bintang",
       "url": "https://open.spotify.com/track/0yFvGt4wf0wIduBlToFoHP"
@@ -3964,6 +3964,28 @@
       "duration_ms": 185930,
       "name": "Gatal",
       "url": "https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf"
+    },
+    {
+      "album": {
+        "name": "Gelisah Jiwa Meronta Asmara",
+        "url": "https://open.spotify.com/album/19jDW6We8nXQfWZk1Fqe6v"
+      },
+      "artists": [
+        {
+          "name": "Siti Nordiana",
+          "url": "https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH"
+        },
+        {
+          "name": "Tomok",
+          "url": "https://open.spotify.com/artist/0KO2CkZIpSmEsBDkITCAnl"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254999,
+      "name": "Gelisah Jiwa Meronta Asmara",
+      "url": "https://open.spotify.com/track/4QnWjf7Vj2bzN0EuUP0Rhm"
     },
     {
       "album": {
@@ -4872,7 +4894,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 192000,
       "name": "Hilang Tiada Ganti - Tamat",
       "url": "https://open.spotify.com/track/0cQhyn8NwNbUqLaLi4wlbz"
@@ -6486,7 +6508,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 250455,
       "name": "Kemaafan Dendam Yang Terindah",
       "url": "https://open.spotify.com/track/7q6le0ViLVntrODhrPbphA"
@@ -7811,6 +7833,24 @@
     },
     {
       "album": {
+        "name": "Malapetaka",
+        "url": "https://open.spotify.com/album/5XFwxKmkc0RmrncnPKnejB"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227834,
+      "name": "Malapetaka",
+      "url": "https://open.spotify.com/track/42elvNonmDWGnpyxBpd9Mu"
+    },
+    {
+      "album": {
         "name": "Melangkah",
         "url": "https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov"
       },
@@ -7892,6 +7932,28 @@
       "duration_ms": 222947,
       "name": "Mantap Cuy",
       "url": "https://open.spotify.com/track/1XGuEiJdC5qvne7Jaa8onI"
+    },
+    {
+      "album": {
+        "name": "MAPA (Indonesian Ver.)",
+        "url": "https://open.spotify.com/album/0jVk4hqUcFogF1NcK3ZQ0a"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        },
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270586,
+      "name": "MAPA (Indonesian Ver.)",
+      "url": "https://open.spotify.com/track/23FJNFAeNLzAuFORNvyBFf"
     },
     {
       "album": {
@@ -8084,6 +8146,32 @@
       "duration_ms": 203000,
       "name": "ME[MAHA]MI",
       "url": "https://open.spotify.com/track/4vBxHtuh02QJumb7MUvH5i"
+    },
+    {
+      "album": {
+        "name": "mejikuhibiniu",
+        "url": "https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK"
+      },
+      "artists": [
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        },
+        {
+          "name": "Suisei",
+          "url": "https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi"
+        },
+        {
+          "name": "Jemsii",
+          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196477,
+      "name": "mejikuhibiniu",
+      "url": "https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4"
     },
     {
       "album": {
@@ -9013,6 +9101,28 @@
     },
     {
       "album": {
+        "name": "Nanti Kita Seperti Ini (Cinematic Version)",
+        "url": "https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        },
+        {
+          "name": "Hannah Delisha",
+          "url": "https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Nanti Kita Seperti Ini - Cinematic Version",
+      "url": "https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm"
+    },
+    {
+      "album": {
         "name": "Fasa",
         "url": "https://open.spotify.com/album/39IaRLA134hrYXx37UA5GQ"
       },
@@ -9594,7 +9704,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 230318,
       "name": "Penjuara",
       "url": "https://open.spotify.com/track/5wCgAMzw2tyi16DmbdLBqJ"
@@ -10922,7 +11032,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 241888,
       "name": "Sahabat",
       "url": "https://open.spotify.com/track/2ddeYr2sDs3EJmtYwL9r5M"
@@ -12012,7 +12122,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 260571,
       "name": "Seribu Bintang",
       "url": "https://open.spotify.com/track/69XyLFcYRzYe7tVPqx95Gc"
@@ -12318,7 +12428,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 258665,
       "name": "Some Other Day - Original Soundtrack From Ejen Ali The Movie 2",
       "url": "https://open.spotify.com/track/2U3xFSPqpjzACYoXF7ryOf"
@@ -12640,6 +12750,24 @@
       "duration_ms": 202721,
       "name": "Tak Ada Ujungnya",
       "url": "https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C"
+    },
+    {
+      "album": {
+        "name": "Tak Adil",
+        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188012,
+      "name": "Tak Adil",
+      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
     },
     {
       "album": {
@@ -13690,6 +13818,28 @@
       "duration_ms": 223717,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu"
+    },
+    {
+      "album": {
+        "name": "ambiVert",
+        "url": "https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256156,
+      "name": "Tetap Bukan Kamu (feat. Rony Parulian)",
+      "url": "https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA"
     },
     {
       "album": {

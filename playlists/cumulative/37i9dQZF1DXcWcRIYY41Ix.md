@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
-866 songs - 2 day 3 hr 35 min
+867 songs - 2 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Canción Con Vos](https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c) | [Alejandro Balbis](https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti) | [Sin Remitente](https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho) | 3:11 | 2021-12-24 | 2023-06-17 |
 | [Canción de boda](https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd) | [Christina Rosenvinge](https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Los versos sáficos](https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi) | 3:34 | 2023-12-15 | 2024-02-10 |
 | [Canción para morir](https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mansalva](https://open.spotify.com/artist/27LrllSSvBViU6I1Kg7qS5) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 2:02 | 2023-06-16 | 2023-07-01 |
-| [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2023-06-23 |  |
+| [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2023-06-23 | 2025-07-03 |
 | [Canta, miña compañeira](https://open.spotify.com/track/7sEO7d6ToY5C2ObEkeJAVA) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Canta, miña compañeira](https://open.spotify.com/album/3oqLUn4jbB7olSampyHXfb) | 3:35 | 2022-10-15 | 2022-11-26 |
 | [Cantaría](https://open.spotify.com/track/20HCtD3crDnUe2Hc4aKPbs) | [Amanda Verdú](https://open.spotify.com/artist/3jL1j1GM43wF52RSNi2KP8) | [Cantaría](https://open.spotify.com/album/6VrDcrxU9nMX9kg0bqv7sh) | 4:00 | 2024-10-25 | 2024-12-04 |
 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-05-29 | 2023-06-03 |
@@ -557,6 +557,7 @@
 | [Nostalgia](https://open.spotify.com/track/7IBVRBJht8mGoaDQiluqYd) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo), [Inés de Lis](https://open.spotify.com/artist/30A3yBYfPdIW32J8VNHjHF) | [Nostalgia](https://open.spotify.com/album/19feuIeNVyYzJcJ3TCEsRf) | 4:41 | 2025-04-10 | 2025-06-13 |
 | [Noviembre](https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Noviembre](https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq) | 4:05 | 2021-12-24 | 2024-12-21 |
 | [Noviembre](https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Noviembre](https://open.spotify.com/album/5dbmoIYD1zBB64NzQtMtB7) | 2:50 | 2022-09-28 |  |
+| [Nuestro Movimiento](https://open.spotify.com/track/157eN70HyJsu0lB0SEtKhH) | [Ove](https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY) | [DARUMA](https://open.spotify.com/album/07OLdFOyCXqxkJasNcro4r) | 3:00 | 2025-06-27 |  |
 | [Nunca Creí](https://open.spotify.com/track/5exQqC8uvyLdHDb4phDzKP) | [Arantxa Pérez](https://open.spotify.com/artist/5jFebgg1TJdG3qbKm3TsVd) | [Nunca Creí](https://open.spotify.com/album/0JAxDPie4z5zHekUo6SWOm) | 4:42 | 2023-05-12 | 2023-05-20 |
 | [Nunha Estrela](https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Nunha Estrela](https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG) | 3:52 | 2022-11-11 | 2022-12-24 |
 | [O FE](https://open.spotify.com/track/1tW2ry8Pfmx3cRhQjQt8iE) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [O FE](https://open.spotify.com/album/1qpanq2jhSzWfhiYTnTzCS) | 2:03 | 2024-07-11 | 2024-09-25 |

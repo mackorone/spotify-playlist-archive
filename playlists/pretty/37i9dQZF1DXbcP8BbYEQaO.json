@@ -1,13 +1,29 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 276447,
+  "num_followers": 276483,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc8QAAAABekG/mUF2eUGw1wpAnQ85M",
+  "snapshot_id": "aGVVxAAAAACV4lr5TtMjEqzYETPOIkLr",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:49",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh"
+      },
+      "artists": [
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "duration_ms": 157752,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b"
+    },
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
@@ -29,20 +45,36 @@
       "url": "https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC"
     },
     {
-      "added_at": "2025-06-20 04:00:49",
+      "added_at": "2025-07-02 15:52:36",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
       },
       "artists": [
         {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 157752,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b"
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2025-07-02 15:52:36",
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 210029,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos"
     },
     {
       "added_at": "2025-06-20 04:00:49",
@@ -733,26 +765,6 @@
       "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
     },
     {
-      "added_at": "2024-12-13 05:00:02",
-      "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi"
-      },
-      "artists": [
-        {
-          "name": "ChiChi",
-          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 175428,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Monster (Spotify Singles)",
@@ -767,22 +779,6 @@
       "duration_ms": 237989,
       "name": "Monster - Spotify Singles",
       "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
     },
     {
       "added_at": "2024-08-30 04:00:00",

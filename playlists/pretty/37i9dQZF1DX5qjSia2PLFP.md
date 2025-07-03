@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:0WqsT2a4CBuQ0LC7vrJD0H">Nino Paid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,748 likes - 55 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,799 likes - 55 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

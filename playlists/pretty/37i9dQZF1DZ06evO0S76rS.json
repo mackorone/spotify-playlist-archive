@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 156286,
+  "num_followers": 156325,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAABRPWS7KGDY9w11x+KjkRKO",
+  "snapshot_id": "aGMlAAAAAAA85nMlh+SNGDbR56zU1eGl",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Mi Valle del Cauca",
+      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 305506,
-      "name": "Mi Valle del Cauca",
-      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+      "duration_ms": 291893,
+      "name": "El Amor Vendr\u00e1",
+      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
     },
     {
       "added_at": null,
@@ -655,6 +671,54 @@
       "duration_ms": 289341,
       "name": "Falto un Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cl\u00e1sicos 1.0: Entrega",
+        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 297061,
+      "name": "Cl\u00e1sicos 1.0: Entrega",
+      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cl\u00e1sicos 1.0",
+        "url": "https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 234444,
+      "name": "Cl\u00e1sicos 1.0: Robando Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
     },
     {
       "added_at": null,
@@ -747,70 +811,6 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Tocando el Cielo Con las Manos",
-      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "El Amor Vendr\u00e1",
-      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cl\u00e1sicos 1.0: Entrega",
-        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 297061,
-      "name": "Cl\u00e1sicos 1.0: Entrega",
-      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cl\u00e1sicos 1.0",
-        "url": "https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 234444,
-      "name": "Cl\u00e1sicos 1.0: Robando Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei"
     },
     {
       "added_at": null,

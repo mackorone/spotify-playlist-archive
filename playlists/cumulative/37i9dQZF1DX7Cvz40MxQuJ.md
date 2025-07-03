@@ -4,7 +4,7 @@
 
 > it’s giving medieval castlecore✨🥀
 
-71 songs - 3 hr 43 min
+72 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Iphigénie en Tauride, Act II, Scene 3: 1er et 2ème menuets](https://open.spotify.com/track/5WMKKOJCY1fXoZPBOsog9n) | [Henri Desmarets](https://open.spotify.com/artist/5txCr4vSzzVyY2PgaAglCW), [André Campra](https://open.spotify.com/artist/0PqPknmYIYTP8QwfAJ76e3), [Le Concert Spirituel](https://open.spotify.com/artist/3JqPlYm35Q5oWei0xbeFiV), [Herve Niquet](https://open.spotify.com/artist/63uY29bvU5hyWZXYRTEhkq) | [Desmarest & Campra: Iphigénie en Tauride](https://open.spotify.com/album/6MpFsVHDNuThSnRUW7tSaS) | 1:14 | 2025-01-20 |  |
 | [King Arthur, or The British Worthy \(1691\) / Act 3: What Power art thou?](https://open.spotify.com/track/3vAvbk11ivWFuY4c2OiCO3) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Andreas Scholl](https://open.spotify.com/artist/2LnE7uKchgVW2Uv7vzwixZ), [Accademia Bizantina](https://open.spotify.com/artist/7vu3z34rL6rJiJVJyi9CfD), [Stefano Montanari](https://open.spotify.com/artist/4F0wl1l8bennfUYUMhrovM) | [O Solitude](https://open.spotify.com/album/4L29ejjZ86MsfnZAoldkPL) | 3:09 | 2025-01-10 |  |
 | [King Henry VIII pavyn](https://open.spotify.com/track/53X9jkN2QWGXUS6D9mECOF) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Musica Antiqua of London](https://open.spotify.com/artist/1u61zcj96knfL6c5peOgdY), [Philip Thorby](https://open.spotify.com/artist/2kBd4wzaxpKT8hsCyjeESY) | [Greensleeves \- Music From the Court of King Henry VIII](https://open.spotify.com/album/07wKi1RIUO0DKaGyVnMc8p) | 1:49 | 2025-01-10 | 2025-04-12 |
+| [La Fille aux cheveux de lin, L\. 117](https://open.spotify.com/track/35DU3XqGKvHCPDh8PPv8sD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Voyage](https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi) | 2:40 | 2025-07-02 |  |
 | [La Tierche estampie real](https://open.spotify.com/track/1nnk1AP1NHo0Glit5arMvc) | [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Music of the Crusades](https://open.spotify.com/album/6QuLneX382Lqccj5rHkfvK) | 2:06 | 2025-01-10 | 2025-05-17 |
 | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/track/53DrPPynaJwQyz4EZiI4aM) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/album/1k8SsRwgXOxrH4W45eDpv9) | 2:02 | 2025-04-11 |  |
 | [Main Title](https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:46 | 2025-01-10 |  |

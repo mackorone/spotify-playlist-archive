@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 177679,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/7cKHVDykmR75pjqJp0KFaR"
@@ -1738,6 +1738,24 @@
       "duration_ms": 220116,
       "name": "Mousiba",
       "url": "https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P"
+    },
+    {
+      "album": {
+        "name": "Mr.Beast",
+        "url": "https://open.spotify.com/album/3y3oOcdoAUVRfyVzGmYNUI"
+      },
+      "artists": [
+        {
+          "name": "Stou",
+          "url": "https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135375,
+      "name": "Mr.Beast",
+      "url": "https://open.spotify.com/track/1BeNrqDTCQ0mPRp9zdyfUl"
     },
     {
       "album": {

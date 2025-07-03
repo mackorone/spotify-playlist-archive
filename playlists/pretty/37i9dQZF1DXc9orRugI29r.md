@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > 🔥🔥🔥 LAS CANCIONES MÁS 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,275 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,270 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 | 8 | [WEEKND](https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [WEEKND](https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI) | 3:23 |
 | 9 | [2+2](https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [2+2](https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG) | 3:18 |
 | 10 | [Ya Cogí con Otro](https://open.spotify.com/track/1JXgkN7m5UEuHgVeNbE2q5) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [Ya Cogí con Otro](https://open.spotify.com/album/62qd1F0U6z8PBBdI2PD9WP) | 2:49 |
-| 11 | [B.L.A.S.S.](https://open.spotify.com/track/3vO9dIvDnlyp9ccOKzEMW6) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ), [JS Beatz](https://open.spotify.com/artist/2n448HRkEYTXxlqFlW24G5) | [Sandunguero 3](https://open.spotify.com/album/0cFNnfR3okpX2ImbcXtej4) | 3:24 |
+| 11 | [B.L.A.S.S.](https://open.spotify.com/track/3vO9dIvDnlyp9ccOKzEMW6) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ), [JS Beatz](https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK) | [Sandunguero 3](https://open.spotify.com/album/0cFNnfR3okpX2ImbcXtej4) | 3:24 |
 | 12 | [Blancanieves](https://open.spotify.com/track/1CDo1ZxKO7LxGIZNYZ4nFL) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Blancanieves](https://open.spotify.com/album/2zGdZxzpRLp4erY3nyaI3P) | 2:31 |
 | 13 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 |
 | 14 | [Un Gatito Me Llamó](https://open.spotify.com/track/01bd6lyQR2ZiicAifXtlr9) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:02 |

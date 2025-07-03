@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-355 songs - 18 hr 42 min
+358 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [AT THE END OF EVERYTHING](https://open.spotify.com/track/04aZ1x9Qb0mYh5T5xmztg4) | [Goodnight Girl](https://open.spotify.com/artist/6DuT8CQIbI5VoQaJKVmKQi), [Doodled](https://open.spotify.com/artist/120IFZzkXYONTLup5hTkqW) | [WANNABE](https://open.spotify.com/album/5X1DBiUGnShpPetLnT7EoQ) | 3:30 | 2024-08-15 |  |
 | [Ayleeyuns](https://open.spotify.com/track/13oIzlPIENDOkJaFU7H7Bx) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Ayleeyuns](https://open.spotify.com/album/52JfrqP4UKV7nqh1qyVqm5) | 4:08 | 2024-03-31 |  |
 | [b\-b\-BASS DOWN LOW](https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2025-04-14 |  |
+| [BALENCIAGA DOGS](https://open.spotify.com/track/2yKcOKn9AkFsE40HrjO320) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [$USPICIOUSLY WEALTHY FURRIE$](https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7) | 1:31 | 2025-07-03 |  |
 | [Best friend](https://open.spotify.com/track/3GuAaedm9h7AtcDfZY3ymI) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [Dangwoo](https://open.spotify.com/artist/1I1fniaM5aQpdPmWZq0hWv), [Kruyo](https://open.spotify.com/artist/5iUiHeYlymptgOr8hdFHwe), [Chase](https://open.spotify.com/artist/4eIQ6kXx8kwoW4ykKQ3nNI), [Cross](https://open.spotify.com/artist/75hD2nouxnATI5mcNqoHpT), [Coolman](https://open.spotify.com/artist/7HXmQqlhwWd4kHlAg0A9cD), [Niloc](https://open.spotify.com/artist/2VDjNNL97uqtKSSWXlJUSS) | [Best friend](https://open.spotify.com/album/25US1PpTgszREgddFdqMoU) | 3:30 | 2024-03-25 |  |
 | [better start](https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [better start](https://open.spotify.com/album/1oJ8AewB8GXp2tsWobDWQg) | 1:49 | 2025-06-27 |  |
 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 | 2023-06-14 |  |
@@ -44,6 +45,7 @@
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-09-12 | 2025-04-14 |
 | [break my teeth!](https://open.spotify.com/track/5175pAIG48D5o4h9apqmCi) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [all lizards go to heaven!!!](https://open.spotify.com/album/1CRlPPBbbvKRuyyam4ypvP) | 2:40 | 2025-01-25 |  |
 | [brighter day](https://open.spotify.com/track/59nYXwfY6lyUc9zgY7l03L) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 4:15 | 2024-08-15 |  |
+| [broke.exe](https://open.spotify.com/track/6UwZDT9FztV3QdwlSd5Pdf) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [INTERNET PROTOGEN](https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw) | 2:00 | 2025-07-03 |  |
 | [broken bottles](https://open.spotify.com/track/3BSoT0FpJcehfxxGZIdxxM) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [broken bottles](https://open.spotify.com/album/5ol4vdyNW2TTu299hJZ1xL) | 4:44 | 2025-01-08 |  |
 | [Burn](https://open.spotify.com/track/3M9zCSQGRBgvLAdmyrkznh) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Burn](https://open.spotify.com/album/40dj6oGJyFyeeYiklY4dgK) | 3:31 | 2024-07-22 |  |
 | [Campfire Song](https://open.spotify.com/track/5ZK9bDniZfEkc0sjthyKSo) | [fish eat cat](https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa) | [Campfire Song](https://open.spotify.com/album/0P9Ui8VhxgD5v8A3f681rU) | 4:05 | 2024-05-28 |  |
@@ -242,6 +244,7 @@
 | [PEOPLEPLEASER](https://open.spotify.com/track/6cq3aa06llf5ouqPX0w83y) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [PEOPLEPLEASER](https://open.spotify.com/album/22pfJGxBvUvk7yMX1tuo4h) | 2:23 | 2024-02-09 |  |
 | [Phantom Sense \- Scalie Bloke Remix](https://open.spotify.com/track/0oKNplZZk9wh8MgIqkH9Zt) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Scalie Bloke](https://open.spotify.com/artist/7waKUb2SmeFCDfah4Qrx2p) | [Phantom Sense \(Scalie Bloke Remix\)](https://open.spotify.com/album/3RHbJ9t6GZZYxMdmTk4Pln) | 4:15 | 2023-09-24 |  |
 | [photogenic](https://open.spotify.com/track/5SlBbNBXqaYJXWU059Alpr) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [Wyntr.](https://open.spotify.com/artist/0KewIgBlbp2Jy5exPqyyvM) | [photogenic](https://open.spotify.com/album/6Cnxi9Jr9apIrZaGSYZrQJ) | 1:18 | 2024-10-21 |  |
+| [PINK N BLUE](https://open.spotify.com/track/53XS33jnUZi1JOi2xEHTe4) | [Mawstar](https://open.spotify.com/artist/2Jz7LoIGV3HsMuKXZ8PI2a), [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [PINK N BLUE](https://open.spotify.com/album/31kF1trWzpsoWQIvx5YQ5C) | 2:13 | 2025-07-03 |  |
 | [pink rose fragrance](https://open.spotify.com/track/4hmywvrzIDN66jXlV5Iyqc) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [MYRTLE BROADWAY & THE BIG BANG THEORY](https://open.spotify.com/album/5pmFfSXbaShZPSwgUxkfGJ) | 2:16 | 2025-01-06 |  |
 | [Playwright Metro](https://open.spotify.com/track/6DfrzmR72Cid9nS2Rr2Fcv) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Playwright Metro](https://open.spotify.com/album/0cKSiLGcZv6c1SO4qKpdel) | 3:21 | 2024-11-09 |  |
 | [Plea for a Dogman](https://open.spotify.com/track/5G7Y14QDFGuIukUPiAtX2l) | [mammalfriend](https://open.spotify.com/artist/1soXXPru4RPo5CvGbvQeA5) | [Eleven Eleven](https://open.spotify.com/album/2F0KDRRVJWc4SOASRj2oKP) | 3:45 | 2024-08-15 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Tony Boy in cover della playlist urban più grande in Italia 🐐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,650 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,781 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oppio \(feat\. Simba La Rue\)](https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:47 |
+| 1 | [Oppio \(feat\. Simba La Rue\)](https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:47 |
 | 2 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 |
 | 3 | [Comfort \(feat\. Tony Boy\)](https://open.spotify.com/track/5mtVj6o82SJuEv0CmE4eDa) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:44 |
 | 4 | [Non Basta Mai \(feat\. Bresh & Tony Effe\)](https://open.spotify.com/track/6LImxPnj3U9EncraLOZ7j1) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Non Basta Mai \(feat\. Bresh & Tony Effe\)](https://open.spotify.com/album/0g0HzHNfjYXmikaB010XaJ) | 2:24 |

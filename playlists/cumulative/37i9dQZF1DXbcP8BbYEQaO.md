@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-759 songs - 1 day 18 hr 35 min
+761 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2021-10-16 | 2023-03-26 |
 | [Far Cry](https://open.spotify.com/track/1XbclEPLmGD9jYPzdR4avl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 4:38 | 2022-03-18 | 2022-09-20 |
 | [Favorite What If](https://open.spotify.com/track/5LLaPfgP7Ssw1v5aKqdkre) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite What If](https://open.spotify.com/album/4MCImCKI5cGdXPMp0wtEpb) | 2:52 | 2021-06-26 | 2021-07-04 |
-| [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 | 2024-10-25 |  |
+| [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 | 2024-10-25 | 2025-07-03 |
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-02-25 | 2022-04-17 |
 | [Feel Less](https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Feel Less](https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6) | 4:01 | 2024-02-09 | 2024-08-17 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2020-10-13\* | 2021-07-04 |
@@ -455,6 +455,7 @@
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2021-11-27 | 2022-01-29 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-12-04 | 2024-11-12 |
 | [Midnight Serenade](https://open.spotify.com/track/4V2u9MWP2wgSCSkDSo4ZjZ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Midnight Serenade](https://open.spotify.com/album/4oZIgxd1pGHSEEEHxjdfI7) | 3:38 | 2024-03-22 | 2024-05-25 |
+| [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-02 |  |
 | [Midnight Train](https://open.spotify.com/track/1AWvfGBiJQ6GV5Va0dS0es) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:26 | 2023-07-07 | 2023-08-24 |
 | [Milk](https://open.spotify.com/track/6UXU0TkzArLcCdJBhVKczv) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God \(Deluxe\)](https://open.spotify.com/album/49xoGbYKxnS0PEfapnFG6c) | 3:30 | 2021-11-27 | 2022-04-17 |
 | [Mindreader](https://open.spotify.com/track/3KM1RuZ2aZlfnX5tuaPafx) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Mindreader](https://open.spotify.com/album/5LO5R8Zuu4GiyKovnRKprb) | 3:10 | 2023-01-13 | 2023-01-28 |
@@ -690,7 +691,7 @@
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/3TTWpDAiJfyoJDd5v2F8C3) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Throwaway \(with Clairo\)](https://open.spotify.com/album/3VZK2BUptZDwTdOlogvFlk) | 3:00 | 2020-10-13\* | 2021-12-04 |
 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-10 | 2023-08-19 |
 | [To Me](https://open.spotify.com/track/70izrPPF9I7fqCOChXsc30) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [To Me](https://open.spotify.com/album/0u5WSJGs6HBbubRJZLHFhJ) | 4:17 | 2020-10-13\* | 2021-11-20 |
-| [Tokyo Drifting](https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt) | [ChiChi](https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Tokyo Drifting](https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi) | 2:55 | 2024-12-13 |  |
+| [Tokyo Drifting](https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt) | [ChiChi](https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Tokyo Drifting](https://open.spotify.com/album/7h0UWbIvF53qPWYPEf6cRi) | 2:55 | 2024-12-13 | 2025-07-03 |
 | [Tongue Tied](https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Tongue Tied](https://open.spotify.com/album/2xNgClNQjycAaVWM6MBoW6) | 2:58 | 2021-10-30 | 2022-04-17 |
 | [Tongue Tied \(feat\. Terror Jr\)](https://open.spotify.com/track/50piv7yyFzysKQW18Q2z7s) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Blossom](https://open.spotify.com/album/4XJe4kQT1oSkYUpUPWljFi) | 2:45 | 2021-11-06 | 2022-04-17 |
 | [Too Close](https://open.spotify.com/track/67GvvBfumjbeuMzhXVgn02) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close](https://open.spotify.com/album/6GWUTnRWSeXUf3fu45LvwT) | 3:04 | 2020-11-22 | 2021-06-26 |
@@ -714,6 +715,7 @@
 | [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 | 2024-07-19 |  |
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |
 | [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 | 2023-08-11 |  |
+| [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 | 2025-07-02 |  |
 | [VERDE MENTA](https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:08 | 2023-02-03 | 2023-07-08 |
 | [VERDE MENTA](https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:08 | 2022-11-11 | 2023-02-05 |
 | [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 | 2023-03-10 | 2023-09-28 |

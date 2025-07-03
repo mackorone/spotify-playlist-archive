@@ -480,7 +480,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 243010,
       "name": "Follow Your Bliss",
       "url": "https://open.spotify.com/track/6kxm1hclI7Eoky1TR4gjBl"
@@ -614,6 +614,24 @@
     {
       "album": {
         "name": "Lotus",
+        "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Hard Place",
+      "url": "https://open.spotify.com/track/3oBPGOYerZaJOMmO3Holws"
+    },
+    {
+      "album": {
+        "name": "Lotus",
         "url": "https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S"
       },
       "artists": [
@@ -642,7 +660,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 207500,
       "name": "Hard Place",
       "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"

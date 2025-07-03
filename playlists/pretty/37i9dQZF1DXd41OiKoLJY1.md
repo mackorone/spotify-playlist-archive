@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Celebrating 10 years of fresh releases from your future favorite artists\. Cover:  AEUNA Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover:  AEUNA Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,656 likes - 149 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,664 likes - 149 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 148 | [Sino?](https://open.spotify.com/track/42URq2DKptJsoFYKHuiLy8) | [Kidd Razcal](https://open.spotify.com/artist/6B5QwkmVKCZISpuDNop83j), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al) | [Sino?](https://open.spotify.com/album/5ICGlZ4ZuGPl1uE0E3u1GJ) | 3:58 |
 | 149 | [ur cute and i got a little crush on u](https://open.spotify.com/track/42JeN8NXqKdIXetj4hg21u) | [Syljan Sison](https://open.spotify.com/artist/7C2icqgCNpEeYJMgneIYDn) | [ur cute and i got a little crush on u](https://open.spotify.com/album/0OszgsylIgPG7cCGo1Ts7W) | 3:16 |
 
-Snapshot ID: `aF4gBQAAAADbZeelPBnPb/0SDa9+WC0R`
+Snapshot ID: `aGTN1gAAAAABMy26McuP38Xlx11IHskx`

@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 34193,
+  "num_followers": 34205,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
-        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
-      },
-      "artists": [
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 34400,
-      "name": "Steve's Lava Chicken",
-      "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 34400,
+      "name": "Steve's Lava Chicken",
+      "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 149440,
-      "name": "P*RNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
-        "name": "Iarta-ma Mamo",
-        "url": "https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        },
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Iarta-ma Mamo",
-      "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
         "name": "Doar La Ea, Ba La Ea",
         "url": "https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "Iarta-ma Mamo",
+        "url": "https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Iarta-ma Mamo",
+      "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
+        "name": "Afacere",
+        "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "Afacere",
+      "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
         "name": "Am un secret",
         "url": "https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 170400,
       "name": "Am un secret",
       "url": "https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
-        "name": "Afacere",
-        "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "Afacere",
-      "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -1611,38 +1611,6 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
-        "name": "E Adev\u0103rat",
-        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 167203,
-      "name": "E Adev\u0103rat",
-      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
-        "name": "Anglia",
-        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 131977,
-      "name": "Anglia",
-      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
         "name": "CONSTANTA",
         "url": "https://open.spotify.com/album/0chCHdQrwrfSBeSPlvGomx"
       },
@@ -1663,6 +1631,38 @@
       "duration_ms": 149848,
       "name": "KAD!LAC",
       "url": "https://open.spotify.com/track/7kgl0bzkbUW5hFWtDyx5PZ"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "Anglia",
+        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 131977,
+      "name": "Anglia",
+      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "E Adev\u0103rat",
+        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "duration_ms": 167203,
+      "name": "E Adev\u0103rat",
+      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -1703,22 +1703,6 @@
       "duration_ms": 159011,
       "name": "SELFWASH",
       "url": "https://open.spotify.com/track/61GJk5rl09EB2I0emL23Op"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -1767,22 +1751,18 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
-        "name": "2 Stickere",
-        "url": "https://open.spotify.com/album/2yHy27oGwEJWwxVaI216e0"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
       },
       "artists": [
         {
-          "name": "Jador",
-          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
-        },
-        {
-          "name": "Sheik",
-          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
         }
       ],
-      "duration_ms": 158297,
-      "name": "2 Stickere",
-      "url": "https://open.spotify.com/track/6UqAQ2xZSFQxb2p89rvvVN"
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -1807,6 +1787,26 @@
       "duration_ms": 204705,
       "name": "A\u0219a Ceva",
       "url": "https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "2 Stickere",
+        "url": "https://open.spotify.com/album/2yHy27oGwEJWwxVaI216e0"
+      },
+      "artists": [
+        {
+          "name": "Jador",
+          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "2 Stickere",
+      "url": "https://open.spotify.com/track/6UqAQ2xZSFQxb2p89rvvVN"
     },
     {
       "added_at": "2025-06-30 15:57:58",

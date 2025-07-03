@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 102791,
+  "num_followers": 102822,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "70eme Anniversaire",
+        "url": "https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Singles Collection (2001 - 2021)",
         "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 294826,
       "name": "Le grand secret (feat. Melissa Auf der Maur) - Les pianos voix",
       "url": "https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "70eme Anniversaire",
-        "url": "https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2"
     },
     {
       "added_at": "2024-10-03 14:22:43",

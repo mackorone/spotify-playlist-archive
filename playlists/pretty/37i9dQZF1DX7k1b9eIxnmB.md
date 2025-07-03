@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,230 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,250 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 27 | [Empattu Empaattu](https://open.spotify.com/track/6bggBHnFAGyDb6Bk7bgAmU) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Poomani](https://open.spotify.com/album/1DIwoEGNwIOslzt45TpTVB) | 4:44 |
 | 28 | [Isaiyil Thodanguthamma](https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4) | [Ajai Chakravarthi](https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 5:44 |
 | 29 | [Annan Enna Thambi Enna](https://open.spotify.com/track/62AFtKJzjOxGx27oXM0z2i) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Dharma Durai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB) | 5:00 |
-| 30 | [Paarijatha Poove](https://open.spotify.com/track/2Jpcw27iidi6C9cO4sYNvw) | [S\. N\. Surendar](https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [En Rasavin Manasile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM) | 5:00 |
-| 31 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
+| 30 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
+| 31 | [Paarijatha Poove](https://open.spotify.com/track/2Jpcw27iidi6C9cO4sYNvw) | [S\. N\. Surendar](https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [En Rasavin Manasile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM) | 5:00 |
 | 32 | [Maalai Yen Vedhanai](https://open.spotify.com/track/5OxzBgOYuDr1Q8d5Wbu8Yp) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f) | [Sethu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QWMNtbaGSMR30b3ny4ug8) | 5:01 |
 | 33 | [Chinnathai Aval](https://open.spotify.com/track/2e7p9lCh0XU0IjOS08G10l) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Thalapathi](https://open.spotify.com/album/49aJppWozUgAxp8D8D6e6U) | 3:19 |
 | 34 | [Oru Pattam Poochi](https://open.spotify.com/track/2Y0r28Onm7SCgtvSlQChtF) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [Kadalukku Mariyadai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz) | 5:13 |

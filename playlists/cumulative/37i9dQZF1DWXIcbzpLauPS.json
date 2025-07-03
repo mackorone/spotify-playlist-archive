@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "A Part Of Me",
+        "url": "https://open.spotify.com/album/4zzuzJHE0l6jEPO2pNq501"
+      },
+      "artists": [
+        {
+          "name": "Her Last Sight",
+          "url": "https://open.spotify.com/artist/1KbA9fRxHiOCFESxSaM29p"
+        }
+      ],
+      "date_added": "2025-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238222,
+      "name": "A Part Of Me",
+      "url": "https://open.spotify.com/track/4Uul6CB7BDnCbXgyLsInm9"
+    },
+    {
+      "album": {
         "name": "A Shot in the Dark",
         "url": "https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u"
       },
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 165000,
       "name": "Around Again",
       "url": "https://open.spotify.com/track/4F1dxX5lITUmxLG477eSap"
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 182061,
       "name": "Cold Hard Truth",
       "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
@@ -7374,7 +7392,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 165992,
       "name": "Ending Scene",
       "url": "https://open.spotify.com/track/2luOKihLKUYMHF4IUB4Ash"

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,090 songs - 3 day 7 hr 27 min
+1,091 songs - 3 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Forever Strong](https://open.spotify.com/track/3ziyYewNS8TggpWbGi6wye) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Risen Symbol](https://open.spotify.com/album/1k0Us3LJXo57PEniyXQyXy) | 4:41 | 2024-06-21 | 2024-08-24 |
 | [Forged in Metal](https://open.spotify.com/track/1IMU0K1z2oFPfPQzlxSx4X) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Forged in Metal](https://open.spotify.com/album/6k1HronIE7vIrxWoLccq93) | 3:43 | 2021-12-17 | 2022-07-29 |
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2022-08-19 | 2024-04-19 |
+| [Freedom](https://open.spotify.com/track/76GuF96xWQSP1sCalY3tJ6) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Freedom](https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM) | 3:10 | 2025-06-27 |  |
 | [Freedom](https://open.spotify.com/track/4MQkVbYj1QTtaaw1u6ghX0) | [Sebastian Bach](https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV) | [Child Within The Man](https://open.spotify.com/album/4BT7xGOJ4FtgLKLadxBaZF) | 3:08 | 2024-05-17 | 2024-08-21 |
 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 | 2022-08-19 | 2023-02-11 |
 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 | 2025-04-25 |  |
@@ -1079,7 +1080,7 @@
 | [Wolves Of War](https://open.spotify.com/track/5ciIVxJBbI45h6wvLKxFT7) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Interludium \(Deluxe Version\)](https://open.spotify.com/album/6GT4LxMljVb8iEe4G3vgJk) | 3:58 | 2023-04-14 | 2023-07-16 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-03-08 | 2024-07-13 |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-07-25 |
-| [Wrath \(Bring Fire\)](https://open.spotify.com/track/3BWtsGjISgoXVesKCpEA8Q) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Wrath \(Bring Fire\)](https://open.spotify.com/album/2ZzijYl8kDv92rHYPXu1dc) | 3:33 | 2025-05-02 |  |
+| [Wrath \(Bring Fire\)](https://open.spotify.com/track/3BWtsGjISgoXVesKCpEA8Q) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Wrath \(Bring Fire\)](https://open.spotify.com/album/2ZzijYl8kDv92rHYPXu1dc) | 3:33 | 2025-05-02 | 2025-07-03 |
 | [WRONG END OF THE KNIFE](https://open.spotify.com/track/5HQVggVFebVhn765vhWz7J) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [...'Til The World's Blind](https://open.spotify.com/album/7c2mlvKNDXM8Y2AnPg6azN) | 3:32 | 2024-11-22 | 2025-02-01 |
 | [Year Of The Dragon](https://open.spotify.com/track/2dybzipzkpcPA4DZZkLnPJ) | [All For Metal](https://open.spotify.com/artist/7pwIx2j4SX0cLAgPrIkv27) | [Gods Of Metal \(Year Of The Dragon\)](https://open.spotify.com/album/0PTbTBttAKA3cOx9Bnumdv) | 3:18 | 2024-08-23 | 2024-12-16 |
 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-01-26 | 2024-03-23 |

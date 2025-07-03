@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: vichaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,783 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,839 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 28 | [Terey papa](https://open.spotify.com/track/7vIXP7osY1jcyIpX9hCeLt) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Naala Paar](https://open.spotify.com/album/1Wyju7Q67NoXso8hBrBvCB) | 3:04 |
 | 29 | [11K](https://open.spotify.com/track/4q7ls1XOMHmZCvTYAqNhxZ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:54 |
 | 30 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 |
-| 31 | [Mere Jaisa Nai](https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X) | [Karma](https://open.spotify.com/artist/1BG6teVM1jRNPLD4ymgsfU), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:07 |
+| 31 | [Mere Jaisa Nai](https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:07 |
 | 32 | [The Last Talk](https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH) | [The Singh](https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14) | [The Last Talk](https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm) | 3:00 |
 | 33 | [Never Enough](https://open.spotify.com/track/3Za1oprAxTiMLJ82fxPJoK) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Yours Truly](https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU) | 2:52 |
 | 34 | [Sad Gaana](https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:29 |

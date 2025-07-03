@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Marine \(du titre \#1 au \#21\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,385 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,485 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 13 | [L’Épine](https://open.spotify.com/track/7zxFVo238IlUXMuIDh6lLz) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 2:57 |
 | 14 | [ICU](https://open.spotify.com/track/17x6PeoHdViySHnbjDGSDy) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Places](https://open.spotify.com/album/1Nww4I0GG6LOfdvjy6ypCu) | 4:02 |
 | 15 | [Le chanteur](https://open.spotify.com/track/2KKuKkqlCaQctjCy3Zyvrt) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 4:11 |
-| 16 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
+| 16 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
 | 17 | [Womanizer](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:44 |
 | 18 | [Amoureuse](https://open.spotify.com/track/31gv9xltjx4MWyg3Y7g2dA) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 3:42 |
 | 19 | [Je sais pas si ça va](https://open.spotify.com/track/4MUoWTNReilP63lUTCjEJU) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Comme des pierres](https://open.spotify.com/track/4P1iWTs0tdAWBCFK0HEEDa) | [Asinine](https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C) | [La jetée](https://open.spotify.com/album/2zbL9Au0oSnB6Yy8mTCp18) | 3:25 |
 | 50 | [Into My World](https://open.spotify.com/track/6QU8Y1xG7qqZqRwVGmmVI3) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 2:52 |
 
-Snapshot ID: `aGRafAAAAABnNXWuc9I5HzU3xhBskZEe`
+Snapshot ID: `aGU4qgAAAADlhi3IaTuoEMLBfySnz0Di`

@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 158213,
       "name": "Are you in there",
       "url": "https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL"
@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/7jlKKiVFwXt7l3zL3ld3Yk"
+      },
+      "artists": [
+        {
+          "name": "Rosmile",
+          "url": "https://open.spotify.com/artist/4DvqmImfZ6X91aOtIeOTcg"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/6HOt5zKHbiiRbnrsNR1qKU"
+    },
+    {
+      "album": {
         "name": "EMOTIONAL BAGGAGE",
         "url": "https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP"
       },
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 171000,
       "name": "Like Nothing (Feat. YOUHA, Kim Seungmin)",
       "url": "https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7"
@@ -2030,6 +2048,24 @@
       "duration_ms": 221693,
       "name": "Sexy 4 Eva",
       "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+    },
+    {
+      "album": {
+        "name": "She's Fine",
+        "url": "https://open.spotify.com/album/51k1opN4HpJph3cxAbuSah"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151009,
+      "name": "SHE'S FINE",
+      "url": "https://open.spotify.com/track/7LbK25YpQpA44NVfJEC1EA"
     },
     {
       "album": {

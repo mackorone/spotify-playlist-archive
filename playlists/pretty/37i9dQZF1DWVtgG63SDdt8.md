@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Franni Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,953 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,973 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [BEAT THE ODDS](https://open.spotify.com/track/28u7ohU7KFaw6HEyGTVUth) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [BEAT THE ODDS](https://open.spotify.com/album/5uw39oR26eb9yGoH2WHExR) | 3:14 |
 | 16 | [Cold Blooded \- Acoustic](https://open.spotify.com/track/6U5C2r8NpjgDCN87RFAyZR) | [Noah Baker](https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx) | [I Saw War](https://open.spotify.com/album/3P1yAwAbcBKfJqrFRCnEC0) | 2:47 |
 | 17 | [Preachin' To The Choir](https://open.spotify.com/track/2flscNZ3cWpl3ut7XlqFdD) | [Megan Danielle](https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx) | [Preachin' To The Choir](https://open.spotify.com/album/0QuPrqpvBKDTBJbvnT2dIH) | 3:13 |
-| 18 | [John the Baptist \(feat\. Chris Renzema\)](https://open.spotify.com/track/7xoj8yfZqPSjb2QTPA37nw) | [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv), [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [John the Baptist \(feat\. Chris Renzema\)](https://open.spotify.com/album/6ahmtFhIJJ30cSMMGp3GsA) | 4:06 |
+| 18 | [John the Baptist \(with Chris Renzema\)](https://open.spotify.com/track/7xoj8yfZqPSjb2QTPA37nw) | [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv), [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [John the Baptist \(with Chris Renzema\)](https://open.spotify.com/album/6ahmtFhIJJ30cSMMGp3GsA) | 4:06 |
 | 19 | [I Know a Name](https://open.spotify.com/track/3nbDLLi0LgLcMJn0PsAlTf) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Chapel Sessions Vol\. 3](https://open.spotify.com/album/10VRVYhmTzHDGWcGRciaeH) | 3:54 |
 | 20 | [Thank The Lord](https://open.spotify.com/track/48NixLE8O2z9G7VnFh2OVf) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Thank The Lord](https://open.spotify.com/album/5W8f2P0TXfmMGruXVp4WBF) | 3:27 |
 | 21 | [Thank God I'm Not Alone \- From Claire's Phone](https://open.spotify.com/track/6evLRCoKGHIJwz7AaBuzHx) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Thank God I'm Not Alone \(From Claire's Phone\)](https://open.spotify.com/album/4qdDQabqGvhoWBr39D1gaR) | 4:27 |

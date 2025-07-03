@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-344 songs - 17 hr 58 min
+345 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [Things We Don't Need Anymore](https://open.spotify.com/track/2tWDIAMCanFjLLJGh9HnxS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Things We Don't Need Anymore](https://open.spotify.com/album/37sWFSeLgENxLUWycGrfZ6) | 2:58 | 2022-02-28 | 2022-12-03 |
 | [Things We Don't Need Anymore](https://open.spotify.com/track/7G9gZs9Dwt3UpXAkXkW58F) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Maybe This Christmas, Vol\. 6: Holiday Cheer](https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux) | 2:58 | 2022-12-02 |  |
 | [This Year's Girl](https://open.spotify.com/track/7tTq3WMmOVVyjULjCbOoxA) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:31 | 2021-12-27 |  |
-| [Three More Hours](https://open.spotify.com/track/786PPIkrEZ789zlIzGBKCD) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt) | 3:20 | 2023-05-10 |  |
+| [Three More Hours](https://open.spotify.com/track/2fIArKDdR8FwMZmmp7dVGN) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/2tUCz7FgWO4Z9Gob0qumxg) | 3:20 | 2025-07-02 |  |
+| [Three More Hours](https://open.spotify.com/track/786PPIkrEZ789zlIzGBKCD) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt) | 3:20 | 2023-05-10 | 2025-07-03 |
 | [Totally Worth It](https://open.spotify.com/track/3mYnHLEaj0VOXFBifAnw8u) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:48 | 2021-12-27 | 2022-09-06 |
 | [Totally Worth It](https://open.spotify.com/track/5vFeFjoi4ueuHlVa6cSW5S) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 2:48 | 2024-11-29 |  |
 | [Totally Worth It](https://open.spotify.com/track/68HfrhYClNKJiGdhztgvy9) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:48 | 2022-09-05 | 2024-11-30 |

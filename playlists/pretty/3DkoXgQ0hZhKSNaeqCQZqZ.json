@@ -1,13 +1,49 @@
 {
   "description": "All songs made for furs, by furs.  Check top 25 @ spotify.furrest.net",
-  "num_followers": 605,
+  "num_followers": 606,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADo55QySCwtc2P7UGwm17etiWAWLyy",
+  "snapshot_id": "AAADqMAeid+FMfvXSNO+uHSMzw5qjFjJ",
   "tracks": [
+    {
+      "added_at": "2025-07-03 01:14:53",
+      "album": {
+        "name": "PINK N BLUE",
+        "url": "https://open.spotify.com/album/31kF1trWzpsoWQIvx5YQ5C"
+      },
+      "artists": [
+        {
+          "name": "Mawstar",
+          "url": "https://open.spotify.com/artist/2Jz7LoIGV3HsMuKXZ8PI2a"
+        },
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 133871,
+      "name": "PINK N BLUE",
+      "url": "https://open.spotify.com/track/53XS33jnUZi1JOi2xEHTe4"
+    },
+    {
+      "added_at": "2025-07-03 01:18:51",
+      "album": {
+        "name": "INTERNET PROTOGEN",
+        "url": "https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        }
+      ],
+      "duration_ms": 120170,
+      "name": "broke.exe",
+      "url": "https://open.spotify.com/track/6UwZDT9FztV3QdwlSd5Pdf"
+    },
     {
       "added_at": "2025-06-27 16:40:47",
       "album": {
@@ -29,20 +65,24 @@
       "url": "https://open.spotify.com/track/7xrtCfV4DSNoznwpxT3QrX"
     },
     {
-      "added_at": "2025-06-27 04:23:04",
+      "added_at": "2025-07-03 02:00:13",
       "album": {
-        "name": "ONLY US, NEVER THEM",
-        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
+        "name": "$USPICIOUSLY WEALTHY FURRIE$",
+        "url": "https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7"
       },
       "artists": [
         {
-          "name": "Jaylaflame",
-          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
         }
       ],
-      "duration_ms": 135000,
-      "name": "lil boy",
-      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
+      "duration_ms": 91304,
+      "name": "BALENCIAGA DOGS",
+      "url": "https://open.spotify.com/track/2yKcOKn9AkFsE40HrjO320"
     },
     {
       "added_at": "2025-06-27 03:27:02",
@@ -59,6 +99,22 @@
       "duration_ms": 227250,
       "name": "My Love is a Quickscope",
       "url": "https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz"
+    },
+    {
+      "added_at": "2025-06-27 04:23:04",
+      "album": {
+        "name": "ONLY US, NEVER THEM",
+        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "lil boy",
+      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
     },
     {
       "added_at": "2025-06-16 02:33:42",

@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-331 songs - 18 hr 2 min
+332 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Mango](https://open.spotify.com/track/3ncHgWHfco3gHe4BMoowcQ) | [Bilal Shahid](https://open.spotify.com/artist/3e1b5YHWfO80pDTVulRlLk) | [Mango](https://open.spotify.com/album/2ruoUp3vic0guuHTa71K0D) | 2:54 | 2021-11-11 | 2022-07-19 |
 | [Mannat](https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:39 | 2024-02-22 |  |
 | [Manzoor](https://open.spotify.com/track/3BhhplcKXDnZ8ZI5CmKUhp) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Manzoor](https://open.spotify.com/album/5UdzrqE7eV4Npo7E4tIQgw) | 2:50 | 2021-11-11 | 2022-07-19 |
+| [Masoom](https://open.spotify.com/track/2J3lhANOlozP1MOSAP6qbN) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mujtaba Aziz Naza](https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Masoom](https://open.spotify.com/album/7kIsDgdAK74zy0fZYQa5dP) | 2:58 | 2025-07-02 |  |
 | [Mehmaan](https://open.spotify.com/track/0Rf3Vv9vgZrMgJd6egLYrQ) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Noorima Rehan](https://open.spotify.com/artist/29kMoXQCAKBsVOM9HeO5KY), [Nizam Torwali](https://open.spotify.com/artist/0su8mE6eq8ds8JdPipTfBx) | [Mehmaan](https://open.spotify.com/album/6J7sz4kdwoWvK1kfxjOqce) | 6:13 | 2024-07-15 | 2024-08-10 |
 | [Mehrbaan](https://open.spotify.com/track/2iBaJVyzkRj1JipRiCqzUL) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Mehrbaan](https://open.spotify.com/album/41Icl2KLg9TmtJFGlzCtXg) | 2:32 | 2024-08-02 | 2024-08-10 |
 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 | 2025-05-26 |  |

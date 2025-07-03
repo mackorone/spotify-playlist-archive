@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Diego Lorenzini y Simón Campusano
 
-536 songs - 1 day 8 hr 4 min
+540 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bruma](https://open.spotify.com/track/1s60OAeHfhxvdKeFKEs1lY) | [Ludo Club](https://open.spotify.com/artist/0nV76tggafm4L6neH8qHNc) | [Bruma](https://open.spotify.com/album/3SNTxemEGfgVAsPMcNzkyv) | 3:15 | 2022-04-15 | 2022-07-28 |
 | [Brumas](https://open.spotify.com/track/0BoO71osPoRg9KbkToQMUw) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Brumas](https://open.spotify.com/album/0UeIggxzA8ewedPpmO7D7j) | 2:58 | 2023-09-01 | 2023-09-23 |
 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 | 2022-04-15 | 2023-01-28 |
+| [Buscamos \(Deluxe\)](https://open.spotify.com/track/2aDKwkrIalbfjDofSjL9Ya) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos \(Deluxe\)](https://open.spotify.com/album/7KxIgITgIEWpIybYb4nAD3) | 4:03 | 2025-07-02 |  |
 | [Buscar la Luz](https://open.spotify.com/track/2jL1b5zab3ssJCw0fQcdKM) | [Don't Chase the Lizard](https://open.spotify.com/artist/0uC3fovB5pLGi48M5N3NEl) | [Buscar la Luz](https://open.spotify.com/album/2CM4kksvNIaHEuyOV1IERt) | 3:57 | 2022-04-15 | 2022-07-28 |
 | [Bésame Lento](https://open.spotify.com/track/3wH2qmBQMzjfZmrP0n01hJ) | [Problemas en París](https://open.spotify.com/artist/69TnVoKdyNcBHkkXPdkT94) | [Bésame Lento](https://open.spotify.com/album/0uqbYyRb1mAM55Rgwi6CvO) | 2:54 | 2024-12-06 |  |
 | [Cae la Noche](https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2), [Exe](https://open.spotify.com/artist/3GmyHz0dg5CbySGx3j9lOd) | [Cae la Noche](https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR) | 3:10 | 2022-10-28 | 2024-08-24 |
@@ -244,6 +245,7 @@
 | [La Mañana](https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Mañana](https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk) | 4:38 | 2022-10-07 | 2023-01-28 |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2022-09-02 | 2023-01-28 |
 | [la paz](https://open.spotify.com/track/1ZJm8ES9wMWmb64oyZMHb5) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX) | [¿nos veremos en diciembre?](https://open.spotify.com/album/0Za4wmkIP6VFTlE92ikh1F) | 3:12 | 2022-04-15 | 2022-10-15 |
+| [La Primera Luz](https://open.spotify.com/track/3NiBKMMrU7gyWMtuuGivZN) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [La Primera Luz](https://open.spotify.com/album/2AxbnQKs5sRvx0xpYSBKNm) | 4:45 | 2025-07-02 |  |
 | [La Pócima](https://open.spotify.com/track/3478RKENZliWK21KgkqCxs) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [La Pócima](https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq) | 2:59 | 2022-10-14 | 2023-01-28 |
 | [La Resistencia](https://open.spotify.com/track/1M9rrn3d94oMrwuJRgVZ5W) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Resistencia](https://open.spotify.com/album/6wJYD7J46pVGUNZ3PA6YkJ) | 4:13 | 2023-05-26 | 2023-10-29 |
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 | 2024-06-29 |
@@ -263,6 +265,7 @@
 | [Lluvia Para el Sol](https://open.spotify.com/track/6y8kBITLyzVN9RGpMBc4iH) | [Pequita](https://open.spotify.com/artist/55ZHeNiYo1WAYjW5kEoZiG) | [Lluvia Para el Sol](https://open.spotify.com/album/3nFS2QursFzce6naclOfBS) | 2:42 | 2022-04-15 | 2022-07-23 |
 | [Lo Nuestro](https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Lo Nuestro](https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz) | 1:53 | 2022-10-14 | 2024-06-08 |
 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 | 2023-08-04 | 2024-08-24 |
+| [Lo que siento](https://open.spotify.com/track/4Mb76g48JCUm7QXa9hgubF) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Lo que siento](https://open.spotify.com/album/6TOz62eybIRIzp9l6KP5vV) | 3:37 | 2025-07-02 |  |
 | [Lo que ya planté](https://open.spotify.com/track/4aT0PklOBmtNvmANBkYuqQ) | [Niño Cohete](https://open.spotify.com/artist/00kBFCMv8iB3aMpHy043LO) | [Lo que ya planté](https://open.spotify.com/album/716yYoWmdI1bRFaMod1JVC) | 3:39 | 2024-12-06 |  |
 | [Lo Vas a Ver](https://open.spotify.com/track/1TsJ958NQWw2mIwzlWkUXI) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3), [EsMikeGarcia](https://open.spotify.com/artist/5FK9isHItaC3GaYIdNX18w) | [Lo Vas a Ver](https://open.spotify.com/album/2wSBCh5Z3VeSQ6a3by0kKP) | 3:35 | 2022-04-15 | 2022-07-25 |
 | [LOCA](https://open.spotify.com/track/7rpetTXgYnbDENIZkLQcn0) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora \(versión deluxe\)](https://open.spotify.com/album/2KYh73tnSooxmHciXtswtN) | 3:04 | 2025-01-17 |  |
@@ -359,6 +362,7 @@
 | [Periferia](https://open.spotify.com/track/1CY1iQFjmW1m64qXSEtB8d) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Periferia](https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0) | 3:05 | 2022-04-15 | 2023-08-05 |
 | [Persianas](https://open.spotify.com/track/35VJuVySMyCMg0sLijDMHx) | [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [Persianas](https://open.spotify.com/album/5YNLHu1dyy1a2zsWUoJg1i) | 3:07 | 2022-04-15 | 2022-07-17 |
 | [Petronila](https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7) | [Belencha](https://open.spotify.com/artist/76nNpUoU7lXyRKmoAkKPTM), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Petronila](https://open.spotify.com/album/6gyKGERNhWJWIL76C9VRq6) | 3:31 | 2022-04-15 | 2022-07-29 |
+| [Pide un deseo ✩](https://open.spotify.com/track/5kNot3Gv6xhoSn8Ek7OkvA) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Pide un deseo ✩](https://open.spotify.com/album/0rhlwixsHgSD2xJY493GaM) | 4:18 | 2025-07-02 |  |
 | [Piedad](https://open.spotify.com/track/4vYFrN4yxgUF3mzccFYAIs) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [Avena](https://open.spotify.com/album/3y2tTCdRWCM3VqKQpKEsVt) | 2:20 | 2023-08-04 | 2024-06-08 |
 | [Piel](https://open.spotify.com/track/4AmhpqjEzqCVVUWuzyNf5l) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII) | [Piel](https://open.spotify.com/album/2LVCOZjkJAcFtfn7Iru7Ay) | 3:27 | 2022-04-15 | 2022-07-28 |
 | [Piel de Cristal](https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Piel de Cristal](https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB) | 4:46 | 2024-05-17 |  |

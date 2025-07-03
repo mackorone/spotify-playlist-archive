@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47212,
+  "num_followers": 47208,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIF0Pky7yjq5Bsl+hymolqJR5bJjXg",
+  "snapshot_id": "AAAIGMkq34d9u6QF9ycBjuPUlSCIfUxh",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1989,6 +1989,26 @@
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
+      "added_at": "2025-07-03 00:41:06",
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/5aWmOzb0ZHCGB0GASqNWlC"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        }
+      ],
+      "duration_ms": 227983,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/4pEEaVhg7B1JJks7HmBNQI"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -2027,30 +2047,6 @@
       "duration_ms": 141951,
       "name": "Comes Down",
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
-    },
-    {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8"
-      },
-      "artists": [
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        },
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
     }
   ],
   "unique_name": "EDM Top 100",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Listen to soulful music from Metro... In Dino, Saiyaara and more.",
+  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Aankhon Ki Gustaakhiyan",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Bepanaahh",
+        "url": "https://open.spotify.com/album/71jAiq7XsWk58jiAPHLz6Q"
+      },
+      "artists": [
+        {
+          "name": "Tiger Shroff",
+          "url": "https://open.spotify.com/artist/3fRSA5zbD43VMmgwW84rOo"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194723,
+      "name": "Bepanaahh",
+      "url": "https://open.spotify.com/track/56D5WzK1l3VT6gWFVMvqtQ"
+    },
+    {
+      "album": {
         "name": "Bheegne De",
         "url": "https://open.spotify.com/album/5n2FEtr5JcMCo6mc2v8u9P"
       },
@@ -334,12 +352,12 @@
       },
       "artists": [
         {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
           "name": "Rochak Kohli",
           "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
         },
         {
           "name": "Gurpreet Saini",
@@ -931,6 +949,28 @@
     },
     {
       "album": {
+        "name": "Last Love",
+        "url": "https://open.spotify.com/album/2Q3FYaYV9ECw8MXUiM3YG7"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n"
+    },
+    {
+      "album": {
         "name": "Mann Ye Mera (From \"Metro ... In Dino\")",
         "url": "https://open.spotify.com/album/42JeoQ0RuFFzHJA2RVxvfC"
       },
@@ -1242,7 +1282,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 192461,
       "name": "Phirse Milo",
       "url": "https://open.spotify.com/track/0XYP5mVNGdU61z4nmWdOBh"
@@ -1571,7 +1611,7 @@
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224120,
+      "duration_ms": 225099,
       "name": "Son Of Sardaar 2 Title Track (From \"Son Of Sardaar 2\")",
       "url": "https://open.spotify.com/track/1053u3i0ZYjwGxC3bOP3io"
     },
@@ -1610,7 +1650,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 190019,
       "name": "Supriya / Ma",
       "url": "https://open.spotify.com/track/23ID0X4iDWFpBaS5mPVXN3"

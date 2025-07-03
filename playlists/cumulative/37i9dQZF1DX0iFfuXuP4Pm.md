@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Le John
+> Mga nangunguna sa mundo ng OPM\. Cover: Maki
 
-337 songs - 20 hr 58 min
+339 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Jigsaw Puzzle](https://open.spotify.com/track/1a17aapKcbXTSdrQM3B9ar) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Jigsaw Puzzle](https://open.spotify.com/album/7DpzEpSRjZiFFkRRpgYpWK) | 2:59 | 2025-01-15 | 2025-02-20 |
 | [K](https://open.spotify.com/track/78VwTvhDEgUe4etkxPyrMN) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [K](https://open.spotify.com/album/5YxEY0VbeXcdmha670Hh6s) | 3:45 | 2025-04-02 |  |
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-24 | 2024-12-12 |
-| [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 | 2025-03-26 |  |
+| [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 | 2025-03-26 | 2025-07-03 |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-18 |  |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-07 | 2024-09-05 |
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-24 | 2024-09-05 |
@@ -253,6 +253,7 @@
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2024-01-24 | 2024-05-09 |
 | [Paraya](https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Paraya](https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX) | 4:12 | 2024-09-11 | 2024-10-30 |
 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2024-01-24 | 2024-04-04 |
+| [Pasado](https://open.spotify.com/track/6CnRHAc2wQxd1q4MyQU2lr) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [Pasado](https://open.spotify.com/album/44PsVipyfXXv1s3jDG4TwE) | 3:37 | 2025-07-02 |  |
 | [Pasensyoso](https://open.spotify.com/track/6zdWDcq0oUFFMqDHVkCL8Y) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Pasensyoso](https://open.spotify.com/album/55n5ypmobXM2XfuUZosSo4) | 3:11 | 2025-01-22 | 2025-05-01 |
 | [Patintero](https://open.spotify.com/track/3nupCyAjgcopsWicJpGk6D) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patintero](https://open.spotify.com/album/0Ig0ZylVO9YCmgrYeYOLbk) | 2:53 | 2024-02-14 | 2024-02-29 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2024-01-24 | 2024-02-08 |
@@ -261,6 +262,7 @@
 | [Pikit Mata](https://open.spotify.com/track/7o4shGcqPhgiyzDoQup28j) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Pikit Mata](https://open.spotify.com/album/5mlLdZNF4pLhgp7jIXsU2r) | 3:25 | 2025-05-21 |  |
 | [Pinipili](https://open.spotify.com/track/0xJ4Qk9lIisIjOrI8bLkNP) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Pinipili](https://open.spotify.com/album/4T3NUu3OMXdyR8D6Fi9NfC) | 3:00 | 2024-11-06 | 2025-04-03 |
 | [PLANETA](https://open.spotify.com/track/1g3bRh2QMoIFsDqjxSrALk) | [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [PLANETA](https://open.spotify.com/album/4X8lD1CYW5tonDqQ9iUTSc) | 4:23 | 2024-03-06 | 2024-04-24 |
+| [PLY4](https://open.spotify.com/track/3nRlbohAuTQDgKdB7RQWBk) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe) | [PLY4](https://open.spotify.com/album/1pjgSL6hP3LmD21fwZkhQP) | 3:56 | 2025-07-02 |  |
 | [PNYT](https://open.spotify.com/track/40zI0A8TPHqfIZkODRVMas) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [PNYT](https://open.spotify.com/album/6ytFN9XP7CHBqjm5F1Ygf5) | 3:18 | 2025-02-12 | 2025-05-22 |
 | [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 | 2024-01-24 | 2024-06-27 |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-11 | 2024-10-03 |
@@ -323,7 +325,7 @@
 | [Thug](https://open.spotify.com/track/0PTYkBpalg3l8p3ABlfVNE) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [DRUGS](https://open.spotify.com/album/5g7qNOVyfZA3sZIFIcb6ia) | 2:44 | 2024-06-05 | 2024-07-04 |
 | [Tibok](https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 5:26 | 2025-03-13 |  |
 | [Tiger](https://open.spotify.com/track/2dLNWQzhAn3w9iBUVnXZb3) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Thanks For Everything](https://open.spotify.com/album/2x4KmypZUlBJ7YYsKYeYnr) | 4:21 | 2024-06-05 | 2024-07-04 |
-| [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-04-30 |  |
+| [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-04-30 | 2025-07-03 |
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2024-01-24 | 2024-07-12 |
 | [Toyo](https://open.spotify.com/track/1PxsXBSYcsO86i3RZZEwd5) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Toyo](https://open.spotify.com/album/2m4TsjHM0SnencJriOXEMM) | 4:12 | 2024-10-02 | 2025-01-30 |
 | [Triumph](https://open.spotify.com/track/3JU64RR6S7P3y4ne7V5OMG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Triumph](https://open.spotify.com/album/6jvr0yp0tK9JHnoXLqMDbG) | 2:53 | 2024-10-23 | 2024-12-05 |

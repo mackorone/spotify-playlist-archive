@@ -5796,7 +5796,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -14066,6 +14066,28 @@
       "duration_ms": 148850,
       "name": "Dale 2",
       "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
+    },
+    {
+      "album": {
+        "name": "Dale Con la Correa (Rkt)",
+        "url": "https://open.spotify.com/album/3f2U3z5tHj4iBL5SAxQ5NF"
+      },
+      "artists": [
+        {
+          "name": "DJ Lazerk Rmx",
+          "url": "https://open.spotify.com/artist/07BoS4zXnJIjPe6e3XIkuE"
+        },
+        {
+          "name": "Tomi Rmx",
+          "url": "https://open.spotify.com/artist/5hk5Jw9GqvzUFLCd927bnZ"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164451,
+      "name": "Dale Con la Correa - Rkt",
+      "url": "https://open.spotify.com/track/2qjBJqMuaaoMGaQps951WJ"
     },
     {
       "album": {
@@ -24178,7 +24200,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 213872,
       "name": "GUERRERAS",
       "url": "https://open.spotify.com/track/3NQUZViDGVRria8vSsgocO"
@@ -25136,7 +25158,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
@@ -32786,7 +32808,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -45296,7 +45318,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 164864,
       "name": "PILATES",
       "url": "https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv"
@@ -56794,7 +56816,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -62898,7 +62920,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 311106,
       "name": "Welcome to the Black Parade",
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
@@ -65236,7 +65258,7 @@
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         },
         {
-          "name": "Face",
+          "name": "Facebrooklyn",
           "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
         }
       ],

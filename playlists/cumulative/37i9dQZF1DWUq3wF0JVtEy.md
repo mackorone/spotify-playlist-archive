@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-540 songs - 1 day 2 hr 19 min
+541 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,10 @@
 | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK) | 2:44 | 2024-09-30 | 2025-03-25 |
 | [ADU](https://open.spotify.com/track/35qrZvnYZw3OEa2NAXc3iO) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [Sam Helix](https://open.spotify.com/artist/77rUVbhFaC5ayjN6nufaR6) | [ADU](https://open.spotify.com/album/5mhNe3gJCIfUbRLMT0XyWM) | 2:23 | 2023-07-14 | 2023-08-12 |
 | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Gustavo Dotch](https://open.spotify.com/artist/4BVrKqgmtI33WIxB6aabYZ), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/album/4VHGQcaaY2tPDJnSzt6IEm) | 2:34 | 2021-10-29 | 2022-12-17 |
-| [Afterparty](https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp) | 2:40 | 2025-04-11 |  |
+| [Afterparty](https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp) | 2:40 | 2025-04-11 | 2025-07-03 |
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-16 | 2024-04-19 |
 | [All Night](https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [All Night & Gemini](https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn) | 2:31 | 2025-05-30 |  |
+| [All Nighter](https://open.spotify.com/track/28BZvLsaXAKGAfy7cucvRo) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [All Nighter](https://open.spotify.com/album/2LExouzWxTSOae5akA2lIm) | 2:25 | 2025-06-27 |  |
 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 | 2024-04-19 |
 | [Alone](https://open.spotify.com/track/05u2bMqTUNgD5CnxM7pEcU) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Alone](https://open.spotify.com/album/2VXvzPE7jTOol7ALzyTAfL) | 2:29 | 2021-10-29 | 2022-07-29 |

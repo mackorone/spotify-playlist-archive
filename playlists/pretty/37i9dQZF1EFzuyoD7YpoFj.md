@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 394 songs - 20 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 394 songs - 20 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 131 | [You Don't Remind Me](https://open.spotify.com/track/0myKUjAqkq7ChI1Fm8hd9c) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:49 |
 | 132 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
 | 133 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
-| 134 | [Without your love](https://open.spotify.com/track/5jAw425BUP2RVDNJaZG2NL) | [Billie Holiday Orchestra, Lester Young](https://open.spotify.com/artist/0boUJeiqdjS7GP6On0qZzX) | [BILLIE HOLIDAY, LESTER YOUNG](https://open.spotify.com/album/3sKyhn3eEHRqmvOZ9HAYyR) | 2:52 |
-| 135 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
+| 134 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
+| 135 | [Without your love](https://open.spotify.com/track/5jAw425BUP2RVDNJaZG2NL) | [Billie Holiday Orchestra, Lester Young](https://open.spotify.com/artist/0boUJeiqdjS7GP6On0qZzX) | [BILLIE HOLIDAY, LESTER YOUNG](https://open.spotify.com/album/3sKyhn3eEHRqmvOZ9HAYyR) | 2:52 |
 | 136 | [Josephine](https://open.spotify.com/track/31JEH352ooSfGs6Q5sd4q7) | [Joe Carran](https://open.spotify.com/artist/5x6wMkB7SEywlaTUMqWOX9) | [Guitar Hits Chris Rea](https://open.spotify.com/album/3AFTvBJmjXXbvKqwC0o0v9) | 4:32 |
 | 137 | [High Heeled Shoes](https://open.spotify.com/track/6oyfYM2xHx5Yx7ayCH1vKR) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:20 |
 | 138 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
@@ -239,8 +239,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 229 | [Du hast mich ganz in der Hand \(I've Got You Under My Skin\)](https://open.spotify.com/track/61IzE2msyKWuVmbrFhz9Sb) | [Harald Juhnke](https://open.spotify.com/artist/7bny6ijof5zpSXItB4GOJa) | [Juhnke singt Sinatra](https://open.spotify.com/album/2mQDPrwiQcwNhmVLeUSKk4) | 3:32 |
 | 230 | [Where Would You Get your Coat?](https://open.spotify.com/track/70KYvjr7X2pqjmdoQXkPmo) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [James Burton](https://open.spotify.com/artist/2RAajwxQybgx0iIibcGHLo) | [The Cole Porter Songbook](https://open.spotify.com/album/6PNkhsKP6u3qreme9ZFPGJ) | 3:04 |
 | 231 | [Let's Not Talk About Love](https://open.spotify.com/track/1XBi1XTuFppw1N8B8pirIs) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:39 |
-| 232 | [From Alpha to Omega](https://open.spotify.com/track/0gUWRzwRKeerxnDx3wL3KO) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:44 |
-| 233 | [Hot\-House Rose](https://open.spotify.com/track/5qnEOitJEK4iIOsY1NUlOF) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [A Ghost of a Chance](https://open.spotify.com/album/0Z6PwRMIfCvdxGSESU3ejc) | 2:51 |
+| 232 | [Hot\-House Rose](https://open.spotify.com/track/5qnEOitJEK4iIOsY1NUlOF) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [A Ghost of a Chance](https://open.spotify.com/album/0Z6PwRMIfCvdxGSESU3ejc) | 2:51 |
+| 233 | [From Alpha to Omega](https://open.spotify.com/track/0gUWRzwRKeerxnDx3wL3KO) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:44 |
 | 234 | [If You Could Love Me \(Featuring Carol Sloane\)](https://open.spotify.com/track/28h6egoNyIIKaZFmhN6tOY) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [We'll Meet Again](https://open.spotify.com/album/3vu9tCv3cuJZAeDth8BVZU) | 2:37 |
 | 235 | [Katie Went to Haiti](https://open.spotify.com/track/6Xs8K243Bssx5oRk6KLFQ9) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 4:39 |
 | 236 | [By Candlelight](https://open.spotify.com/track/1LTgFZwX2k1Dl0NxjSaTMx) | [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:48 |
@@ -403,4 +403,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 393 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 394 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Ab1pKAAAAACatD073M29I5taFzM84iQP`
+Snapshot ID: `Ab1uvgAAAAAls5k5aCi86kxZLhEeUGJv`

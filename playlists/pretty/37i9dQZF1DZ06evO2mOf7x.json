@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46180,
+  "num_followers": 46187,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAADeJ5xLbxIEOWMRY4415/AW",
+  "snapshot_id": "aGMlAAAAAADucULrTtHzmzilYZPg6kOx",
   "tracks": [
     {
       "added_at": null,
@@ -258,11 +258,15 @@
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
+      "duration_ms": 184469,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo"
     },
     {
       "added_at": null,
@@ -382,15 +386,11 @@
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 184469,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo"
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: アイナ・ジ・エンド\*👉 <a href="https://spice.eplus.jp/articles/338805">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: アイナ・ジ・エンド\*👉 <a href="https://spice.eplus.jp/articles/338996">連動記事</a>をSPICEでチェック!
 
-11,083 songs - 28 day 20 hr 22 min
+11,084 songs - 28 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [2025/6/18 羊文学がカバー！Superfly&清水翔太から番組にメッセージが到着！STUTS on the WAVEの楽曲、Tani Yuukiのニューアルバム、Early Noiseアーティストreinaが Bonberoを迎えた新曲もピックアップ！](https://open.spotify.com/episode/3NvsLdwfJuhQPB9qVbtjK7) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 31:45 | 2025-06-18 | 2025-06-25 |
 | [2025/6/25 LE SSERAFIMがカバー！YENTOWNのアルバム、SIRUPとAyumu Imazuのコラボ曲もピックアップ！Early NoiseアーティトLavtの新曲、back numberの新曲、Chilli Beans.のニューEPも！](https://open.spotify.com/episode/15BjuA68tsPyiyKNn3QM0X) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:10 | 2025-06-25 | 2025-07-02 |
 | [2025/6/4 Mrs\. GREEN APPLEがカバー！ニューアルバムをリリースしたanoからメッセージが到着！紫 今からのメッセージも！OvallのニューEP、CLAN QUEENのニューアルバム、Early Noiseアーティスト7coの新曲も！](https://open.spotify.com/episode/6JV0FV5nj82UsQxrp0NgFy) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 31:28 | 2025-06-04 | 2025-06-11 |
+| [2025/7/2 アイナ・ジ・エンドが新曲をリリース！SuchmosのニューEPも！JP THE WAVYのニューミックステープ、Early Noiseアーティストreinaのニューアルバム、日本人アーティストとして初めて『NPR Music Tiny Desk Concerts』に出演したさかいゆうのセッションEPもピックアップ！超ときめき♡宣伝部からのメッセージも到着！](https://open.spotify.com/episode/2mtu0hou5IGb3VSlLqRSUz) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 28:25 | 2025-07-02 |  |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/0t6GDvannAPMhpYV9KQvhd) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4NQWLV27zjKf450cF0HtGp) | 5:12 | 2023-09-12 | 2023-09-14 |

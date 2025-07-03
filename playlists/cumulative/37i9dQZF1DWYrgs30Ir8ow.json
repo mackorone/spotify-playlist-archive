@@ -6517,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "Festi",
+        "url": "https://open.spotify.com/album/5nJVq69Pep0uWAvnEspPJJ"
+      },
+      "artists": [
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        },
+        {
+          "name": "Robin Roxette",
+          "url": "https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168508,
+      "name": "Festi",
+      "url": "https://open.spotify.com/track/4KxpYIPZazJAptELA0fpVK"
+    },
+    {
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11328,
+  "num_followers": 11329,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-07-01 02:20:31",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "ADONIS",
-      "url": "https://open.spotify.com/track/6WmVzQtYDvvYX4TlqFIoeV"
-    },
-    {
-      "added_at": "2025-07-01 02:20:31",
-      "album": {
         "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 168492,
       "name": "Your Shampoo Scent In The Flowers",
       "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
+    },
+    {
+      "added_at": "2025-07-01 02:20:31",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "ADONIS",
+      "url": "https://open.spotify.com/track/6WmVzQtYDvvYX4TlqFIoeV"
     },
     {
       "added_at": "2025-07-01 02:20:31",

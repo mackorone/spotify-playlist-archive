@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,354 songs - 19 day 2 hr 53 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,357 songs - 19 day 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5351,7 +5351,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5341 | [Never Ever Land](https://open.spotify.com/track/6YBUD3rcjkmzQPBn5uXgzz) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/4bJCgEvJNMhIxmufeJlFB9) | 2:26 |
 | 5342 | [Bust Down](https://open.spotify.com/track/173KirQOJcXBCyqADQBpt9) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 2](https://open.spotify.com/album/7ve4rvPe7dPpwWS6VkrFOr) | 4:05 |
 | 5343 | [In Too Deep](https://open.spotify.com/track/12HuSGHKC4aw3kveG29yGr) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 2](https://open.spotify.com/album/7ve4rvPe7dPpwWS6VkrFOr) | 3:43 |
-| 5344 | [Woah Woah Woah/Crashbandicoot And Chill](https://open.spotify.com/track/2gltiPEvkB5xZxAUMiYQ4U) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [A Love Letter To You 2](https://open.spotify.com/album/7ve4rvPe7dPpwWS6VkrFOr) | 3:42 |
+| 5344 | [Woah Woah Woah/Crashbandicoot And Chill](https://open.spotify.com/track/2gltiPEvkB5xZxAUMiYQ4U) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Bali Baby](https://open.spotify.com/artist/1497pt1sik1SShMQo8RVm4) | [A Love Letter To You 2](https://open.spotify.com/album/7ve4rvPe7dPpwWS6VkrFOr) | 3:42 |
 | 5345 | [Hellboy](https://open.spotify.com/track/08LNqSBhE9ygNEHD6YFQrW) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 2](https://open.spotify.com/album/7ve4rvPe7dPpwWS6VkrFOr) | 3:08 |
 | 5346 | [Topanga](https://open.spotify.com/track/5aXgz1oKK8Q9z9xvTmSnrO) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug) | 3:35 |
 | 5347 | [Fire Starter](https://open.spotify.com/track/2lvOt6VAufWlstrqutilVb) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Emani 22](https://open.spotify.com/artist/7JngWflkjFnNJSz07XLV2w) | [A Love Letter To You 3](https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug) | 2:37 |
@@ -7362,5 +7362,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7352 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 |
 | 7353 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:22 |
 | 7354 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
+| 7355 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 |
+| 7356 | [Tonight You Belong To Me](https://open.spotify.com/track/77MHOLfTVDlhcX0yDr23Uu) | [Patience & Prudence](https://open.spotify.com/artist/4F78tRprgxpEnopKTTWXor) | [The Best Of Patience & Prudence](https://open.spotify.com/album/4gjLIgSU0YkJn42NSfckkT) | 1:55 |
+| 7357 | [Ohio Valley](https://open.spotify.com/track/1IFRWHavDFp6XEk75pwEuo) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC) | [Ohio Valley](https://open.spotify.com/album/6pDSPsJIRt5VJLMBn0pyGa) | 2:11 |
 
-Snapshot ID: `AAAHcWXfwXWHccqf0+Gnk0cSOxOvvKIs`
+Snapshot ID: `AAAHdIWQsNdwphTtSpgw0yvlir1rYx6I`

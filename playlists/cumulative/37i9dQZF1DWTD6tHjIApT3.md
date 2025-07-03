@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 7co
 
-3,149 songs - 8 day 9 hr 18 min
+3,151 songs - 8 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-23 |
 | [CITY LIFE](https://open.spotify.com/track/1bfky1ySIKHaornviiF6mW) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [CITY LIFE](https://open.spotify.com/album/6ofDypKApQAyvLBPrIIrbc) | 3:55 | 2022-07-26 | 2022-08-03 |
 | [Clair de Lune](https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Clair de Lune](https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL) | 3:35 | 2023-12-05 | 2023-12-13 |
+| [Close my eyes \(feat\. さらさ\)](https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 3:39 | 2025-07-02 |  |
 | [close to you](https://open.spotify.com/track/6vNB1Ifizvcv6d04fZKoiZ) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [close to you](https://open.spotify.com/album/3QLKhb3MrJ4xLrRHMR5ioy) | 3:56 | 2022-05-29 | 2022-07-29 |
 | [Close your eyes](https://open.spotify.com/track/020aJBmmczkbPDICFmO3IN) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Close your eyes](https://open.spotify.com/album/5fMKsGBD1hcEKrJ2b2AYqL) | 4:14 | 2024-03-19 | 2024-03-27 |
 | [cloud](https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x) | [hyou](https://open.spotify.com/artist/5MKWIRBAlanbDXXUTGaCRT) | [cloud](https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA) | 3:52 | 2022-07-19 | 2022-07-27 |
@@ -1737,7 +1738,7 @@
 | [Wedding Day](https://open.spotify.com/track/26nJDSHlB0xWTccvL2icjU) | [平原綾香](https://open.spotify.com/artist/2dG2McYlq4NOdcDSsDhzPQ) | [Wedding Day](https://open.spotify.com/album/7D12WuEP2z05yqK5hgnAO3) | 3:27 | 2023-06-06 | 2023-06-08 |
 | [week by week](https://open.spotify.com/track/0QVLNhGF8DhiR2a0uUIJ29) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [MOMENT](https://open.spotify.com/album/2OEsoLGGkvkAt0gThjpO7t) | 3:19 | 2025-04-01 | 2025-04-09 |
 | [WEEKEND](https://open.spotify.com/track/2AJNDcXp8IwJ48IL868i92) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [WEEKEND](https://open.spotify.com/album/6itx7fTirph9qbUKidhIoQ) | 3:28 | 2022-06-02 | 2022-07-20 |
-| [weekly](https://open.spotify.com/track/6DeyonC0kWc9WmHo5PilOA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [weekly](https://open.spotify.com/album/6cc8K3u6TSuN2gOWGFGNpf) | 2:38 | 2025-04-29 |  |
+| [weekly](https://open.spotify.com/track/6DeyonC0kWc9WmHo5PilOA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [weekly](https://open.spotify.com/album/6cc8K3u6TSuN2gOWGFGNpf) | 2:38 | 2025-04-29 | 2025-07-03 |
 | [Wellmade](https://open.spotify.com/track/4c3w3gcinYMP7NiAGr9o30) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Wellmade](https://open.spotify.com/album/3hfhcnGgl5jypAv4eKxkOK) | 4:21 | 2022-11-29 | 2022-12-07 |
 | [What a View](https://open.spotify.com/track/4xeDgkZZMm7e42KRhgynhe) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [I Want to See You So Badly](https://open.spotify.com/album/5AvOgLo5tbPdTxwO1OYB00) | 2:04 | 2023-02-28 | 2023-03-08 |
 | [What the Hell](https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell](https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN) | 4:08 | 2023-11-28 | 2023-12-06 |
@@ -2999,7 +3000,7 @@
 | [背中](https://open.spotify.com/track/6PrYXrV8e4qS4Ur32gTDZB) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [背中](https://open.spotify.com/album/6TG3auKL2HVqJxXTTQYeeb) | 3:54 | 2024-07-09 | 2024-07-27 |
 | [背中を](https://open.spotify.com/track/7zHPOsYGPT8kTLfLIjrMvC) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [背中を](https://open.spotify.com/album/72pLNiuM2cjX7kE0YABaYB) | 4:29 | 2025-02-11 | 2025-02-19 |
 | [背伸び](https://open.spotify.com/track/6S9hUNHDxAfJavmC16FyT1) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [背伸び](https://open.spotify.com/album/694IZpVis7LuvjPGrPfo2e) | 4:33 | 2022-06-02 | 2022-07-04 |
-| [脈拍](https://open.spotify.com/track/5g9iwSWKeJu6fgOrBrBuuG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [脈拍](https://open.spotify.com/album/6KhkCzUE5JSfRUbLuOAoVI) | 3:38 | 2025-05-06 |  |
+| [脈拍](https://open.spotify.com/track/5g9iwSWKeJu6fgOrBrBuuG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [脈拍](https://open.spotify.com/album/6KhkCzUE5JSfRUbLuOAoVI) | 3:38 | 2025-05-06 | 2025-07-03 |
 | [脱・借りてきた猫症候群](https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 3:49 | 2023-01-31 | 2023-07-12 |
 | [自分の機嫌は自分でとる \(Remix\) \(feat\. あっこゴリラ & CLR\)](https://open.spotify.com/track/07wnhyqcq6VFm2KbKEPHiP) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [あっこゴリラ](https://open.spotify.com/artist/7dwba4b8gRshz45YIE6wJl), [CLR](https://open.spotify.com/artist/7LSARN9w89Cr0AuIturBpH) | [自分の機嫌は自分でとる \(Remix\) \[feat\. あっこゴリラ & CLR\]](https://open.spotify.com/album/1ZrUtalwES4l16sPXXow0G) | 4:22 | 2023-05-09 | 2023-05-17 |
 | [自販機の恋](https://open.spotify.com/track/2uyvkc1JKxKZwjG29sZuy9) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [自販機の恋](https://open.spotify.com/album/2QZ0tYoMz86pEtRIbq3zNB) | 4:31 | 2023-08-08 | 2023-08-10 |
@@ -3119,6 +3120,7 @@
 | [青藍遊泳](https://open.spotify.com/track/2jIfery4lw2abLEQ3QBBIO) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳](https://open.spotify.com/album/5dlzxOKdX0PwEvd3kfzJva) | 3:48 | 2022-06-14 | 2022-07-29 |
 | [青藍遊泳 \- From THE FIRST TAKE](https://open.spotify.com/track/59HgCwjIaxVbJs860xnVtT) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳 \(From THE FIRST TAKE\)](https://open.spotify.com/album/5UGM0wsfgPSbR9caFNWqIq) | 3:58 | 2022-09-15 | 2022-11-09 |
 | [革命](https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [変身のレシピ](https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk) | 3:05 | 2024-12-10 | 2025-01-10 |
+| [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 | 2025-07-02 |  |
 | [音の記憶](https://open.spotify.com/track/48CztoIkzgIucZ6ynPUrmr) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C) | [甘い予感](https://open.spotify.com/album/3aCsWq38elPFkdUdVGDj5n) | 5:00 | 2023-10-26 | 2023-11-01 |
 | [頂戴](https://open.spotify.com/track/0BIN1XDF7A976H82vIG49M) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [頂戴](https://open.spotify.com/album/5WBXWunGcA72Zo8noYVgdk) | 3:45 | 2022-06-14 | 2022-07-20 |
 | [須臾の島 feat\. ぷにぷに電機](https://open.spotify.com/track/6NzyTK0raOqtE9DVm00qHj) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [須臾の島 feat\. ぷにぷに電機](https://open.spotify.com/album/4171BuBCD86VDuavepuczQ) | 5:02 | 2022-06-30 | 2022-07-06 |

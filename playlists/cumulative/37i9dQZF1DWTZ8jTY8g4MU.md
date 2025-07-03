@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-269 songs - 17 hr 46 min
+271 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,9 @@
 | [انا المخطي](https://open.spotify.com/track/2swUzeYPuT4sM5fOF3fWhF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/3BSglbJHaNmKZLmkAJRU11) | 3:32 | 2022-03-30 | 2022-11-02 |
 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 | 2023-04-23 |
 | [انا مستغرب](https://open.spotify.com/track/0SVGqnBaDrCMYhGfERHdBu) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [انا مستغرب](https://open.spotify.com/album/7jkatJdfKoVj5MYrCkjfYf) | 5:00 | 2023-09-22 | 2024-01-12 |
-| [اوراق الشجر](https://open.spotify.com/track/5q68H8CXMuDxt0tMvnnsNr) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [اوراق الشجر](https://open.spotify.com/album/2eAe4t7F5ymQhqcizQkIG0) | 4:39 | 2024-02-01 |  |
+| [اوراق الشجر](https://open.spotify.com/track/5q68H8CXMuDxt0tMvnnsNr) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [اوراق الشجر](https://open.spotify.com/album/2eAe4t7F5ymQhqcizQkIG0) | 4:39 | 2024-02-01 | 2025-07-03 |
 | [باقي ابيك](https://open.spotify.com/track/1MZM9mJrJxWzRq9pD8dSsG) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [باقي ابيك](https://open.spotify.com/album/1O9WaXxGcmMmooCWmmOqxL) | 3:56 | 2024-05-09 |  |
-| [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 | 2024-02-01 |  |
+| [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 | 2024-02-01 | 2025-07-03 |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 | 2022-08-31 | 2023-04-06 |
 | [بحر شوقك](https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [بحر شوقك](https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF) | 3:32 | 2024-07-30 |  |
@@ -143,6 +143,7 @@
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-03-30 | 2022-11-02 |
 | [زينك دمار](https://open.spotify.com/track/5G9l3hXgO5ajf2LW2FUmLK) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [زينك دمار](https://open.spotify.com/album/7rp8YBgnlomjYRbdRW77Wg) | 4:34 | 2022-08-31 | 2023-02-23 |
 | [ساحات القتال](https://open.spotify.com/track/39cPE4OFVKrkZDNJDd2AS9) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ساحات القتال](https://open.spotify.com/album/4COIAcMCZVcEEh3SwiqaQW) | 5:50 | 2023-09-06 | 2023-12-06 |
+| [سر اهتمامي](https://open.spotify.com/track/4LoV1IoB508ftNB35tjx8g) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سر اهتمامي](https://open.spotify.com/album/6RnLMh24W0dX6H9OLX7Xrw) | 3:09 | 2025-07-02 |  |
 | [سرا بارقً](https://open.spotify.com/track/30l1OAUvcQZ3DTWJ77H2tO) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [سرا بارقً](https://open.spotify.com/album/2AWEOJJ3S6zE1QcqgF8oMh) | 3:53 | 2024-02-01 |  |
 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-13 | 2022-11-12 |
 | [سكه مجهوله](https://open.spotify.com/track/7gjSyunjwABlGVRnqyzmXi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/3YwV5Rkiq1ZJrcdXP4bV5M) | 4:20 | 2022-10-06 | 2023-02-23 |
@@ -196,6 +197,7 @@
 | [قوس](https://open.spotify.com/track/0aR1vyY71yHDHAmyz64trE) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [قوس](https://open.spotify.com/album/2xE0r2WvbfqGBi5cj47CcB) | 4:01 | 2022-03-30 | 2022-11-03 |
 | [قوس](https://open.spotify.com/track/0rPpEWXp2XynC2CX1jyGk8) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [قوس](https://open.spotify.com/album/79xWt8UkQRMA0rM1z3BAJR) | 4:01 | 2022-08-31 | 2023-02-23 |
 | [كثير اشتقت](https://open.spotify.com/track/0sqyiIR4M1dwuyEbsyAeow) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [كثير اشتقت](https://open.spotify.com/album/113gPgvcLFd3nrQNVkNyGG) | 3:34 | 2023-07-27 | 2024-12-20 |
+| [كل شي فداك](https://open.spotify.com/track/1JZTkJ73SogDdR2n4USS7R) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كل شي فداك](https://open.spotify.com/album/3zEdab7bo7unrBVPNl0BcA) | 4:03 | 2025-07-02 |  |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-03-30 | 2022-11-03 |
 | [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-08-31 | 2023-09-22 |
 | [كيف حالك](https://open.spotify.com/track/0Ds7FDZmyfC8YGCfwJGYDT) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [كيف حالك](https://open.spotify.com/album/49gMMDBmuFcD3Ezn6sfBim) | 3:55 | 2022-03-30 | 2022-06-14 |

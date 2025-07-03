@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-826 songs - 1 day 8 hr 9 min
+828 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Among The Clouds](https://open.spotify.com/track/25f125XpvPHEAOECTZ7Yy5) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Among The Clouds](https://open.spotify.com/album/04aNwPG8RYdw21VjCqA6Jq) | 1:32 | 2022-12-02 | 2023-10-13 |
 | [An Anomaly](https://open.spotify.com/track/0ETsKmUjKMk5KbMktmcJkt) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [An Anomaly](https://open.spotify.com/album/6IsZFU8C4UKMyB2HJz8rDJ) | 3:09 | 2023-08-18 |  |
 | [analog dreams](https://open.spotify.com/track/5h96Ai7Ef7ll9142dnOukV) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [analog dreams](https://open.spotify.com/album/3Uydfa6YJRIsAGR5eoRULU) | 2:28 | 2025-01-17 |  |
+| [Ancient Moon](https://open.spotify.com/track/35GlgmuBmrkCT6nM8S5PBK) | [Flash Cut](https://open.spotify.com/artist/18og5BfnT40SMfHFXOpTMr) | [Ancient Moon](https://open.spotify.com/album/0zgR68AT6F9AEuV3IZaA8b) | 2:24 | 2025-07-02 |  |
 | [Anemoia](https://open.spotify.com/track/7DScOHgMzpay4KJiqZTNJ3) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [Heal Your Universe](https://open.spotify.com/artist/6x8tazUGm5G9EoxB5omDZA) | [Childhood](https://open.spotify.com/album/2VGqG7C1sxzowMNpDCv5Wt) | 1:44 | 2025-05-16 |  |
 | [Angel Number](https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Angel Number](https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f) | 2:26 | 2022-05-20 | 2022-07-01 |
 | [animos](https://open.spotify.com/track/5CLBmr7bGBnsCFAsXITIyJ) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [animos](https://open.spotify.com/album/2w1cTkkTNv3VJNPz7tenr3) | 2:19 | 2023-09-29 |  |
@@ -56,6 +57,7 @@
 | [Appealing](https://open.spotify.com/track/6yubQQnxUPxOJH2CMq1Sd9) | [Tropicolor](https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO) | [Appealing](https://open.spotify.com/album/4xikKZ8fyq5iM5yjtn1ljw) | 2:30 | 2024-03-22 |  |
 | [Apricity](https://open.spotify.com/track/0PjiayxpzllsV5VsOLRaQM) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Apricity](https://open.spotify.com/album/06lCTdkWrqXcW6x2N67ZQh) | 2:32 | 2022-08-12 | 2023-07-18 |
 | [arcade](https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [arcade](https://open.spotify.com/album/6ATjRptrFPrGkGsCn7CoT9) | 1:48 | 2023-03-16 |  |
+| [are we ever sure?](https://open.spotify.com/track/0ulGlPM7oIj9gsb7Hk9nDx) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [are we ever sure?](https://open.spotify.com/album/36bqT0gBDoaQVdwWxIuNGv) | 2:27 | 2025-07-02 |  |
 | [Artifact](https://open.spotify.com/track/0fZ0xr4utWdReyvnCpG99B) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Artifact](https://open.spotify.com/album/21Z8K7bbSZnLKRG7NHoZxb) | 1:34 | 2022-06-17 | 2022-07-08 |
 | [As a Friend](https://open.spotify.com/track/30rfKLLYkq4OtrRWTYAu2c) | [Eamon Lee](https://open.spotify.com/artist/48L5RaQhOrbyJQg3ZC0lo9) | [Real Down Tropical](https://open.spotify.com/album/3xEqVBh6H0vw0HBXOloHvu) | 1:59 | 2022-05-20 | 2024-05-14 |
 | [as the moon calls](https://open.spotify.com/track/7qVRNNbYmHwkUArQqdok7E) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [as the moon calls](https://open.spotify.com/album/3tPeY245rlf3H46W8yOGpX) | 2:02 | 2024-10-18 |  |
@@ -476,7 +478,7 @@
 | [Moniva](https://open.spotify.com/track/2EyksANQ3HLOJgwOhcRnXA) | [StormRoy](https://open.spotify.com/artist/0TjTRdhmu6FHGVRMGYki4K), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Moniva](https://open.spotify.com/album/5AUosIrIdr8jR0o6Zpfl3p) | 2:28 | 2022-05-20 | 2022-12-12 |
 | [monsoon](https://open.spotify.com/track/0SX9lf9vg65ZFxiCd9OGCe) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [monsoon](https://open.spotify.com/album/6pRS3ChaTecYNUDvL5KT6I) | 3:09 | 2024-05-13 | 2025-01-11 |
 | [moon inhale](https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [moon inhale](https://open.spotify.com/album/3wrPhTn9llGGlRbVtvZudr) | 2:08 | 2023-11-17 |  |
-| [Moonlight](https://open.spotify.com/track/4NH933QwSMvDKjrk4rK4Ht) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh), [Lazy Elias](https://open.spotify.com/artist/6hJhvGKRLfcdvnpQD3gxzC) | [Moonlight](https://open.spotify.com/album/4ME3sbI4VW19bovevqRE0z) | 2:15 | 2022-12-02 |  |
+| [Moonlight](https://open.spotify.com/track/4NH933QwSMvDKjrk4rK4Ht) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh), [Lazy Elias](https://open.spotify.com/artist/6hJhvGKRLfcdvnpQD3gxzC) | [Moonlight](https://open.spotify.com/album/4ME3sbI4VW19bovevqRE0z) | 2:15 | 2022-12-02 | 2025-07-03 |
 | [moonlight](https://open.spotify.com/track/0tgOSi0Ew7wPIm1TyA3YPJ) | [drmycat](https://open.spotify.com/artist/50gpOabMr60yHviIA8gNY6) | [moonlight](https://open.spotify.com/album/0HBJZGo9r9xT0Dlhu6xcEh) | 2:12 | 2022-08-05 | 2023-07-18 |
 | [Moonlight](https://open.spotify.com/track/6WDUcgnQGHLDvu8iVP5VIM) | [Hocoro Beats](https://open.spotify.com/artist/0nJsfTU9WQgy4iER7rcbmJ) | [Moonlight](https://open.spotify.com/album/01Vz817482mLFogOI1e2zV) | 2:16 | 2022-06-24 | 2022-08-12 |
 | [Moonlight](https://open.spotify.com/track/6zJuCh8h890yf11u78TSLq) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [Moonlight](https://open.spotify.com/album/5s9vXyaUaeQiop5EqTAYCQ) | 2:24 | 2022-05-20 | 2023-01-20 |
@@ -663,7 +665,7 @@
 | [Sleepy](https://open.spotify.com/track/2Cz4rYup2tiEdyGX0IWnH7) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Sleepy](https://open.spotify.com/album/7tFMXi2wpaKTeljmEQYJm6) | 2:07 | 2023-05-03 | 2023-09-22 |
 | [Sleepy Head](https://open.spotify.com/track/6pxQSodKSYDVDwDE8LfmTe) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Sleepy Head](https://open.spotify.com/album/3YnBK7aoWudswh1gfBKk4a) | 2:13 | 2022-09-09 |  |
 | [Sleepyheads](https://open.spotify.com/track/368S4dcIrNUR3nkLkkkQBu) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [John Lenin](https://open.spotify.com/artist/7jxvgrk7kNnUykaVtGgBe0) | [Sleepyheads](https://open.spotify.com/album/3fxMNV9prg7V6Ry7N3WQWs) | 2:19 | 2023-07-17 | 2023-09-22 |
-| [slippin](https://open.spotify.com/track/3B76b41yF88QMw2pEuHSbu) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [slippin](https://open.spotify.com/album/7z93Voy51qPXBmpOD22dO3) | 3:00 | 2024-09-13 |  |
+| [slippin](https://open.spotify.com/track/3B76b41yF88QMw2pEuHSbu) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [slippin](https://open.spotify.com/album/7z93Voy51qPXBmpOD22dO3) | 3:00 | 2024-09-13 | 2025-07-03 |
 | [Slow Drives](https://open.spotify.com/track/5dUpBcyuNSuqSUmZ5lmuO5) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [Slow Drives](https://open.spotify.com/album/6Vvb8APjpOiP74S0Ko93TV) | 1:44 | 2022-07-22 | 2024-07-27 |
 | [Slow Motion](https://open.spotify.com/track/3ggW4rNYrfFIb5hsnKockh) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Slow Motion](https://open.spotify.com/album/3uBcCG3c9QUDBK2S6lkwdT) | 2:37 | 2023-07-17 | 2023-09-22 |
 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 | 2023-01-13 |  |

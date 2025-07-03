@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,828 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,853 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 25 | [DOUBLE C](https://open.spotify.com/track/7q7rw7lURhzzKdniisNXIW) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:46 |
 | 26 | [Half](https://open.spotify.com/track/4vr6jI2fJR8EGSCpjotsXU) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Evan Kennedy](https://open.spotify.com/artist/5fBVjzbzKH2o6ufgkmNBQ0) | [Half](https://open.spotify.com/album/4CZORIn8CJN3MmYpaShUG8) | 3:59 |
 | 27 | [Make U Sick](https://open.spotify.com/track/0SkXdo7T16kLkiutKVTt70) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Make U Sick](https://open.spotify.com/album/2HDGZrwuzUgSWX1yjYfItq) | 2:48 |
-| 28 | [London Lights](https://open.spotify.com/track/47I8ew4M9TQLVFVqVGxjPz) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [London Lights](https://open.spotify.com/album/3ORTbqyGSadMNPQ2ceXxU9) | 4:11 |
+| 28 | [London Lights](https://open.spotify.com/track/47I8ew4M9TQLVFVqVGxjPz) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [London Lights](https://open.spotify.com/album/3ORTbqyGSadMNPQ2ceXxU9) | 4:11 |
 | 29 | [Get Right](https://open.spotify.com/track/6eKJ2f4krilnklIXlVs2vK) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Get Right](https://open.spotify.com/album/4GX4TjznT6VPHHXhZepZZd) | 2:56 |
 | 30 | [First Class](https://open.spotify.com/track/4pRkhDT2Ts6zD9rIEr8OUU) | [Loosie Grind](https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv) | [First Class](https://open.spotify.com/album/167ICCyNxUheWvRWduVOeS) | 3:23 |
 | 31 | [Rewire](https://open.spotify.com/track/5p3gVS2XqtD93F0In8gBmG) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [PENELOPE](https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J) | [Rewire](https://open.spotify.com/album/7jxycIbawO359gUd329iJn) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Papa Roach",
-  "num_followers": 403916,
+  "num_followers": 404012,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -771,18 +771,22 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+        "name": "HURT (feat. The Warning)",
+        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
+      "duration_ms": 213924,
+      "name": "HURT (feat. The Warning)",
+      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -803,22 +807,18 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "HURT (feat. The Warning)",
-        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
       },
       "artists": [
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 213924,
-      "name": "HURT (feat. The Warning)",
-      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "All the Way Down",
-        "url": "https://open.spotify.com/album/5AyOJ8o2kQCd4uHSDQf9xI"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "All the Way Down",
-      "url": "https://open.spotify.com/track/6k8yVeEdbvkEbPYTCp0v20"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 243522,
       "name": "Keep Sweet",
       "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
+        "name": "All the Way Down",
+        "url": "https://open.spotify.com/album/5AyOJ8o2kQCd4uHSDQf9xI"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "All the Way Down",
+      "url": "https://open.spotify.com/track/6k8yVeEdbvkEbPYTCp0v20"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
+        "name": "Drain The Blood",
+        "url": "https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Drain The Blood",
+      "url": "https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
         "name": "Darkness Always Wins",
         "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 235000,
       "name": "Make Me A Martyr",
       "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
-        "name": "Drain The Blood",
-        "url": "https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Drain The Blood",
-      "url": "https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 225871,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
+        "name": "The Father of Make Believe",
+        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 256028,
+      "name": "Goodbye, Sunshine",
+      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "The Father of Make Believe",
-        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 256028,
-      "name": "Goodbye, Sunshine",
-      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
+      "duration_ms": 200204,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
-        "url": "https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
-      "url": "https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
         "name": "The Death Card",
         "url": "https://open.spotify.com/album/2fcTgvULqmDLlE5nX0GJ5S"
       },
@@ -1551,22 +1535,6 @@
       "duration_ms": 194445,
       "name": "Chains (The Tower)",
       "url": "https://open.spotify.com/track/158lKbSQmYwxDU9rQpN11R"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 234931,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -1595,6 +1563,22 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
         "name": "PRAY TO ME",
         "url": "https://open.spotify.com/album/71kIIbBZIrVzJaJQaiQeQN"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "Paws",
-        "url": "https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v"
+        "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+        "url": "https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d"
       },
       "artists": [
         {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 259088,
-      "name": "Paws",
-      "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"
+      "duration_ms": 258239,
+      "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+      "url": "https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -1651,6 +1635,22 @@
       "duration_ms": 188160,
       "name": "Odd Behavior",
       "url": "https://open.spotify.com/track/4nOEsND95g9qDDxrkiQ7Ok"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
+        "name": "Paws",
+        "url": "https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 259088,
+      "name": "Paws",
+      "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "Killing Spree",
-        "url": "https://open.spotify.com/album/4syqYa5oA4mrTnoFrwuLor"
-      },
-      "artists": [
-        {
-          "name": "Daron Malakian and Scars On Broadway",
-          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
-        }
-      ],
-      "duration_ms": 166984,
-      "name": "Killing Spree",
-      "url": "https://open.spotify.com/track/3tAk2w4j6Dd1MFrWmSfOZk"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
         "name": "Say It To My Face",
         "url": "https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 188731,
       "name": "Say It To My Face",
       "url": "https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
+        "name": "Killing Spree",
+        "url": "https://open.spotify.com/album/4syqYa5oA4mrTnoFrwuLor"
+      },
+      "artists": [
+        {
+          "name": "Daron Malakian and Scars On Broadway",
+          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
+        }
+      ],
+      "duration_ms": 166984,
+      "name": "Killing Spree",
+      "url": "https://open.spotify.com/track/3tAk2w4j6Dd1MFrWmSfOZk"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
+        "name": "bored. tired. torn.",
+        "url": "https://open.spotify.com/album/1iDIQfen7qk0y1XNJUdRAM"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "bored. tired. torn.",
+      "url": "https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
         "name": "Left Alone",
         "url": "https://open.spotify.com/album/0xZYX3aL2DGzZXSdWTdkWS"
       },
@@ -2339,22 +2355,6 @@
       "duration_ms": 222168,
       "name": "Vacant",
       "url": "https://open.spotify.com/track/71OEyQke0CiQ9I4rHNqtuo"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
-        "name": "bored. tired. torn.",
-        "url": "https://open.spotify.com/album/1iDIQfen7qk0y1XNJUdRAM"
-      },
-      "artists": [
-        {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "bored. tired. torn.",
-      "url": "https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa"
     },
     {
       "added_at": "2025-06-30 11:18:39",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "DEATH CLOCK",
-        "url": "https://open.spotify.com/album/4oOhJNqVse155Pc3GRLIid"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 254250,
-      "name": "DEATH CLOCK",
-      "url": "https://open.spotify.com/track/5dZvCU36j5QDmAt3Pb5IVr"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
         "name": "The Problem",
         "url": "https://open.spotify.com/album/4VTDrDl5xVzPgQwR6QeSbZ"
       },
@@ -2491,6 +2475,22 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
+        "name": "DEATH CLOCK",
+        "url": "https://open.spotify.com/album/4oOhJNqVse155Pc3GRLIid"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 254250,
+      "name": "DEATH CLOCK",
+      "url": "https://open.spotify.com/track/5dZvCU36j5QDmAt3Pb5IVr"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
         "name": "LOST",
         "url": "https://open.spotify.com/album/74q93gj0Tn3JDBrElrjuNN"
       },
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2025-06-30 11:18:39",
       "album": {
-        "name": "Puppets Can\u2019t Control You",
-        "url": "https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Puppets Can\u2019t Control You",
-      "url": "https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI"
-    },
-    {
-      "added_at": "2025-06-30 11:18:39",
-      "album": {
         "name": "said and done",
         "url": "https://open.spotify.com/album/5y256Ukp4qBoclIgifo6HY"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 206916,
       "name": "said and done",
       "url": "https://open.spotify.com/track/1Wj6SS4J8pMpad7CgCjgIH"
+    },
+    {
+      "added_at": "2025-06-30 11:18:39",
+      "album": {
+        "name": "Puppets Can\u2019t Control You",
+        "url": "https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Puppets Can\u2019t Control You",
+      "url": "https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI"
     }
   ],
   "unique_name": "Hard Rock",

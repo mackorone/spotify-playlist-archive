@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "La Fille aux cheveux de lin, L. 117",
+      "url": "https://open.spotify.com/track/35DU3XqGKvHCPDh8PPv8sD"
+    },
+    {
+      "album": {
         "name": "Music of the Crusades",
         "url": "https://open.spotify.com/album/6QuLneX382Lqccj5rHkfvK"
       },

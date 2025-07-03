@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 124471,
+  "num_followers": 124478,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L/ii+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0Kx9GDeRcQyzaMQRqIk12j"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Proti Fora",
+        "url": "https://open.spotify.com/album/2aIDC0j3fJvA31vjPXQhe8"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Proti Fora",
+      "url": "https://open.spotify.com/track/0orfP9WmV030xZoVcLyaf8"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "Fthina Tricks 3",
         "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "Proti Fora",
-        "url": "https://open.spotify.com/album/2aIDC0j3fJvA31vjPXQhe8"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "Proti Fora",
-      "url": "https://open.spotify.com/track/0orfP9WmV030xZoVcLyaf8"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "G.T.K.",
         "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Provlimata",
+      "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
@@ -121,63 +137,7 @@
       "url": "https://open.spotify.com/track/0O04c5PnW7sQDKF7SZHl62"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 218647,
-      "name": "Xeiroteri Genia",
-      "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "Oneiropolos",
-        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Provlimata",
-      "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "Fthina Tricks 3",
-        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Antigonidon",
-      "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "EGEFALIKO",
         "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
@@ -197,7 +157,7 @@
       "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "Fthina Tricks 3",
         "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
@@ -206,14 +166,38 @@
         {
           "name": "Bloody Hawk",
           "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Fanaria",
-      "url": "https://open.spotify.com/track/6lM8wgaCtzod83yWP1BmnK"
+      "duration_ms": 274666,
+      "name": "Antigonidon",
+      "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 218647,
+      "name": "Xeiroteri Genia",
+      "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
@@ -229,43 +213,23 @@
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "Oneiropolos",
-        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+        "name": "Fthina Tricks 3",
+        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
       },
       "artists": [
         {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
         }
       ],
-      "duration_ms": 124827,
-      "name": "Kaigomai",
-      "url": "https://open.spotify.com/track/5xYRYWS2y2NCxs12ZVEvNv"
+      "duration_ms": 189333,
+      "name": "Fanaria",
+      "url": "https://open.spotify.com/track/6lM8wgaCtzod83yWP1BmnK"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 207225,
-      "name": "Nyxterides",
-      "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
@@ -285,10 +249,10 @@
       "url": "https://open.spotify.com/track/55YOOSNuKxnocPWEyaFWTw"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "FWTIA",
-        "url": "https://open.spotify.com/album/1fB4wEiDkqDdJaTrKnNRKp"
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
       },
       "artists": [
         {
@@ -302,30 +266,46 @@
       ],
       "duration_ms": 186122,
       "name": "FWTIA",
-      "url": "https://open.spotify.com/track/49Nl81fFdiJEVLhhhaDLqC"
+      "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "BORDEL",
-        "url": "https://open.spotify.com/album/4jvARw7ybBJmXJcDl2ydco"
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
       },
       "artists": [
         {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         },
         {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
         }
       ],
-      "duration_ms": 153230,
-      "name": "BORDEL",
-      "url": "https://open.spotify.com/track/62fNVyXaqfWkWlDiDrGyw2"
+      "duration_ms": 207225,
+      "name": "Nyxterides",
+      "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 124827,
+      "name": "Kaigomai",
+      "url": "https://open.spotify.com/track/5xYRYWS2y2NCxs12ZVEvNv"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "KAKO",
         "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
@@ -345,7 +325,7 @@
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
@@ -365,31 +345,7 @@
       "url": "https://open.spotify.com/track/4o6alQshJYIfjdH8WytWlc"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "MAVRI ELLADA",
-        "url": "https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9"
-      },
-      "artists": [
-        {
-          "name": "Negros Tou Moria",
-          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
-        },
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        },
-        {
-          "name": "ODYDOZE",
-          "url": "https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Kapos Allios",
-      "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "EMMONI IDEA",
         "url": "https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb"
@@ -413,7 +369,47 @@
       "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "MAVRI ELLADA",
+        "url": "https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9"
+      },
+      "artists": [
+        {
+          "name": "Negros Tou Moria",
+          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "ODYDOZE",
+          "url": "https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Kapos Allios",
+      "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Unplugged 2",
+        "url": "https://open.spotify.com/album/3T2qowmSsKM33FKvwFGVf1"
+      },
+      "artists": [
+        {
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+        }
+      ],
+      "duration_ms": 171042,
+      "name": "To Glenti - Matia Mou Kai Go Gia Sena Exo",
+      "url": "https://open.spotify.com/track/6153saBJWv9QHvxQsdGryv"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/3aFxTuIQQdVzvIoN7dZjdf"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "OPAP FREESTYLE",
         "url": "https://open.spotify.com/album/1ftPMgXCHar62PNI96ChBb"
@@ -453,7 +449,83 @@
       "url": "https://open.spotify.com/track/2G0yVPwLXdAD32XrhO3jH2"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Esena",
+        "url": "https://open.spotify.com/album/4K0Mf8ZpkPxuOYuvFQwkaw"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Kest",
+          "url": "https://open.spotify.com/artist/2EnhdBc8wuBfUBIWDBVjEv"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Esena",
+      "url": "https://open.spotify.com/track/7uBuKv7JXBT6p2eM4JvSLi"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "BORDEL",
+        "url": "https://open.spotify.com/album/4jvARw7ybBJmXJcDl2ydco"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "BORDEL",
+      "url": "https://open.spotify.com/track/62fNVyXaqfWkWlDiDrGyw2"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "SOSA",
+        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "SOSA",
+      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Reworks",
+        "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
+      },
+      "artists": [
+        {
+          "name": "Haris Alexiou",
+          "url": "https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Fyge - Reworks",
+      "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "ZIZEL",
         "url": "https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j"
@@ -477,34 +549,10 @@
       "url": "https://open.spotify.com/track/0OrGmYDi04CEeIgPk6NwsV"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "\u03a4\u03a4",
-        "url": "https://open.spotify.com/album/6eqCgEPEEt1X8uAAtOSeTq"
-      },
-      "artists": [
-        {
-          "name": "YT K",
-          "url": "https://open.spotify.com/artist/24YLsxaeE17GVfcqwEQLpH"
-        },
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "\u03a4\u03a4",
-      "url": "https://open.spotify.com/track/2CsdArMmmCfsMHR0jcDcmG"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "AUTOS",
-        "url": "https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs"
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
       },
       "artists": [
         {
@@ -518,114 +566,26 @@
       ],
       "duration_ms": 191643,
       "name": "AUTOS",
-      "url": "https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k"
+      "url": "https://open.spotify.com/track/3K0brvOrbwMuHKswfdEzjd"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "SPORT",
-        "url": "https://open.spotify.com/album/5JbFTrWmekXMa3qytp52Cb"
+        "name": "H MASKA",
+        "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
       },
       "artists": [
         {
-          "name": "YungKapa",
-          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
         }
       ],
-      "duration_ms": 164022,
-      "name": "SPORT",
-      "url": "https://open.spotify.com/track/2IM8ZA2irx9ygwyoh4Q1lK"
+      "duration_ms": 206500,
+      "name": "ISOS",
+      "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "Kati Xereis",
-        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 164181,
-      "name": "Kati Xereis",
-      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "Esena",
-        "url": "https://open.spotify.com/album/4K0Mf8ZpkPxuOYuvFQwkaw"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Kest",
-          "url": "https://open.spotify.com/artist/2EnhdBc8wuBfUBIWDBVjEv"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Esena",
-      "url": "https://open.spotify.com/track/7uBuKv7JXBT6p2eM4JvSLi"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "VARKARIS",
-        "url": "https://open.spotify.com/album/6CeJ6Iz9RTIiRt7JvNadoU"
-      },
-      "artists": [
-        {
-          "name": "DAIMA",
-          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
-        },
-        {
-          "name": "Stanley",
-          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
-        }
-      ],
-      "duration_ms": 135636,
-      "name": "VARKARIS",
-      "url": "https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "SOSA",
-        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "SOSA",
-      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "SEXERO",
-        "url": "https://open.spotify.com/album/5jzmi9mJCWFkXyXPw6rZO8"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        }
-      ],
-      "duration_ms": 137821,
-      "name": "Feggari",
-      "url": "https://open.spotify.com/track/3FP3DPRN3lw2APlsamN6yk"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "GRISELDA",
         "url": "https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3"
@@ -645,7 +605,7 @@
       "url": "https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "EGO THERAPY",
         "url": "https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8"
@@ -669,27 +629,79 @@
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "Reworks",
-        "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
+        "name": "SEXERO",
+        "url": "https://open.spotify.com/album/5jzmi9mJCWFkXyXPw6rZO8"
       },
       "artists": [
         {
-          "name": "Haris Alexiou",
-          "url": "https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY"
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 137821,
+      "name": "Feggari",
+      "url": "https://open.spotify.com/track/3FP3DPRN3lw2APlsamN6yk"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "SPORT",
+        "url": "https://open.spotify.com/album/5JbFTrWmekXMa3qytp52Cb"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "SPORT",
+      "url": "https://open.spotify.com/track/2IM8ZA2irx9ygwyoh4Q1lK"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "SE5EIMAIEKEI",
+        "url": "https://open.spotify.com/album/0af7T692JsA9UIYXFdimyh"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "duration_ms": 102352,
+      "name": "KAROTSAKI",
+      "url": "https://open.spotify.com/track/6AB9WlT1AYuJ13UXByr1b2"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "CITY CENTER II (DELUXE)",
+        "url": "https://open.spotify.com/album/6CEpjd8eiWLxdUkduZEeKL"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
         },
         {
           "name": "LEX",
           "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         }
       ],
-      "duration_ms": 231986,
-      "name": "Fyge - Reworks",
-      "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
+      "duration_ms": 230600,
+      "name": "I POLI MAS",
+      "url": "https://open.spotify.com/track/2z0Ke8aGrzhjMlCdRFeU4S"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "Oneiropolos",
         "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
@@ -705,83 +717,7 @@
       "url": "https://open.spotify.com/track/2zR6FzBG3hAfZoWz7MsqT1"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "24ora",
-      "url": "https://open.spotify.com/track/3zZDBxEvVTFbkyLgBzpYSv"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "ERWTES",
-        "url": "https://open.spotify.com/album/2bvOVrP23BQqHWypGvBOHG"
-      },
-      "artists": [
-        {
-          "name": "Marzi",
-          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
-        },
-        {
-          "name": "GMBeaTz",
-          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
-        }
-      ],
-      "duration_ms": 164281,
-      "name": "ERWTES",
-      "url": "https://open.spotify.com/track/6y7AoMd7LhqI8pi2GyJMRJ"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "Unplugged 2",
-        "url": "https://open.spotify.com/album/3T2qowmSsKM33FKvwFGVf1"
-      },
-      "artists": [
-        {
-          "name": "Nikos Apergis",
-          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
-        }
-      ],
-      "duration_ms": 171042,
-      "name": "To Glenti - Matia Mou Kai Go Gia Sena Exo",
-      "url": "https://open.spotify.com/track/6153saBJWv9QHvxQsdGryv"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 172816,
-      "name": "Graffiti",
-      "url": "https://open.spotify.com/track/72F8Vzk3VP5VjnKD6xNwFF"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "Tipota Ston Kosmo",
         "url": "https://open.spotify.com/album/2xDC5wvJUY2lak201mGwNc"
@@ -797,27 +733,27 @@
       "url": "https://open.spotify.com/track/6WCkbrjSG16OJTlMayNmqU"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "Fthina Tricks 3",
-        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
       },
       "artists": [
         {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         },
         {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
         }
       ],
-      "duration_ms": 213333,
-      "name": "De Fovame",
-      "url": "https://open.spotify.com/track/0Lj1eCgs0sg9vYRo2tFgZy"
+      "duration_ms": 240612,
+      "name": "F.K.A.",
+      "url": "https://open.spotify.com/track/2VPld4xNAVt2fRYN8KY79L"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "ATH VISION",
         "url": "https://open.spotify.com/album/4arnueWFG9OSoHgs2Rkh31"
@@ -841,79 +777,119 @@
       "url": "https://open.spotify.com/track/69OPhkj4Kd8o1Tkl1r8RJH"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "Nisia",
-        "url": "https://open.spotify.com/album/6ZUkBlTayrdL1pI6I9Q4Ue"
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
       },
       "artists": [
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Nisia",
-      "url": "https://open.spotify.com/track/50zuHqsc1lnNTu5txaci1T"
-    },
-    {
-      "added_at": "2025-07-01 13:13:35",
-      "album": {
-        "name": "Gia Sena",
-        "url": "https://open.spotify.com/album/0xh2nXqadeywn61LgjmOe7"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         },
         {
-          "name": "Grandbois",
-          "url": "https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu"
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 172816,
+      "name": "Graffiti",
+      "url": "https://open.spotify.com/track/72F8Vzk3VP5VjnKD6xNwFF"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "ERWTES",
+        "url": "https://open.spotify.com/album/2bvOVrP23BQqHWypGvBOHG"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
         },
         {
-          "name": "Th Mark",
-          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
         }
       ],
-      "duration_ms": 177567,
-      "name": "Gia Sena",
-      "url": "https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw"
+      "duration_ms": 164281,
+      "name": "ERWTES",
+      "url": "https://open.spotify.com/track/6y7AoMd7LhqI8pi2GyJMRJ"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "H MASKA",
-        "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
+        "name": "Ax Kardia Mou",
+        "url": "https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf"
       },
       "artists": [
         {
-          "name": "Sicario",
-          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
         }
       ],
-      "duration_ms": 206500,
-      "name": "ISOS",
-      "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
+      "duration_ms": 179498,
+      "name": "Ax Kardia Mou",
+      "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "Oneiropolos",
-        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+        "name": "Fthina Tricks 3",
+        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
       },
       "artists": [
         {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Kathreftis",
-      "url": "https://open.spotify.com/track/5QC9BGJEiSzpGXF3Zo23Z2"
+      "duration_ms": 213333,
+      "name": "De Fovame",
+      "url": "https://open.spotify.com/track/0Lj1eCgs0sg9vYRo2tFgZy"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Kati Xereis",
+        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 164181,
+      "name": "Kati Xereis",
+      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "24ora",
+      "url": "https://open.spotify.com/track/3zZDBxEvVTFbkyLgBzpYSv"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
       "album": {
         "name": "ILEGAL",
         "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
@@ -937,40 +913,60 @@
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "Ax Kardia Mou",
-        "url": "https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf"
+        "name": "Nisia",
+        "url": "https://open.spotify.com/album/6ZUkBlTayrdL1pI6I9Q4Ue"
       },
       "artists": [
         {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         }
       ],
-      "duration_ms": 179498,
-      "name": "Ax Kardia Mou",
-      "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
+      "duration_ms": 206557,
+      "name": "Nisia",
+      "url": "https://open.spotify.com/track/50zuHqsc1lnNTu5txaci1T"
     },
     {
-      "added_at": "2025-07-01 13:13:35",
+      "added_at": "2025-07-02 13:07:28",
       "album": {
-        "name": "Fthina Tricks 3",
-        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
+        "name": "Gia Sena",
+        "url": "https://open.spotify.com/album/0xh2nXqadeywn61LgjmOe7"
       },
       "artists": [
         {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
         },
         {
-          "name": "Mateos Nps",
-          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+          "name": "Grandbois",
+          "url": "https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Geitonia",
-      "url": "https://open.spotify.com/track/5kLCvzA9lxsqDPAPfrm45N"
+      "duration_ms": 177567,
+      "name": "Gia Sena",
+      "url": "https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw"
+    },
+    {
+      "added_at": "2025-07-02 13:07:28",
+      "album": {
+        "name": "Oneiropolos",
+        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Oneiropolos",
+      "url": "https://open.spotify.com/track/1N10uPi2ZcH1UfFjTRiryC"
     }
   ],
   "unique_name": "Top 50 - Greece",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Kabza De Small, Lorde, TxC, Jazzworx, Vigro Deep and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,782 likes - 97 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,883 likes - 97 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

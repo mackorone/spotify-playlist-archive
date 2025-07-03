@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,283 songs - 7 day 10 hr 28 min
+3,284 songs - 7 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 | 2025-03-07 | 2025-03-15 |
 | [Eres Tu \(Better Off Alone\)](https://open.spotify.com/track/2DOOkBaj5EzkzJW6qz7Oiy) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Eres Tu \(Better Off Alone\)](https://open.spotify.com/album/5aGNaadZ5hGIDKs65Bbp61) | 2:26 | 2024-11-24 | 2024-11-30 |
 | [Es Vedrà](https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Es Vedrà](https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET) | 3:17 | 2024-08-02 | 2024-08-09 |
+| [ESCALATE](https://open.spotify.com/track/6rzWfXgXJ4Q7eCbdHn1n1p) | [ALAN BAZE](https://open.spotify.com/artist/4HxZSS80MKQhfcbFesdBCO) | [ESCALATE](https://open.spotify.com/album/4kTDmGGkE2Yv90TtbfCXX0) | 3:32 | 2025-07-02 |  |
 | [Escalator](https://open.spotify.com/track/2QNAwKKmQcHX5mtUgbHbUl) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Escalator](https://open.spotify.com/album/22WXzwydqRLRqxGgkmuZFc) | 4:25 | 2024-12-13 | 2024-12-19 |
 | [Escape](https://open.spotify.com/track/0AorYS6HX82Cf5LaRTTX78) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Escape](https://open.spotify.com/album/2OHZ3UJMfFu3TLSIX3rpEp) | 2:49 | 2025-04-11 | 2025-04-19 |
 | [Escape \(feat\. Hayla\) \- Sparrow & Barbossa Remix](https://open.spotify.com/track/2KZ4cDFoEJbrTO7z2I3HAb) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Sparrow & Barbossa Remix\]](https://open.spotify.com/album/1eNDp92GW8sVkvn9uzHpaC) | 5:48 | 2025-01-17 | 2025-01-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Arya Dhayal
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,784 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,806 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 5 | [KAADE](https://open.spotify.com/track/6raiMxUeHxNyOuFI3fTF9O) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp), [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI) | [KAADE](https://open.spotify.com/album/2ntdw48cZIoQiKjeC5zUSf) | 3:35 |
 | 6 | [Uyire Unarve](https://open.spotify.com/track/5J0tFhL40iZja1lANvwtx1) | [Anantha K Radhakrishnan](https://open.spotify.com/artist/7M6xS5d9xOeSXqT0MSa1eO), [Philip John](https://open.spotify.com/artist/3KJlnaqGQYbxDGONy1yR1S), [Viswanath Balakrishnan](https://open.spotify.com/artist/1efU7D8NwlepsDkC3SDwm7) | [Uyire Unarve](https://open.spotify.com/album/5fLw9TRhj8eTSHLxwLOCXP) | 3:43 |
 | 7 | [Kaalachakram](https://open.spotify.com/track/44ZjUym9Qz2fRW16GjwpAR) | [Jeevan EK](https://open.spotify.com/artist/4OA7mVa4GUBn0KNqTdMm0w) | [Kaalachakram](https://open.spotify.com/album/1883QSpTkWfTqALq7RAzrE) | 2:57 |
-| 8 | [Peruvazhi](https://open.spotify.com/track/2L1bYuqy92C0ZN2HfOopKg) | [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu), [Shybin Kuriakose](https://open.spotify.com/artist/6Eb8yt7BTItNh2cwGsvL9Z) | [Maalagoyam](https://open.spotify.com/album/0rpW5cp5RBxg7csxdB1blB) | 2:13 |
+| 8 | [Peruvazhi](https://open.spotify.com/track/2L1bYuqy92C0ZN2HfOopKg) | [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu), [Shybin Kuriakose](https://open.spotify.com/artist/6Eb8yt7BTItNh2cwGsvL9Z) | [Maalayogam](https://open.spotify.com/album/0rpW5cp5RBxg7csxdB1blB) | 2:13 |
 | 9 | [Aval](https://open.spotify.com/track/0P1xetnWQcLgzdhRZsykkj) | [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Mehal Elsa](https://open.spotify.com/artist/351yzCkqbbnkPgGuFjvVKP), [Lison P Sunny](https://open.spotify.com/artist/22iAuZm6u3O8LVEDGkPKkq), [Abhinand Sinu](https://open.spotify.com/artist/5epb22NuWS5jdp6WwUT7iz), [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9) | [Aval](https://open.spotify.com/album/4SzPqFeFGwiPi0R14vqbrp) | 2:57 |
 | 10 | [Disco Madama](https://open.spotify.com/track/07QKkyhZ8QvxNh5Q29oZoz) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Arun Yuga](https://open.spotify.com/artist/2AY3I81C15zpmeVnxU50Zq), [Anna Bijo](https://open.spotify.com/artist/648cVIenePIAOvzzh0khx3), [Roshan Roy Thomas](https://open.spotify.com/artist/0gIBIPDKgVPwuyRWo5SQ8A) | [Disco Madama](https://open.spotify.com/album/7wQbyKSZTK6HaapYL7ttXR) | 3:39 |
 | 11 | [Veyil](https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC) | [Thanveer Zaman](https://open.spotify.com/artist/0C4C8ElFOrWVKqWFwssLXH), [Shiyaz Mhmd](https://open.spotify.com/artist/3Woy8AbDUnbuquWZnc0ez9) | [Veyil](https://open.spotify.com/album/46mEHWBOQAyQHjnFhiVS1g) | 2:52 |

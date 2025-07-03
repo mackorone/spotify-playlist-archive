@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "ARMS",
+        "url": "https://open.spotify.com/album/1trwwDURtIwr5Tebht4aR5"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "ARMS",
+      "url": "https://open.spotify.com/track/6Se1RGQEVquqpxqG0tmyUe"
+    },
+    {
+      "album": {
         "name": "Aspire to Inspire",
         "url": "https://open.spotify.com/album/10YVJOKLunCfm9ssAVkSzI"
       },
@@ -876,6 +894,24 @@
       "duration_ms": 168327,
       "name": "Bass Go Boom - Collier Remix",
       "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
+    },
+    {
+      "album": {
+        "name": "Bass Jump EP",
+        "url": "https://open.spotify.com/album/2qvdXuq10ShTNfI3wNXUTF"
+      },
+      "artists": [
+        {
+          "name": "Luca Rossi",
+          "url": "https://open.spotify.com/artist/7I673u2XTlO4pz29h6wSL2"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214564,
+      "name": "Bass Jump",
+      "url": "https://open.spotify.com/track/4yeL38PURk2TrKQw2WC1Zo"
     },
     {
       "album": {
@@ -5982,7 +6018,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 140060,
       "name": "Koolaid - Oh Yeah Mix",
       "url": "https://open.spotify.com/track/1ZpTFDpF5mVOtU6NJQl6tr"
@@ -6106,7 +6142,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 234492,
       "name": "Lay Back",
       "url": "https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA"
@@ -6836,7 +6872,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 144383,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
@@ -9012,6 +9048,40 @@
       "duration_ms": 208776,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF"
+    },
+    {
+      "album": {
+        "name": "Representin' Inside",
+        "url": "https://open.spotify.com/album/1eRGiTddBbZQMepzF6GaQT"
+      },
+      "artists": [
+        {
+          "name": "Inside Kru",
+          "url": "https://open.spotify.com/artist/3PFOz1hgPwiWcCATjvmGU7"
+        },
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        },
+        {
+          "name": "Prizefight",
+          "url": "https://open.spotify.com/artist/3imo6DPDraLtBLvbMcuL0q"
+        },
+        {
+          "name": "Waxx Off",
+          "url": "https://open.spotify.com/artist/2osn8vIx1yMucRqdQTSKNY"
+        },
+        {
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209147,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/1PrLkzbk5NFycK2pxRkVHw"
     },
     {
       "album": {
@@ -12223,6 +12293,24 @@
     },
     {
       "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245972,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/7kiujTB11hmF8QgbCA7FaW"
       },
@@ -12502,7 +12590,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 231972,
       "name": "What Are You Waiting For - Sunrise Mix",
       "url": "https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7"

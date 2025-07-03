@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4039471,
+  "num_followers": 4039746,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAAAqqtXo3fDNUd/uY6t5NMxE",
+  "snapshot_id": "aGMlAAAAAACiSbEWjRXtUAT4t7vekePd",
   "tracks": [
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions of a Dangerous Mind",
-        "url": "https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 245386,
-      "name": "Homicide (feat. Eminem)",
-      "url": "https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 288866,
       "name": "Patiently Waiting",
       "url": "https://open.spotify.com/track/6C781pluv3BPxGHHCUJNYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessions of a Dangerous Mind",
+        "url": "https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Homicide (feat. Eminem)",
+      "url": "https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg"
     }
   ],
   "unique_name": "This Is Eminem",

@@ -21023,6 +21023,24 @@
     },
     {
       "album": {
+        "name": "New Season",
+        "url": "https://open.spotify.com/album/2jXhdsiz5AMSKkqf76Zltb"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60416,
+      "name": "New Season",
+      "url": "https://open.spotify.com/track/4agAItKasx4BcJRNSk1QeI"
+    },
+    {
+      "album": {
         "name": "New Year Wishes",
         "url": "https://open.spotify.com/album/7bBMDMHX3Kc00KabFPXlsh"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Parker McCollum",
-  "num_followers": 38597,
+  "num_followers": 38610,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -753,6 +753,54 @@
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
+      "added_at": "2025-06-16 15:46:50",
+      "album": {
+        "name": "Good Times & Tan Lines",
+        "url": "https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 160635,
+      "name": "Good Times & Tan Lines",
+      "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/3Pxzub5bkHxT2LZrw7muFy"
+      },
+      "artists": [
+        {
+          "name": "Campbell Brothers",
+          "url": "https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC"
+        }
+      ],
+      "duration_ms": 187322,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/6vIQ1OZYwH4VI2LkwrMDaf"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "DEVIL YOU KNOW",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "DEVIL YOU KNOW",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "WHY (feat. Luke Combs)",
@@ -775,22 +823,6 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/3Pxzub5bkHxT2LZrw7muFy"
-      },
-      "artists": [
-        {
-          "name": "Campbell Brothers",
-          "url": "https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC"
-        }
-      ],
-      "duration_ms": 187322,
-      "name": "Brand New Man",
-      "url": "https://open.spotify.com/track/6vIQ1OZYwH4VI2LkwrMDaf"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
       },
@@ -803,38 +835,6 @@
       "duration_ms": 169331,
       "name": "Options",
       "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "DEVIL YOU KNOW",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "DEVIL YOU KNOW",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
-    },
-    {
-      "added_at": "2025-06-16 15:46:50",
-      "album": {
-        "name": "Good Times & Tan Lines",
-        "url": "https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk"
-      },
-      "artists": [
-        {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
-        }
-      ],
-      "duration_ms": 160635,
-      "name": "Good Times & Tan Lines",
-      "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
     },
     {
       "added_at": "2025-05-22 22:00:25",

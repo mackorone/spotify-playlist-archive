@@ -9552,7 +9552,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 135692,
       "name": "Chill",
       "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
@@ -30549,6 +30549,24 @@
     },
     {
       "album": {
+        "name": "MI AMI MI ODI",
+        "url": "https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Mi Ami Mi Odi",
+      "url": "https://open.spotify.com/track/1GeweuM7QfxQc2HmLWMfEJ"
+    },
+    {
+      "album": {
         "name": "Mi Ami Mi Odi",
         "url": "https://open.spotify.com/album/2TPANvT33Btxc1596fjAwe"
       },
@@ -30578,7 +30596,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 211875,
       "name": "Mi Ami Mi Odi",
       "url": "https://open.spotify.com/track/2wc754yvXIMU9lOE9zYtLb"
@@ -35940,7 +35958,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 168240,
       "name": "Oh Mamma Mia (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
@@ -36344,6 +36362,10 @@
         {
           "name": "Sadturs",
           "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
         },
         {
           "name": "Simba La Rue",
@@ -37710,7 +37732,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 181398,
       "name": "Passa il tempo",
       "url": "https://open.spotify.com/track/1uGjzX3Hkj1UY8xvhqanUk"
@@ -38298,7 +38320,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 212853,
       "name": "Per due come noi",
       "url": "https://open.spotify.com/track/5nFyfjGy6AMZqkW0OMUWJJ"
@@ -39944,7 +39966,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "PRONTO COME VA",
       "url": "https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O"
@@ -49354,7 +49376,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 179210,
       "name": "Tu ed io (feat. thasup)",
       "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"

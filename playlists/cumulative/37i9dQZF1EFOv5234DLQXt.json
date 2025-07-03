@@ -280,6 +280,24 @@
     {
       "album": {
         "name": "15 Aniversario en el Luna Park",
+        "url": "https://open.spotify.com/album/4O1tWQDZLiE3cE4fRv6a0C"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269080,
+      "name": "Bocanada - En Vivo",
+      "url": "https://open.spotify.com/track/5hHsaH5b6zEKKo1igorHhT"
+    },
+    {
+      "album": {
+        "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
       },
       "artists": [
@@ -290,7 +308,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 269080,
       "name": "Bocanada - En Vivo",
       "url": "https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm"

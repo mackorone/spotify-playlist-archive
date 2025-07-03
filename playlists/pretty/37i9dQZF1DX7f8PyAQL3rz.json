@@ -1,6 +1,6 @@
 {
   "description": "MC N\u00c3O \u00c9 BANDIDO enfim, ta ligado",
-  "num_followers": 1408092,
+  "num_followers": 1408210,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": "2025-06-30 17:07:23",
       "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 150861,
+      "name": "Artista Gen\u00e9rico",
+      "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
+    },
+    {
+      "added_at": "2025-06-30 17:07:23",
+      "album": {
         "name": "A Danada Me Ligando",
         "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 378218,
       "name": "THE BOX MEDLEY FUNK 6",
       "url": "https://open.spotify.com/track/3FBs8ttL0pPOLTbC6xWpTj"
-    },
-    {
-      "added_at": "2025-06-30 17:07:23",
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 150861,
-      "name": "Artista Gen\u00e9rico",
-      "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
     },
     {
       "added_at": "2025-06-30 17:07:23",
@@ -383,26 +383,6 @@
     {
       "added_at": "2025-06-30 17:07:23",
       "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2025-06-30 17:07:23",
-      "album": {
         "name": "NUME",
         "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
       },
@@ -427,8 +407,28 @@
     {
       "added_at": "2025-06-30 17:07:23",
       "album": {
-        "name": "Taylor",
-        "url": "https://open.spotify.com/album/6q72fGs82aYlWkqJUNddTp"
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2025-06-30 17:07:23",
+      "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 123206,
-      "name": "Taylor",
-      "url": "https://open.spotify.com/track/5nLbkYr8XYVT915bd02NQm"
+      "duration_ms": 107906,
+      "name": "Belieber",
+      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
     },
     {
       "added_at": "2025-06-30 17:07:23",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-06-30 17:07:23",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 135165,
-      "name": "N\u00e3o Temos Medo",
-      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
-    },
-    {
-      "added_at": "2025-06-30 17:07:23",
-      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -547,8 +531,24 @@
     {
       "added_at": "2025-06-30 17:07:23",
       "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 135165,
+      "name": "N\u00e3o Temos Medo",
+      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
+    },
+    {
+      "added_at": "2025-06-30 17:07:23",
+      "album": {
+        "name": "Taylor",
+        "url": "https://open.spotify.com/album/6q72fGs82aYlWkqJUNddTp"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 107906,
-      "name": "Belieber",
-      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
+      "duration_ms": 123206,
+      "name": "Taylor",
+      "url": "https://open.spotify.com/track/5nLbkYr8XYVT915bd02NQm"
     },
     {
       "added_at": "2025-06-30 17:07:23",
@@ -587,26 +587,6 @@
       "duration_ms": 181629,
       "name": "USD, \u00e9 USD!",
       "url": "https://open.spotify.com/track/0JPpScEAtvRvWQ38nifwO9"
-    },
-    {
-      "added_at": "2025-06-30 17:07:23",
-      "album": {
-        "name": "Discreto",
-        "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 120937,
-      "name": "Discreto",
-      "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
     },
     {
       "added_at": "2025-06-30 17:07:23",
@@ -643,6 +623,26 @@
       "duration_ms": 312240,
       "name": "S\u00f3 Rock 3",
       "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
+    },
+    {
+      "added_at": "2025-06-30 17:07:23",
+      "album": {
+        "name": "Discreto",
+        "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 120937,
+      "name": "Discreto",
+      "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
     },
     {
       "added_at": "2025-06-30 17:07:23",

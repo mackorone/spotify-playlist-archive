@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,685 likes - 95 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,694 likes - 95 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 70 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 |
 | 71 | [Superman](https://open.spotify.com/track/31XzTmTkP3yQAzCbZ2uz8A) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [The Many Facets Of Roger](https://open.spotify.com/album/2hWMz4KhFIl7Qff82wMEXF) | 4:08 |
 | 72 | [With The Music](https://open.spotify.com/track/578cb8sQkTcKQzxNOvBVdj) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With The Music](https://open.spotify.com/album/5Qg5w2L6uQJJJPmRuHTq0t) | 6:17 |
-| 73 | [GROUPIES \(feat\. Jose Rios & Maurice Brown\)](https://open.spotify.com/track/6DeGNhPYvc4fgf3yrtVaLJ) | [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o), [Jose Rios](https://open.spotify.com/artist/108R3jGhL1XPwujQuZ3OKZ), [Maurice Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [Blackberry Mango](https://open.spotify.com/album/71bHOjhdk1ksqHlmpZnOny) | 4:23 |
+| 73 | [GROUPIES \(feat\. Jose Rios & Maurice Brown\)](https://open.spotify.com/track/6DeGNhPYvc4fgf3yrtVaLJ) | [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o), [Jose Rios](https://open.spotify.com/artist/108R3jGhL1XPwujQuZ3OKZ), [Maurice Mobetta Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [Blackberry Mango](https://open.spotify.com/album/71bHOjhdk1ksqHlmpZnOny) | 4:23 |
 | 74 | [F.W.U](https://open.spotify.com/track/7BSw2p2kGQpXrJEIkqqbUq) | [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [F.W.U](https://open.spotify.com/album/6N6YfWR0pcet5CBfN7v3kI) | 3:13 |
 | 75 | [Give Me a Sign](https://open.spotify.com/track/7bMYVi7vwumt36NA0XY356) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN) | [Give Me a Sign](https://open.spotify.com/album/3qvmT1RzSwCBJaGnOVLWKL) | 3:12 |
 | 76 | [Show You A Thing Or Two](https://open.spotify.com/track/6KwTEWRdj3zH56wZar0B9o) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:10 |

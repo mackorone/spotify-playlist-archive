@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Acopia
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,486 likes - 127 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,597 likes - 127 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

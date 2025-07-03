@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 214915,
       "name": "Ahu",
       "url": "https://open.spotify.com/track/5dIFM4dkwEjMnFppbHTsEA"
@@ -12152,6 +12152,28 @@
     {
       "album": {
         "name": "\u0130ltimas",
+        "url": "https://open.spotify.com/album/4CeEKvHR12KJ3SU22K2Yse"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcl\u015fen",
+          "url": "https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA"
+        },
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250312,
+      "name": "\u0130ltimas",
+      "url": "https://open.spotify.com/track/4ytg8WEmLmHa0QebKOthGv"
+    },
+    {
+      "album": {
+        "name": "\u0130ltimas",
         "url": "https://open.spotify.com/album/1Kdzz1wusK7zrUp9w0fyOZ"
       },
       "artists": [
@@ -12880,7 +12902,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 177733,
       "name": "Kafa",
       "url": "https://open.spotify.com/track/5tM5kDTxYKCFJzlfyXiTpF"
@@ -14008,7 +14030,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 256060,
       "name": "Korkma Kalbim",
       "url": "https://open.spotify.com/track/5hdoDcWAZ4Ov6cntAR5MKN"
@@ -21514,7 +21536,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 220746,
       "name": "Tesir Alt\u0131nda",
       "url": "https://open.spotify.com/track/2CtLf9f4qAJC7ZVR0qBXWf"
@@ -22250,6 +22272,24 @@
       "duration_ms": 206516,
       "name": "Ver O Zaman G\u00f6mleklerimi",
       "url": "https://open.spotify.com/track/2SNvFw3DuQxfeReepENclp"
+    },
+    {
+      "album": {
+        "name": "Ya\u015f Hikayesi",
+        "url": "https://open.spotify.com/album/5eq3H5KnYcr0uU8VjDe32W"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235090,
+      "name": "Vicdan\u0131n Affetsin",
+      "url": "https://open.spotify.com/track/3i8uJcfgdvKk1oHHnoGJlv"
     },
     {
       "album": {

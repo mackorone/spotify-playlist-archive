@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Neeti Mohan
+> Listen to women at full volume\. Cover \- Simran Choudhary
 
 535 songs - 1 day 8 hr 15 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from KATSEYE, yung kai, Siti Nordiana, Tomok, Aisha Retno, Lewis Capaldi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,461 likes - 134 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,459 likes - 134 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

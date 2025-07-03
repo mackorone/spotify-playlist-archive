@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gippy Grewal & Sargun Mehta
 
-312 songs - 16 hr 4 min
+313 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Gal Ban Jau](https://open.spotify.com/track/2FXjXUH7kzRTIzQaVHfs3j) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Fuffad Ji \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rUfyKVXe16mH973tWOjkB) | 2:15 | 2021-12-18 | 2022-01-11 |
 | [Gal Naal Laa](https://open.spotify.com/track/3JaNmG23kZiW9MIj4Bpysa) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Gal Naal Laa](https://open.spotify.com/album/35A1NIK2cwHBS5FMT253MV) | 2:52 | 2025-01-08 |  |
 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/69NQgCPPwq05n5zewAYd8c) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 | 2024-08-21 |
-| [Gallan Goll](https://open.spotify.com/track/4SqpWYyMu6nM6Fr3RyJFbt) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Gallan Goll](https://open.spotify.com/album/1OLdB362nbcBHe9RtavVzE) | 2:46 | 2025-02-28 |  |
+| [Gallan Goll](https://open.spotify.com/track/4SqpWYyMu6nM6Fr3RyJFbt) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Gallan Goll](https://open.spotify.com/album/1OLdB362nbcBHe9RtavVzE) | 2:46 | 2025-02-28 | 2025-07-03 |
 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Jawaani Jaaneman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 | 2021-12-18 | 2022-01-11 |
 | [Ghaint Hunde Aa](https://open.spotify.com/track/13olFfIo5jmwSsHg1CfJ36) | [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Ghaint Hunde Aa](https://open.spotify.com/album/6j0OaprMwnqLTZL1cZVTXL) | 2:02 | 2025-02-20 | 2025-02-26 |
 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 | 2024-11-12 |
@@ -319,6 +319,7 @@
 | [Yaaran Vich Jee](https://open.spotify.com/track/261PVPZEar9zZTlcBkB52O) | [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Yaaran Vich Jee](https://open.spotify.com/album/30HWbDk5maW6hn3UEIHc2f) | 2:52 | 2022-09-10 | 2023-10-21 |
 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 | 2025-01-08 |  |
 | [Youngest In Charge](https://open.spotify.com/track/2V52mICuJnWB3C4lrJZd7v) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Youngest In Charge](https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB) | 3:18 | 2022-02-14 | 2023-07-27 |
+| [Zimmewari \(From "Sarbala Ji"\)](https://open.spotify.com/track/4mV6AHm05ZPUlTMhJ9OeN1) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Zimmewari \(From "Sarbala Ji"\)](https://open.spotify.com/album/3uLwHXnK9aiewazAIKLj1a) | 2:59 | 2025-07-02 |  |
 | [Zulfaan](https://open.spotify.com/track/512YQFvxWjeZIzwOxSul6k) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Zulfaan](https://open.spotify.com/album/0H4baETphKbB7WwKtCMUkP) | 3:05 | 2025-06-23 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

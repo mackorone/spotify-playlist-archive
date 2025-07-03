@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
@@ -16396,7 +16396,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 181729,
       "name": "Decisions",
       "url": "https://open.spotify.com/track/478xhrRXUu6AUxWyxIHeVB"
@@ -19150,6 +19150,24 @@
     {
       "album": {
         "name": "Drugs I Like",
+        "url": "https://open.spotify.com/album/5XL6JcOMk9FVhs777BGz0x"
+      },
+      "artists": [
+        {
+          "name": "nate band",
+          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198774,
+      "name": "Drugs I Like",
+      "url": "https://open.spotify.com/track/2Muo2qr6C1df7vBKnr1oKC"
+    },
+    {
+      "album": {
+        "name": "Drugs I Like",
         "url": "https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg"
       },
       "artists": [
@@ -19160,7 +19178,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 198774,
       "name": "Drugs I Like",
       "url": "https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"
@@ -23718,7 +23736,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 193906,
       "name": "Foaming",
       "url": "https://open.spotify.com/track/0HeEz3p1yVoAIOjAULJzrD"
@@ -26642,7 +26660,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 183034,
       "name": "God Went Crazy",
       "url": "https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c"
@@ -35148,7 +35166,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 167625,
       "name": "Innit",
       "url": "https://open.spotify.com/track/1AL9i9W1wf4ZtDTxxqBweQ"
@@ -78670,7 +78688,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"

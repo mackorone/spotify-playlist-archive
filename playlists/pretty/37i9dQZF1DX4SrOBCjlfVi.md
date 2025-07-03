@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Young Nudy, Don Toliver, Rick Ross and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,088 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,182 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 22 | [Le Vôtre](https://open.spotify.com/track/4wYk6ovsTy4gOuYek4I1is) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Made In Paris](https://open.spotify.com/album/0mrnkkp1dYUWc226KXIeBc) | 3:49 |
 | 23 | [TOXIC](https://open.spotify.com/track/1QFWH5PC7GadXlqR9xuJFp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [TOXIC](https://open.spotify.com/album/1RlGoHO2qylUYmwe9C6N2d) | 2:46 |
 | 24 | [LOVESEXDREAMS](https://open.spotify.com/track/7xxXloRRArmI68r1jLRqOd) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 2:59 |
-| 25 | [PEOPLE LIKE ME](https://open.spotify.com/track/5P02eVAQ2j8ykf9ecyYVh0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [NEVER STOP](https://open.spotify.com/album/1iQFI8rAzbBaXGLGLEytwX) | 2:20 |
+| 25 | [PEOPLE LIKE ME](https://open.spotify.com/track/5P02eVAQ2j8ykf9ecyYVh0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [NEVER STOP](https://open.spotify.com/album/1iQFI8rAzbBaXGLGLEytwX) | 2:20 |
 | 26 | [Bullshit](https://open.spotify.com/track/1A8o9fbN5j9eL2mnMQhfBM) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Bullshit](https://open.spotify.com/album/351dDoc8mppVjxu6M6shxq) | 2:29 |
 | 27 | [Sunday In Brooklyn](https://open.spotify.com/track/240LThmj6xe6pBbJXMxWd4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [NO RAP ON SUNDAY](https://open.spotify.com/album/3h1mhf59nhAhNcg68ITKmM) | 3:57 |
 | 28 | [2am \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0YhA36UbLFWCmu8VwHpgrh) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OMMIO 4](https://open.spotify.com/album/53dTIJVxZHrnEynYrhvsL6) | 2:06 |

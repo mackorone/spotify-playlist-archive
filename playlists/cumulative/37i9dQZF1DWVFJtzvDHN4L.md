@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-101 songs - 4 hr 52 min
+102 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Towels on the Field](https://open.spotify.com/track/7ytvaFgYfja2E6ISXFoBWj) | [Mark Orton](https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A), [John Hancock](https://open.spotify.com/artist/0teVTDtWrhqfHAJO2vlSRr), [Carla Kihlstedt](https://open.spotify.com/artist/3YCyK8NZhGV3lFNX12DfA9) | [12 Mighty Orphans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/43KlBaixriwA0gib6ljzdB) | 3:00 | 2021-11-19 | 2022-05-28 |
 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 | 2022-07-22 | 2024-04-19 |
 | [Train in New York](https://open.spotify.com/track/6rwEYwsNCxW7CI2wrtRO06) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Train in New York](https://open.spotify.com/album/6zHTKFjUMy2OxCNmBqba2b) | 2:49 | 2021-11-19 |  |
+| [Truman Sleeps \- Arr\. for Orchestra by David Le Page](https://open.spotify.com/track/1wBKODaRY52BIpiUshP7SZ) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Orchestra of the Swan](https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq), [David le Page](https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x) | [Light and Shadow](https://open.spotify.com/album/4tSwVev13zJxh3UTdX1a5d) | 2:34 | 2025-07-02 |  |
 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 | 2021-11-19 |  |
 | [What I Really Wanted](https://open.spotify.com/track/7IoZ5JlxMkGhk4Xvi19Hyo) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [The Expanse Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7wAz7kEaaZ80CWhGdBA7h1) | 2:38 | 2021-11-19 |  |
 | [Wish I Could Spend The Day With You](https://open.spotify.com/track/7H1qlREWSW4MgamNSrgZbw) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 1:46 | 2021-11-19 |  |

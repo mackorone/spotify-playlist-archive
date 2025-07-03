@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352531,
+  "num_followers": 352535,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L/dReAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L/ii+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Chupa Xoxota - Remake",
+        "url": "https://open.spotify.com/album/1ZWw7eDugq5xhF3EDHJduW"
+      },
+      "artists": [
+        {
+          "name": "BLOW RECORDS",
+          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
+        },
+        {
+          "name": "Mc 2k",
+          "url": "https://open.spotify.com/artist/0L6qPQHSSlNItWXm5kY4yQ"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Chupa Xoxota (1980)",
+      "url": "https://open.spotify.com/track/7mL55lRXNzic2ryfmOIXSC"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Deslocado",
         "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Na Pegada da Talita",
         "url": "https://open.spotify.com/album/2d16MsbSMtv2snzc2FPwsg"
@@ -45,7 +65,27 @@
       "url": "https://open.spotify.com/track/3ZbetlcfZ0tgVWdvnRzuLB"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Popot\u00e3o Grand\u00e3o (1982)",
+        "url": "https://open.spotify.com/album/3zk1AB3MvpOnKQVFQTrBnb"
+      },
+      "artists": [
+        {
+          "name": "BLOW RECORDS",
+          "url": "https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Popot\u00e3o Grand\u00e3o (1982)",
+      "url": "https://open.spotify.com/track/5JHjLuNoea93xUL4fX5xda"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Predador de Perereca 90s",
         "url": "https://open.spotify.com/album/1KcTB9ycc9IU81IrmgkSix"
@@ -61,7 +101,7 @@
       "url": "https://open.spotify.com/track/5mmPaHH0reSuhZVJ96Lpwq"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
@@ -97,7 +137,7 @@
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
@@ -113,7 +153,7 @@
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Gambiarra Chic, Pt. 2",
         "url": "https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi"
@@ -137,31 +177,7 @@
       "url": "https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        },
-        {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        },
-        {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire - prod. Molella, Phil Jay",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Tipo Nino Vs Kabrinha",
         "url": "https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "A Sofr\u00eancia dos Pared\u00f5es!",
         "url": "https://open.spotify.com/album/5qpun3JTycaXPVXO5x1MhT"
@@ -201,23 +217,31 @@
       "url": "https://open.spotify.com/track/3v6kV61B29SjuwnKd7fyBS"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
-        "name": "Quadrilha Junina - Quadrilha Tradicional",
-        "url": "https://open.spotify.com/album/1CwGcGZi4JSTqaEw8osQA5"
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
       "artists": [
         {
-          "name": "MF Digital Music",
-          "url": "https://open.spotify.com/artist/3PpEMU65ILNsDZJAcvu8Ce"
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        },
+        {
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
         }
       ],
-      "duration_ms": 616333,
-      "name": "Quadrilha Junina - Quadrilha Tradicional",
-      "url": "https://open.spotify.com/track/7pimAUTzSa4HkyxcjHW19v"
+      "duration_ms": 213394,
+      "name": "Freed From Desire - prod. Molella, Phil Jay",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Vem Vem",
         "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
@@ -237,7 +261,31 @@
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "DIA DEL\u00cdCIA",
+        "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
+      },
+      "artists": [
+        {
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+        },
+        {
+          "name": "Mc Staff",
+          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+        },
+        {
+          "name": "\u03a3P",
+          "url": "https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1"
+        }
+      ],
+      "duration_ms": 75461,
+      "name": "DIA DEL\u00cdCIA",
+      "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Hoje Vai Ter Conflito",
         "url": "https://open.spotify.com/album/5AKnC6792276SodwOHzG39"
@@ -265,7 +313,43 @@
       "url": "https://open.spotify.com/track/2FOjAA2dmEvasyB1EpQa5h"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Quadrilha Junina - Quadrilha Tradicional",
+        "url": "https://open.spotify.com/album/1CwGcGZi4JSTqaEw8osQA5"
+      },
+      "artists": [
+        {
+          "name": "MF Digital Music",
+          "url": "https://open.spotify.com/artist/3PpEMU65ILNsDZJAcvu8Ce"
+        }
+      ],
+      "duration_ms": 616333,
+      "name": "Quadrilha Junina - Quadrilha Tradicional",
+      "url": "https://open.spotify.com/track/7pimAUTzSa4HkyxcjHW19v"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "BROTA THM TAPES",
+        "url": "https://open.spotify.com/album/2KPyIyufIhKwkezxWNWt0Q"
+      },
+      "artists": [
+        {
+          "name": "Thom",
+          "url": "https://open.spotify.com/artist/3eLdEEgwYabHkzVUxllbF4"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 118906,
+      "name": "BROTA THM TAPES",
+      "url": "https://open.spotify.com/track/5Z8jwajQxNj3SNt3NxOQip"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
@@ -281,31 +365,7 @@
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "DIA DEL\u00cdCIA",
-        "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
-      },
-      "artists": [
-        {
-          "name": "Nakama",
-          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
-        },
-        {
-          "name": "Mc Staff",
-          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
-        },
-        {
-          "name": "\u03a3P",
-          "url": "https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1"
-        }
-      ],
-      "duration_ms": 75461,
-      "name": "DIA DEL\u00cdCIA",
-      "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Foda Se To Nem Ai",
         "url": "https://open.spotify.com/album/3i99wJZ4iWtvCtOotUTFtD"
@@ -329,27 +389,7 @@
       "url": "https://open.spotify.com/track/1K8RFkW9yvvxHIbwTgRVic"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "BROTA THM TAPES",
-        "url": "https://open.spotify.com/album/2KPyIyufIhKwkezxWNWt0Q"
-      },
-      "artists": [
-        {
-          "name": "Thom",
-          "url": "https://open.spotify.com/artist/3eLdEEgwYabHkzVUxllbF4"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 118906,
-      "name": "BROTA THM TAPES",
-      "url": "https://open.spotify.com/track/5Z8jwajQxNj3SNt3NxOQip"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Atemporal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Rhh1ACMnj4WR7l0kMcvlh"
@@ -369,51 +409,23 @@
       "url": "https://open.spotify.com/track/7tz0PRdO9wOCHL5wr8Rne4"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
-        "name": "Killin' It Girl (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 148714,
-      "name": "Killin' It Girl (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+      "duration_ms": 187831,
+      "name": "Julho",
+      "url": "https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Ama Um Maloqueiro",
-        "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
-      },
-      "artists": [
-        {
-          "name": "Rafa e Junior",
-          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        },
-        {
-          "name": "DJ Ari SL",
-          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Ama Um Maloqueiro",
-      "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "H.A.R.D",
         "url": "https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV"
@@ -437,7 +449,71 @@
       "url": "https://open.spotify.com/track/4WSCewLvDigOI5d0OhqifG"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Ama Um Maloqueiro",
+        "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
+      },
+      "artists": [
+        {
+          "name": "Rafa e Junior",
+          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Ama Um Maloqueiro",
+      "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+      },
+      "artists": [
+        {
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+        }
+      ],
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Teu Preferido",
         "url": "https://open.spotify.com/album/089I2QRM8Ytp6vn7zzqT7E"
@@ -461,27 +537,7 @@
       "url": "https://open.spotify.com/track/58d1Gf3p4FWKNnGuq00wXT"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
-      },
-      "artists": [
-        {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
-        }
-      ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "VAI NO CH\u00c3O BANDIDA",
         "url": "https://open.spotify.com/album/7Cm2qf3lcohOwS1DZS5HiZ"
@@ -505,23 +561,7 @@
       "url": "https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Bandido (1976)",
-        "url": "https://open.spotify.com/album/3xleF5mVrqvqCI2XHLZLug"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Bandido coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0Z6KZQ9UkYt7rAGuCql9GN"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
@@ -549,47 +589,39 @@
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
-        "name": "Eu Odeio o Dia dos Namorados",
-        "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
+        "name": "Bandido (1976)",
+        "url": "https://open.spotify.com/album/3xleF5mVrqvqCI2XHLZLug"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 169071,
-      "name": "Van Cleef",
-      "url": "https://open.spotify.com/track/0sy2mtvcM7V5ETtmQIbGVt"
+      "duration_ms": 211140,
+      "name": "Bandido coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0Z6KZQ9UkYt7rAGuCql9GN"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 137316,
-      "name": "Gnarly",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Cai de Perna Aberta 2",
         "url": "https://open.spotify.com/album/78owhP1ysG3groqWQqtDNm"
@@ -613,7 +645,47 @@
       "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Eu Odeio o Dia dos Namorados",
+        "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 169071,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/0sy2mtvcM7V5ETtmQIbGVt"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Montagem Bandido",
         "url": "https://open.spotify.com/album/6uB5gLHk5SnUN9oDP0ADBy"
@@ -633,43 +705,83 @@
       "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
-        "name": "Marra de Bandido",
-        "url": "https://open.spotify.com/album/2ZbLB7VW1Rxxzbs4BIXyvM"
+        "name": "H.A.R.D",
+        "url": "https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV"
       },
       "artists": [
         {
-          "name": "Ellen Nery",
-          "url": "https://open.spotify.com/artist/4LBVNF15h6yFNBVjjYjr6O"
+          "name": "Ghard",
+          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
         },
         {
-          "name": "\u00c9aBest",
-          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
         }
       ],
-      "duration_ms": 95108,
-      "name": "Marra de Bandido",
-      "url": "https://open.spotify.com/track/1s2nR9gBz50NE7TC3HYotD"
+      "duration_ms": 133333,
+      "name": "MENOR PE\u00c7A",
+      "url": "https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
-        "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
-        "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 188641,
-      "name": "Billyeoon Goyangi (Do the Dance)",
-      "url": "https://open.spotify.com/track/3pSziKVQ331bLbgHYssZxS"
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Mama Eu",
+        "url": "https://open.spotify.com/album/1moQi2enqOr966XeiWTDzh"
+      },
+      "artists": [
+        {
+          "name": "Os Feras do Pizeiro",
+          "url": "https://open.spotify.com/artist/7dXypG6kRSJnd1H6f3VCKD"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        }
+      ],
+      "duration_ms": 137757,
+      "name": "Mama Eu",
+      "url": "https://open.spotify.com/track/6kjyq3ipytfRExqz11P3c3"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 123308,
+      "name": "Taylor",
+      "url": "https://open.spotify.com/track/09UBWllfFyJthRw8c5Y13Q"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Sai da Frente do Mano",
         "url": "https://open.spotify.com/album/1QX2nRzfyxZr7Knh8W39hG"
@@ -701,75 +813,7 @@
       "url": "https://open.spotify.com/track/6BTcwsI7xReSNAST1tHSUJ"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "H.A.R.D",
-        "url": "https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV"
-      },
-      "artists": [
-        {
-          "name": "Ghard",
-          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "MENOR PE\u00c7A",
-      "url": "https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Festa Junina de S\u00e3o Jo\u00e3o na Sanfona (Instrumental)",
-        "url": "https://open.spotify.com/album/66RE3lXWgeS00N38KnxDVW"
-      },
-      "artists": [
-        {
-          "name": "Ze Pipa",
-          "url": "https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1"
-        }
-      ],
-      "duration_ms": 572760,
-      "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso - Instrumental",
-      "url": "https://open.spotify.com/track/5bJnIg3FhAHoALP407aeMW"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "FAMOSINHA",
         "url": "https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26"
@@ -793,7 +837,47 @@
       "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Ritmo da Sanfoninha (Fomfomrom)",
+        "url": "https://open.spotify.com/album/6O6uq5Lbu5TN6BskzyQ7AP"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        }
+      ],
+      "duration_ms": 127771,
+      "name": "Ritmo da Sanfoninha (Fomfomrom)",
+      "url": "https://open.spotify.com/track/4NjI4qbTN70oQZ8Alt9cdC"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
+        "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 188641,
+      "name": "Billyeoon Goyangi (Do the Dance)",
+      "url": "https://open.spotify.com/track/3pSziKVQ331bLbgHYssZxS"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Proposta Indecente",
         "url": "https://open.spotify.com/album/0VkllrFoHGx0idZ8rSPXsW"
@@ -825,31 +909,7 @@
       "url": "https://open.spotify.com/track/38cD2OYt6OLyfDbvAYhwn3"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Ritmo da Sanfoninha (Fomfomrom)",
-        "url": "https://open.spotify.com/album/6O6uq5Lbu5TN6BskzyQ7AP"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        },
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        }
-      ],
-      "duration_ms": 127771,
-      "name": "Ritmo da Sanfoninha (Fomfomrom)",
-      "url": "https://open.spotify.com/track/4NjI4qbTN70oQZ8Alt9cdC"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "MONTAGEM BAIL\u00c3O",
         "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
@@ -873,63 +933,27 @@
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
-        "name": "Festa Junina de S\u00e3o Jo\u00e3o na Sanfona (Instrumental)",
-        "url": "https://open.spotify.com/album/66RE3lXWgeS00N38KnxDVW"
+        "name": "Marra de Bandido",
+        "url": "https://open.spotify.com/album/2ZbLB7VW1Rxxzbs4BIXyvM"
       },
       "artists": [
         {
-          "name": "Ze Pipa",
-          "url": "https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1"
-        }
-      ],
-      "duration_ms": 572917,
-      "name": "Festa na Ro\u00e7a / Olha pro C\u00e9u / Aquele S\u00e2o Jo\u00e2o - Instrumental",
-      "url": "https://open.spotify.com/track/3ibtDYkH3k0H0Uo1aCtttV"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Mama Eu",
-        "url": "https://open.spotify.com/album/1moQi2enqOr966XeiWTDzh"
-      },
-      "artists": [
-        {
-          "name": "Os Feras do Pizeiro",
-          "url": "https://open.spotify.com/artist/7dXypG6kRSJnd1H6f3VCKD"
+          "name": "Ellen Nery",
+          "url": "https://open.spotify.com/artist/4LBVNF15h6yFNBVjjYjr6O"
         },
         {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
         }
       ],
-      "duration_ms": 137757,
-      "name": "Mama Eu",
-      "url": "https://open.spotify.com/track/6kjyq3ipytfRExqz11P3c3"
+      "duration_ms": 95108,
+      "name": "Marra de Bandido",
+      "url": "https://open.spotify.com/track/1s2nR9gBz50NE7TC3HYotD"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 123308,
-      "name": "Taylor",
-      "url": "https://open.spotify.com/track/09UBWllfFyJthRw8c5Y13Q"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -945,7 +969,47 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Vem No Galope",
+        "url": "https://open.spotify.com/album/0NoR1ViyM2gKsCm7PzlgvV"
+      },
+      "artists": [
+        {
+          "name": "AG031",
+          "url": "https://open.spotify.com/artist/2MOokLCVy3GvCFWpznDBAn"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        },
+        {
+          "name": "Dj Ph Da Vp",
+          "url": "https://open.spotify.com/artist/45tfKkQTzoP1w3tH3ThxYM"
+        }
+      ],
+      "duration_ms": 90770,
+      "name": "Vem No Galope",
+      "url": "https://open.spotify.com/track/3hyjNCzsae6icKMmtY4g8G"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Festa Junina de S\u00e3o Jo\u00e3o na Sanfona (Instrumental)",
+        "url": "https://open.spotify.com/album/66RE3lXWgeS00N38KnxDVW"
+      },
+      "artists": [
+        {
+          "name": "Ze Pipa",
+          "url": "https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1"
+        }
+      ],
+      "duration_ms": 572917,
+      "name": "Festa na Ro\u00e7a / Olha pro C\u00e9u / Aquele S\u00e2o Jo\u00e2o - Instrumental",
+      "url": "https://open.spotify.com/track/3ibtDYkH3k0H0Uo1aCtttV"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "Quem Ta Passando Eo Trem Bala",
         "url": "https://open.spotify.com/album/4f4KOdcmg1izapdXIFr6Tt"
@@ -973,7 +1037,23 @@
       "url": "https://open.spotify.com/track/55OmSK4p87mqOSGDaYZmdK"
     },
     {
-      "added_at": "2025-07-01 17:17:35",
+      "added_at": "2025-07-02 16:49:43",
+      "album": {
+        "name": "Festa Junina de S\u00e3o Jo\u00e3o na Sanfona (Instrumental)",
+        "url": "https://open.spotify.com/album/66RE3lXWgeS00N38KnxDVW"
+      },
+      "artists": [
+        {
+          "name": "Ze Pipa",
+          "url": "https://open.spotify.com/artist/2dC1FYyHbI8M7K6Zu5bVC1"
+        }
+      ],
+      "duration_ms": 572760,
+      "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso - Instrumental",
+      "url": "https://open.spotify.com/track/5bJnIg3FhAHoALP407aeMW"
+    },
+    {
+      "added_at": "2025-07-02 16:49:43",
       "album": {
         "name": "P do Pecado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3"
@@ -991,78 +1071,6 @@
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "PUTARIA RITIMADA",
-        "url": "https://open.spotify.com/album/66U6SzzzuXyp0fNs2l5CJM"
-      },
-      "artists": [
-        {
-          "name": "Pankad\u00e3o",
-          "url": "https://open.spotify.com/artist/6XfWqamMA9xK83SmJ3Deyl"
-        }
-      ],
-      "duration_ms": 290405,
-      "name": "PUTARIA RITIMADA",
-      "url": "https://open.spotify.com/track/1toncRUXhERNnBXbH8ILNa"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Vem No Galope",
-        "url": "https://open.spotify.com/album/0NoR1ViyM2gKsCm7PzlgvV"
-      },
-      "artists": [
-        {
-          "name": "AG031",
-          "url": "https://open.spotify.com/artist/2MOokLCVy3GvCFWpznDBAn"
-        },
-        {
-          "name": "MC Nito",
-          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
-        },
-        {
-          "name": "Dj Ph Da Vp",
-          "url": "https://open.spotify.com/artist/45tfKkQTzoP1w3tH3ThxYM"
-        }
-      ],
-      "duration_ms": 90770,
-      "name": "Vem No Galope",
-      "url": "https://open.spotify.com/track/3hyjNCzsae6icKMmtY4g8G"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-07-01 17:17:35",
-      "album": {
-        "name": "Olhos De Farol",
-        "url": "https://open.spotify.com/album/0W50z2TfYs4JT30srkciWw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/7qvL8BbYdxvhOinapMiEeF"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

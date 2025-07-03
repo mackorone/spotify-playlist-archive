@@ -4,7 +4,7 @@
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-284 songs - 16 hr 5 min
+285 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bandida](https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bandida](https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd) | 2:45 | 2025-01-31 |  |
 | [Bandido](https://open.spotify.com/track/5oWfTPK3ZFRuW82NsIXlEb) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Bandido](https://open.spotify.com/album/3qDY0aopQhxmECwnQOqPmR) | 3:24 | 2023-05-19 | 2023-06-03 |
 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 | 2025-02-11 |
+| [Batallón 2\-4](https://open.spotify.com/track/7qm88EbyBRDEkPURrqrv3m) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Batallón 2\-4](https://open.spotify.com/album/0wezmjeSeWyo4FqmWs8vt7) | 2:05 | 2025-06-13 |  |
 | [BELICONTENTO](https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [BELICONTENTO](https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7) | 2:31 | 2023-12-22 |  |
 | [BELIKON](https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:33 | 2024-05-24 |  |
 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 | 2023-02-23 | 2025-04-26 |
@@ -86,7 +87,7 @@
 | [Ditroi \(Detroit\)](https://open.spotify.com/track/6FxQzTDQJuMd5Sq80p4XMd) | [Nelly Nelz](https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Ditroi \(Detroit\)](https://open.spotify.com/album/4LLj8LC3qdPm4D5nCgEJ8V) | 3:40 | 2023-05-19 | 2023-06-03 |
 | [Do\-Re\-Click\-Clack](https://open.spotify.com/track/6treVbdLIzflEyjp0fKx8U) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Baúl](https://open.spotify.com/album/6NxDBNQphlPiY5gzN8zDiO) | 1:58 | 2024-06-21 | 2024-11-16 |
 | [Don Dimadon](https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Don Dimadon](https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA) | 3:04 | 2024-03-15 |  |
-| [El 3](https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El 3](https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M) | 2:45 | 2025-01-31 |  |
+| [El 3](https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El 3](https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M) | 2:45 | 2025-01-31 | 2025-07-03 |
 | [El Barrio No Perdona Nada](https://open.spotify.com/track/388PTbNS3PkINg1Pb4rmAS) | [Had3s](https://open.spotify.com/artist/4PFfdWj9PsKgtU3C5TuesD), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Isco Roodz](https://open.spotify.com/artist/7KeARaN5ZcU7xUu3ZCuUe2) | [El Barrio No Perdona Nada](https://open.spotify.com/album/5zIW00VUYg9PxXQgqN6eeO) | 3:51 | 2024-03-15 | 2024-04-24 |
 | [El CaraCortada](https://open.spotify.com/track/4Ztm2sw745p2ULfV8BkQkX) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [La Encomienda](https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk) | 6:21 | 2024-02-09 |  |
 | [El Catrín](https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 3:49 | 2023-02-23 | 2024-04-19 |

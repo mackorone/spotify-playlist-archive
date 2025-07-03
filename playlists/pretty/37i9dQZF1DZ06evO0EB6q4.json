@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 247840,
+  "num_followers": 247906,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAADShJUYxJsLePrI/HMWNs86",
+  "snapshot_id": "aGMlAAAAAACeITszDVbUGPHYzn/G3oDu",
   "tracks": [
     {
       "added_at": null,
@@ -879,46 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Que Mami No Llore",
-        "url": "https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        }
-      ],
-      "duration_ms": 231068,
-      "name": "Pa' Que Mami No Llore",
-      "url": "https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "El D\u00eda Que Te Duela",
-      "url": "https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv"
       },
@@ -939,6 +899,46 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "El D\u00eda Que Te Duela",
+      "url": "https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Que Mami No Llore",
+        "url": "https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        }
+      ],
+      "duration_ms": 231068,
+      "name": "Pa' Que Mami No Llore",
+      "url": "https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D"
     },
     {
       "added_at": null,

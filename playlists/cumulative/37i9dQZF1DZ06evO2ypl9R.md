@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-53 songs - 4 hr 48 min
+54 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 | 2025-06-28 |  |
 | [Plantation Earth](https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
 | [Pride \(Main Mix\)](https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Nadirah Shakoor](https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy) | [Pride](https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68) | 6:28 | 2025-06-28 |  |
-| [Put It On \- Osunlade Club Mix](https://open.spotify.com/track/1SpdnBjTgVNmtjdmAHMR9K) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Ernesto](https://open.spotify.com/artist/1whoHyyDCn7LqwFWdJjyqg) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:52 | 2025-07-02 |  |
+| [Put It On \- Osunlade Club Mix](https://open.spotify.com/track/1SpdnBjTgVNmtjdmAHMR9K) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Ernesto](https://open.spotify.com/artist/1whoHyyDCn7LqwFWdJjyqg) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:52 | 2025-07-02 | 2025-07-03 |
 | [Recovery Music](https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Mike Steva](https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 4:47 | 2025-06-28 |  |
 | [Reign](https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Myles Bigelow](https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:18 | 2025-06-28 |  |
 | [Same Thing \- Vocal Mix](https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Maiya James](https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6) | [Same Thing](https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP) | 6:19 | 2025-06-28 |  |
 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
 | [Sistagurl](https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Prism EP](https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby) | 5:40 | 2025-06-28 |  |
+| [Syrundipetty](https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 3:42 | 2025-07-03 |  |
 | [Tech This Out Pt.1 \- Yoruba Soul Mix](https://open.spotify.com/track/2Kbdo2TT9vQ0lUAu8RC27E) | [Karizma](https://open.spotify.com/artist/7bccAT6TPXO9MPsj6Ky1oe), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 10:34 | 2025-06-28 | 2025-07-02 |
 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 | 2025-06-28 |  |
 | [The Sickness](https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j) | [Rich Medina](https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade presents Racially Charged](https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX) | 4:03 | 2025-06-28 |  |

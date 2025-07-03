@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Olamide",
-  "num_followers": 97975,
+  "num_followers": 98099,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-06-27 07:51:00",
       "album": {
-        "name": "Money Moves",
-        "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 163633,
-      "name": "Money Moves",
-      "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
-    },
-    {
-      "added_at": "2025-06-27 07:51:00",
-      "album": {
         "name": "Free Service",
         "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 156473,
       "name": "Free Service",
       "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+    },
+    {
+      "added_at": "2025-06-27 07:51:00",
+      "album": {
+        "name": "Money Moves",
+        "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 163633,
+      "name": "Money Moves",
+      "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
     },
     {
       "added_at": "2025-06-27 07:51:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-06-27 07:51:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2025-06-27 07:51:00",
-      "album": {
         "name": "Calculate",
         "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 180688,
       "name": "Calculate",
       "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-06-27 07:51:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-06-27 07:51:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-06-27 07:51:00",
       "album": {
-        "name": "For Where?",
-        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "For Where?",
-      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
-    },
-    {
-      "added_at": "2025-06-27 07:51:00",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 176326,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
+    },
+    {
+      "added_at": "2025-06-27 07:51:00",
+      "album": {
+        "name": "For Where?",
+        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "For Where?",
+      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "added_at": "2025-06-27 07:51:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-06-27 07:51:00",
       "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "LIFESTYLE",
-      "url": "https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR"
-    },
-    {
-      "added_at": "2025-06-27 07:51:00",
-      "album": {
         "name": "Shakespopi",
         "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 160375,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
+    },
+    {
+      "added_at": "2025-06-27 07:51:00",
+      "album": {
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "LIFESTYLE",
+      "url": "https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR"
     },
     {
       "added_at": "2025-06-27 07:51:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-06-27 07:51:00",
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
+    },
+    {
+      "added_at": "2025-06-27 07:51:00",
+      "album": {
         "name": "Wara Wara Szn",
         "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 180890,
       "name": "Cash",
       "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
-    },
-    {
-      "added_at": "2025-06-27 07:51:00",
-      "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
     },
     {
       "added_at": "2025-06-27 07:51:00",

@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 292500,
       "name": "Candor",
       "url": "https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui"
@@ -10824,6 +10824,24 @@
       "duration_ms": 170750,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq"
+    },
+    {
+      "album": {
+        "name": "DARUMA",
+        "url": "https://open.spotify.com/album/07OLdFOyCXqxkJasNcro4r"
+      },
+      "artists": [
+        {
+          "name": "Ove",
+          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180252,
+      "name": "Nuestro Movimiento",
+      "url": "https://open.spotify.com/track/157eN70HyJsu0lB0SEtKhH"
     },
     {
       "album": {

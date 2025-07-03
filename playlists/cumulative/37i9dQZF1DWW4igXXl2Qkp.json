@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating 10 years of the best new hip-hop music from new, independent artists.  Cover: <a href=\"spotify:artist:0p2aFROS95bdLkYYL0pYSz\">Lil Novi\n</a> ",
+  "description": "Celebrating 10 years of the best new hip-hop music from new, independent artists.  Cover: <a href=\"spotify:artist:39zqfoXqVbCNHs3Ip4kbGp\">MIRRAR\n</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Affirmations",
       "url": "https://open.spotify.com/track/7HN4SqrMZ30m4RWYm29gJv"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 170293,
       "name": "B2A (belt 2 ass)",
       "url": "https://open.spotify.com/track/5I5riGGzguZODuaYlifUs9"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 176326,
       "name": "BACKBOARD (with Kal Banx)",
       "url": "https://open.spotify.com/track/5qO4q3xmiq4PywMdjugAeQ"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 186000,
       "name": "BBC",
       "url": "https://open.spotify.com/track/4PT50aQpCi7G7hkEOeLNON"
@@ -8093,6 +8093,28 @@
     },
     {
       "album": {
+        "name": "BNERKID",
+        "url": "https://open.spotify.com/album/7pu1LBGvGtIKYyaEe67a2l"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212314,
+      "name": "Def Jam Vendetta (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/6NxztqkzvDsVnprxRlcz7b"
+    },
+    {
+      "album": {
         "name": "Defrost",
         "url": "https://open.spotify.com/album/3JfkwOX3XU4PuMItJy5PdD"
       },
@@ -9818,7 +9840,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 70656,
       "name": "Edward 40 Handz",
       "url": "https://open.spotify.com/track/0IEFaWGhbjNETEY0ybiC7J"
@@ -11504,7 +11526,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 192527,
       "name": "For The Mind",
       "url": "https://open.spotify.com/track/0yh3dbiMywDPZMG55YgB1X"
@@ -13286,7 +13308,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 148645,
       "name": "Goodbyerz",
       "url": "https://open.spotify.com/track/5zAe5imvLmuNBhumRTK5PT"
@@ -13362,7 +13384,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 127967,
       "name": "GREEN GOBLIN (feat. Lil Rae)",
       "url": "https://open.spotify.com/track/2XnNlKYQSOnlZ4EpPCJzSK"
@@ -14648,7 +14670,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 187012,
       "name": "Hot Car",
       "url": "https://open.spotify.com/track/6i66EQj83njMOFPygAKzAX"
@@ -14670,6 +14692,28 @@
       "duration_ms": 149523,
       "name": "Hot Friend",
       "url": "https://open.spotify.com/track/7apkSpHwMzhpSCi3rRa352"
+    },
+    {
+      "album": {
+        "name": "Hot Out",
+        "url": "https://open.spotify.com/album/5oRSQ9rVU6q4BIWD4anExp"
+      },
+      "artists": [
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/7foQSbv8Xb9pYiNE0WgZsb"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109457,
+      "name": "Hot Out",
+      "url": "https://open.spotify.com/track/0O3BqKcIPH0EQTLJ8uTo1v"
     },
     {
       "album": {
@@ -16424,7 +16468,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 185806,
       "name": "Jesse Jackson",
       "url": "https://open.spotify.com/track/3wF6BcBBdUOG1BMVl9zrWJ"
@@ -18392,7 +18436,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 200977,
       "name": "Like This",
       "url": "https://open.spotify.com/track/3V7zX14XRrJzG8SlMXAP0A"
@@ -19702,7 +19746,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 88613,
       "name": "MARY KATE",
       "url": "https://open.spotify.com/track/0RhUT0huz0lyh8Uzx1zn1t"
@@ -22002,7 +22046,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 154132,
       "name": "nasty",
       "url": "https://open.spotify.com/track/305PzVZGctEfhkJYiNcnof"
@@ -22336,6 +22380,24 @@
       "duration_ms": 161688,
       "name": "New Remedy",
       "url": "https://open.spotify.com/track/1gCya3lcpeTqcezVx6F7eM"
+    },
+    {
+      "album": {
+        "name": "NEW SLAYVE",
+        "url": "https://open.spotify.com/album/3W2lcg4ojnTizBj44JuAZH"
+      },
+      "artists": [
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123559,
+      "name": "NEW SLAYVE",
+      "url": "https://open.spotify.com/track/2D9SWSa7AtiZFErnEqiVfi"
     },
     {
       "album": {
@@ -23802,7 +23864,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 160666,
       "name": "On God",
       "url": "https://open.spotify.com/track/45UEHPj51IlJdvwpe12heL"
@@ -24515,6 +24577,24 @@
     },
     {
       "album": {
+        "name": "Get In The Car",
+        "url": "https://open.spotify.com/album/2fT83PgqMk9FwI2NQgtchp"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125298,
+      "name": "Pam Grier",
+      "url": "https://open.spotify.com/track/6lgompVT6f8GDY0utFm71r"
+    },
+    {
+      "album": {
         "name": "Papercuts",
         "url": "https://open.spotify.com/album/4PzEyQ4Zh0INv12yKQ4aFC"
       },
@@ -24548,6 +24628,28 @@
       "duration_ms": 195180,
       "name": "paralyzed",
       "url": "https://open.spotify.com/track/7ALAN1JLs1BvstZ90CcikU"
+    },
+    {
+      "album": {
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/2AN6c88F3x9oHyuXugrojB"
+      },
+      "artists": [
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181345,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/0v1gqHRbRrfrLh6sts70IV"
     },
     {
       "album": {
@@ -26121,6 +26223,28 @@
     },
     {
       "album": {
+        "name": "Racks Talk To Me",
+        "url": "https://open.spotify.com/album/0RNFzA5KUCRlRXXQvVR7R5"
+      },
+      "artists": [
+        {
+          "name": "Yung Skooley",
+          "url": "https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl"
+        },
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154550,
+      "name": "Racks Talk To Me",
+      "url": "https://open.spotify.com/track/3myHgyIm0ZeZrGsm5ZumrZ"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/0V6FBr9HrJ7r93ckDdu33d"
       },
@@ -26515,6 +26639,28 @@
     },
     {
       "album": {
+        "name": "redflag!",
+        "url": "https://open.spotify.com/album/1u4jmXTXuHrOVOGi1hnXgC"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Vontee the Singer",
+          "url": "https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169621,
+      "name": "redflag!",
+      "url": "https://open.spotify.com/track/6dmDzVtQLfCKOhbYnYDWJV"
+    },
+    {
+      "album": {
         "name": "ALLGASNOBRAKEZ!",
         "url": "https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t"
       },
@@ -26838,6 +26984,24 @@
       "duration_ms": 194594,
       "name": "Rider Music (feat. Heem)",
       "url": "https://open.spotify.com/track/07L7nzOV9NkafP5E4WmwQy"
+    },
+    {
+      "album": {
+        "name": "Right By You",
+        "url": "https://open.spotify.com/album/3IRSQlLAkgGzoyLREymj7b"
+      },
+      "artists": [
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/09hAT43SlDjfAdsaWIxjfs"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Right By You",
+      "url": "https://open.spotify.com/track/55IOz29IMx0m2BiDfO9wku"
     },
     {
       "album": {
@@ -31801,6 +31965,24 @@
     },
     {
       "album": {
+        "name": "Thinkin",
+        "url": "https://open.spotify.com/album/4g9nwLHREPbdz1I4Fo4Vuq"
+      },
+      "artists": [
+        {
+          "name": "Fbgfatslime",
+          "url": "https://open.spotify.com/artist/5BIklForQdtEFoUBZypW5l"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84844,
+      "name": "Thinkin",
+      "url": "https://open.spotify.com/track/7H7zOvxt5ZSkrWAMMPda1w"
+    },
+    {
+      "album": {
         "name": "This G Lock",
         "url": "https://open.spotify.com/album/1CisbYx2G1tMjpgulnQYAQ"
       },
@@ -34352,7 +34534,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 205797,
       "name": "Watch My Back",
       "url": "https://open.spotify.com/track/7dklyqtYZvgiKWsAtpkSYF"
@@ -34464,7 +34646,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 136777,
       "name": "We Don't Care",
       "url": "https://open.spotify.com/track/3uGRSq0d4fSDeQqi6dsDB0"

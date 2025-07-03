@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> LORDE\-M baby!!!!!!!!! <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a>
+> <a href="https://loremandfriends.substack.com/p/which\-\_\_\_\_\_\_\-summer\-are\-you\-having">Check out our June newsletter!</a> Cover: Shelly
 
-3,420 songs - 7 day 18 hr 28 min
+3,426 songs - 7 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 | 2022-12-08 |
 | [Crimson + Clover](https://open.spotify.com/track/0hx8qIYrvdxigI0gMnTdXu) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 2:03 | 2022-02-23 | 2022-03-11 |
 | [Cross The Street](https://open.spotify.com/track/2q7ayA58xy4MfsSV1Au7Uw) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cross The Street](https://open.spotify.com/album/6Dca4zL73vfGNmlVJnMFdH) | 2:47 | 2024-09-27 | 2025-01-18 |
+| [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 | 2025-07-02 |  |
 | [Crossed Out](https://open.spotify.com/track/0UmjMgq7MEBPx1pPMEqNU8) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo), [Daniel Lin](https://open.spotify.com/artist/5JunRwYHa8kpYtiWEu8DsE) | [Crossed Out](https://open.spotify.com/album/395RRLmxtfaSdGzYZTk4pd) | 2:45 | 2021-01-15 | 2021-02-09 |
 | [Crowd](https://open.spotify.com/track/3aR3QcB1B0bD6YJEEkSdTS) | [Fabianossa](https://open.spotify.com/artist/5xpWQhc6jnWmc9unFQ017H) | [Crowd](https://open.spotify.com/album/4jv6ZTRoXUq1Z13cjHdLJC) | 3:24 | 2021-05-15 | 2021-07-31 |
 | [Crown](https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L) | 3:44 | 2022-08-19 | 2023-01-19 |
@@ -1104,6 +1105,7 @@
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2021-05-15 | 2022-02-12 |
 | [Frío](https://open.spotify.com/track/2R7ZNlng7Kjdo0Pp4TWNXa) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Frío](https://open.spotify.com/album/7oHG4YB2YjfpnfEPeUtS72) | 2:05 | 2019-10-31 | 2019-11-14 |
 | [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-05-03 | 2024-06-01 |
+| [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-02 |  |
 | [fuck, i luv my friends](https://open.spotify.com/track/4hk4plGoAmg3naYTq8EUul) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [fuck, i luv my friends](https://open.spotify.com/album/4r4S1Vthv9l5CSJdTee4S6) | 2:43 | 2020-07-18 | 2020-08-20 |
 | [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 | 2022-05-04 | 2022-05-11 |
 | [Funeral](https://open.spotify.com/track/2kQKwLHTZttWGANxB8otoe) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Funeral](https://open.spotify.com/album/5nDX6DAJQRy150Pv6oCJBb) | 3:50 | 2022-05-12 | 2022-07-30 |
@@ -1263,10 +1265,12 @@
 | [Hard to Believe](https://open.spotify.com/track/0KOUhmRuztZUFOl6QCogLE) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 3:41 | 2022-06-15 | 2022-10-26 |
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-02-19 | 2022-01-22 |
 | [Harmony](https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Pink Must](https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9) | [Harmony](https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF) | 2:53 | 2025-04-18 | 2025-05-31 |
+| [Hartwell](https://open.spotify.com/track/4TLXwgCmciX8sYIVj1b7Xg) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 2:52 | 2025-07-02 |  |
 | [Harvard](https://open.spotify.com/track/5sgUExXhrZ2duO8epviG4M) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Harvard](https://open.spotify.com/album/0vL8mPohJxL66f1QreIYzD) | 3:28 | 2020-05-14 | 2020-05-28 |
 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2022-01-25 | 2022-01-28 |
 | [Harvest Moon – Roosevelt Remix](https://open.spotify.com/track/3hZYeFn30pgoH9mL4Gp39x) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Harvest Moon \(Roosevelt Remix\)](https://open.spotify.com/album/4Wv2LOxjKDpIiz1EMcmsuP) | 5:42 | 2022-07-07 | 2022-08-04 |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 3:53 | 2024-11-15 | 2025-02-12 |
+| [Hate Goodbyes](https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Hate Goodbyes](https://open.spotify.com/album/07w74aZOr10AawZOJND2BY) | 3:47 | 2025-07-02 |  |
 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 | 2023-08-25 | 2024-05-24 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-18 | 2022-02-26 |
 | [Haunted](https://open.spotify.com/track/2EBiTjgmf1LaiZGMqtlq7c) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Haunted Expansion Pack](https://open.spotify.com/album/3Xgq8N7PHKGPceGVnERcrC) | 3:45 | 2023-11-10 | 2023-12-14 |
@@ -1784,6 +1788,7 @@
 | [Lonestar](https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Lonestar](https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi) | 3:14 | 2022-03-25 | 2022-04-23 |
 | [long distance train](https://open.spotify.com/track/2FMJEnJUVax3112adZVYGd) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj), [PATRICKRYAN](https://open.spotify.com/artist/5zzqYeiEqFf4ahBvKLA4v0) | [long distance train](https://open.spotify.com/album/1JZpWRiP2rCTKjEHtYqr3B) | 2:52 | 2025-04-11 | 2025-05-14 |
 | [Long Sardine](https://open.spotify.com/track/7DeppqAvyRBMFyvbGL7Gqp) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/3bcaVoQfjwuDmsYoWAgvaJ) | 1:52 | 2025-01-14 |  |
+| [Long Sardine x Kids](https://open.spotify.com/track/3x0bxhjeoI6hvOd3MRhxlb) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine x Kids](https://open.spotify.com/album/6rJgrnk1q3zemYTEInhlkK) | 3:28 | 2025-07-02 |  |
 | [Long Sleeves](https://open.spotify.com/track/5YCdSbVqiryQujS6hhS635) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Long Sleeves](https://open.spotify.com/album/1rYsngZK4qrxENkUiZN17G) | 3:38 | 2020-05-22 | 2020-07-01 |
 | [Long Time No See](https://open.spotify.com/track/0Tm7G3FNuVfUgeJ4SzPIAQ) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Long Time No See](https://open.spotify.com/album/48SnkQ3ugM4QwvkFNzEuyW) | 1:51 | 2022-06-03 | 2022-07-08 |
 | [Lonnie Frisbee](https://open.spotify.com/track/1yFRrquTPANa3sCmYo9TGI) | [Rex Laurent](https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2) | [Lonnie Frisbee](https://open.spotify.com/album/3yJ7imqee3RVWmV6CdGz0u) | 3:56 | 2024-08-07 | 2024-09-07 |
@@ -2756,6 +2761,7 @@
 | [Standing Still](https://open.spotify.com/track/6a0e5Fb8cwz8pklTJOFGju) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [This Way](https://open.spotify.com/album/3ij42TJGaDLltR6VlCMUOa) | 4:30 | 2024-01-03 | 2024-01-11 |
 | [Stanley](https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly) | [Camille Schmidt](https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1) | [Stanley](https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV) | 2:53 | 2024-12-13 | 2025-03-04 |
 | [Star of the Show](https://open.spotify.com/track/2XLSbmaMw6ytIVdW45X8yc) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Star of the Show](https://open.spotify.com/album/1gyqe8tfMkeTDmtR8PTlHd) | 4:16 | 2022-05-12 | 2022-07-30 |
+| [starburn](https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [starburn](https://open.spotify.com/album/1TiUalhlnM2ZplG7gIHU2G) | 4:11 | 2025-07-02 |  |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2020-12-11 | 2021-08-14 |
 | [Staring At The Sun \(feat\. SZA\)](https://open.spotify.com/track/2leIuE4fdcJoNMSKu5Yr7a) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 2:48 | 2019-09-06 | 2019-10-11 |
 | [Starry Eyed Surprise](https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 3:48 | 2024-06-25 | 2024-09-07 |

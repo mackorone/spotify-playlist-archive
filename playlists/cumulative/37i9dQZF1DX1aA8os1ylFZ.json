@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5bb5R9HxNU50b4UEpsVxnJ"
+      },
+      "artists": [
+        {
+          "name": "MAVEE",
+          "url": "https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179732,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1WWVZOdu0xkgEo7RRBWuUQ"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },

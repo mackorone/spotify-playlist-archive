@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-358 songs - 18 hr 22 min
+359 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Arbab](https://open.spotify.com/track/4ManWRme0LIg5QDX06V1OY) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Arbab](https://open.spotify.com/album/4zFW5SKlDD2TkeGRKKEv2T) | 2:11 | 2023-07-23 | 2025-01-17 |
 | [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 | 2022-04-19 | 2024-04-19 |
 | [Arivu](https://open.spotify.com/track/7dj8zJse4K39kODoi1eGl2) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/658jtoKNWFGZ7GOSNr7gRi) | 4:01 | 2022-04-19 | 2025-03-08 |
+| [AROOPI](https://open.spotify.com/track/6hf0kqP0Jq4FGRKSsM5S73) | [HIMSRA](https://open.spotify.com/artist/5A7K5qxMDb4frXxSGkv8Na), [Leonardo cili](https://open.spotify.com/artist/6eysGSGtsc9qonGbW94oGL) | [AROOPI](https://open.spotify.com/album/4qKQmib3qH9I5CIUl5IwAy) | 2:15 | 2025-07-02 |  |
 | [Arpo](https://open.spotify.com/track/2biQljjf8AuYx5u8Se6clY) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Arpo](https://open.spotify.com/album/3MaGl3zOrZrEEqUMoXpN1d) | 2:46 | 2023-07-23 | 2024-06-01 |
 | [AutoWala](https://open.spotify.com/track/2NhnCnjtxLtZ6DyM8wyKQf) | [Nevin Nelson](https://open.spotify.com/artist/4WNJrCRyl6Cs8viDMYPKiZ), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [AutoWala](https://open.spotify.com/album/1A7phUDaTgMWw5KpSWrn65) | 3:29 | 2025-06-16 |  |
 | [Avastha](https://open.spotify.com/track/34xTAbD9NbfABNGwoAkfUH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Avastha](https://open.spotify.com/album/4Tpv8xA81bbsYKm3bI2YMT) | 3:44 | 2022-04-18 | 2025-02-25 |
@@ -337,7 +338,7 @@
 | [VAAKKATHI](https://open.spotify.com/track/46XOuaTgVmiLua31tuMqVA) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [raze](https://open.spotify.com/artist/2bHCMsJhQQqw4A3RvzryGP) | [VAAKKATHI](https://open.spotify.com/album/30Yx7LbsT3C2qpIKztRJca) | 2:45 | 2025-01-09 | 2025-02-15 |
 | [Vaapa \(Ft\. Jack' styles\)](https://open.spotify.com/track/1w6DAe1xlAj9oxDb1dWHo4) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu), [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Vaapa \(Ft\. Jack' styles\)](https://open.spotify.com/album/1MrvxTM8NLjzbCGthLreXU) | 3:48 | 2024-03-18 | 2024-05-22 |
 | [VADHAM](https://open.spotify.com/track/6XQYBCfikAQMj3hikSqokG) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [VADHAM](https://open.spotify.com/album/2dHBwt4kmh7b1FcEKYhNoj) | 2:50 | 2025-03-26 | 2025-05-23 |
-| [VALAVERSE \(From "Vala"\)](https://open.spotify.com/track/7oXSRKB9NHngHCYeIl0aWI) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [VALAVERSE \(From "Vala"\)](https://open.spotify.com/album/0ULZQX7BnlcUFwnTyjpCEN) | 3:22 | 2025-05-09 |  |
+| [VALAVERSE \(From "Vala"\)](https://open.spotify.com/track/7oXSRKB9NHngHCYeIl0aWI) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [VALAVERSE \(From "Vala"\)](https://open.spotify.com/album/0ULZQX7BnlcUFwnTyjpCEN) | 3:22 | 2025-05-09 | 2025-07-03 |
 | [Vanna Vazhi](https://open.spotify.com/track/2syVzql2Pd5cMGuNMcR4hX) | [GWS](https://open.spotify.com/artist/0ocYPomE3OXrf2qe3eLhsq), [The Imbachi](https://open.spotify.com/artist/0wtgrSv8RjiWt2jW4XhtPQ) | [Scottappan Vibes](https://open.spotify.com/album/4tV6oLZ1SvFG5RijFGa1ck) | 2:28 | 2025-04-16 | 2025-06-21 |
 | [Vappante Kaayi](https://open.spotify.com/track/10vEDfYkQDlQXfTPmnQNFP) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [Owltrix](https://open.spotify.com/artist/5AJFuAsx761Hx7KCsq5hZS), [EXTER](https://open.spotify.com/artist/6GlV4Epde8mUG4SccVf7Vg) | [Vappante Kaayi](https://open.spotify.com/album/64aE6tx1OZFzRU0zmwu5nv) | 2:42 | 2025-01-09 | 2025-05-31 |
 | [VARANAM](https://open.spotify.com/track/3PJgW0Mo7h8GLlNaK3ZGwA) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [Simmo](https://open.spotify.com/artist/1jKClD0DpaGTCeUVlWEjbm) | [VARANAM](https://open.spotify.com/album/0J2B5OG4xZOES7Y5ThALtt) | 2:12 | 2025-01-08 | 2025-04-05 |

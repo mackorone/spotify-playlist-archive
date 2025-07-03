@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Offroad Kantapon
 
-717 songs - 1 day 18 hr 16 min
+718 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Not Romantic](https://open.spotify.com/track/09whSxd83dqNcsKZvmmwko) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Not Romantic](https://open.spotify.com/album/1EWuuwmnBojFCVP5katTIN) | 3:10 | 2023-02-13 | 2023-04-01 |
 | [OH MY!](https://open.spotify.com/track/6NYVzwQKU6mBNrnlNDX6Eu) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [OH MY!](https://open.spotify.com/album/3oXWfBLsC9vwrNx11OcNQV) | 2:37 | 2024-10-03 | 2024-11-01 |
 | [Oh! Oh!](https://open.spotify.com/track/4mDEpeYizNCCMLz8DFn0jA) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [Oh! Oh!](https://open.spotify.com/album/2EP22W4je9X8O9tQd7KLL6) | 3:30 | 2022-08-05 | 2022-08-19 |
-| [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/track/4qOHFJhvv7kwiMNentxoa6) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/album/1ljDIpbsXhr3N8WZlsU9xN) | 2:52 | 2025-03-12 |  |
+| [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/track/4qOHFJhvv7kwiMNentxoa6) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/album/1ljDIpbsXhr3N8WZlsU9xN) | 2:52 | 2025-03-12 | 2025-07-03 |
 | [ooh!](https://open.spotify.com/track/2KCVEAvDSdC8boJJIw0a8H) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ooh!](https://open.spotify.com/album/5TfeZgfSsgNn3Dcb5lrlkn) | 3:07 | 2025-02-13 | 2025-02-28 |
 | [Oopsy Daisy](https://open.spotify.com/track/2vwjJOcZInBM9VibTxzwSQ) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [Oopsy Daisy](https://open.spotify.com/album/7BZzyIrjMmMh374Zkyor6C) | 3:00 | 2025-01-16 | 2025-03-15 |
 | [Paint It Pink](https://open.spotify.com/track/4UL0Q0j3myEZrLplwm9zSq) | [FANG](https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre) | [Paint It Pink](https://open.spotify.com/album/5QGPsUBKGd1mKbrO0ktPUq) | 2:54 | 2022-10-07 | 2022-10-22 |
@@ -344,6 +344,7 @@
 | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G), [XX](https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ) | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr) | 4:12 | 2024-07-11 | 2024-08-02 |
 | [ถอด \(TAKE IT OFF\)](https://open.spotify.com/track/7C1NEDCvP1psZenFDA3Sxx) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [ถอด \(TAKE IT OFF\)](https://open.spotify.com/album/6TuDxAfaPZcdBS9RreBmhL) | 2:42 | 2025-04-09 | 2025-04-24 |
 | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/track/1ke1sGWrCPDyXtZy6xXzAq) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC) | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/album/3rLD9S8sTdWU46plj5snNG) | 3:03 | 2022-07-30 | 2022-08-06 |
+| [ถ้าคนจะใช่ \(มันใช่ไปนานแล้ว\)](https://open.spotify.com/track/1wTRpzquoCMqL7u132d7Pq) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [ถ้าคนจะใช่ \(มันใช่ไปนานแล้ว\)](https://open.spotify.com/album/36NXPV8aLodT0xfY9MMRIx) | 4:31 | 2025-07-02 |  |
 | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/track/768V6zjx23Sd1oqtKlxIAx) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/album/4fvLJyx7dG6ewjIT9FSXMJ) | 4:01 | 2022-07-22 | 2022-08-06 |
 | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \- Special Track](https://open.spotify.com/track/29o0NtvmnO9LqXA3SLBAzp) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \[Special Track\]](https://open.spotify.com/album/2aWjMiLMRKZDM2sytFHuVZ) | 3:54 | 2023-05-26 | 2023-06-02 |
 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 | 2022-05-26 | 2023-08-08 |

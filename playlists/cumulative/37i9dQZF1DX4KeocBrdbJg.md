@@ -4,7 +4,7 @@
 
 > lo mejor nunca se sube
 
-757 songs - 1 day 16 hr 49 min
+758 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 | 2024-12-20 | 2025-01-17 |
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-01-14 |  |
 | [Capybara](https://open.spotify.com/track/4ppXYFIKT0GM6bGnxYk7qm) | [Сто\-Личный Она\-Нас](https://open.spotify.com/artist/2gcrsPrJGDnAgpOJ0EkToD), [Betsy](https://open.spotify.com/artist/6Cd8HrnQcReBF98NEOimPY) | [Capybara](https://open.spotify.com/album/0Nrvx6G0Ldu1ilJqzeSINk) | 1:57 | 2023-02-28 | 2023-06-07 |
-| [Castillos \(feat\. Natalia Sosa, Pia Aun, Mariana Treviño & Mónica Huarte\)](https://open.spotify.com/track/66PpVUKdOu1XNA3iqi7VEq) | [Mentiras El Musical](https://open.spotify.com/artist/4JyZAoxE6Ql2gTXXluXQHQ), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Mónica Huarte](https://open.spotify.com/artist/43jJKiIveUPRJRSkblWOpl), [Natalia Sosa](https://open.spotify.com/artist/7glg6v1a2cXgNmvpyXPQpJ), [Pia Aun](https://open.spotify.com/artist/49eCj4tMvupaSDw3PV4Jo8) | [Mentiras OST](https://open.spotify.com/album/28dQ38AbX6Z1VhDhAG8xT0) | 2:04 | 2025-06-19 |  |
+| [Castillos \(feat\. Natalia Sosa, Pia Aun, Mariana Treviño & Mónica Huarte\)](https://open.spotify.com/track/66PpVUKdOu1XNA3iqi7VEq) | [Mentiras El Musical](https://open.spotify.com/artist/4JyZAoxE6Ql2gTXXluXQHQ), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Mónica Huarte](https://open.spotify.com/artist/43jJKiIveUPRJRSkblWOpl), [Natalia Sosa](https://open.spotify.com/artist/7glg6v1a2cXgNmvpyXPQpJ), [Pia Aun](https://open.spotify.com/artist/49eCj4tMvupaSDw3PV4Jo8) | [Mentiras OST](https://open.spotify.com/album/28dQ38AbX6Z1VhDhAG8xT0) | 2:04 | 2025-06-19 | 2025-07-03 |
 | [Cayo La Noche X Diles X Soy Peor](https://open.spotify.com/track/4rvcqtRGH7DODsK9H6J1sd) | [Santiago Novello](https://open.spotify.com/artist/3NjvXwncl7KsWx8Onw9oWB) | [Cayo La Noche X Diles X Soy Peor](https://open.spotify.com/album/3frhrxgFMkirkmLDu6okds) | 2:00 | 2022-03-16 | 2022-06-15 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-02 | 2023-05-10 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-18 | 2023-06-07 |
@@ -179,6 +179,7 @@
 | [Cyberpunk](https://open.spotify.com/track/0x5iuaeBzKEVT49lJKpRAR) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Cyberpunk](https://open.spotify.com/album/5gh5pmkrqFscbkp3XumdHv) | 3:35 | 2022-06-08 | 2022-07-19 |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 | 2022-01-05 | 2023-03-03 |
 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 | 2023-02-10 | 2023-04-22 |
+| [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-02 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-16 | 2024-04-26 |
 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 | 2024-02-09 | 2024-06-22 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-21 | 2024-05-02 |

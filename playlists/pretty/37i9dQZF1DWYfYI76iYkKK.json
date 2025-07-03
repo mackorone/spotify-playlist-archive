@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 129841,
+  "num_followers": 129840,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-26 16:00:22",
       "album": {
-        "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
-        "url": "https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq"
-      },
-      "artists": [
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
-        }
-      ],
-      "duration_ms": 273273,
-      "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
-      "url": "https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00"
-    },
-    {
-      "added_at": "2025-06-26 16:00:22",
-      "album": {
         "name": "\u904b\u6c23\u4f86\u5f97\u82e5\u6709\u4f3c\u7121",
         "url": "https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 270760,
       "name": "\u552f\u4e00 (\u4e09\u7acb/\u53f0\u8996\u6232\u5287\u300a\u6200\u611b\u662f\u79d1\u5b78\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb"
+    },
+    {
+      "added_at": "2025-06-26 16:00:22",
+      "album": {
+        "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
+        "url": "https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "duration_ms": 273273,
+      "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
+      "url": "https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00"
     },
     {
       "added_at": "2025-06-26 16:00:22",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-06-26 16:00:22",
       "album": {
-        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
-    },
-    {
-      "added_at": "2025-06-26 16:00:22",
-      "album": {
         "name": "Same Stories, Different Narratives",
         "url": "https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 272424,
       "name": "\u5fc3\u81df\u7684\u53f3\u908a / Right Side of My Heart (feat. \u9b4f\u5982\u8431)",
       "url": "https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54"
+    },
+    {
+      "added_at": "2025-06-26 16:00:22",
+      "album": {
+        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
     },
     {
       "added_at": "2025-06-26 16:00:22",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-06-26 16:00:22",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
-    },
-    {
-      "added_at": "2025-06-26 16:00:22",
-      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+    },
+    {
+      "added_at": "2025-06-26 16:00:22",
+      "album": {
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
     },
     {
       "added_at": "2025-06-26 16:00:22",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-06-26 16:00:22",
       "album": {
-        "name": "infinity \u6c38\u9060\u6c38\u9060",
-        "url": "https://open.spotify.com/album/7Lhga1KzTYFXOwQ65wUHfP"
-      },
-      "artists": [
-        {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        },
-        {
-          "name": "\u9ec3\u5049\u6649",
-          "url": "https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "infinity \u6c38\u9060\u6c38\u9060",
-      "url": "https://open.spotify.com/track/7LAp8srCLbQdUOpP9w8T2Z"
-    },
-    {
-      "added_at": "2025-06-26 16:00:22",
-      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 295025,
       "name": "\u5e74\u8f2a\u8aaa",
       "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
+    },
+    {
+      "added_at": "2025-06-26 16:00:22",
+      "album": {
+        "name": "infinity \u6c38\u9060\u6c38\u9060",
+        "url": "https://open.spotify.com/album/7Lhga1KzTYFXOwQ65wUHfP"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        },
+        {
+          "name": "\u9ec3\u5049\u6649",
+          "url": "https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "infinity \u6c38\u9060\u6c38\u9060",
+      "url": "https://open.spotify.com/track/7LAp8srCLbQdUOpP9w8T2Z"
     },
     {
       "added_at": "2025-06-26 16:00:22",

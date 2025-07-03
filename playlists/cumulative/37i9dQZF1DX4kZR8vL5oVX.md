@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Marine \(du titre \#1 au \#21\).
 
-1,593 songs - 3 day 11 hr 7 min
+1,594 songs - 3 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,7 +559,8 @@
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-05-03 | 2022-06-01 |
 | [Humide](https://open.spotify.com/track/2HoFrviJ5T6DtPGEZAMRC0) | [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1) | [Humide](https://open.spotify.com/album/4orGOf5BS9MWrQrfhIqCxH) | 2:54 | 2023-02-28 | 2023-04-05 |
 | [hunter](https://open.spotify.com/track/7zbPWQA0ayd60VG9K1gejF) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 3:19 | 2025-02-04 | 2025-03-05 |
-| [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 | 2025-07-01 |  |
+| [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 | 2025-07-02 |  |
+| [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 | 2025-07-01 | 2025-07-03 |
 | [Hypersensible \- Acoustique](https://open.spotify.com/track/3ukSzDcV7c6ihkvZcRNBmu) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Hypersensible \(Acoustique\)](https://open.spotify.com/album/0mRRxrv3l6ddQslGK3Cx1S) | 3:55 | 2023-08-01 | 2023-09-06 |
 | [Hypocrite](https://open.spotify.com/track/1evaJL2qYgCi5ZdpH0HQuN) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Hypocrite](https://open.spotify.com/album/6bdBbdynydsYFswrHkZqb8) | 2:58 | 2023-06-06 | 2023-07-05 |
 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-12-03 | 2025-01-08 |

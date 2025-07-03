@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan talenta segar dalam negeri\. Cover: Tsaqib
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,250 likes - 91 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,252 likes - 91 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 90 | [Zapin Hati Melayang](https://open.spotify.com/track/65DMuTjICnMlRhK57Z4QRb) | [Hari Putra](https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN) | [Zapin Hati Melayang](https://open.spotify.com/album/24LYTgUCak6wgj2lejAnzF) | 3:21 |
 | 91 | [Runaway](https://open.spotify.com/track/3aJbH8XQCYPE5RKkjDhx6W) | [Shyclops](https://open.spotify.com/artist/7zYMujuLfBXBchiqk64fgZ) | [Runaway](https://open.spotify.com/album/2rWfTnlzuEVq3KifP02KdI) | 3:45 |
 
-Snapshot ID: `aF3IzgAAAACbT/llu+vxd1fNeTYNVn73`
+Snapshot ID: `aGTkTQAAAACmtMIVylZWo2jwmJ9Gp2Hv`

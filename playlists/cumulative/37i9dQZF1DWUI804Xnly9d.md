@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-563 songs - 1 day 7 hr 34 min
+564 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 | 2023-12-26 | 2024-01-05 |
 | [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 | 2024-01-04 |
 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 | 2025-06-06 |  |
+| [BERUKHI](https://open.spotify.com/track/0gqGFRHkJe7GQiM27WK8Du) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [BERUKHI](https://open.spotify.com/album/3boFPzadTWozEURysiWHID) | 2:46 | 2025-07-02 |  |
 | [Betabiyaan](https://open.spotify.com/track/7pv3jYk70LbTsKOhYzqOWo) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO) | [Betabiyaan](https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4) | 3:22 | 2024-03-31 | 2024-04-30 |
 | [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 | 2023-06-27 | 2024-02-02 |
 | [Bheegne De](https://open.spotify.com/track/1eyQsjV2IXXhp5vRbHniEg) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Bheegne De](https://open.spotify.com/album/5n2FEtr5JcMCo6mc2v8u9P) | 3:35 | 2025-06-11 |  |
@@ -363,7 +364,7 @@
 | [Nazar](https://open.spotify.com/track/2AVEL5vPdG3RaakqiVCzoA) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Nazar](https://open.spotify.com/album/2w990tnpsf7MGjZJBK0t6f) | 3:40 | 2025-02-14 |  |
 | [Nazar](https://open.spotify.com/track/79nB5wBVW8GtqaTdrnWwsS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Nazar](https://open.spotify.com/album/5mbnll7Q0EZcSC88Cvutut) | 4:08 | 2025-04-11 |  |
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
-| [noor](https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn) | [Dev Raiyani](https://open.spotify.com/artist/6qrB13mmk7jADWqdYUXvRB), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [noor](https://open.spotify.com/album/38RR075DZB1HF4B7sqN2fP) | 2:38 | 2025-01-03 |  |
+| [noor](https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn) | [Dev Raiyani](https://open.spotify.com/artist/6qrB13mmk7jADWqdYUXvRB), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [noor](https://open.spotify.com/album/38RR075DZB1HF4B7sqN2fP) | 2:38 | 2025-01-03 | 2025-07-03 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
 | [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 | 2024-07-09 |
 | [O Saajna](https://open.spotify.com/track/5mbunFqwSF7Zo77lbJlLku) | [FIRDAUS](https://open.spotify.com/artist/7BfH29hEuqsCROoAMld4qj) | [O Saajna](https://open.spotify.com/album/3Ru1eQ5IFhxtY96lFacZl6) | 4:43 | 2024-09-13 | 2024-09-30 |

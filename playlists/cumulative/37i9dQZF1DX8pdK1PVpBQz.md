@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Mt\. Nadir
 
-4,102 songs - 9 day 9 hr 42 min
+4,103 songs - 9 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3567,6 +3567,7 @@
 | [The Lead](https://open.spotify.com/track/7HpBHY0JcsGpuJqoZRZwDX) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [The Lead](https://open.spotify.com/album/6VgF2SUmtZPSdM98pxkHGB) | 4:31 | 2022-02-23 | 2022-03-16 |
 | [The Line](https://open.spotify.com/track/1wsNmskiu7lf8ZsPDM6igR) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [The Line](https://open.spotify.com/album/3j7UYZyOwvcAeuH4MnkM50) | 3:38 | 2025-03-18 | 2025-04-30 |
 | [The Line](https://open.spotify.com/track/3nsHLuq0qYzheq850Fw5qF) | [Vanessa](https://open.spotify.com/artist/28DKVtCElWEV5wCoWZtCuG) | [The Line](https://open.spotify.com/album/4Dv9aiuJfsYnwOnawMFNnf) | 4:38 | 2025-01-14 | 2025-03-05 |
+| [The List](https://open.spotify.com/track/5HITGcQO3UFhYk9mMscItp) | [Hard Rubbish](https://open.spotify.com/artist/0Rr6JV8yog8FNaCdM7i460) | [Evergreen \[19\-24\]](https://open.spotify.com/album/2hT4EBTHtIyRvj48fxm9C1) | 3:28 | 2025-07-01 |  |
 | [The Lonely Example](https://open.spotify.com/track/5hi3Y2jzu5GZpi5LVgadNQ) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [The Lonely Example](https://open.spotify.com/album/5WbMN4kNopVhQncph9s37g) | 3:03 | 2022-07-06 | 2022-07-28 |
 | [The Luka Song](https://open.spotify.com/track/5QDh1I1fKPrvGXBxIHDLEh) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [The Luka Song](https://open.spotify.com/album/7f2NPvdzlgk1WC8DpPBmmJ) | 3:06 | 2023-11-15 | 2023-11-30 |
 | [The Mind](https://open.spotify.com/track/6UsQvnQ5Eja9pzTPRlWxpi) | [Cruz Patterson](https://open.spotify.com/artist/4rK04IHobm1zwbuBtkXXLk), [Cam Deg](https://open.spotify.com/artist/4is9yBktBQ1C3R3ou8cd0O) | [The Mind](https://open.spotify.com/album/0dqTwX9q4whNTQkOQ7oHO3) | 3:23 | 2022-07-06 | 2022-07-28 |

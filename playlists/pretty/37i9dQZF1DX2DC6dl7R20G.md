@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,006 likes - 24 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,008 likes - 24 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We'll shine brighter than any other stars](https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 |
 | 2 | [A little more](https://open.spotify.com/track/5JXZEz2nO23mXsYY4nNREW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 |
 | 3 | [Love beyond words](https://open.spotify.com/track/40c4m7jV3UFTaqCxdm6AFB) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9) | 3:53 |
-| 4 | [My Love](https://open.spotify.com/track/3HxEHyCJPT9o9nsGn5pJkl) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 |
-| 5 | [miss you more, I'm sorry](https://open.spotify.com/track/6cOpgvr2opxH5Asrnluxri) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [miss you more, I'm sorry \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ) | 3:20 |
+| 4 | [miss you more, I'm sorry](https://open.spotify.com/track/6cOpgvr2opxH5Asrnluxri) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [miss you more, I'm sorry \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ) | 3:20 |
+| 5 | [My Love](https://open.spotify.com/track/3HxEHyCJPT9o9nsGn5pJkl) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 |
 | 6 | [Want to be happy](https://open.spotify.com/track/2rMtQ0uNjFw9JjbsnEatEq) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Want to be happy \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV) | 3:33 |
 | 7 | [Talk to me](https://open.spotify.com/track/1VkrFMnRcfMqIESAa4amv2) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Talk to me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC) | 4:17 |
 | 8 | [Wanna be your lover](https://open.spotify.com/track/3pv8OsZEBHM3UMIyvYhpGu) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Wanna be your lover \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/3Ea87oNrypIds4feLNpugp) | 4:26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 418554,
+  "num_followers": 418621,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGHTgAAAAADHw8eRP0FuxIgkmlau0UtE",
+  "snapshot_id": "aGMlAAAAAAD5VGuOALckhmQfOOSUZFaM",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "Hammerhead",
-      "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERCHARGED",
         "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "Hammerhead",
+      "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228240,
       "name": "Defy You",
       "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
     },
     {
       "added_at": null,
@@ -719,18 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+        "name": "Looking Out For #1",
+        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
+        },
+        {
+          "name": "Adam Greenholtz",
+          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
         }
       ],
-      "duration_ms": 120346,
-      "name": "Truth In Fiction",
-      "url": "https://open.spotify.com/track/1gx6wJfh9vN3kez2xsGDbN"
+      "duration_ms": 150553,
+      "name": "Looking Out For #1 - Ska Version",
+      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
     },
     {
       "added_at": null,
@@ -767,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 120346,
+      "name": "Truth In Fiction",
+      "url": "https://open.spotify.com/track/1gx6wJfh9vN3kez2xsGDbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 201266,
       "name": "Behind Your Walls",
       "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Out For #1",
-        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Bob Rock",
-          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
-        },
-        {
-          "name": "Adam Greenholtz",
-          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
-        }
-      ],
-      "duration_ms": 150553,
-      "name": "Looking Out For #1 - Ska Version",
-      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
     },
     {
       "added_at": null,

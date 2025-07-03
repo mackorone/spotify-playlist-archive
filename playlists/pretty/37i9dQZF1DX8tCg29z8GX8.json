@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 16885,
+  "num_followers": 16898,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-06-27 07:57:08",
       "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2025-06-27 07:57:08",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 192527,
       "name": "Bend",
       "url": "https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE"
-    },
-    {
-      "added_at": "2025-06-27 07:57:08",
-      "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2025-06-27 07:57:08",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-06-27 07:57:08",
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "added_at": "2025-06-27 07:57:08",
+      "album": {
         "name": "Sa Me",
         "url": "https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 168480,
       "name": "Sa Me",
       "url": "https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa"
-    },
-    {
-      "added_at": "2025-06-27 07:57:08",
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2025-06-27 07:57:08",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2025-06-27 07:57:08",
       "album": {
-        "name": "Excellent",
-        "url": "https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        }
-      ],
-      "duration_ms": 160583,
-      "name": "Excellent",
-      "url": "https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC"
-    },
-    {
-      "added_at": "2025-06-27 07:57:08",
-      "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7"
+    },
+    {
+      "added_at": "2025-06-27 07:57:08",
+      "album": {
+        "name": "Excellent",
+        "url": "https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "duration_ms": 160583,
+      "name": "Excellent",
+      "url": "https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC"
     },
     {
       "added_at": "2025-06-27 07:57:08",
@@ -1503,18 +1503,22 @@
     {
       "added_at": "2025-06-27 07:57:08",
       "album": {
-        "name": "CHRONICLES (The First Supper)",
-        "url": "https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ"
+        "name": "Fine Girl",
+        "url": "https://open.spotify.com/album/5H9X2O4eYYkTshwoofj3eB"
       },
       "artists": [
         {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
         }
       ],
-      "duration_ms": 161985,
-      "name": "Till It's Done",
-      "url": "https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL"
+      "duration_ms": 182622,
+      "name": "Fine Girl",
+      "url": "https://open.spotify.com/track/6P52DObY1mHoGjJAObCvAQ"
     }
   ],
   "unique_name": "Troski Rhythms",

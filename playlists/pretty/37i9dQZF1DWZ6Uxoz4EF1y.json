@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 223157,
+  "num_followers": 223257,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "La Bondad de Dios",
-        "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
-      },
-      "artists": [
-        {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 263731,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "Getseman\u00ed",
         "url": "https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 248845,
       "name": "Getseman\u00ed",
       "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "La Bondad de Dios",
+        "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
+      },
+      "artists": [
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 263731,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
-      },
-      "artists": [
-        {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        },
-        {
-          "name": "Marcos Yaroide",
-          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
-        }
-      ],
-      "duration_ms": 385066,
-      "name": "Mateo 17",
-      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "Tengo Sed de Ti",
         "url": "https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh"
       },
@@ -735,6 +715,22 @@
       "duration_ms": 302146,
       "name": "Tengo Sed de Ti",
       "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Nunca para de Llover",
+        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -759,18 +755,22 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Nunca para de Llover",
-        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
       },
       "artists": [
         {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
         }
       ],
-      "duration_ms": 222613,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
+      "duration_ms": 385066,
+      "name": "Mateo 17",
+      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
+        "name": "Porque \u00c9l Vive",
+        "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
+      },
+      "artists": [
+        {
+          "name": "Rudy P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv"
+        }
+      ],
+      "duration_ms": 259700,
+      "name": "Porque \u00c9l Vive",
+      "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 225493,
       "name": "Amor Imparable",
       "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Porque \u00c9l Vive",
-        "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
-      },
-      "artists": [
-        {
-          "name": "Rudy P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv"
-        }
-      ],
-      "duration_ms": 259700,
-      "name": "Porque \u00c9l Vive",
-      "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
+        "name": "Nada Guardaste",
+        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
+      },
+      "artists": [
+        {
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Nada Guardaste",
+      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 264906,
       "name": "Glorioso Eres T\u00fa",
       "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Nada Guardaste",
-        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
-      },
-      "artists": [
-        {
-          "name": "Ana Bolivar",
-          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Nada Guardaste",
-      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "El Justo Vivir\u00e1 Por Fe",
-        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "El justo vivir\u00e1 por fe",
-      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "Soplando Vida",
         "url": "https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "25 Concierto Conmemorativo",
-        "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
+        "name": "El Justo Vivir\u00e1 Por Fe",
+        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
         }
       ],
-      "duration_ms": 305626,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
+      "duration_ms": 309400,
+      "name": "El justo vivir\u00e1 por fe",
+      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1439,42 +1423,6 @@
       "duration_ms": 315651,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612165,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Eres Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Poema de salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/58MfbVYQQATU1ifuqjQsEj"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1499,18 +1447,54 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
+      "duration_ms": 612165,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "25 Concierto Conmemorativo",
+        "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 305626,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Eres Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Poema de salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/58MfbVYQQATU1ifuqjQsEj"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1527,6 +1511,46 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 279858,
+      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
+      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1563,30 +1587,6 @@
       "duration_ms": 189075,
       "name": "M\u00e1s De Ti - En Vivo",
       "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 279858,
-      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
-      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
     },
     {
       "added_at": "2025-04-06 05:33:25",

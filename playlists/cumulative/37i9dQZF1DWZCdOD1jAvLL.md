@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Rezz
 
-835 songs - 1 day 21 hr 20 min
+836 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2022-01-14 | 2022-01-22 |
 | [Gladiator](https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG) | [Gladiator](https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI) | 2:16 | 2023-12-08 | 2024-02-11 |
 | [Go Again](https://open.spotify.com/track/4t2tX7m8SPhCtvgQ1w3iRo) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Go Again](https://open.spotify.com/album/4hXIrgyYASAus2Ms0GQx0E) | 2:10 | 2025-05-09 | 2025-06-28 |
+| [Go Mode](https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Go Mode](https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG) | 3:52 | 2025-06-27 |  |
 | [GOD IS A GENTLEMAN](https://open.spotify.com/track/7hGTUmwwBsKZNErW9chlll) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [GOD IS A GENTLEMAN](https://open.spotify.com/album/53PuP9zRXP4d7e8VpC6XGU) | 3:10 | 2024-11-08 | 2025-01-18 |
 | [Godless](https://open.spotify.com/track/1LLQXqalVEKNTkga1WHrx9) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [Godless](https://open.spotify.com/album/3JbJ3sGuHEl4EY4Q3EhB6w) | 3:25 | 2023-12-01 | 2024-02-10 |
 | [Going Insane](https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Eyes Wide Open](https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX) | 3:51 | 2023-11-10 | 2024-03-09 |
@@ -671,7 +672,7 @@
 | [Show Me Love](https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Show Me Love](https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs) | 2:36 | 2024-11-15 | 2025-01-11 |
 | [Shrine Banger](https://open.spotify.com/track/3a3YhO3gL4WaiQCkLVAY01) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Shrine Banger](https://open.spotify.com/album/47AObpvZWhRdPjKgI9f5Ky) | 3:59 | 2023-09-01 | 2023-09-30 |
 | [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 | 2023-11-24 |  |
-| [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-05-19 |  |
+| [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-05-19 | 2025-07-03 |
 | [Sillo](https://open.spotify.com/track/41nCgrlaeqVkMCcAEPuu6O) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Sillo](https://open.spotify.com/album/5cMRL9Nv0wLvuArkp3qC9h) | 4:38 | 2022-02-04 | 2022-06-25 |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 | 2023-01-14 |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-03-29 | 2024-12-07 |

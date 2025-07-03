@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 559822,
+  "num_followers": 559848,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Anda Perdana",
+          "url": "https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Menghitung Hari 2",
+      "url": "https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
         "name": "Menghapus Jejakmu",
         "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
       },
@@ -1147,34 +1163,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+        "name": "Sedang Sayang Sayangnya",
+        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
       },
       "artists": [
         {
-          "name": "Anda Perdana",
-          "url": "https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp"
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
         }
       ],
-      "duration_ms": 219706,
-      "name": "Menghitung Hari 2",
-      "url": "https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "semua, semua.",
-        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
-      },
-      "artists": [
-        {
-          "name": "Teddy Adhitya",
-          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
-        }
-      ],
-      "duration_ms": 201479,
-      "name": "Kembalikanku",
-      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
+      "duration_ms": 261030,
+      "name": "Sedang Sayang Sayangnya",
+      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Sedang Sayang Sayangnya",
-        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
+        "name": "semua, semua.",
+        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
       },
       "artists": [
         {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
         }
       ],
-      "duration_ms": 261030,
-      "name": "Sedang Sayang Sayangnya",
-      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
+      "duration_ms": 201479,
+      "name": "Kembalikanku",
+      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Terus Bersinar",
-        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
+        "name": "Sekilas Info",
+        "url": "https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh"
       },
       "artists": [
         {
-          "name": "Lobow",
-          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
         }
       ],
-      "duration_ms": 284946,
-      "name": "Kau Cantik Hari Ini",
-      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
+      "duration_ms": 350626,
+      "name": "Lagunya Begini, Nadanya Begitu",
+      "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
     }
   ],
   "unique_name": "Kopikustik",

@@ -243,6 +243,28 @@
     },
     {
       "album": {
+        "name": "Beija-Fruta (O Sexo)",
+        "url": "https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        },
+        {
+          "name": "Gabriela Brown",
+          "url": "https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273523,
+      "name": "Beija-Fruta (O Sexo)",
+      "url": "https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP"
+    },
+    {
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
       },
@@ -900,7 +922,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 209654,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"

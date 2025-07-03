@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,086 songs - 11 day 20 hr 39 min
+5,088 songs - 11 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1198,6 +1198,7 @@
 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/7LRmDx4pMTQuOBBwRT1MCT) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Plead The 5th](https://open.spotify.com/album/56as8vSyIlRSTNoCgIJb4S) | 3:27 | 2020-08-20 | 2021-06-08 |
 | [Don't Say Goodbye](https://open.spotify.com/track/5myYo40RKSaKyuLRbAfqTV) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/2GlZhFnvW6mxuyIDrerEoK) | 3:11 | 2019-10-09 | 2019-10-24 |
 | [Don't Stop](https://open.spotify.com/track/2uGlJ9lXs38UHnZWXcNk3C) | [45 Riots](https://open.spotify.com/artist/5cYyRSD0PnQjQLeTTACdVx), [Tyrik Ballard](https://open.spotify.com/artist/7DeISeiT53I2cjTEM4rpTG) | [Don't Stop](https://open.spotify.com/album/0Kmj4eZhHt1gyd1mmup6vp) | 2:35 | 2024-08-22 | 2024-09-02 |
+| [Don't Stop](https://open.spotify.com/track/76MfHdCfKkqUtp34AaS5l3) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz) | [Don't Stop](https://open.spotify.com/album/0LUhnc2LP5ZOJE4KWIWC0w) | 2:34 | 2025-07-02 |  |
 | [Don't Stop](https://open.spotify.com/track/4hVwfXGthJSmD5XOUHAUMF) | [Xero Music](https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd) | [Hood Boy Blues](https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf) | 3:22 | 2024-10-14 | 2024-10-26 |
 | [Don't Tell Daddy](https://open.spotify.com/track/4PfdlT7EnLLUB0bbJql3eE) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Don't Tell Daddy](https://open.spotify.com/album/71FjFlrm03RyC8n6eQlQmR) | 2:53 | 2024-12-26 | 2025-01-06 |
 | [Don't Trip](https://open.spotify.com/track/7DaEQTp3aHWqoXPG5MzdZl) | [Swelles](https://open.spotify.com/artist/3uRgUVvZ1p7oI1TLXwdKDl) | [Don't Trip](https://open.spotify.com/album/0mBX59kZ2z4wgbVvQtc0vq) | 2:50 | 2024-08-04 | 2024-08-16 |
@@ -3984,7 +3985,7 @@
 | [Some Type of Way](https://open.spotify.com/track/3g1mR1wV5dzIspD1xaO3NR) | [Lisa St\. Lou](https://open.spotify.com/artist/2DZUi8xatl7QYutuOvIfLf) | [Some Type of Way](https://open.spotify.com/album/4ZpJBa89f0orqtLoAvMztc) | 3:16 | 2024-07-20 | 2024-08-01 |
 | [Some Vague Impression](https://open.spotify.com/track/2gEY0GgLcdNgY53YHzTGF3) | [Former Friend](https://open.spotify.com/artist/3d0qSylOj8TyMZKa2tzmpt) | [Bill](https://open.spotify.com/album/5IgVlmWQkSUXprjuSHNs3u) | 2:30 | 2021-11-20 | 2021-12-18 |
 | [Somebody](https://open.spotify.com/track/62cHFHmbmCYXqmIgMxeMjl) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Somebody](https://open.spotify.com/album/2V7q8KO5FC5XxqpZdqDxFX) | 3:17 | 2020-07-26 | 2020-08-12 |
-| [Somebody Else](https://open.spotify.com/track/47mSZtzzciio9vX6hwkQwb) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Somebody Else](https://open.spotify.com/album/0l6s4sVSq9VAPbS8st4nee) | 3:10 | 2025-06-13 |  |
+| [Somebody Else](https://open.spotify.com/track/47mSZtzzciio9vX6hwkQwb) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Somebody Else](https://open.spotify.com/album/0l6s4sVSq9VAPbS8st4nee) | 3:10 | 2025-06-13 | 2025-07-03 |
 | [Somebody to Love](https://open.spotify.com/track/3o6qjtaCLvfvmbOwBADtQA) | [Natalie Claro](https://open.spotify.com/artist/6A0AOpJ7VsZvimYUSbE1Iw) | [Somebody to Love](https://open.spotify.com/album/0XseSST8lYmMLucFMFPTWN) | 3:11 | 2023-03-31 | 2023-04-23 |
 | [Someday](https://open.spotify.com/track/00d6kgv4bLvQbMzcvzTssh) | [Brian Larkins](https://open.spotify.com/artist/6vTwBl97KanVScVftV5G5n) | [Someday](https://open.spotify.com/album/74S1Wg9RXQ6A5z7Rxvwq6v) | 2:53 | 2021-01-08 | 2021-01-26 |
 | [Someday All This Pain Will Be Useful](https://open.spotify.com/track/7zcMMzn78hRiW71G4Zx2oD) | [Barli](https://open.spotify.com/artist/6HtZmijXHUG4ugzarCcBpi) | [Someday All This Pain Will Be Useful](https://open.spotify.com/album/03XN2SihYXvw8e2U2oZr16) | 2:56 | 2022-02-25 | 2022-03-14 |
@@ -4245,6 +4246,7 @@
 | [symptom of life](https://open.spotify.com/track/70nmpLYSyZ58QTUzUiB1VA) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:09 | 2024-08-12 |  |
 | [Synchronized Swimming](https://open.spotify.com/track/6UPGoBwrItSEid6J4zsFC1) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Synchronized Swimming](https://open.spotify.com/album/4uPiq7pZpa7b0SVTcnBMXO) | 3:30 | 2024-09-27 | 2024-10-10 |
 | [Syren](https://open.spotify.com/track/3cZtSRN6hwJur5olF8jdSR) | [syren water](https://open.spotify.com/artist/2DGleEHd00NfIwNyiPMrds) | [Syren](https://open.spotify.com/album/5llFuneLxyv0Y0bVTs4mXv) | 3:30 | 2023-05-19 | 2023-06-11 |
+| [Sábanas Tibias](https://open.spotify.com/track/2kYgyqfSPuKLDU54OcrpQ9) | [Demos Legacy](https://open.spotify.com/artist/7BfXoVbyCjgesn8np1E2ys), [Medicensanto](https://open.spotify.com/artist/1bggGBhvZxsRUVLK6Gdbax), [Chris Milan](https://open.spotify.com/artist/3jXpv2aDFAJhtgf7NDGsn1) | [Sábanas Tibias](https://open.spotify.com/album/5y5wRJjEfHcEskuNClSJF7) | 2:41 | 2025-07-02 |  |
 | [Só Pra Dizer](https://open.spotify.com/track/4tBTV37b72pBYMYUuZctat) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Téka Penteriche](https://open.spotify.com/artist/0pOsCjNjgezuvqdvPGapuZ) | [Só Pra Dizer](https://open.spotify.com/album/0dje5oJErhHLE3hoRxryVd) | 3:08 | 2023-02-05 | 2023-03-09 |
 | [Sólo Un Mes](https://open.spotify.com/track/1ji01mAEtKNzKhd4o6IA37) | [Beto Hdz](https://open.spotify.com/artist/5hxdoFROGG0V812ia43GDI) | [Sólo Un Mes](https://open.spotify.com/album/63xYkXQ00oLTLkxRAZ3sv0) | 3:02 | 2025-04-22 | 2025-05-04 |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0FlfN5cbUUpIHCRH8X1M44) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 5:04 | 2020-12-20 | 2023-08-28 |

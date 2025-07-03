@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Dopebwoy & Russ Millions
 
-1,009 songs - 2 day 1 hr 7 min
+1,010 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-03-06 | 2024-04-19 |
 | [Feeling The Love Again \(Explode\)](https://open.spotify.com/track/3eGf636ICmSNbZEEl7QAax) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling The Love Again \(Explode\)](https://open.spotify.com/album/3xqG4VIG6Z3c56zcRaYOVE) | 2:42 | 2023-06-15 | 2023-08-18 |
 | [Feeling the Love Again \(Explode\)](https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling the Love Again \(Explode\)](https://open.spotify.com/album/03NA4ZGn8nBRSmpJfEG29l) | 2:42 | 2023-06-15 | 2023-06-21 |
+| [Festi](https://open.spotify.com/track/4KxpYIPZazJAptELA0fpVK) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV) | [Festi](https://open.spotify.com/album/5nJVq69Pep0uWAvnEspPJJ) | 2:48 | 2025-07-02 |  |
 | [Festival](https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Dopebwoy](https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS) | [Festival](https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5) | 2:26 | 2024-04-25 | 2024-07-05 |
 | [FHM 500](https://open.spotify.com/track/7LwqG6rc5bbSv4ohKRfEHH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [FHM 500](https://open.spotify.com/album/0MHhhzjPzZ8OcRgThJ5zk7) | 2:45 | 2025-01-09 | 2025-02-21 |
 | [Fiets](https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Fiets](https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg) | 1:41 | 2023-02-23 | 2023-03-25 |

@@ -797,6 +797,28 @@
     },
     {
       "album": {
+        "name": "Frequency (Go West)",
+        "url": "https://open.spotify.com/album/72YdJwYP5izEXu4itP8u7B"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153857,
+      "name": "Frequency (Go West)",
+      "url": "https://open.spotify.com/track/64jnLLOAwnDscTYCAc6oct"
+    },
+    {
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD"
       },

@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 243995,
       "name": "Bagatelles, Op. 47: No. 4, Canon. Andante con moto",
       "url": "https://open.spotify.com/track/5FT0F4TjmJZAiFLDXyNoVx"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 313200,
       "name": "Grande valse brillante, Op. 34 No. 2",
       "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
@@ -7069,6 +7069,32 @@
     },
     {
       "album": {
+        "name": "Melartin: Symphonies Nos. 5 & 6",
+        "url": "https://open.spotify.com/album/1WIRM3HWWFCaVipjRigisi"
+      },
+      "artists": [
+        {
+          "name": "Erkki Melartin",
+          "url": "https://open.spotify.com/artist/3KuwIEvPyTULzMRVKj4uw8"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Ari Rasilainen",
+          "url": "https://open.spotify.com/artist/20nTcO8JX0vI45JYSwC2Oe"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332682,
+      "name": "Symphony No. 5 in A Minor, Op. 90 \"Sinfonia brevis\": III. Intermezzo",
+      "url": "https://open.spotify.com/track/4IEe8mTvhyZ4MBEZTZj6RI"
+    },
+    {
+      "album": {
         "name": "Boyce: Symphonies Nos 1/2/3/6/7/8",
         "url": "https://open.spotify.com/album/2kuKruHJJ00EJMIL7B7zoT"
       },
@@ -7110,6 +7136,24 @@
       "duration_ms": 188229,
       "name": "S\u0153ur Monique: 18\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5CBXjtjqToJ3sw0nCPdVDU"
+    },
+    {
+      "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152849,
+      "name": "Tempora",
+      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
     },
     {
       "album": {

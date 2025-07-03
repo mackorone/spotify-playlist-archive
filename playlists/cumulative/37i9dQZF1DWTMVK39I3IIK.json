@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "F\u00f8rhen",
+        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199313,
+      "name": "F\u00f8rhen",
+      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+    },
+    {
+      "album": {
         "name": "Gav Det Et Skud",
         "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 162686,
       "name": "Spiderman (feat. USSEL)",
       "url": "https://open.spotify.com/track/1ZUQoHxFpneJtz515ixKAH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > infinite aura for Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,184 likes - 135 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,195 likes - 135 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

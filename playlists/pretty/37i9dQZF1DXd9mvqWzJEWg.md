@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn?si=WuYDqhGOTQCrC9uq9LbGhA">ZVRI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,099 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,144 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Partii \(feat\. Aymos, Jay Music, QUE DJ & SpacePose\)](https://open.spotify.com/track/5DdkXF93YaZC6lB0TrgZQF) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [SpacePose](https://open.spotify.com/artist/3FzuMCbtaezJJqkDWm6A6i) | [Partii \(feat\. Aymos, Jay Music, QUE DJ & SpacePose\)](https://open.spotify.com/album/6EUhiZ9tUjp80kpmfX6Oes) | 5:05 |
+| 1 | [Partii \(feat\. SpacePose\)](https://open.spotify.com/track/5DdkXF93YaZC6lB0TrgZQF) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [SpacePose](https://open.spotify.com/artist/3FzuMCbtaezJJqkDWm6A6i) | [Partii \(feat\. SpacePose\)](https://open.spotify.com/album/6EUhiZ9tUjp80kpmfX6Oes) | 5:02 |
 | 2 | [Pressure](https://open.spotify.com/track/7mxG6tzpRVR0jfTLstFrf6) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 3:34 |
 | 3 | [Palesa](https://open.spotify.com/track/0cPTKlRYKQMsDKsksYjKkb) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Zeh McGeba](https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Khuphuka](https://open.spotify.com/album/1INdvramG7WFxxkZt1HG4c) | 4:59 |
 | 4 | [Aw Kodwa Loyiso \- Gqom Remake](https://open.spotify.com/track/0cBHaWeqSlGAKcqOMfubM5) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG), [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc) | [Aw Kodwa Loyiso \(Gqom Remake\)](https://open.spotify.com/album/6qh7YeysvguA2qwSmYA4NR) | 4:24 |

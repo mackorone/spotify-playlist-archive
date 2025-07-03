@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: fromis_9 (\ud504\ub85c\ubbf8\uc2a4\ub098\uc778)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: KARD) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -13379,6 +13379,28 @@
     },
     {
       "album": {
+        "name": "Anywhere is Fine",
+        "url": "https://open.spotify.com/album/09UuMjRQ824AqhjYowuV8l"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "Akita",
+          "url": "https://open.spotify.com/artist/4NSfMdZSdFOJqkNTeGYXZt"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Anywhere is Fine (feat. Akita)",
+      "url": "https://open.spotify.com/track/2I2mjKYPjw3iDavvh07cw2"
+    },
+    {
+      "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/5MlXSnIV0JNrOuU4KDDTAo"
       },
@@ -20744,7 +20766,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 244478,
       "name": "Because It\u2032s You",
       "url": "https://open.spotify.com/track/7kF3fy42hvKIfS8NdBfYxS"
@@ -36666,7 +36688,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 263293,
       "name": "City light",
       "url": "https://open.spotify.com/track/1tLIU48UtU6AWg2NLyUUeV"
@@ -46268,6 +46290,24 @@
       "duration_ms": 184285,
       "name": "Define it as Love",
       "url": "https://open.spotify.com/track/3IfHQCyda5JZaIpwSu3NRb"
+    },
+    {
+      "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
     },
     {
       "album": {
@@ -56108,7 +56148,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 231573,
       "name": "Emergency Room",
       "url": "https://open.spotify.com/track/60YCukOGIuAq6dG3jtZIC0"
@@ -60102,6 +60142,24 @@
       "duration_ms": 170783,
       "name": "EXCEL",
       "url": "https://open.spotify.com/track/0hPbVp26JuqHo0N3JPvdDZ"
+    },
+    {
+      "album": {
+        "name": "exchange - student",
+        "url": "https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt"
+      },
+      "artists": [
+        {
+          "name": "kimseungjoo",
+          "url": "https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "exchange - student",
+      "url": "https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N"
     },
     {
       "album": {
@@ -64322,6 +64380,24 @@
       "duration_ms": 197962,
       "name": "FINAL LOVE SONG",
       "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
+    },
+    {
+      "album": {
+        "name": "Finale",
+        "url": "https://open.spotify.com/album/3pHj8rQ3QOkNGo8fp1V9hd"
+      },
+      "artists": [
+        {
+          "name": "For The More",
+          "url": "https://open.spotify.com/artist/1bzOHbC2BtXjQjSAgNPaGs"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/6aIIoWRLHtTZEtf9gMrEw2"
     },
     {
       "album": {
@@ -71216,7 +71292,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 184736,
       "name": "G.I.M (God In Me)",
       "url": "https://open.spotify.com/track/6pMuluKMLtyCqJHWfE5Iem"
@@ -76147,6 +76223,24 @@
     },
     {
       "album": {
+        "name": "Head over Heels, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5"
+      },
+      "artists": [
+        {
+          "name": "Choo young woo",
+          "url": "https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/7LV82AVOEg2bcXDxmwGpS2"
       },
@@ -77870,7 +77964,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 149418,
       "name": "Green Tree Frog",
       "url": "https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ"
@@ -79660,7 +79754,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 195411,
       "name": "happy",
       "url": "https://open.spotify.com/track/6LUwzeiiPlUXQEO6Ke8sEt"
@@ -99709,6 +99803,28 @@
     },
     {
       "album": {
+        "name": "ILYSM",
+        "url": "https://open.spotify.com/album/4v7OYnQQHldBgs429NvvYT"
+      },
+      "artists": [
+        {
+          "name": "ARMOR",
+          "url": "https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD"
+        },
+        {
+          "name": "Wynn",
+          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185566,
+      "name": "ILYSM",
+      "url": "https://open.spotify.com/track/6kWnw4cdOxXzOcJuFWAV2b"
+    },
+    {
+      "album": {
         "name": "IM HERO - \uc6b0\ub9ac\ub4e4\uc758 \ube14\ub8e8\uc2a4",
         "url": "https://open.spotify.com/album/2dpiD4CIe4CtJxVCbcv2yf"
       },
@@ -112538,7 +112654,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 260000,
       "name": "Let Her Stay (Our Movie : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/66IiQyz1joeAXbO9zAgG1A"
@@ -114590,6 +114706,24 @@
       "duration_ms": 223240,
       "name": "light of you",
       "url": "https://open.spotify.com/track/3S1MltwapdOGjxrMKqvDey"
+    },
+    {
+      "album": {
+        "name": "Light On Your Night",
+        "url": "https://open.spotify.com/album/3KLCfiu0p9MYVkVylcIviP"
+      },
+      "artists": [
+        {
+          "name": "Jo Yeonho",
+          "url": "https://open.spotify.com/artist/0swMkmHqIisFoWkaVNGZrH"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217450,
+      "name": "Light On Your Night",
+      "url": "https://open.spotify.com/track/0vwbhswI8gc7UlNPZON7HM"
     },
     {
       "album": {
@@ -133566,6 +133700,24 @@
       "duration_ms": 272300,
       "name": "monology",
       "url": "https://open.spotify.com/track/5RnCxHdNbplkbZIy0Z3dbQ"
+    },
+    {
+      "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229746,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH"
     },
     {
       "album": {
@@ -154752,7 +154904,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 190908,
       "name": "Peaceful sunlight",
       "url": "https://open.spotify.com/track/4X5vW7XSJQqMsI72cq4q5L"
@@ -173118,6 +173270,24 @@
       "duration_ms": 168106,
       "name": "SEE YOU LATER",
       "url": "https://open.spotify.com/track/2PjPNXqQvVV3z91cwXX12T"
+    },
+    {
+      "album": {
+        "name": "Spring of Youth (Original Soundtrack) Part.10",
+        "url": "https://open.spotify.com/album/7EPS38XexyHrXvgo7x9lBn"
+      },
+      "artists": [
+        {
+          "name": "TWO SAGYE",
+          "url": "https://open.spotify.com/artist/2AujoApYKOBozYB7dz1Y4q"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "SEE YOU LATER",
+      "url": "https://open.spotify.com/track/1grAnXSqp52uTrzzsD4FKX"
     },
     {
       "album": {
@@ -193072,7 +193242,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 213575,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/6ppD5qbnH5nFoQQOGAEID4"
@@ -208825,6 +208995,24 @@
     },
     {
       "album": {
+        "name": "KARD 8th Mini Album 'DRIFT'",
+        "url": "https://open.spotify.com/album/20n7NJgj2ZOi1YJ85KEkhq"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0QUDmGJaoWf97QIMTG8Lnn"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
@@ -211450,6 +211638,24 @@
       "duration_ms": 177581,
       "name": "Two Pills",
       "url": "https://open.spotify.com/track/6dLpWqTE8JM10tDOTB17Y3"
+    },
+    {
+      "album": {
+        "name": "Archive summer",
+        "url": "https://open.spotify.com/album/3Fs5IeBESg3yYLw5KY38Ho"
+      },
+      "artists": [
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185924,
+      "name": "Two umbrellas",
+      "url": "https://open.spotify.com/track/25VCKBSCKn63W1EoIsG7aL"
     },
     {
       "album": {
@@ -216221,24 +216427,6 @@
     },
     {
       "album": {
-        "name": "Theme. 6",
-        "url": "https://open.spotify.com/album/1lUbOtJF1qsz2Mg9HrEtKy"
-      },
-      "artists": [
-        {
-          "name": "Guckkasten",
-          "url": "https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA"
-        }
-      ],
-      "date_added": "2025-07-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 284000,
-      "name": "WAKE UP",
-      "url": "https://open.spotify.com/track/7pXKey8D7gdkcMVMiqvZlq"
-    },
-    {
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/77bQMLhvHQLnYeaL9zcQQ9"
       },
@@ -216294,6 +216482,24 @@
       "duration_ms": 184827,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/61Em27cUQhqrQ9zqlTYpVo"
+    },
+    {
+      "album": {
+        "name": "Theme. 6",
+        "url": "https://open.spotify.com/album/1lUbOtJF1qsz2Mg9HrEtKy"
+      },
+      "artists": [
+        {
+          "name": "Guckkasten",
+          "url": "https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "WAKE UP (Piano by Yang Bang Ean)",
+      "url": "https://open.spotify.com/track/7pXKey8D7gdkcMVMiqvZlq"
     },
     {
       "album": {
@@ -238480,7 +238686,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 189773,
       "name": "\ub108\ub3c4 \ud5e4\uc5b4\uc9c0\uace0 \uc2f6\uc796\uc544 (You want to break up, too)",
       "url": "https://open.spotify.com/track/2TJiIStSuDmNmzeLMGwPNh"
@@ -243754,7 +243960,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 224000,
       "name": "\uc5b8\uc81c\ub098 \uac19\uc774",
       "url": "https://open.spotify.com/track/7fC9qsEHTdzClB1lwwgiF9"

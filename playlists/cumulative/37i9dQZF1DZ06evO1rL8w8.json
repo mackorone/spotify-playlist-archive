@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202553,
+      "name": "Carros Empolvados (En Vivo)",
+      "url": "https://open.spotify.com/track/4VrBl7rOcXvjIWhfeFniUj"
+    },
+    {
+      "album": {
         "name": "Champagne O Cerveza",
         "url": "https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-03",
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"

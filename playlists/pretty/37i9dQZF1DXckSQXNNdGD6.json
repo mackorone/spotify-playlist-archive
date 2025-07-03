@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  FADES.",
-  "num_followers": 20701,
+  "num_followers": 20702,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,22 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+        "name": "El Destello",
+        "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
       },
       "artists": [
         {
           "name": "Juanjo Bona",
           "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        },
+        {
+          "name": "MARTIN",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
         }
       ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
+      "duration_ms": 160684,
+      "name": "El Destello",
+      "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -527,6 +531,22 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
+        "name": "Lunytunes",
+        "url": "https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v"
+      },
+      "artists": [
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "duration_ms": 155749,
+      "name": "Lunytunes",
+      "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
         "name": "Vida Quemada",
         "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
       },
@@ -543,18 +563,34 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
-        "name": "Lunytunes",
-        "url": "https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v"
+        "name": "Dame 10:36 Minutos",
+        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
       },
       "artists": [
         {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 155749,
-      "name": "Lunytunes",
-      "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
+      "duration_ms": 131376,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -575,42 +611,6 @@
       "duration_ms": 138428,
       "name": "LL\u00c1MAME",
       "url": "https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "El Destello",
-        "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        },
-        {
-          "name": "MARTIN",
-          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
-        }
-      ],
-      "duration_ms": 160684,
-      "name": "El Destello",
-      "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "Dame 10:36 Minutos",
-        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 131376,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
         "name": "La Perra de Despe\u00f1aperros (Seg\u00fan Sta. Francisca)",
         "url": "https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq"
       },
@@ -671,34 +687,18 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
-        "name": "TANTO POR HACER",
-        "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
+        "name": "Manual de Romer\u00eda",
+        "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
         }
       ],
-      "duration_ms": 192942,
-      "name": "Y Yo Que Pensaba",
-      "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
+      "duration_ms": 201316,
+      "name": "ALL\u00c1 ARRIBITA",
+      "url": "https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -731,18 +731,38 @@
     {
       "added_at": "2025-07-01 22:00:27",
       "album": {
-        "name": "Manual de Romer\u00eda",
-        "url": "https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0"
+        "name": "TANTO POR HACER",
+        "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
       },
       "artists": [
         {
-          "name": "Rodrigo Cuevas",
-          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 201316,
-      "name": "ALL\u00c1 ARRIBITA",
-      "url": "https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm"
+      "duration_ms": 192942,
+      "name": "Y Yo Que Pensaba",
+      "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
+    },
+    {
+      "added_at": "2025-07-01 22:00:27",
+      "album": {
+        "name": "Asereg\u00e9",
+        "url": "https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z"
+      },
+      "artists": [
+        {
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
+        },
+        {
+          "name": "Alosa",
+          "url": "https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB"
+        }
+      ],
+      "duration_ms": 202781,
+      "name": "Asereg\u00e9",
+      "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
     },
     {
       "added_at": "2025-07-01 22:00:27",
@@ -775,26 +795,6 @@
       "duration_ms": 158537,
       "name": "qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW"
-    },
-    {
-      "added_at": "2025-07-01 22:00:27",
-      "album": {
-        "name": "Asereg\u00e9",
-        "url": "https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z"
-      },
-      "artists": [
-        {
-          "name": "Svetlana",
-          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
-        },
-        {
-          "name": "Alosa",
-          "url": "https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB"
-        }
-      ],
-      "duration_ms": 202781,
-      "name": "Asereg\u00e9",
-      "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
     },
     {
       "added_at": "2025-07-01 22:00:27",
