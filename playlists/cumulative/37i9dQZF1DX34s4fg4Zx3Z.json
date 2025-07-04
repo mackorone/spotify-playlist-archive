@@ -9888,7 +9888,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 180000,
       "name": "C\u00f3 Th\u1ea5y Nh\u1edb",
       "url": "https://open.spotify.com/track/54QreanzMLes2Rmw4MFERE"
@@ -10838,7 +10838,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 220909,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/4HUdJdXjicbgnK3QhXbzrF"
@@ -17092,7 +17092,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 214808,
       "name": "INSIDE",
       "url": "https://open.spotify.com/track/0J4zcH6L1R0ocYxK0YAs9W"
@@ -18076,7 +18076,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 151093,
       "name": "kh\u00f4ng mu\u1ed1n em r\u1eddi xa",
       "url": "https://open.spotify.com/track/6FbhRedTTilaEczFX8VKuL"
@@ -20381,6 +20381,24 @@
     },
     {
       "album": {
+        "name": "L\u00e2u R\u1ed3i M\u1edbi \u0110\u1eadm S\u00e2u",
+        "url": "https://open.spotify.com/album/3YWne5fAZQBgYYEtgCaVHL"
+      },
+      "artists": [
+        {
+          "name": "JBEE7",
+          "url": "https://open.spotify.com/artist/4b0il49i8iJcspFGvde130"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187956,
+      "name": "L\u00e2u R\u1ed3i M\u1edbi \u0110\u1eadm S\u00e2u",
+      "url": "https://open.spotify.com/track/4lUjachZMQnVYfD4KVCmpl"
+    },
+    {
+      "album": {
         "name": "L\u00ean Sau",
         "url": "https://open.spotify.com/album/6Zj4alZOHAHsP6BJ7pckpQ"
       },
@@ -20768,6 +20786,32 @@
       "duration_ms": 234338,
       "name": "L\u1ea7n Sau Cu\u1ed1i",
       "url": "https://open.spotify.com/track/4pg2H704hhVrEpl2JRmDlF"
+    },
+    {
+      "album": {
+        "name": "L\u1eaeK L\u01af",
+        "url": "https://open.spotify.com/album/38pkxfHi1B6XdSWNFyNOGs"
+      },
+      "artists": [
+        {
+          "name": "brook",
+          "url": "https://open.spotify.com/artist/5997J9AH4sTaWQDO8x4VPL"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1hhQRlbjtVj3lrP7b3eblN"
+        },
+        {
+          "name": "KhoaiTay",
+          "url": "https://open.spotify.com/artist/38LYD17dWChNz4kp1KtknX"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "L\u1eaeK L\u01af",
+      "url": "https://open.spotify.com/track/01mQROFplBBLsloin9bBE9"
     },
     {
       "album": {
@@ -21190,6 +21234,28 @@
       "duration_ms": 242698,
       "name": "M Ng\u00e0y Mai",
       "url": "https://open.spotify.com/track/34cCAgZ1og8Oy6lhC1MzPD"
+    },
+    {
+      "album": {
+        "name": "Ma em qu\u1ebf (feat. KKAY)",
+        "url": "https://open.spotify.com/album/2ZRerN3IZEKrGVd16Oy3mE"
+      },
+      "artists": [
+        {
+          "name": "Zer Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz"
+        },
+        {
+          "name": "KKAY",
+          "url": "https://open.spotify.com/artist/0akp8UPikSQeMZC48KCtHA"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211700,
+      "name": "Ma em qu\u1ebf (feat. KKAY)",
+      "url": "https://open.spotify.com/track/6Pg3QLnE3obRBfiJ73fVc9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 226 songs - 12 hr 32 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 228 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,5 +234,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 224 | [Hollywood](https://open.spotify.com/track/40ZsN7vKatjbyoY8zx0DM8) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 4:01 |
 | 225 | [Church](https://open.spotify.com/track/3bHLtoy9F6W2EhVzRqRy9N) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:22 |
 | 226 | [Alkaline](https://open.spotify.com/track/2HICdPKr1U60RWy1Zm5J07) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 3:10 |
+| 227 | [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 |
+| 228 | [Paperview](https://open.spotify.com/track/6BwlKypzGNKfRPTNY9nVT1) | [Mosez Jones](https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp) | [Paperview](https://open.spotify.com/album/7paJXHRhDYBs46wEhGjNzV) | 2:32 |
 
-Snapshot ID: `AAAeqzud664ZGvKBQPm6srSrqsysYfOn`
+Snapshot ID: `AAAerTOBFwNoxPkhQoBU5sbhTBXWywxQ`

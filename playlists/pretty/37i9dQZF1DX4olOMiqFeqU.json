@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2460846,
+  "num_followers": 2461082,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Dalangin",
-        "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Dalangin",
-      "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
         "name": "Dilaw",
         "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 192380,
       "name": "Dilaw",
       "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
+        "name": "Dalangin",
+        "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Dalangin",
+      "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
     },
     {
       "added_at": "2025-06-25 07:33:29",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever",
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
     },
     {
       "added_at": "2025-06-25 07:33:29",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Aya",
-        "url": "https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 230058,
-      "name": "Aya",
-      "url": "https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
         "name": "Pa-umaga",
         "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+        "name": "Aya",
+        "url": "https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR"
       },
       "artists": [
         {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
         }
       ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+      "duration_ms": 230058,
+      "name": "Aya",
+      "url": "https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON"
     },
     {
       "added_at": "2025-06-25 07:33:29",
@@ -463,6 +447,22 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
         "name": "Gusto Ko Sakin Ka Lang",
         "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 193846,
       "name": "Gusto Ko Sakin Ka Lang",
       "url": "https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
-        "name": "Ang Mutya Ng Section E (A Viva One Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Tibok",
-      "url": "https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt"
     },
     {
       "added_at": "2025-06-25 07:33:29",
@@ -511,6 +495,22 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
+        "name": "Ang Mutya Ng Section E (A Viva One Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Tibok",
+      "url": "https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
         "name": "Nobela",
         "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-06-25 07:33:29",
       "album": {
-        "name": "Talaarawan",
-        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 230218,
-      "name": "Salamin, Salamin",
-      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
-    },
-    {
-      "added_at": "2025-06-25 07:33:29",
-      "album": {
         "name": "Mahika",
         "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 210586,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
+    },
+    {
+      "added_at": "2025-06-25 07:33:29",
+      "album": {
+        "name": "Talaarawan",
+        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 230218,
+      "name": "Salamin, Salamin",
+      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
     },
     {
       "added_at": "2025-06-25 07:33:29",

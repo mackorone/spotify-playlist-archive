@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 431646,
+  "num_followers": 431734,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Danger Zone",
-        "url": "https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb"
-      },
-      "artists": [
-        {
-          "name": "Tuff Crew",
-          "url": "https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "My Part of Town",
-      "url": "https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Schoolly D",
         "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 388906,
       "name": "P.S.K. 'What Does It Mean'?",
       "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Danger Zone",
+        "url": "https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb"
+      },
+      "artists": [
+        {
+          "name": "Tuff Crew",
+          "url": "https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "My Part of Town",
+      "url": "https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "The Best Of N.W.A: The Strength Of Street Knowledge",
+        "url": "https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "Boyz-N-The-Hood",
+      "url": "https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "The Message (Expanded Edition)",
         "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 216000,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "The Best Of N.W.A: The Strength Of Street Knowledge",
-        "url": "https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Boyz-N-The-Hood",
-      "url": "https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

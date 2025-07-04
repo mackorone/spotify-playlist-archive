@@ -2,9 +2,9 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Homegrown talent feat\. Absolutely
+> Homegrown talent feat\. Lily Knott
 
-559 songs - 1 day 4 hr 40 min
+561 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ain't Waiting For The World To Turn](https://open.spotify.com/track/193fZueEjp0NMkHSvMtZB4) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Ain't Waiting For The World To Turn](https://open.spotify.com/album/5kdDzOYJV6OTsCNSAQiO66) | 2:50 | 2024-06-04 | 2024-08-17 |
 | [All for Love](https://open.spotify.com/track/1dOXAjO03S83qsIpC7pr2A) | [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [All for Love](https://open.spotify.com/album/5VcOUaFOvirALpzrMwN2UM) | 3:28 | 2025-02-14 | 2025-03-14 |
 | [All I Ever Really Wanted](https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/3MJYuUKnMFvbgDk66jIn30) | 3:08 | 2025-04-10 | 2025-05-02 |
-| [All I Need](https://open.spotify.com/track/5vSpEQozVvQmBN14A6m8zY) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [All I Need](https://open.spotify.com/album/707DzUEuWroACBGQfOvBOo) | 3:12 | 2025-05-29 |  |
+| [All I Need](https://open.spotify.com/track/5vSpEQozVvQmBN14A6m8zY) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [All I Need](https://open.spotify.com/album/707DzUEuWroACBGQfOvBOo) | 3:12 | 2025-05-29 | 2025-07-04 |
 | [All of a Sudden](https://open.spotify.com/track/5hBiUf48QNbdNCsiQRxPlY) | [Samuel Evanson](https://open.spotify.com/artist/4hEhLE7JCrPZOiG3o4Kqi8) | [All of a Sudden](https://open.spotify.com/album/5b8VNZwBlaN65NpBQQttQa) | 3:34 | 2024-06-04 | 2024-09-06 |
 | [All or Nothing](https://open.spotify.com/track/6qYkAJpqbcaphl6ePyoRQG) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [All or Nothing](https://open.spotify.com/album/0F7jhKzRvTNRIyEYeFBMWE) | 2:42 | 2025-06-26 |  |
 | [All The Time](https://open.spotify.com/track/15kh7Rja9cOZZ2yI5bZlvX) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [All The Time](https://open.spotify.com/album/4vOAXgADY2UDmrX7o3Qa2E) | 2:58 | 2024-06-04 | 2024-09-13 |
@@ -319,7 +319,7 @@
 | [Late to the World](https://open.spotify.com/track/3duHt1lSXBP7OnyWnVbhJG) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/4i6RhvT0tM0B5hRTbBJTwJ) | 3:32 | 2024-09-19 | 2025-01-10 |
 | [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-06-04 | 2024-09-20 |
 | [Let Me In](https://open.spotify.com/track/1RDFwUcWo6xNqadZs7LkVh) | [Charlie Baker](https://open.spotify.com/artist/4mywMzYbTPsM5gk6p28XJm) | [Let Me In](https://open.spotify.com/album/3W6KU0JXAeC0CyX7tjssQg) | 2:35 | 2025-05-15 | 2025-05-30 |
-| [let me love you](https://open.spotify.com/track/2RYbGQvmeIs1ybAV7oLfKr) | [Lunar June](https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S) | [let me love you](https://open.spotify.com/album/1zWJ9zzQnB5LRgdXq4gc7d) | 2:26 | 2025-05-29 |  |
+| [let me love you](https://open.spotify.com/track/2RYbGQvmeIs1ybAV7oLfKr) | [Lunar June](https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S) | [let me love you](https://open.spotify.com/album/1zWJ9zzQnB5LRgdXq4gc7d) | 2:26 | 2025-05-29 | 2025-07-04 |
 | [Like I Should Do](https://open.spotify.com/track/3rdAvWOc1lzj7yutDmnc9U) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Like I Should Do](https://open.spotify.com/album/7jM0bNS7O9LoAaDIByxLV3) | 2:47 | 2025-05-01 | 2025-05-16 |
 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-05-08 | 2025-06-06 |
 | [Live My Life Happy](https://open.spotify.com/track/5tqgoZxuVWB5uttdIQhVcS) | [Reuben Medlin](https://open.spotify.com/artist/3tDEcbdyNcOlDez6jYe3h2) | [It's A Long Walk Home Pt\. 2](https://open.spotify.com/album/0K5EfDiwPCKDqf705VFNXr) | 2:35 | 2025-05-29 |  |
@@ -331,6 +331,7 @@
 | [Love Lost](https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0) | [Calum Bowie](https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG) | [Love Lost](https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN) | 2:59 | 2024-06-04 | 2024-08-31 |
 | [Love Me Or Not](https://open.spotify.com/track/7lOtbR5TeASy79006U1KHx) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Love Me Or Not](https://open.spotify.com/album/4kV1uTgY9Tcttj24t9CWwJ) | 3:27 | 2024-06-04 | 2024-08-17 |
 | [Loyalty](https://open.spotify.com/track/1Ltayziaf8EYz1bUUQWDD8) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Loyalty](https://open.spotify.com/album/7w3LUwzj8vPBRW2SkR9f15) | 2:40 | 2025-03-28 | 2025-04-18 |
+| [Lucky Doll](https://open.spotify.com/track/4bEt6Lv0d54q6Qy4v0cTQX) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Lucky Doll](https://open.spotify.com/album/3FSKct8kaW41vnYBfFbMaa) | 2:20 | 2025-07-03 |  |
 | [lullaby](https://open.spotify.com/track/6SiuoXT6PWWOJIB4HIM58d) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [lullaby](https://open.spotify.com/album/2ZiiQyPCdL2dsF3Tdn34I4) | 3:04 | 2025-04-24 | 2025-05-16 |
 | [Machines](https://open.spotify.com/track/2fnDzzhiAGUNZ26eGLSm7z) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Machines](https://open.spotify.com/album/0wan6H2mRB9SHDEO0joLxz) | 2:53 | 2025-02-21 | 2025-03-14 |
 | [MAGIC](https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [MAGIC](https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs) | 3:07 | 2024-09-12 | 2024-12-21 |
@@ -433,6 +434,7 @@
 | [Rich](https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Rich](https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG) | 2:31 | 2025-04-10 | 2025-05-02 |
 | [ride of my life](https://open.spotify.com/track/7FB9xmkuB5jJg8uvlmIM7w) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4), [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [ride of my life](https://open.spotify.com/album/7IHwxE14VG5pjVokFAZva9) | 3:15 | 2025-05-22 | 2025-06-27 |
 | [Right Back](https://open.spotify.com/track/0LMzUyxzVuW4UwfVQXdfBY) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [Right Back](https://open.spotify.com/album/2ef0S3x8CdZfxhDblO5lOl) | 2:54 | 2025-06-05 |  |
+| [right on the money](https://open.spotify.com/track/0GN9p3uPq4p3OTi7Tltsi6) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [right on the money](https://open.spotify.com/album/2kabo6OeJnvQzvfzJ0ubhG) | 2:38 | 2025-07-03 |  |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-16 | 2024-10-25 |
 | [Right Side](https://open.spotify.com/track/7LjXtIApPh4G81nAMMCB1b) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Right Side](https://open.spotify.com/album/4Qqc5yB1u7LQPDhpAZw0MT) | 2:56 | 2025-06-05 |  |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2025-02-28 |

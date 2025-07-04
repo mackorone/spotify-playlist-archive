@@ -1,8 +1,62 @@
 {
   "date_first_scraped": "2023-05-30",
-  "description": "Enjoy the NCT DREAM Berlin concert LIVE SET including the voices of members on stage! (NCT DREAM \uba64\ubc84\ub4e4\uc758 \ubb34\ub300\uc758 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \ubca0\ub97c\ub9b0 \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "name": "NCT DREAM TOUR \u2018THE DREAM SHOW2 : In A DREAM\u2019",
+  "description": "Get ready for the upcoming concert by listening to the artist's best songs! (\uc544\ud2f0\uc2a4\ud2b8\uc758 \ubca0\uc2a4\ud2b8\uace1\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \ucf58\uc11c\ud2b8\ub97c \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "name": "NCT DREAM TOUR [THE DREAM SHOW 4 : DREAM THE FUTURE]",
   "tracks": [
+    {
+      "album": {
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181186,
+      "name": "1, 2, 3",
+      "url": "https://open.spotify.com/track/4LxKdotqcHAb0S7skugKIz"
+    },
+    {
+      "album": {
+        "name": "We Boom - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239335,
+      "name": "119",
+      "url": "https://open.spotify.com/track/0AHpMhCdgaz00aMkoEZTXd"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/0nsL0AalAUFNCi7DYhnihQ"
+    },
     {
       "album": {
         "name": "NCT DREAM TOUR \u2018THE DREAM SHOW2 : In A DREAM\u2019",
@@ -16,7 +70,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 18967,
       "name": "About 'Diggity'",
       "url": "https://open.spotify.com/track/4JzDHOCcxIMDbSke1hc5w0"
@@ -34,7 +88,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 32832,
       "name": "About 'Dreaming'",
       "url": "https://open.spotify.com/track/4ffr77VSAexTpXFkbmiiRw"
@@ -52,7 +106,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 18485,
       "name": "About 'My Youth'",
       "url": "https://open.spotify.com/track/4omWA0zDmGSChyuguj9zkv"
@@ -70,7 +124,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 99493,
       "name": "About 'Puzzle Piece'",
       "url": "https://open.spotify.com/track/59sPW6spHHnZ69Sp7egaeV"
@@ -88,10 +142,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 225533,
       "name": "ANL",
       "url": "https://open.spotify.com/track/3zIvzPKUUdSpDCm1uua6Be"
+    },
+    {
+      "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Beatbox",
+      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
       "album": {
@@ -106,7 +178,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 205120,
       "name": "Beatbox - English Version",
       "url": "https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9"
@@ -124,7 +196,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 200746,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/0tIkUSA5njpsBaTAx3z25z"
@@ -149,6 +221,42 @@
     },
     {
       "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "BOX",
+      "url": "https://open.spotify.com/track/41jXJkAfryMVJ1kRILtGSG"
+    },
+    {
+      "album": {
+        "name": "ISTJ - The 3rd Album",
+        "url": "https://open.spotify.com/album/2uk29gcBkCLJZPTIQK9azh"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Broken Melodies",
+      "url": "https://open.spotify.com/track/1DYPrEzbmlOYbeTDkCDsaA"
+    },
+    {
+      "album": {
         "name": "We Boom - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
       },
@@ -160,7 +268,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 207155,
       "name": "Bye My First\u2026",
       "url": "https://open.spotify.com/track/0qhTNlYrAJBXpHHzay7qvM"
@@ -214,7 +322,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 214666,
       "name": "Countdown (3, 2, 1)",
       "url": "https://open.spotify.com/track/5ngy93w3QaZl3mN9YinIux"
@@ -232,7 +340,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 209373,
       "name": "Diggity",
       "url": "https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG"
@@ -250,7 +358,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 192826,
       "name": "Dive Into You",
       "url": "https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf"
@@ -268,7 +376,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 190480,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/00Qg5kk0QM1UtQMXPEPo7j"
@@ -304,7 +412,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 198786,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5kU7ejlQb3T56BIwYOiudl"
@@ -340,7 +448,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 207946,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/73TM9iCEp8VtKZNXZADbQb"
@@ -358,7 +466,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 710409,
       "name": "Ending Comments from Individual Members",
       "url": "https://open.spotify.com/track/28UwuJUZlvlkNlxj7bsgNc"
@@ -376,10 +484,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 52052,
       "name": "Ending Comments from NCT DREAM",
       "url": "https://open.spotify.com/track/4fIXGQvr0dqSFqNejKGtBn"
+    },
+    {
+      "album": {
+        "name": "DREAMSCAPE",
+        "url": "https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "Flying Kiss",
+      "url": "https://open.spotify.com/track/0roOXRDmPDV7tdWyTjPAJe"
     },
     {
       "album": {
@@ -401,6 +527,46 @@
     },
     {
       "album": {
+        "name": "NCT 2018 EMPATHY",
+        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
+      },
+      "artists": [
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
+        },
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/741wqAxJIPwjHWLjyG2so6"
+    },
+    {
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "Graduation",
+      "url": "https://open.spotify.com/track/35ytd9cmG15jXG0RKWC9p4"
+    },
+    {
+      "album": {
         "name": "NCT DREAM TOUR \u2018THE DREAM SHOW2 : In A DREAM\u2019",
         "url": "https://open.spotify.com/album/4h8UgrSzeee1AmvokOOxfy"
       },
@@ -412,7 +578,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 467467,
       "name": "Greetings from Individual Members",
       "url": "https://open.spotify.com/track/2ybodQpyGe30qUBBgBHa4E"
@@ -430,10 +596,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 81414,
       "name": "Greetings from NCT DREAM",
       "url": "https://open.spotify.com/track/3exqacShAPj7sUdxLiDBBc"
+    },
+    {
+      "album": {
+        "name": "DREAMSCAPE",
+        "url": "https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163573,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/5rwjMLBy2NA0PxmGTXsvQD"
     },
     {
       "album": {
@@ -484,10 +668,46 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 204026,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/3EFNqXf54nYARxXm5b7kGT"
+    },
+    {
+      "album": {
+        "name": "ISTJ - The 3rd Album",
+        "url": "https://open.spotify.com/album/2uk29gcBkCLJZPTIQK9azh"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "ISTJ",
+      "url": "https://open.spotify.com/track/6j268AN4RJXNyFNeFUfB50"
+    },
+    {
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Life Is Still Going On",
+      "url": "https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0"
     },
     {
       "album": {
@@ -502,7 +722,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 210866,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd"
@@ -520,7 +740,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 42073,
       "name": "MARK's Opening - Beatbox (English Ver.)",
       "url": "https://open.spotify.com/track/0tsgrrtft3DXnypvJXBL8T"
@@ -545,6 +765,42 @@
     },
     {
       "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Never Goodbye",
+      "url": "https://open.spotify.com/track/5EAfUqytXYbH0yUZR3QGli"
+    },
+    {
+      "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "On the way",
+      "url": "https://open.spotify.com/track/1iN31yt7y7vREKboJoPvvw"
+    },
+    {
+      "album": {
         "name": "NCT DREAM TOUR \u2018THE DREAM SHOW2 : In A DREAM\u2019",
         "url": "https://open.spotify.com/album/4h8UgrSzeee1AmvokOOxfy"
       },
@@ -556,10 +812,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 149996,
       "name": "Opening Countdown",
       "url": "https://open.spotify.com/track/1QHn90uuUdv8bcU8fPJzWa"
+    },
+    {
+      "album": {
+        "name": "ISTJ - The 3rd Album",
+        "url": "https://open.spotify.com/album/2uk29gcBkCLJZPTIQK9azh"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1GmZg0gdOochQfpwL2I3NS"
     },
     {
       "album": {
@@ -574,7 +848,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 227453,
       "name": "Puzzle Piece",
       "url": "https://open.spotify.com/track/4hMYovC1APX8ojuANCoeuF"
@@ -592,10 +866,46 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 188400,
       "name": "Quiet Down",
       "url": "https://open.spotify.com/track/3l8JuoE2LHb7hiFo7lKrkh"
+    },
+    {
+      "album": {
+        "name": "Rains in Heaven",
+        "url": "https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237499,
+      "name": "Rains in Heaven",
+      "url": "https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo"
+    },
+    {
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/07qSCcSVuVLHIf0gUSrUNW"
     },
     {
       "album": {
@@ -628,10 +938,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 180600,
       "name": "Saturday Drip",
       "url": "https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl"
     },
     {
       "album": {
@@ -646,7 +974,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 213946,
       "name": "Sorry, Heart",
       "url": "https://open.spotify.com/track/6GKShCAPVjtOWJTH5tcSoj"
@@ -664,10 +992,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 206536,
       "name": "STRONGER",
       "url": "https://open.spotify.com/track/6pHjX4thmIYqqmODsW1kIy"
+    },
+    {
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "Tangerine Love (Favorite)",
+      "url": "https://open.spotify.com/track/3yRdRil3CldYFNS3eYAf1X"
     },
     {
       "album": {
@@ -682,10 +1028,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 183293,
       "name": "To My First",
       "url": "https://open.spotify.com/track/7cjojsJwncbiCI0rqOOf9j"
+    },
+    {
+      "album": {
+        "name": "Trigger the fever (The Official Song of the FIFA U-20 World Cup Korea Republic 2017)",
+        "url": "https://open.spotify.com/album/29KXevMY8U3atSgi1qUH2f"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206791,
+      "name": "Trigger the fever (The Official Song of the FIFA U-20 World Cup Korea Republic 2017)",
+      "url": "https://open.spotify.com/track/6YEzJ1abhCakyaTq826f1j"
     },
     {
       "album": {
@@ -700,10 +1064,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 206791,
       "name": "Trigger the fever - Bonus Track",
       "url": "https://open.spotify.com/track/1b0EgjAcJAkOlMh1U5zXLU"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "UNKNOWN",
+      "url": "https://open.spotify.com/track/1lSIZsWVahNJIHqX4Hh9ab"
     },
     {
       "album": {
@@ -734,12 +1116,66 @@
           "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "We Young",
+      "url": "https://open.spotify.com/track/2nChvM2Tyv1ib8AvfCJcOe"
+    },
+    {
+      "album": {
+        "name": "DREAMSCAPE",
+        "url": "https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX"
+    },
+    {
+      "album": {
+        "name": "We Young - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175240,
       "name": "\uac19\uc740 \uc2dc\uac04 \uac19\uc740 \uc790\ub9ac Walk you home",
       "url": "https://open.spotify.com/track/48U7tDoHquyAGPW119Xpvi"
+    },
+    {
+      "album": {
+        "name": "The First - The 1st Single Album",
+        "url": "https://open.spotify.com/album/4wmCJoHoVwHdSBnLq5d4Sm"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232726,
+      "name": "\ub369\ud06c\uc29b Dunk Shot",
+      "url": "https://open.spotify.com/track/2sOz5KStj3M1L1ErNo6MCC"
     },
     {
       "album": {

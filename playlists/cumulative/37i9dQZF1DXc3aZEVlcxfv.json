@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/7tIynKtMjFoojTrgk1ilKO"
+      },
+      "artists": [
+        {
+          "name": "Tio Nason",
+          "url": "https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O"
+        },
+        {
+          "name": "Debbiie",
+          "url": "https://open.spotify.com/artist/6FyetlIUC4TsUoXLZYkct9"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/3LPNm4v3yBQouZbLI3oqC5"
+    },
+    {
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/6Mr0UAJoXUjvQruBEs4qLb"
       },
@@ -184,6 +206,28 @@
       "duration_ms": 150006,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6pUalEPGkHqKKegfmDWhio"
+    },
+    {
+      "album": {
+        "name": "Anointed",
+        "url": "https://open.spotify.com/album/6TLuuArTrMIL83ySvRbyeV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181871,
+      "name": "Anointed",
+      "url": "https://open.spotify.com/track/4CI322Awug5Uma3ynVJYLU"
     },
     {
       "album": {
@@ -1846,7 +1890,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 151794,
       "name": "Everywhere (Blessings)",
       "url": "https://open.spotify.com/track/6F2mmHXgMJW0LaTZqXy9PY"
@@ -4820,7 +4864,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 188492,
       "name": "Oluwa is Involved",
       "url": "https://open.spotify.com/track/3RnsjEScubf0TKdH2HP1oP"

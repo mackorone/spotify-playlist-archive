@@ -4,7 +4,7 @@
 
 > 大丈夫、努力はきっと報われる。
 
-73 songs - 4 hr 47 min
+74 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,8 +64,9 @@
 | [ファンファーレ](https://open.spotify.com/track/08sjU4Uck88xYCQA3ncPS5) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [ファンファーレ / 春夏秋冬](https://open.spotify.com/album/5YJeRjxQyw17GaE06OQzNG) | 3:07 | 2024-02-13 |  |
 | [ワタリドリ](https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [ALXD](https://open.spotify.com/album/320EqC5cbWaxVViu3cJUAn) | 4:08 | 2024-02-13 |  |
 | [ワタリドリ](https://open.spotify.com/track/5PFxNrRme9z6jiprt8AfqX) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Where's My History?](https://open.spotify.com/album/3HcoGE0lkcDVOR6BhyfFDE) | 4:13 | 2023-12-10 | 2024-04-19 |
+| [ワレバ](https://open.spotify.com/track/4ByBr9n6K2V59pwDvSDJdm) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [ワレバ](https://open.spotify.com/album/6iLOFyOKpQwyHScbAcCkUo) | 3:14 | 2025-07-03 |  |
 | [会心の一撃](https://open.spotify.com/track/4vwgmckZIomF2jVK066hUy) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [×と○と罪と](https://open.spotify.com/album/5ikhX6zaLZZS3gVLTlYxED) | 4:36 | 2024-02-13 |  |
-| [六文銭](https://open.spotify.com/track/5TkxhiSfPqay25JAQ1WdCf) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 6:44 | 2024-01-16 |  |
+| [六文銭](https://open.spotify.com/track/5TkxhiSfPqay25JAQ1WdCf) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 6:44 | 2024-01-16 | 2025-07-04 |
 | [大丈夫](https://open.spotify.com/track/5MYjno6goNbqgGHKEYhJ1Y) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [日常ドラマチック](https://open.spotify.com/album/12xSbnpgkagxvKJ0zvN0zP) | 4:46 | 2023-12-10 |  |
 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 | 2025-01-29 |  |
 | [宿命](https://open.spotify.com/track/2yozZfRYHP7Elsymghu5t3) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ) | 4:40 | 2024-02-13 |  |

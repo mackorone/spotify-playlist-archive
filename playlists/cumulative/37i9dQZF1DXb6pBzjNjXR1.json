@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Listen to the best in AfroTech as it travels the world's dancefloors. Cover: <a href=\"https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY?si=3aVBUGroTxmRhuddmQ_Fbg\">Caiiro</a>",
+  "description": "Listen to the best in AfroTech as it travels the world's dancefloors. Cover: <a href=\"https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9?si=RvirRjnkTbmHpN0xKXsVAA\">Vanco</a>",
   "name": "AfroTech Now",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 449195,
       "name": "2G2",
       "url": "https://open.spotify.com/track/4vqRQoSL3EPs5Ck4vcklvF"
@@ -116,7 +116,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 362729,
       "name": "Abangoma London Mix - Black Motion X Osaze",
       "url": "https://open.spotify.com/track/754Uw6qAYu7N5cgJAVAi1j"
@@ -134,7 +134,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 347996,
       "name": "Abant'abadala",
       "url": "https://open.spotify.com/track/75xdKyEwgAPIBN7PHOsDjk"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 392547,
       "name": "Afrika My Afrika",
       "url": "https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 320000,
       "name": "After All",
       "url": "https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 373518,
       "name": "Amen",
       "url": "https://open.spotify.com/track/4StUSthpVX304GEjdTnI0i"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 436715,
       "name": "Amore Profondo - Caiiro Remix",
       "url": "https://open.spotify.com/track/2AcXyRqOejVCaEVsC88iEw"
@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Back To Afro (Remix)",
+        "url": "https://open.spotify.com/album/6pL39DdMC9Djrc94lGt1we"
+      },
+      "artists": [
+        {
+          "name": "Celestial Soul",
+          "url": "https://open.spotify.com/artist/0O5nkdSobufCqldSR9IgT2"
+        },
+        {
+          "name": "Knight Warriors",
+          "url": "https://open.spotify.com/artist/3hI9AyE0kUkmr04FGVvk6n"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336689,
+      "name": "Back To Afro - Remix",
+      "url": "https://open.spotify.com/track/5y4Bydp9tcznKz1mUKNKEj"
+    },
+    {
+      "album": {
         "name": "Banike",
         "url": "https://open.spotify.com/album/6US9oSxNBX1O1sMyH7lnBn"
       },
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 454069,
       "name": "Black Whole",
       "url": "https://open.spotify.com/track/3lNwqA0a1JHgj5vV4YTAyh"
@@ -1114,7 +1136,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 224262,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/6IGshkJ1U1oWVG8sYUbsBT"
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 261281,
       "name": "Chaak",
       "url": "https://open.spotify.com/track/421Eli1NCAJLQu2HUd57Yl"
@@ -1319,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Agora",
+        "url": "https://open.spotify.com/album/3pLJB7CKqvjXfMRYHxyDTG"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480522,
+      "name": "Dark Spaces",
+      "url": "https://open.spotify.com/track/0W7cMO5COzrkfCaSF9Wj25"
+    },
+    {
+      "album": {
         "name": "The End Is Near EP",
         "url": "https://open.spotify.com/album/6h5FFPtEfRIrkzG3lujb6J"
       },
@@ -1334,6 +1374,24 @@
       "duration_ms": 267906,
       "name": "Dark Xmas",
       "url": "https://open.spotify.com/track/6exA8bAr3tzA3hNjFjeJMx"
+    },
+    {
+      "album": {
+        "name": "Dear Old Man EP",
+        "url": "https://open.spotify.com/album/7aoEYYRuZO4REkUQkNvQq0"
+      },
+      "artists": [
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453609,
+      "name": "Dear Old Man - Atmospheric Mix",
+      "url": "https://open.spotify.com/track/7yOe9ItGTTsdlWTK5N8kSp"
     },
     {
       "album": {
@@ -1484,7 +1542,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 452480,
       "name": "Everyday - Shimza Remix",
       "url": "https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd"
@@ -1762,7 +1820,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 423653,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4k1BkXgLSbrEQ7r5YKWSZc"
@@ -1872,7 +1930,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 362000,
       "name": "Hayii (Citizen Deep Remix) (feat. Yasmin Levy)",
       "url": "https://open.spotify.com/track/119QOzUDjgBCT6mZTBDuiR"
@@ -1938,6 +1996,58 @@
       "duration_ms": 348020,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1o0nfthgnLpDkpChnvta9s"
+    },
+    {
+      "album": {
+        "name": "Moya Wa Taola",
+        "url": "https://open.spotify.com/album/4OAWp8cNsUVwN6qQ7TJOl1"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481373,
+      "name": "I Rise",
+      "url": "https://open.spotify.com/track/1rIIitPkjpcCi9zgdkXWBW"
+    },
+    {
+      "album": {
+        "name": "Panthera Onca (The Jaguar)",
+        "url": "https://open.spotify.com/album/1V9Meucgq6GJnJYQjgAr2D"
+      },
+      "artists": [
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "T_Phoenix",
+          "url": "https://open.spotify.com/artist/2ZNiZiG8FpSERYTQA6VXfc"
+        },
+        {
+          "name": "Yulele",
+          "url": "https://open.spotify.com/artist/5aBACS3YaMAewn6YR521bm"
+        },
+        {
+          "name": "Garland",
+          "url": "https://open.spotify.com/artist/1sb8ZoV6dUbovEGVqHiEQE"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399426,
+      "name": "I See A Wolf - Extended Version",
+      "url": "https://open.spotify.com/track/08CBfzCNYpE9LPfdOo2Iya"
     },
     {
       "album": {
@@ -2022,7 +2132,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 244062,
       "name": "iLanga - Samm Remix",
       "url": "https://open.spotify.com/track/01uHli2I60dhf2p3cKy3v2"
@@ -2136,7 +2246,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
@@ -2265,6 +2375,50 @@
     },
     {
       "album": {
+        "name": "Insimbi",
+        "url": "https://open.spotify.com/album/3zFtvNJ9HJ6QQ8ZwXlAV0o"
+      },
+      "artists": [
+        {
+          "name": "Deep Narratives",
+          "url": "https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "Culoe De Song",
+          "url": "https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344458,
+      "name": "Insimbi",
+      "url": "https://open.spotify.com/track/4hgAosW5zsnd2hdJUdxwxF"
+    },
+    {
+      "album": {
+        "name": "Internationale",
+        "url": "https://open.spotify.com/album/1sAl4EBBKIuKBSX3OyJRXu"
+      },
+      "artists": [
+        {
+          "name": "Kumkani",
+          "url": "https://open.spotify.com/artist/0j1iUNRQ5xSaHj7UTZCk0R"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341293,
+      "name": "Internationale",
+      "url": "https://open.spotify.com/track/10GoTIRlqmsnvbQChZIoU8"
+    },
+    {
+      "album": {
         "name": "IQHAWE",
         "url": "https://open.spotify.com/album/4FxgWaDxIrMGItb5cc5ur4"
       },
@@ -2332,7 +2486,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 194046,
       "name": "Isoma - Radio Edit",
       "url": "https://open.spotify.com/track/6ouazfaCyKZgCzayGwqzNQ"
@@ -2526,7 +2680,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 412293,
       "name": "Kaos",
       "url": "https://open.spotify.com/track/0WWchzLoCKh53q5I05vZfb"
@@ -2625,6 +2779,28 @@
     },
     {
       "album": {
+        "name": "Kiveti",
+        "url": "https://open.spotify.com/album/4ytG2Cb1i676VAksBCnHMn"
+      },
+      "artists": [
+        {
+          "name": "Native P.",
+          "url": "https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419584,
+      "name": "Kiveti",
+      "url": "https://open.spotify.com/track/2LpqLnRMGXEQGOIiMvJjZR"
+    },
+    {
+      "album": {
         "name": "Chuki",
         "url": "https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8"
       },
@@ -2644,7 +2820,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 404125,
       "name": "Kolwa",
       "url": "https://open.spotify.com/track/4U6zIONOpmnby5fvOM6han"
@@ -2706,7 +2882,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 390508,
       "name": "Kwa Mama",
       "url": "https://open.spotify.com/track/0WGUkcTM1u5ssKcdqFtCJn"
@@ -2964,7 +3140,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 358713,
       "name": "LiYoshona - Shimza Remix",
       "url": "https://open.spotify.com/track/2bKZu1kbb2XSSvRYPbscuL"
@@ -3195,6 +3371,28 @@
     },
     {
       "album": {
+        "name": "Mano Mano Remixes",
+        "url": "https://open.spotify.com/album/4uRH4puN14iHsljKZUDqi2"
+      },
+      "artists": [
+        {
+          "name": "Thee Suka",
+          "url": "https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN"
+        },
+        {
+          "name": "Drumetic Boyz",
+          "url": "https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487184,
+      "name": "Mano Mano - Drumetic Boyz Remix",
+      "url": "https://open.spotify.com/track/7ia2kiTpcOEe8hfOwfa1Kl"
+    },
+    {
+      "album": {
         "name": "Mars",
         "url": "https://open.spotify.com/album/17BLp2N8FJuUN3ajO8wryW"
       },
@@ -3210,7 +3408,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 216286,
       "name": "Mars",
       "url": "https://open.spotify.com/track/62oUVHvvJdj8KNZua24z13"
@@ -3462,7 +3660,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 323902,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/6RW7f4tB1ZAfo5qQnK5Ehr"
@@ -3729,6 +3927,28 @@
     },
     {
       "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/4CZsrbxJv3AceqYbmdlFtQ"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566534,
+      "name": "Njoke Njuge (feat. Tina Ardor)",
+      "url": "https://open.spotify.com/track/1KEHSrhIMXcOOcrbrRfiw2"
+    },
+    {
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge"
       },
@@ -3814,7 +4034,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 426885,
       "name": "NOBODY - Extended Mix",
       "url": "https://open.spotify.com/track/3ThuOVMq7pkx57mhqrRELb"
@@ -4640,7 +4860,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 427113,
       "name": "Shadows - Samm (BE) Remix",
       "url": "https://open.spotify.com/track/65BrSCF5Nkaci7hoslEQhX"
@@ -5119,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386982,
+      "name": "The Akan",
+      "url": "https://open.spotify.com/track/7p3rIGqgtBurrwCyHhMC3x"
+    },
+    {
+      "album": {
         "name": "The Animal",
         "url": "https://open.spotify.com/album/4eGEwOo20bfLNHVsNQmAbZ"
       },
@@ -5182,7 +5420,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 260250,
       "name": "The Black Dream",
       "url": "https://open.spotify.com/track/5EOSz05uxwecWAT6ajXt69"
@@ -5234,7 +5472,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 348277,
       "name": "The Clique",
       "url": "https://open.spotify.com/track/5MjjxgfTOjdnQGbkvzCbrp"
@@ -5870,7 +6108,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 444263,
       "name": "Umbovukazi",
       "url": "https://open.spotify.com/track/4ok4NiGs5EmP9T04AEDBA9"
@@ -5914,10 +6152,32 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 392005,
       "name": "Umkhumbi Ka Noah",
       "url": "https://open.spotify.com/track/2Y2N1TJjw8I31sd4EPSKhb"
+    },
+    {
+      "album": {
+        "name": "We Live 4 Our Music",
+        "url": "https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436005,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F"
     },
     {
       "album": {
@@ -6433,6 +6693,28 @@
     },
     {
       "album": {
+        "name": "Weekend Special (Remix)",
+        "url": "https://open.spotify.com/album/2L56zpLA8sv3UCDDnKR3U5"
+      },
+      "artists": [
+        {
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438088,
+      "name": "Weekend Special (with Brenda Fassie) - Shimza Remix",
+      "url": "https://open.spotify.com/track/2B9yUJoXsGuKE7em8gpem1"
+    },
+    {
+      "album": {
         "name": "Weh Baba",
         "url": "https://open.spotify.com/album/6AZ2kzZBVysJtcXIbmzjOg"
       },
@@ -6517,6 +6799,28 @@
     },
     {
       "album": {
+        "name": "Panthera Onca (The Jaguar)",
+        "url": "https://open.spotify.com/album/1V9Meucgq6GJnJYQjgAr2D"
+      },
+      "artists": [
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "The Siege DJ",
+          "url": "https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456088,
+      "name": "With You - Extended Version",
+      "url": "https://open.spotify.com/track/549Rbj1H0DJKlp7zUnMvvl"
+    },
+    {
+      "album": {
         "name": "XX XX (Enoo Napa Remix)",
         "url": "https://open.spotify.com/album/7nQpcH4F26cgvGeYfkKO9D"
       },
@@ -6584,7 +6888,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 439633,
       "name": "Yaze Yamnandi",
       "url": "https://open.spotify.com/track/1KvukmWKoW88NnECROFg2y"
@@ -6702,7 +7006,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 450460,
       "name": "Your Voice - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/2kCZ8eOCU6nMnXp3FzyhUE"

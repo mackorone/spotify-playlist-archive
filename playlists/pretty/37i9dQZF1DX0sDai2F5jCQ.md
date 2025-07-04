@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: AJ Tracey
+> Your shortcut to the best new Hip Hop\. Cover: Nemzzz, Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,521 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,519 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 84 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 |
 | 85 | [THE ONE](https://open.spotify.com/track/5eHim7vHMIJgOvrvN8f3n6) | [MOKOMOKAI](https://open.spotify.com/artist/6IyLCow3HLUYJJJ12P9WQd) | [PONO!](https://open.spotify.com/album/1eSbfptpdD6A7MOjAH0obv) | 5:04 |
 
-Snapshot ID: `aF1SiAAAAAD5w+SkZtduj7+8OpsZ3VE4`
+Snapshot ID: `aGaM6AAAAAArrLG2dgOwlZbHxXhZpZa5`

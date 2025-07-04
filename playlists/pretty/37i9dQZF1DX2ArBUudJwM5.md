@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. K4OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,568 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,567 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 37 | [HOT 90 SHOT](https://open.spotify.com/track/73HtfFaOC0KG7mtoI5yUVp) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [HOT 90 SHOT](https://open.spotify.com/album/277qvtnrAWtBXAtCpNRIx9) | 3:17 |
 | 38 | [Noche de Mujer](https://open.spotify.com/track/0ARt7JGSJDjFZKlDdNT11A) | [La Indigo](https://open.spotify.com/artist/5j2i6bAv3xftDLTUl508pw), [Cornuda Posting](https://open.spotify.com/artist/6S55BI9rMcZJFtBnCvyg5D) | [Finde](https://open.spotify.com/album/2ACZVaBcMqezBly23oltRA) | 3:12 |
 | 39 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 |
-| 40 | [PERRA AVENTURERA](https://open.spotify.com/track/5OcP5Bu1v2UD5gnYvejRmi) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 3:15 |
-| 41 | [Bonita](https://open.spotify.com/track/0Z30id45qXbQPlBFMAMsmK) | [Milky Dolly](https://open.spotify.com/artist/55FMUrZOO1qeugFN7tYVZq), [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [BIMBO DREAMS](https://open.spotify.com/album/5DT3ZKAsp9HxeNgVGUGmWA) | 1:54 |
+| 40 | [Bonita](https://open.spotify.com/track/0Z30id45qXbQPlBFMAMsmK) | [Milky Dolly](https://open.spotify.com/artist/55FMUrZOO1qeugFN7tYVZq), [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [BIMBO DREAMS](https://open.spotify.com/album/5DT3ZKAsp9HxeNgVGUGmWA) | 1:54 |
+| 41 | [PERRA AVENTURERA](https://open.spotify.com/track/5OcP5Bu1v2UD5gnYvejRmi) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 3:15 |
 | 42 | [MIAU](https://open.spotify.com/track/3GqpNTyCPu51DQ9PhIxzfj) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [PUSSY IN BOOTS](https://open.spotify.com/album/4KEENGkcm3QiCAdSZLoGkf) | 0:36 |
 | 43 | [Papi](https://open.spotify.com/track/7xq8QM5WqLHEaVA3JKSYhm) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Chita](https://open.spotify.com/artist/0ZDZn77Dhb58H7QAuc0NUL) | [Papi](https://open.spotify.com/album/4yTkZSHc8RTwoREgGKzB5L) | 2:13 |
 | 44 | [Kerosene](https://open.spotify.com/track/11f8EaN6u26oZ1yCS2tFUw) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [La Capitana](https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd) | 3:05 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 48 | [no es amor](https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [no es amor](https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm) | 3:14 |
 | 49 | [Drama](https://open.spotify.com/track/4cvviKvcAJ0xHCcaBeo971) | [Cornuda Posting](https://open.spotify.com/artist/6S55BI9rMcZJFtBnCvyg5D) | [Drama](https://open.spotify.com/album/5blrHcFmGcYSgb3oLz4bdk) | 2:13 |
 | 50 | [CORAZÓN CALIENTE, Pt.2](https://open.spotify.com/track/5v8gSBZHcuowBqrq9TrWQs) | [TERRA](https://open.spotify.com/artist/2ZO4ka6Jjy4hukXzifTEmA), [Cimarrón](https://open.spotify.com/artist/55RsSMUUEc7iMzXQcRSHnI) | [HEROÍNA LATINA II](https://open.spotify.com/album/2rPQI7VE4MlV1ieLig5JUu) | 2:26 |
-| 51 | [Hijo de Puta](https://open.spotify.com/track/57scDcITcx6puXDWHzZpPY) | [Mala Juarez](https://open.spotify.com/artist/7hOkDEegx8SLLfYzRHfPqb), [MYMBA malabú](https://open.spotify.com/artist/57AL7Z2zCAfyq7KQNfneGS) | [Hijo de Puta](https://open.spotify.com/album/0OZDFzXBcH8stCmtz7I7cC) | 3:03 |
-| 52 | [namorada brasileira](https://open.spotify.com/track/2LbocN89t2oWloRNFeipMJ) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [namorada brasileira](https://open.spotify.com/album/29I1x4sSkFhv9pDIB5SjT7) | 2:00 |
-| 53 | [El Beso](https://open.spotify.com/track/4VnTn9sIxQ705y1akD7ndm) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:13 |
+| 51 | [El Beso](https://open.spotify.com/track/4VnTn9sIxQ705y1akD7ndm) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:13 |
+| 52 | [Hijo de Puta](https://open.spotify.com/track/57scDcITcx6puXDWHzZpPY) | [Mala Juarez](https://open.spotify.com/artist/7hOkDEegx8SLLfYzRHfPqb), [MYMBA malabú](https://open.spotify.com/artist/57AL7Z2zCAfyq7KQNfneGS) | [Hijo de Puta](https://open.spotify.com/album/0OZDFzXBcH8stCmtz7I7cC) | 3:03 |
+| 53 | [namorada brasileira](https://open.spotify.com/track/2LbocN89t2oWloRNFeipMJ) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [namorada brasileira](https://open.spotify.com/album/29I1x4sSkFhv9pDIB5SjT7) | 2:00 |
 | 54 | [No Vaya a la Fiesta](https://open.spotify.com/track/7dmHWIrEt8fshzuCVcTEi7) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [No Vaya a la Fiesta](https://open.spotify.com/album/35Dw7nFmy4Ss47WznyOHWL) | 2:49 |
 | 55 | [CREMA \- Ice Burz Remix](https://open.spotify.com/track/6Ln6sq8t3yoetTNeVNZBsS) | [baby cashy](https://open.spotify.com/artist/0brMkFToopZg9JuMOhGeYR), [Ice Burz](https://open.spotify.com/artist/6SsObOdnJiemnnXen3whsm) | [CREMA \(Ice Burz Remix\)](https://open.spotify.com/album/07h1cXSpgELXBD8aYrjl9F) | 1:48 |
 | 56 | [Puta](https://open.spotify.com/track/1Ckm84P3YA0OHp4fgOrGDQ) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Puta](https://open.spotify.com/album/3OgATgCeOhZICDDVyX1cLK) | 2:03 |

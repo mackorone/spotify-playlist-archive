@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,961 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,658 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Break up with her](https://open.spotify.com/track/2czWWz1QazLnOGXJxZlm2M) | [Baegna](https://open.spotify.com/artist/79ZPPimLatFOtWovOecxDp) | [Break up with her](https://open.spotify.com/album/6gzAeGxG82WU3RrZH2jwZ9) | 3:34 |
 | 50 | [Another I](https://open.spotify.com/track/5E8pGNsZ9k6JzwE4DebK9Z) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Another I](https://open.spotify.com/album/4qbGRvIcj6CcVzBHyqayR8) | 3:48 |
 
-Snapshot ID: `aGKmggAAAADdt4NtLQncgcgsjvIYIBPT`
+Snapshot ID: `aGY/cAAAAAALPZ92NKOdbQV2gJuwAixS`

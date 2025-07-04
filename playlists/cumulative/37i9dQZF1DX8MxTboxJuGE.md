@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-131 songs - 9 hr 51 min
+132 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,8 +100,9 @@
 | [Skydiver of the Light](https://open.spotify.com/track/0cVaRVmnr2flEtuRK0wxba) | [Armored Dawn](https://open.spotify.com/artist/1oueQWyrcULGbpk0DyiqGf) | [Viking Zombie \(Deluxe Edition\)](https://open.spotify.com/album/4egyrkRkejuCzKoyOEpqYi) | 3:35 | 2023-07-14 |  |
 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2023-07-14 |  |
 | [Symptoms](https://open.spotify.com/track/6VMWyTf2jw2DmaquunqTuW) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:28 | 2023-07-14 | 2023-10-14 |
+| [Sábado](https://open.spotify.com/track/4uIGfX1aejjpvwvy5RH2ri) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Tem Para Todo Mundo](https://open.spotify.com/album/6EJ5cnVIfkWjtu90F77hxr) | 3:03 | 2025-07-04 |  |
 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 | 2023-07-14 |  |
-| [Ted Jack](https://open.spotify.com/track/4CyvFtF2H7O7AXJm3boacu) | [King in the Belly](https://open.spotify.com/artist/1W9gBSPeYWtOy4Kbgud1R1) | [Ted Jack](https://open.spotify.com/album/0pZVvJd1Du4VocLZ1qbttu) | 3:31 | 2023-07-14 |  |
+| [Ted Jack](https://open.spotify.com/track/4CyvFtF2H7O7AXJm3boacu) | [King in the Belly](https://open.spotify.com/artist/1W9gBSPeYWtOy4Kbgud1R1) | [Ted Jack](https://open.spotify.com/album/0pZVvJd1Du4VocLZ1qbttu) | 3:31 | 2023-07-14 | 2025-07-04 |
 | [Tenochtitlán](https://open.spotify.com/track/44tzuEVC6p9ldFBNC497vX) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Tenochtitlán](https://open.spotify.com/album/2uTIg4jj9u7EQslGtvHhqw) | 7:12 | 2023-08-18 |  |
 | [The Beast and the Hunter](https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss) | [RF Force](https://open.spotify.com/artist/1WyKcR1yYW6iV27yZLDLvi) | [The Beast and the Hunter](https://open.spotify.com/album/4pwvhjNmHkSOHVql8PqXEC) | 4:36 | 2023-07-14 | 2024-04-06 |
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2023-07-14 | 2023-11-04 |

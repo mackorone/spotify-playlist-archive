@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 37879,
+  "num_followers": 37970,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "espial",
-        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
-      },
-      "artists": [
-        {
-          "name": "Oliver Buckland",
-          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "espial",
-      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 96414,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "espial",
+        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
+      },
+      "artists": [
+        {
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "espial",
+      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "PPPP PaPiPuPePo",
-        "url": "https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6"
+        "name": "Divinity",
+        "url": "https://open.spotify.com/album/4K86mL8fddCmKNsMTX3Guo"
       },
       "artists": [
         {
-          "name": "emamouse",
-          "url": "https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7"
+          "name": "Maple",
+          "url": "https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc"
         }
       ],
-      "duration_ms": 208003,
-      "name": "PPPP PaPiPuPePo",
-      "url": "https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD"
+      "duration_ms": 132802,
+      "name": "Lovemall",
+      "url": "https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u"
     }
   ],
   "unique_name": "webcore",

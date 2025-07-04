@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Bahadır Tatlıöz
+> viral, trend ve yükselenler\.  Kapak: Sezen Aksu
 
 186 songs - 9 hr 40 min
 

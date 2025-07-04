@@ -5225,6 +5225,28 @@
     },
     {
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/7GcYlKoGthIVBMbeqrgSFP"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185457,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue"
+    },
+    {
+      "album": {
         "name": "El Refugio",
         "url": "https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf"
       },

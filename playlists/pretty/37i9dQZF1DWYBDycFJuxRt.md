@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: アイナ・ジ・エンド\*👉 <a href="https://spice.eplus.jp/articles/338996">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,723 likes - 91 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,819 likes - 91 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 63 | [summertime in the city](https://open.spotify.com/track/7bRJYrTM0StwyM1Vu7aEsY) | [Neetz](https://open.spotify.com/artist/1MI8TsiYmYTE0Fu9CUqTr4) | [SUMMER PACK](https://open.spotify.com/album/31nFym9VTX7sxpFdXxlvdt) | 2:36 |
 | 64 | [Pleasure Center](https://open.spotify.com/track/6S8UgWsDNoRd6oGcBkjbbx) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Pleasure Center](https://open.spotify.com/album/6hQ8BheTrKqvsudOAxpex5) | 3:43 |
 | 65 | [natsu no yoru \- feat\. 北村蕗](https://open.spotify.com/track/4mRtfifDhFqn2yKso5GN8E) | [CRYPT CHROME](https://open.spotify.com/artist/0RfziohBUEwuFIheLvMreO), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [natsu no yoru \(feat\. 北村蕗\)](https://open.spotify.com/album/4lvQUwuVBadouqK0tdE0nk) | 4:15 |
-| 66 | [Broken \- Frost Remix](https://open.spotify.com/track/3XhuDnUQcHC12QnnW4t5uu) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [Frost](https://open.spotify.com/artist/5n0qBl45NxfkQaOqjMw8KM) | [Twofold \(Deluxe\)](https://open.spotify.com/album/0TxAQnOiQR0HbtmSZo9nPB) | 3:48 |
+| 66 | [Broken \- Frost Remix](https://open.spotify.com/track/3XhuDnUQcHC12QnnW4t5uu) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [Twofold \(Deluxe\)](https://open.spotify.com/album/0TxAQnOiQR0HbtmSZo9nPB) | 3:48 |
 | 67 | [Green eyes](https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Green eyes](https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez) | 4:50 |
 | 68 | [Be my...](https://open.spotify.com/track/1nXmMRuonKnbcqYoLJOhld) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [Be my...](https://open.spotify.com/album/2uFcha0FCvUY01FiM67f6w) | 3:27 |
 | 69 | [ROUTE 246](https://open.spotify.com/track/23fzThWsvtJnUbUJWPccxQ) | [竹内唯人](https://open.spotify.com/artist/2OpX0FyI9sULjE7pmpT0eh) | [Fade for Romance](https://open.spotify.com/album/5yEgAVyHJTQVVj3PHdXor1) | 3:05 |

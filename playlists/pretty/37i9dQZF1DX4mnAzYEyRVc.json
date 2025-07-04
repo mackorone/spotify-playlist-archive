@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Madness\n",
-  "num_followers": 61297,
+  "num_followers": 61334,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/5oD73yHwxR4UJhXsBFXLuk"
-      },
-      "artists": [
-        {
-          "name": "Kurado De Coco",
-          "url": "https://open.spotify.com/artist/30tSyIeYeCqag7CdAHeryz"
-        },
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/1y1a1nJZ3ycvXwNR3ycFe1"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
         "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 161818,
       "name": "Pancho",
       "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/5oD73yHwxR4UJhXsBFXLuk"
+      },
+      "artists": [
+        {
+          "name": "Kurado De Coco",
+          "url": "https://open.spotify.com/artist/30tSyIeYeCqag7CdAHeryz"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/1y1a1nJZ3ycvXwNR3ycFe1"
     },
     {
       "added_at": "2025-06-20 06:00:32",

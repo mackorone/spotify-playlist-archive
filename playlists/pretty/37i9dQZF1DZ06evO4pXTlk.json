@@ -1,29 +1,13 @@
 {
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
-  "num_followers": 656,
+  "num_followers": 657,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGMlAAAAAABNUS5Q1pYkLI46Xbe1M2rU",
+  "snapshot_id": "aGR2gAAAAABujpCtB+kYvOJVV7+zSNcV",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold on to Your Heart",
-        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 100467,
       "name": "GIMME",
       "url": "https://open.spotify.com/track/1kF9MH9sg8Ls0kXzA8pwrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold on to Your Heart",
+        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold on to Your Heart",
-        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 199528,
-      "name": "Hold on to Your Heart",
-      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 174620,
       "name": "Blame",
       "url": "https://open.spotify.com/track/4wRqt53Z6CQamU6cXrnVvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold on to Your Heart",
+        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 199528,
+      "name": "Hold on to Your Heart",
+      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold on to Your Heart",
-        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "We Are Gonna Live",
-      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 192982,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/023xxv7rjUWJexmw1RCQb4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold on to Your Heart",
+        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "We Are Gonna Live",
+      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold on to Your Heart",
-        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 161733,
       "name": "Car Crash Culture",
       "url": "https://open.spotify.com/track/4k7X0geoLL1LQ1TnmZNt0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold on to Your Heart",
+        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 219280,
       "name": "First Kiss Feeling",
       "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 122528,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 122528,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 229640,
       "name": "Drive Me Wild",
       "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Drag Me Out",
-      "url": "https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Young (Belane)",
-      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wildheart Dreaming",
         "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 192638,
       "name": "Fight or Run",
       "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Young (Belane)",
+      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shaking In The Water",
         "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 230451,
       "name": "North East Kid",
       "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,424 songs - 7 day 0 hr 22 min
+4,425 songs - 7 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1477,6 +1477,7 @@
 | [Gonfa](https://open.spotify.com/track/2MiOFnEyKmEcQsJ3RTl9aL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gonfa // Land of Birds](https://open.spotify.com/album/09Jqw7b6tIszpoBreOsoEK) | 1:43 | 2022-09-08 | 2022-09-23 |
 | [Good Days](https://open.spotify.com/track/0D2uyP2g9J35PIPgruBw4f) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [Good Days](https://open.spotify.com/album/0uhsl9xStElxg7iywFRmA9) | 2:04 | 2024-04-04 | 2024-10-25 |
 | [Good Days](https://open.spotify.com/track/3wqzpq6GjCZba3B07Lx6zs) | [Lazy Toro](https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw) | [Good Days](https://open.spotify.com/album/3LOv68VbnZ2JotvYfBId59) | 1:51 | 2023-10-19 | 2023-11-17 |
+| [Good Feeling](https://open.spotify.com/track/41Zbx9gIwTvzLKI4W4aIRi) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Good Feeling](https://open.spotify.com/album/7b1B1AVELoNYj1cbOiyERY) | 2:00 | 2025-06-27 |  |
 | [Good Life](https://open.spotify.com/track/5BPKNG6yHbj0Q2W6ksMbbH) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Good Life](https://open.spotify.com/album/14nfJf9nfZN9RcigywyrMI) | 2:20 | 2021-11-19 | 2021-12-11 |
 | [Good Morning](https://open.spotify.com/track/0RVzAEJdh4VsuRIkLqmo7t) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Good Morning](https://open.spotify.com/album/4SCB9uNYIdzpQeicMrtFFy) | 1:05 | 2020-01-17 | 2020-04-24 |
 | [Good Morning](https://open.spotify.com/track/2Vn2PKznrf5e1FtVcoIwQe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Good Morning](https://open.spotify.com/album/1u1P4U3OIqGZGjS974agRk) | 1:36 | 2022-03-10 | 2023-04-21 |
@@ -2698,7 +2699,7 @@
 | [Nowhere](https://open.spotify.com/track/4HlCBuCaDxtetNpuz2GcWE) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Nowhere](https://open.spotify.com/album/1A1D12IvHSnqe2SbUNXvv0) | 2:18 | 2023-06-01 | 2023-07-28 |
 | [Nuance](https://open.spotify.com/track/3Xh3P6jw6DbFFpXCAv8LrB) | [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Nuance](https://open.spotify.com/album/6wP2F2ZM3Gl4l2JEvCVorv) | 2:17 | 2023-10-19 | 2023-11-14 |
 | [Nube de Mota](https://open.spotify.com/track/6cp741Ie7FYYNpIhas74tX) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Nube de Mota](https://open.spotify.com/album/1fSCywR7Ikq2jauZbYc5EJ) | 1:30 | 2019-07-26 | 2020-01-16 |
-| [Nuevo](https://open.spotify.com/track/617zXIHQjwQI0FS1oSczGV) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Nuevo](https://open.spotify.com/album/2VGEd4mhPNuyWLMYsjy3iD) | 1:34 | 2025-05-23 |  |
+| [Nuevo](https://open.spotify.com/track/617zXIHQjwQI0FS1oSczGV) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Nuevo](https://open.spotify.com/album/2VGEd4mhPNuyWLMYsjy3iD) | 1:34 | 2025-05-23 | 2025-07-04 |
 | [Nuit Blanche](https://open.spotify.com/track/4AyJTEJ0WNOyJmNukWkc7O) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Nuit Blanche](https://open.spotify.com/album/35Mc1GZztwEZ30Ua9nFzSQ) | 2:31 | 2021-06-08 | 2021-08-20 |
 | [Numero A](https://open.spotify.com/track/0HVuAk6OBhIdr6KIFwd7sv) | [Dramadigs](https://open.spotify.com/artist/4mNAd2ykfdFXoa1ezd10ta) | [Numero A](https://open.spotify.com/album/2epCSp7uwp2qtvKLUlFJNE) | 3:12 | 2020-01-26 | 2020-04-18 |
 | [Nuz An Tara](https://open.spotify.com/track/7rwsFWNQmvPk7GovBbSE9U) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/3AjEgD7OL43XaoqnGFrP9z) | 2:12 | 2020-05-22 | 2020-07-31 |

@@ -2,7 +2,7 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Ceren Sagu
+> Geleceğin seslerini dinle! Kapak: Lotusx
 
 95 songs - 4 hr 33 min
 

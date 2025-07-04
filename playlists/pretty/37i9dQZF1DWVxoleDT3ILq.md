@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Diego Lorenzini y Simón Campusano
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,125 likes - 104 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,108 likes - 104 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

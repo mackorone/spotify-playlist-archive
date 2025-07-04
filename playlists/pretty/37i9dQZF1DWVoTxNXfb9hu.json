@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 144866,
+  "num_followers": 144896,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2025-03-14 09:28:18",
       "album": {
+        "name": "Badhaai Ho",
+        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "duration_ms": 198025,
+      "name": "Morni Banke",
+      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
+    },
+    {
+      "added_at": "2025-03-14 09:28:18",
+      "album": {
         "name": "Khadke Glassy (From \"Jabariya Jodi\")",
         "url": "https://open.spotify.com/album/7vW69P07tJxYsk3KWqYez2"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 200710,
       "name": "Khadke Glassy - From \"Jabariya Jodi\"",
       "url": "https://open.spotify.com/track/7ttE95JHwVFsYsGOTK6PEw"
-    },
-    {
-      "added_at": "2025-03-14 09:28:18",
-      "album": {
-        "name": "Badhaai Ho",
-        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 198025,
-      "name": "Morni Banke",
-      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
     },
     {
       "added_at": "2025-03-14 09:28:18",
@@ -2039,26 +2039,30 @@
     {
       "added_at": "2025-03-14 09:28:18",
       "album": {
-        "name": "Chhora Pardesi",
-        "url": "https://open.spotify.com/album/47WsHtGnKir40L3Di8oylC"
+        "name": "Zilla Hilela (From \"Jabariya Jodi\")",
+        "url": "https://open.spotify.com/album/0LNGEywJsPqr7fWxHMSzp1"
       },
       "artists": [
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
         },
         {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
         },
         {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Pravesh Mallick",
+          "url": "https://open.spotify.com/artist/7KkXMWm8xdafnzymUO9Dte"
+        },
+        {
+          "name": "Raja Hasan",
+          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
         }
       ],
-      "duration_ms": 208281,
-      "name": "Chhora Pardesi",
-      "url": "https://open.spotify.com/track/3HEofNqegMCevv6TqRyeQK"
+      "duration_ms": 238732,
+      "name": "Zilla Hilela - From \"Jabariya Jodi\"",
+      "url": "https://open.spotify.com/track/3LpEs8eCrbIJAzUO2UeGfx"
     }
   ],
   "unique_name": "Holi Party",

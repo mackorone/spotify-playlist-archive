@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAeqzud664ZGvKBQPm6srSrqsysYfOn",
+  "snapshot_id": "AAAerTOBFwNoxPkhQoBU5sbhTBXWywxQ",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -3991,6 +3991,46 @@
       "duration_ms": 190252,
       "name": "Alkaline",
       "url": "https://open.spotify.com/track/2HICdPKr1U60RWy1Zm5J07"
+    },
+    {
+      "added_at": "2025-07-03 11:45:38",
+      "album": {
+        "name": "EVERYTHING",
+        "url": "https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        },
+        {
+          "name": "Alex Banin",
+          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+        }
+      ],
+      "duration_ms": 252778,
+      "name": "Long Beach",
+      "url": "https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh"
+    },
+    {
+      "added_at": "2025-07-03 11:52:33",
+      "album": {
+        "name": "Paperview",
+        "url": "https://open.spotify.com/album/7paJXHRhDYBs46wEhGjNzV"
+      },
+      "artists": [
+        {
+          "name": "Mosez Jones",
+          "url": "https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "Paperview",
+      "url": "https://open.spotify.com/track/6BwlKypzGNKfRPTNY9nVT1"
     }
   ],
   "unique_name": "main ",

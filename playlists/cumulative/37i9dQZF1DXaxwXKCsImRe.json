@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:3smrOozTm8zGvRfrcIyRg9\">Samuel Welten</a> (cover)",
+  "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:7bfwKXhmR1JF1PiBzaxY2b\">n\u00e9om\u00ed</a> (cover)",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 278516,
       "name": "garden",
       "url": "https://open.spotify.com/track/3Y8tSl1kiegVv7GRzwHuI5"
@@ -3622,6 +3622,24 @@
       "duration_ms": 201507,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
+    },
+    {
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203615,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
     },
     {
       "album": {

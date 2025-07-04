@@ -2,7 +2,7 @@
 
 ### [Éxitos Uruguay](https://open.spotify.com/playlist/37i9dQZF1DX7kV7MLy24Ug)
 
-> ¡Escucha los éxitos de hoy! <br/>Foto: Paulo Londra & Maria Becerra.
+> ¡Escucha los éxitos de hoy! <br/>Foto: Roze Oficial, Max Carra & Valen.
 
 226 songs - 11 hr 29 min
 

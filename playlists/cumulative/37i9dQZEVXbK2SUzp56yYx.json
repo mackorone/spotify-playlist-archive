@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 102631,
       "name": "AGENT-PROVOCATEUR",
       "url": "https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88"
@@ -8146,7 +8146,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 209226,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9"
@@ -9756,7 +9756,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 154285,
       "name": "left to right",
       "url": "https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ"
@@ -9774,7 +9774,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 179395,
       "name": "Lemon Drop",
       "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
@@ -11572,7 +11572,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 86953,
       "name": "Montagem Bandido",
       "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
@@ -26866,7 +26866,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 196935,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6hCZqjIrd68aT1Ce9lpF8e"
@@ -29072,7 +29072,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 124761,
       "name": "\u041f\u0440\u043e\u0432\u043e\u0434\u0430",
       "url": "https://open.spotify.com/track/1LiD7mFoabMkIx03TVC0vT"
@@ -30870,7 +30870,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 97044,
       "name": "\u0442\u0430\u0431\u043b\u0435\u0442\u043a\u0438",
       "url": "https://open.spotify.com/track/226f8Xp57S5smoh4UbdSgQ"
@@ -31084,6 +31084,24 @@
       "duration_ms": 241999,
       "name": "\u0422\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c \u043c\u0430\u043d\u0438\u043b\u0430 (Slowed Version)",
       "url": "https://open.spotify.com/track/0s8FWN0lVIpCfMETG81tOI"
+    },
+    {
+      "album": {
+        "name": "\u0442\u0432\u043e\u044f \u0441\u0443\u043a\u0430 \u0441\u043e\u0441\u0435\u0442",
+        "url": "https://open.spotify.com/album/4XBVHlMBUvKN8WxklxNytL"
+      },
+      "artists": [
+        {
+          "name": "florie",
+          "url": "https://open.spotify.com/artist/1ETcjE4JtVMqQri4Y64h6Z"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130692,
+      "name": "\u0442\u0432\u043e\u044f \u0441\u0443\u043a\u0430 \u0441\u043e\u0441\u0435\u0442",
+      "url": "https://open.spotify.com/track/497InEQuXe3r6l2AbfAY5G"
     },
     {
       "album": {
@@ -31500,7 +31518,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 140670,
       "name": "\u0442\u044b \u0441\u043b\u0443\u0447\u0438\u043b\u0430\u0441\u044c",
       "url": "https://open.spotify.com/track/3YzfygjDrMn4zqwlAqZHof"
@@ -33660,7 +33678,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
@@ -33700,7 +33718,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 211677,
       "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
       "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"

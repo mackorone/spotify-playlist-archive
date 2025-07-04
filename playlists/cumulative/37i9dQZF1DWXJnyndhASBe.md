@@ -2,9 +2,9 @@
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili\. Cover: White Widow
+> Największe rapowe kawałki w tej chwili\. Cover: Quebonafide
 
-705 songs - 1 day 9 hr 8 min
+706 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Noc Aniołów](https://open.spotify.com/track/4N9IE3251WOeuVkL9gYg3y) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Noc Aniołów](https://open.spotify.com/album/7ClftPSzzotBXbkm0qdzka) | 2:37 | 2024-08-01 | 2024-12-06 |
 | [Nocne jazdy](https://open.spotify.com/track/5CaNgXbSlHKaV2OQ0cXxjO) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [shhieda](https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Nocne jazdy](https://open.spotify.com/album/7rffrtuOJXVSyGEtojlWdt) | 3:09 | 2025-02-20 | 2025-04-18 |
 | [Nocne jazdy \- Favst Remix](https://open.spotify.com/track/6llTGSmP0wNLdVjth8OdXq) | [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [Połączenia 2 \(REMIX\)](https://open.spotify.com/album/7dfBZpLxNPTtlNrbaRlmrq) | 3:17 | 2025-05-01 | 2025-05-16 |
+| [NORADRENALINA](https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Duit](https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1) | 3:43 | 2025-07-03 |  |
 | [NOT THE SAME](https://open.spotify.com/track/6SsZgjhyk3bUK8TEgv70v1) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2) | [NOT THE SAME](https://open.spotify.com/album/5cRXUV5StYhp3TAxe6rEqy) | 2:26 | 2024-10-17 | 2024-11-15 |
 | [Nowa Kultura](https://open.spotify.com/track/6m1wA4qcRto5www6VHlVbg) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Nowa Kultura](https://open.spotify.com/album/52BpykkX7048ZdDPNOxS9E) | 2:32 | 2025-03-06 | 2025-03-28 |
 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 | 2023-10-30 | 2024-01-26 |
@@ -454,7 +455,7 @@
 | [O Kurczę](https://open.spotify.com/track/6md7iIC8XbDLV9Rpx0i1tw) | [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Chubeats](https://open.spotify.com/artist/47wUnbsZ2uFResR6Mhkeo8) | [O Kurczę](https://open.spotify.com/album/40WQl7jJhZDt6trVO27KI9) | 3:12 | 2024-08-29 | 2024-09-06 |
 | [O WŁOS](https://open.spotify.com/track/4JdfdZZyqU24NRkPSZKm7t) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [O WŁOS](https://open.spotify.com/album/1DBndAsbCJjmhIP6aDy50z) | 2:27 | 2024-03-28 | 2024-04-12 |
 | [Obieg słów](https://open.spotify.com/track/4rJTAmQHtgg7HDNehxtNxr) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Obieg słów](https://open.spotify.com/album/5F5qOfm2j33uWLy6rmCNIn) | 2:48 | 2025-02-06 | 2025-03-21 |
-| [Obsesja](https://open.spotify.com/track/3DWltmxK8YHlc3eW0GSMwb) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Trzy](https://open.spotify.com/artist/5ofM3Pp4gVDanyBwdi0dv5) | [Obsesja](https://open.spotify.com/album/4dYJnzfb7u3erg6kV2on1D) | 2:37 | 2025-06-19 |  |
+| [Obsesja](https://open.spotify.com/track/3DWltmxK8YHlc3eW0GSMwb) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Trzy](https://open.spotify.com/artist/5ofM3Pp4gVDanyBwdi0dv5) | [Obsesja](https://open.spotify.com/album/4dYJnzfb7u3erg6kV2on1D) | 2:37 | 2025-06-19 | 2025-07-04 |
 | [Obudziłem się w Bukareszcie \- Def Jam World Tour](https://open.spotify.com/track/6pLzJmfqpaca8QGb19JZDp) | [Yung Adisz](https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40), [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Obudziłem się w Bukareszcie \(Def Jam World Tour\)](https://open.spotify.com/album/5hX1mMMQpsU6P112AVrkVA) | 2:40 | 2024-05-09 | 2024-05-28 |
 | [OD ZAWSZE](https://open.spotify.com/track/75nhveli9wuCkDrmiSK8X9) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX) | [OD ZAWSZE](https://open.spotify.com/album/6QCuk248wR6zvjANP71zAC) | 2:32 | 2024-06-20 | 2024-07-05 |
 | [ODRODZENIE](https://open.spotify.com/track/3jnqxfEcLlOBfcqNmOAoWu) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [ODRODZENIE](https://open.spotify.com/album/1QspK6ZaAhtUUXu6uuABdY) | 2:39 | 2025-02-20 | 2025-03-11 |

@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Ocarina of Time](https://open.spotify.com/track/4Dev8ZLHhv6WXT1ScYzPDI) | [The Deku Trio](https://open.spotify.com/artist/5et56haDj7EgBmGrXG8uex), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Unplugged](https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M) | [Zelda & Jazz](https://open.spotify.com/album/4YPFmaj8pbnyR1dz6jvCb5) | 2:49 |
 | 30 | [Half Past Three](https://open.spotify.com/track/2Vtj6JYTdkYz4RZIaWqPJh) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Half Past Three](https://open.spotify.com/album/76AFENaDnChChgElnK5XsW) | 3:27 |
 
-Snapshot ID: `aGILwAAAAACLYdGfIlq80jCx+edc/Q6P`
+Snapshot ID: `aGILwAAAAADzlM2RFv+L0F1vDd6/f1yI`

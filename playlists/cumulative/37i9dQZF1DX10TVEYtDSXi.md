@@ -4,11 +4,11 @@
 
 > Öll bestu lögin í augnablikinu!
 
-188 songs - 9 hr 50 min
+189 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 ÞÚSUND](https://open.spotify.com/track/2DsrVTTYwaJcuv10mgKdzR) | [Emmsjé Gauti](https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ), [Króli](https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9) | [10 ÞÚSUND](https://open.spotify.com/album/6hnBn7xCz8OKoiZjVRsIGS) | 2:43 | 2025-04-25 |  |
+| [10 ÞÚSUND](https://open.spotify.com/track/2DsrVTTYwaJcuv10mgKdzR) | [Emmsjé Gauti](https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ), [Króli](https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9) | [10 ÞÚSUND](https://open.spotify.com/album/6hnBn7xCz8OKoiZjVRsIGS) | 2:43 | 2025-04-25 | 2025-07-04 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-12-06 | 2025-03-29 |
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2025-02-14 | 2025-05-16 |
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-31 | 2025-04-11 |
@@ -121,6 +121,7 @@
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-01-17 | 2025-04-04 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-03 | 2025-06-27 |
+| [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 | 2025-07-04 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-06-21 | 2024-10-11 |
 | [MONNÍ](https://open.spotify.com/track/25dFPWFPt3OVvDsOSybenL) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [MONNÍ](https://open.spotify.com/album/29Z4fN5F8ZumIsfrfH0Krf) | 3:01 | 2024-06-21 | 2024-10-11 |
 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-20 |  |

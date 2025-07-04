@@ -6463,6 +6463,28 @@
     },
     {
       "album": {
+        "name": "FINAL (feat. Frescool)",
+        "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Frescool",
+          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215103,
+      "name": "FINAL (feat. Frescool)",
+      "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
+    },
+    {
+      "album": {
         "name": "Mr. Versatile",
         "url": "https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA"
       },
@@ -13902,7 +13924,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 192000,
       "name": "Olufunmi (The Missing Recipe)",
       "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"

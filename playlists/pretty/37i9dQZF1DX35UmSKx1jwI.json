@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 138788,
+  "num_followers": 138819,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 148837,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Happier (Ti\u00ebsto\u2019s AFTR:HRS Remix)",
-        "url": "https://open.spotify.com/album/5GpwroXObdnETiIpVb1l23"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Happier - Ti\u00ebsto\u2019s AFTR:HRS Remix",
-      "url": "https://open.spotify.com/track/1uuUnsWpJwqBh5GRQ8uxla"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Until We Die",
         "url": "https://open.spotify.com/album/0ccCW17zrqSGef3aFHkH7I"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 177248,
       "name": "Until We Die",
       "url": "https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Happier (Ti\u00ebsto\u2019s AFTR:HRS Remix)",
+        "url": "https://open.spotify.com/album/5GpwroXObdnETiIpVb1l23"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Happier - Ti\u00ebsto\u2019s AFTR:HRS Remix",
+      "url": "https://open.spotify.com/track/1uuUnsWpJwqBh5GRQ8uxla"
     }
   ],
   "unique_name": "Gym Beats",

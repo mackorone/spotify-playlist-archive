@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : L'Oiseau Rare",
+  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 107142,
       "name": "15500 Volts",
       "url": "https://open.spotify.com/track/0FvmJPfFiqoFz1HRrGLFHN"
+    },
+    {
+      "album": {
+        "name": "24H Chrono",
+        "url": "https://open.spotify.com/album/3cVip0lEuRC0tGOp009wJI"
+      },
+      "artists": [
+        {
+          "name": "Bmuxx Carter",
+          "url": "https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210425,
+      "name": "24H Chrono",
+      "url": "https://open.spotify.com/track/5j3IQvpktPI41fZzZdIBag"
     },
     {
       "album": {
@@ -118,7 +140,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 219428,
       "name": "ASSAUT",
       "url": "https://open.spotify.com/track/31WSI64DMREFNsVBVdZ3z6"
@@ -282,7 +304,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 151658,
       "name": "Bolide Nerveux",
       "url": "https://open.spotify.com/track/4Psx9FhjwpcjhFF0brxbDP"
@@ -318,7 +340,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 107194,
       "name": "BOUSKA YEYO",
       "url": "https://open.spotify.com/track/75ZTJOFuzBIC3N20ppb30A"
@@ -435,6 +457,46 @@
     },
     {
       "album": {
+        "name": "Comment",
+        "url": "https://open.spotify.com/album/0vQJ88JoPmQcT5iOw3t1I6"
+      },
+      "artists": [
+        {
+          "name": "AK4SEVEN",
+          "url": "https://open.spotify.com/artist/7siecjJoVvbBcDLeeidpwJ"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Comment",
+      "url": "https://open.spotify.com/track/1xvIl0T6i2E4Rhv8hWYYTz"
+    },
+    {
+      "album": {
+        "name": "CONTRAT",
+        "url": "https://open.spotify.com/album/4KxlqtnHpU5GGtlPsl5PHX"
+      },
+      "artists": [
+        {
+          "name": "Philipayne",
+          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215050,
+      "name": "CONTRAT",
+      "url": "https://open.spotify.com/track/13IKJyAjYbdPmBZyCR2v8Y"
+    },
+    {
+      "album": {
         "name": "Deodorant",
         "url": "https://open.spotify.com/album/4KZT1WtDnBnkww8q53m0xo"
       },
@@ -468,6 +530,28 @@
       "duration_ms": 176535,
       "name": "DINAGONTOH",
       "url": "https://open.spotify.com/track/0w2NbCHORTRKYIWtOXpE1G"
+    },
+    {
+      "album": {
+        "name": "Djan a mis dans",
+        "url": "https://open.spotify.com/album/5w9QYFz27KBUJXWr2TCo4M"
+      },
+      "artists": [
+        {
+          "name": "ALV",
+          "url": "https://open.spotify.com/artist/6fxKwpEMwlIkWqlP4RsptH"
+        },
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179591,
+      "name": "Djan a mis dans",
+      "url": "https://open.spotify.com/track/7gaYjKCbwWzEnvcsIsC2Wj"
     },
     {
       "album": {
@@ -538,7 +622,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 164545,
       "name": "Drill D\u00e9cal\u00e9",
       "url": "https://open.spotify.com/track/59YGtVBwuMBDhU07urpA1d"
@@ -940,7 +1024,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 192000,
       "name": "Ma girlfriend (feat. Chrystel)",
       "url": "https://open.spotify.com/track/5Mc8d3wBc1hvCDnf3fhaVQ"
@@ -1045,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "NOUSHI ROCK",
+        "url": "https://open.spotify.com/album/7lN6gd71pTqSfl6djzjNT7"
+      },
+      "artists": [
+        {
+          "name": "Boykito",
+          "url": "https://open.spotify.com/artist/6UsBAhzHN7UEOEChp1L0mA"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132713,
+      "name": "MOUMENT",
+      "url": "https://open.spotify.com/track/0PtVvvQQcRQyWvwbtCgVC0"
+    },
+    {
+      "album": {
         "name": "NIAMATOS",
         "url": "https://open.spotify.com/album/0t4rLht6zhZ8mjsjIPU7pM"
       },
@@ -1056,7 +1158,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 166000,
       "name": "NIAMATOS",
       "url": "https://open.spotify.com/track/6cee6K304uT7AHe4DXaRZH"
@@ -1402,6 +1504,28 @@
       "duration_ms": 134303,
       "name": "Trop Tard",
       "url": "https://open.spotify.com/track/0fJCVXvxUvwHX75ip3FPmf"
+    },
+    {
+      "album": {
+        "name": "TU CONNAIS",
+        "url": "https://open.spotify.com/album/0QeKoBvxSd9Miw6xbNOrEt"
+      },
+      "artists": [
+        {
+          "name": "E.J",
+          "url": "https://open.spotify.com/artist/6ug6aCXWry7QVITLdGDjoV"
+        },
+        {
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "TU CONNAIS",
+      "url": "https://open.spotify.com/track/5bNJziQhp4Ywlci2pZcpW3"
     },
     {
       "album": {

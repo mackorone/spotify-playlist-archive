@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,159 likes - 69 songs - 3 hr 43 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,163 likes - 69 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 12 | [Prophecy](https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Prophecy](https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn) | 5:15 |
 | 13 | [What Is Left Of Me](https://open.spotify.com/track/2Qbz1LfpSGO82hEC5p2LQo) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [George Jema](https://open.spotify.com/artist/3nD6qxSgr27BNWSCiv97TU), [Katty Heath](https://open.spotify.com/artist/31cvPCTwxqNl84W1pMYUtv) | [What Is Left Of Me](https://open.spotify.com/album/2TPJMMFUnx8N9yYL7x91c2) | 3:26 |
 | 14 | [Spiraling \(3AM\)](https://open.spotify.com/track/6PGgjwIadJYps0sO1OiBpM) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Spiraling \(3AM\) \[feat\. KC\]](https://open.spotify.com/album/4nm6RSUSQyjOGwVVioVmjt) | 2:30 |
-| 15 | [Ain't No Groove](https://open.spotify.com/track/4zXfaHeOUZzUJpTdVzhTOt) | [A/K](https://open.spotify.com/artist/0aMljpKFM4rWpxxRqhjCmy), [Albert Gold](https://open.spotify.com/artist/3STf94Eh1w1qhzI5HlvKlG) | [Ain't No Groove](https://open.spotify.com/album/2HFLhyaxlRPKtb4cgl5MqD) | 3:32 |
+| 15 | [Ain't No Groove](https://open.spotify.com/track/4zXfaHeOUZzUJpTdVzhTOt) | [A/K](https://open.spotify.com/artist/0aMljpKFM4rWpxxRqhjCmy), [Albert Gold](https://open.spotify.com/artist/3STf94Eh1w1qhzI5HlvKlG) | [Ain't No Groove](https://open.spotify.com/album/2HFLhyaxlRPKtb4cgl5MqD) | 3:31 |
 | 16 | [Colmar](https://open.spotify.com/track/0WLmMBatSELqDbg6q3W1Ob) | [Scissors](https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4) | [Colmar](https://open.spotify.com/album/6yRMjOReivIMdw8iDshRzu) | 3:02 |
 | 17 | [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 |
 | 18 | [Singularity](https://open.spotify.com/track/37Ujf9IVIIcGrzhSc4cs3J) | [Derriziel Pierce](https://open.spotify.com/artist/65tTBcMVvMTCdGxh6XBItP) | [Singularity](https://open.spotify.com/album/6wVzRDhxoZk8PuOKkX0eKA) | 3:19 |

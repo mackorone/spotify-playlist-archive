@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:4dPjkPqNuC118hCi8HPocv">Para que Não Percais os Miolos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,834 likes - 16 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,833 likes - 16 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

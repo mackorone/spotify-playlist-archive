@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/5fenKxeOTwKoZEG6sZAAub"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 197505,
       "name": "Curves",
       "url": "https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m"
@@ -2369,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333346,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/4CiujQStaOr0vSdkscN66T"
+    },
+    {
+      "album": {
         "name": "Passionfruit",
         "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
       },
@@ -2744,7 +2780,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 502705,
       "name": "Sit Around The Fire",
       "url": "https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS"

@@ -2,7 +2,7 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: AJ Tracey
+> Your shortcut to the best new Hip Hop\. Cover: Nemzzz, Latto
 
 612 songs - 1 day 5 hr 51 min
 

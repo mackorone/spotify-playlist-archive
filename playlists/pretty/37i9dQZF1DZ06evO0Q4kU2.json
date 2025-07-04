@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGMlAAAAAABi8EvzJrT1cV33w/pMQf9V",
+  "snapshot_id": "aGR2gAAAAACI20/NqoYRRBCX+We4pJ1U",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The True Meaning Of Forever",
-        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 173927,
-      "name": "Coda",
-      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 197133,
       "name": "Cyclist Waltz",
       "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The True Meaning Of Forever",
+        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 173927,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
     },
     {
       "added_at": null,

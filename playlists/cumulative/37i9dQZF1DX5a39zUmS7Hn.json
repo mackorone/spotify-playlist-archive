@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Acquiesce (Unplugged)",
+        "url": "https://open.spotify.com/album/4sRaHSsaG3bGUblAOpjaBl"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241335,
+      "name": "Acquiesce (Unplugged)",
+      "url": "https://open.spotify.com/track/74Me3OJwv00j8NLFkY8kMk"
+    },
+    {
+      "album": {
         "name": "Act of Love",
         "url": "https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg"
       },
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 292853,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/45AQ5zbSJ0j1nM9daSWeq8"

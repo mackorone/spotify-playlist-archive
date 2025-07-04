@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Almond Milk
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lowa盧華
 
-1,457 songs - 3 day 10 hr 13 min
+1,460 songs - 3 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The English](https://open.spotify.com/track/1dyaaCsCY1GTD4EAaDtRFI) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [The English](https://open.spotify.com/album/4K7cuHQVwYIAA5RjIbPTXn) | 6:46 | 2024-10-10 | 2025-02-14 |
 | [The First Ones](https://open.spotify.com/track/1Y8MVdOVPhJs04CKavUuLY) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [The First Ones](https://open.spotify.com/album/6lSsbZOnB4cDbKWl9168mt) | 4:08 | 2023-02-02 | 2023-07-14 |
+| [The Good Old Days](https://open.spotify.com/track/2P23euWxpV5RE7OzfEpFge) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Trial and Error](https://open.spotify.com/album/0PJ6guMrfzcbROoDiEbmEq) | 4:11 | 2025-07-03 |  |
 | [The Happier One \- retro style](https://open.spotify.com/track/06Dq3j5tDBCPH9sFAadrXQ) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [The Happier One \(retro style\)](https://open.spotify.com/album/1afhpd9AIpuItPVobU9cbO) | 3:37 | 2022-10-06 | 2023-02-03 |
 | [The Island \- Night Version](https://open.spotify.com/track/6lDHh74XhmqpeLQxR7H0Gf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [The Island](https://open.spotify.com/album/5OkCkb5ryHTLNxOQeduzAz) | 4:08 | 2022-09-15 | 2023-02-03 |
 | [The Last Time](https://open.spotify.com/track/732UTatg7YG7n43h0hiiuG) | [Midnight Wander](https://open.spotify.com/artist/16aA3k0WYzwW4vbxhIZUYe) | [The Last Time](https://open.spotify.com/album/3w9UnQ5XPxnkJ91HyAqJ4F) | 2:21 | 2024-01-05 | 2024-05-10 |
@@ -1024,6 +1025,7 @@
 | [人定勝天](https://open.spotify.com/track/3nLa9OZAdHrEaBgA4ExBxE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [人定勝天](https://open.spotify.com/album/1Jbin4xZOGCJa5Aw1BCWxd) | 2:13 | 2024-11-22 | 2025-03-14 |
 | [人格面具 Alok Leung remix](https://open.spotify.com/track/0zeslRzGiRZUgx7knmlZdt) | [Eli](https://open.spotify.com/artist/3oYkROPQowrbb7bxbGWUVU), [Alok Leung](https://open.spotify.com/artist/63OH6lyisfqqI9loN2iv02) | [人格面具 Alok Leung remix](https://open.spotify.com/album/3BTPMIhjqataYDmhbwguSY) | 3:44 | 2023-06-22 | 2023-11-03 |
 | [人若海](https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [人若海](https://open.spotify.com/album/0t5tBgasdVVPco3oTbhyJb) | 3:09 | 2023-12-14 | 2024-02-16 |
+| [今日約左女朋友去迪士尼但係我遲到](https://open.spotify.com/track/0r7sskFVFm8fPhtng51ECQ) | [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [今日約左女朋友去迪士尼但係我遲到](https://open.spotify.com/album/4Y4xIKZHrXziIH2LQb568u) | 3:17 | 2025-07-03 |  |
 | [今晚](https://open.spotify.com/track/0qN15f6cdC8fCY8tPkFCE8) | [老尷工作室](https://open.spotify.com/artist/262xGvvV3B1o5LeiexnPDp) | [今晚](https://open.spotify.com/album/51G1anUupDtWHAGIfT8MVc) | 4:19 | 2023-01-19 | 2023-05-26 |
 | [今晚好想好想打俾你 \- Band Version](https://open.spotify.com/track/77FKiP4vL0u00kzmmoZvIn) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [今晚好想好想打俾你 \- Band Version](https://open.spotify.com/album/39haq2Mw9apQ1qaPMDdQuy) | 3:49 | 2022-11-03 | 2023-02-03 |
 | [今次動真格](https://open.spotify.com/track/43TAdcNSQwqX5kfXiwvbzG) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [今次動真格](https://open.spotify.com/album/0EAiKz8T1MvS8G6EcV5bxF) | 3:19 | 2024-03-28 | 2024-06-07 |
@@ -1420,6 +1422,7 @@
 | [過去過不去](https://open.spotify.com/track/0NhIEAV7elUg0cpOLPwl5z) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [過去過不去](https://open.spotify.com/album/1t0MnE7H8ycpzZzgwZCn27) | 4:37 | 2022-08-11 | 2022-11-04 |
 | [道別重聚散](https://open.spotify.com/track/6KILI17lSadzer8OEEAH1J) | [Locksmiths 開鎖佬](https://open.spotify.com/artist/1Z4uKuJsVmcbUGaozKoXO8) | [道別重聚散](https://open.spotify.com/album/0QXwyMkU7HazMMwQrPMs1d) | 4:47 | 2024-01-05 | 2024-05-10 |
 | [選取快樂](https://open.spotify.com/track/3hewKyGbSovF9eCBMONXBe) | [Daze in White](https://open.spotify.com/artist/3Cw4lXyrHjSM0dUCTdRSmW) | [選取快樂](https://open.spotify.com/album/5GIdqbe4pjdwWIlfQYgVQM) | 3:08 | 2024-09-20 | 2024-12-13 |
+| [都在](https://open.spotify.com/track/7msvZulyOBzcgGw2CPWfuv) | [Luyiu 盧瑤](https://open.spotify.com/artist/4n6hzTbTd8utM49SkddN4X) | [都在](https://open.spotify.com/album/5MSbuG72kngoVfBuzW4iO1) | 2:31 | 2025-07-03 |  |
 | [醉後 Black Out \(feat\. Tsui Chin Hung\)](https://open.spotify.com/track/2RmxP2Rpuoscz77tasDxst) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Tsui Chin Hung](https://open.spotify.com/artist/4iim34n0M5J5ua3fluGflT) | [Fuo.](https://open.spotify.com/album/6SrVTBtEk4rrESjDbf1S83) | 4:16 | 2023-03-24 | 2023-07-14 |
 | [重獲自信](https://open.spotify.com/track/1VucFdXeTVlq7E3tuQqP9i) | [LikHang](https://open.spotify.com/artist/1CjN9kt3l99SnJEyaspKIh) | [重獲自信](https://open.spotify.com/album/4x0KW73otW6TBS3CwO9FAm) | 4:55 | 2022-09-22 | 2023-01-06 |
 | [金榜題名](https://open.spotify.com/track/4F65yFSP9lxFf2LKzg3Eis) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [Mr\. scanner](https://open.spotify.com/artist/4x6hxzjBEIRbQ58VVZ1yYR), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM), [24Herbs](https://open.spotify.com/artist/529oXjexAyYU0ApmR7jpMM) | [金榜題名](https://open.spotify.com/album/7cZsfS5lOPux956zjAlSjA) | 8:05 | 2024-01-11 | 2024-05-10 |

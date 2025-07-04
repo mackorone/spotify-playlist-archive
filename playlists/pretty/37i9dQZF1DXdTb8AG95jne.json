@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: OurR (\uc544\uc6d4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 499096,
+  "num_followers": 509549,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGN+NwAAAACcZ4c4B/JXFbfYV3DXpLat",
+  "snapshot_id": "aGY8XAAAAADValND8K5gAIUqljjpOo55",
   "tracks": [
     {
       "added_at": "2025-07-01 06:19:25",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-07-01 06:19:25",
       "album": {
-        "name": "Baby I Need You",
-        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Baby I Need You",
-      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
-    },
-    {
-      "added_at": "2025-07-01 06:19:25",
-      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -699,22 +683,34 @@
     {
       "added_at": "2025-07-01 06:19:25",
       "album": {
-        "name": "Blood (feat. Akane Lize)",
-        "url": "https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i"
+        "name": "Baby I Need You",
+        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
       },
       "artists": [
         {
-          "name": "Miiro",
-          "url": "https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP"
-        },
-        {
-          "name": "Akane Lize",
-          "url": "https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK"
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
         }
       ],
-      "duration_ms": 267013,
-      "name": "Blood (feat. Akane Lize)",
-      "url": "https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f"
+      "duration_ms": 215400,
+      "name": "Baby I Need You",
+      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
+    },
+    {
+      "added_at": "2025-07-01 06:19:25",
+      "album": {
+        "name": "A Long Dream",
+        "url": "https://open.spotify.com/album/41NYtKrSofLWaxOZNs1Atb"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 258420,
+      "name": "A Long Dream",
+      "url": "https://open.spotify.com/track/2LQJZcCEfTG1v087gaaMMj"
     },
     {
       "added_at": "2025-07-01 06:19:25",
@@ -735,18 +731,22 @@
     {
       "added_at": "2025-07-01 06:19:25",
       "album": {
-        "name": "A Long Dream",
-        "url": "https://open.spotify.com/album/41NYtKrSofLWaxOZNs1Atb"
+        "name": "Blood (feat. Akane Lize)",
+        "url": "https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i"
       },
       "artists": [
         {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+          "name": "Miiro",
+          "url": "https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP"
+        },
+        {
+          "name": "Akane Lize",
+          "url": "https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK"
         }
       ],
-      "duration_ms": 258420,
-      "name": "A Long Dream",
-      "url": "https://open.spotify.com/track/2LQJZcCEfTG1v087gaaMMj"
+      "duration_ms": 267013,
+      "name": "Blood (feat. Akane Lize)",
+      "url": "https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f"
     },
     {
       "added_at": "2025-07-01 06:19:25",

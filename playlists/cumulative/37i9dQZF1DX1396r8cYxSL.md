@@ -2,7 +2,7 @@
 
 ### [Yaz Hitleri 2025](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2025 yazına damga vuracak şarkılar\. Kapak: Sefo x Demet Akalın
+> 2025 yazına damga vuracak şarkılar\. Kapak: manifest
 
 157 songs - 7 hr 34 min
 

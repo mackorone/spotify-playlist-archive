@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "10-12",
+        "url": "https://open.spotify.com/album/3BjJY2evGQ6BgTqPybPkiQ"
+      },
+      "artists": [
+        {
+          "name": "Watan Sahi",
+          "url": "https://open.spotify.com/artist/60AHsnenfij85IExxs2456"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151094,
+      "name": "10-12",
+      "url": "https://open.spotify.com/track/773XVnrWeNNq5s8UqasIrZ"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe"
       },
@@ -1526,7 +1552,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 135067,
       "name": "Basantiya Nachaounda",
       "url": "https://open.spotify.com/track/2IsRBRExF9b6SOzWhvWT5L"
@@ -6286,7 +6312,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 179400,
       "name": "Jatt Baija",
       "url": "https://open.spotify.com/track/6pJMNJe5cgk5zXR2TwFbhA"
@@ -12414,6 +12440,28 @@
       "duration_ms": 181500,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck"
     },
     {
       "album": {

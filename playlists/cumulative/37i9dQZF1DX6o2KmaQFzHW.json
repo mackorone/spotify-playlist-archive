@@ -2985,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "La Zamba",
+        "url": "https://open.spotify.com/album/5gnE0MnxT7eHoFvAg3PJBp"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212077,
+      "name": "La Zamba",
+      "url": "https://open.spotify.com/track/2RUG2nP32VkyvNF2lFnbIM"
+    },
+    {
+      "album": {
         "name": "Chaque\u00f1adas",
         "url": "https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb"
       },

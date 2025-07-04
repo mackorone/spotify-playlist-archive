@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: DRAMAS",
+  "description": "New music off the beaten track. Cover: Christine & The Queens, Cerrone",
   "name": "OFF POP",
   "tracks": [
     {
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 186500,
       "name": "C C C",
       "url": "https://open.spotify.com/track/2SXLCcrH227dQ1ffi7PbnH"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 222814,
       "name": "Control",
       "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
@@ -5738,6 +5738,24 @@
       "duration_ms": 171800,
       "name": "Ein Jahr (Es Geht Voran)",
       "url": "https://open.spotify.com/track/3TUFR4sneiKbFPtYdTEyvr"
+    },
+    {
+      "album": {
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/5SzR7cPOqZ8xgHLErWDc1k"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/0bDW4VlxgJDYFrF4LAaKp2"
     },
     {
       "album": {
@@ -11558,10 +11576,32 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 191625,
       "name": "Last Night Was a Mistake",
       "url": "https://open.spotify.com/track/456AhcnmKByGbjM2H4X62H"
+    },
+    {
+      "album": {
+        "name": "Catching feelings",
+        "url": "https://open.spotify.com/album/23a1PGqGITDhfPf8aWC91a"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225254,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/19poh0XywcD5wPO6YuIgXT"
     },
     {
       "album": {
@@ -12354,7 +12394,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 174996,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK"
@@ -21051,6 +21091,28 @@
     },
     {
       "album": {
+        "name": "Tonic Water (Solar Punk Remix)",
+        "url": "https://open.spotify.com/album/5tpXFwXqPRzWEp9NIlWtFW"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        },
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165162,
+      "name": "Tonic Water - Solar Punk Remix",
+      "url": "https://open.spotify.com/track/63YDzATowMmiwqlRokVyOE"
+    },
+    {
+      "album": {
         "name": "Promised Land (Remixes)",
         "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
@@ -21392,6 +21454,28 @@
       "duration_ms": 262454,
       "name": "Turn The Page",
       "url": "https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Love",
+        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186728,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
     },
     {
       "album": {

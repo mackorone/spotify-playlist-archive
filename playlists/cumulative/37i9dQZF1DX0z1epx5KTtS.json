@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Team Paiya",
+  "description": "African dance party music from the continent to Paris. Photo : Josey",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 205263,
       "name": "Arc de triomphe",
       "url": "https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY"
@@ -2056,6 +2056,24 @@
       "duration_ms": 177632,
       "name": "Fimbu",
       "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4OgcsMdkA4i14JQy1UEXbn"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121880,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3uD2nwx9InLQXr87PuWK3w"
     },
     {
       "album": {

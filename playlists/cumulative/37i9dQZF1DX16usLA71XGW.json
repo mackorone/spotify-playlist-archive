@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Control It",
+        "url": "https://open.spotify.com/album/6L2UvteLN6iJ0mRSUX5q9S"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177958,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/4I4Z39sziPUkKeukvHjdwC"
+    },
+    {
+      "album": {
         "name": "Dakika Moja",
         "url": "https://open.spotify.com/album/54uEgwNVQ0L8FNHO8gFYbA"
       },
@@ -3184,7 +3202,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 281798,
       "name": "Zawadi",
       "url": "https://open.spotify.com/track/4PDc1fFGZfK6DcjXh7qMxK"

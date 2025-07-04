@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 미지의 서울 \(Our Unwritten Seoul\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,527,214 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,015 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Run Run](https://open.spotify.com/track/5EBtIi8j2ARUCwxzB5gc82) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:34 |
 | 100 | [I Want U Back](https://open.spotify.com/track/2cYI310u2wILe2dZYJCEX9) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [FACE ME OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/1CpGsxPcJlPTZr1sqZdHFm) | 3:26 |
 
-Snapshot ID: `aGJMGAAAAABc5nqSNrZ1eZw/v08wjghF`
+Snapshot ID: `aGZCwwAAAAAloXalXYYjRrJnPTXtrFRb`

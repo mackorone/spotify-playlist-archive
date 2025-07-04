@@ -1,13 +1,213 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Ramengvrl)",
-  "num_followers": 451414,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Chance the Rapper)",
+  "num_followers": 451452,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XXwAAAACNRkO+EXj5c2Qebpwr5lMF",
+  "snapshot_id": "aGbTTQAAAABOTTZugVzqD1Tgbw0BXBn3",
   "tracks": [
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 191907,
+      "name": "2 Mazza (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "Bailar",
+        "url": "https://open.spotify.com/album/0SPr7yB0AIB59w7ctW6Y3f"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/0zZJsJEOxaJmEGnfmnOkZw"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "NISSAN",
+        "url": "https://open.spotify.com/album/1M5nma424N6OJn3oHi3Gnd"
+      },
+      "artists": [
+        {
+          "name": "MC TYSON",
+          "url": "https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 200901,
+      "name": "NISSAN",
+      "url": "https://open.spotify.com/track/2DtvBbK170b9taisNBMZ8J"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "missed call",
+        "url": "https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q"
+      },
+      "artists": [
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "missed call",
+      "url": "https://open.spotify.com/track/4DvbIQF7woSBVO3PkxGu1y"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "2UP (feat. Because)",
+        "url": "https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "duration_ms": 165098,
+      "name": "2UP (feat. Because)",
+      "url": "https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "SUMIMASEN",
+        "url": "https://open.spotify.com/album/5Ciou635JAW5lQQJeBHp1Y"
+      },
+      "artists": [
+        {
+          "name": "Denzel Cheng",
+          "url": "https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "SUMIMASEN",
+      "url": "https://open.spotify.com/track/0QZaRiCIgwS0ZUeK5JPpDs"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "On My Way To Berlin",
+        "url": "https://open.spotify.com/album/6Uf4eQ5uE5YOMuC9SkEmxh"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "Generational Love",
+      "url": "https://open.spotify.com/track/7KyuuO3j9D7CKF01bSEix5"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "Summer '25",
+        "url": "https://open.spotify.com/album/4Z5Q79bhK7ViROrUyrhZgk"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Summer '25",
+      "url": "https://open.spotify.com/track/75YrOesTP7LR2NxNrKDH7h"
+    },
+    {
+      "added_at": "2025-07-03 19:00:29",
+      "album": {
+        "name": "Ya Feel Me",
+        "url": "https://open.spotify.com/album/0qlOJtCUJ7rJKjbxjIzlLI"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo Got Wings",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Ya Feel Me",
+      "url": "https://open.spotify.com/track/6vYcahYlvDglD2q1xAoMOa"
+    },
     {
       "added_at": "2025-06-27 04:00:31",
       "album": {
@@ -1311,26 +1511,6 @@
     {
       "added_at": "2025-06-27 04:00:31",
       "album": {
-        "name": "Yup & I do",
-        "url": "https://open.spotify.com/album/5uiCdHTYa2rFe0QkPRO6yO"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        },
-        {
-          "name": "STMG DemGuyz",
-          "url": "https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq"
-        }
-      ],
-      "duration_ms": 126799,
-      "name": "Yup & I do",
-      "url": "https://open.spotify.com/track/5xs9IGR02tU4bsHt3a6CBP"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
         "name": "Black Samson, the Bastard Swordsman",
         "url": "https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3"
       },
@@ -1447,46 +1627,6 @@
     {
       "added_at": "2025-06-27 04:00:31",
       "album": {
-        "name": "BALANCE",
-        "url": "https://open.spotify.com/album/3FZsu8RV1GCc9rO2hpHYw4"
-      },
-      "artists": [
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "BALANCE",
-      "url": "https://open.spotify.com/track/1SsHaC1ib5wVOmLYfuWjLC"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
-        "name": "ESTIMA",
-        "url": "https://open.spotify.com/album/3YmIaKc0W4LoItQvRhDwkg"
-      },
-      "artists": [
-        {
-          "name": "Daz",
-          "url": "https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE"
-        },
-        {
-          "name": "Sakepnk",
-          "url": "https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf"
-        }
-      ],
-      "duration_ms": 148726,
-      "name": "ESTIMA",
-      "url": "https://open.spotify.com/track/5d4llxWHFBLQZ88mg4Jy9R"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
         "name": "Wanna Be",
         "url": "https://open.spotify.com/album/3tZjEf529XcIyRx6a3WET7"
       },
@@ -1499,22 +1639,6 @@
       "duration_ms": 129600,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/2Atg7euWMFKjyMNhykhp5e"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
-        "name": "Fears",
-        "url": "https://open.spotify.com/album/7FIG6JsX0ihcw0gJJl1U3Q"
-      },
-      "artists": [
-        {
-          "name": "Sage Vapid",
-          "url": "https://open.spotify.com/artist/7d598fEPZUr7rcu9HFkVof"
-        }
-      ],
-      "duration_ms": 235620,
-      "name": "Fears",
-      "url": "https://open.spotify.com/track/1vqGvYITaMS6IYvJPby3sY"
     },
     {
       "added_at": "2025-06-27 04:00:31",
@@ -1595,42 +1719,6 @@
     {
       "added_at": "2025-06-27 04:00:31",
       "album": {
-        "name": "Ouiiiii \u0e2d\u0e38\u0e49\u0e22!!!",
-        "url": "https://open.spotify.com/album/2ZgPdK0jPYOKJ4EoGKvksz"
-      },
-      "artists": [
-        {
-          "name": "DABOYWAY",
-          "url": "https://open.spotify.com/artist/6p0woWDfWgd5EAX7HFzZ7d"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        }
-      ],
-      "duration_ms": 183243,
-      "name": "Ouiiiii \u0e2d\u0e38\u0e49\u0e22!!!",
-      "url": "https://open.spotify.com/track/7y2P5qhxGiWVWs2yM0S8U4"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
-        "name": "Don't Say I Never Loved You (DSINLY)",
-        "url": "https://open.spotify.com/album/1NwzftYAtUn6yMuJqJ6SYK"
-      },
-      "artists": [
-        {
-          "name": "Bloodlyne",
-          "url": "https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Don't Say I Never Loved You (DSINLY)",
-      "url": "https://open.spotify.com/track/7KmuYmySYyCGXOa7iBgt6t"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
         "name": "My G's",
         "url": "https://open.spotify.com/album/6ar2qX5A53xuQgd44G6KOF"
       },
@@ -1647,26 +1735,6 @@
       "duration_ms": 198913,
       "name": "My G's (feat. SEEDA)",
       "url": "https://open.spotify.com/track/1uo0oC9gTWFfdpBKk6yAqN"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
-        "name": "IYASAKA LIT (feat. CHICO CARLITO)",
-        "url": "https://open.spotify.com/album/2elgKrDB0xGUx77XBKLfTW"
-      },
-      "artists": [
-        {
-          "name": "OZworld",
-          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
-        },
-        {
-          "name": "CHICO CARLITO",
-          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
-        }
-      ],
-      "duration_ms": 151224,
-      "name": "IYASAKA LIT (feat. CHICO CARLITO)",
-      "url": "https://open.spotify.com/track/3OuhE5KEvVMUQpRy2eHPZK"
     },
     {
       "added_at": "2025-06-27 04:00:31",
@@ -1783,62 +1851,6 @@
     {
       "added_at": "2025-06-27 04:00:31",
       "album": {
-        "name": "Litty",
-        "url": "https://open.spotify.com/album/3t1IJkzF7OJY9hdiKhomM6"
-      },
-      "artists": [
-        {
-          "name": "Emeisee",
-          "url": "https://open.spotify.com/artist/0bUKfHOjCFrLy3yJN0ze4X"
-        },
-        {
-          "name": "No Le$",
-          "url": "https://open.spotify.com/artist/7AgQkAE7rhCUf4zOTwLELc"
-        },
-        {
-          "name": "N.S. Eric",
-          "url": "https://open.spotify.com/artist/0Gzm7mEkql2maP7aczYWSh"
-        }
-      ],
-      "duration_ms": 227644,
-      "name": "Litty",
-      "url": "https://open.spotify.com/track/4mK9OQzYfPCvmHKKQ3BcFB"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
-        "name": "LIL ICE",
-        "url": "https://open.spotify.com/album/015tOrBJ6snrAOE6WxY1Eg"
-      },
-      "artists": [
-        {
-          "name": "BABY FREEZE",
-          "url": "https://open.spotify.com/artist/4BQ84eYGgqG80ToE0F5rBQ"
-        }
-      ],
-      "duration_ms": 122608,
-      "name": "LIL ICE",
-      "url": "https://open.spotify.com/track/1InsNoVruOI4L6jUf1yxYy"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
-        "name": "mr. conceited",
-        "url": "https://open.spotify.com/album/3txxStzNGXFOpped6SD2mx"
-      },
-      "artists": [
-        {
-          "name": "Nier V",
-          "url": "https://open.spotify.com/artist/4T3XeWHurbFyAOn5L0oFlP"
-        }
-      ],
-      "duration_ms": 161681,
-      "name": "showtime",
-      "url": "https://open.spotify.com/track/4dcTYqbN8pQq31fCXfJ425"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
         "name": "Black Man",
         "url": "https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY"
       },
@@ -1855,22 +1867,6 @@
       "duration_ms": 160318,
       "name": "Black Man",
       "url": "https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj"
-    },
-    {
-      "added_at": "2025-06-27 04:00:31",
-      "album": {
-        "name": "SSIV.",
-        "url": "https://open.spotify.com/album/5SeN9pzWfgSLZ8yELGRpSg"
-      },
-      "artists": [
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
-        }
-      ],
-      "duration_ms": 219512,
-      "name": "SSIV.",
-      "url": "https://open.spotify.com/track/2n6V9req7vDdQHdClGk88H"
     },
     {
       "added_at": "2025-06-27 04:00:31",

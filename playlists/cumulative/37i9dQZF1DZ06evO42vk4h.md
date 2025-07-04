@@ -4,7 +4,7 @@
 
 > This is OSKIDO\. The essential tracks, all in one playlist.
 
-51 songs - 4 hr 49 min
+52 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Sweety Lavo](https://open.spotify.com/track/7dahjyDVsxec2B3wQqRWKc) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Copperhead](https://open.spotify.com/artist/4uJXtT5iGwxaopA8oH2U7a) | [Shosholoza](https://open.spotify.com/album/1Bc1Wcc7L97DkP7M1XITxB) | 5:03 | 2025-06-28 |  |
 | [Thandolwethu \- Remix](https://open.spotify.com/track/41nYrZjMX3h5nC5Hc5UbrB) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R) | [I Believe 2013](https://open.spotify.com/album/2JOqYLF4kZeYY76toSULUC) | 7:20 | 2025-06-28 |  |
 | [Tsa Mandebele](https://open.spotify.com/track/6OQqb88STgvROwhN1IYPyH) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy](https://open.spotify.com/artist/23xWYOH1FFDrOwQXcJ41NK) | [Tsa Mandebele](https://open.spotify.com/album/042SdEj2aj8yrkIes4Akwq) | 6:57 | 2025-06-28 |  |
-| [Umbane](https://open.spotify.com/track/295iqSGT4nzlGnq9HrpYB6) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Keep Hope Alive](https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm) | 5:40 | 2025-06-28 |  |
+| [Tsetserepa \- Radio Edit](https://open.spotify.com/track/7yrakeYucZbT1Boa665xFL) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo), [CwengaBass](https://open.spotify.com/artist/34sT0yhKEAOOeW8dYHKECM), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn) | [Legend Live \(LIve\)](https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja) | 4:34 | 2025-07-04 |  |
+| [Umbane](https://open.spotify.com/track/295iqSGT4nzlGnq9HrpYB6) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Keep Hope Alive](https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm) | 5:40 | 2025-06-28 | 2025-07-04 |
 | [Uxolo \- Club Mix](https://open.spotify.com/track/0XwtsstpXSL5K5jcNBjQCc) | [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Amandla](https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv) | 7:26 | 2025-06-28 |  |
 | [Wena Kphela](https://open.spotify.com/track/4FZCPj5ENTJUICPckzTEO0) | [Ze2](https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R) | [Wena Kphela](https://open.spotify.com/album/0rVbKRueliaVGriIZ6BMZt) | 4:10 | 2025-06-28 |  |
 | [Woza Nana](https://open.spotify.com/track/3AdO1jvt0RJPLrMSlxuWZ3) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts) | [Woza Nana](https://open.spotify.com/album/0GFGk3TCfZBjau2dKx3hgz) | 6:57 | 2025-06-28 |  |

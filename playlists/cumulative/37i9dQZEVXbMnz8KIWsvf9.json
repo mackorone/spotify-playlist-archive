@@ -9826,7 +9826,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 284583,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17"
@@ -9996,7 +9996,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 163352,
       "name": "Priceless (feat. LISA)",
       "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
@@ -10076,7 +10076,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 225410,
       "name": "Proud",
       "url": "https://open.spotify.com/track/4jyfcb5s4H3hKl0CJXjYei"
@@ -13926,7 +13926,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 185557,
       "name": "Very Very Small",
       "url": "https://open.spotify.com/track/2aOKroYzVYSkKetUpWvrkt"
@@ -18501,6 +18501,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e2a\u0e25\u0e31\u0e01\u0e2d\u0e01",
+        "url": "https://open.spotify.com/album/0E0RfXLKVJRHfCVyyZR9qD"
+      },
+      "artists": [
+        {
+          "name": "\u0e04\u0e13\u0e30\u0e02\u0e27\u0e31\u0e0d\u0e43\u0e08",
+          "url": "https://open.spotify.com/artist/2hv2iYyaxT53z0T5qPxIcP"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257049,
+      "name": "\u0e23\u0e31\u0e01\u0e2a\u0e25\u0e31\u0e01\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/1YiOlK2XiivuLhmQnL1n7Q"
+    },
+    {
+      "album": {
         "name": "Hangman",
         "url": "https://open.spotify.com/album/0EzmbCsLyXd7HvP6uYsRWN"
       },
@@ -20412,7 +20430,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 267441,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/35wMKn5IxX8DYnCuyIEdQq"
@@ -21056,7 +21074,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 205875,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
       "url": "https://open.spotify.com/track/262eVzp5Uu1RfeGaV5qIwm"
@@ -21490,6 +21508,24 @@
       "duration_ms": 245000,
       "name": "\u0e43\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e19\u0e32\u0e22 \u0e01\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e48\u0e32\u0e27",
       "url": "https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e4b\u0e27\u0e22\u0e40\u0e15\u0e35\u0e4b\u0e22\u0e27\u0e2b\u0e19\u0e49\u0e32\u0e43\u0e2a\u0e01\u0e31\u0e1a\u0e43\u0e08\u0e42\u0e17\u0e23\u0e21\u0e46",
+        "url": "https://open.spotify.com/album/2JIDSfao4NS1c3jByIynXw"
+      },
+      "artists": [
+        {
+          "name": "Pancake",
+          "url": "https://open.spotify.com/artist/47FfXpy7XLVK5guGnK8NTL"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "\u0e43\u0e08\u0e40\u0e22\u0e47\u0e19",
+      "url": "https://open.spotify.com/track/6YbOPV8Of3AptlrNDsyCNf"
     },
     {
       "album": {

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124193,
+      "name": "5hrs Till Nairobi",
+      "url": "https://open.spotify.com/track/2zZzFhWHYeCSaoejZzkDfe"
+    },
+    {
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
@@ -1105,6 +1123,46 @@
     },
     {
       "album": {
+        "name": "Lusaka!",
+        "url": "https://open.spotify.com/album/4Ufcnd2d6LQ8dZ21eFN43O"
+      },
+      "artists": [
+        {
+          "name": "Chipego",
+          "url": "https://open.spotify.com/artist/6560RgzahjBUplHfzm454m"
+        },
+        {
+          "name": "[kimetsu.]",
+          "url": "https://open.spotify.com/artist/1PHEnDTwOtRf29ArCrHhJD"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267612,
+      "name": "Lusaka!",
+      "url": "https://open.spotify.com/track/6ChJEgvgEzkUB4GYUAhKVp"
+    },
+    {
+      "album": {
+        "name": "Mali Spirit",
+        "url": "https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Mali Spirit",
+      "url": "https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd"
+    },
+    {
+      "album": {
         "name": "Mannenberg - 'Is Where It's Happening'",
         "url": "https://open.spotify.com/album/211IJ33ehIcOM2fdMCxJRp"
       },
@@ -1834,7 +1892,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 208000,
       "name": "Zaire",
       "url": "https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1"

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t?si=zEuIA1S6SgW8IOr8GD0HFA">George FitzGerald</a>
 
-1,416 songs - 4 day 0 hr 23 min
+1,417 songs - 4 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 | 2023-09-27 | 2023-11-09 |
 | [A Matter of Taste](https://open.spotify.com/track/5gev7xyonIkZsLlu2RmM0O) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill / A Matter of Taste](https://open.spotify.com/album/1NwbriFwipEAAtD0bDOC2u) | 3:11 | 2024-12-02 | 2025-02-13 |
 | [A Moment Longer](https://open.spotify.com/track/0KsfBJG6NvzXJ3Qv1yVaz1) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c) | [A Moment Longer / Love / Luck](https://open.spotify.com/album/6R4nipm3Fr9OTFLjRbYcPp) | 3:40 | 2025-06-04 |  |
+| [A Moment Longer \- Vince Clarke Remix](https://open.spotify.com/track/4YAwOTX1N5XKGPupRckq7s) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [A Moment Longer \(Vince Clarke Remix\)](https://open.spotify.com/album/0koNKPvO3tbWs328GTcGAg) | 4:39 | 2025-07-03 |  |
 | [A Season In Hell](https://open.spotify.com/track/5pYhL6BGZIHGGmDJd9TDZx) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [A Season In Hell](https://open.spotify.com/album/5oY70Wyk7hdeICap4IXHZB) | 5:03 | 2025-04-30 | 2025-06-19 |
 | [A Tune for Us](https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [A Tune for Us](https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27) | 5:53 | 2025-01-29 | 2025-02-27 |
 | [Abandon All Hope](https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Abandon All Hope](https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l) | 3:46 | 2023-06-28 | 2023-08-10 |

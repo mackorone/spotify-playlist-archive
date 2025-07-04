@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: La Zarra",
-  "num_followers": 45312,
+  "num_followers": 45315,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-06-27 04:00:37",
       "album": {
+        "name": "R.A.T",
+        "url": "https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Crime ensoleill\u00e9",
+      "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
+    },
+    {
+      "added_at": "2025-06-27 04:00:37",
+      "album": {
         "name": "Chouchou",
         "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
       },
@@ -519,22 +539,6 @@
       "duration_ms": 200458,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
-    },
-    {
-      "added_at": "2025-06-27 04:00:37",
-      "album": {
-        "name": "On va",
-        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 144022,
-      "name": "On va",
-      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
     },
     {
       "added_at": "2025-06-27 04:00:37",
@@ -559,22 +563,38 @@
     {
       "added_at": "2025-06-27 04:00:37",
       "album": {
-        "name": "R.A.T",
-        "url": "https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU"
+        "name": "C'est Fort",
+        "url": "https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS"
       },
       "artists": [
         {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         },
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 230813,
-      "name": "Crime ensoleill\u00e9",
-      "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
+      "duration_ms": 159719,
+      "name": "C'est Fort",
+      "url": "https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3"
+    },
+    {
+      "added_at": "2025-06-27 04:00:37",
+      "album": {
+        "name": "On va",
+        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 144022,
+      "name": "On va",
+      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
     },
     {
       "added_at": "2025-06-27 04:00:37",
@@ -599,26 +619,6 @@
       "duration_ms": 247864,
       "name": "VIDA (feat. Ninho & Morad)",
       "url": "https://open.spotify.com/track/1zfBApK5OdvVU9t1tFZ8uG"
-    },
-    {
-      "added_at": "2025-06-27 04:00:37",
-      "album": {
-        "name": "C'est Fort",
-        "url": "https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 159719,
-      "name": "C'est Fort",
-      "url": "https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3"
     },
     {
       "added_at": "2025-06-27 04:00:37",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-06-27 04:00:37",
       "album": {
+        "name": "BIG SHOT - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7qVRh9enruTBAT1eBRo7Pz"
+      },
+      "artists": [
+        {
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 179900,
+      "name": "BIG SHOT - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2vqEpUnSacuv7k9ZAh2gar"
+    },
+    {
+      "added_at": "2025-06-27 04:00:37",
+      "album": {
         "name": "Saisons",
         "url": "https://open.spotify.com/album/0eetodKHmfPcQsKODvqATz"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 112570,
       "name": "ACT 7",
       "url": "https://open.spotify.com/track/4Zgiqd8twiWV0XelwVolqQ"
-    },
-    {
-      "added_at": "2025-06-27 04:00:37",
-      "album": {
-        "name": "BIG SHOT - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7qVRh9enruTBAT1eBRo7Pz"
-      },
-      "artists": [
-        {
-          "name": "Yvnnis",
-          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 179900,
-      "name": "BIG SHOT - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2vqEpUnSacuv7k9ZAh2gar"
     },
     {
       "added_at": "2025-06-27 04:00:37",

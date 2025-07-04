@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: Amaarae
 
-597 songs - 1 day 7 hr 4 min
+598 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [For Me](https://open.spotify.com/track/6LVKTrXpVtaEhUF5KDFVaA) | [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [For Me](https://open.spotify.com/album/5VmXCn8kqqeWkA5TarkaEf) | 2:40 | 2021-12-20 | 2022-05-23 |
 | [Foreign](https://open.spotify.com/track/0kRm8zsYvR7OwuS6WosMW9) | [Bankulli](https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Foreign](https://open.spotify.com/album/3zpmrSrXjutTncIdJ7v4Hx) | 2:49 | 2021-12-20 | 2022-06-05 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-28 | 2022-07-29 |
+| [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-07-03 |  |
 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 | 2022-05-20 | 2022-05-24 |
 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 | 2021-12-20 | 2022-07-29 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-10 |  |
@@ -430,7 +431,7 @@
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-05-15 | 2023-08-21 |
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-14 | 2022-07-28 |
 | [Pressure](https://open.spotify.com/track/2cjn17ZzFbT8IaSY0POZxg) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pressure](https://open.spotify.com/album/4xddNgNiuNaRRSuiHzcuyy) | 3:29 | 2021-12-20 | 2022-06-12 |
-| [PRETTY GIRLS](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PRETTY GIRLS](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-04-04 |  |
+| [PRETTY GIRLS](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PRETTY GIRLS](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-04-04 | 2025-07-04 |
 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 | 2022-07-21 | 2022-08-06 |
 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 | 2021-12-20 | 2023-04-21 |
 | [Problem](https://open.spotify.com/track/3XO6obY9mhE8EklqXFblTA) | [The Compozers](https://open.spotify.com/artist/3JZIYIz1tu8IgQA6Fu4CaM), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Problem](https://open.spotify.com/album/0qYg8VHQqjdyW8aG1zc5fJ) | 3:57 | 2021-12-20 | 2022-06-14 |

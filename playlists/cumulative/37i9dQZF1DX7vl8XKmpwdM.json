@@ -663,6 +663,32 @@
     },
     {
       "album": {
+        "name": "Bar Anthem (From \"Good Day\")",
+        "url": "https://open.spotify.com/album/4xtpG5LSH41N8JbDRjwp7E"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Anthakudi Ilayaraja",
+          "url": "https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183648,
+      "name": "Bar Anthem - From \"Good Day\"",
+      "url": "https://open.spotify.com/track/4lamCUKj6lUNqaOzhmkN8k"
+    },
+    {
+      "album": {
         "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
         "url": "https://open.spotify.com/album/1VakDDz6IzQqUWdbXfEZpS"
       },
@@ -734,7 +760,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 74196,
       "name": "Birth of Dragon",
       "url": "https://open.spotify.com/track/3os9yPh7n79Wk1UNPvY8CJ"

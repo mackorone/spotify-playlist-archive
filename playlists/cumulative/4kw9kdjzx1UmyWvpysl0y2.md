@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,017 songs - 2 day 9 hr 6 min
+1,018 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Echoes In My Head](https://open.spotify.com/track/54ASGJSgIJqBCUnvLRQsPg) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Echoes In My Head](https://open.spotify.com/album/6BvhFE7TcTiuMaIVRfNp8o) | 4:13 | 2023-11-21 | 2024-03-05 |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
 | [Echoes Of You](https://open.spotify.com/track/6oFhzKeMvRq8LwjpEPYqJc) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Echoes Of You](https://open.spotify.com/album/2sMz70D7NB9J6mCrCbO0vk) | 2:58 | 2024-10-15 | 2025-01-25 |
+| [Eden](https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Eden](https://open.spotify.com/album/7GcYlKoGthIVBMbeqrgSFP) | 3:05 | 2025-07-03 |  |
 | [El Refugio](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [El Refugio](https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf) | 2:49 | 2023-06-26 | 2023-09-26 |
 | [Electric](https://open.spotify.com/track/28GNhpM0YCDZcsvK5N0kSh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Raymond Revel](https://open.spotify.com/artist/17gtjCjxCPFSXyva6MAYts), [Marcus McGarity](https://open.spotify.com/artist/5aWpxrOUPNG6JcpqGB7GTB) | [Electric](https://open.spotify.com/album/7l23aPgNZeWypuV57vLRo6) | 2:09 | 2023-10-12 | 2024-01-26 |
 | [Elevator](https://open.spotify.com/track/4CnJwDkC8qFVCD2Br9a33f) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Ayda Rose](https://open.spotify.com/artist/2nBYwEuuxEIZWKMBAXp2LJ) | [Elevator](https://open.spotify.com/album/3KKyiwupkICfxC8vzwgsnY) | 2:43 | 2024-09-26 | 2024-12-20 |

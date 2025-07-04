@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: F3miii",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Lily Knott",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -4390,6 +4390,24 @@
       "duration_ms": 282758,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn"
+    },
+    {
+      "album": {
+        "name": "right on the money",
+        "url": "https://open.spotify.com/album/2kabo6OeJnvQzvfzJ0ubhG"
+      },
+      "artists": [
+        {
+          "name": "Lily Knott",
+          "url": "https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158092,
+      "name": "right on the money",
+      "url": "https://open.spotify.com/track/0GN9p3uPq4p3OTi7Tltsi6"
     },
     {
       "album": {

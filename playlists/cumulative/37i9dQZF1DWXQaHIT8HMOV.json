@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Akahama",
+        "url": "https://open.spotify.com/album/0H18umJ5egfiWpjkJx7gbT"
+      },
+      "artists": [
+        {
+          "name": "Omega 256",
+          "url": "https://open.spotify.com/artist/4fqAceCbd2x3635AFs6nmD"
+        },
+        {
+          "name": "Yago Pon Dat",
+          "url": "https://open.spotify.com/artist/08qdzXhzuW4QKqql6Fdsjv"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Akahama",
+      "url": "https://open.spotify.com/track/7MNTpwQvSzoHRMBPsKIvAa"
+    },
+    {
+      "album": {
         "name": "Akamuli",
         "url": "https://open.spotify.com/album/5NqUwN0zgmV8oz5hVaEaFb"
       },
@@ -1240,7 +1262,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 180000,
       "name": "Brag Difurenti",
       "url": "https://open.spotify.com/track/2qRfQ3o9A93LCuYNsLz8f5"
@@ -3138,7 +3160,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 141473,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/08NbaJzQmSLatzDlLpJNK8"
@@ -3302,6 +3324,24 @@
       "duration_ms": 69407,
       "name": "It's OK",
       "url": "https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9"
+    },
+    {
+      "album": {
+        "name": "Unscripted",
+        "url": "https://open.spotify.com/album/06SiJklhcFNvCd1U7ZntvX"
+      },
+      "artists": [
+        {
+          "name": "Jenesis Kimera",
+          "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Jaliya",
+      "url": "https://open.spotify.com/track/4CsCHBQtKVH63mvv2JidU7"
     },
     {
       "album": {
@@ -4056,6 +4096,24 @@
       "duration_ms": 178775,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+    },
+    {
+      "album": {
+        "name": "It Speaks",
+        "url": "https://open.spotify.com/album/0ATueo2czgJtwCUiiqQvr2"
+      },
+      "artists": [
+        {
+          "name": "Echoled",
+          "url": "https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168013,
+      "name": "Long Distance Love",
+      "url": "https://open.spotify.com/track/1pdo6I0raWGsL4zjZtf5G5"
     },
     {
       "album": {
@@ -5906,7 +5964,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 202352,
       "name": "Olaba Otya",
       "url": "https://open.spotify.com/track/4cEulGWNUME4qgxvoSY62g"
@@ -7326,7 +7384,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 157087,
       "name": "STAY",
       "url": "https://open.spotify.com/track/0RJq9SuCOulhvSJtM7saFW"
@@ -8348,7 +8406,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 178775,
       "name": "Up Up & Away",
       "url": "https://open.spotify.com/track/6GdLdaP2FBNHRvmGbR5BnQ"
@@ -8874,7 +8932,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 182771,
       "name": "Zonto",
       "url": "https://open.spotify.com/track/2sE11WlM7FqWxMunI6qFyz"

@@ -1,91 +1,51 @@
 {
-  "description": "The best jazz new releases. Cover: GoGo Penguin",
-  "num_followers": 153695,
+  "description": "The best jazz new releases. Cover: Laufey",
+  "num_followers": 153698,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF3C7AAAAADMw8ocOVR9kmvLNv77WdJi",
+  "snapshot_id": "aGb9fQAAAADik3/4KyoEnPXtsF29NBAl",
   "tracks": [
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "Forgive the Damages (feat. Daudi Matsiko)",
-        "url": "https://open.spotify.com/album/6hfOwRTlt7QNBSdUVhr3Mb"
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Cory Weeds Meets Jerry Weldon",
+        "url": "https://open.spotify.com/album/1aSjY1jLHBPxIfCH1Q6Sxu"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
         },
         {
-          "name": "Daudi Matsiko",
-          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
+          "name": "Jerry Weldon",
+          "url": "https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U"
         }
       ],
-      "duration_ms": 250426,
-      "name": "Forgive the Damages (feat. Daudi Matsiko)",
-      "url": "https://open.spotify.com/track/3D2hY0e8WbdJZxkWIgBfZP"
+      "duration_ms": 401851,
+      "name": "One Flight Down",
+      "url": "https://open.spotify.com/track/6MSjTb94GT8FHLNLwVjaT2"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Shore Embrace",
-        "url": "https://open.spotify.com/album/3AtK0w2kbmTRUECltD4Sg5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Leeming",
-          "url": "https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD"
-        },
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 308706,
-      "name": "Shore Embrace",
-      "url": "https://open.spotify.com/track/6aXFqzcC53c1xQMZal6aBR"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Summertime Blue",
-        "url": "https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 210296,
-      "name": "Summertime Blue",
-      "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Words Fall Short",
         "url": "https://open.spotify.com/album/2toluYLW38SlSkSYLHscpR"
@@ -117,7 +77,79 @@
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Stelvio",
+        "url": "https://open.spotify.com/album/5NxtY3R2tsHNP5u3KHqvrr"
+      },
+      "artists": [
+        {
+          "name": "L'Equipe Lab",
+          "url": "https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y"
+        }
+      ],
+      "duration_ms": 269218,
+      "name": "Stelvio",
+      "url": "https://open.spotify.com/track/6KX41B30UbOyQ63bn98GpS"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "DON\u2019T LISTEN",
+        "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 177042,
+      "name": "DON\u2019T LISTEN",
+      "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Sou Kora (Ballak\u00e9 Sissoko, Vincent Segal, Emile Parisien & Vincent Peirani)",
+        "url": "https://open.spotify.com/album/3dXHtglO4eOzd9RI378mmV"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        },
+        {
+          "name": "Vincent Peirani",
+          "url": "https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO"
+        }
+      ],
+      "duration_ms": 348026,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/2h7K0LBQKpytOWcSqidNPH"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Le grand Michel [A Journey With Michel Legrand]",
         "url": "https://open.spotify.com/album/2za9EE6hGweMgMZQeJOToh"
@@ -141,7 +173,59 @@
       "url": "https://open.spotify.com/track/5VF1gPkmlpYuTAiworYLRF"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Green eyes",
+        "url": "https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez"
+      },
+      "artists": [
+        {
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        },
+        {
+          "name": "\u5b88\u771f\u4eba",
+          "url": "https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB"
+        },
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        }
+      ],
+      "duration_ms": 290709,
+      "name": "Green eyes",
+      "url": "https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Necessary Fictions",
+        "url": "https://open.spotify.com/album/5m268XSW8woGIbzi3bPpok"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        },
+        {
+          "name": "Rakhi Singh",
+          "url": "https://open.spotify.com/artist/5TcPHQwyKdZ8fmnlglGKcP"
+        },
+        {
+          "name": "Manchester Collective",
+          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Luminous Giants (feat. Rakhi Singh & Manchester Collective)",
+      "url": "https://open.spotify.com/track/3vuqZI49ke1PTlVx6YYqRg"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Gadabout Season",
         "url": "https://open.spotify.com/album/372tUB50Rip4brrZdUELBQ"
@@ -157,23 +241,7 @@
       "url": "https://open.spotify.com/track/5TnePvtynwyVXjQYbKCsyR"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Stelvio",
-        "url": "https://open.spotify.com/album/5NxtY3R2tsHNP5u3KHqvrr"
-      },
-      "artists": [
-        {
-          "name": "L'Equipe Lab",
-          "url": "https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y"
-        }
-      ],
-      "duration_ms": 269218,
-      "name": "Stelvio",
-      "url": "https://open.spotify.com/track/6KX41B30UbOyQ63bn98GpS"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/5Ay3Yg5k6XI8XJmQcfBEP1"
@@ -189,7 +257,7 @@
       "url": "https://open.spotify.com/track/3SV0Y0zl3pRvDvCxywYn3V"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "dijon",
         "url": "https://open.spotify.com/album/3dBnhzlDUC8TcCSEvUoopc"
@@ -205,55 +273,7 @@
       "url": "https://open.spotify.com/track/4H4EmkuWdkaNcdzGyA0hzf"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Give Me The Simple Life",
-        "url": "https://open.spotify.com/album/1PewQFhopMX5lb0mDQmZox"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 151854,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/4XCqphsGzjEDkGrlygO5cm"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Resurgence",
-        "url": "https://open.spotify.com/album/3HhYHYIbj2ZJS41n5OKS1k"
-      },
-      "artists": [
-        {
-          "name": "Adrien Brandeis",
-          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "Cha Cha Blue",
-      "url": "https://open.spotify.com/track/54dRVBztaSoeKWEtogPLsE"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Open Roads",
         "url": "https://open.spotify.com/album/1Kce7WMsjDvCTvkVplaEdB"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/2jnrol6ATyedXBc8YDxmaG"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Trio [+]",
         "url": "https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP"
@@ -301,87 +321,47 @@
       "url": "https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "Dream Manifest",
-        "url": "https://open.spotify.com/album/4NRmmJqFrnn3tM6aI5xwQq"
+        "name": "Summertime Blue",
+        "url": "https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW"
       },
       "artists": [
         {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         },
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 223102,
-      "name": "one pillow",
-      "url": "https://open.spotify.com/track/7tOLgvowU2OcA1gx44mpxz"
+      "duration_ms": 210296,
+      "name": "Summertime Blue",
+      "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "cozy you",
-        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
+        "name": "Shore Embrace",
+        "url": "https://open.spotify.com/album/3AtK0w2kbmTRUECltD4Sg5"
       },
       "artists": [
         {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 210734,
-      "name": "cozy you",
-      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Necessary Fictions",
-        "url": "https://open.spotify.com/album/5m268XSW8woGIbzi3bPpok"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Jamie Leeming",
+          "url": "https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD"
         },
         {
-          "name": "Rakhi Singh",
-          "url": "https://open.spotify.com/artist/5TcPHQwyKdZ8fmnlglGKcP"
-        },
-        {
-          "name": "Manchester Collective",
-          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 308510,
-      "name": "Luminous Giants (feat. Rakhi Singh & Manchester Collective)",
-      "url": "https://open.spotify.com/track/3vuqZI49ke1PTlVx6YYqRg"
+      "duration_ms": 308706,
+      "name": "Shore Embrace",
+      "url": "https://open.spotify.com/track/6aXFqzcC53c1xQMZal6aBR"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "DON\u2019T LISTEN",
-        "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 177042,
-      "name": "DON\u2019T LISTEN",
-      "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "SuperBlue: Guilty Pleasures Vol.2",
         "url": "https://open.spotify.com/album/61ZEyhZnDr3b9ATQR28K3b"
@@ -413,7 +393,7 @@
       "url": "https://open.spotify.com/track/3frUZT6MoR0Xn76FDnQev8"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Warrior Princess",
         "url": "https://open.spotify.com/album/2HT5wyg1UfnaoGyX3LAB6N"
@@ -441,7 +421,7 @@
       "url": "https://open.spotify.com/track/7Bnq7r5Dx0zJqK6iJsMqkJ"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "La Sultane",
         "url": "https://open.spotify.com/album/2M4u22iX7ILonKwGeuUTLw"
@@ -457,7 +437,7 @@
       "url": "https://open.spotify.com/track/3oURBM4IElFdZnOxH4jK3Z"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Luc\u00eda",
         "url": "https://open.spotify.com/album/0jEIDaWNl4OHLebprJV0Y7"
@@ -473,7 +453,39 @@
       "url": "https://open.spotify.com/track/3FM9BLbEOSQYBVIwt778yL"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Give Me The Simple Life",
+        "url": "https://open.spotify.com/album/1PewQFhopMX5lb0mDQmZox"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 151854,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/4XCqphsGzjEDkGrlygO5cm"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Resurgence",
+        "url": "https://open.spotify.com/album/3HhYHYIbj2ZJS41n5OKS1k"
+      },
+      "artists": [
+        {
+          "name": "Adrien Brandeis",
+          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "Cha Cha Blue",
+      "url": "https://open.spotify.com/track/54dRVBztaSoeKWEtogPLsE"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Ain't I Good For You",
         "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
@@ -489,7 +501,7 @@
       "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Joking",
         "url": "https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU"
@@ -505,7 +517,67 @@
       "url": "https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Forgive the Damages (feat. Daudi Matsiko)",
+        "url": "https://open.spotify.com/album/6hfOwRTlt7QNBSdUVhr3Mb"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        },
+        {
+          "name": "Daudi Matsiko",
+          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
+        }
+      ],
+      "duration_ms": 250426,
+      "name": "Forgive the Damages (feat. Daudi Matsiko)",
+      "url": "https://open.spotify.com/track/3D2hY0e8WbdJZxkWIgBfZP"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Dream Manifest",
+        "url": "https://open.spotify.com/album/4NRmmJqFrnn3tM6aI5xwQq"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "duration_ms": 223102,
+      "name": "one pillow",
+      "url": "https://open.spotify.com/track/7tOLgvowU2OcA1gx44mpxz"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "cozy you",
+        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 210734,
+      "name": "cozy you",
+      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Chanson des jumelles (Extract from \"Le grand Michel\", a tribute to Michel Legrand)",
         "url": "https://open.spotify.com/album/0YhKNWMJbxkkI9oqrZHvIf"
@@ -529,7 +601,7 @@
       "url": "https://open.spotify.com/track/1A2JmqJl0SCxdNvy6H6QNs"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/69yNXbOQvJL2L4UgrxEtDE"
@@ -545,7 +617,7 @@
       "url": "https://open.spotify.com/track/0G9vxVYlXghPUNA8cLvdK7"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Kismet",
         "url": "https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48"
@@ -561,7 +633,7 @@
       "url": "https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "VIII. The Prophet",
         "url": "https://open.spotify.com/album/0oPFH0xBYZAb1TW9fxFIqh"
@@ -577,7 +649,7 @@
       "url": "https://open.spotify.com/track/29oPWlyS8RmvYJ5MK3trL8"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Spore",
         "url": "https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz"
@@ -593,7 +665,7 @@
       "url": "https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/1M1bKed4pggAuwqZxf8Oh7"
@@ -613,7 +685,7 @@
       "url": "https://open.spotify.com/track/1d9pydw2dYVAWb0oBMGCGD"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Bird's Lament",
         "url": "https://open.spotify.com/album/64Cp12UG8l8iS17aslylyT"
@@ -637,7 +709,7 @@
       "url": "https://open.spotify.com/track/36s90dZXdOE7IO4MRgPWtM"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "cozy you (and other nice songs)",
         "url": "https://open.spotify.com/album/2ASSjCHJDdOzKIgDkLkcgQ"
@@ -653,7 +725,7 @@
       "url": "https://open.spotify.com/track/4RSrv5ZjdCwPnq1AbW6Owk"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Shifting Lights",
         "url": "https://open.spotify.com/album/13HjPRx2MX9Hy7EmyC3uF3"
@@ -673,23 +745,7 @@
       "url": "https://open.spotify.com/track/0Ty1CoO9OMldlQ6QYUiokr"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "Communion",
-        "url": "https://open.spotify.com/album/2ljsWrtbL0hv7DNsww4Ox7"
-      },
-      "artists": [
-        {
-          "name": "Georgia C\u00e9cile",
-          "url": "https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa"
-        }
-      ],
-      "duration_ms": 244789,
-      "name": "Communion",
-      "url": "https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Essence and Elements",
         "url": "https://open.spotify.com/album/1feCfqResEBa78CKM9SY4k"
@@ -705,7 +761,7 @@
       "url": "https://open.spotify.com/track/4DFGTVgNDKVGvU6KBiA3d5"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Paper Can't Wrap Fire",
         "url": "https://open.spotify.com/album/22sHzBwbtdw2SRXQGNfpvc"
@@ -725,7 +781,7 @@
       "url": "https://open.spotify.com/track/5RWWXIMjptVgsJoFitd92e"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Rock With You",
         "url": "https://open.spotify.com/album/3znUwosEsjcKgqoMlUMVl6"
@@ -745,7 +801,7 @@
       "url": "https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Bread (butter version)",
         "url": "https://open.spotify.com/album/1Gqy3cQoOXViM50jxHJy7A"
@@ -765,7 +821,7 @@
       "url": "https://open.spotify.com/track/5KGQivNF69wOcgwHEeqKV3"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Trio [+]",
         "url": "https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP"
@@ -781,7 +837,7 @@
       "url": "https://open.spotify.com/track/7fT9VOOaFKZwfTTJjEeCO0"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/474Uyi26015FGtTD8Yt9bo"
@@ -797,7 +853,7 @@
       "url": "https://open.spotify.com/track/5o9cHU7M3JidcDCosNDqWt"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Ten Little Minutes",
         "url": "https://open.spotify.com/album/1LPq4OVMmTlXn6PZ3Tw5l4"
@@ -813,7 +869,7 @@
       "url": "https://open.spotify.com/track/4nw894W61lrqNH9KnH3yvU"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/6enfXcw65fIqoHixEdjBgw"
@@ -829,7 +885,7 @@
       "url": "https://open.spotify.com/track/5CRr47xx61qWJPEVXzwkjh"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/035yepiN7B62MlmvsCOcwO"
@@ -849,7 +905,7 @@
       "url": "https://open.spotify.com/track/2hSQo1X4jYhvjM7DLBOVDc"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "That Doesn't Matter",
         "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
@@ -865,43 +921,7 @@
       "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "The Panorama Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 360299,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
-      "album": {
-        "name": "La femme aux yeux de sel",
-        "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        },
-        {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        }
-      ],
-      "duration_ms": 261026,
-      "name": "Love High (feat. Laurent Bardainne)",
-      "url": "https://open.spotify.com/track/0ZDKm5QVqcMFmp1Wv4oYrq"
-    },
-    {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Une Histoire \u00e0 Trois (Music from \"Une histoire \u00e0 soi\")",
         "url": "https://open.spotify.com/album/16aMqG3iFEa3nUKTwluARa"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/6eSmjKqPHWAAWIt6I2qgmh"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Gadabout Season",
         "url": "https://open.spotify.com/album/6dqczzcOgNJro0Nv3rB9FS"
@@ -941,7 +961,7 @@
       "url": "https://open.spotify.com/track/3CbgZjjdLxd1tr5p4Gt6Q9"
     },
     {
-      "added_at": "2025-06-26 22:00:12",
+      "added_at": "2025-07-03 22:00:29",
       "album": {
         "name": "Requiem for a Nomad King, Vol.1",
         "url": "https://open.spotify.com/album/1kh5DfoQmTYuTVkB76JgCB"

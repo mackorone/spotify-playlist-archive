@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX351Wyvsvwou.md) - [plain]
 
 > The most villainous songs from the Marvel Cinematic Universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,972 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,984 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

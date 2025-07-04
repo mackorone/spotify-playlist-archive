@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 211620,
       "name": "Change - Edit",
       "url": "https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 118604,
       "name": "Ching",
       "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
@@ -3880,6 +3880,28 @@
       "duration_ms": 185786,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
+    },
+    {
+      "album": {
+        "name": "Hypnotised",
+        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202787,
+      "name": "Hypnotised (feat. Linden Jay)",
+      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
     },
     {
       "album": {
@@ -7550,6 +7572,24 @@
       "duration_ms": 239516,
       "name": "Something",
       "url": "https://open.spotify.com/track/09JK4BIORhSc1xkN73dMUR"
+    },
+    {
+      "album": {
+        "name": "Soon We Will Reminisce",
+        "url": "https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127235,
+      "name": "Soon We Will Reminisce",
+      "url": "https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: GoGo Penguin",
+  "description": "The best jazz new releases. Cover: Laufey",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2103,6 +2103,32 @@
     },
     {
       "album": {
+        "name": "Sou Kora (Ballak\u00e9 Sissoko, Vincent Segal, Emile Parisien & Vincent Peirani)",
+        "url": "https://open.spotify.com/album/3dXHtglO4eOzd9RI378mmV"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        },
+        {
+          "name": "Vincent Peirani",
+          "url": "https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348026,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/2h7K0LBQKpytOWcSqidNPH"
+    },
+    {
+      "album": {
         "name": "Can You Believe",
         "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
       },
@@ -3022,7 +3048,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 244789,
       "name": "Communion",
       "url": "https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ"
@@ -5508,6 +5534,36 @@
       "duration_ms": 169500,
       "name": "Great Wind - Radio Edit",
       "url": "https://open.spotify.com/track/7k620TJe42bIg16RE51EZ4"
+    },
+    {
+      "album": {
+        "name": "Green eyes",
+        "url": "https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez"
+      },
+      "artists": [
+        {
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        },
+        {
+          "name": "\u5b88\u771f\u4eba",
+          "url": "https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB"
+        },
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290709,
+      "name": "Green eyes",
+      "url": "https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl"
     },
     {
       "album": {
@@ -8470,7 +8526,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 261026,
       "name": "Love High (feat. Laurent Bardainne)",
       "url": "https://open.spotify.com/track/0ZDKm5QVqcMFmp1Wv4oYrq"
@@ -10392,6 +10448,28 @@
       "duration_ms": 191037,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "album": {
+        "name": "Cory Weeds Meets Jerry Weldon",
+        "url": "https://open.spotify.com/album/1aSjY1jLHBPxIfCH1Q6Sxu"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        },
+        {
+          "name": "Jerry Weldon",
+          "url": "https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401851,
+      "name": "One Flight Down",
+      "url": "https://open.spotify.com/track/6MSjTb94GT8FHLNLwVjaT2"
     },
     {
       "album": {
@@ -12684,7 +12762,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 360299,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"

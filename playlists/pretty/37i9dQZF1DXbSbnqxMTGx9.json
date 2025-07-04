@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3127840,
+  "num_followers": 3128136,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Reggae Greats - Toots & The Maytals",
-        "url": "https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Song Book: Chapter a Day",
         "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Definitive Collection: You Can Get It If You Really Want",
         "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 155986,
       "name": "Israelites",
       "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Poor Man Style",
+        "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Poor Man Style",
-        "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
+        "name": "Police And Thieves",
+        "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
       },
       "artists": [
         {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
+      "duration_ms": 244306,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1619,22 +1635,6 @@
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "The Melodians",
-          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW"
     }
   ],
   "unique_name": "Reggae Classics",

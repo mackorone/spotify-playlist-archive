@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 877 songs - 2 day 6 hr 43 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 878 songs - 2 day 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -885,5 +885,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 875 | [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 |
 | 876 | [Chasing Paper](https://open.spotify.com/track/6B5nQ7VXNyyE3fIKPfpmWh) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 3:16 |
 | 877 | [BIRDBRAIN](https://open.spotify.com/track/2DAZakhs7RRCoM6pvLpUEz) | [Jamie Paige](https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf), [OK Glass](https://open.spotify.com/artist/5QDqD7M7ktRDfzXJWbYolF) | [BIRDBRAIN](https://open.spotify.com/album/2bulp48ZEhzuUk9d4wkZgD) | 4:16 |
+| 878 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 |
 
-Snapshot ID: `AAAHEqKSkF7vb75JRoLuSu5vkMnQIq1x`
+Snapshot ID: `AAAHEwBK+X1ADi8ACKUPes5E2EA4ws+g`

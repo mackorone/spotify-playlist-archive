@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Twenty One Pilots
+> The UK's biggest rock playlist\. Cover: Foo Fighters
 
-997 songs - 2 day 7 hr 28 min
+999 songs - 2 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Glue](https://open.spotify.com/track/21rQgTvx0rD9kOdFMRGQjC) | [About Bunny](https://open.spotify.com/artist/5Ywb0MRsHQdzngYBTZyuf9) | [Glue](https://open.spotify.com/album/6W8AJFYRwG0vCbf3qC3Pfj) | 2:42 | 2024-03-08 | 2024-03-09 |
 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 | 2023-02-10 | 2023-07-07 |
 | [God Bless The 90s Kids](https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless The 90s Kids](https://open.spotify.com/album/3Lkvkg3nT9rfdv4pHsseCt) | 3:23 | 2023-02-10 | 2023-02-13 |
+| [GOD SAVE THE PONY.](https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/33oory27UshNhxTd1HmiHZ) | 3:09 | 2025-07-03 |  |
 | [God Save The Queens](https://open.spotify.com/track/5gYbg3Tj7FwPGTljJ6oWEb) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [God Save The Queens](https://open.spotify.com/album/4OGSbnTYEyXYYQL7j0q10x) | 2:25 | 2025-01-31 | 2025-05-09 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-01-27 | 2023-03-31 |
 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 | 2023-05-18 | 2023-07-28 |
@@ -792,7 +793,7 @@
 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 | 2025-03-13 | 2025-06-20 |
 | [Sorry](https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 3:02 | 2024-05-30 | 2024-09-21 |
 | [SORRY I'M LATE](https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [SORRY I'M LATE](https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us) | 3:15 | 2024-10-10 | 2025-05-09 |
-| [Sorry, Etc, Etc \(feat\. Joe Talbot\)](https://open.spotify.com/track/3dp2fUlKaGg0ZIja4Aynyq) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Sorry, Etc, Etc \(feat\. Joe Talbot\)](https://open.spotify.com/album/5ypSUd4dTxio0OCyBuYbDN) | 2:06 | 2025-03-13 |  |
+| [Sorry, Etc, Etc \(feat\. Joe Talbot\)](https://open.spotify.com/track/3dp2fUlKaGg0ZIja4Aynyq) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Sorry, Etc, Etc \(feat\. Joe Talbot\)](https://open.spotify.com/album/5ypSUd4dTxio0OCyBuYbDN) | 2:06 | 2025-03-13 | 2025-07-04 |
 | [Sour Milk](https://open.spotify.com/track/2RZ7FUkeNqfZmIyjeB9P63) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [New Wave Vaudeville](https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7) | 3:23 | 2025-01-17 | 2025-04-04 |
 | [Spades](https://open.spotify.com/track/1KKJZCtjS3oHLhphrssLtw) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Spades](https://open.spotify.com/album/56Jq5qTNs3dsm3bYrhj7Hp) | 5:54 | 2025-01-17 | 2025-04-11 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-10 | 2025-01-24 |
@@ -897,6 +898,7 @@
 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 | 2024-03-15 | 2024-07-05 |
 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 | 2024-10-03 | 2025-01-17 |
 | [To live in a different way](https://open.spotify.com/track/65Dlo5TaWyYwDlAQjbb7ws) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [To Live in a Different Way](https://open.spotify.com/album/6K3FQUoE7CVh1eZ8BlRHk6) | 4:23 | 2024-10-24 | 2025-01-17 |
+| [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 |  |
 | [Token Appreciation Society](https://open.spotify.com/track/7h93bsTZBsTqVWQjLEP1M8) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Token Appreciation Society](https://open.spotify.com/album/0qrfFlQZxrYP8SjP3u0bsn) | 3:30 | 2023-05-25 | 2023-07-14 |
 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-06-29 | 2023-07-28 |
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2023-11-17 | 2024-04-19 |

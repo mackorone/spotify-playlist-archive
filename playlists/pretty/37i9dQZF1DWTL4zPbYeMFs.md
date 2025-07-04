@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,415 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,454 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 69 | [Raanjhan Aaya](https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Raanjhan Aaya](https://open.spotify.com/album/1D42KMvs4ntxc04oXyY7cJ) | 2:43 |
 | 70 | [Prem Ratan Dhan Payo](https://open.spotify.com/track/5HGXuAy0YA1GBRkAny0cvV) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Prem Ratan Dhan Payo](https://open.spotify.com/album/4lq1ltuWHX49J7cFy6Pr8z) | 5:19 |
 | 71 | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\)](https://open.spotify.com/track/3jyqXdAjwqO3gFtjnYrbq9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\) \- Single](https://open.spotify.com/album/3UWRB8JT1OrMhx9diCj31y) | 2:35 |
-| 72 | [Kiven Mukhde](https://open.spotify.com/track/5viXBM2QhXauTn7tivpku4) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kiven Mukhde](https://open.spotify.com/album/36vZhp7aghBacWMl3Jzeh6) | 4:50 |
-| 73 | [Chup Chup Ke](https://open.spotify.com/track/2C6l8EGcbfcLXu0mWfAadB) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Bunty Aur Babli](https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9) | 7:13 |
+| 72 | [Chup Chup Ke](https://open.spotify.com/track/2C6l8EGcbfcLXu0mWfAadB) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Bunty Aur Babli](https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9) | 7:13 |
+| 73 | [Kiven Mukhde](https://open.spotify.com/track/5viXBM2QhXauTn7tivpku4) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kiven Mukhde](https://open.spotify.com/album/36vZhp7aghBacWMl3Jzeh6) | 4:50 |
 | 74 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 75 | [Tum Se](https://open.spotify.com/track/0pDiRD9YE6PZBBgjMyezvk) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Indraneel](https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 4:24 |
 

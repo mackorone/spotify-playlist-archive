@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-89 songs - 5 hr 43 min
+90 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,10 +40,11 @@
 | [Kadal Alai](https://open.spotify.com/track/1hGfjnEdTOrNIWNOvD9mmK) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi) | [Kadal Alai](https://open.spotify.com/album/4bnki9Z6qFFuTkvBejr1jV) | 3:18 | 2023-09-29 | 2024-01-10 |
 | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/track/28xBzzDqiX1oieW4RTxtZ5) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/album/3Yt9ODAktNpEBbSL5YuYSp) | 3:44 | 2023-09-06 | 2024-04-19 |
 | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO) | 3:44 | 2023-09-06 | 2024-06-07 |
+| [Kadhal Idhudhano](https://open.spotify.com/track/2hga7vNDaFDUeeh49VZFhw) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kadhal Idhudhano](https://open.spotify.com/album/5du5L2aDzTNj3NzMgPXJZH) | 2:47 | 2025-07-03 |  |
 | [Kadhal Kannadi](https://open.spotify.com/track/5fDpnjjYDR2TIsdRvBLOtM) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Kadhal Kannadi](https://open.spotify.com/album/7q2Z7GLKuMbeKMpdigQ0W9) | 3:39 | 2023-12-22 | 2024-04-24 |
 | [Kadhal Vandhu](https://open.spotify.com/track/0dQbBeFwLWebWL1GtEurFr) | [Soundarya Bala Nandakumar](https://open.spotify.com/artist/1O6cydr7vk4hJk2OkLECd0), [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Kadhal Vandhu](https://open.spotify.com/album/6zi5AqYPtonbBZo9dqhPrY) | 4:03 | 2021-12-01 |  |
 | [Kanave Kalayathe](https://open.spotify.com/track/0AgDGpvT9dtM2ZfAMejHC8) | [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK) | [Kanave Kalayathe](https://open.spotify.com/album/2sQIdNNlcMNyG5Ml6Xch6v) | 5:08 | 2021-12-01 | 2024-04-05 |
-| [Kanavellam](https://open.spotify.com/track/3YxK4m96nKH7Vw3vX1B04p) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2) | [Kanavellam](https://open.spotify.com/album/1PA3JsfwH3N8TRnuSwWIlw) | 4:36 | 2021-12-01 |  |
+| [Kanavellam](https://open.spotify.com/track/3YxK4m96nKH7Vw3vX1B04p) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2) | [Kanavellam](https://open.spotify.com/album/1PA3JsfwH3N8TRnuSwWIlw) | 4:36 | 2021-12-01 | 2025-07-04 |
 | [Kannale Kollathe](https://open.spotify.com/track/3MJk5YJszXWtoHUgX1E1hF) | [Havoc Mathan](https://open.spotify.com/artist/2IN8qLfCFoORFJKagOHLhi), [Havoc Naven](https://open.spotify.com/artist/5ZWUML76b3ZPdKdYXm0cNf) | [Best of Havoc Brothers](https://open.spotify.com/album/666d9PNXmiyefgWdJpZbgG) | 4:22 | 2021-12-01 | 2024-01-24 |
 | [Kanne Kanne \- Madras Gig](https://open.spotify.com/track/6FJamQryHRITSdGXQFsWyg) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Kanne Kanne \(Madras Gig\)](https://open.spotify.com/album/17hK4Nc2qrolDYIOlypJEB) | 3:51 | 2021-12-01 |  |
 | [Kannoram \- From Naam Series](https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [T Suriavelan](https://open.spotify.com/artist/62pHLcXg1Hp1QaiX3l1IsR), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kannoram \(From Naam Series\)](https://open.spotify.com/album/0OX03EF2d7QRRzx8YtANXQ) | 5:21 | 2023-02-06 |  |

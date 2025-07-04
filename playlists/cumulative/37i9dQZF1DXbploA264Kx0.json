@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Denzel Cheng",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 228705,
       "name": "Baby Cakes",
       "url": "https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y"
@@ -1222,6 +1222,28 @@
       "duration_ms": 223033,
       "name": "Dating Me Ain't Hard",
       "url": "https://open.spotify.com/track/29EPMooH1QgiHLd3123r4x"
+    },
+    {
+      "album": {
+        "name": "Dirty Work (Remixes)",
+        "url": "https://open.spotify.com/album/4DHRX1aeRymfsbHLebmn0D"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201454,
+      "name": "Dirty Work - RayRay Remix",
+      "url": "https://open.spotify.com/track/5CSn4WlKlijWEpMO73lQN0"
     },
     {
       "album": {
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 149000,
       "name": "imma\u81fa\u5317beach",
       "url": "https://open.spotify.com/track/7rSXIlYbbLpYiIOCehUxmA"
@@ -5475,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "SUMIMASEN",
+        "url": "https://open.spotify.com/album/5Ciou635JAW5lQQJeBHp1Y"
+      },
+      "artists": [
+        {
+          "name": "Denzel Cheng",
+          "url": "https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135737,
+      "name": "SUMIMASEN",
+      "url": "https://open.spotify.com/track/0QZaRiCIgwS0ZUeK5JPpDs"
+    },
+    {
+      "album": {
         "name": "Summer Air",
         "url": "https://open.spotify.com/album/7quOmb4hatkPI8w09TcYki"
       },
@@ -6588,6 +6628,28 @@
       "duration_ms": 272083,
       "name": "You Better Kiss Me ( feat.LINION )",
       "url": "https://open.spotify.com/track/4vw5HnGzn2eRiciecr3xxd"
+    },
+    {
+      "album": {
+        "name": "YOU JUST WANT TO BE IN MY BODY",
+        "url": "https://open.spotify.com/album/7BwFzuheBYDcI3Tu8f5BVt"
+      },
+      "artists": [
+        {
+          "name": "EMI CHEOW",
+          "url": "https://open.spotify.com/artist/2Aq7MZEBSyd9EPADwqHurs"
+        },
+        {
+          "name": "CED",
+          "url": "https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "YOU JUST WANT TO BE IN MY BODY",
+      "url": "https://open.spotify.com/track/2a0dCWKZrPOxuQcYJe7FUR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla.
 
-314 songs - 15 hr 48 min
+315 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [La Regla \- Remasterizado 2025](https://open.spotify.com/track/2jc6rLVLgdf6Bj2IsHs6UW) | [Kostramorfosis](https://open.spotify.com/artist/6sgUGQHbusS6tWOhCi4gdM) | [La Regla \(Remasterizado 2025\)](https://open.spotify.com/album/1mRc53ufKGUI125a5PRo9b) | 2:14 | 2025-02-13 | 2025-03-28 |
 | [La Sombra](https://open.spotify.com/track/0l7EEoDWt4JiSE9r1DcaZk) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [La Sombra](https://open.spotify.com/album/1ddstLl034u82ef2kHcZrG) | 2:26 | 2025-02-13 | 2025-03-14 |
 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 | 2023-12-08 |  |
-| [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 | 2024-06-20 |  |
+| [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 | 2024-06-20 | 2025-07-04 |
 | [Las Drogas](https://open.spotify.com/track/5FEew7u4cqGOYK4jGhKd73) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/0r9tLzqnnPw9CcK9pb6056) | 2:22 | 2023-12-08 | 2024-04-19 |
 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 | 2024-05-09 | 2025-02-14 |
 | [Libre y Salvaje](https://open.spotify.com/track/2t7r2yemAOH1Bua8VAjcst) | [Bicho Papão](https://open.spotify.com/artist/5RKgBCziINv0ItycupgH3U), [Presión](https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI) | [Libre y Salvaje](https://open.spotify.com/album/1kl7bpPTQQaFBr8wG6iKdS) | 3:16 | 2025-01-09 | 2025-02-08 |
@@ -200,6 +200,7 @@
 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 | 2023-12-08 | 2024-04-19 |
 | [Mundo de Cristal](https://open.spotify.com/track/6dPn0p47M5HxVaAZlXH3rg) | [Nervio](https://open.spotify.com/artist/1R2eVRmyJMD00TKq3uNMCz) | [Mundo de Cristal](https://open.spotify.com/album/1nAIRZ7iXX2RknnfSSswKf) | 2:38 | 2025-06-05 |  |
 | [Mundo Muerto](https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [EtsaiakEroak](https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6) | [Mundo Muerto](https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei) | 2:37 | 2024-08-16 | 2025-01-04 |
+| [Murciana](https://open.spotify.com/track/1P23A8i7pYRCbsrJrsbvSt) | [Los Webelos](https://open.spotify.com/artist/5jbMbHJ2oBy927oqGesw3k) | [Fetichisme](https://open.spotify.com/album/1W1ebsrIKfIZFg54OoHd3g) | 1:51 | 2025-07-02 |  |
 | [Mártir en Prisión](https://open.spotify.com/track/3c4FJdR3vgWqsMJiqu9Mqt) | [A Granel](https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M) | [Apaga y Vámonos](https://open.spotify.com/album/39r6Qd8zBeDEmYhwcyzxIW) | 2:41 | 2025-01-16 | 2025-02-08 |
 | [Nada es Suficiente](https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Nada es Suficiente](https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA) | 3:32 | 2025-04-24 |  |
 | [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 | 2024-05-23 | 2025-02-14 |

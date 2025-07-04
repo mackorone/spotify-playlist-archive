@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: HODARI",
-  "num_followers": 371044,
+  "num_followers": 371037,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,30 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
+        "name": "Imaginando Aquele Dia",
+        "url": "https://open.spotify.com/album/20XHwLB5MwITbzqQ6ITZpR"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "Imaginando Aquele Dia",
+      "url": "https://open.spotify.com/track/6WVzOH9YzOPJg6Q9BAEMVb"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
         "name": "Supostamente",
         "url": "https://open.spotify.com/album/0QRc2o7nY438LOAMB997pn"
       },
@@ -555,22 +579,6 @@
       "duration_ms": 185000,
       "name": "Supostamente",
       "url": "https://open.spotify.com/track/0aCnTf7i406SHv5XWw5w8R"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
-        "name": "Megalomania",
-        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 159637,
-      "name": "Pelo Avesso",
-      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -603,26 +611,18 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "Imaginando Aquele Dia",
-        "url": "https://open.spotify.com/album/20XHwLB5MwITbzqQ6ITZpR"
+        "name": "Megalomania",
+        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
         }
       ],
-      "duration_ms": 153088,
-      "name": "Imaginando Aquele Dia",
-      "url": "https://open.spotify.com/track/6WVzOH9YzOPJg6Q9BAEMVb"
+      "duration_ms": 159637,
+      "name": "Pelo Avesso",
+      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
         "name": "Sintomas de Prazer - Live",
         "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 151103,
       "name": "Sintomas de Prazer - Live",
       "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -975,6 +975,26 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
         "name": "Leoa do Asfalto",
         "url": "https://open.spotify.com/album/0UxqYcrRyinpMMf0osL6YJ"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 173397,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/7kDQV2MzhzRGHeLrB09zMA"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "Uma Nova Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/1z7Wa5c7djeu9k157UPKlg"
-      },
-      "artists": [
-        {
-          "name": "Stefan Baby",
-          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 146125,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/2SYg5OXAYvCkpJUsImBsnc"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
         "name": "Pra todo mundo que \u00e9 emocionado",
         "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
+        "name": "Uma Nova Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1z7Wa5c7djeu9k157UPKlg"
+      },
+      "artists": [
+        {
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/2SYg5OXAYvCkpJUsImBsnc"
     },
     {
       "added_at": "2025-06-20 08:08:03",

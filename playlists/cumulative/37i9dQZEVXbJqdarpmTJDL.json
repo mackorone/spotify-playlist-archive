@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 177066,
       "name": "24ora",
       "url": "https://open.spotify.com/track/3zZDBxEvVTFbkyLgBzpYSv"
@@ -17956,7 +17956,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 172816,
       "name": "Graffiti",
       "url": "https://open.spotify.com/track/72F8Vzk3VP5VjnKD6xNwFF"
@@ -22859,6 +22859,32 @@
     },
     {
       "album": {
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Kid Young",
+          "url": "https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "KONTEVW",
+      "url": "https://open.spotify.com/track/4hSKkLxvckNq8iEz32ojGW"
+    },
+    {
+      "album": {
         "name": "ALEQUAN",
         "url": "https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl"
       },
@@ -22896,6 +22922,28 @@
       "duration_ms": 172388,
       "name": "Kotera",
       "url": "https://open.spotify.com/track/3f7zVrAcCZ1BVlArmg8wzr"
+    },
+    {
+      "album": {
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "KOUKLA",
+      "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
     },
     {
       "album": {
@@ -30484,7 +30532,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 206557,
       "name": "Nisia",
       "url": "https://open.spotify.com/track/50zuHqsc1lnNTu5txaci1T"
@@ -35367,7 +35415,7 @@
     },
     {
       "album": {
-        "name": "Proti Fora",
+        "name": "PROTI FORA",
         "url": "https://open.spotify.com/album/2aIDC0j3fJvA31vjPXQhe8"
       },
       "artists": [
@@ -35380,7 +35428,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193777,
-      "name": "Proti Fora",
+      "name": "PROTI FORA",
       "url": "https://open.spotify.com/track/0orfP9WmV030xZoVcLyaf8"
     },
     {
@@ -46482,7 +46530,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

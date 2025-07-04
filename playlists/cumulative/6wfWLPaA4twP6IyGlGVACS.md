@@ -4,7 +4,7 @@
 
 > 
 
-45 songs - 3 hr 21 min
+46 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 | 2025-05-21 |  |
 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 | 2025-05-24 |  |
 | [Venom's In](https://open.spotify.com/track/615u2jmS82Kj2SFPC4uXg2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Sinister Grift](https://open.spotify.com/album/7dQ09jOwQBuBcm6qRBQcP9) | 4:52 | 2025-05-21 |  |
+| [World of Her Own](https://open.spotify.com/track/0QmmhK70ay0aWqxY1M9kFM) | [The Wake](https://open.spotify.com/artist/39aYm70XPfUpkMIKSfeeig) | [Here Comes Everybody + Singles](https://open.spotify.com/album/1RD5PJpSa2wCcp8cy99iNF) | 2:53 | 2025-07-03 |  |
 | [You Shadow](https://open.spotify.com/track/6F09XWGVJ8ZCyAp3QGamP2) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:14 | 2025-06-03 |  |
 
 \*This playlist was first scraped on 2025-06-04. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como CAROLINA DE DEUS e explora as músicas escolhidas pelos nossos editores.
 
-1,167 songs - 2 day 16 hr 10 min
+1,173 songs - 2 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Fica mais perto](https://open.spotify.com/track/6caXHMRwfsBxriDv4nuKrO) | [Isaura](https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F) | [Invisível](https://open.spotify.com/album/2P8mavYSagkKY59yvQxLX3) | 3:53 | 2023-04-04 | 2023-06-07 |
 | [Fica Mais Um Pouco](https://open.spotify.com/track/0BKlD2EIkCiMFCaAkaMfdd) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Fica Mais Um Pouco](https://open.spotify.com/album/1sBE475AcbCUYyP7QHud24) | 3:27 | 2023-01-04 | 2023-02-03 |
 | [Ficar](https://open.spotify.com/track/0it2gkUSLcQi5z6Lhy8Pdw) | [Santamaria](https://open.spotify.com/artist/6GKXFL39v12NDQG8vttcRo) | [Ficar](https://open.spotify.com/album/2UlnIjqSyo4OGFWqNDoAN8) | 4:09 | 2024-02-07 | 2024-03-06 |
+| [Ficar Por Cima](https://open.spotify.com/track/4FbFdhugp8J1gEAKoyNVgC) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Ficar Por Cima](https://open.spotify.com/album/5lKdTetLS6JNpekrmmMLMT) | 2:51 | 2025-07-01 |  |
 | [Ficou Tudo Bem](https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Ficou Tudo Bem](https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC) | 3:23 | 2023-04-04 | 2023-06-07 |
 | [Fidalgo](https://open.spotify.com/track/0MMgqdOL4k8MrAPv6GTm3t) | [Eneida Marta](https://open.spotify.com/artist/0vdtQahAxzU1jvuyer6ppS) | [Family](https://open.spotify.com/album/7ncvnP1iGl6GbuA5PnjGNQ) | 4:23 | 2022-11-02 | 2022-12-01 |
 | [Figure Me Out](https://open.spotify.com/track/33KcVTPkDJfxaj9R4UEjhs) | [Niko](https://open.spotify.com/artist/60F6GZlScfppuKQn9hvGTr) | [Figure Me Out](https://open.spotify.com/album/2f0MSLZA9bIXlj4Z2WUeOv) | 3:16 | 2023-07-04 | 2023-10-04 |
@@ -551,6 +552,7 @@
 | [Lugar Certo](https://open.spotify.com/track/1DBRiPLbtu6YTQeJR4P5Yf) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Lugar Certo](https://open.spotify.com/album/1c69CJyxlwgGOqruz6BpOy) | 2:55 | 2022-10-04 | 2022-12-01 |
 | [Lugar Especial](https://open.spotify.com/track/5tzWHOKqmJ0voNn6JYm5Za) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Lugar Especial](https://open.spotify.com/album/3gQ4AccZt8eYamjH4nEHw8) | 3:35 | 2024-01-10 | 2024-03-06 |
 | [Luvas no Chão](https://open.spotify.com/track/3Mrmtfa42y3dQRwYCbINcV) | [Rossana](https://open.spotify.com/artist/372srPZ3LinDUNQlKetVFL) | [Luvas No Chão](https://open.spotify.com/album/0tFX5UDRYWw9cAyH8eAebF) | 4:45 | 2023-06-06 | 2023-07-05 |
+| [Luz do Sol](https://open.spotify.com/track/1qHV73KRlTQELGjIU5YINv) | [Lurdes Miranda](https://open.spotify.com/artist/5XHv4t7qG8d635Hf0a4Dk3) | [Luz do Sol](https://open.spotify.com/album/3bUeinLl6EnC7DCgzx08jd) | 4:00 | 2025-07-01 |  |
 | [Luz no Escuro](https://open.spotify.com/track/3wZ0wW5EcqvRkV24BwIFdm) | [MaZela](https://open.spotify.com/artist/2KCWe56PKgmzKXrl1Rrzd8) | [Luz no Escuro](https://open.spotify.com/album/52hUkIuMdezKCnylKKrRqb) | 5:19 | 2024-07-02 | 2024-10-03 |
 | [Luísa](https://open.spotify.com/track/4OjJEdNrmCEROycd6z3Hva) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Luísa](https://open.spotify.com/album/2iSNbtzZ46ke4LvxFlJHJT) | 4:28 | 2022-02-02 | 2022-05-04 |
 | [Luísa](https://open.spotify.com/track/6XAhnjK7iDdelgMIfPBefZ) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Uma Música Angolana](https://open.spotify.com/album/5Etk8veWJAYvVJorNwZfcI) | 4:28 | 2022-11-30 | 2023-01-04 |
@@ -713,6 +715,7 @@
 | [NÃO MUDAVA NADA](https://open.spotify.com/track/4YEY6rurDPgHlE8cDEVbxm) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [COCKTAIL](https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN) | 2:49 | 2024-11-06 | 2024-12-05 |
 | [Não Pensar](https://open.spotify.com/track/0hQJGdIWWlUFycH01GVjmT) | [Catarina Carvalho Gomes](https://open.spotify.com/artist/3LTYZsh0o1Rm02A1LtjBM3) | [Novas Canções da Terra](https://open.spotify.com/album/3bo1Iq1qAZz0xj8ik1XqwX) | 5:05 | 2023-10-03 | 2023-11-30 |
 | [Não Penso em Mais Nada](https://open.spotify.com/track/1Y31FdNoYrjTbYCDOKyTzW) | [Inês de Vasconcellos](https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f) | [Não Penso em Mais Nada](https://open.spotify.com/album/7LioDAlTQrKYDi2qZIIqau) | 2:38 | 2023-10-03 | 2024-01-10 |
+| [Não Penso Em Mais Nada](https://open.spotify.com/track/06unFdYYH2ylGGL2FBoKRV) | [Tanya](https://open.spotify.com/artist/7qI3exZT75Xgr4uTGmEIaT) | [Não Penso Em Mais Nada](https://open.spotify.com/album/766icFKdYm4GUNklZlVN2r) | 3:06 | 2025-07-01 |  |
 | [Não Precisava](https://open.spotify.com/track/4mGkbo0tFPJxqpXbQ7IVDS) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Não Precisava](https://open.spotify.com/album/4GDnPxE0MEGY9Ld4MGvRN2) | 3:08 | 2022-05-31 | 2022-09-07 |
 | [Não Sei Quantas Almas Tenho](https://open.spotify.com/track/6SW4sN5BBBGruYRbYLDGyP) | [Mary Anne](https://open.spotify.com/artist/0ur17oRSwheseCozw2Kpko) | [Não Sei Quantas Almas Tenho](https://open.spotify.com/album/3cp1uRy1SZRuQm8Hc5ZZ7q) | 3:55 | 2022-03-08 | 2022-05-04 |
 | [Não Sei Ser](https://open.spotify.com/track/5jbaSfVWXLUeFJQaiBdurN) | [Maia Balduz](https://open.spotify.com/artist/7ySlTjntwjPRkxfxuMCaEu) | [Não Sei Ser](https://open.spotify.com/album/4roDWeeuDjmwfmDXEIAt3I) | 3:00 | 2024-01-10 | 2024-02-07 |
@@ -758,6 +761,7 @@
 | [Oarendê](https://open.spotify.com/track/4pRb8X5GsTcgR7adrhxO7Y) | [equinōcio](https://open.spotify.com/artist/3C3XXj5GXaoOx4YIjhd7x1) | [Oarendê](https://open.spotify.com/album/11prj0YHirdX6dJi7h6XWy) | 2:43 | 2022-11-02 | 2022-12-01 |
 | [Off Para Ti](https://open.spotify.com/track/7iGrNb3T8fh4CwxxLIQ10Q) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Off Para Ti](https://open.spotify.com/album/6TRkOPJCJzw7FWk8rjz1Yg) | 3:09 | 2024-04-03 | 2025-01-08 |
 | [Oh Boy](https://open.spotify.com/track/4xi6hiEixwDRs9bAkIpDOP) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Oh Boy](https://open.spotify.com/album/0u3BpX4yCbO1d91TYDxAoq) | 2:53 | 2023-04-04 | 2023-06-07 |
+| [Oko Boma Nga](https://open.spotify.com/track/3gzcjxH87nTFtSCR9IC1Pj) | [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb), [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9) | [Oko Boma Nga](https://open.spotify.com/album/5z3GoDjxQ2UgubeHUh5Otp) | 4:13 | 2025-07-01 |  |
 | [Olha Lá](https://open.spotify.com/track/24uluitPbMaXlVNAzEHUA2) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Olha Lá](https://open.spotify.com/album/5UjiTFgwZqewxTcMMvfYZr) | 2:44 | 2023-01-04 | 2023-02-03 |
 | [On My Own](https://open.spotify.com/track/4KnIEKmoMlhtmRXMCfgj07) | [ifa](https://open.spotify.com/artist/31xsosoPlzl64vdLtTYkjG) | [On My Own](https://open.spotify.com/album/0FxNWhYnHy3iAYRKg8dE06) | 3:47 | 2024-06-04 | 2024-09-04 |
 | [ON&ON](https://open.spotify.com/track/3Ffq0Fh2FDhgbfydL0gWsl) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [ON&ON](https://open.spotify.com/album/0zBxUmDlTErvLOqRCtfCaw) | 3:12 | 2025-03-05 | 2025-05-07 |
@@ -1093,6 +1097,7 @@
 | [Tête\-À\-Tête](https://open.spotify.com/track/0kj8OUOm2jWCjoFbYyNUck) | [Mónica Teotónio](https://open.spotify.com/artist/1nXBp09VXajQAxVCbP1Jh4) | [Tête\-À\-Tête](https://open.spotify.com/album/45bqCyCLaCsYm4wgkaWAL3) | 2:51 | 2023-11-08 | 2023-11-30 |
 | [um dia destes](https://open.spotify.com/track/5jjHlCkAwp8sjSJKcMB8TK) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ) | [um dia destes](https://open.spotify.com/album/508pG4Mz7IbnZnJbaqGl5A) | 3:21 | 2022-05-31 | 2022-08-03 |
 | [um lugar](https://open.spotify.com/track/0jlQ9pRLxytaDgmLqi7BEv) | [Mariana Dalot](https://open.spotify.com/artist/58FpRmP3RvLQW4FuJ44Y6P) | [círculo](https://open.spotify.com/album/4fpWkJwVPLovSsAbV00fMl) | 3:24 | 2022-11-02 | 2022-12-01 |
+| [Um Passo ao Lado](https://open.spotify.com/track/2ZTjggEs13dJkJcGGIA66g) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r), [Jorge Palma](https://open.spotify.com/artist/5uOMOTzmfhliUjnyiJh0kn) | [Ana Márcia](https://open.spotify.com/album/1lsQWgwkr3SVJTOmTmEAfW) | 4:20 | 2025-07-01 |  |
 | [Uma Mensagem Tua](https://open.spotify.com/track/6oNjx8M7no4Lj4wQxgjv2u) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 2:53 | 2022-02-02 | 2022-04-06 |
 | [Una Sola](https://open.spotify.com/track/2poWwI8KkNIYdAWl8CpuUZ) | [Victoria Nicole](https://open.spotify.com/artist/3NThIPbGypiX1qUY4z7fLF) | [Una Sola](https://open.spotify.com/album/3XRzbRJMPseE6qFijt9U54) | 3:37 | 2025-05-06 | 2025-07-02 |
 | [Unnecessary Love](https://open.spotify.com/track/3xWb7eyYKfNyCo3jffxAOZ) | [CARAVANA](https://open.spotify.com/artist/3bp8xdPVspj3pPfLtbdbYR) | [Unnecessary Love](https://open.spotify.com/album/5l1ku5GdUjma5Aifh2jcTl) | 2:34 | 2024-05-01 | 2024-06-05 |
@@ -1106,6 +1111,7 @@
 | [Vazio](https://open.spotify.com/track/4gTMH7RCIvoiIITibZxM8N) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Vazio](https://open.spotify.com/album/6WkhLLFadv5DiDIlKhsCWF) | 5:02 | 2023-10-03 | 2024-01-10 |
 | [Vejam Bem](https://open.spotify.com/track/4M00foKCrXGLhyLd2PqXhd) | [Gisela João](https://open.spotify.com/artist/6PHEevniO76JNRqHLVXWX5) | [Vejam Bem](https://open.spotify.com/album/2aPcJ1Vs4jUhqrnjTf9zOP) | 4:09 | 2025-02-05 | 2025-03-05 |
 | [Velocidade 100](https://open.spotify.com/track/71BEpCsaghvoqCokoDQlFj) | [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak) | [111](https://open.spotify.com/album/1OoCCcETPlWoy5d30icbcL) | 2:33 | 2023-02-03 | 2023-04-05 |
+| [Vem](https://open.spotify.com/track/19KkceBpNHHcI67wkHYHHy) | [Beatriz Abrunhosa](https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF) | [Vem](https://open.spotify.com/album/1HL8lJpPhHoFqu4JaOqpDl) | 2:31 | 2025-07-01 |  |
 | [VEM COMIGO](https://open.spotify.com/track/1EsEcNjzQNAaGCCbCeEFjt) | [Capital Da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [VEM COMIGO](https://open.spotify.com/album/6WPMqaEQDZ8KCXPQT2b4ok) | 1:57 | 2024-01-10 | 2024-02-07 |
 | [VEM CÁ](https://open.spotify.com/track/4U2BWOlHeTSgfNL4xFpt6B) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ) | [VEM CÁ](https://open.spotify.com/album/0h4tfuL7Eo5KWk4oOngYB8) | 2:43 | 2024-11-06 | 2024-12-05 |
 | [Vem Dizer](https://open.spotify.com/track/3zgO5yp5hG3OLrW0H2BFeu) | [Cati](https://open.spotify.com/artist/3fMoR08BDmXJVyve4qfjUe) | [Vem Dizer](https://open.spotify.com/album/3udsnnLoU8q8ibTtAujOh9) | 4:43 | 2023-10-03 | 2023-11-30 |

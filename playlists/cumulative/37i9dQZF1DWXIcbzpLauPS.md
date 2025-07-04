@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Fit For A King
 
-1,272 songs - 3 day 5 hr 58 min
+1,273 songs - 3 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Cold](https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Maybe Death Is All I Need](https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg) | 1:53 | 2024-10-18 | 2025-01-19 |
 | [Cold Blooded](https://open.spotify.com/track/55qsUnoBhvLZ6ktj5v3lKp) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Cold Blooded](https://open.spotify.com/album/5pSv7gNjAnaM169UjdNXY0) | 3:38 | 2021-12-17 | 2022-04-02 |
 | [Cold Comfort](https://open.spotify.com/track/1H5QpFkKNlezDvfISRbY9e) | [Night Rider](https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6) | [Cold Comfort](https://open.spotify.com/album/3JQp3O5WoYKjcqYx2KDJzf) | 3:43 | 2025-05-02 |  |
-| [Cold Hard Truth](https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Cold Hard Truth](https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7) | 3:02 | 2025-01-17 |  |
+| [Cold Hard Truth](https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Cold Hard Truth](https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7) | 3:02 | 2025-01-17 | 2025-07-04 |
 | [Cold World](https://open.spotify.com/track/0OgCom0J2EH70YJJxcFlgr) | [Additional Time](https://open.spotify.com/artist/41OZ2IjrF9kjGWDYIGBYOz) | [Cold World](https://open.spotify.com/album/4yHK77sLinmbGY7Ebp1l3i) | 4:06 | 2021-12-17 | 2022-01-15 |
 | [Collapse](https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY) | [Vigils](https://open.spotify.com/artist/3EzYyT79hzNl6mxm7v44h0) | [Collapse](https://open.spotify.com/album/2DVcJX849QCM4XMcZ92qaO) | 3:12 | 2022-01-07 | 2022-04-09 |
 | [Collide](https://open.spotify.com/track/1f0J28W2sTbiqIEsb8uxfe) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Collide](https://open.spotify.com/album/4slmcnyRVpRMly3EcW0D0v) | 3:28 | 2025-06-27 |  |
@@ -1259,6 +1259,7 @@
 | [Wilderness](https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Wilderness](https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj) | 3:22 | 2024-07-12 | 2024-08-26 |
 | [Wildfires](https://open.spotify.com/track/0oFMLBF1GaN3xMCAxKfmKm) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Wildfires](https://open.spotify.com/album/4SjnWy1dRE4laBw4qAerMf) | 3:24 | 2024-08-30 | 2024-09-09 |
 | [Wishing Well](https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Shine & Fade](https://open.spotify.com/album/3CBH9X13DU7f7hBwyzLNFB) | 4:10 | 2022-04-29 | 2022-07-08 |
+| [Wither](https://open.spotify.com/track/0djLamzAIwucyBaTzVyUHp) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc) | [SEVEN.](https://open.spotify.com/album/7JeN1aczcGqtq4TZ5ljZm9) | 2:31 | 2025-06-30 |  |
 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 | 2023-03-24 | 2024-01-23 |
 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 | 2022-07-13 | 2022-07-20 |
 | [Wolf In Sheep's Clothing \[REBORN\]](https://open.spotify.com/track/1tpidJ4FBn9TwshePh1bc3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Wolf In Sheep's Clothing \[REBORN\]](https://open.spotify.com/album/3EAQjK9KBprKYBerEPGxwS) | 3:21 | 2024-11-08 | 2025-03-31 |

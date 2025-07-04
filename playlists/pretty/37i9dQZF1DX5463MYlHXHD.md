@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Vieja escuela y de ahora 📸 La Repandilla & Sound De Barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,457 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,489 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,16 +96,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 86 | [El Drogón](https://open.spotify.com/track/6KQxrxnR44E7IswemXSKnE) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:50 |
 | 87 | [Porque te vas](https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls) | [Puro Movimiento DJ](https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q) | [A Todo Remix](https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod) | 3:57 |
 | 88 | [Sigue bailando mi amor](https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:50 |
-| 89 | [Orgullosa](https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:07 |
-| 90 | [Te Llevás Todo](https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS) | [Los Chicos de la Vía](https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl) | [Por la Vía Rápida](https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3) | 3:47 |
+| 89 | [Te Llevás Todo](https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS) | [Los Chicos de la Vía](https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl) | [Por la Vía Rápida](https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3) | 3:47 |
+| 90 | [Orgullosa](https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:07 |
 | 91 | [Amor de Colegio](https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Dando Clase](https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a) | 4:34 |
 | 92 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 |
 | 93 | [Quiero una chica](https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 4:16 |
 | 94 | [Sentate en el pelado](https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:18 |
 | 95 | [Padre Ejemplar](https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [El Autentico Creador De La Cumbia Callejera](https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq) | 4:26 |
 | 96 | [YO SOY TU MAESTRO \- Remix](https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [YO SOY TU MAESTRO \(Remix\)](https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG) | 3:25 |
-| 97 | [LOGI](https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LOGI](https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA) | 3:54 |
-| 98 | [Si Me Vez Fumando una Seca por Vos](https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Volverás](https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV) | 2:56 |
+| 97 | [Si Me Vez Fumando una Seca por Vos](https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Volverás](https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV) | 2:56 |
+| 98 | [LOGI](https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LOGI](https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA) | 3:54 |
 | 99 | [La cola less](https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:43 |
 | 100 | [Siempre Es la Misma Situación](https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv) | [Barrabox](https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp) | [Moviendo la Cola](https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O) | 3:20 |
 

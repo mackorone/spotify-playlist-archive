@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -26116,7 +26116,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 572917,
       "name": "Festa na Ro\u00e7a / Olha pro C\u00e9u / Aquele S\u00e2o Jo\u00e2o - Instrumental",
       "url": "https://open.spotify.com/track/3ibtDYkH3k0H0Uo1aCtttV"
@@ -27072,6 +27072,40 @@
     {
       "album": {
         "name": "Foragido",
+        "url": "https://open.spotify.com/album/1dFoBTTWaLS4UJA6VWnjoI"
+      },
+      "artists": [
+        {
+          "name": "Aleeh Teletubbies",
+          "url": "https://open.spotify.com/artist/5aWDvdakXZYYzbm4gUwz9n"
+        },
+        {
+          "name": "Arthurzinho Batedeira",
+          "url": "https://open.spotify.com/artist/710YoXWGrf1hKCLPk5sPdD"
+        },
+        {
+          "name": "EO DAVID",
+          "url": "https://open.spotify.com/artist/6j2zuv8F8jqGyGNcmXq3dM"
+        },
+        {
+          "name": "Neguin da Base",
+          "url": "https://open.spotify.com/artist/6YM4srkP40BsLsvy7wZiFN"
+        },
+        {
+          "name": "Vil\u00e3o no Beat",
+          "url": "https://open.spotify.com/artist/6F6Cs6wv524tTR95Wg3Tkp"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154181,
+      "name": "Foragido",
+      "url": "https://open.spotify.com/track/2m8q6vHDRoI6FGogpuNCCw"
+    },
+    {
+      "album": {
+        "name": "Foragido",
         "url": "https://open.spotify.com/album/3UoWqSV4Ut6qIz4Hq6xBG3"
       },
       "artists": [
@@ -27358,7 +27392,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Freed from Desire",
       "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
@@ -27384,7 +27418,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
@@ -56546,7 +56580,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 572760,
       "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso - Instrumental",
       "url": "https://open.spotify.com/track/5bJnIg3FhAHoALP407aeMW"

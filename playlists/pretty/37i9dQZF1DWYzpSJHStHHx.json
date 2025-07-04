@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487147,
+  "num_followers": 487176,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-05-22 14:00:15",
       "album": {
+        "name": "LCD",
+        "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
+      },
+      "artists": [
+        {
+          "name": "Ghost Care",
+          "url": "https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy"
+        }
+      ],
+      "duration_ms": 211705,
+      "name": "LCD",
+      "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
+    },
+    {
+      "added_at": "2025-05-22 14:00:15",
+      "album": {
         "name": "Pacific Ocean",
         "url": "https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25"
       },
@@ -681,22 +697,6 @@
       "url": "https://open.spotify.com/track/6rHmQDbXRDUzVwI7t1o6pR"
     },
     {
-      "added_at": "2025-05-22 14:00:15",
-      "album": {
-        "name": "LCD",
-        "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
-      },
-      "artists": [
-        {
-          "name": "Ghost Care",
-          "url": "https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy"
-        }
-      ],
-      "duration_ms": 211705,
-      "name": "LCD",
-      "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Thrift Store",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Freaks Feel Like Divas",
-        "url": "https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn"
-      },
-      "artists": [
-        {
-          "name": "Fast Color",
-          "url": "https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Natasha Lyonne",
-      "url": "https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Things Left to Do",
         "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220373,
       "name": "Yes",
       "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Freaks Feel Like Divas",
+        "url": "https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn"
+      },
+      "artists": [
+        {
+          "name": "Fast Color",
+          "url": "https://open.spotify.com/artist/4huERTmJQbJVtA0A8dmY7J"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Natasha Lyonne",
+      "url": "https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "I AM NOT SO TALL",
         "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
       },
       "artists": [
         {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
         }
       ],
-      "duration_ms": 124636,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 212173,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 124636,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -889,6 +889,22 @@
       "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
     },
     {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 172228,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Naga Damai",
@@ -919,22 +935,6 @@
       "duration_ms": 248000,
       "name": "MOVING ON",
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
-    },
-    {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Sunday Scaries",
-        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 172228,
-      "name": "Sunday Scaries",
-      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Can You See The Sunshine? (EP)",
-        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
-      },
-      "artists": [
-        {
-          "name": "Gerf",
-          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
-        }
-      ],
-      "duration_ms": 205376,
-      "name": "Couch Sex",
-      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Cold Summers EP",
@@ -1087,6 +1071,22 @@
       "duration_ms": 174080,
       "name": "Cold Summers",
       "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Can You See The Sunshine? (EP)",
+        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
+      },
+      "artists": [
+        {
+          "name": "Gerf",
+          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
+        }
+      ],
+      "duration_ms": 205376,
+      "name": "Couch Sex",
+      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Malibu Sunset b/w Hang On",
-        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
       },
       "artists": [
         {
-          "name": "The Travelers",
-          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
         }
       ],
-      "duration_ms": 128194,
-      "name": "Malibu Sunset",
-      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

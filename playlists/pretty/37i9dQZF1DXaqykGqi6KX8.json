@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 67654,
+  "num_followers": 67672,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
-      },
-      "artists": [
-        {
-          "name": "Nawather",
-          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
-        }
-      ],
-      "duration_ms": 377472,
-      "name": "Kont Trab",
-      "url": "https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "The Revelations",
         "url": "https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 666510,
       "name": "I Am the Beast",
       "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+      },
+      "artists": [
+        {
+          "name": "Nawather",
+          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+        }
+      ],
+      "duration_ms": 377472,
+      "name": "Kont Trab",
+      "url": "https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe"
     },
     {
       "added_at": "2021-10-14 08:16:07",

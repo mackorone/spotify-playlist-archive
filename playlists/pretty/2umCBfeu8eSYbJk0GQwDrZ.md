@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,466 likes - 99 songs - 5 hr 34 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,462 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 25 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
 | 26 | [Tangerine Dream](https://open.spotify.com/track/0sAdMQOYVRZFkdizQrwSUD) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Tangerine Dream](https://open.spotify.com/album/1dQSTnJiL2aXDqwTeOJDLG) | 3:19 |
 | 27 | [Adore You](https://open.spotify.com/track/6sZtLVeNAfwEZ5sqBgRVbD) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Adore You](https://open.spotify.com/album/5RlvUsTBy2Sw4qKvLaeEac) | 2:25 |
-| 28 | [222](https://open.spotify.com/track/1NtjofH29CRpbvEtQEMZGf) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [222](https://open.spotify.com/album/58M4lC0tqx7s4OgXIHzkGj) | 2:49 |
+| 28 | [222](https://open.spotify.com/track/1NtjofH29CRpbvEtQEMZGf) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [222](https://open.spotify.com/album/58M4lC0tqx7s4OgXIHzkGj) | 2:49 |
 | 29 | [Inkind](https://open.spotify.com/track/1TzQp3c2yq9G0luKUW7LU7) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Inkind](https://open.spotify.com/album/2N0JEHthdM2QBm3jinQZnL) | 3:45 |
 | 30 | [On The Beach \(from DEATH STRANDING 2: ON THE BEACH\)](https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [On The Beach](https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du) | 4:16 |
 | 31 | [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 |

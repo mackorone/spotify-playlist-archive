@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Yoon Jong Shin \(윤종신\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Zia \(지아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,509 songs - 4 day 1 hr 50 min
+1,510 songs - 4 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-10-11 | 2024-01-09 |
 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 | 2024-05-09 | 2024-09-24 |
 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 | 2023-04-26 | 2023-09-12 |
+| [Acacia](https://open.spotify.com/track/2VLa2q4guNSxhyoRx3imlb) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [Acacia](https://open.spotify.com/album/5axBcGYXDbRqB0XrSL2FMd) | 3:58 | 2025-07-03 |  |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |
 | [Adore \(with Choi moonseok\)](https://open.spotify.com/track/6h9VUjsb3xv5F01Wit0URp) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [Adore \(with Choi moonseok\)](https://open.spotify.com/album/02RJLVNAY5wEJCrWIhR6jq) | 3:52 | 2023-02-24 | 2023-06-23 |
 | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/track/73ByHWU9prg74XMJHM6Nfy) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/album/2n59KRYHmLnU3SxfzRHKWv) | 3:30 | 2023-12-28 | 2024-05-18 |
@@ -1111,7 +1112,7 @@
 | [Spring will come after this winter](https://open.spotify.com/track/2YODsJYj7If4Ae68nAHfSk) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Leetneer Project](https://open.spotify.com/artist/1akMU7C7YstvDu6jEXYrQM) | [Spring will come after this winter](https://open.spotify.com/album/7cTn623yQVSRgFc77oqZyO) | 4:25 | 2023-02-24 | 2023-04-27 |
 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 | 2022-12-16 | 2023-01-21 |
 | [Stand By Your Side](https://open.spotify.com/track/1h2EjiRBZu1geZrxV5dWhz) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Stand By Your Side \(CURTAIN CALL OST Part.7\)](https://open.spotify.com/album/7c0jTAaxnlZgPAhvYsdr0a) | 4:30 | 2022-12-16 | 2023-02-09 |
-| [Star](https://open.spotify.com/track/3j0JMgCEyR45tBCVUo1CMb) | [2BIC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Star](https://open.spotify.com/album/2tXyYTNcykXOERkFNvrJpA) | 3:58 | 2025-05-12 |  |
+| [Star](https://open.spotify.com/track/3j0JMgCEyR45tBCVUo1CMb) | [2BIC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Star](https://open.spotify.com/album/2tXyYTNcykXOERkFNvrJpA) | 3:58 | 2025-05-12 | 2025-07-04 |
 | [Star](https://open.spotify.com/track/0UcaDVU5jKXZXv2BfgMO56) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Star](https://open.spotify.com/album/61haIPm5s5cfRCgqkbGKJ2) | 4:05 | 2022-03-31 | 2022-05-29 |
 | [STAR DUST](https://open.spotify.com/track/2zayCOuQcW0iNPsu02jFa7) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [STAR DUST](https://open.spotify.com/album/0ltZ0m8qh833WDHfAvwai8) | 3:48 | 2021-12-20 | 2022-06-05 |
 | [Stardust](https://open.spotify.com/track/10xEWyLu80xSy17g9jptlD) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album 'END THEORY'](https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs) | 3:50 | 2021-12-23 | 2022-07-03 |

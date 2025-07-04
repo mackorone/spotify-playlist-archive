@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: \u0130rem Derici",
+  "description": "Pop'un sevilen isimleri. Kapak: Melis Fis",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 175190,
       "name": "En Ger\u00e7e\u011fi",
       "url": "https://open.spotify.com/track/2oroizq42YriYCkHhbh83Y"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 140867,
       "name": "G\u00fcl\u00fc Sevdim Dikeni Batt\u0131",
       "url": "https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N"
@@ -3593,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "Nazar",
+        "url": "https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS"
+      },
+      "artists": [
+        {
+          "name": "Melis Fis",
+          "url": "https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155043,
+      "name": "Nazar",
+      "url": "https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv"
+    },
+    {
+      "album": {
         "name": "Ne Gere\u011fi Var",
         "url": "https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6"
       },
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 154633,
       "name": "Yand\u0131m",
       "url": "https://open.spotify.com/track/4wNwfnXYSQTrWvnm47gQtC"

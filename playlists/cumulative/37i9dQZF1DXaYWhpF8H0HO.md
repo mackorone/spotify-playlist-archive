@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Aldi Haqq
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Weda Mauve
 
-404 songs - 23 hr 35 min
+409 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Be Your Lover](https://open.spotify.com/track/3sRQutpCOD2gzfjlgrt9Cu) | [The Public Service](https://open.spotify.com/artist/08ZFsKiZID7MsOWnXGcLRS) | [Be Your Lover](https://open.spotify.com/album/01hJL0Q7gbF57TOcmZxQTI) | 3:10 | 2024-06-27 | 2024-07-27 |
 | [best kinda trouble](https://open.spotify.com/track/0e7WrKOm6GlayjDBGC361H) | [Vania Abby](https://open.spotify.com/artist/1uCsUNBbx78pkgx2k5OxlA) | [best kinda trouble](https://open.spotify.com/album/5yk9p20PhUaoNMjhVSGDgd) | 3:58 | 2025-04-24 | 2025-05-30 |
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-08-09 | 2025-01-24 |
+| [Better Run](https://open.spotify.com/track/2suxNr50PEr7O44dsTuF5S) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Better Run](https://open.spotify.com/album/2omrnJTVqNLfM8Wy18fbBQ) | 3:42 | 2025-07-03 |  |
 | [birthday bae](https://open.spotify.com/track/4h00RvjZYWkCIIB67JqIgu) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [birthday bae](https://open.spotify.com/album/3GsXEIZGiUQQYdAg6pZ0at) | 2:48 | 2024-09-05 | 2024-11-29 |
 | [bite u everywhere!](https://open.spotify.com/track/2d2qyuCJhsGk1SD2PKlNqd) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP), [Mulan Theory](https://open.spotify.com/artist/4LjPxqUg7n76B4CeXVgN08), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [Redline Impact](https://open.spotify.com/album/22nmCm7Uq4Pf74GqnHRFli) | 2:31 | 2024-10-17 | 2024-11-29 |
 | [BLACK MAGIC](https://open.spotify.com/track/5yNoESjoupEQAtaY13S1GU) | [narin kovilda](https://open.spotify.com/artist/6P1yLrRrPBTIbXc0UE1oK4) | [BLACK MAGIC](https://open.spotify.com/album/5Yh1EfnNJ8OC3g8dhYxwtO) | 2:35 | 2024-12-06 | 2025-05-30 |
@@ -69,6 +70,7 @@
 | [Call Me](https://open.spotify.com/track/3TGZXTdMvVmZcKBEOwz6mh) | [Owwie](https://open.spotify.com/artist/2wKVIIT00EhTd9ncgdMPW7) | [Call Me](https://open.spotify.com/album/5g6dStSGK2J2trVNvfcBqz) | 3:00 | 2024-06-27 | 2024-09-06 |
 | [CALL ME ON DRUGS](https://open.spotify.com/track/2yCOKtAURfxaL5WuKoEYO5) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [CALL ME ON DRUGS](https://open.spotify.com/album/2AWtAZMn18hA1XvzBxTfwZ) | 2:36 | 2025-01-30 | 2025-04-25 |
 | [Campfire](https://open.spotify.com/track/6ESZivUp2Tp5uNyuffnMRk) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Campfire](https://open.spotify.com/album/3TRhJfsSgsvZseDYfrRfVD) | 3:17 | 2025-02-13 | 2025-05-09 |
+| [Can We Be Friends Again?](https://open.spotify.com/track/0c3beEhARvqtTRwKFskjX3) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Can We Be Friends Again?](https://open.spotify.com/album/7ILkOWv9uelFdP2Ncv2BfU) | 3:53 | 2025-07-03 |  |
 | [can't seem to make a change.](https://open.spotify.com/track/4Zo6BiLQNZP5G5dqjG6QAY) | [VEEY](https://open.spotify.com/artist/6w1o0CIuCMBffOLcaY8Wtw) | [can't seem to make a change.](https://open.spotify.com/album/7l3f105ZEU3n5F7kpeuCNh) | 3:51 | 2024-07-11 | 2024-09-27 |
 | [Can't Sleep](https://open.spotify.com/track/5BqjUl9NCS2x1kGfHqdsJa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Can't Sleep](https://open.spotify.com/album/4pZ0g8O278CeZeUOtCfp5r) | 2:50 | 2025-03-27 | 2025-05-09 |
 | [CANDYRELLA \- sweeter](https://open.spotify.com/track/4qG74FcxHBeDcveHfOlqtQ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CANDYRELLA](https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh) | 3:10 | 2024-06-27 | 2025-01-24 |
@@ -141,7 +143,7 @@
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-06-27 | 2025-01-24 |
 | [Give Me a Reason to Stay](https://open.spotify.com/track/7uEsXzSqN7GJCSgw3zGguX) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Give Me a Reason to Stay](https://open.spotify.com/album/2YtnecByrTLnJtk88Hn42D) | 3:26 | 2025-06-19 |  |
 | [Give Me Loving](https://open.spotify.com/track/7Dfc3RHXzYeUlJaXqRyG0j) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Give Me Loving](https://open.spotify.com/album/4n6iTjYCSwT61NrbcnfjyB) | 3:30 | 2025-02-13 | 2025-04-25 |
-| [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 | 2025-05-15 |  |
+| [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 | 2025-05-15 | 2025-07-04 |
 | [Going Up](https://open.spotify.com/track/41vUwaUD16ClRyqIQmClRT) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Going Up](https://open.spotify.com/album/5WoZedpwDHzf7auzddAjLN) | 2:58 | 2024-10-03 | 2024-11-16 |
 | [Gone, Gone Again](https://open.spotify.com/track/3lLQXvcJwJezHqcnSSXvOk) | [Michael Rickard](https://open.spotify.com/artist/45Ci3JIPLftPkHA30hEH1b) | [Gone, Gone Again](https://open.spotify.com/album/6CuBCqYED6RUZdn3niCeeU) | 3:25 | 2025-05-15 | 2025-06-13 |
 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 | 2025-03-21 | 2025-05-09 |
@@ -159,6 +161,7 @@
 | [Here's To Us](https://open.spotify.com/track/2JBoIxetyXcCtfG1Cd3Rnz) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Here's To Us](https://open.spotify.com/album/6bvCBgA7dbYDOFTtD2Fa3H) | 3:25 | 2025-05-29 |  |
 | [Here, I Said 'Thank You'](https://open.spotify.com/track/5Cgy50FxnAM37H2PPrVfSi) | [Cosmoplaza](https://open.spotify.com/artist/4dMVkCAtoW19LfuCvgQWpC) | [Here, I Said 'Thank You'](https://open.spotify.com/album/0hQtQdnbzwAbgCWEKWxRRq) | 2:16 | 2025-06-12 |  |
 | [hey, i'm tired](https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [life update](https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf) | 4:05 | 2024-09-05 | 2025-01-24 |
+| [Hide](https://open.spotify.com/track/4MLJYSQ14LOLedbh0rXWil) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Hide](https://open.spotify.com/album/5WOtETfheZKBTIREHccP6a) | 3:23 | 2025-07-03 |  |
 | [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 | 2024-09-12 | 2025-01-24 |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-06-27 | 2025-01-24 |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2024-06-27 | 2025-01-24 |
@@ -242,6 +245,7 @@
 | [M.T.WTF](https://open.spotify.com/track/6nyfsUQkHOiNoyLpeSCev3) | [Wide Wesley](https://open.spotify.com/artist/3m0xXhmoLlHAqI91wGhpoR) | [M.T.WTF](https://open.spotify.com/album/0L3qevtNP6X6Lcd2UHh7bR) | 4:10 | 2025-02-28 | 2025-05-09 |
 | [Ma$erati](https://open.spotify.com/track/0w8IplqC8nyxfpc5z1t6xE) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [Ma$erati](https://open.spotify.com/album/6rmxfqqgVsCnfdLYwsK7ZQ) | 4:13 | 2025-04-17 | 2025-05-09 |
 | [Make It Right](https://open.spotify.com/track/13FEGzhM5qfcVijnLl50K7) | [Peraukertas](https://open.spotify.com/artist/1N0zNlPZswGRoDKMX9HPZH) | [Make It Right](https://open.spotify.com/album/6FbYAhUX8rlvH4j3uPFQMA) | 4:08 | 2025-03-13 | 2025-05-30 |
+| [Make Lives Make Sense](https://open.spotify.com/track/1GWV934g67JrrI6WdYmoxe) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [Make Lives Make Sense](https://open.spotify.com/album/6Qa4h6asEY2aTiowiYnNUH) | 3:33 | 2025-07-03 |  |
 | [Make Ur Move, Plz](https://open.spotify.com/track/2Emcg1SfTyZBRJ2cqPHZJQ) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Lovecycle](https://open.spotify.com/album/5qxc6Ojbm8WfekBpBm70YD) | 3:08 | 2024-07-25 | 2024-09-06 |
 | [Mango Lassi](https://open.spotify.com/track/6py6uaUQHVTEcbLkdwFbjg) | [Nap Room](https://open.spotify.com/artist/0gafAMOxET1u9oFP6JGwfl), [Mithunder](https://open.spotify.com/artist/5do4fAClPjY5A1jwJPri87) | [Mango Lassi](https://open.spotify.com/album/46eIzn0Jg24FL06xv8X4Lh) | 3:20 | 2024-07-25 | 2024-11-29 |
 | [Mantra \- Feat\. Bloodlyne](https://open.spotify.com/track/6JdzENl1wQYvHoHCEZc0AP) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2), [Dmust Akira](https://open.spotify.com/artist/29OA72cLmCZDFEn0Fk8JXl) | [Mantra](https://open.spotify.com/album/7pFR36qMcT4XYWDDLrqay1) | 3:15 | 2024-09-05 | 2024-11-29 |
@@ -396,6 +400,7 @@
 | [Where Are You Christmas?](https://open.spotify.com/track/2pCXRjuPLX8ZOtHqMzJY7X) | [Meda Kawu](https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr) | [Christmas According To...](https://open.spotify.com/album/5yMeGEZolGBWuiPIDZIi6K) | 2:44 | 2024-12-05 | 2025-03-14 |
 | [Where Do We Go](https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Where Do We Go](https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j) | 3:23 | 2024-06-27 | 2024-10-11 |
 | [Where the Wind Takes Me](https://open.spotify.com/track/1p7SGM0ojsAVGuWtXkgeTa) | [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Where the Wind Takes Me](https://open.spotify.com/album/6tpOkpi2e1pYqXGkZa6neQ) | 3:50 | 2025-02-28 |  |
+| [Whisper of Chaos](https://open.spotify.com/track/7cil0TbMuwQJVW1VAcnUp2) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Whisper of Chaos](https://open.spotify.com/album/6MEH3djq944O9V9qtHQmQB) | 3:50 | 2025-07-03 |  |
 | [Why Won't You](https://open.spotify.com/track/0bL5feyUbAa2z4G4XAuILw) | [Divingbirds](https://open.spotify.com/artist/6KKARVzlbGoG37TyHFghpm) | [Why Won't You](https://open.spotify.com/album/18luhvRPBtEzCBvvuLts3K) | 2:34 | 2024-12-05 | 2025-03-14 |
 | [Will You Be Mine](https://open.spotify.com/track/5cbfJGIkgQxU7kaIznzdGO) | [Raya](https://open.spotify.com/artist/1BJkgqWpgABRMDN5VXlSQ4) | [Will You Be Mine](https://open.spotify.com/album/6ED74rTB6Z0oBOtlsNm95L) | 3:12 | 2025-05-01 | 2025-05-23 |
 | [Wings](https://open.spotify.com/track/1fq3bgqIetBC9V6EaIENST) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Anna Leeworthy](https://open.spotify.com/artist/262vJxKmW2Xlpl93qaln8W) | [Wings](https://open.spotify.com/album/3l0kuT9Ny5DUhFMyKkdY9N) | 3:35 | 2024-10-10 | 2025-01-24 |

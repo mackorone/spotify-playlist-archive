@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your frequency for today's hottest pop tracks, via the South of Africa. Cover: <a href=\"https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S?si=dFljFtEVTnWrRkm-k66tUA\">EASY FREAK</a>",
+  "description": "Your frequency for today's hottest pop tracks, via the South of Africa. Cover: <a href=\"https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C?si=_wJdxiurQaiZ_EeDaHWa9w\">Keanan Eksteen</a>",
   "name": "pop fm",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 169865,
       "name": "222",
       "url": "https://open.spotify.com/track/1NtjofH29CRpbvEtQEMZGf"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 233628,
       "name": "Always Been About You",
       "url": "https://open.spotify.com/track/3uBcU43eB5jK7yH5kOyvWH"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 203680,
       "name": "At Least I'd Be A Cowboy!",
       "url": "https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW"
@@ -1450,6 +1450,24 @@
       "duration_ms": 260840,
       "name": "Cape Town",
       "url": "https://open.spotify.com/track/6v5Kr094kUO8lJw6y7gmv5"
+    },
+    {
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201874,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
     },
     {
       "album": {
@@ -3125,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL CHAOS",
+        "url": "https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185598,
+      "name": "Gameboy",
+      "url": "https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -3588,7 +3624,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 190217,
       "name": "HD Memories",
       "url": "https://open.spotify.com/track/2kEdpEUEO1nPKArnDWvryV"
@@ -3794,6 +3830,24 @@
       "duration_ms": 163989,
       "name": "His Problem Instead",
       "url": "https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA"
+    },
+    {
+      "album": {
+        "name": "Hold On You",
+        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "Hold On You",
+      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
     },
     {
       "album": {
@@ -4456,7 +4510,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -4582,7 +4636,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 195640,
       "name": "JUPITER",
       "url": "https://open.spotify.com/track/3YdZpBO0rUioDmjYvEryI0"
@@ -5168,6 +5222,24 @@
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
     },
     {
       "album": {
@@ -6366,7 +6438,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 182705,
       "name": "Plasticine",
       "url": "https://open.spotify.com/track/18L1aGbJenvVoDsXyv85NO"
@@ -6695,6 +6767,24 @@
     },
     {
       "album": {
+        "name": "ROCKETMAN",
+        "url": "https://open.spotify.com/album/3RsgHnOz9COVCCaWPmSBFU"
+      },
+      "artists": [
+        {
+          "name": "Jade Nova",
+          "url": "https://open.spotify.com/artist/6uJ9gJUQYNeEsyr4JAi53E"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "ROCKETMAN",
+      "url": "https://open.spotify.com/track/6Sr4wlDZIPpSzEiFxTPcgi"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -6710,6 +6800,24 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/4guZ1Kq4wUJB9soOCFIPbv"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201569,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/6K566wKOjEE5YNcWztHtnJ"
     },
     {
       "album": {
@@ -8382,7 +8490,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 323960,
       "name": "The Jamie Oliver Petrol Station",
       "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"

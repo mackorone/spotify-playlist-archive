@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Misimu",
+        "url": "https://open.spotify.com/album/6YlYPW6kjMlkoctwpTPGS8"
+      },
+      "artists": [
+        {
+          "name": "Ben Cyco",
+          "url": "https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Anaweza {Musyoka Mix}",
+      "url": "https://open.spotify.com/track/7JGT10rzWMPwf2ogzCIInk"
+    },
+    {
+      "album": {
         "name": "Anza Nami (feat. Guardian Angel)",
         "url": "https://open.spotify.com/album/7jVZb2169KDjIBMrLDjiDo"
       },
@@ -464,7 +482,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 99745,
       "name": "Awesome God",
       "url": "https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 190235,
       "name": "Let it Shine",
       "url": "https://open.spotify.com/track/0hkU8PP3x9snLlXrBWujf8"
@@ -1644,6 +1662,28 @@
       "duration_ms": 370024,
       "name": "Maneno",
       "url": "https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1"
+    },
+    {
+      "album": {
+        "name": "BEST OF ROSE MUHANDO (Deluxe)",
+        "url": "https://open.spotify.com/album/3AFwaOuwhUXe1O1pcECHx0"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        },
+        {
+          "name": "Nelly Naitengel",
+          "url": "https://open.spotify.com/artist/4A53iYCzAhCwaZP34rK41R"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253492,
+      "name": "Mbingu Mpya",
+      "url": "https://open.spotify.com/track/34pTIVPEKdZjVnsHSHHmX9"
     },
     {
       "album": {

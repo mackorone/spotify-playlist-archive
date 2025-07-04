@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Naim Daniel, Adnin Roslan
+> The best tracks from the world of music\. Cover: HUNTR/X, KPop Demon Hunters Cast
 
 360 songs - 20 hr 23 min
 

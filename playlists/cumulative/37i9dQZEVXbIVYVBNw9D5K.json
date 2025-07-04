@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 214915,
       "name": "Ahu",
       "url": "https://open.spotify.com/track/5dIFM4dkwEjMnFppbHTsEA"
@@ -5678,7 +5678,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 136009,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/0bvgWq2ZUhwwjLR1AMcQDs"
@@ -12166,7 +12166,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 250312,
       "name": "\u0130ltimas",
       "url": "https://open.spotify.com/track/4ytg8WEmLmHa0QebKOthGv"
@@ -20422,7 +20422,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 294846,
       "name": "Sigara",
       "url": "https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv"
@@ -22286,7 +22286,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 235090,
       "name": "Vicdan\u0131n Affetsin",
       "url": "https://open.spotify.com/track/3i8uJcfgdvKk1oHHnoGJlv"
@@ -24412,6 +24412,24 @@
       "duration_ms": 277166,
       "name": "\u00c7\u00f6zemezsin",
       "url": "https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P"
+    },
+    {
+      "album": {
+        "name": "\u00c7\u0131k Art\u0131k Akl\u0131mdan",
+        "url": "https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt"
+      },
+      "artists": [
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224617,
+      "name": "\u00c7\u0131k Art\u0131k Akl\u0131mdan",
+      "url": "https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf"
     },
     {
       "album": {

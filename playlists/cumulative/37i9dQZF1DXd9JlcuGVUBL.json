@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Parker McCollum",
+  "description": "Die beste country musiek. Omslag: Chris Else en Chanelle Else",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 151534,
       "name": "2 Pair",
       "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 228066,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 235773,
       "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
       "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 187322,
       "name": "Brand New Man",
       "url": "https://open.spotify.com/track/6vIQ1OZYwH4VI2LkwrMDaf"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 180023,
       "name": "COUNTRY IS FOR ME",
       "url": "https://open.spotify.com/track/5ZQThi4zaMjCYWCnJQiCTa"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 163754,
       "name": "Ek Mis",
       "url": "https://open.spotify.com/track/6C71FxtdqdQIrvBGCr24vg"
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "GOOD FOR ME",
+        "url": "https://open.spotify.com/album/1u0fLfQZxIzn7aUHCEzQVD"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161716,
+      "name": "GOOD FOR ME",
+      "url": "https://open.spotify.com/track/0DPM9a6Jo4FaI4kuqLJTgi"
+    },
+    {
+      "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
         "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 172181,
       "name": "Hundred Mile High",
       "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 181453,
       "name": "Left To Get Right",
       "url": "https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF"
@@ -2521,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "MY HUIS IS WAAR MY HART IS",
+        "url": "https://open.spotify.com/album/4PA0HvP1uyoLkyxLVZ46Tg"
+      },
+      "artists": [
+        {
+          "name": "Lu-Anel",
+          "url": "https://open.spotify.com/artist/5gQEsU63jR0zFVIqgQBKJI"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "MY HUIS IS WAAR MY HART IS",
+      "url": "https://open.spotify.com/track/4ooGCOGkyNcUaFVMHw6rUk"
+    },
+    {
+      "album": {
         "name": "My Life, Adonai's Script",
         "url": "https://open.spotify.com/album/0jp827smsnG7tjw3edozAY"
       },
@@ -2648,7 +2684,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 175973,
       "name": "Nose On The Grindstone",
       "url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
@@ -2724,7 +2760,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 199083,
       "name": "Nykie",
       "url": "https://open.spotify.com/track/2kK8T5mbA5rJaC578CyKQ0"
@@ -2984,7 +3020,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 235253,
       "name": "Rattlesnake Preacher",
       "url": "https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7"
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 217000,
       "name": "Sex, Drugs, & Country Music",
       "url": "https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5"
@@ -3260,7 +3296,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 227693,
       "name": "Smoke & Embers",
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
@@ -3336,7 +3372,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 208946,
       "name": "Solid Country Gold",
       "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
@@ -3354,7 +3390,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 239000,
       "name": "Solitary Tracks",
       "url": "https://open.spotify.com/track/3E95KwP7L3CTEC42RS2Mws"
@@ -3416,6 +3452,28 @@
       "duration_ms": 239000,
       "name": "Sometimes She Stays",
       "url": "https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/2J8wQ7L9QETjYI1OqgSkko"
+      },
+      "artists": [
+        {
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
+        },
+        {
+          "name": "Chanelle Else",
+          "url": "https://open.spotify.com/artist/3gRpUqOpCtcgjzeMt7q9gL"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/1XaM1LgSOZSxaKBqq8AbMO"
     },
     {
       "album": {
@@ -4159,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/0ByhPxZT9z0ksOJ7etqyau"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/0hFHOpe3bFCrkWjrWRhetV"
+    },
+    {
+      "album": {
         "name": "Winter In Die Kaap",
         "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
       },
@@ -4174,7 +4250,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 206271,
       "name": "Winter In Die Kaap",
       "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
@@ -4246,7 +4322,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 223472,
       "name": "Yes, I Know",
       "url": "https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0"

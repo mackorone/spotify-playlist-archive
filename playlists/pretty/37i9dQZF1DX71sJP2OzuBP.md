@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,820 likes - 120 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,812 likes - 120 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 111 | [侵愛的](https://open.spotify.com/track/3KpEurrnrmdhqsR2wyAZ9B) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [侵愛的](https://open.spotify.com/album/731QZbPSFDoRfAQSD4r9rc) | 3:07 |
 | 112 | [老房子](https://open.spotify.com/track/34pDWBMLtL4N2Wzo8lIgHg) | [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY) | [老房子](https://open.spotify.com/album/0HMbFraeHaAQXwlsoVmiK0) | 4:26 |
 | 113 | [一個人想著一個人\(Rap版\)](https://open.spotify.com/track/1prFios1K9aAbtv1u5jFKG) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [曾柏鈞](https://open.spotify.com/artist/1A6qrb6qglTwq3rtzQ3L7L) | [一個人想著一個人\(Rap版\)](https://open.spotify.com/album/3neQcrM2GFWW9keCWlLzfO) | 3:13 |
-| 114 | [Jumping Machine跳楼机 \- with Tyson Yoshi](https://open.spotify.com/track/0R3Gc2vLh5XFSWeU1r6wYY) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Jumping Machine跳樓機 \(with Tyson Yoshi\)](https://open.spotify.com/album/1cDrpSotPL2IRtKAe4xHkO) | 3:25 |
+| 114 | [Jumping Machine跳楼机 \- with Tyson Yoshi](https://open.spotify.com/track/0R3Gc2vLh5XFSWeU1r6wYY) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Jumping Machine跳樓機 \(with Tyson Yoshi\)](https://open.spotify.com/album/1cDrpSotPL2IRtKAe4xHkO) | 3:25 |
 | 115 | [禱文 \- OT：言不由衷](https://open.spotify.com/track/1rmOhrRj8cFpb7KEDqtdVc) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我偷的故事](https://open.spotify.com/album/0OGS09WUGC1WubJhoSAUYJ) | 3:09 |
 | 116 | [说不清楚的爱](https://open.spotify.com/track/01RdJcM7rcrj2hHoiobxGg) | [罗森涛](https://open.spotify.com/artist/546mgYEW9y8zAt4u7SHxzi) | [说不清楚的爱](https://open.spotify.com/album/1JppU1fu1zxTNxIiLuqCyM) | 3:24 |
 | 117 | [最好安排 \(影集《我們與惡的距離Ⅱ》插曲\)](https://open.spotify.com/track/1qvUXzIp8BZPgSjEWVBgGc) | [許富凱](https://open.spotify.com/artist/1cfpx67CNTohABdelcfXdL) | [最好安排](https://open.spotify.com/album/2mDAIxBpKpyhoMpf1oYOtl) | 5:10 |

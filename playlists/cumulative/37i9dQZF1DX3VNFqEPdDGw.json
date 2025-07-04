@@ -772,7 +772,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 147272,
       "name": "Billori Akh",
       "url": "https://open.spotify.com/track/2pisuoITO5cTaFHEhvmPBn"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 166693,
       "name": "Gallan Goll",
       "url": "https://open.spotify.com/track/4SqpWYyMu6nM6Fr3RyJFbt"
@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 207209,
       "name": "Jinni Sohni",
       "url": "https://open.spotify.com/track/7qEILSItgZvsQAQEQzFTDF"
@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 198000,
       "name": "Kangani",
       "url": "https://open.spotify.com/track/1s9gAzrbB8AchI6EGH9hMA"
@@ -5219,6 +5219,28 @@
     },
     {
       "album": {
+        "name": "Red Eyes",
+        "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
+    },
+    {
+      "album": {
         "name": "RED SHADE",
         "url": "https://open.spotify.com/album/2NOxciYt4f741jVdaf0SDU"
       },
@@ -5940,6 +5962,28 @@
       "duration_ms": 165000,
       "name": "Surrey Connection",
       "url": "https://open.spotify.com/track/4Pe5HvYcEE9ce0faCSNvOU"
+    },
+    {
+      "album": {
+        "name": "Taakre",
+        "url": "https://open.spotify.com/album/4slikRkZVKvFlydYn8Sor7"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258493,
+      "name": "Taakre",
+      "url": "https://open.spotify.com/track/0m5jRWkermmIbOqa2zMNZX"
     },
     {
       "album": {

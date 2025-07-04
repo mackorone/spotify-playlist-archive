@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-239 songs - 14 hr 34 min
+240 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Jay’ll Be Happier](https://open.spotify.com/track/2UvYgOGimT0KKGCQN8z7Jz) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Jay'll Be Happier](https://open.spotify.com/album/0OT6vQdaEAbExz2OCZCDwG) | 3:13 | 2022-06-20 | 2022-07-28 |
 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 | 2022-06-20 | 2022-06-30 |
 | [just wind](https://open.spotify.com/track/0hLM8oXFNxzRNWQmLxIAC1) | [Bluepaprika](https://open.spotify.com/artist/5UsQ1MY9PhBPfYkbb1cC0z) | [just wind](https://open.spotify.com/album/0k2E3GwW72XzVBxXPOLEmr) | 3:38 | 2022-06-20 | 2022-07-13 |
-| [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 | 2023-07-17 |  |
+| [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 | 2023-07-17 | 2025-07-04 |
 | [Last Letter](https://open.spotify.com/track/4TkBTwAQvAYQFuslKFcWLp) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Last Letter](https://open.spotify.com/album/2E66RIJxDgKQIhKvSm6lQD) | 4:01 | 2022-06-20 | 2022-06-30 |
 | [Late Night Movie](https://open.spotify.com/track/4W54GPjAxFS1KVAnPCnc18) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 3:02 | 2022-06-20 | 2022-06-30 |
 | [LET IT RAIN](https://open.spotify.com/track/6BBBU2oQsKb7TydvGTzjZP) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [2 4 8 2](https://open.spotify.com/album/5EJxhjUavcjZKjhla9agvg) | 3:30 | 2022-06-20 | 2022-06-23 |
@@ -127,6 +127,7 @@
 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 | 2022-07-22 | 2024-04-19 |
 | [MISSING U](https://open.spotify.com/track/3ga39Pl8BtmEQOFLHHnSnb) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 4:08 | 2022-07-13 | 2022-07-19 |
 | [MONOLOGUE](https://open.spotify.com/track/3voGBHMWnfdodTDRtScUIp) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Refresh project](https://open.spotify.com/album/3ikVmbEKal0oTteXvYuOz0) | 4:16 | 2022-06-20 | 2022-07-29 |
+| [Monsoon](https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Monsoon](https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY) | 3:49 | 2025-07-03 |  |
 | [My Ceiling Disappeared](https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:35 | 2022-06-20 | 2025-01-10 |
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-06-20 | 2022-07-06 |
 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King : Eternal Monarch, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 | 2022-07-22 | 2024-04-19 |

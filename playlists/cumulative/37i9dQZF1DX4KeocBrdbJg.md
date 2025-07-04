@@ -4,7 +4,7 @@
 
 > lo mejor nunca se sube
 
-758 songs - 1 day 16 hr 51 min
+759 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-16 | 2024-03-07 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-18 | 2024-04-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-11-25 | 2024-06-07 |
-| [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 | 2025-05-02 |  |
+| [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 | 2025-05-02 | 2025-07-04 |
 | [Hoja En Blanco \- En Vivo](https://open.spotify.com/track/2lubZbjoBImkSyNiwagbXr) | [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1) | [Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6pjcxoTzt05btAAa1S4EZa) | 4:12 | 2025-05-06 |  |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-19 | 2023-12-09 |
 | [Honey, I’m So High \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/0Uu97LePX45iEAVb6YKfBm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 2:57 | 2023-06-07 | 2023-07-14 |
@@ -404,6 +404,7 @@
 | [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-22 | 2024-04-19 |
 | [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 | 2024-04-26 |
 | [MARCIANO](https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF) | [FLAKO STIK](https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff) | [LA RUTA X MEXICO, Vol\. 1](https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S) | 4:00 | 2024-04-23 | 2024-07-05 |
+| [Marciano \(I Turned Into A Martian\)](https://open.spotify.com/track/4BViLMXdEarjZBIgStQmXb) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [Lo Mejor De Dos Grandes](https://open.spotify.com/album/0870nqh4AxqEFLK01zA3qk) | 2:35 | 2025-07-03 |  |
 | [Marimar](https://open.spotify.com/track/7yNq24c0sSauWx8kRkdA6A) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mis Mejores Momentos](https://open.spotify.com/album/5F7PR6nCIGqPCeptlF1LpU) | 3:22 | 2022-07-22 | 2022-08-02 |
 | [Marimar](https://open.spotify.com/track/4dWfdAcwdhUAWv0gryUaNF) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Imprescindibles](https://open.spotify.com/album/0WjpoO1Q2c9yAr5IqTB3kd) | 3:24 | 2022-07-22 | 2022-07-29 |
 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-07-25 | 2023-03-01 |

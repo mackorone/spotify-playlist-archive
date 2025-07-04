@@ -4,10 +4,11 @@
 
 > 50 stops, one continent, grab your pass
 
-92 songs - 5 hr 59 min
+95 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5hrs Till Nairobi](https://open.spotify.com/track/2zZzFhWHYeCSaoejZzkDfe) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:04 | 2025-07-03 |  |
 | [Abule](https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:19 | 2023-09-08 |  |
 | [Africa](https://open.spotify.com/track/5rf4dV9ZV8K9b33f8wt0tU) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Afrikan Sauce](https://open.spotify.com/album/5XF4bvaQTx8VMACNbwWmt1) | 3:56 | 2023-10-20 | 2023-12-09 |
 | [Africa](https://open.spotify.com/track/6uGY5bjd4Gxu5hJDJRcrYn) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Afrikan Sauce](https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F) | 3:56 | 2024-03-15 |  |
@@ -62,6 +63,8 @@
 | [Lusaka](https://open.spotify.com/track/1BYefIW1aQuAHA7m3CHe8k) | [Mzwakhe Mbuli](https://open.spotify.com/artist/7twu9bUEN6yXIHUn1tLCRP) | [Resistance Is Defence](https://open.spotify.com/album/1e3jEC6NHIu0RrLmZjVoMU) | 6:56 | 2023-09-08 | 2024-04-19 |
 | [Lusaka By Night](https://open.spotify.com/track/0hMPIEHcy0SLQ6uuG17hxJ) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK), [Nzaramba Jean Thierry \(ras magic\)](https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt) | [John Wizards](https://open.spotify.com/album/6HyhRD63b98v7UpHiSMe8G) | 2:58 | 2023-10-09 | 2024-04-19 |
 | [Lusaka By Night](https://open.spotify.com/track/1skcULZDguUhHKbHBiFVfQ) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK), [Nzaramba Jean Thierry \(ras magic\)](https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt) | [John Wizards](https://open.spotify.com/album/17RTAHouHJi9YHwbXWanJs) | 2:58 | 2024-03-15 |  |
+| [Lusaka!](https://open.spotify.com/track/6ChJEgvgEzkUB4GYUAhKVp) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [\[kimetsu.\]](https://open.spotify.com/artist/1PHEnDTwOtRf29ArCrHhJD) | [Lusaka!](https://open.spotify.com/album/4Ufcnd2d6LQ8dZ21eFN43O) | 4:27 | 2025-07-03 |  |
+| [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 | 2025-07-03 |  |
 | [Mannenberg](https://open.spotify.com/track/6bMWPW0ASgclSTgT3xbsFj) | [Dollar Brand](https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl), [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Mannenberg \- 'Is Where It's Happening'](https://open.spotify.com/album/211IJ33ehIcOM2fdMCxJRp) | 13:37 | 2023-10-09 | 2024-06-08 |
 | [Maputo](https://open.spotify.com/track/7GYi0vzzwhiLI53Zf4sUyM) | [Native Young](https://open.spotify.com/artist/3zoI6a44G3uKajViwC9Plp) | [Maputo](https://open.spotify.com/album/5JGUGDKngyRJ4iDBanI4tv) | 2:19 | 2024-05-16 |  |
 | [Maputo](https://open.spotify.com/track/5dknvijgexsIkQDeTsnAkN) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Healing The Wounds](https://open.spotify.com/album/3OVyrIbZ6lmvG9rUfKRSOR) | 6:25 | 2023-09-08 | 2024-08-09 |
@@ -95,7 +98,7 @@
 | [Ugandan Girl](https://open.spotify.com/track/1F2GvDPgcGDSY2vpMU2aHt) | [Peter Rhymer](https://open.spotify.com/artist/45RRDt2C7hWV0c4MqemmBq), [Laxzy Mover](https://open.spotify.com/artist/1LQDdqSrOOVblPnopOL8zI) | [Ugandan Girl](https://open.spotify.com/album/3MemuIRsWm2NnO7LSDSmGh) | 3:45 | 2023-09-08 | 2024-07-13 |
 | [Ukunda](https://open.spotify.com/track/40OIs7h6ycp9tVl9YJ6CgI) | [Bakhita](https://open.spotify.com/artist/1YC7oOze3tqAKiPk5aNWIy) | [Purge](https://open.spotify.com/album/6aHCku9sNDp37hKfHxdHRW) | 4:21 | 2023-09-08 | 2023-10-10 |
 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 | 2024-08-08 |  |
-| [Zaire](https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj) | [Dark Moon Flower](https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4) | 3:28 | 2023-09-08 |  |
+| [Zaire](https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj) | [Dark Moon Flower](https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4) | 3:28 | 2023-09-08 | 2025-07-04 |
 | [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 | 2024-09-12 | 2024-10-19 |
 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 | 2025-04-11 |  |
 | [Zimbabwe](https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Grand Masters](https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg) | 2:56 | 2023-09-08 | 2024-05-04 |

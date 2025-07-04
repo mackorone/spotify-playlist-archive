@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: sombr
+> The best tracks from the world of music\. Cover: HUNTR/X, KPop Demon Hunters Cast
 
 486 songs - 1 day 2 hr 17 min
 

@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-240 songs - 1 day 7 hr 53 min
+241 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dance Anyhow](https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Dance Anyhow](https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d) | 8:24 | 2024-07-12 |  |
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-17 |  |
 | [Dependable God \- Live from London](https://open.spotify.com/track/2OWowRrWrSP4v3R11eZVIh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Dependable God \(Live from London\)](https://open.spotify.com/album/23iBFmRGMwcc2BoZXnRuwO) | 5:07 | 2025-03-14 |  |
+| [Desire \- Live](https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Desire \(Live\)](https://open.spotify.com/album/2jdNxHWLRdhZg3cer80eOu) | 9:11 | 2025-07-04 |  |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-23 |  |
 | [Done me well \- Live](https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3) | [Segun John](https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2) | [Done me well \(Live\)](https://open.spotify.com/album/1HYa8ia9PxlsBUTqyIOjj3) | 8:42 | 2024-09-13 | 2024-12-20 |
 | [Done so Much](https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Cyzn](https://open.spotify.com/artist/0dA0oeFfSMIZc43fl7g5tc) | [Done so Much](https://open.spotify.com/album/5eehtoGboiXAaJEHZgbtN4) | 8:43 | 2024-02-23 | 2024-08-16 |
@@ -89,7 +90,7 @@
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2024-02-23 |  |
 | [I Need You \- Live](https://open.spotify.com/track/0YyTm2zoM1hOlcUDNBXE2Z) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [DreySongz](https://open.spotify.com/artist/6hTvRU851v5ocXtb3MBstp) | [No Bounds: The Album](https://open.spotify.com/album/6tRTPgUwjuN50FTUBVtHFn) | 10:34 | 2024-11-29 | 2025-02-28 |
 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 | 2024-11-15 |  |
-| [I Really Love You \- Live 2025](https://open.spotify.com/track/2T7N3RsR2iw0kQBWNlgkKd) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW), [Sarah Effiong](https://open.spotify.com/artist/3wcv17rONIyfQUWVCs98vX) | [I Really Love You \(Live 2025\)](https://open.spotify.com/album/4XInQNtJKca6gS7wUaK1S5) | 9:54 | 2025-05-30 |  |
+| [I Really Love You \- Live 2025](https://open.spotify.com/track/2T7N3RsR2iw0kQBWNlgkKd) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW), [Sarah Effiong](https://open.spotify.com/artist/3wcv17rONIyfQUWVCs98vX) | [I Really Love You \(Live 2025\)](https://open.spotify.com/album/4XInQNtJKca6gS7wUaK1S5) | 9:54 | 2025-05-30 | 2025-07-04 |
 | [I Surrender \- Live](https://open.spotify.com/track/7m29ckDAp2aKU8qQRmWz85) | [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [I Surrender \(Live\)](https://open.spotify.com/album/0fMopgYEHvqBBTUooLYwuM) | 18:04 | 2024-03-22 | 2025-02-28 |
 | [I Testify \- Live](https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [I Testify \(Live\)](https://open.spotify.com/album/7haaOtocoEP2jJlX5Q0gqX) | 14:27 | 2024-03-08 |  |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-02-23 | 2024-04-19 |

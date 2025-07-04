@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Pickle, Luvstruck
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Avi Snow &amp; Zeeba
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,272 likes - 29 songs - 1 hr 26 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,266 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 28 | [A Gira \(David Guetta Remix\)](https://open.spotify.com/track/2AZVoftjLl883aKfk8wSJn) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Gira \(David Guetta Remix\)](https://open.spotify.com/album/2AFJKP1Leyqf3hyxabUppZ) | 2:39 |
 | 29 | [I Was Made For Lovin' You](https://open.spotify.com/track/2YGQQjEteNKh2s90wDu9ns) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Was Made For Lovin' You](https://open.spotify.com/album/7t18nOqd5TKdQ5iuPm0sTL) | 3:01 |
 
-Snapshot ID: `AAAfvIo52SvObsLJ0UwEOP5j5wP+KXOQ`
+Snapshot ID: `AAAfvcXcjQJeZNC3ED5Fnzs4f6JXTSTI`

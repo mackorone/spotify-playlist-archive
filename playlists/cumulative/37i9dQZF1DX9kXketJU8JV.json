@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30ec\u30d0",
+        "url": "https://open.spotify.com/album/6iLOFyOKpQwyHScbAcCkUo"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194229,
+      "name": "\u30ef\u30ec\u30d0",
+      "url": "https://open.spotify.com/track/4ByBr9n6K2V59pwDvSDJdm"
+    },
+    {
+      "album": {
         "name": "\u00d7\u3068\u25cb\u3068\u7f6a\u3068",
         "url": "https://open.spotify.com/album/5ikhX6zaLZZS3gVLTlYxED"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 404373,
       "name": "\u516d\u6587\u92ad",
       "url": "https://open.spotify.com/track/5TkxhiSfPqay25JAQ1WdCf"

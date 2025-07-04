@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,357 songs - 19 day 3 hr 1 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,363 songs - 19 day 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7365,5 +7365,11 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7355 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 |
 | 7356 | [Tonight You Belong To Me](https://open.spotify.com/track/77MHOLfTVDlhcX0yDr23Uu) | [Patience & Prudence](https://open.spotify.com/artist/4F78tRprgxpEnopKTTWXor) | [The Best Of Patience & Prudence](https://open.spotify.com/album/4gjLIgSU0YkJn42NSfckkT) | 1:55 |
 | 7357 | [Ohio Valley](https://open.spotify.com/track/1IFRWHavDFp6XEk75pwEuo) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC) | [Ohio Valley](https://open.spotify.com/album/6pDSPsJIRt5VJLMBn0pyGa) | 2:11 |
+| 7358 | [Astrum Unicum / Stars, Rebirth, and You](https://open.spotify.com/track/1CHeVTBrhrY7zjhmjjh5Jg) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [YUE.STEVEN](https://open.spotify.com/artist/3fTSVN7hdmCE107F0wBrGm) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 2:30 |
+| 7359 | [Refuge of the Survivors](https://open.spotify.com/track/5uwLGzfBUoYN7IRvhT4Ne9) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [YUE.STEVEN](https://open.spotify.com/artist/3fTSVN7hdmCE107F0wBrGm) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:22 |
+| 7360 | [De insomniis / On Dreams](https://open.spotify.com/track/0OydGuW86ebnmbsgpIFGAN) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [baitian](https://open.spotify.com/artist/7A517I1oZfmO5nieMFSEaH) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 3:18 |
+| 7361 | [Songweaver of the Night](https://open.spotify.com/track/6ChbKsq9WPYTUE0pwZrfmS) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [jixwang](https://open.spotify.com/artist/4TTQTwzQJgtCLjMrIBXhEZ) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 2:19 |
+| 7362 | [Pimple](https://open.spotify.com/track/1ZPwN2BYeKssfv4avkzyKI) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:40 |
+| 7363 | [MAGO](https://open.spotify.com/track/49EywdY1mHFj27OY7U8Y2d) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6kfPGWOSabPMdO2AoSDeXY) | 3:19 |
 
-Snapshot ID: `AAAHdIWQsNdwphTtSpgw0yvlir1rYx6I`
+Snapshot ID: `AAAHejiyvHA/R/rEMphM9ST+CBXGRK/7`

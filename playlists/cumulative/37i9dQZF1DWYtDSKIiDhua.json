@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Rich Brian",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: James Alyn",
   "name": "mood. ",
   "tracks": [
     {
@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "2019",
+        "url": "https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh"
+    },
+    {
+      "album": {
         "name": "love ll(Deluxe): YUJIN",
         "url": "https://open.spotify.com/album/5jrbHT4P28HbDsarWi8ZaU"
       },
@@ -166,6 +184,28 @@
       "duration_ms": 186480,
       "name": "2AM (Feat. DWAYNE)",
       "url": "https://open.spotify.com/track/2R4HIZACFktZRtKhvc5H4P"
+    },
+    {
+      "album": {
+        "name": "2UP (feat. Because)",
+        "url": "https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165098,
+      "name": "2UP (feat. Because)",
+      "url": "https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo"
     },
     {
       "album": {
@@ -6547,6 +6587,28 @@
     },
     {
       "album": {
+        "name": "Falling Slowly",
+        "url": "https://open.spotify.com/album/2o2UWa44qPBClmRht3dH8n"
+      },
+      "artists": [
+        {
+          "name": "Marae",
+          "url": "https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI"
+        },
+        {
+          "name": "Narysal",
+          "url": "https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/6GkyCSL610cjq7BFJ59RpI"
+    },
+    {
+      "album": {
         "name": "Fallin\u2019 (feat. Assia Keva)",
         "url": "https://open.spotify.com/album/5zT1ZfIceq8hRmQBy6mxvW"
       },
@@ -9398,7 +9460,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 152542,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2aSsPrNGZOZ0nKQ2hcX4oC"
@@ -10298,7 +10360,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 210461,
       "name": "I'M NOT",
       "url": "https://open.spotify.com/track/0rcK3AqZP15bvKZpR57wHZ"
@@ -10494,6 +10556,28 @@
       "duration_ms": 216315,
       "name": "if this ain't love",
       "url": "https://open.spotify.com/track/2iDAqP8Cf6Co7OHrOit1sG"
+    },
+    {
+      "album": {
+        "name": "Ike",
+        "url": "https://open.spotify.com/album/4Xltvn18Rq4qwP5hJTcFia"
+      },
+      "artists": [
+        {
+          "name": "anw",
+          "url": "https://open.spotify.com/artist/3BUSXaJBgyolQhSgWbeQib"
+        },
+        {
+          "name": "Leon",
+          "url": "https://open.spotify.com/artist/4GgTpMfyk8ISWpGQcLxAd4"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139403,
+      "name": "Ike",
+      "url": "https://open.spotify.com/track/2JWF7fQVEDqK0PO1F7x1gf"
     },
     {
       "album": {
@@ -11078,7 +11162,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 172678,
       "name": "Is It Mine (feat. Lady London)",
       "url": "https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY"
@@ -12072,6 +12156,24 @@
       "duration_ms": 160443,
       "name": "lie to me",
       "url": "https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15"
+    },
+    {
+      "album": {
+        "name": "Life at 29",
+        "url": "https://open.spotify.com/album/4PKFjfYkqsSPG45tfqwp39"
+      },
+      "artists": [
+        {
+          "name": "Leanne & Naara",
+          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173608,
+      "name": "Life at 29",
+      "url": "https://open.spotify.com/track/7JDV5vVpw3IyXOAx0jO8wo"
     },
     {
       "album": {
@@ -13206,6 +13308,28 @@
       "duration_ms": 201000,
       "name": "Magic Lily",
       "url": "https://open.spotify.com/track/4PhyojBl5KCm16LZEE8Ijx"
+    },
+    {
+      "album": {
+        "name": "Magnolia Tree",
+        "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Magnolia Tree",
+      "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
     },
     {
       "album": {
@@ -15892,7 +16016,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 219600,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/40DgaXwYRcwiWetBWfPHrP"
@@ -17222,7 +17346,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 171873,
       "name": "RATHER BE",
       "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
@@ -17266,6 +17390,24 @@
     {
       "album": {
         "name": "Ready",
+        "url": "https://open.spotify.com/album/5qXeeCkPJcdIfnyQft6Yrr"
+      },
+      "artists": [
+        {
+          "name": "Erik Villanueva",
+          "url": "https://open.spotify.com/artist/4cWuxVZWKH9jPX74eYip2E"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/7uDMpVFv8J4BE774JrYDKJ"
+    },
+    {
+      "album": {
+        "name": "Ready",
         "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
       },
       "artists": [
@@ -17294,7 +17436,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 103225,
       "name": "REAL CLOSE",
       "url": "https://open.spotify.com/track/7pDib8H54XHADBTTs3CAQM"
@@ -18718,7 +18860,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 142986,
       "name": "Shameful Game, Pt. 2",
       "url": "https://open.spotify.com/track/0WCKUJ180VjZYtLqrGYNci"
@@ -23946,7 +24088,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 189800,
       "name": "When I Feel It",
       "url": "https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME"
@@ -24520,7 +24662,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 207500,
       "name": "Worst Of Me",
       "url": "https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF"

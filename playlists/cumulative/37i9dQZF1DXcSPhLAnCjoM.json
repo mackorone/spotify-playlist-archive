@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Me Enamore\" de RIDSA est le Grand Hit de la semaine.",
+  "description": "\"Coeur maladroit\" de Marine est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 172000,
       "name": "Ensemble - feat. Charlotte Cardin",
       "url": "https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ"
@@ -2288,6 +2288,24 @@
       "duration_ms": 167146,
       "name": "L'amour",
       "url": "https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA"
+    },
+    {
+      "album": {
+        "name": "L'amour",
+        "url": "https://open.spotify.com/album/7pgHenqjmqkUCWkvH7t5TZ"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "L'amour",
+      "url": "https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O"
     },
     {
       "album": {
@@ -3901,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "MINUIT UNE",
+        "url": "https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167653,
+      "name": "Pourquoi tu restes",
+      "url": "https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M"
+    },
+    {
+      "album": {
         "name": "[pr\u00e8chof]",
         "url": "https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq"
       },
@@ -4372,12 +4408,12 @@
       },
       "artists": [
         {
-          "name": "Bleu Soleil",
-          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
-        },
-        {
           "name": "LUIZA",
           "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        },
+        {
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
         }
       ],
       "date_added": "2025-06-26",
@@ -4688,7 +4724,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 189520,
       "name": "Triste",
       "url": "https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj"

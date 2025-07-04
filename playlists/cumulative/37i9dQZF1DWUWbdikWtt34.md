@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Lesti
 
-247 songs - 19 hr 34 min
+248 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 | 2024-02-09 |
 | [Manembak Di Ateh Kudo](https://open.spotify.com/track/4BDIGLwu9RMQuYewOfq1Rq) | [Iqhbal](https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M), [Fikoh](https://open.spotify.com/artist/5sxTaMmGwfeWV4MwUqyoeh) | [Manembak Di Ateh Kudo](https://open.spotify.com/album/2391Gq4TbIbCUq1zrLSpia) | 6:54 | 2024-08-04 | 2025-01-31 |
 | [Marlina](https://open.spotify.com/track/4aqSBMVmU6mYvAnIbnyOHr) | [Thomas Djorghi](https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI) | [Marlina](https://open.spotify.com/album/7myo2qt1Y3C97HsnmQCONr) | 4:05 | 2023-02-02 | 2023-08-25 |
+| [Masih Merindukanmu](https://open.spotify.com/track/2il7sEfjj7G2tI0waZo9Tc) | [Harry Parintang](https://open.spotify.com/artist/3L4rZ6I6bjVaVIX6WvgdZx) | [Masih Merindukanmu](https://open.spotify.com/album/2RDPcERdUjLViZBN49NbFe) | 6:09 | 2025-07-03 |  |
 | [Maslahat Patah Hati](https://open.spotify.com/track/1sOZY3dJNywbmZPW9xDVJk) | [Gilang](https://open.spotify.com/artist/7pFyHVn3WLIIefKtEkTvt6) | [Maslahat Patah Hati](https://open.spotify.com/album/58ijrgCMFbgtYM1EoRPUKy) | 5:21 | 2025-02-07 | 2025-06-27 |
 | [Mataharimu](https://open.spotify.com/track/7hrrK9IGXA1V30nLkLI7Ei) | [Sridevi](https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3) | [Mataharimu](https://open.spotify.com/album/2vmrg3VSTLe3uMvwofdVQq) | 5:17 | 2023-02-16 | 2023-07-14 |
 | [Matamu](https://open.spotify.com/track/4567XBj0AIseDcylxH3VMD) | [Meli](https://open.spotify.com/artist/11s9ZlR5AfrRW2vXUkpBO4) | [Matamu](https://open.spotify.com/album/08kfLLPvmYHfr8Zaqcrrsf) | 3:06 | 2023-05-18 | 2023-08-25 |

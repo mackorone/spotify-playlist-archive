@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "CALI KUSH",
+        "url": "https://open.spotify.com/album/1ohIKiaxjCv8UBV4n3SCZH"
+      },
+      "artists": [
+        {
+          "name": "Shyno",
+          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231937,
+      "name": "CALI KUSH",
+      "url": "https://open.spotify.com/track/2bhxXOWTLSMUuioX48CeJ3"
+    },
+    {
+      "album": {
         "name": "Callao",
         "url": "https://open.spotify.com/album/6jVLTpsEz1XACI8C2NPMDc"
       },
@@ -4895,6 +4913,40 @@
     },
     {
       "album": {
+        "name": "LA GLOPE (El Yeyo PP & Andiex Remix)",
+        "url": "https://open.spotify.com/album/0zAWr1D8MrJTtqGtxU5n9o"
+      },
+      "artists": [
+        {
+          "name": "Ladele OTM",
+          "url": "https://open.spotify.com/artist/0ryLYxj89KsjwIZEwS0k8J"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Italian Somali",
+          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
+        },
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338156,
+      "name": "LA GLOPE - El Yeyo PP & Andiex Remix",
+      "url": "https://open.spotify.com/track/1TVBGYy6QAocZpttPJWtEw"
+    },
+    {
+      "album": {
         "name": "La Jhayco",
         "url": "https://open.spotify.com/album/2vBmjKsJ6mMmDhcTJmGaby"
       },
@@ -7894,7 +7946,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 226046,
       "name": "peliNEGRA",
       "url": "https://open.spotify.com/track/7AHNRb8S3Woc0ZvZGoOJhY"
@@ -11190,7 +11242,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 188500,
       "name": "uno de prueba",
       "url": "https://open.spotify.com/track/5sn6g2N55J9UHdO5bDsRY2"

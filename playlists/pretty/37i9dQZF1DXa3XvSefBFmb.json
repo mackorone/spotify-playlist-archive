@@ -1,6 +1,6 @@
 {
   "description": "Ouve estas extraordin\u00e1rias artistas, como CAROLINA DE DEUS e explora as m\u00fasicas escolhidas pelos nossos editores. ",
-  "num_followers": 15066,
+  "num_followers": 15070,
   "original_name": "EQUAL Portugal ",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,46 @@
     {
       "added_at": "2025-07-01 23:00:07",
       "album": {
+        "name": "Ficar Por Cima",
+        "url": "https://open.spotify.com/album/5lKdTetLS6JNpekrmmMLMT"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 171991,
+      "name": "Ficar Por Cima",
+      "url": "https://open.spotify.com/track/4FbFdhugp8J1gEAKoyNVgC"
+    },
+    {
+      "added_at": "2025-07-01 23:00:07",
+      "album": {
+        "name": "Oko Boma Nga",
+        "url": "https://open.spotify.com/album/5z3GoDjxQ2UgubeHUh5Otp"
+      },
+      "artists": [
+        {
+          "name": "Titica",
+          "url": "https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s"
+        },
+        {
+          "name": "Rebo",
+          "url": "https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb"
+        },
+        {
+          "name": "Kyaku Kyadaff",
+          "url": "https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Oko Boma Nga",
+      "url": "https://open.spotify.com/track/3gzcjxH87nTFtSCR9IC1Pj"
+    },
+    {
+      "added_at": "2025-07-01 23:00:07",
+      "album": {
         "name": "Sozinha",
         "url": "https://open.spotify.com/album/6ctUih3rczyZp9INZyUQjZ"
       },
@@ -111,6 +151,26 @@
       "duration_ms": 178153,
       "name": "Sozinha",
       "url": "https://open.spotify.com/track/5YPp2OpITgckNXF71jBdW9"
+    },
+    {
+      "added_at": "2025-07-01 23:00:07",
+      "album": {
+        "name": "Ana M\u00e1rcia",
+        "url": "https://open.spotify.com/album/1lsQWgwkr3SVJTOmTmEAfW"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia",
+          "url": "https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r"
+        },
+        {
+          "name": "Jorge Palma",
+          "url": "https://open.spotify.com/artist/5uOMOTzmfhliUjnyiJh0kn"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Um Passo ao Lado",
+      "url": "https://open.spotify.com/track/2ZTjggEs13dJkJcGGIA66g"
     },
     {
       "added_at": "2025-07-01 23:00:07",
@@ -243,6 +303,38 @@
     {
       "added_at": "2025-07-01 23:00:07",
       "album": {
+        "name": "Luz do Sol",
+        "url": "https://open.spotify.com/album/3bUeinLl6EnC7DCgzx08jd"
+      },
+      "artists": [
+        {
+          "name": "Lurdes Miranda",
+          "url": "https://open.spotify.com/artist/5XHv4t7qG8d635Hf0a4Dk3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Luz do Sol",
+      "url": "https://open.spotify.com/track/1qHV73KRlTQELGjIU5YINv"
+    },
+    {
+      "added_at": "2025-07-01 23:00:07",
+      "album": {
+        "name": "N\u00e3o Penso Em Mais Nada",
+        "url": "https://open.spotify.com/album/766icFKdYm4GUNklZlVN2r"
+      },
+      "artists": [
+        {
+          "name": "Tanya",
+          "url": "https://open.spotify.com/artist/7qI3exZT75Xgr4uTGmEIaT"
+        }
+      ],
+      "duration_ms": 186716,
+      "name": "N\u00e3o Penso Em Mais Nada",
+      "url": "https://open.spotify.com/track/06unFdYYH2ylGGL2FBoKRV"
+    },
+    {
+      "added_at": "2025-07-01 23:00:07",
+      "album": {
         "name": "Pedra a Pedra",
         "url": "https://open.spotify.com/album/3ye6bL4lbhfNwPOZM7Gxjw"
       },
@@ -291,6 +383,22 @@
       "duration_ms": 172549,
       "name": "Drunk in Love",
       "url": "https://open.spotify.com/track/748Hvxoqf5wzpKq5xhJE00"
+    },
+    {
+      "added_at": "2025-07-01 23:00:07",
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/1HL8lJpPhHoFqu4JaOqpDl"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Abrunhosa",
+          "url": "https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/19KkceBpNHHcI67wkHYHHy"
     },
     {
       "added_at": "2025-07-01 23:00:07",

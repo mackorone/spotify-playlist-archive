@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-426 songs - 1 day 1 hr 26 min
+427 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Brave](https://open.spotify.com/track/6AQygTQqLS5uKpXqiM6dRG) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Yemaya](https://open.spotify.com/album/3Ezpz7KzzZVcTeapT5oSww) | 2:36 | 2022-09-09 | 2022-09-16 |
 | [Breeze \- Remix](https://open.spotify.com/track/2orDjs0U3dgK0anh6M7QAd) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Breeze \(Remix\)](https://open.spotify.com/album/7K9N5hcPwPmEjhYZHhqA45) | 2:43 | 2022-09-09 | 2024-05-10 |
 | [Broken Record](https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Broken Record](https://open.spotify.com/album/7HpmGgVcO09i1LMAqMbFbd) | 3:05 | 2025-06-06 |  |
+| [Burnin'](https://open.spotify.com/track/4Okyrxv0ZNQcykjyJ3fvAx) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [Bloom](https://open.spotify.com/album/4v8UXSF4axUN6brXSjsmiW) | 2:20 | 2025-07-03 |  |
 | [Burning Up](https://open.spotify.com/track/1ZCtCHRB0FG0khp20Oq4hh) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Burning Up](https://open.spotify.com/album/0apr7K3amwjcyrTeRA2fKV) | 3:18 | 2024-04-10 | 2025-06-20 |
 | [But, I'm Tied](https://open.spotify.com/track/416qwFAr8F4MJ7PzEJB1xy) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [But, I'm Tied](https://open.spotify.com/album/5OJiEIOVS1vJiLDW7oRpvo) | 2:30 | 2022-09-09 | 2024-11-22 |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-05-31 |  |

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-400 songs - 20 hr 49 min
+401 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Rewind](https://open.spotify.com/track/6efEvmZMPiCwAqBFmK1SqM) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Rewind](https://open.spotify.com/album/1Al7ihtbE2D62RBrmRYLR4) | 3:24 | 2022-02-03 | 2022-09-15 |
 | [Ride or Die \(ft\. Indy Skies\)](https://open.spotify.com/track/0xXaabBmxaTsxxNcf1a0Yn) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [Ride or Die](https://open.spotify.com/album/0AGE7tbV3lT8eWdSggbHkE) | 2:59 | 2023-04-22 | 2024-11-20 |
 | [Rise](https://open.spotify.com/track/5URM12vdsiM1xNtFrPikBT) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Rise](https://open.spotify.com/album/401nTlpVat5qfYmeFHHWEs) | 3:04 | 2022-02-03 | 2022-09-15 |
+| [ROCK PAPER SCISSORS!](https://open.spotify.com/track/0Cqj9gGL6ZB1gP1eKu14qp) | [Dyolow](https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre) | [ROCK PAPER SCISSORS!](https://open.spotify.com/album/6WLQiWzfSkntkJ10KhaRpH) | 1:37 | 2025-07-03 |  |
 | [Ropes](https://open.spotify.com/track/1t2qKa8K72IBC8yQlhD9bU) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [Ropes](https://open.spotify.com/album/0cgpcZCPvGGXOCpXVqPrvJ) | 3:08 | 2022-02-03 | 2023-08-11 |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-02-03 | 2022-09-15 |
 | [Royalty \- Wiguez & Alltair Remix](https://open.spotify.com/track/58A0GOp6jVOwvOFY8QpB1S) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Royalty \(Wiguez & Alltair Remix\)](https://open.spotify.com/album/5sNcv31njio0AJVl8XtceF) | 3:32 | 2022-02-03 | 2023-08-11 |

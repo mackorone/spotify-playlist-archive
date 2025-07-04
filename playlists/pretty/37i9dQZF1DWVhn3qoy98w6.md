@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. ¡Celebramos 10 años de Fresh Finds con kindapatri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,057 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,060 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 50 | [Nuevos Planes Futuras Derrotas](https://open.spotify.com/track/36xiQ4aut0kEp9R2Hl4eIf) | [Mute](https://open.spotify.com/artist/74pPZbzQHcOt9PuvlFQeCJ) | [Nuevos Planes Futuras Derrotas](https://open.spotify.com/album/4bs6UHUb7BGns3LSgPWVBv) | 2:53 |
 | 51 | [no te vayas / me da igual](https://open.spotify.com/track/0xzvxq1OMKUZHDcu5lfYey) | [Media Vida](https://open.spotify.com/artist/3Z7kHYxQN0eoYDUi9gERpE), [Épona HD](https://open.spotify.com/artist/4saTFwjZocHKVyficxXKJW) | [no te vayas / me da igual](https://open.spotify.com/album/0U3LQHWjdKqKjM13eitxck) | 3:05 |
 | 52 | [Lorazepam](https://open.spotify.com/track/7a1daYbxR6nYJcRYP4HXuv) | [Amante Laffón](https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T) | [Lorazepam](https://open.spotify.com/album/4GCRYaMud1KDfwdkYHU2Xf) | 3:05 |
-| 53 | [ya no estás¿](https://open.spotify.com/track/7wSn8p9p5fv50hhxXOjGSs) | [fuchito](https://open.spotify.com/artist/0J5ZZjyVgdd8zLtbc1jEoR) | [ya no estás¿](https://open.spotify.com/album/437lcMGYMxBlu468nIF0jy) | 1:44 |
+| 53 | [ya no estás¿](https://open.spotify.com/track/7wSn8p9p5fv50hhxXOjGSs) | [fuchito](https://open.spotify.com/artist/0J5ZZjyVgdd8zLtbc1jEoR), [fuchi](https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE) | [ya no estás¿](https://open.spotify.com/album/437lcMGYMxBlu468nIF0jy) | 1:44 |
 | 54 | [Julio](https://open.spotify.com/track/7AtET39TIfG79BZeXXAufn) | [Nudovaca](https://open.spotify.com/artist/72zqzD1S80ojN7zOBaxmHi) | [Julio](https://open.spotify.com/album/2ysgwgMCM1EcwFniJQkEz6) | 3:21 |
 | 55 | [RESPIRAR](https://open.spotify.com/track/5gDxwnMGIWo7QXHbtkDK9L) | [amaramar](https://open.spotify.com/artist/0NYaYe3yw7ky1gD4FMaYup) | [RESPIRAR](https://open.spotify.com/album/5OBm5Cbv9voTNMo5YKKPnQ) | 4:47 |
 

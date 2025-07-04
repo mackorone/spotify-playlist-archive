@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla.",
-  "num_followers": 112294,
+  "num_followers": 112315,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
+        "name": "La Historia se Repite",
+        "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        },
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        }
+      ],
+      "duration_ms": 130632,
+      "name": "La Historia se Repite",
+      "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
         "name": "Tres Cabezas",
         "url": "https://open.spotify.com/album/3PHQiLWswus9yH8tl00IUD"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 216592,
       "name": "Tres Cabezas",
       "url": "https://open.spotify.com/track/1GUx8HW9ycyXmKXVr1Vk2C"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
-        "name": "La Historia se Repite",
-        "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
-      },
-      "artists": [
-        {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
-        },
-        {
-          "name": "Reincidentes",
-          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
-        }
-      ],
-      "duration_ms": 130632,
-      "name": "La Historia se Repite",
-      "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
         "name": "Inadaptados",
         "url": "https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "Sacrilegio",
-        "url": "https://open.spotify.com/album/3lFSN01kSPP1YXYaQeFdMA"
-      },
-      "artists": [
-        {
-          "name": "Medalla",
-          "url": "https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet"
-        }
-      ],
-      "duration_ms": 234964,
-      "name": "Sacrilegio",
-      "url": "https://open.spotify.com/track/6Ji3AdKOp4JhKsJt5RpTBl"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
         "name": "No Olvidamos, 3 de Marzo - Single",
         "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "Sacrilegio",
+        "url": "https://open.spotify.com/album/3lFSN01kSPP1YXYaQeFdMA"
+      },
+      "artists": [
+        {
+          "name": "Medalla",
+          "url": "https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet"
+        }
+      ],
+      "duration_ms": 234964,
+      "name": "Sacrilegio",
+      "url": "https://open.spotify.com/track/6Ji3AdKOp4JhKsJt5RpTBl"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -975,22 +975,6 @@
       "duration_ms": 266733,
       "name": "Ellos Dicen Mierda (Live)",
       "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "Control de Masas",
-        "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 221144,
-      "name": "Control de Masas",
-      "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
         "name": "Himno de la Dictadura Travesti",
         "url": "https://open.spotify.com/album/78RzWv26gU19MnwYLBfJ4U"
       },
@@ -1107,6 +1075,22 @@
       "duration_ms": 109499,
       "name": "Himno de la Dictadura Travesti",
       "url": "https://open.spotify.com/track/22ihKXRm9Pdks2zMCDA1vJ"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "Control de Masas",
+        "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 221144,
+      "name": "Control de Masas",
+      "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -1127,18 +1111,34 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "El Rey de la Ci\u00e9naga",
-        "url": "https://open.spotify.com/album/6vusKSh4ZqJwZtjdmK0Nfr"
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
       "artists": [
         {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 184000,
-      "name": "El Rey de la Ci\u00e9naga",
-      "url": "https://open.spotify.com/track/6WwCGsJbvA6gcXRNEc04YO"
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+        "name": "El Rey de la Ci\u00e9naga",
+        "url": "https://open.spotify.com/album/6vusKSh4ZqJwZtjdmK0Nfr"
       },
       "artists": [
         {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
         }
       ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+      "duration_ms": 184000,
+      "name": "El Rey de la Ci\u00e9naga",
+      "url": "https://open.spotify.com/track/6WwCGsJbvA6gcXRNEc04YO"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "Millones de Ojos Brillantes",
-        "url": "https://open.spotify.com/album/2Je8h40FWv1MFpufjGOwjt"
-      },
-      "artists": [
-        {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Millones de Ojos Brillantes",
-      "url": "https://open.spotify.com/track/4OXw1oU2FBVDD1T5GKIUb6"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
         "name": "Preso",
         "url": "https://open.spotify.com/album/6s0eUzUmgVhN4xkyUwk5F2"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 219834,
       "name": "Preso",
       "url": "https://open.spotify.com/track/5Kwgfdhm7ZG4F1KrRIdHMu"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "Millones de Ojos Brillantes",
+        "url": "https://open.spotify.com/album/2Je8h40FWv1MFpufjGOwjt"
+      },
+      "artists": [
+        {
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Millones de Ojos Brillantes",
+      "url": "https://open.spotify.com/track/4OXw1oU2FBVDD1T5GKIUb6"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "Nada es Suficiente",
-        "url": "https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA"
-      },
-      "artists": [
-        {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Nada es Suficiente",
-      "url": "https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
         "name": "Salom\u00e9",
         "url": "https://open.spotify.com/album/3Nto07Udigz5f1Dpv8dnco"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 151228,
       "name": "Carnets de Punk",
       "url": "https://open.spotify.com/track/4RxLQ2KJwc4wWzsqXrpls4"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "Nada es Suficiente",
+        "url": "https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA"
+      },
+      "artists": [
+        {
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Nada es Suficiente",
+      "url": "https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -1439,6 +1439,70 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/5plfvAFnSlEzYyhZamSWpd"
+      },
+      "artists": [
+        {
+          "name": "Af\u00f3nica Naranjo",
+          "url": "https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC"
+        }
+      ],
+      "duration_ms": 114360,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/05KuSiTBf115S6xWtbw0jF"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
+      },
+      "artists": [
+        {
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
+        }
+      ],
+      "duration_ms": 227992,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "Fetichisme",
+        "url": "https://open.spotify.com/album/1W1ebsrIKfIZFg54OoHd3g"
+      },
+      "artists": [
+        {
+          "name": "Los Webelos",
+          "url": "https://open.spotify.com/artist/5jbMbHJ2oBy927oqGesw3k"
+        }
+      ],
+      "duration_ms": 111573,
+      "name": "Murciana",
+      "url": "https://open.spotify.com/track/1P23A8i7pYRCbsrJrsbvSt"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
         "name": "A Cara de Perro",
         "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
       },
@@ -1471,38 +1535,6 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/5plfvAFnSlEzYyhZamSWpd"
-      },
-      "artists": [
-        {
-          "name": "Af\u00f3nica Naranjo",
-          "url": "https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC"
-        }
-      ],
-      "duration_ms": 114360,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/05KuSiTBf115S6xWtbw0jF"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
         "name": "Hace falta\u2026?",
         "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
       },
@@ -1515,38 +1547,6 @@
       "duration_ms": 233000,
       "name": "La locura - original",
       "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
-      },
-      "artists": [
-        {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Su Falso Mundo - original",
-      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
     },
     {
       "added_at": "2025-07-02 09:29:52",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-07-02 09:29:52",
       "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
+    },
+    {
+      "added_at": "2025-07-02 09:29:52",
+      "album": {
         "name": "Anda y Que Te Den",
         "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 212293,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
-    },
-    {
-      "added_at": "2025-07-02 09:29:52",
-      "album": {
-        "name": "Un, Dos, Tres, Fuego",
-        "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "Las Drogas",
-      "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

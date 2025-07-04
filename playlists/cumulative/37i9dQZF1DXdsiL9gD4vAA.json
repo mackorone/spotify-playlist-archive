@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Gamon Ko Tu Marham",
+        "url": "https://open.spotify.com/album/4neoIYquYk1tIq2SzKWJBB"
+      },
+      "artists": [
+        {
+          "name": "Anweshaa",
+          "url": "https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Gamon Ko Tu Marham",
+      "url": "https://open.spotify.com/track/0XEhN9s32Au8bQKbumN3Qu"
+    },
+    {
+      "album": {
         "name": "Gham Chhedta Hai",
         "url": "https://open.spotify.com/album/7qApiKJqDmDt2I5KpNXtOR"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 276136,
       "name": "Ikhtiyar",
       "url": "https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4"

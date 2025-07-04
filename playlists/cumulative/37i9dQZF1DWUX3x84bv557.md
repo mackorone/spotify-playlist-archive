@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop! Nieuw: Kaya \(cover\), Nielson en Danique
+> Frisse Nederlandse pop! Nieuw: Robert van Hemert & Bilal Wahib \(cover\), Snelle en meer...
 
-996 songs - 1 day 23 hr 40 min
+1,001 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [1234](https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY) | 2:36 | 2023-10-12 | 2024-03-08 |
 | [17](https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [17](https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz) | 2:40 | 2023-11-09 | 2024-03-29 |
 | [2 Glazen Wijn](https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75), [Kes](https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0) | [2 Glazen Wijn](https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg) | 2:34 | 2023-11-02 | 2024-02-16 |
+| [20 Zomers](https://open.spotify.com/track/1bS3c0MdHTOdwzwIbqUZxc) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [20 Zomers](https://open.spotify.com/album/0si1iaKqsA65OXeL83UAK8) | 2:54 | 2025-07-03 |  |
 | [2007](https://open.spotify.com/track/5yqC8eYWTwcY6LcvzMmtKJ) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [2007](https://open.spotify.com/album/3G2KQP6expATleHvaHvWJT) | 2:43 | 2025-01-06 | 2025-03-21 |
 | [2017](https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [2017](https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid) | 2:25 | 2024-09-19 | 2024-12-13 |
 | [2022](https://open.spotify.com/track/1QqQHrWGQrK0NhITVo1NYo) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [2022](https://open.spotify.com/album/7rbIRHZi9B5qBDYnlbBXFA) | 2:18 | 2023-02-23 | 2023-03-31 |
@@ -237,6 +238,7 @@
 | [Der Af \(Oya Lélé\)](https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Der Af \(Oya Lélé\)](https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD) | 2:26 | 2023-02-23 | 2023-04-07 |
 | [Deze Plek](https://open.spotify.com/track/3JQTAQ2ATjOqNIZHgjCwEJ) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/4AtOJ3QhLmFPZ7RdsuT7tc) | 3:09 | 2025-02-07 | 2025-04-25 |
 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 | 2024-02-22 | 2024-04-26 |
+| [Diamant](https://open.spotify.com/track/2IeytsvuYh5NWRJLaLTbJg) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Diamant](https://open.spotify.com/album/1MdxlV8Y6QHS3erPnE3ze8) | 2:35 | 2025-07-03 |  |
 | [dichterbij \(feat\. Jayh\)](https://open.spotify.com/track/5qBomtjM1hBlPFmWfBKkuV) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [dichterbij \(feat\. Jayh\)](https://open.spotify.com/album/4i8fuWraw9mCUSkkIsKF2f) | 2:51 | 2025-05-08 |  |
 | [Dief In De Nacht](https://open.spotify.com/track/2tT91bCBuWgFiolKC7TqH5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Dief In De Nacht](https://open.spotify.com/album/6CKCaxPcC6GDQsNawO1GHZ) | 2:10 | 2023-02-23 | 2023-03-18 |
 | [Diepe Dalen](https://open.spotify.com/track/106B2gp2qiLgO7V010oR66) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Astronaut](https://open.spotify.com/album/3OJUGbfMGKDOaja2AQilRu) | 3:20 | 2024-11-07 | 2025-02-21 |
@@ -545,6 +547,7 @@
 | [Lege Dansvloer](https://open.spotify.com/track/5dqs0pwFjsXJzg5aWKDDD8) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Lege Dansvloer](https://open.spotify.com/album/06jXRm9XknDiudbHnY9eB6) | 2:34 | 2023-12-28 | 2024-02-16 |
 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 | 2023-03-16 | 2023-07-11 |
 | [Lentesneeuw](https://open.spotify.com/track/5W7WdKoJHZC6fGWbt0YWd7) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Lentesneeuw](https://open.spotify.com/album/4TTe9Cik1Vu39LxoVUAONF) | 2:53 | 2023-03-02 | 2023-06-02 |
+| [Let Go](https://open.spotify.com/track/7BGL1XtiqYYcLMlyCH4seS) | [Ali Aldrig](https://open.spotify.com/artist/0IlbBoUun2sswjQQuzgdw6) | [Let Go](https://open.spotify.com/album/40r4deFjxBMlXjCMsGxPTk) | 3:01 | 2025-07-03 |  |
 | [Leugenaar II](https://open.spotify.com/track/2YLTNvko2SBU4j0qX4iaQT) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Leugenaar II](https://open.spotify.com/album/7MCmumqUFWvcUfkUSPljxG) | 3:16 | 2023-09-14 | 2023-10-13 |
 | [Leuk Zolang Het Duurt](https://open.spotify.com/track/3fCW3J2VNOqUVSGtpSVxun) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Leuk Zolang Het Duurt](https://open.spotify.com/album/44toZgS1DzRUWhZ6mlSRf9) | 3:35 | 2023-07-20 | 2023-08-25 |
 | [Leuker Als Je High Bent](https://open.spotify.com/track/06U72hUZSEgYuqhAUUKsn7) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Leuker Als Je High Bent](https://open.spotify.com/album/5IauvUhxaKVAcwfISQ2I2S) | 2:50 | 2024-02-15 | 2024-04-05 |
@@ -621,6 +624,7 @@
 | [Mooier Als Je Lacht](https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mooier Als Je Lacht](https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL) | 3:38 | 2023-02-23 | 2023-05-27 |
 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 | 2023-09-07 | 2023-12-30 |
 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 | 2023-03-23 | 2023-05-19 |
+| [Muziek](https://open.spotify.com/track/7vlevLM94u3K5zTI3aEOLX) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Muziek](https://open.spotify.com/album/4oIvuFaHvK30SRN9zuGWN9) | 2:08 | 2025-07-03 |  |
 | [My Energy](https://open.spotify.com/track/5pvyiofS9B2guLpka9wWeZ) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [My Energy](https://open.spotify.com/album/2nIa4dTSiQbaloTwCP1XVh) | 2:55 | 2024-07-04 | 2024-08-30 |
 | [Na alles](https://open.spotify.com/track/13irTQj1JC2lJEysoQN3Oe) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Na alles](https://open.spotify.com/album/76K342zT9QDjcn9laqL5Rs) | 3:20 | 2025-06-26 |  |
 | [Naakt Zien](https://open.spotify.com/track/7E7Qhgkd8iGXj4o8l87SGN) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Life After Daddy](https://open.spotify.com/album/4FabIeNicgzy4CJhVzIMzC) | 3:12 | 2024-04-04 | 2024-06-21 |
@@ -917,6 +921,7 @@
 | [waarom met haar](https://open.spotify.com/track/2qodcGSBmMVTUhEnbyZ8my) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [in vertrouwen](https://open.spotify.com/album/3ro70qeSO0Liu4kZ3Vldsy) | 3:23 | 2024-04-11 | 2024-07-27 |
 | [Wacht Op Mij](https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wacht Op Mij](https://open.spotify.com/album/2WSQUoSEGPgHz5dcZGahpg) | 2:17 | 2023-11-02 | 2024-02-03 |
 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 | 2023-07-20 | 2023-12-22 |
+| [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 | 2025-07-03 |  |
 | [Warme Herinneringen](https://open.spotify.com/track/2zzI148jQvqo4zm2m3h2X7) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Warme Herinneringen](https://open.spotify.com/album/5hLlVXaIizLyalqdzTkOF5) | 2:34 | 2024-02-15 | 2024-05-10 |
 | [Was Ik Maar Een Vrouw](https://open.spotify.com/track/2nghxftLQYLS1wzar8cx8t) | [Guusje](https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx) | [Was Ik Maar Een Vrouw](https://open.spotify.com/album/3UYv6q4Q0CklzlCrAgh62R) | 2:50 | 2025-02-27 | 2025-03-07 |
 | [Wasted](https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Wasted](https://open.spotify.com/album/26ALDsugBcToHqcDvA0Bu4) | 2:40 | 2024-03-28 | 2024-06-21 |

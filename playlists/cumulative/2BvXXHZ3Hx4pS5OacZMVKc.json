@@ -5977,6 +5977,24 @@
     },
     {
       "album": {
+        "name": "ROCK PAPER SCISSORS!",
+        "url": "https://open.spotify.com/album/6WLQiWzfSkntkJ10KhaRpH"
+      },
+      "artists": [
+        {
+          "name": "Dyolow",
+          "url": "https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97965,
+      "name": "ROCK PAPER SCISSORS!",
+      "url": "https://open.spotify.com/track/0Cqj9gGL6ZB1gP1eKu14qp"
+    },
+    {
+      "album": {
         "name": "Ropes",
         "url": "https://open.spotify.com/album/0cgpcZCPvGGXOCpXVqPrvJ"
       },

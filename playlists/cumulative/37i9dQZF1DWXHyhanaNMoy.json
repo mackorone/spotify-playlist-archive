@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/170t24bFTKky4XYSes6cWP"
+      },
+      "artists": [
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/18pJ7y3ZiJRlfNlF3wuSOJ"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "123",
+      "url": "https://open.spotify.com/track/3HtokXT9dpaexyJCCL1Nrb"
+    },
+    {
+      "album": {
         "name": "2 Kanten",
         "url": "https://open.spotify.com/album/5XKTGqakgMXTPBY9oIJFFb"
       },
@@ -194,6 +212,24 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "20 Zomers",
+        "url": "https://open.spotify.com/album/0si1iaKqsA65OXeL83UAK8"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174409,
+      "name": "20 Zomers",
+      "url": "https://open.spotify.com/track/1bS3c0MdHTOdwzwIbqUZxc"
     },
     {
       "album": {
@@ -6404,6 +6440,32 @@
       "duration_ms": 150531,
       "name": "Cooking With Kya",
       "url": "https://open.spotify.com/track/611Qb10r4UuFacAHn7nnCW"
+    },
+    {
+      "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3oTihYYr0UWfCdBYjTwhVi"
+      },
+      "artists": [
+        {
+          "name": "Jones Suave",
+          "url": "https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo"
+        },
+        {
+          "name": "Badboygoodvibes",
+          "url": "https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3"
+        },
+        {
+          "name": "El Lider",
+          "url": "https://open.spotify.com/artist/4e2q8btT3KY7t4txFTgSTh"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/7IMJvDgfzpqUMcgeGb8EAk"
     },
     {
       "album": {
@@ -18770,7 +18832,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 151219,
       "name": "Motion",
       "url": "https://open.spotify.com/track/4AYQ2g9IwGlRwqb0MzRZ1K"
@@ -20327,6 +20389,28 @@
     },
     {
       "album": {
+        "name": "Noventa (with J Balvin)",
+        "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146700,
+      "name": "Noventa (with J Balvin)",
+      "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
+    },
+    {
+      "album": {
         "name": "Ntiya",
         "url": "https://open.spotify.com/album/2EkAgAK5EoJ2VduFeWA3tM"
       },
@@ -21115,6 +21199,28 @@
     },
     {
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/05q7S3AKmGfgEQa54gLP35"
+      },
+      "artists": [
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Saffeh",
+          "url": "https://open.spotify.com/artist/6eSYjiVkHcfFiHz8tBlSOz"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158204,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/0dvqtrRVjbQB3Z1syO23TI"
+    },
+    {
+      "album": {
         "name": "Otra",
         "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
       },
@@ -21644,6 +21750,28 @@
       "duration_ms": 156000,
       "name": "Parra",
       "url": "https://open.spotify.com/track/2Z70Qn4knFDwYhFFEa6gkJ"
+    },
+    {
+      "album": {
+        "name": "PARRA PARRA",
+        "url": "https://open.spotify.com/album/1eFKTm5sVcO06i5tfIMc0w"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122448,
+      "name": "PARRA PARRA",
+      "url": "https://open.spotify.com/track/43NdMgnspTycdzuAdEN1j9"
     },
     {
       "album": {
@@ -26070,7 +26198,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 155590,
       "name": "Sukkel",
       "url": "https://open.spotify.com/track/7zYGIaIvLBtrrEfJxTuAUS"
@@ -26930,6 +27058,28 @@
       "duration_ms": 211727,
       "name": "Terminator - Remix",
       "url": "https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ"
+    },
+    {
+      "album": {
+        "name": "Tetris Riddim",
+        "url": "https://open.spotify.com/album/25tWajWKKJdMOKOP54ecAz"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Audio Thvg",
+          "url": "https://open.spotify.com/artist/4PyNZNMH7ejFyBV8wOM2mM"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178834,
+      "name": "Tetris Riddim",
+      "url": "https://open.spotify.com/track/6H0QymUjO3cAEZyH3apUGy"
     },
     {
       "album": {

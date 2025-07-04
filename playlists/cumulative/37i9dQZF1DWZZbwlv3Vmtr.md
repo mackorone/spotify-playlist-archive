@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,043 songs - 1 day 16 hr 23 min
+1,046 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Angels](https://open.spotify.com/track/6lfVI7z6flsco36BPAeXXP) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Home](https://open.spotify.com/album/4xqPGPk7GA4kZspCS9od5T) | 2:32 | 2022-04-15 | 2022-12-10 |
 | [Animal Lounge](https://open.spotify.com/track/0NksmvvLWEDGbMBfl2Uyqi) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Marble Man](https://open.spotify.com/album/6NEtdVFyAVtH2IJJz1YGOa) | 2:51 | 2022-04-15 | 2022-07-29 |
 | [Antiquity](https://open.spotify.com/track/3wOduxGta83TqKRcZHXXD9) | [Purple Bike](https://open.spotify.com/artist/74vRXGqTgjiQGqnpFjFE2M) | [Antiquity](https://open.spotify.com/album/1EK96vQu11uj6BoZkE1dEH) | 3:17 | 2022-04-15 | 2023-07-20 |
+| [Arcticano](https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Arcticano](https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V) | 2:44 | 2025-06-30 |  |
 | [are and be](https://open.spotify.com/track/16KKyq1VNR1QFYqX9lBX1a) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [pair of dice](https://open.spotify.com/album/1BnIHuiuZhxltLIVlKXKcO) | 1:40 | 2022-05-13 |  |
 | [aroma](https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:15 | 2022-09-30 |  |
 | [as the mist clears](https://open.spotify.com/track/0CiTXFmow6AG3bayvwy87s) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [as the mist clears](https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE) | 2:54 | 2024-12-06 | 2025-02-08 |
@@ -354,7 +355,7 @@
 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 | 2022-04-15 | 2022-07-01 |
 | [Happy Rhythm](https://open.spotify.com/track/3rqXQZIaS8MJxg3ZH4U7PS) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Happy Rhythm](https://open.spotify.com/album/6kUm2VBgPparejM4cqiMOj) | 1:46 | 2022-11-11 | 2024-01-17 |
 | [Happy Vibes](https://open.spotify.com/track/756qohm4sXMyfHT6t0pPOK) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Happy Vibes](https://open.spotify.com/album/6emgwxBXdHUBvWy4y0XJwH) | 2:40 | 2022-11-11 | 2025-07-01 |
-| [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 |  |
+| [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 | 2025-07-04 |
 | [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 | 2025-07-01 |
 | [Haze](https://open.spotify.com/track/3XqZUhZcHpOtP9rhw6O43l) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Haze](https://open.spotify.com/album/3yvDt541gJut8flE9HmCAP) | 2:28 | 2024-07-26 |  |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
@@ -505,6 +506,7 @@
 | [lucky punch](https://open.spotify.com/track/4Q7dEitZXGBrgu3UzAfeZo) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [lucky punch](https://open.spotify.com/album/0ufZPC4ZmewfYvz84hExIS) | 2:08 | 2023-04-03 | 2025-06-14 |
 | [Luma Beach](https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Luma Beach](https://open.spotify.com/album/7LjazepQBFDepvqeF5UPOR) | 2:40 | 2023-01-06 | 2025-03-27 |
 | [Lunaria](https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lunaria / Hedera](https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq) | 1:33 | 2022-04-15 | 2023-09-22 |
+| [Lupins Cry](https://open.spotify.com/track/32AeqdlBgXnfkjYjrOTG3P) | [Leonard Hudgens](https://open.spotify.com/artist/6WpmWIpXTW0N63IGUFqIlT) | [Lupins Cry](https://open.spotify.com/album/1ofRQ1sRcB4froEAvX0wbj) | 2:14 | 2025-06-30 |  |
 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 | 2022-09-23 | 2023-10-06 |
 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 | 2023-09-22 |  |
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
@@ -565,7 +567,7 @@
 | [My Love](https://open.spotify.com/track/7nRo1kUkF9JNOnANYTMwwL) | [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [My Love](https://open.spotify.com/album/78VzVw5b1V3EALZlIYafqX) | 2:14 | 2022-05-20 | 2022-07-08 |
 | [My Piano Is Mellow](https://open.spotify.com/track/2BNiYyI8qELuU8EWShKVNE) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [My Piano Is Mellow](https://open.spotify.com/album/5xVX9rk2bIdXxS6nvnKcYb) | 3:16 | 2024-01-12 | 2025-03-29 |
 | [Myself Again](https://open.spotify.com/track/0EZsE0bYkALw8BuUiXrd0c) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Myself Again](https://open.spotify.com/album/30laIP0TNPjhnZkxy0gjr7) | 2:18 | 2022-10-28 | 2022-12-10 |
-| [Mysteries](https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG) | [Argenius](https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s) | [Mysteries](https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO) | 2:00 | 2023-12-15 |  |
+| [Mysteries](https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG) | [Argenius](https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s) | [Mysteries](https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO) | 2:00 | 2023-12-15 | 2025-07-04 |
 | [Mystery Manor](https://open.spotify.com/track/6irOnKwOjYJFCvtCHG1RQC) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Mystery Manor](https://open.spotify.com/album/3f8kwCuIcf4XEwT5ZPh63E) | 2:00 | 2024-03-08 | 2024-12-07 |
 | [Nagata Lights](https://open.spotify.com/track/3tI6ByTenOTqT0fIj5digf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Nagata Lights](https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf) | 2:02 | 2022-04-15 | 2022-12-10 |
 | [NANA](https://open.spotify.com/track/4rPKfCe7Rc4uUv9SyVkW8S) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [NANA](https://open.spotify.com/album/1k6DOBPWj02qzFcaMhrEEd) | 2:05 | 2022-10-14 | 2023-09-22 |
@@ -773,6 +775,7 @@
 | [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 | 2022-11-11 | 2022-12-14 |
 | [Shapes](https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Kairoh](https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2) | [Shapes](https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3) | 2:20 | 2023-04-03 | 2023-09-29 |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |
+| [Shimmer](https://open.spotify.com/track/1jzsy7WuphqkkNQCYO0oQT) | [Velvet Static](https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1) | [Shimmer](https://open.spotify.com/album/5vdZfU54ttldYpVRufsYLJ) | 2:15 | 2025-06-30 |  |
 | [Shine Again](https://open.spotify.com/track/7kqy1v6tydmrfwrnJLMuaa) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Shine Again](https://open.spotify.com/album/5pOhVfE6GwH6HwnTU8WZTs) | 2:26 | 2024-02-23 |  |
 | [Shine with Me](https://open.spotify.com/track/35h2Ko0ci9Dt4RazCs46w5) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Shine with Me](https://open.spotify.com/album/6rKFLUK5GjsoyhpW8JS35i) | 4:45 | 2024-02-02 | 2024-08-10 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 |  |
@@ -784,7 +787,7 @@
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-22 |  |
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-04-15 | 2022-06-03 |
 | [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
-| [Skippy](https://open.spotify.com/track/2LHxUoqCPDbroBUzYJvIMi) | [Skipclass](https://open.spotify.com/artist/27cq2WN6MbO7i9788ZKFIr) | [Skippy](https://open.spotify.com/album/4TIbONnA1JbjdbQcUAppg5) | 2:28 | 2025-03-21 |  |
+| [Skippy](https://open.spotify.com/track/2LHxUoqCPDbroBUzYJvIMi) | [Skipclass](https://open.spotify.com/artist/27cq2WN6MbO7i9788ZKFIr) | [Skippy](https://open.spotify.com/album/4TIbONnA1JbjdbQcUAppg5) | 2:28 | 2025-03-21 | 2025-07-04 |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 | 2025-02-23 |
 | [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 |  |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |

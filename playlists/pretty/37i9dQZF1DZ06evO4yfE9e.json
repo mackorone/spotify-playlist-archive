@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2407,
+  "num_followers": 2413,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGMlAAAAAAAwBp/4W10sRaV/4cR4MAzC",
+  "snapshot_id": "aGR2gAAAAACqdcDP/lIQNUbsV4imWUJT",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Things I Do For Love",
-        "url": "https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 160588,
-      "name": "The Things I Do For Love",
-      "url": "https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 137647,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Things I Do For Love",
+        "url": "https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "The Things I Do For Love",
+      "url": "https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grim Reaper",
-        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Grim Reaper",
-      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deserve Each Other",
         "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 167650,
       "name": "Deserve Each Other",
       "url": "https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grim Reaper",
+        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Grim Reaper",
+      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DROOL",
-        "url": "https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "DarkMagicSillySexy (origin story)",
-      "url": "https://open.spotify.com/track/5zf0I513OSe5u5C3Czc3bc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bizarre feat. 6arelyhuman",
         "url": "https://open.spotify.com/album/6qewFXnzaboTiupNP8r6nn"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 163576,
       "name": "Bizarre feat. 6arelyhuman",
       "url": "https://open.spotify.com/track/1GFec99STPgAqDBqiitcLt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DROOL",
+        "url": "https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "DarkMagicSillySexy (origin story)",
+      "url": "https://open.spotify.com/track/5zf0I513OSe5u5C3Czc3bc"
     },
     {
       "added_at": null,

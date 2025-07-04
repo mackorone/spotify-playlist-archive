@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Yoon Jong Shin (\uc724\uc885\uc2e0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Zia (\uc9c0\uc544)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -762,6 +762,24 @@
       "duration_ms": 228333,
       "name": "About time",
       "url": "https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT"
+    },
+    {
+      "album": {
+        "name": "Acacia",
+        "url": "https://open.spotify.com/album/5axBcGYXDbRqB0XrSL2FMd"
+      },
+      "artists": [
+        {
+          "name": "LEE SOLOMON",
+          "url": "https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Acacia",
+      "url": "https://open.spotify.com/track/2VLa2q4guNSxhyoRx3imlb"
     },
     {
       "album": {
@@ -20418,7 +20436,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 238419,
       "name": "Star",
       "url": "https://open.spotify.com/track/3j0JMgCEyR45tBCVUo1CMb"

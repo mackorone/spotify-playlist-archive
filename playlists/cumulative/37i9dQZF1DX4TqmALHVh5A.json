@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : MDNS",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Barbet",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 198656,
       "name": "Faded",
       "url": "https://open.spotify.com/track/7cLOHXK3Rst9Uhx2e4kbjm"
@@ -2256,6 +2256,24 @@
       "duration_ms": 209226,
       "name": "J'irai",
       "url": "https://open.spotify.com/track/4YY4smnNxdI2uRi3UgGmD7"
+    },
+    {
+      "album": {
+        "name": "j'peux pas te sortir de ma t\u00eate (can't get you out of my head)",
+        "url": "https://open.spotify.com/album/14pywwtvhvf7b5AqRorTFW"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189869,
+      "name": "j'peux pas te sortir de ma t\u00eate (can't get you out of my head)",
+      "url": "https://open.spotify.com/track/66R9mjXTFnOcjvpArXw1Nw"
     },
     {
       "album": {
@@ -4573,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "graou",
+        "url": "https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW"
+      },
+      "artists": [
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131226,
+      "name": "scorpion ascendant scorpion",
+      "url": "https://open.spotify.com/track/1UnPDzVRkrTBflEQ9MJUhX"
+    },
+    {
+      "album": {
         "name": "Serie A",
         "url": "https://open.spotify.com/album/6AQIcVtbI9gxFbRIKyr1i6"
       },
@@ -5706,7 +5742,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 141966,
       "name": "zombi",
       "url": "https://open.spotify.com/track/5gxrevOrqNW1IPPtZaKJZt"

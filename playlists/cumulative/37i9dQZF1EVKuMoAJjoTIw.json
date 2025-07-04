@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIX0u2j6eOzT7>Vacations</a>, <a href=spotify:playlist:37i9dQZF1EIZujF7htohM0>D\u01b0\u01a1ng Domic</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYbzNugsAfnh>Cheema Y</a>, <a href=spotify:playlist:37i9dQZF1EIWUC9LobrpBL>The Lonely Tree</a>, <a href=spotify:playlist:37i9dQZF1EIW5eqfxYp1JJ>Vishal Mishra</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 170830,
       "name": "A Year Ago",
       "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
+    },
+    {
+      "album": {
+        "name": "Love Feels with Vishal Mishra",
+        "url": "https://open.spotify.com/album/6TmVjiKcgXt8N4FE94t4uG"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259056,
+      "name": "Aaj Bhi 2",
+      "url": "https://open.spotify.com/track/16kUphL69BBLbrpl4bPXiB"
     },
     {
       "album": {
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 197732,
       "name": "Dancing With Your Ghost",
       "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ"
@@ -3716,7 +3734,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 233453,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz"
@@ -5471,6 +5489,28 @@
     },
     {
       "album": {
+        "name": "Killswitch Lullaby (Remixes)",
+        "url": "https://open.spotify.com/album/0pDz9K5o03JVFxkateLErs"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Tree",
+          "url": "https://open.spotify.com/artist/6lpbNvU6UQz0VOYYZClvay"
+        },
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Killswitch Lullaby (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/6UEavK4FwqZNqQU59DtA2E"
+    },
+    {
+      "album": {
         "name": "Ku Ingin Pisah",
         "url": "https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO"
       },
@@ -6334,7 +6374,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY"
@@ -7006,7 +7046,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 207473,
       "name": "M\u1ea5t K\u1ebft N\u1ed1i",
       "url": "https://open.spotify.com/track/3CmacJj7VC4W6daC8BWd0h"
@@ -7028,6 +7068,28 @@
       "duration_ms": 233400,
       "name": "Naked",
       "url": "https://open.spotify.com/track/2fmyrECK6bdfoGven0UMZx"
+    },
+    {
+      "album": {
+        "name": "Dripster",
+        "url": "https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Necklace",
+      "url": "https://open.spotify.com/track/5Pjn1aQS59ET5lJQminZTd"
     },
     {
       "album": {
@@ -7882,7 +7944,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 141096,
       "name": "Remember Me Happy",
       "url": "https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO"
@@ -9102,7 +9164,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -9906,7 +9968,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 160184,
       "name": "the remedy for a broken heart (why am I so in love)",
       "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"
@@ -11596,7 +11658,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 189160,
       "name": "Young",
       "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"

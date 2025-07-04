@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 118500,
       "name": "among the trees",
       "url": "https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 111000,
       "name": "golden hour - piano instrumental",
       "url": "https://open.spotify.com/track/4MAU5QwI1Gu57gsnL7CUpt"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 146937,
       "name": "Headache",
       "url": "https://open.spotify.com/track/22ECnbNX6WlUzr7gZelnlW"
@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 377560,
       "name": "Mudita",
       "url": "https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI"
@@ -5053,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121146,
+      "name": "Nord",
+      "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"
+    },
+    {
+      "album": {
         "name": "Nutrition",
         "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
       },
@@ -5173,6 +5191,24 @@
     },
     {
       "album": {
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/23zFZD3Zh8m2PGQCRi1WxA"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169477,
+      "name": "Oracle",
+      "url": "https://open.spotify.com/track/4CSAKHKH4rT0C3AGg5SMfF"
+    },
+    {
+      "album": {
         "name": "Chillhop Essentials Summer 2018",
         "url": "https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM"
       },
@@ -5256,7 +5292,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 435070,
       "name": "Parallel 9",
       "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
@@ -6264,7 +6300,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 341621,
       "name": "Sin\u00fa",
       "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
@@ -6322,6 +6358,28 @@
       "duration_ms": 153000,
       "name": "Sisu",
       "url": "https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK"
+    },
+    {
+      "album": {
+        "name": "Sixes (Maston Remix)",
+        "url": "https://open.spotify.com/album/79rdWreeY4okpdlBbFA7X3"
+      },
+      "artists": [
+        {
+          "name": "Tunng",
+          "url": "https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa"
+        },
+        {
+          "name": "Maston",
+          "url": "https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Sixes - Maston Remix",
+      "url": "https://open.spotify.com/track/1zWWNTuMhN37NyFtHsdCtH"
     },
     {
       "album": {
@@ -8290,7 +8348,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 364114,
       "name": "Wind Tempos",
       "url": "https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb"

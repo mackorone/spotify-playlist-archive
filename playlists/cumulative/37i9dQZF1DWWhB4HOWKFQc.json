@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Assia Keva",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Andre Taulany & Friends",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 219271,
       "name": "123456",
       "url": "https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB"
@@ -3641,6 +3641,28 @@
     },
     {
       "album": {
+        "name": "Cinta Lama",
+        "url": "https://open.spotify.com/album/1TWCNLugI6YynMZNKZCAbS"
+      },
+      "artists": [
+        {
+          "name": "Sarambang",
+          "url": "https://open.spotify.com/artist/1EobSS7qK9AQkxq7FNmfo9"
+        },
+        {
+          "name": "Fresly Nikijuluw",
+          "url": "https://open.spotify.com/artist/27CTGmSgvs2cUMSErJ1Thc"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237525,
+      "name": "Cinta Lama",
+      "url": "https://open.spotify.com/track/3jYNEuI8X1eaAwjTch4Yf0"
+    },
+    {
+      "album": {
         "name": "Cinta Tak Dibalas Cinta",
         "url": "https://open.spotify.com/album/2hCvXNwO6pfbzM0tkYeR57"
       },
@@ -3758,7 +3780,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 336000,
       "name": "CLBK - Cinta Lama Bersemi Kembali",
       "url": "https://open.spotify.com/track/4t5BuZnJ29lEtiEMqeRMnO"
@@ -4369,6 +4391,28 @@
     },
     {
       "album": {
+        "name": "Dame Un Grrr",
+        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
+      },
+      "artists": [
+        {
+          "name": "Fantomel",
+          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
+        },
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133220,
+      "name": "Dame Un Grrr",
+      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
+    },
+    {
+      "album": {
         "name": "Even In Arcadia",
         "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
       },
@@ -4962,7 +5006,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 234375,
       "name": "Diculik Cinta",
       "url": "https://open.spotify.com/track/7fJI7XBLDehft0PEE7OCPY"
@@ -6192,6 +6236,24 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "album": {
@@ -9008,7 +9070,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 164733,
       "name": "Just a Friend to You",
       "url": "https://open.spotify.com/track/2f4FDuRjuV1yXfpoG49ABM"
@@ -9338,7 +9400,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 251091,
       "name": "Kau Selalu Di Hati",
       "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
@@ -10498,7 +10560,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -12281,6 +12343,28 @@
     },
     {
       "album": {
+        "name": "MODE PESAWAT",
+        "url": "https://open.spotify.com/album/15qFUQwEfioE7IsgSmYKvL"
+      },
+      "artists": [
+        {
+          "name": "Dandy Barakati",
+          "url": "https://open.spotify.com/artist/7LH7FnJnYDzDVmTaTKbbOB"
+        },
+        {
+          "name": "Dante Nababan",
+          "url": "https://open.spotify.com/artist/2K1UsmyjLoc1p74gCmrWeh"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241866,
+      "name": "MODE PESAWAT",
+      "url": "https://open.spotify.com/track/2LZONY3XRqbWYQcm3mRb1l"
+    },
+    {
+      "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
       },
@@ -12892,6 +12976,32 @@
       "duration_ms": 208313,
       "name": "next door (feat. ASTN)",
       "url": "https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP"
+    },
+    {
+      "album": {
+        "name": "Ngapain Repot",
+        "url": "https://open.spotify.com/album/0hEt3PH6b53bkKUcjG09Ee"
+      },
+      "artists": [
+        {
+          "name": "Toton Caribo",
+          "url": "https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu"
+        },
+        {
+          "name": "Wizz Baker",
+          "url": "https://open.spotify.com/artist/4PUHVTv6waMpd1JUP7G6n2"
+        },
+        {
+          "name": "Fresly Nikijuluw",
+          "url": "https://open.spotify.com/artist/27CTGmSgvs2cUMSErJ1Thc"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254401,
+      "name": "Ngapain Repot",
+      "url": "https://open.spotify.com/track/7EJn4U6IySwLSfLZX07muY"
     },
     {
       "album": {
@@ -15218,6 +15328,24 @@
       "duration_ms": 228762,
       "name": "Rearrange My World",
       "url": "https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv"
+    },
+    {
+      "album": {
+        "name": "Ok Love You Bye",
+        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "Reason To Stay",
+      "url": "https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v"
     },
     {
       "album": {
@@ -18896,7 +19024,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 207750,
       "name": "Tanda",
       "url": "https://open.spotify.com/track/1NB2xmVvtdTBX2YpQALP1Z"
@@ -19381,6 +19509,24 @@
     },
     {
       "album": {
+        "name": "Terbaik Untukmu",
+        "url": "https://open.spotify.com/album/4SmCSqJ7ERRcu5ihXMlEo1"
+      },
+      "artists": [
+        {
+          "name": "Andre Taulany & Friends",
+          "url": "https://open.spotify.com/artist/3JTjh7ogm45QH8r62NjEIt"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254360,
+      "name": "Terbaik Untukmu",
+      "url": "https://open.spotify.com/track/7Ls1vL6IrBo7eOmnMAKk06"
+    },
+    {
+      "album": {
         "name": "Terbiasa",
         "url": "https://open.spotify.com/album/1hbznvDyJxzNgJL6YgMIkD"
       },
@@ -19396,6 +19542,24 @@
       "duration_ms": 213021,
       "name": "Terbiasa",
       "url": "https://open.spotify.com/track/0PXxRlVWKdnczapAH53nZH"
+    },
+    {
+      "album": {
+        "name": "Jalaran Sadrah",
+        "url": "https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Terbuang Dalam Waktu",
+      "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
     },
     {
       "album": {
@@ -19512,7 +19676,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 328304,
       "name": "Termiskin Di Dunia",
       "url": "https://open.spotify.com/track/00SZUabJ4X5ZcjR0vSwyNi"
@@ -21766,6 +21930,24 @@
       "duration_ms": 152865,
       "name": "XXL",
       "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
+    },
+    {
+      "album": {
+        "name": "EMDP (The Last Album)",
+        "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
     },
     {
       "album": {

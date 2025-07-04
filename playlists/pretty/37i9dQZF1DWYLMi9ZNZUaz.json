@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 109275,
+  "num_followers": 109307,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -35,22 +35,6 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
-        "name": "Love is",
-        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 266758,
-      "name": "Love is",
-      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
-    },
-    {
-      "added_at": "2025-06-17 01:14:36",
-      "album": {
         "name": "N\u00f3i D\u1ed1i",
         "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+    },
+    {
+      "added_at": "2025-06-17 01:14:36",
+      "album": {
+        "name": "Love is",
+        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 266758,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
     },
     {
       "added_at": "2025-06-17 01:14:36",
@@ -299,18 +299,22 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+        "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
+        "url": "https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI"
       },
       "artists": [
         {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+          "name": "The Wind",
+          "url": "https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+      "duration_ms": 212000,
+      "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
+      "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
     },
     {
       "added_at": "2025-06-17 01:14:36",
@@ -439,22 +443,18 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
-        "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
-        "url": "https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI"
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
       },
       "artists": [
         {
-          "name": "The Wind",
-          "url": "https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
-      "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2025-06-17 01:14:36",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "added_at": "2025-06-17 01:14:36",
+      "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
@@ -559,6 +575,26 @@
       "duration_ms": 175876,
       "name": "HOP ON DA SHOW",
       "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
+    },
+    {
+      "added_at": "2025-06-17 01:14:36",
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
     },
     {
       "added_at": "2025-06-17 01:14:36",
@@ -647,42 +683,6 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
-    },
-    {
-      "added_at": "2025-06-17 01:14:36",
-      "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2025-06-17 01:14:36",
-      "album": {
         "name": "B\u1ea1n \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
-        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
-      },
-      "artists": [
-        {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
-        },
-        {
-          "name": "REX",
-          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
-    },
-    {
-      "added_at": "2025-06-17 01:14:36",
-      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -811,22 +791,22 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
       },
       "artists": [
         {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
         },
         {
-          "name": "SpideyBoy",
-          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
         }
       ],
-      "duration_ms": 224918,
-      "name": "H\u1ed3ng kh\u00f4ng gai",
-      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
+      "duration_ms": 192631,
+      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
     },
     {
       "added_at": "2025-06-17 01:14:36",
@@ -855,6 +835,26 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2025-06-17 01:14:36",
+      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -875,22 +875,22 @@
     {
       "added_at": "2025-06-17 01:14:36",
       "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
       "artists": [
         {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
         },
         {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+          "name": "SpideyBoy",
+          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+      "duration_ms": 224918,
+      "name": "H\u1ed3ng kh\u00f4ng gai",
+      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
     },
     {
       "added_at": "2025-06-17 01:14:36",

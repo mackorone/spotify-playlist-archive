@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,172 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,200 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 2 | [Vidhi](https://open.spotify.com/track/6SQJSUTpV19eAvK5UHlVU6) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Jkfactor](https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv) | [Vidhi](https://open.spotify.com/album/4zouKNLpJL3ZdWg2TDTf7J) | 2:22 |
 | 3 | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/track/5Xev3pFAWixBYsC7yACDL0) | [Vikaas Alphonse](https://open.spotify.com/artist/04zBR4pYFN5uXURipTEWM1) | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/album/3APjpLizzOkMJqvI6xZnin) | 2:59 |
 | 4 | [Munnottu](https://open.spotify.com/track/5sOZQG8Yr8tYunaHuSp4ik) | [Earthgrime](https://open.spotify.com/artist/2eDYdmzgVH5cTJh20dCeSO), [Edo No Jidai](https://open.spotify.com/artist/2uqwKAgha9aY8lqBIZk0t9), [Bhraandan](https://open.spotify.com/artist/42jvGGIqzYvTjLlgPDVoCD) | [Dirty Natural Adholokam](https://open.spotify.com/album/64UeFxLJrRWUmBpNGAvTVD) | 3:49 |
-| 5 | [AROOPI](https://open.spotify.com/track/6hf0kqP0Jq4FGRKSsM5S73) | [HIMSRA](https://open.spotify.com/artist/5A7K5qxMDb4frXxSGkv8Na), [Leonardo cili](https://open.spotify.com/artist/6eysGSGtsc9qonGbW94oGL) | [AROOPI](https://open.spotify.com/album/4qKQmib3qH9I5CIUl5IwAy) | 2:15 |
+| 5 | [AROOPI](https://open.spotify.com/track/6hf0kqP0Jq4FGRKSsM5S73) | [HIMSRA](https://open.spotify.com/artist/5A7K5qxMDb4frXxSGkv8Na), [Leonardo Cili](https://open.spotify.com/artist/3vFEbP2OrQbqFO2shzVido) | [AROOPI](https://open.spotify.com/album/4qKQmib3qH9I5CIUl5IwAy) | 2:15 |
 | 6 | [POLLAP](https://open.spotify.com/track/6u1Gv8FrIaXheMiqimMl7J) | [VETHALAM](https://open.spotify.com/artist/3tsYNRrKaMxFDNzKmk1oFl), [Dcypher](https://open.spotify.com/artist/0H0hcIgXiQHYIAl9m3y8Qe), [Ribbro](https://open.spotify.com/artist/5JtOYsXiOGkqckh5oS58te) | [POLLAP](https://open.spotify.com/album/59kRSbe8w6LncEgh6MFqdS) | 3:00 |
 | 7 | [Thaalam](https://open.spotify.com/track/4hACUnNid6MAbpOHhOBzyJ) | [GVND](https://open.spotify.com/artist/0fopEzMmaouwMVGrYYvMbF), [whoisavi](https://open.spotify.com/artist/4eUXY3eIl8Dt3i1hFcv7Im) | [Thaalam](https://open.spotify.com/album/6u03iYAoHVhHgIV76dZziv) | 1:54 |
 | 8 | [Kejah](https://open.spotify.com/track/0JxsBVBtlxC7e5ZTHmn9XS) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Kejah](https://open.spotify.com/album/1iC5eqNcHO5v8HExIL43be) | 3:31 |

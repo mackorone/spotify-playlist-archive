@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,862 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,928 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,17 +77,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 67 | [Ya No Te Amo](https://open.spotify.com/track/6GdRneLvY9kMbfIkLtwxcw) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Ya No Te Amo](https://open.spotify.com/album/1FzXEMLMii2ChiIVJiNTnF) | 3:01 |
 | 68 | [Levanten Las Manos](https://open.spotify.com/track/6icXIpG8tg5KKJ4dPxyNvP) | [Corre Guachin](https://open.spotify.com/artist/02AwBRpMnDrozfJcOnFOaY) | [Tropi Hits Villero](https://open.spotify.com/album/4WNb7lnjKR7H23Txcwp30S) | 2:41 |
 | 69 | [Baila para Mi](https://open.spotify.com/track/51Uw47jeFgvv622ma9PxWy) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [La Rejunta](https://open.spotify.com/artist/0N8yshYVjJL0UVHmGICvaX) | [Baila para Mi](https://open.spotify.com/album/2w5OAJGbMjgj9Rct0HBVPD) | 2:29 |
-| 70 | [Nunca Es Suficiente](https://open.spotify.com/track/4yV1J93B4CoqtBFnD5DOi2) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Nunca Es Suficiente](https://open.spotify.com/album/73GNhslDnzJTSxV4p0LRxu) | 4:22 |
-| 71 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
-| 72 | [Lloviendo Estrellas](https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Lloviendo Estrellas](https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw) | 2:32 |
+| 70 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 |
+| 71 | [Lloviendo Estrellas](https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Lloviendo Estrellas](https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw) | 2:32 |
+| 72 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 | 73 | [Sola Otra Vez](https://open.spotify.com/track/1zwH02KhFWC4wOtiZ1We1g) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sola Otra Vez](https://open.spotify.com/album/2lVKzhuuSFd1JVJe9U1gbV) | 3:28 |
 | 74 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
-| 75 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 |
+| 75 | [Nunca Es Suficiente](https://open.spotify.com/track/4yV1J93B4CoqtBFnD5DOi2) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Nunca Es Suficiente](https://open.spotify.com/album/73GNhslDnzJTSxV4p0LRxu) | 4:22 |
 | 76 | [Deja de Llorar](https://open.spotify.com/track/5wFoT4T2XT4bGnDDP8s61K) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Deja de Llorar](https://open.spotify.com/album/454hfJ2elt2NW7PkPwu44U) | 3:27 |
 | 77 | [Soy Diosito \(El Marginal\)](https://open.spotify.com/track/5JSuQyBvc2njGceOcHNCGp) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Soy Diosito \(El Marginal\)](https://open.spotify.com/album/07yGIlea1vNKFmDDRArk6o) | 2:43 |
-| 78 | [Las Pibas Quieren Sexo](https://open.spotify.com/track/6f74byCsPJ4EHUOEcMeyBR) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Tropi Hits Villero](https://open.spotify.com/album/4WNb7lnjKR7H23Txcwp30S) | 2:35 |
+| 78 | [Me Voy Me Fui](https://open.spotify.com/track/2Sxd74ZqVc52T3WEl9jf3a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Revolución II](https://open.spotify.com/album/0kvnWxKguuf3UR7N8ljph2) | 4:24 |
 | 79 | [Me Muero por Besarte](https://open.spotify.com/track/4ySkQDs1dYGvSmbhX1fwvv) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Me Muero por Besarte](https://open.spotify.com/album/6pk9keWjLlXBjXumLetz8L) | 3:32 |
-| 80 | [Me Voy Me Fui](https://open.spotify.com/track/2Sxd74ZqVc52T3WEl9jf3a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Revolución II](https://open.spotify.com/album/0kvnWxKguuf3UR7N8ljph2) | 4:24 |
+| 80 | [Las Pibas Quieren Sexo](https://open.spotify.com/track/6f74byCsPJ4EHUOEcMeyBR) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Tropi Hits Villero](https://open.spotify.com/album/4WNb7lnjKR7H23Txcwp30S) | 2:35 |
 | 81 | [El Telefono](https://open.spotify.com/track/1fAwaxPzUBxeX7rbdlm2Zr) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [El Teléfono](https://open.spotify.com/album/7zlhllBlDW5aQEbBACgRtu) | 2:26 |
 | 82 | [Vete](https://open.spotify.com/track/0N2NJN6JvYD9xfyw041v9c) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt), [Sonido De La Costa](https://open.spotify.com/artist/29W4Fw8TDGfXD7C9EjJkzc) | [Desde el Alma](https://open.spotify.com/album/1bhZNhYkAyRwdyInSp0vUF) | 2:29 |
 | 83 | [Amor Pirata](https://open.spotify.com/track/59Kj0QCj8M6ENS8kq23SY9) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Amor Pirata](https://open.spotify.com/album/7rIuUyL3dYUoYKeQUgBNrK) | 3:01 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 94 | [Un Montón de Estrellas \- En Vivo Gran Rex](https://open.spotify.com/track/555Op74S64KmntebD6O3wa) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Un Montón de Estrellas \(En Vivo Gran Rex\)](https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR) | 2:45 |
 | 95 | [A Veces Responde](https://open.spotify.com/track/3qawstmTK8GwZMy9zx9cKd) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Underdann](https://open.spotify.com/artist/38vgy1HVVWTE9VJtxFn1cz) | [A Veces Responde](https://open.spotify.com/album/3rBBGPpNxPCcTOpRfb6jxx) | 3:03 |
 | 96 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 |
-| 97 | [El Amor Se Fue](https://open.spotify.com/track/4gL6hu70wpAspYTkhcPs0B) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/1LrZFbEAykwB4amfxagu6u) | 3:50 |
+| 97 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 |
 | 98 | [El Está en el Asunto](https://open.spotify.com/track/565XdywdSSdycmcXIAuwN1) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Los Pibes del Penal](https://open.spotify.com/album/4dNjuJbpg3RT3Cj48NUYsR) | 3:20 |
-| 99 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 |
-| 100 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 |
+| 99 | [El Amor Se Fue](https://open.spotify.com/track/4gL6hu70wpAspYTkhcPs0B) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/1LrZFbEAykwB4amfxagu6u) | 3:50 |
+| 100 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 |
 
 Snapshot ID: `aF6pJgAAAAD+3RE/BIjSpf1FFMYhzGaw`

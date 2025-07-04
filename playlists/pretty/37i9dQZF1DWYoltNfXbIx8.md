@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,301 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,333 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 64 | [Verão na Vr](https://open.spotify.com/track/1zmrCI79qVk2BZJA6Skwdi) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Jogada Final](https://open.spotify.com/album/6l0hajkWQRFXLcdR5Pe455) | 6:33 |
 | 65 | [Viajando Na Balada](https://open.spotify.com/track/1bJC1W4KGqqSQ58Vt4xQBx) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/5EiEUPlz8hHCWC5jpF9Ms6) | 5:11 |
 | 66 | [Contexto](https://open.spotify.com/track/5eS43KfdjIfUWxAXpfXT8x) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [A Invasão do Sagaz Homem Fumaça](https://open.spotify.com/album/0ElMwq6ONWreyOISGZKaTl) | 3:45 |
-| 67 | [Enxame](https://open.spotify.com/track/21HGlwk8A6uiTMdb74W4Jb) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 6:31 |
+| 67 | [Enxame](https://open.spotify.com/track/21HGlwk8A6uiTMdb74W4Jb) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sabotage](https://open.spotify.com/artist/6PJVoNo18rPZ2gjIL4y7sV) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 6:31 |
 | 68 | [Se o Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/4pEi1lS6zX3MSsMUH1BBwz) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz), [Adriana Lessa](https://open.spotify.com/artist/0rYHFYy1sEUIRLg8vaoIim) | [Valeu a Experiência](https://open.spotify.com/album/5aQEUX7xQXEiBVRjyc5I8v) | 5:36 |
 | 69 | [Saudades Mil](https://open.spotify.com/track/79zU8jvVMf5GEvpFqBF1Ya) | [509\-E](https://open.spotify.com/artist/66F3yLuWFXacPEAmJNfRBi) | [Provérbios 13](https://open.spotify.com/album/57PrguDb7kufweSs0PyAwT) | 8:46 |
 | 70 | [O Clã da Vila](https://open.spotify.com/track/5nTbVPKyZKVmFSecCTOYQw) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/57vnpZ4v77hRjGNISaOKbK), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [O Clã da Vila](https://open.spotify.com/album/4JLOi2j58hErx1BMMaT2Kx) | 7:33 |

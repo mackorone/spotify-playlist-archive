@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto:  \u00c1TOA , Lu\u00eds Trigacheiro",
+  "description": "Uma playlist de pura alma pop! Foto:  Vizinhos",
   "name": "Pop PT",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 166432,
       "name": "Apagar A Sombra",
       "url": "https://open.spotify.com/track/1d85Pi8RAoGxB18gfu2Nk0"
@@ -548,6 +548,36 @@
       "duration_ms": 164769,
       "name": "aYe!",
       "url": "https://open.spotify.com/track/62yfxuFCib7HogrJpw5uCQ"
+    },
+    {
+      "album": {
+        "name": "Beijo",
+        "url": "https://open.spotify.com/album/2KnncUYSx94xd8rox89Rrw"
+      },
+      "artists": [
+        {
+          "name": "Mickael Carreira",
+          "url": "https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU"
+        },
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Toy",
+          "url": "https://open.spotify.com/artist/3ggsRmBGV01RYdNu8pRWJd"
+        },
+        {
+          "name": "Tony Carreira",
+          "url": "https://open.spotify.com/artist/6w7nHPNj2BIGTEbRrefVyu"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209962,
+      "name": "Beijo",
+      "url": "https://open.spotify.com/track/3303s19agScDaCsPYdCu7i"
     },
     {
       "album": {
@@ -3474,7 +3504,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 173500,
       "name": "Nem Dei Por Acontecer",
       "url": "https://open.spotify.com/track/6qR8Sn0fx619G3zUa8ZZb0"
@@ -4686,6 +4716,28 @@
       "duration_ms": 248880,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0AX6468RmVA9ufePa4C10j"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/4fQQ9JtLpmIFQHb84cq9ep"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        },
+        {
+          "name": "Emanuel e Toy Matos",
+          "url": "https://open.spotify.com/artist/19XWBFp1y3cArgld1TSvZu"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210927,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1xoubW0lb0QniLQB1Y8zf5"
     },
     {
       "album": {

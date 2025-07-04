@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Julien Lieb",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Kendji Girac",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 161000,
       "name": "Courage",
       "url": "https://open.spotify.com/track/00lPmwgjp2MnqVhZaxyLDv"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 200106,
       "name": "Je pars mais je reste",
       "url": "https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 169102,
       "name": "Je t'accuse",
       "url": "https://open.spotify.com/track/4QPBfQaSKEw56Vvo0i2XsL"
@@ -2592,7 +2592,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 165774,
       "name": "Le chasseur (les oies sauvages)",
       "url": "https://open.spotify.com/track/7hxjcHXqqLx3T2zI3RAZxQ"
@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Marche ou r\u00eave",
+        "url": "https://open.spotify.com/album/7kS5ShCz4QHayBwumXSdUO"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197636,
+      "name": "Marche ou r\u00eave",
+      "url": "https://open.spotify.com/track/3m2VVaBylHoKBngpUflwUM"
+    },
+    {
+      "album": {
         "name": "MARIA",
         "url": "https://open.spotify.com/album/3JIicLsd5uAnePIbUatgvN"
       },
@@ -3272,6 +3290,24 @@
       "duration_ms": 173952,
       "name": "Mieux que moi",
       "url": "https://open.spotify.com/track/3D4Tq1Brx820RJoCvX4LRl"
+    },
+    {
+      "album": {
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
     },
     {
       "album": {
@@ -3860,7 +3896,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 184613,
       "name": "Petit",
       "url": "https://open.spotify.com/track/39I0BFHXeltCjKjVXLYw6P"
@@ -4481,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "Si je m'en vais",
+        "url": "https://open.spotify.com/album/4jeLyGZaKMioLXS5LjUUYM"
+      },
+      "artists": [
+        {
+          "name": "TIMEO",
+          "url": "https://open.spotify.com/artist/0pNMzsxbYpuf2bxg1nQWZl"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170412,
+      "name": "Si je m'en vais",
+      "url": "https://open.spotify.com/track/2YKQx9FIGPVnfyhmsb7hVm"
+    },
+    {
+      "album": {
         "name": "Si seulement...",
         "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
       },
@@ -4580,12 +4634,12 @@
       },
       "artists": [
         {
-          "name": "Bleu Soleil",
-          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
-        },
-        {
           "name": "LUIZA",
           "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        },
+        {
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
         }
       ],
       "date_added": "2025-05-29",
@@ -5185,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Un, Dos, Tres",
+        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154106,
+      "name": "Un, Dos, Tres",
+      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
+    },
+    {
+      "album": {
         "name": "Une fille comme moi",
         "url": "https://open.spotify.com/album/0DaYIaeRJb20O1IXrxRsA6"
       },
@@ -5290,6 +5362,28 @@
       "duration_ms": 227988,
       "name": "Vie vagabonde",
       "url": "https://open.spotify.com/track/3frFPT7DxaKvs2eYop2OPU"
+    },
+    {
+      "album": {
+        "name": "Viens on essaie",
+        "url": "https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169042,
+      "name": "Viens on essaie",
+      "url": "https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy"
     },
     {
       "album": {

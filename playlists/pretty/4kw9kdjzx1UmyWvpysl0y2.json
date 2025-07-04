@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125226,
+  "num_followers": 125224,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUR09hRuU2HxrpxrcHr/rGaOZSxjU+",
+  "snapshot_id": "AAAUSRhecGduk5cW6BR1qBZGrZz+eUVZ",
   "tracks": [
+    {
+      "added_at": "2025-07-03 14:52:54",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/7GcYlKoGthIVBMbeqrgSFP"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 185457,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue"
+    },
     {
       "added_at": "2025-07-02 15:36:25",
       "album": {

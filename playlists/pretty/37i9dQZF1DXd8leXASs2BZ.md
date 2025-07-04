@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: シラフ
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,866 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,867 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 31 | [2000](https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [2000](https://open.spotify.com/album/4atx65eawftO33EBEZJRJf) | 2:50 |
 | 32 | [DROWN](https://open.spotify.com/track/2cKsLUyFsF5zZPR2oJEBdO) | [Viz Boy](https://open.spotify.com/artist/2bYUJLvO3ZpwI1O6KL794p) | [DROWN](https://open.spotify.com/album/5CyTW4WoD8Jbaj638B0F3B) | 3:04 |
 | 33 | [RAINBOW BRIDGE](https://open.spotify.com/track/6IaeKanf1bag9znHRss7QK) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD) | [DL STATION](https://open.spotify.com/album/7x4gZPw8Twc5TJUtoViyeh) | 4:54 |
-| 34 | [Grab a Dream](https://open.spotify.com/track/2qTx4Y4Pk4AtHpDEqqvtZc) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/66VUOpdmMS9gDWGosyICGU) | 2:45 |
+| 34 | [Way of Life](https://open.spotify.com/track/2qTx4Y4Pk4AtHpDEqqvtZc) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/66VUOpdmMS9gDWGosyICGU) | 2:45 |
 | 35 | [Come & Go](https://open.spotify.com/track/6FFiHVRezV7ax7bR2MUfT9) | [Awkisonic](https://open.spotify.com/artist/0pp7Inzv8t7mpInEHqrMNn) | [15](https://open.spotify.com/album/3mcVLHC7MTAEf1jnMOizhN) | 2:11 |
 | 36 | [Good Day \(feat\. YELLASOMA & Lucy\)](https://open.spotify.com/track/1LJOb686FLwF7CbeLoCbsi) | [DJ REX](https://open.spotify.com/artist/5Yb1EbMeYqD1befKAzPz42), [YELLASOMA](https://open.spotify.com/artist/3L7pIDciByrtN9f9W4xlFR), [Lucy](https://open.spotify.com/artist/5gcDNkqNhYooqRIQvdFSv4) | [Good Day \(feat\. YELLASOMA & Lucy\)](https://open.spotify.com/album/4OBq21ke2vV3Up4vQcIAsg) | 2:40 |
 | 37 | [nichijou:loopmania](https://open.spotify.com/track/680941jGFEU6BykwJaCi0A) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:16 |

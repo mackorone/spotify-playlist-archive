@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Susannah Joffe
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,909 likes - 115 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,919 likes - 115 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

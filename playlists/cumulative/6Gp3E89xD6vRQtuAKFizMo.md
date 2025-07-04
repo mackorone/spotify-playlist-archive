@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-469 songs - 22 hr 33 min
+471 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf) | 2:31 | 2023-03-24 | 2023-04-09 |
 | [Pecadora](https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Pecadora](https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro) | 2:50 | 2025-01-31 |  |
 | [Phat Brahms \- Coone Remix 2.0](https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Phat Brahms \(Coone Remix 2.0\)](https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw) | 2:59 | 2023-01-13 | 2023-03-25 |
+| [Pick Up The Tempo](https://open.spotify.com/track/67gU1a7O4sc7V1yhMVtFTn) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Pick Up The Tempo](https://open.spotify.com/album/710YAyd3dQL44pxrVY8pmK) | 2:28 | 2025-07-03 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-01 | 2023-01-21 |
 | [Pill](https://open.spotify.com/track/5qa0Vd1RbFfryPALhL1d3x) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill](https://open.spotify.com/album/2xmmJIoFBCPvhtAIKfgoPm) | 2:09 | 2022-05-06 | 2022-08-13 |
 | [Play With You](https://open.spotify.com/track/5RKUtMvMl1VhCVDHg20fP4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Play With You](https://open.spotify.com/album/79U6oOr7Qhoizl1CIyOkpE) | 3:03 | 2023-07-13 | 2025-04-27 |
@@ -423,6 +424,7 @@
 | [Thief](https://open.spotify.com/track/0HBCJAYmcJPNM6iCj00dqz) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Thief](https://open.spotify.com/album/02v9FsNlUM7Sy828mVOS7D) | 2:51 | 2024-06-21 | 2025-04-27 |
 | [Think About](https://open.spotify.com/track/79IQ11ZcslJLGJwwOAbLmh) | [HONÜ](https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq), [WHOWHENWHY](https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL) | [Think About](https://open.spotify.com/album/1wMh5zzVENh361hATA203p) | 3:48 | 2023-11-22 | 2025-04-27 |
 | [Throw It Back](https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Throw It Back](https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x) | 2:20 | 2024-03-22 | 2025-04-27 |
+| [Til It Breaks](https://open.spotify.com/track/2zFxSE5DeNoLNuH8fLvyNG) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [NOISE & THE THRILL](https://open.spotify.com/album/1EpXSTZVajAMvigicuxtqp) | 2:48 | 2025-07-03 |  |
 | [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 | 2023-04-09 |
 | [Timeless](https://open.spotify.com/track/0ck1M3hhAqPehHPryfEWlV) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Timeless](https://open.spotify.com/album/36ZqSNeu93bD52XjPwW4wY) | 2:35 | 2023-08-25 | 2025-04-27 |
 | [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-12 | 2025-04-27 |

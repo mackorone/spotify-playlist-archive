@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-727 songs - 1 day 12 hr 38 min
+728 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [RIDE WITH ME](https://open.spotify.com/track/6j1KmYWWWT36MFX84sPldQ) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [RIDE WITH ME](https://open.spotify.com/album/0W7rAsLhun6Ozbbi9WL0AO) | 2:41 | 2024-09-10 | 2024-11-20 |
 | [Rift](https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Rift](https://open.spotify.com/album/6TkCdwfbCgi9m4YRbcvzbt) | 3:26 | 2022-12-28 | 2023-04-28 |
 | [River](https://open.spotify.com/track/0fTzH8uabtFLBIx3eGxrKf) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 2:35 | 2025-03-28 |  |
+| [ROCK PAPER SCISSORS!](https://open.spotify.com/track/0Cqj9gGL6ZB1gP1eKu14qp) | [Dyolow](https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre) | [ROCK PAPER SCISSORS!](https://open.spotify.com/album/6WLQiWzfSkntkJ10KhaRpH) | 1:37 | 2025-07-03 |  |
 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 | 2024-02-22 | 2024-09-29 |
 | [Round n' Round](https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Round n' Round](https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab) | 2:58 | 2024-03-22 | 2024-09-29 |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-03-03 | 2024-04-17 |

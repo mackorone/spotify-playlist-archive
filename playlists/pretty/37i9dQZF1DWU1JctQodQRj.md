@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1JctQodQRj.md) - [plain]
 
 > Let the daily stresses of the world melt away with this peaceful playlist, filled with the warm, comforting melodies of JS Bach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,463 likes - 79 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,489 likes - 79 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

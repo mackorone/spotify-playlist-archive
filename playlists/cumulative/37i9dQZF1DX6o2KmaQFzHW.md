@@ -4,7 +4,7 @@
 
 > Lo mejor del folclore nacional 📸  Los Nocheros
 
-260 songs - 15 hr 11 min
+261 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 | 2021-07-23 |  |
 | [La Yapa](https://open.spotify.com/track/0gcZzig5VyR2MHSjCM5FbV) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:50 | 2022-02-21 | 2022-11-12 |
 | [La Yapa](https://open.spotify.com/track/6M3c5mTRfuT4E8hbyAXrLU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb) | 2:50 | 2021-07-23 | 2024-11-26 |
+| [La Zamba](https://open.spotify.com/track/2RUG2nP32VkyvNF2lFnbIM) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Zamba](https://open.spotify.com/album/5gnE0MnxT7eHoFvAg3PJBp) | 3:32 | 2025-07-04 |  |
 | [Largos Caminos Me Ire](https://open.spotify.com/track/7b3CAqCWhh0m01DSR1WW1G) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb) | 2:18 | 2021-07-23 | 2024-11-26 |
 | [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 | 2021-07-23 | 2024-11-14 |
 | [Lloraré](https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:10 | 2021-07-23 | 2024-11-26 |

@@ -1785,6 +1785,28 @@
     },
     {
       "album": {
+        "name": "End Zone",
+        "url": "https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "ROM COM",
+          "url": "https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163592,
+      "name": "End Zone",
+      "url": "https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD"
+    },
+    {
+      "album": {
         "name": "Curio Part II",
         "url": "https://open.spotify.com/album/4RUvalMQW42XY9a1sgCDip"
       },
@@ -3774,7 +3796,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 200800,
       "name": "MARIAH",
       "url": "https://open.spotify.com/track/08feYaNmBq4cT09xdJsKvZ"
@@ -5346,7 +5368,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
@@ -5812,7 +5834,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 236013,
       "name": "Sky Queen - Moonlight",
       "url": "https://open.spotify.com/track/0XaXfflU3WoH70mUlUw32y"
@@ -5928,7 +5950,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 205966,
       "name": "Somebody's Son (feat. Lindsey Buckingham)",
       "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Kristi Steyn",
+  "description": "The best new and classic South African Rock. Cover: Die Heuwels Fantasties",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 221503,
       "name": "Bid Vir My",
       "url": "https://open.spotify.com/track/6sPHDIYv8qt2ilYOLrMLqg"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 183673,
       "name": "Cheap Rooiwyn",
       "url": "https://open.spotify.com/track/7feAdNUBSbNgWZGGUS2m8j"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 167819,
       "name": "Die Drie Varkies",
       "url": "https://open.spotify.com/track/18wDnlP7jU4fUWTyGDYdY9"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 355000,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/6XYeS8WVUT1eueDoQdi1AE"
@@ -3579,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "Ek Mis Jou",
+        "url": "https://open.spotify.com/album/45F6LHu6ZRj1MxGv1ANJuO"
+      },
+      "artists": [
+        {
+          "name": "Alba Vorster",
+          "url": "https://open.spotify.com/artist/6uj3llpVrZTu3fOoicbkS6"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Ek Mis Jou",
+      "url": "https://open.spotify.com/track/0H5JatqjXRa1mMWYxaHGk7"
+    },
+    {
+      "album": {
         "name": "ek voel ek droom",
         "url": "https://open.spotify.com/album/78l5Xd7IcIjGHQH3ML485t"
       },
@@ -3702,6 +3720,32 @@
       "duration_ms": 265877,
       "name": "Empty Horizon",
       "url": "https://open.spotify.com/track/58vtz88cS0uZ37N8a4s3QY"
+    },
+    {
+      "album": {
+        "name": "Empty Your Heart",
+        "url": "https://open.spotify.com/album/1b5Ago18mBBceUUhj14Gx2"
+      },
+      "artists": [
+        {
+          "name": "AC/ES",
+          "url": "https://open.spotify.com/artist/4DGkZBLTWioZXNVcw8nXOK"
+        },
+        {
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+        },
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Empty Your Heart",
+      "url": "https://open.spotify.com/track/1o2r0EFOYM2SLdPD82w1kR"
     },
     {
       "album": {
@@ -3980,7 +4024,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 236489,
       "name": "Fall From The Sky",
       "url": "https://open.spotify.com/track/26Z2t5iM0ieCdJewEdDNvS"
@@ -4034,7 +4078,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 200852,
       "name": "Familiar Faces",
       "url": "https://open.spotify.com/track/6sDoTfIObXnQnG7Uvrk3Jb"
@@ -4052,7 +4096,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 172813,
       "name": "Fantasy Factory",
       "url": "https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6"
@@ -4895,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "Gutter",
+        "url": "https://open.spotify.com/album/1g4wKB05xaohEhi8waZUse"
+      },
+      "artists": [
+        {
+          "name": "Cistamatic",
+          "url": "https://open.spotify.com/artist/6ueRqbxnDDHw3WXFivdxpK"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232649,
+      "name": "Gutter",
+      "url": "https://open.spotify.com/track/5swJSrQesKJr7skiKkW1cx"
+    },
+    {
+      "album": {
         "name": "H.F.A.Y. (How Fake Are You)",
         "url": "https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK"
       },
@@ -5004,7 +5066,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 200750,
       "name": "Hearts Will Know",
       "url": "https://open.spotify.com/track/1YfO7FJSZcP6J0u3Ug3kxE"
@@ -6528,7 +6590,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 261893,
       "name": "Kopskudkinders",
       "url": "https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa"
@@ -8075,6 +8137,24 @@
     },
     {
       "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "album": {
         "name": "Nikotien",
         "url": "https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT"
       },
@@ -8306,7 +8386,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 218332,
       "name": "Omstrede",
       "url": "https://open.spotify.com/track/4IJs2wGXxRMFOmc4w7yzsK"
@@ -8324,7 +8404,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 183228,
       "name": "On the mend",
       "url": "https://open.spotify.com/track/3RxghiNMSH0K8uuPx25XAK"
@@ -8728,7 +8808,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 173325,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/1E2Wxlw2M0Yd9qpxnhk0Cz"
@@ -9136,6 +9216,24 @@
       "duration_ms": 292771,
       "name": "Prediker",
       "url": "https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G"
+    },
+    {
+      "album": {
+        "name": "Presley's",
+        "url": "https://open.spotify.com/album/3f8PqwnFLpP0HPTdY11cnX"
+      },
+      "artists": [
+        {
+          "name": "Boschter",
+          "url": "https://open.spotify.com/artist/5oZEwvGKQblP1d7ist4wUU"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222250,
+      "name": "Presley's",
+      "url": "https://open.spotify.com/track/2PBsg0Va0bhtEamPh6T5Tb"
     },
     {
       "album": {
@@ -10508,7 +10606,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 234312,
       "name": "Song 13",
       "url": "https://open.spotify.com/track/1gitnoPAEnALBhyF4hPU4s"
@@ -10602,6 +10700,24 @@
       "duration_ms": 221057,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/3qxVPozermWCm6jrc4ejAP"
+    },
+    {
+      "album": {
+        "name": "Spytverdryf",
+        "url": "https://open.spotify.com/album/6R7gItVZQOkp3UAQ4Qlk9U"
+      },
+      "artists": [
+        {
+          "name": "MINNARES",
+          "url": "https://open.spotify.com/artist/3MH9AWcTuAjFG7vszJxQR1"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175050,
+      "name": "Spytverdryf",
+      "url": "https://open.spotify.com/track/59Vo6hL3RPWBXmZ31XhzFP"
     },
     {
       "album": {
@@ -11934,7 +12050,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 304853,
       "name": "Tienduisend Gode #3",
       "url": "https://open.spotify.com/track/4KKP6mRKgctel0HgR7Y6ds"
@@ -12498,7 +12614,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 224444,
       "name": "Vernietig My",
       "url": "https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e"
@@ -12552,7 +12668,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 189895,
       "name": "Victor Ludorum",
       "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
@@ -13242,7 +13358,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 165979,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN"

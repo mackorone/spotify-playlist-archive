@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Mekdes",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Zay",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/0fv5gmYtBNyd5yANUN0ASo"
+      },
+      "artists": [
+        {
+          "name": "CARLLO YABOY",
+          "url": "https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165803,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/12ShYQUzYZel1n5f4icThX"
+    },
+    {
+      "album": {
         "name": "Din Sang",
         "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
       },
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 167007,
       "name": "Fri",
       "url": "https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 199313,
       "name": "F\u00f8rhen",
       "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 173708,
       "name": "Ik T\u00e6nk Twice",
       "url": "https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
@@ -4209,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "(Un) Done",
+        "url": "https://open.spotify.com/album/2ZBw1VZX0sZeVUopv5pKT6"
+      },
+      "artists": [
+        {
+          "name": "SKAYA",
+          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Un (Done)",
+      "url": "https://open.spotify.com/track/0NlQLgOZnIgeXnI33NgW8i"
+    },
+    {
+      "album": {
         "name": "Under Din Sne",
         "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
       },
@@ -4386,7 +4422,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
@@ -4628,6 +4664,24 @@
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "album": {
+        "name": "ZAMINA",
+        "url": "https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT"
+      },
+      "artists": [
+        {
+          "name": "Zay",
+          "url": "https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192432,
+      "name": "ZAMINA",
+      "url": "https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK"

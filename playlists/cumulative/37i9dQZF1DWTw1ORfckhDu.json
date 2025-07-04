@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Davy, OLGA ja Victor Nordis.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Turisti.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 158873,
       "name": "Bando",
       "url": "https://open.spotify.com/track/0F0aWPaZV3c8HifEk0mu4X"
@@ -2686,6 +2686,32 @@
       "duration_ms": 188141,
       "name": "Ei Rakkaut",
       "url": "https://open.spotify.com/track/1kWFPp9sMxfKNobdlebdRW"
+    },
+    {
+      "album": {
+        "name": "Ei taas",
+        "url": "https://open.spotify.com/album/36xwZG98W4hhxdR9BwuE8S"
+      },
+      "artists": [
+        {
+          "name": "remynotagain",
+          "url": "https://open.spotify.com/artist/0EJmMsog45db72sHJI4Ga4"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187448,
+      "name": "Ei taas",
+      "url": "https://open.spotify.com/track/4SNRIDk1FcJKeCo3OfFDJh"
     },
     {
       "album": {
@@ -5185,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "Innovaattori",
+        "url": "https://open.spotify.com/album/47ROMB4iVumr9midsb8owJ"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174392,
+      "name": "Innovaattori",
+      "url": "https://open.spotify.com/track/38ttg6L4jKJAdfJnfs6wU1"
+    },
+    {
+      "album": {
         "name": "Anthemit",
         "url": "https://open.spotify.com/album/5OMJwNKFaf3oYEsOL3wIyT"
       },
@@ -5346,7 +5390,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 171023,
       "name": "Jani",
       "url": "https://open.spotify.com/track/2BCGcEqzfagl3Xi3Cqmciq"
@@ -6316,7 +6360,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 173112,
       "name": "Katuapteekki",
       "url": "https://open.spotify.com/track/5sZRQYoZ2FENWlwvoR7w4H"
@@ -6418,6 +6462,28 @@
       "duration_ms": 147908,
       "name": "Kauniimpaa",
       "url": "https://open.spotify.com/track/4irfK07MeE3ApyLru8VZed"
+    },
+    {
+      "album": {
+        "name": "Kellon suuntaa (feat. JVG)",
+        "url": "https://open.spotify.com/album/5TB2VuFmGALE6GXp3L7vmS"
+      },
+      "artists": [
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168798,
+      "name": "Kellon suuntaa (feat. JVG)",
+      "url": "https://open.spotify.com/track/0kK2tWDGg7XFnPKV4YZSIO"
     },
     {
       "album": {
@@ -8456,7 +8522,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 168000,
       "name": "Liian Monta Mestaa",
       "url": "https://open.spotify.com/track/6axn0XqR2rhAHaVngTaXay"
@@ -8648,7 +8714,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 162947,
       "name": "Lomastyge",
       "url": "https://open.spotify.com/track/3ZK7smGZ5ecyz9loKv5pFD"
@@ -11633,6 +11699,28 @@
     },
     {
       "album": {
+        "name": "Olla ku m\u00e4 (feat. Sara Bee)",
+        "url": "https://open.spotify.com/album/7DS822E6LEyHdPIeyj2Ens"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162324,
+      "name": "Olla ku m\u00e4 (feat. Sara Bee)",
+      "url": "https://open.spotify.com/track/57pzlmYbXGWawWwNkFKavK"
+    },
+    {
+      "album": {
         "name": "Ollaan melkein Ruotsissa",
         "url": "https://open.spotify.com/album/6kkjmBqwz0OWhY8WxmR8An"
       },
@@ -13158,7 +13246,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 127050,
       "name": "Putkikassi",
       "url": "https://open.spotify.com/track/5Jysxi2k9ut96LTIFs6vCH"
@@ -14302,7 +14390,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 172750,
       "name": "SATUMAA",
       "url": "https://open.spotify.com/track/7mE8yO4bUH2IEs4ouymhJo"
@@ -15907,6 +15995,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4\u00e4t\u00e4n\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/1E5ySghfEKXG4kkgzqvL5J"
+      },
+      "artists": [
+        {
+          "name": "Lukas Leon",
+          "url": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150096,
+      "name": "S\u00e4\u00e4t\u00e4n\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/0oaKMTjVA3KQR5xBn4NeTe"
+    },
+    {
+      "album": {
         "name": "APATHIA",
         "url": "https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE"
       },
@@ -17092,7 +17198,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 154629,
       "name": "Tyt\u00f6t tiet\u00e4\u00e4",
       "url": "https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238"

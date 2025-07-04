@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Yumdda\(염따\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,947 likes - 102 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,843 likes - 102 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 101 | [RUSH](https://open.spotify.com/track/00I8urbbz4AZ5t7VW0kbqk) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA) | [ACT BAD CUZ DAT’S EFFICIENT](https://open.spotify.com/album/7x1X1u0qYYXyjm0X0alKEk) | 2:50 |
 | 102 | [KrOWN\_Loco](https://open.spotify.com/track/1o73PCNhaz5VhjNxnrBzef) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 
-Snapshot ID: `aGPr/AAAAAAArcdHok6+NfjBTRrtZlXy`
+Snapshot ID: `aGZD2gAAAADJH+j2eU80JlPtXKqzql8J`

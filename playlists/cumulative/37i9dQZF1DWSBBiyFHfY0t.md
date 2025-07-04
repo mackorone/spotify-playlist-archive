@@ -2,7 +2,7 @@
 
 ### [Frolic](https://open.spotify.com/playlist/37i9dQZF1DWSBBiyFHfY0t)
 
-> For frolicking joyously, freely and theatrically in this world\. Cover: Wolf Alice at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a>
+> For frolicking joyously, freely and theatrically in this world.
 
 119 songs - 7 hr 29 min
 

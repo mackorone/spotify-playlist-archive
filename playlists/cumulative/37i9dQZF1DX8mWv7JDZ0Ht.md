@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Lourena, Rod Melim
 
-831 songs - 1 day 17 hr 31 min
+832 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Desfaço](https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [MELODRAMÁTICO](https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0) | 2:37 | 2023-12-15 | 2024-03-30 |
 | [desficava](https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [desficava](https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX) | 2:33 | 2022-09-30 | 2023-04-09 |
 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 | 2023-01-13 | 2023-03-12 |
+| [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-07-03 |  |
 | [Desperdício](https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Todas as Saudades](https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH) | 2:53 | 2024-11-15 |  |
 | [Deu Praia](https://open.spotify.com/track/6hk2MkKPvYpRBhKJ4Yr4pn) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [Deu Praia](https://open.spotify.com/album/4fUBzsnJPtOXwNvQK0E5la) | 2:13 | 2022-06-24 | 2022-08-02 |
 | [Deus Me Free](https://open.spotify.com/track/1yuTHDSJQXxxA7fCa5WTpz) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Deus Me Free](https://open.spotify.com/album/2MU6hhXi96fna9ojO5aHou) | 2:25 | 2022-09-02 | 2022-09-24 |
@@ -604,7 +605,7 @@
 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 | 2024-08-17 |
 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 | 2024-11-22 | 2024-12-24 |
 | [Quem É Você?](https://open.spotify.com/track/2j5DvJgs2PuyyLAo8eQmjZ) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Quem É Você?](https://open.spotify.com/album/0fDQY5rOZ0zjR0qw8gv10b) | 3:44 | 2025-04-18 | 2025-05-14 |
-| [Quem É Você?](https://open.spotify.com/track/0fburSFYhNq39QBirzGILU) | [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Quem É Você?](https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk) | 3:44 | 2025-05-16 |  |
+| [Quem É Você?](https://open.spotify.com/track/0fburSFYhNq39QBirzGILU) | [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Quem É Você?](https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk) | 3:44 | 2025-05-16 | 2025-07-04 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-05-17 |
 | [Quero Bem Mais](https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Quero Bem Mais](https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL) | 3:17 | 2023-11-24 | 2024-03-23 |
 | [Quero te dar meu coração](https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Coração/Movimento](https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T) | 3:07 | 2023-11-17 | 2023-12-16 |

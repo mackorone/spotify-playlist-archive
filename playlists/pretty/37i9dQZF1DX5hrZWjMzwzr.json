@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10878,
+  "num_followers": 10876,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
+        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 202054,
+      "name": "MAMA POWTARZA\u0141A",
+      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "Multisport",
         "url": "https://open.spotify.com/album/0N2RrkBLMYNnPvsrRYOJsa"
       },
@@ -303,26 +323,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
-        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 202054,
-      "name": "MAMA POWTARZA\u0141A",
-      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "M\u0142ody Manson",
         "url": "https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl"
       },
@@ -351,34 +351,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "PG$",
-        "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
-      },
-      "artists": [
-        {
-          "name": "Young Leosia",
-          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "PG$",
-          "url": "https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "PG$",
-      "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "1 na 100",
         "url": "https://open.spotify.com/album/1eMRkYLNzESSOcItnPYyvW"
       },
@@ -403,6 +375,34 @@
       "duration_ms": 187000,
       "name": "1 na 100",
       "url": "https://open.spotify.com/track/7q2axmQBSD88VaASEJ9oX4"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "PG$",
+        "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "PG$",
+          "url": "https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "PG$",
+      "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "DRUGI RAZ",
-        "url": "https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm"
-      },
-      "artists": [
-        {
-          "name": "Qry",
-          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
-        },
-        {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
-        }
-      ],
-      "duration_ms": 127692,
-      "name": "DRUGI RAZ",
-      "url": "https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "Ty Wiesz",
         "url": "https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 169903,
       "name": "Ty Wiesz",
       "url": "https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "DRUGI RAZ",
+        "url": "https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm"
+      },
+      "artists": [
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        },
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "duration_ms": 127692,
+      "name": "DRUGI RAZ",
+      "url": "https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Remedium II",
+        "url": "https://open.spotify.com/album/6nPt4gCKYI8CW847YkaPUt"
+      },
+      "artists": [
+        {
+          "name": "Tau",
+          "url": "https://open.spotify.com/artist/3k4IXngEeRFfKiBNiUn4qV"
+        },
+        {
+          "name": "Medium",
+          "url": "https://open.spotify.com/artist/7fbVF9Qj3qzbtQzOtbjlOZ"
+        }
+      ],
+      "duration_ms": 213409,
+      "name": "Street Credit",
+      "url": "https://open.spotify.com/track/2ZDVnvjGjyhVCZEIyY8WFX"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "depeche_mood",
         "url": "https://open.spotify.com/album/1qkhonUkoj7xUdTELEu2yi"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 200040,
       "name": "TREBUSZ: RZUCAM KAMIENIE",
       "url": "https://open.spotify.com/track/7802miaqccUHlUH659znra"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Remedium II",
-        "url": "https://open.spotify.com/album/6nPt4gCKYI8CW847YkaPUt"
-      },
-      "artists": [
-        {
-          "name": "Tau",
-          "url": "https://open.spotify.com/artist/3k4IXngEeRFfKiBNiUn4qV"
-        },
-        {
-          "name": "Medium",
-          "url": "https://open.spotify.com/artist/7fbVF9Qj3qzbtQzOtbjlOZ"
-        }
-      ],
-      "duration_ms": 213409,
-      "name": "Street Credit",
-      "url": "https://open.spotify.com/track/2ZDVnvjGjyhVCZEIyY8WFX"
     },
     {
       "added_at": "2025-04-24 21:35:46",

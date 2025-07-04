@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 43834,
+  "num_followers": 43840,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGMlAAAAAAB9qnuAiRXCOLlZVgf9w+0D",
+  "snapshot_id": "aGR2gAAAAADM6RrL36nTSOuomdBzz3EU",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Escape Artist",
-        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES"
+      "duration_ms": 232266,
+      "name": "I Would for You",
+      "url": "https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 232266,
-      "name": "I Would for You",
-      "url": "https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw"
+      "duration_ms": 187746,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-27",
-  "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Jagjit Singh",
+  "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
   "name": "Punjabi Ghazals & Qawwalis",
   "tracks": [
     {
@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Naina De Buhe",
+        "url": "https://open.spotify.com/album/2c3w6QpLxtDPls6IXyYRDp"
+      },
+      "artists": [
+        {
+          "name": "Lakhwinder Wadali",
+          "url": "https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360542,
+      "name": "Churi",
+      "url": "https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz"
+    },
+    {
+      "album": {
         "name": "Punjabi Mehfil, Vol. 5",
         "url": "https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa"
       },
@@ -400,6 +418,28 @@
       "duration_ms": 229013,
       "name": "Ghamaan Di Raat Lammi Ae",
       "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
+    },
+    {
+      "album": {
+        "name": "Ghazal",
+        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
+      },
+      "artists": [
+        {
+          "name": "Ammri",
+          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199511,
+      "name": "Ghazal",
+      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
     },
     {
       "album": {
@@ -584,7 +624,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 200213,
       "name": "Jaach Mainu Aa Gai Gham Khaan Di",
       "url": "https://open.spotify.com/track/62Ckk14Mj0mBzlNoYP5ibH"
@@ -1096,7 +1136,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 326061,
       "name": "Mukh Tera",
       "url": "https://open.spotify.com/track/66TCpFnHV47Y5LDbUzF4mz"
@@ -1530,7 +1570,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 438500,
       "name": "Sukki Mitti - Live",
       "url": "https://open.spotify.com/track/4JRNh4a0UvRj8sN11im9jq"
@@ -1794,6 +1834,28 @@
       "duration_ms": 242440,
       "name": "Yarian Rab Kar Ke",
       "url": "https://open.spotify.com/track/4ReejH3jo9aHlJ98PJnGEi"
+    },
+    {
+      "album": {
+        "name": "Rangrez",
+        "url": "https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo"
+      },
+      "artists": [
+        {
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        },
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "Zikr Tera",
+      "url": "https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9WDOjoils23"

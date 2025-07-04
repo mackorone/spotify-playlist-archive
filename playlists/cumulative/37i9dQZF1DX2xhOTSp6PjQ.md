@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok?si=90ny7O9HT2yus\-8jRz3M\-g">Mbuzeni</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=1cW3Be3bQVO767h02t\-IRg">Zwide</a>
 
-249 songs - 19 hr 52 min
+250 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Ngiyashisa Bhe!](https://open.spotify.com/track/5T2V2jA4cPulYnMT5SUETu) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL) | 4:57 | 2018-09-25 | 2022-09-25 |
 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-02-02 | 2024-04-05 |
 | [Ngiyeza](https://open.spotify.com/track/7ATU7xI4ffZgPGm3QCKX4K) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:41 | 2024-01-18 | 2024-06-07 |
+| [Ngizokwala \(feat\. 2 short\)](https://open.spotify.com/track/2XCOuP7b8pFrysvcqQ0V2p) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [2short](https://open.spotify.com/artist/2KH2ceOgqcmocRWI7BGYB8) | [Ngizokwala \(feat\. 2 short\)](https://open.spotify.com/album/6UvwJk5ZGbIv4XPgVGh1rJ) | 3:28 | 2025-07-04 |  |
 | [Ngomthetho Omdala \- Remake](https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Ngomthetho Omdala \(Remake\)](https://open.spotify.com/album/5R8ColLxaWu79CDJVFcSRn) | 4:29 | 2023-04-07 | 2024-06-28 |
 | [Nguye](https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 4:03 | 2023-01-30 | 2024-12-07 |
 | [Nguye Lo](https://open.spotify.com/track/5v3FY18Q1MxKV2GFcjgIYM) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Ngivunywe Usathane](https://open.spotify.com/album/6PnShffIuygTGwCrJiAPEN) | 4:11 | 2023-01-30 | 2023-06-23 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,628 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,709 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AJO](https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [1%](https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0) | 2:07 |
-| 2 | [Proti Fora](https://open.spotify.com/track/0orfP9WmV030xZoVcLyaf8) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Proti Fora](https://open.spotify.com/album/2aIDC0j3fJvA31vjPXQhe8) | 3:13 |
+| 2 | [PROTI FORA](https://open.spotify.com/track/0orfP9WmV030xZoVcLyaf8) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [PROTI FORA](https://open.spotify.com/album/2aIDC0j3fJvA31vjPXQhe8) | 3:13 |
 | 3 | [EGEFALIKO](https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [EGEFALIKO](https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp) | 2:18 |
 | 4 | [LISTEIA](https://open.spotify.com/track/0Kx9GDeRcQyzaMQRqIk12j) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [1%](https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0) | 2:21 |
 | 5 | [5 AM](https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [5 AM](https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ) | 3:15 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 26 | [Gia Sena](https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Gia Sena](https://open.spotify.com/album/0xh2nXqadeywn61LgjmOe7) | 2:57 |
 | 27 | [Aeroplana](https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Fthina Tricks 3](https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK) | 3:30 |
 | 28 | [GRISELDA](https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [GRISELDA](https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3) | 2:10 |
-| 29 | [Nisia](https://open.spotify.com/track/50zuHqsc1lnNTu5txaci1T) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Nisia](https://open.spotify.com/album/6ZUkBlTayrdL1pI6I9Q4Ue) | 3:26 |
+| 29 | [NISIA](https://open.spotify.com/track/50zuHqsc1lnNTu5txaci1T) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [NISIA](https://open.spotify.com/album/6ZUkBlTayrdL1pI6I9Q4Ue) | 3:26 |
 | 30 | [Kati Xereis](https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Kati Xereis](https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w) | 2:44 |
 | 31 | [Antigonidon](https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Fthina Tricks 3](https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK) | 4:34 |
 | 32 | [Disco\-Tech](https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Disco\-Tech](https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x) | 3:19 |

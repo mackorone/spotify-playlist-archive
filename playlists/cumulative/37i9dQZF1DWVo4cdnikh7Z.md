@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-1,867 songs - 4 day 16 hr 43 min
+1,868 songs - 4 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Bagheera In Love](https://open.spotify.com/track/6orsJb6lJEjg5KAbQHusXn) | [Ganesan\. S](https://open.spotify.com/artist/44acENsqsJh2l7J8y8nfIo), [Daisey Yensone](https://open.spotify.com/artist/016aWgFkD9VlOJuPqFqdlv) | [Bagheera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pL9vAwu3YehtHKdCxSql8) | 3:57 | 2023-02-27 | 2023-03-25 |
 | [Bambooziya](https://open.spotify.com/track/0nkx3h4VzYUanM76do0knB) | [Lydian Nadhaswaram](https://open.spotify.com/artist/730O8ypsgRAy0fDcOf5HiI), [Amirthavarshini](https://open.spotify.com/artist/3Q5fTUuEO3pRkaJqOO9iqx) | [Barroz \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2GFEZ2pEvY0VS6SgIGUsVm) | 3:14 | 2024-12-20 | 2024-12-28 |
 | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/track/7AfS3sw4qaSBvobpdPYalt) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Rehman](https://open.spotify.com/artist/5uKN1IyD8fLoj2lV8CDzws) | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/album/3anqjQy9dqSqFrNFQHBzfT) | 3:28 | 2023-06-14 | 2023-08-01 |
+| [Bar Anthem \- From "Good Day"](https://open.spotify.com/track/4lamCUKj6lUNqaOzhmkN8k) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55) | [Bar Anthem \(From "Good Day"\)](https://open.spotify.com/album/4xtpG5LSH41N8JbDRjwp7E) | 3:03 | 2025-07-03 |  |
 | [Beast Mode \(From "Beast"\)](https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Mode \(From "Beast"\)](https://open.spotify.com/album/0gTZnvc3F1cHmJTTe9OBGb) | 3:40 | 2022-04-08 | 2022-08-05 |
 | [Beer Song \- From "Diesel"](https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [Beer Song \(From "Diesel"\)](https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz) | 3:16 | 2023-02-13 | 2023-03-11 |
 | [Beggar Wala \- From "Bloody Beggar"](https://open.spotify.com/track/6haZyYuRaXCTLuFiFo35gl) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Muthulakshmi](https://open.spotify.com/artist/3nq28386Xpa1aKqNiOYpPe) | [Beggar Wala \(From "Bloody Beggar"\)](https://open.spotify.com/album/6olZVAlJP7ZinQ0FazuyQJ) | 3:17 | 2024-10-27 | 2024-11-26 |

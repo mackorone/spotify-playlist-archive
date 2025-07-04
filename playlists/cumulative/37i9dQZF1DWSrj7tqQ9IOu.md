@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : BLOWSOM
+> The best French indie tracks right now\. Cover : Andéol & Kyana
 
-661 songs - 1 day 11 hr 46 min
+663 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Paris cyclone](https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/4vSFzEL2EvWRK02kaGwC4N) | 2:51 | 2023-10-12 | 2023-11-17 |
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 | 2022-08-25 | 2023-01-20 |
-| [Paris lumière \- A Ritz Paris Song](https://open.spotify.com/track/459eXxXJxce7K4pZkBpEmf) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Paris lumière \(A Ritz Paris Song\)](https://open.spotify.com/album/1nVAVjQuL83GYD8rx4opl5) | 2:42 | 2025-06-26 |  |
+| [Paris lumière \- A Ritz Paris Song](https://open.spotify.com/track/459eXxXJxce7K4pZkBpEmf) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Paris lumière \(A Ritz Paris Song\)](https://open.spotify.com/album/1nVAVjQuL83GYD8rx4opl5) | 2:42 | 2025-06-26 | 2025-07-04 |
 | [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 | 2023-03-31 |
 | [Party](https://open.spotify.com/track/3Pw80Ulvtf6MeMkixjnLyP) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Party](https://open.spotify.com/album/0f2HZdtQPt1ngVO56RZfYq) | 2:54 | 2024-11-21 | 2025-01-24 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 | 2022-11-18 |
@@ -500,7 +500,7 @@
 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 | 2022-06-30 | 2023-03-25 |
 | [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-04-25 | 2024-09-13 |
 | [RESONATE](https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/6RhSScp7LgXmw9vikoALss) | 2:41 | 2023-08-24 | 2023-09-29 |
-| [Revenant du Nord](https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Revenant du Nord](https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB) | 3:10 | 2025-06-26 |  |
+| [Revenant du Nord](https://open.spotify.com/track/6LzQGdaszVI58YLZrmSDPU) | [Orchestre Tout Puissant Marcel Duchamp](https://open.spotify.com/artist/7L8bsKFWYTMJj9c5HIPNtR), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Revenant du Nord](https://open.spotify.com/album/0GDJ31tKJWzRuba176idJB) | 3:10 | 2025-06-26 | 2025-07-04 |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2024-12-12 | 2025-03-21 |
@@ -546,6 +546,7 @@
 | [Sous les jupes](https://open.spotify.com/track/4vAwwCBbHW4SwXBIZ2qEIh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Eden](https://open.spotify.com/album/2yRMCemIzq1YWHpgkwvSra) | 3:54 | 2022-04-07 | 2022-04-29 |
 | [Space Trip](https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt) | [Abel Chéret](https://open.spotify.com/artist/2SA8kSdrElh8uRTa7AnGyL) | [Space Trip](https://open.spotify.com/album/42aPZS0haRwyQbeay0mpOU) | 3:36 | 2021-12-16 | 2022-04-15 |
 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 | 2023-05-11 | 2024-02-02 |
+| [spring](https://open.spotify.com/track/7FJP6mlhCqObXC3Tel4kjk) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [spring](https://open.spotify.com/album/26lL4PeAXe9s4agTyBIb6s) | 2:42 | 2025-07-03 |  |
 | [Start over](https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [YUMA](https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS) | 3:31 | 2023-06-01 | 2024-02-16 |
 | [Stay](https://open.spotify.com/track/7jkJWgGqpS8QrkibLlfMhz) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Stay](https://open.spotify.com/album/6DizoLGqfn6IXI4xk3yDwU) | 3:29 | 2022-10-13 | 2023-01-20 |
 | [Stay Tonight](https://open.spotify.com/track/2cQEVcWkIBoOPk2e6Wtgo7) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Stay Tonight](https://open.spotify.com/album/5FmKYqoVguD3KLINAfW9sn) | 2:41 | 2023-12-14 | 2024-04-12 |
@@ -659,6 +660,7 @@
 | [Young Kids](https://open.spotify.com/track/0fyOhR6FmhkaXceDMiag2y) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Young Kids](https://open.spotify.com/album/2AANQcIilnuNTZoKlMMPKi) | 2:20 | 2025-05-01 |  |
 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 | 2022-07-07 | 2023-01-13 |
 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 | 2023-03-31 |
+| [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 | 2025-07-03 |  |
 | [À deux](https://open.spotify.com/track/4mtVZrJoHB30G9sUvJxyjh) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [À deux](https://open.spotify.com/album/0NWdqVJ05nzTS1Jy66VMWV) | 3:05 | 2024-04-04 | 2024-06-28 |
 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 | 2023-02-23 | 2024-01-26 |
 | [Émotions saturées \(feat\. TheFrenchKris\)](https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Émotions saturées \(feat\. TheFrenchKris\)](https://open.spotify.com/album/1g1N1xWro8IfsjIWzBmcbK) | 2:58 | 2024-06-27 | 2024-12-13 |

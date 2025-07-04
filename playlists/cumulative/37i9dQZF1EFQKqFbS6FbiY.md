@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-676 songs - 1 day 8 hr 54 min
+678 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Ex Não Manda Mais \- Ao Vivo](https://open.spotify.com/track/0EcWTkP8e9U797oSUtgrXo) | [Dalmi Junior](https://open.spotify.com/artist/5bltkfe1PGak5U5C1DFhrF) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0xAaSbrzHzxKyEiWAwbWLX) | 2:54 | 2023-12-30 | 2024-07-20 |
 | [Exatamente Agora](https://open.spotify.com/track/4Aac2JIqhOzDDpB2yfHZWT) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Exatamente Agora](https://open.spotify.com/album/1nlWV4QS0sIUkAWfmuyopB) | 3:16 | 2023-12-30 |  |
 | [Exclusividade Desse Neném](https://open.spotify.com/track/6DcHsnGLpmIapW4VsgcNqC) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:28 | 2023-12-30 |  |
-| [Expectativa de Ficante](https://open.spotify.com/track/25cD6eXrfin7HQNkIiu1RP) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Expectativa de Ficante](https://open.spotify.com/album/6s7eVg7GR9ytNN93NnKbLY) | 3:03 | 2023-12-30 |  |
+| [Expectativa de Ficante](https://open.spotify.com/track/25cD6eXrfin7HQNkIiu1RP) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Expectativa de Ficante](https://open.spotify.com/album/6s7eVg7GR9ytNN93NnKbLY) | 3:03 | 2023-12-30 | 2025-07-04 |
+| [Expectativa de Ficante](https://open.spotify.com/track/5hY8aNxjcxu4T2pPhlPlog) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Expectativa de Ficante](https://open.spotify.com/album/6p5MzNmIdxs4Gh0Z6keDD7) | 3:03 | 2025-07-03 |  |
 | [Fala a Verdade](https://open.spotify.com/track/6Uo6S81DEEmDq2HQFzqt6V) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Fala a Verdade](https://open.spotify.com/album/5gQOoJ7ggssFfH15JRmD5i) | 3:38 | 2023-12-30 | 2025-06-28 |
 | [Fala Aqui Com a Minha Mão \(feat\. João Neto & Frederico\)](https://open.spotify.com/track/2Y7eYWdw5SFczQOKPJVyX4) | [Hugo & Tiago](https://open.spotify.com/artist/0WP4PLxwWMBq3WWc01TBgJ), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [O Que Acontece no Bar, Vol\. 6](https://open.spotify.com/album/6FXh2hxZj7UrK6pTrEj5j8) | 3:00 | 2023-12-30 | 2025-06-28 |
 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 | 2023-12-30 |  |
@@ -357,7 +358,8 @@
 | [Love É Love Caso É Caso](https://open.spotify.com/track/6r0dukJT4LGAuRHk8RiiWN) | [Victor e Franco](https://open.spotify.com/artist/7bO40iYcIuPx4lOLqiWL9c) | [Love É Love Caso É Caso](https://open.spotify.com/album/6oIPwfjBrdOyCdSvfBT9n1) | 2:38 | 2023-12-30 | 2025-06-28 |
 | [Lovezinho \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/23tIf2M59rnuSFCDUi6cXN) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [Lovezinho \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/1ydfZIViYWyiyFzGAxD0H2) | 2:51 | 2025-06-27 |  |
 | [Lugarzinho no Corpo](https://open.spotify.com/track/3DnneD1OA70E4XHfClXytQ) | [Andii Soares](https://open.spotify.com/artist/45y1i2ZMGHMZSRJpvC010i) | [Lugarzinho no Corpo](https://open.spotify.com/album/4nn8FI77uIJ8r46HDE3B6o) | 2:40 | 2023-12-30 |  |
-| [Língua Queimada](https://open.spotify.com/track/33nBnI2CRwTLDv1go8bqNs) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Língua Queimada](https://open.spotify.com/album/544XMHVFzQ3yYqKC756BKG) | 3:04 | 2023-12-30 |  |
+| [Língua Queimada](https://open.spotify.com/track/33nBnI2CRwTLDv1go8bqNs) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Língua Queimada](https://open.spotify.com/album/544XMHVFzQ3yYqKC756BKG) | 3:04 | 2023-12-30 | 2025-07-04 |
+| [Língua Queimada](https://open.spotify.com/track/45sOab1v3J6GRvFfWHrnH1) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Língua Queimada](https://open.spotify.com/album/08goghx28fAEVJFlo5YrZM) | 3:04 | 2025-07-03 |  |
 | [Mala de Rodinha](https://open.spotify.com/track/7DSLAyguoRRRKAIv7tdy55) | [Dany e Rafa](https://open.spotify.com/artist/7kOdxmKToMYDX13cTLDfX1) | [As Melhores](https://open.spotify.com/album/0fQCjkY8OH92n4XfvYAhk3) | 2:32 | 2023-12-30 |  |
 | [Maltrata](https://open.spotify.com/track/6aTYPFldKiBYcKcPFrXMnu) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Eu Tô a Fim de Alguém](https://open.spotify.com/album/26Gp00VBhLtY7VVJEp1q27) | 2:59 | 2023-12-30 |  |
 | [Mando Ou Não Mando \- Ao Vivo](https://open.spotify.com/track/6z4VYiyrY1EtQ7gfmISxPs) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi) | 2:59 | 2023-12-30 |  |

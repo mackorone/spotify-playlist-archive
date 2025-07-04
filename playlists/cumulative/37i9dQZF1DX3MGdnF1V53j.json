@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Amoura",
+        "url": "https://open.spotify.com/album/23EkI2i9NOGR56MomODeH1"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Kida",
+          "url": "https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174532,
+      "name": "Amoura",
+      "url": "https://open.spotify.com/track/62E6ap1VjTrHyaJZvMnY9v"
+    },
+    {
+      "album": {
         "name": "Ana Lik",
         "url": "https://open.spotify.com/album/2q0y1UupuNPvEzT6cZC8Nn"
       },
@@ -3154,7 +3176,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 152424,
       "name": "Ya Doctor",
       "url": "https://open.spotify.com/track/71zw3E3cXkkM0EHk25TgLW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Mikayla Geier, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,307 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,320 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [HBD](https://open.spotify.com/track/4pm4HsOqJFTvOSv5rhiNMD) | [ABBI WOODS](https://open.spotify.com/artist/44GFA4EspGPaCQo4VqLzTR) | [HBD](https://open.spotify.com/album/3DJwTnVsgiGRK4nCHGEuIz) | 2:27 |
 | 50 | [Storming Out](https://open.spotify.com/track/3H7IGbRRh3rHy3d2b9jGsS) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Storming Out](https://open.spotify.com/album/3lAtEouGEFlz5ODKtBIASE) | 2:08 |
 
-Snapshot ID: `aFt0SAAAAABK4bowcNI6xC/1//AqZ0rF`
+Snapshot ID: `aGaZewAAAABnACaK9AOShi7rC0e7Rini`

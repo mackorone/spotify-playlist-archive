@@ -2,9 +2,9 @@
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> IBZ season in full swing!
+> Contesto is officially here!
 
-1,006 songs - 2 day 22 hr 49 min
+1,009 songs - 2 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 | 2025-03-20 |  |
 | [Compromise](https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Compromise](https://open.spotify.com/album/6tV5ImdhGjwuNnj4GhHrSd) | 3:31 | 2025-01-16 |  |
 | [Comusa](https://open.spotify.com/track/5sTVsPrvIi96swhRzkSXfH) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [DvirNuns](https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n) | [Comusa](https://open.spotify.com/album/3f022QWDplc7zkzlM1bMmF) | 3:42 | 2025-04-17 |  |
+| [Contesto](https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva) | [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Contesto](https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA) | 3:26 | 2025-07-03 |  |
 | [Corazon](https://open.spotify.com/track/4bkHJAWyOkR15GCbMDLGry) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [EMRIA](https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl) | [Corazon](https://open.spotify.com/album/0prBKnc88KRVmIOZCiIv9k) | 4:08 | 2023-08-24 | 2024-01-05 |
 | [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 | 2024-03-29 |  |
 | [Cowboy Angel \(feat\. Biishop\)](https://open.spotify.com/track/4emIuIKOjlFSXLCgTiSALC) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Nothing That I Need](https://open.spotify.com/album/2DtGqJkrdRktK3f8DqfxCF) | 5:52 | 2025-02-06 |  |
@@ -279,6 +280,7 @@
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-04-20 | 2023-10-13 |
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-21 | 2025-01-10 |
 | [Fallin'](https://open.spotify.com/track/62Aipi6vLvWKU3B9VVp36I) | [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Loubna](https://open.spotify.com/artist/2XEOV6jbOqnKT2IhXHZfb3) | [Fallin'](https://open.spotify.com/album/2CMJizg3io9ScmipS6rmWI) | 2:57 | 2025-02-06 |  |
+| [Falling \- Liva K Remix](https://open.spotify.com/track/4kLly825xZepEsbhglx0r3) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Falling \(Liva K Remix\)](https://open.spotify.com/album/6le3Rguy0YGNUhV8T3HbZP) | 3:07 | 2025-07-03 |  |
 | [Falling Feels Like Flying \(ft Kabusa Oriental Choir\)](https://open.spotify.com/track/4uwYYpAbDZ1SFRdde2hJUU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:16 | 2025-01-30 |  |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-02-15 | 2024-04-19 |
 | [Famax](https://open.spotify.com/track/72zBuma8aAT4UGTijcHQHx) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax / Mala Fama / Yafama](https://open.spotify.com/album/0hhxk3OBEzpwJqAEABTNdp) | 5:35 | 2024-01-11 |  |
@@ -822,6 +824,7 @@
 | [Sounds So Nice](https://open.spotify.com/track/1yTYLQVe6TUcCFrr5a96As) | [Bungalow](https://open.spotify.com/artist/6G9mC3mgZJoMoYTUrN7KWU) | [Sundae Sauuce Presents: Chocolate Drizzle](https://open.spotify.com/album/0JpEaFsmduibGQhAEoIgXz) | 3:21 | 2023-06-29 | 2023-08-02 |
 | [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 | 2023-05-25 | 2023-08-02 |
 | [Spill My Liquor \- Samm Remix](https://open.spotify.com/track/1x4xR3EZObHLBvBs9B4oS0) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Spill My Liquor \(Samm Remix\)](https://open.spotify.com/album/29h6SkbBIUNEFY8X8bx9uQ) | 3:50 | 2025-01-30 |  |
+| [Spine](https://open.spotify.com/track/1xtAil25id3SEVgEkYh8rJ) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Spine](https://open.spotify.com/album/5Qp2zi2AXGt0AiuDbUYNSf) | 4:50 | 2025-07-03 |  |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-08-01 | 2023-08-25 |
 | [Star Odyssey](https://open.spotify.com/track/6UKD7Hkyrw3UFaviZB8DG9) | [Los Niños](https://open.spotify.com/artist/45YRHObLU91yne2hvVbGki) | [City Tales presents Sunset Tales](https://open.spotify.com/album/41MqzPPZgDN1KrPMpfxVGV) | 9:24 | 2025-06-06 | 2025-06-13 |
 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 | 2023-11-24 | 2025-01-10 |

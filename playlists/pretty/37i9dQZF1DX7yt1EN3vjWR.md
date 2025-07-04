@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【全セットリストを再現】2025年5月24日\(土\), 25日\(日\)に幕張メッセで開催された国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,242 likes - 253 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,256 likes - 253 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,9 +158,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 148 | [AQUA \(feat\. RY0N4, JUMADIBA, LINNA FIGG, aryy & Lil Soft Tennis\)](https://open.spotify.com/track/1jFNt2jOpGU9CqCWUszdp1) | [HEAVEN](https://open.spotify.com/artist/5HvnvzT38WprLXHmtO6LxY), [RY0N4](https://open.spotify.com/artist/3krxQ7NwEXM0Ba8Dzsln2g), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [LINNA FIGG](https://open.spotify.com/artist/7aHkV0tMDugIgwrXRkgL1Z), [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [AiR](https://open.spotify.com/album/0IC3J6JYR7TEZQ6NS1csX1) | 3:02 |
 | 149 | [Fucked Up!!](https://open.spotify.com/track/2SAFLrfewHWgA4xsAg966L) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [i have a wing](https://open.spotify.com/album/4nNQr2bpjeZ8jtVXO0ArJL) | 2:58 |
 | 150 | [i have a wing](https://open.spotify.com/track/3RxKJNtEaUyVxr8forgUDd) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [i have a wing](https://open.spotify.com/album/4nNQr2bpjeZ8jtVXO0ArJL) | 3:00 |
-| 151 | [Way of Life](https://open.spotify.com/track/2j1ZolCFJBGxpqo9Q0m2tJ) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/59ixCsu91KI4diLB4OrJHv) | 2:48 |
-| 152 | [Grab a Dream](https://open.spotify.com/track/6YvNdtxc6wW6ZTIFfdvZxN) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/59ixCsu91KI4diLB4OrJHv) | 2:45 |
-| 153 | [bittersweet](https://open.spotify.com/track/2YaN8h9C3Sl0ua8mbm3EBb) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/59ixCsu91KI4diLB4OrJHv) | 2:47 |
+| 151 | [bittersweet](https://open.spotify.com/track/2j1ZolCFJBGxpqo9Q0m2tJ) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/59ixCsu91KI4diLB4OrJHv) | 2:48 |
+| 152 | [Way of Life](https://open.spotify.com/track/6YvNdtxc6wW6ZTIFfdvZxN) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/59ixCsu91KI4diLB4OrJHv) | 2:45 |
+| 153 | [Werewolf](https://open.spotify.com/track/2YaN8h9C3Sl0ua8mbm3EBb) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [bud](https://open.spotify.com/album/59ixCsu91KI4diLB4OrJHv) | 2:47 |
 | 154 | [nichijou:loopmania](https://open.spotify.com/track/4q1m4MMFJZs4stFuBqotue) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [haikaicollection](https://open.spotify.com/album/1eqzv5E2fzzaxybWTepAgU) | 2:16 |
 | 155 | [haikai:pop](https://open.spotify.com/track/0gBzSAgJqOGSYeDttT6lbZ) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [haikaicollection](https://open.spotify.com/album/1eqzv5E2fzzaxybWTepAgU) | 3:08 |
 | 156 | [i \(dont\) know.](https://open.spotify.com/track/2SgpAnDWdnk7VGlrUguBJs) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [shumatsucollection](https://open.spotify.com/album/6m6eiy7oT8tUoHqFpGEdEo) | 2:28 |

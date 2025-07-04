@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. ⚡️Kannessa Sleep Token.⚡️
 
-260 songs - 16 hr 57 min
+261 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Behind the Lie](https://open.spotify.com/track/1VSSV0LoA60hM1qPTcUbcI) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Behind the Lie](https://open.spotify.com/album/5JhgNBNcmHrXSo7Ebf0WE2) | 5:01 | 2024-09-11 | 2024-10-11 |
 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 | 2024-09-11 |  |
 | [Bimbo](https://open.spotify.com/track/4GTm2tz9bKG9AbpvyzTZqy) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [Bimbo](https://open.spotify.com/album/5AJAJ8IsUsGNnVb70NM3Rc) | 3:34 | 2024-09-26 | 2025-06-20 |
-| [Black Mamba](https://open.spotify.com/track/31INWASDAVj7l1smhUNunx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Black Mamba](https://open.spotify.com/album/3YeUoZElR3JzAwNpS8zOa9) | 4:57 | 2025-04-24 |  |
+| [Black Mamba](https://open.spotify.com/track/31INWASDAVj7l1smhUNunx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Black Mamba](https://open.spotify.com/album/3YeUoZElR3JzAwNpS8zOa9) | 4:57 | 2025-04-24 | 2025-07-04 |
 | [Black Waves](https://open.spotify.com/track/5lOYCQMschBIypDDuarswO) | [Ginger Evil](https://open.spotify.com/artist/4jYDer2kA4oVGC3kMx2Uwh) | [Black Waves](https://open.spotify.com/album/1X6QFQngklDerKb8aKHKWa) | 3:20 | 2025-01-16 | 2025-04-25 |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-16 | 2025-02-28 |
 | [Blasphemous Paradise](https://open.spotify.com/track/0krVdVwk25wL7TryRcaTtK) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Blasphemous Paradise](https://open.spotify.com/album/5iimgNW82dhY6JIJo8VeDq) | 3:36 | 2025-02-13 |  |
@@ -241,6 +241,7 @@
 | [Three Six Five](https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:40 | 2025-01-23 | 2025-03-07 |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2024-11-07 | 2025-04-18 |
 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 | 2025-05-15 |  |
+| [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 |  |
 | [Tokyo Love](https://open.spotify.com/track/3RgaZ9OAFzH3w58KKfIHoa) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Neon Inferno](https://open.spotify.com/album/75k7eiWA8rEGhmViParevn) | 3:33 | 2024-10-24 | 2025-01-17 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-12-13 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |

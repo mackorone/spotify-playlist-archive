@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Trey Pendley, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,068 likes - 180 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,111 likes - 180 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

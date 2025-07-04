@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: SPRINTS",
+  "description": "The best new music from the wide world of punk. Cover: BIG SPECIAL",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 109285,
       "name": "Active Trauma",
       "url": "https://open.spotify.com/track/4yMM6709W39opUprK6dL7Y"
@@ -4643,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "BITE MY TONGUE",
+        "url": "https://open.spotify.com/album/6shUVZFALrsOBywT2JxL0Y"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159460,
+      "name": "BITE MY TONGUE",
+      "url": "https://open.spotify.com/track/2L1pwAyA9lRfgaalqofUqt"
+    },
+    {
+      "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/27JUjbzZveX1X1Y5Df1C0o"
       },
@@ -4868,6 +4886,24 @@
       "duration_ms": 274664,
       "name": "Bleachers Yard",
       "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
+    },
+    {
+      "album": {
+        "name": "Bleeding out",
+        "url": "https://open.spotify.com/album/05PXVtrE58Hek4pCWGZ0QC"
+      },
+      "artists": [
+        {
+          "name": "Jah PHNX",
+          "url": "https://open.spotify.com/artist/4FAtkJD7fCoiw7nECuemAG"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "Bleeding out",
+      "url": "https://open.spotify.com/track/2QwCSLYrJEjGnqZFoH7V7L"
     },
     {
       "album": {
@@ -7080,10 +7116,28 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 225826,
       "name": "Car Song",
       "url": "https://open.spotify.com/track/2bM3PJxNWCQi5LGMCv9iOg"
+    },
+    {
+      "album": {
+        "name": "Violent Delights",
+        "url": "https://open.spotify.com/album/5pZ9QA51QaTbFuiLCR168E"
+      },
+      "artists": [
+        {
+          "name": "Jools",
+          "url": "https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168151,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/5WzQU0ckczDtFQFhFiPAGJ"
     },
     {
       "album": {
@@ -9144,7 +9198,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 217496,
       "name": "Crashing Cars",
       "url": "https://open.spotify.com/track/2nXaNugCLSPrAOz52F6MCI"
@@ -12523,6 +12577,24 @@
     },
     {
       "album": {
+        "name": "DUD",
+        "url": "https://open.spotify.com/album/2i2ZDjUHLMDMtYWrazDaFr"
+      },
+      "artists": [
+        {
+          "name": "teethin",
+          "url": "https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211627,
+      "name": "DUD",
+      "url": "https://open.spotify.com/track/3TDYyOyKMZqGlk2OOZ1nvh"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -12592,7 +12664,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 273920,
       "name": "Dunning Kruger's Loser Cruiser",
       "url": "https://open.spotify.com/track/7gjbwIURpmpHsCuBslkosY"
@@ -16392,6 +16464,24 @@
       "duration_ms": 187144,
       "name": "Go To Hell (feat. Yours Truly)",
       "url": "https://open.spotify.com/track/4Qcu1voWmc5vXrpNZI6PGf"
+    },
+    {
+      "album": {
+        "name": "NATIONAL AVERAGE.",
+        "url": "https://open.spotify.com/album/33oory27UshNhxTd1HmiHZ"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189842,
+      "name": "GOD SAVE THE PONY.",
+      "url": "https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864"
     },
     {
       "album": {
@@ -20746,7 +20836,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 329240,
       "name": "Ill at Ease",
       "url": "https://open.spotify.com/track/3359sTGFONdK9BmVsUzWpG"
@@ -20938,6 +21028,24 @@
       "duration_ms": 184760,
       "name": "In The Mirror",
       "url": "https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P"
+    },
+    {
+      "album": {
+        "name": "In The Paddies",
+        "url": "https://open.spotify.com/album/0NnkpYQwU6sztdUAiPn6mS"
+      },
+      "artists": [
+        {
+          "name": "Humour",
+          "url": "https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224169,
+      "name": "In the Paddies",
+      "url": "https://open.spotify.com/track/6JfwBCaXrQ6nwwAQn1scug"
     },
     {
       "album": {
@@ -22719,6 +22827,24 @@
     },
     {
       "album": {
+        "name": "Kiss On The Pitch",
+        "url": "https://open.spotify.com/album/6cnTH8kW5HGwAalKSBZojx"
+      },
+      "artists": [
+        {
+          "name": "The Menstrual Cramps",
+          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163648,
+      "name": "Kiss On The Pitch",
+      "url": "https://open.spotify.com/track/2hdbRP7QoHiIp3sJPxlY4y"
+    },
+    {
+      "album": {
         "name": "Klepto",
         "url": "https://open.spotify.com/album/2HbuKoMJopqTTcsIWfL8R6"
       },
@@ -23174,7 +23300,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 155706,
       "name": "Lay Down and Die",
       "url": "https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg"
@@ -23754,6 +23880,24 @@
       "duration_ms": 181261,
       "name": "Licking on a Knife for Fun",
       "url": "https://open.spotify.com/track/7dva5TF6de5kEEO6E63s8c"
+    },
+    {
+      "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/2JLOGIBdOeIcqXhgpoqDQT"
+      },
+      "artists": [
+        {
+          "name": "No Tomorrow.",
+          "url": "https://open.spotify.com/artist/5WXxtiDXxSW6eYRwOsI8Qx"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/40HGtcnsFcj01mOhJnjGEw"
     },
     {
       "album": {
@@ -24450,6 +24594,24 @@
       "duration_ms": 214714,
       "name": "Lonely Together",
       "url": "https://open.spotify.com/track/5OcPfwCFJ5WDIywu4fZ1Jp"
+    },
+    {
+      "album": {
+        "name": "Long Line",
+        "url": "https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd"
+      },
+      "artists": [
+        {
+          "name": "Soft Bait",
+          "url": "https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212157,
+      "name": "Long Line",
+      "url": "https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD"
     },
     {
       "album": {
@@ -25442,6 +25604,24 @@
       "duration_ms": 199643,
       "name": "Makes Me Violent",
       "url": "https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v"
+    },
+    {
+      "album": {
+        "name": "Jan. 30, First Ave Pt.1",
+        "url": "https://open.spotify.com/album/2P8iAqMnsqWjev9kc4sfGg"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159653,
+      "name": "Makes No Sense At All",
+      "url": "https://open.spotify.com/track/2cCwxLtL8HvvRR3vyRJDxX"
     },
     {
       "album": {
@@ -28238,7 +28418,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 153851,
       "name": "No Longer Young",
       "url": "https://open.spotify.com/track/2QgRR2igdWsqymmUy0FSza"
@@ -31114,7 +31294,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 193592,
       "name": "Plagiarist",
       "url": "https://open.spotify.com/track/0SPj7B6r2PYezxF0KyIYDb"
@@ -33436,7 +33616,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 149291,
       "name": "Right Girl Wrong Time",
       "url": "https://open.spotify.com/track/4gobC5dE1k9njtzIDChBRF"
@@ -40957,6 +41137,24 @@
     },
     {
       "album": {
+        "name": "The Mistake",
+        "url": "https://open.spotify.com/album/633pHSjzu0PDTUKLe5TdNC"
+      },
+      "artists": [
+        {
+          "name": "Ray Hawthorne",
+          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109857,
+      "name": "The Mistake",
+      "url": "https://open.spotify.com/track/17B2Hs4aczlKOpqjtJ5M86"
+    },
+    {
+      "album": {
         "name": "The Ocean",
         "url": "https://open.spotify.com/album/5xkTDUJ4frtffODIZeQa8y"
       },
@@ -41297,6 +41495,24 @@
     },
     {
       "album": {
+        "name": "The Storm Comes Crashing In",
+        "url": "https://open.spotify.com/album/2oOW9XXIa5w6aQTKD1dsgt"
+      },
+      "artists": [
+        {
+          "name": "Napoleon",
+          "url": "https://open.spotify.com/artist/4UtWYEpykNIdMwiwCoAiBW"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174937,
+      "name": "The Storm Comes Crashing In",
+      "url": "https://open.spotify.com/track/0Ey3Y8RvtAew4DrNxmzkdX"
+    },
+    {
+      "album": {
         "name": "The Tower",
         "url": "https://open.spotify.com/album/3HSeYM1oYsWAh5274IB4VG"
       },
@@ -41366,7 +41582,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 226125,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/6CmXwYhKm1kO4W4yAbFlYm"
@@ -43474,7 +43690,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 143183,
       "name": "United",
       "url": "https://open.spotify.com/track/4vpxL9y43tsay70SWv1KkO"
@@ -44618,7 +44834,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 178497,
       "name": "Waterboy",
       "url": "https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO"
@@ -45022,7 +45238,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 136509,
       "name": "Western",
       "url": "https://open.spotify.com/track/4Y6jhXyA9NOezpq5pQvtBK"
@@ -46382,7 +46598,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 221461,
       "name": "Wyatt's Song (Your Name)",
       "url": "https://open.spotify.com/track/2x3VLtvMPcWcCYdi0hyXRU"

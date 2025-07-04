@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: TWS\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,554 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 17,566 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `aF5WAQAAAADdzHGQ9MP0KawLmOqjviC9`
+Snapshot ID: `aGZC4gAAAAA6xFPd2/gTJ6Z/W4HyhS4u`

@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-240 songs - 21 hr 1 min
+242 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,12 @@
 | [Amua](https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3) | [Amua](https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca) | 6:29 | 2023-05-12 | 2023-11-03 |
 | [Anabadilisha Matokeo](https://open.spotify.com/track/2OvikG1Odt1ADNBS9LjXm1) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anabadilisha Matokeo](https://open.spotify.com/album/6LHPTkupbo2Zrsi2UdVpra) | 3:49 | 2024-08-16 | 2025-02-21 |
 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 | 2022-06-24 | 2023-04-21 |
+| [Anaweza {Musyoka Mix}](https://open.spotify.com/track/7JGT10rzWMPwf2ogzCIInk) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug) | [Misimu](https://open.spotify.com/album/6YlYPW6kjMlkoctwpTPGS8) | 3:34 | 2025-07-04 |  |
 | [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/track/3V6MVehktSGLq4yIR2kdyf) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/album/7jVZb2169KDjIBMrLDjiDo) | 3:51 | 2025-01-17 |  |
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 | 2024-09-06 |
 | [Asante Yesu](https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7xdM3ySr8c2PNbdrAKeZ3P) | 4:55 | 2022-06-24 | 2024-04-19 |
 | [Atafanya](https://open.spotify.com/track/6GVCASJsB3ly7jfatlcuUg) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atafanya](https://open.spotify.com/album/4d2RvpianFuxJcnxLykgGJ) | 3:49 | 2025-04-18 |  |
-| [Awesome God](https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Awesome God](https://open.spotify.com/album/5VpaMGKUtmyKP3lx7zo0gN) | 1:39 | 2025-05-16 |  |
+| [Awesome God](https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Awesome God](https://open.spotify.com/album/5VpaMGKUtmyKP3lx7zo0gN) | 1:39 | 2025-05-16 | 2025-07-04 |
 | [Baba Bless](https://open.spotify.com/track/3dhCA09HOqWflLFBETCNlg) | [Nuh Mziwanda](https://open.spotify.com/artist/3Tr1usGEKLrBWtSXCqOBop) | [Baba Bless](https://open.spotify.com/album/6ocpsJ53YTnsTt7bHOj8kk) | 3:03 | 2024-12-13 | 2025-04-18 |
 | [BABA MWEMA](https://open.spotify.com/track/7pM0W3cq4NYaG5pmt3FDA9) | [Beda Andrew](https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z) | [BABA MWEMA](https://open.spotify.com/album/7nrDTqBz4RxQwSqYf1gFSe) | 3:18 | 2023-10-13 | 2024-05-10 |
 | [Beba Nuru](https://open.spotify.com/track/3X7Ebfhg0rl0DWN3UErhfw) | [Mgasa George](https://open.spotify.com/artist/0UzzhS3G4a2c4jINaSAEhy) | [Beba Nuru](https://open.spotify.com/album/1VOv6kempfsry0X3LgZBT6) | 3:47 | 2023-05-05 | 2023-07-07 |
@@ -82,7 +83,7 @@
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-06-16 |  |
 | [Kwa Maombi](https://open.spotify.com/track/6vrlnd03PjPB5UGdHJTT14) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Kwa Maombi](https://open.spotify.com/album/6qppeKr28BhCBT464qRsF0) | 2:43 | 2024-04-12 | 2024-10-18 |
 | [Kwa Yesu](https://open.spotify.com/track/2zgITxAOZXWxt1JLAOlYxB) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF) | [Kwa Yesu](https://open.spotify.com/album/0aCIFPSAHCi3hppVF9aTeE) | 3:20 | 2024-03-01 | 2024-07-12 |
-| [Let it Shine](https://open.spotify.com/track/0hkU8PP3x9snLlXrBWujf8) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Let it Shine](https://open.spotify.com/album/6y9Nl5cM5tfC9VyCWB2TK5) | 3:10 | 2025-05-30 |  |
+| [Let it Shine](https://open.spotify.com/track/0hkU8PP3x9snLlXrBWujf8) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Let it Shine](https://open.spotify.com/album/6y9Nl5cM5tfC9VyCWB2TK5) | 3:10 | 2025-05-30 | 2025-07-04 |
 | [Love Is](https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is](https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc) | 3:20 | 2023-04-14 |  |
 | [Mafinyo](https://open.spotify.com/track/0Dvegx9rdQ1zcDuwrmD9lg) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Mafinyo](https://open.spotify.com/album/35OrbuAz7HimsFYUwE4QfQ) | 3:14 | 2024-05-10 | 2024-05-11 |
 | [Mafinyo](https://open.spotify.com/track/37dBDlByr5JgfQ6GuoBNuU) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Garvey Royal](https://open.spotify.com/artist/16Kak1UGaE15pDnmAhdH2N), [Desito](https://open.spotify.com/artist/3RVwTLQZE6h8OxDAOjCRrN) | [Mafinyo](https://open.spotify.com/album/363I7oqJXVSinPYXaNOdTz) | 3:14 | 2024-05-17 | 2024-06-01 |
@@ -91,6 +92,7 @@
 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 | 2023-06-09 |  |
 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 | 2024-06-21 |  |
 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 | 2022-06-24 | 2025-02-21 |
+| [Mbingu Mpya](https://open.spotify.com/track/34pTIVPEKdZjVnsHSHHmX9) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Nelly Naitengel](https://open.spotify.com/artist/4A53iYCzAhCwaZP34rK41R) | [BEST OF ROSE MUHANDO \(Deluxe\)](https://open.spotify.com/album/3AFwaOuwhUXe1O1pcECHx0) | 4:13 | 2025-07-04 |  |
 | [Mema](https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Mema](https://open.spotify.com/album/3Hqy9SSDsYpFNHOG5EOuyD) | 2:48 | 2023-09-08 | 2024-05-24 |
 | [Miel Matin](https://open.spotify.com/track/4hbe5UovoheGJNcErxxBeT) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU), [Ayuni Nyapolo](https://open.spotify.com/artist/1vSWFYBte0N3BFpFcTJcGA) | [Miel Matin](https://open.spotify.com/album/6MoIsePBvfErhOcGKrlAML) | 2:31 | 2024-07-19 |  |
 | [Mifupani](https://open.spotify.com/track/4Ls6DToql6xu7jkEnCnuod) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Trust](https://open.spotify.com/album/7GX4V7LPwYaDJ1XXTXL1e4) | 4:13 | 2022-06-24 | 2024-04-19 |

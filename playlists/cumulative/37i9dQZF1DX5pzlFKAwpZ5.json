@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "The calming space of Japanese Ambient and Environmental music. Kenichiro Isoda on cover.",
+  "description": "The calming space of Japanese Ambient and Environmental music. yanaco on cover.",
   "name": "Ambient Japan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 364192,
       "name": "#bdbdbd (06:16:00am - 12:19:59am)",
       "url": "https://open.spotify.com/track/5a7qx2I3G93dR79p2StDmF"
@@ -3081,6 +3081,28 @@
     },
     {
       "album": {
+        "name": "Nagi / \u51ea",
+        "url": "https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "Josefina Tai",
+          "url": "https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297576,
+      "name": "Nagi / \u51ea",
+      "url": "https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I"
+    },
+    {
+      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -4021,6 +4043,24 @@
     },
     {
       "album": {
+        "name": "shade",
+        "url": "https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113213,
+      "name": "shade",
+      "url": "https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs"
+    },
+    {
+      "album": {
         "name": "Shaded Navy",
         "url": "https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l"
       },
@@ -4058,7 +4098,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 264034,
       "name": "shibuya",
       "url": "https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T"

@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto:  ÁTOA , Luís Trigacheiro
+> Uma playlist de pura alma pop! Foto:  Vizinhos
 
-283 songs - 15 hr 2 min
+285 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,13 +30,14 @@
 | [Ao Ocaso](https://open.spotify.com/track/1HHUKAEQM2s3jvpUxJcaMZ) | [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ), [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [Um Gelado Antes Do Fim Do Mundo](https://open.spotify.com/album/5JPHU8dMluAx0CeMPHKTPN) | 4:44 | 2025-03-21 |  |
 | [Ao Teu Ouvido \(feat\. Bárbara Tinoco\)](https://open.spotify.com/track/6bZkZEAd74aN460QLox8W9) | [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Ao Teu Ouvido \(feat\. Bárbara Tinoco\)](https://open.spotify.com/album/5l3QAHoU2IXYiyYspW9ZQA) | 3:36 | 2024-06-27 | 2024-11-22 |
 | [Apaga a Luz](https://open.spotify.com/track/3wsBY12jclLxRB8IkQkfFh) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU) | [Apaga a Luz](https://open.spotify.com/album/36heBACSXybLbTgwAHf8Ja) | 2:46 | 2024-10-10 | 2025-01-10 |
-| [Apagar A Sombra](https://open.spotify.com/track/1d85Pi8RAoGxB18gfu2Nk0) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Apagar A Sombra](https://open.spotify.com/album/20LXGivwNOPfvMvTJWzRvE) | 2:46 | 2025-05-29 |  |
+| [Apagar A Sombra](https://open.spotify.com/track/1d85Pi8RAoGxB18gfu2Nk0) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Apagar A Sombra](https://open.spotify.com/album/20LXGivwNOPfvMvTJWzRvE) | 2:46 | 2025-05-29 | 2025-07-04 |
 | [Aqui pra Ti](https://open.spotify.com/track/0BQTqEVfJika55rjtiMy8L) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Aqui pra Ti](https://open.spotify.com/album/6QZVZg5aiEK1v0JO5csZ1J) | 3:34 | 2024-06-27 | 2025-01-17 |
 | [As Mãos](https://open.spotify.com/track/5ntSogYQzyovUX84ez3Lwa) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [As Mãos](https://open.spotify.com/album/00g0rCExmeX34M2kZBD0Am) | 2:02 | 2024-12-06 | 2024-12-20 |
 | [Até ao Fim](https://open.spotify.com/track/0KVuFaXvgC5v4xRlSIiitI) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Até ao Fim](https://open.spotify.com/album/46YktMeTszHGnImZEd4AT0) | 3:24 | 2024-06-27 | 2025-02-14 |
 | [Até Parece](https://open.spotify.com/track/6uJj5xjwmaucjiiCxoX876) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Mundo Antena](https://open.spotify.com/album/7BDkkowFwqTfcUjeiK9jCz) | 2:50 | 2025-04-10 | 2025-05-23 |
 | [AURA](https://open.spotify.com/track/6M9QkeLsircEIi26YOE9eE) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [AURA](https://open.spotify.com/album/5ipBcRzBFolwsA8zp1UfWz) | 3:05 | 2025-06-19 |  |
 | [aYe!](https://open.spotify.com/track/62yfxuFCib7HogrJpw5uCQ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [all i see is blur](https://open.spotify.com/album/3aiEy0lTISo7SQ50Hu9JCQ) | 2:44 | 2024-09-26 | 2024-11-22 |
+| [Beijo](https://open.spotify.com/track/3303s19agScDaCsPYdCu7i) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Toy](https://open.spotify.com/artist/3ggsRmBGV01RYdNu8pRWJd), [Tony Carreira](https://open.spotify.com/artist/6w7nHPNj2BIGTEbRrefVyu) | [Beijo](https://open.spotify.com/album/2KnncUYSx94xd8rox89Rrw) | 3:29 | 2025-07-03 |  |
 | [bilhete na garrafa](https://open.spotify.com/track/1hwccM97LF25C0CGbGDKCP) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [bilhete na garrafa](https://open.spotify.com/album/66E2SDh51iVq64oot5dxpc) | 2:22 | 2025-04-24 |  |
 | [Boca Louca](https://open.spotify.com/track/3on5wwXaYBWMqV5bhP78So) | [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Boca Louca](https://open.spotify.com/album/0duEgRKsX4UfXOoF9bqMiG) | 2:52 | 2025-03-07 | 2025-05-09 |
 | [Bom Dia](https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Bom Dia](https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX) | 3:15 | 2024-09-19 | 2025-03-14 |
@@ -181,7 +182,7 @@
 | [Na Pressa Dos Dias](https://open.spotify.com/track/1FDCHVC6nWMK4YooznGt1m) | [Tony Carreira](https://open.spotify.com/artist/6w7nHPNj2BIGTEbRrefVyu), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [Na Pressa Dos Dias](https://open.spotify.com/album/18QkxQgrmxlTafwuYCpkyX) | 3:26 | 2025-03-07 | 2025-05-23 |
 | [Nada Demais \(feat\. Rita Onofre\)](https://open.spotify.com/track/0H9nEqO1DybOjbFUE5Oay2) | [Beatriz Caixinha](https://open.spotify.com/artist/6Ji4dWE4lgaPMko8PLJV5n), [Rita Onofre](https://open.spotify.com/artist/7vVA69an2aWJ4q8lY5KC9Z) | [Nada Demais \(feat\. Rita Onofre\)](https://open.spotify.com/album/1GcjJY1RDYWsSJXnifdXrQ) | 2:34 | 2025-04-03 | 2025-05-02 |
 | [Nas Pontas dos Pés](https://open.spotify.com/track/097pTvSnQKKGHqKDkHJJjy) | [Rita Guerra](https://open.spotify.com/artist/79CcwQyVLb6A4AHul0WNEw) | [Nas Pontas dos Pés](https://open.spotify.com/album/5n4oUABzSQyhbknyo8MnBX) | 3:50 | 2025-02-14 |  |
-| [Nem Dei Por Acontecer](https://open.spotify.com/track/6qR8Sn0fx619G3zUa8ZZb0) | [Soraia Tavares](https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX) | [Nem Dei Por Acontecer](https://open.spotify.com/album/6UbtdozzFlg8GDoETvHWXQ) | 2:53 | 2025-06-19 |  |
+| [Nem Dei Por Acontecer](https://open.spotify.com/track/6qR8Sn0fx619G3zUa8ZZb0) | [Soraia Tavares](https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX) | [Nem Dei Por Acontecer](https://open.spotify.com/album/6UbtdozzFlg8GDoETvHWXQ) | 2:53 | 2025-06-19 | 2025-07-04 |
 | [Ninguém](https://open.spotify.com/track/5AGJ4qOBXBQVl9O0A7jGjc) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 3:00 | 2025-03-14 | 2025-06-20 |
 | [No próximo ano](https://open.spotify.com/track/3UdMXUZ5aeo3CpslWmUzOD) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [No próximo ano](https://open.spotify.com/album/27T8X3kOs5ChxvrNXVTu3e) | 4:04 | 2025-05-01 |  |
 | [No Teu Lugar](https://open.spotify.com/track/3KTYDS1L8tB2AuQOP6Wj9h) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Peito](https://open.spotify.com/album/1vkQrynXbbF8j9HdWcfRcZ) | 3:18 | 2024-09-19 | 2024-11-01 |
@@ -244,6 +245,7 @@
 | [Saltamos Daqui!](https://open.spotify.com/track/1OootyYFdPXCTqkW4ZBmbP) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Saltamos Daqui!](https://open.spotify.com/album/73XIeQpT28k2fdPdv2NY0G) | 3:24 | 2025-05-22 | 2025-06-06 |
 | [Saudade](https://open.spotify.com/track/0Qvlxbi5sIZOWOzcvgwEPf) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Saudade](https://open.spotify.com/album/2MFXinR9zKNPuVzhDWR0Um) | 3:35 | 2025-06-19 |  |
 | [Saudade](https://open.spotify.com/track/0AX6468RmVA9ufePa4C10j) | [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi), [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Saudade](https://open.spotify.com/album/3coP6XZxmrnZzUan4FwSzF) | 4:08 | 2024-06-27 | 2024-12-20 |
+| [Saudade](https://open.spotify.com/track/1xoubW0lb0QniLQB1Y8zf5) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0), [Emanuel e Toy Matos](https://open.spotify.com/artist/19XWBFp1y3cArgld1TSvZu) | [Saudade](https://open.spotify.com/album/4fQQ9JtLpmIFQHb84cq9ep) | 3:30 | 2025-07-03 |  |
 | [Saudades](https://open.spotify.com/track/3s45p5hScFp2vnZO9MxKhF) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Fases](https://open.spotify.com/album/5LvjwMku6tlmyANXDMoAJl) | 2:38 | 2024-11-29 | 2025-03-21 |
 | [saudades tuas.](https://open.spotify.com/track/32DNY9XRdDPwL6jWufOGcj) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [saudades tuas.](https://open.spotify.com/album/0MK4K1a0naVxAeUgMIAL5E) | 3:10 | 2025-01-31 | 2025-04-25 |
 | [Se Fosse Fácil](https://open.spotify.com/track/5urPJ6TNyJ9cnezypizxaP) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Se Fosse Fácil](https://open.spotify.com/album/54vrR4L5IYYK2zak97fIl4) | 2:27 | 2025-06-26 |  |

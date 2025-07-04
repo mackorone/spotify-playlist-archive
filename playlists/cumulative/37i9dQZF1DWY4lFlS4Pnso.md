@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Olivia Dean
+> The UK's biggest playlist\. Cover: MK, Chrystal
 
 335 songs - 17 hr 51 min
 

@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
 
-251 songs - 17 hr 35 min
+252 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Time](https://open.spotify.com/track/2uNW6w5uHdgUktt8vFz0Pq) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Jessie Tanoko](https://open.spotify.com/artist/2QHCr14mVb7OaFLCu6bDnI) | [Time](https://open.spotify.com/album/43UmfySArofutUhY1bKzkb) | 2:59 | 2022-09-02 | 2023-06-30 |
 | [True Love](https://open.spotify.com/track/4UyUg4GESbNUhjKlZerwRN) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [True Love](https://open.spotify.com/album/0jQmL0BclbfbxCXJLvRsBg) | 3:46 | 2022-12-22 | 2023-03-04 |
 | [Tune for Lovely Souls](https://open.spotify.com/track/26UE9dPxITf8w5MeXNajx4) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt), [Musiversal](https://open.spotify.com/artist/0CKghiJKtmUuuPZHFOiwlW) | [Tune for Lovely Souls](https://open.spotify.com/album/3VsWmqZ6JHs4Enq0vdtePx) | 2:37 | 2022-09-02 | 2024-09-07 |
+| [Unwritten Roads \[with Schätzli\]](https://open.spotify.com/track/0xrJGPTW2PlfMAF7fO9XA4) | [Maroy Magaline](https://open.spotify.com/artist/3hck9Nv6Lmhh9TqJtpvydt) | [Unwritten Roads \[with Schätzli\]](https://open.spotify.com/album/76iFRnsbJoiCXpQM5isEUT) | 4:12 | 2025-07-03 |  |
 | [Wait for the Dawn](https://open.spotify.com/track/51C7LDpnAcUVrbfTSKK0Xm) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/78axvoUJmfhQ74lhOJdJI9) | 4:58 | 2023-11-28 | 2024-04-19 |
 | [Wait for the Dawn](https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/2H8Q69oCxEXHGQR5cRx4Ee) | 4:58 | 2022-09-02 | 2025-05-09 |
 | [Waktuku Hampa](https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [Detik Waktu Quartet](https://open.spotify.com/artist/5G2dRrZGbA1aQIaY5ng4HK) | [Waktuku Hampa](https://open.spotify.com/album/367KtX1YYymKFcjfN847nC) | 3:17 | 2022-09-02 | 2025-02-07 |

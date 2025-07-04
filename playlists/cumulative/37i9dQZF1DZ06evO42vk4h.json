@@ -1321,6 +1321,36 @@
     },
     {
       "album": {
+        "name": "Legend Live (LIve)",
+        "url": "https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        },
+        {
+          "name": "CwengaBass",
+          "url": "https://open.spotify.com/artist/34sT0yhKEAOOeW8dYHKECM"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274497,
+      "name": "Tsetserepa - Radio Edit",
+      "url": "https://open.spotify.com/track/7yrakeYucZbT1Boa665xFL"
+    },
+    {
+      "album": {
         "name": "Keep Hope Alive",
         "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
       },
@@ -1336,7 +1366,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 340221,
       "name": "Umbane",
       "url": "https://open.spotify.com/track/295iqSGT4nzlGnq9HrpYB6"

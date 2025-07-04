@@ -912,7 +912,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 251477,
       "name": "Ave F\u00e9nix",
       "url": "https://open.spotify.com/track/1ONyetfDS94ohmlfEzZP6W"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 182212,
       "name": "EL DIABLO DE TU CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/0ww1MmtnFPVzhgS38lvSkP"
@@ -3572,7 +3572,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 175559,
       "name": "El limbo",
       "url": "https://open.spotify.com/track/7ueRhhAiOclLA57N4HQqgs"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 236520,
       "name": "El Mejor de Tus D\u00edas",
       "url": "https://open.spotify.com/track/6WeR33uTcbiXI52aEU24bx"
@@ -4140,7 +4140,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
@@ -4162,6 +4162,24 @@
       "duration_ms": 235670,
       "name": "En la Rampa de Salida",
       "url": "https://open.spotify.com/track/3jWbGQQ080QrmBqZ8Fs4VW"
+    },
+    {
+      "album": {
+        "name": "En Otra Peli",
+        "url": "https://open.spotify.com/album/7G3VK3uOUu07Tv4UHTFsIk"
+      },
+      "artists": [
+        {
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198792,
+      "name": "En Otra Peli",
+      "url": "https://open.spotify.com/track/26Mb3yVMCSiZYbEiwbpRWQ"
     },
     {
       "album": {
@@ -4364,7 +4382,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 162640,
       "name": "Estamos como queremos",
       "url": "https://open.spotify.com/track/1hM8IkhmSWyrpGcCkH7yNE"
@@ -7650,7 +7668,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 287659,
       "name": "Mis Viejos Discos de Jazz",
       "url": "https://open.spotify.com/track/6FPcpTRYUbsxonVwDXbzKk"
@@ -7760,7 +7778,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 149532,
       "name": "Mundo en Ruinas",
       "url": "https://open.spotify.com/track/5CoUuRhc8nxg4a3dAINzOc"
@@ -9057,6 +9075,28 @@
     },
     {
       "album": {
+        "name": "Puntos suspensivos",
+        "url": "https://open.spotify.com/album/6C6cRNiQIHCGpBvMsBk4lH"
+      },
+      "artists": [
+        {
+          "name": "Pol 3.14",
+          "url": "https://open.spotify.com/artist/4P9xDIEyrtAeXRI6xOl2TS"
+        },
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174516,
+      "name": "Puntos suspensivos",
+      "url": "https://open.spotify.com/track/2hcnOZjhVfiZoXC5qMXxjd"
+    },
+    {
+      "album": {
         "name": "Se nos lleva el aire",
         "url": "https://open.spotify.com/album/3V0gXpeLYWle5J3vy1O4Lu"
       },
@@ -10231,6 +10271,24 @@
     },
     {
       "album": {
+        "name": "Solitud",
+        "url": "https://open.spotify.com/album/5cjZ3dixljUXaAOB00aZ9m"
+      },
+      "artists": [
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228708,
+      "name": "Solitud",
+      "url": "https://open.spotify.com/track/17ZiNld8bR0sVmdsJkDM9H"
+    },
+    {
+      "album": {
         "name": "El mundo del rev\u00e9s",
         "url": "https://open.spotify.com/album/4Q0YkTaNHufFcXxNHVrEun"
       },
@@ -10662,7 +10720,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 289800,
       "name": "Terciopelo azul",
       "url": "https://open.spotify.com/track/3wuDAI5DRe90ydZxXnWNrD"
@@ -11846,7 +11904,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 183669,
       "name": "Yo estar\u00e9",
       "url": "https://open.spotify.com/track/3CAK79VrwVJF29merridIZ"

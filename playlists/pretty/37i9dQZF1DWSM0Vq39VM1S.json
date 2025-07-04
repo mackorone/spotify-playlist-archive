@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388841,
+  "num_followers": 388854,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-06-26 22:00:27",
       "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2025-06-26 22:00:27",
+      "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 269413,
       "name": "22:23",
       "url": "https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR"
-    },
-    {
-      "added_at": "2025-06-26 22:00:27",
-      "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2025-06-26 22:00:27",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-06-26 22:00:27",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 197136,
-      "name": "Brown Eyes",
-      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
-    },
-    {
-      "added_at": "2025-06-26 22:00:27",
-      "album": {
         "name": "postcard season",
         "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 172300,
       "name": "sunflower \u201824",
       "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
+    },
+    {
+      "added_at": "2025-06-26 22:00:27",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 197136,
+      "name": "Brown Eyes",
+      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
     },
     {
       "added_at": "2025-06-26 22:00:27",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-06-26 22:00:27",
       "album": {
-        "name": "Where'd It Go Wrong?",
-        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Where'd It Go Wrong?",
-      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
-    },
-    {
-      "added_at": "2025-06-26 22:00:27",
-      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2025-06-26 22:00:27",
       "album": {
-        "name": "Within a Heartbeat",
-        "url": "https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 221991,
-      "name": "Within a Heartbeat",
-      "url": "https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4"
-    },
-    {
-      "added_at": "2025-06-26 22:00:27",
-      "album": {
         "name": "Flower of the soul (full bloom)",
         "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 143268,
       "name": "Borrow mine",
       "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
+    },
+    {
+      "added_at": "2025-06-26 22:00:27",
+      "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
+    },
+    {
+      "added_at": "2025-06-26 22:00:27",
+      "album": {
+        "name": "Within a Heartbeat",
+        "url": "https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 221991,
+      "name": "Within a Heartbeat",
+      "url": "https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4"
     },
     {
       "added_at": "2025-06-26 22:00:27",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-06-26 22:00:27",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 165434,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv"
-    },
-    {
-      "added_at": "2025-06-26 22:00:27",
-      "album": {
         "name": "Souls x Mates",
         "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 231213,
       "name": "Souls x Mates",
       "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
+    },
+    {
+      "added_at": "2025-06-26 22:00:27",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 165434,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

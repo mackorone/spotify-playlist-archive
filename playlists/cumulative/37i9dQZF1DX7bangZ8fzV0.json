@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn en Bella",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Refentse",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 207812,
       "name": "Asseblief",
       "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
@@ -1540,6 +1540,24 @@
       "duration_ms": 189803,
       "name": "Fairway Lyf",
       "url": "https://open.spotify.com/track/3DLeotilho45LEdwKPYb49"
+    },
+    {
+      "album": {
+        "name": "Flippen Nice",
+        "url": "https://open.spotify.com/album/3tkqXs6ODmuGr8EIWM5ZnU"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207518,
+      "name": "Flippen Nice",
+      "url": "https://open.spotify.com/track/531VPEKC0P7nMGylnAmRb3"
     },
     {
       "album": {
@@ -3724,10 +3742,28 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 173333,
       "name": "Naweek My Nou (feat. Loufi)",
       "url": "https://open.spotify.com/track/3tu4zpsCPi3ME24Y1a3T2N"
+    },
+    {
+      "album": {
+        "name": "Nee Buffel",
+        "url": "https://open.spotify.com/album/5uo9GCA8DZTZYSKDXiBY25"
+      },
+      "artists": [
+        {
+          "name": "WG NEL",
+          "url": "https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198228,
+      "name": "Nee Buffel",
+      "url": "https://open.spotify.com/track/0ZPA1pwIkDnddmLsIERSum"
     },
     {
       "album": {
@@ -4688,6 +4724,24 @@
       "duration_ms": 187800,
       "name": "Sonop-Blom",
       "url": "https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p"
+    },
+    {
+      "album": {
+        "name": "Sonsak In Die Vrystaat",
+        "url": "https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264935,
+      "name": "Sonsak In Die Vrystaat",
+      "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
     },
     {
       "album": {
@@ -5830,7 +5884,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 161589,
       "name": "Wynland",
       "url": "https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX"

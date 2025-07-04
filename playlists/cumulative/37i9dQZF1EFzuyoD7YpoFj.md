@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-556 songs - 1 day 5 hr 57 min
+557 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2024-07-24 |  |
 | [Everything I Love](https://open.spotify.com/track/3wfmbgaGrmNZxCs2NWgGP9) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 4:18 | 2024-07-24 | 2025-06-28 |
 | [Evidence \- Live At Carnegie Hall, New York/1957](https://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r) | [Thelonious Monk Quartet](https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [At Carnegie Hall](https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk) | 4:41 | 2024-07-24 | 2025-06-28 |
-| [Far Away](https://open.spotify.com/track/56nXPhIpF1JluugBO6nS21) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl from Rio \- G.H.](https://open.spotify.com/album/3BR0nLXGBEQThfiOFvZngq) | 4:25 | 2024-07-24 |  |
+| [Far Away](https://open.spotify.com/track/6zt0X5Fu7HOtr8rRuyLHh5) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl from Ipanema](https://open.spotify.com/album/7BfFLwA5cfsZGygAV0LAqB) | 4:22 | 2025-07-03 |  |
+| [Far Away](https://open.spotify.com/track/56nXPhIpF1JluugBO6nS21) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl from Rio \- G.H.](https://open.spotify.com/album/3BR0nLXGBEQThfiOFvZngq) | 4:25 | 2024-07-24 | 2025-07-04 |
 | [Far From Samantha](https://open.spotify.com/track/67cWdHcvQEDO4KLeaqX6an) | [Jazzaphonics](https://open.spotify.com/artist/15ym9PwjjS35v5qYyxqJXb) | [The Midnight Swing Collection](https://open.spotify.com/album/5TQ2TBEXU3uwYUCkfxm2GE) | 2:08 | 2024-07-24 | 2025-06-28 |
 | [Farewell Amanda](https://open.spotify.com/track/6sSgKmRe1vA2xdJdkQEyGm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Don Rodney](https://open.spotify.com/artist/470wCczhLel3wDQVMo1kd5), [Guy Lombardo Royal Canadians](https://open.spotify.com/artist/1ahgnTfteZr6J7PAVMTQYh), [Guy Lombardo](https://open.spotify.com/artist/5u5O35ppRJaOpOrU1CeKEW) | [Lombardo, Guy: Get Out Those Old Records \(1941\-1950\)](https://open.spotify.com/album/0gWeWlJQPVAARQPCByzKce) | 2:44 | 2024-07-24 |  |
 | [Farming](https://open.spotify.com/track/5zmHQ1OT1FiXodHp6s6T4H) | [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [Happy Times, Vol\. 1](https://open.spotify.com/album/6HBzj87Drtxl95FWjWboPe) | 2:40 | 2025-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain]
 
 > This is Avicii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,032,800 likes - 59 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032,863 likes - 59 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

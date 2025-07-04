@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-403 songs - 23 hr 15 min
+404 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [COWBOY](https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [COWBOY](https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t) | 3:23 | 2024-08-29 | 2024-10-11 |
 | [Crazy](https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo) | 4:32 | 2025-05-15 |  |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-27 | 2024-08-09 |
-| [Dagar utan slut](https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Dagar utan slut](https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3) | 2:42 | 2025-05-08 |  |
+| [Dagar utan slut](https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Dagar utan slut](https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3) | 2:42 | 2025-05-08 | 2025-07-04 |
 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 | 2025-05-16 |
 | [Dansa i neon](https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Dansa i neon](https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt) | 3:15 | 2025-02-20 |  |
 | [Dear Mr\. President](https://open.spotify.com/track/01jqIjPTEGfl1WszmcTofg) | [MÄKI](https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa), [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Dear Mr\. President](https://open.spotify.com/album/7aeMGFb5gjcRucCgWo0Edz) | 3:36 | 2025-05-29 | 2025-06-27 |
@@ -152,6 +152,7 @@
 | [Hey Little Love](https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hey Little Love](https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9) | 2:38 | 2024-06-27 | 2024-08-16 |
 | [High When You Hold Me](https://open.spotify.com/track/0p6GPkRsbJhDYBXJFuufIr) | [Louise Hoffsten](https://open.spotify.com/artist/5GG0pdHtmalM60Fzer1Yei) | [High When You Hold Me](https://open.spotify.com/album/132pqgouof5WFyqFKNBgYV) | 3:43 | 2025-03-27 | 2025-06-06 |
 | [Hit men inte längre](https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Psalmer från sjunde himlen](https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA) | 2:58 | 2025-01-16 | 2025-05-30 |
+| [Hold fast](https://open.spotify.com/track/476m03lRnptvnnRXxumjLs) | [Charlotte Qvale](https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Hold fast](https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW) | 4:18 | 2025-07-03 |  |
 | [Home](https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Home](https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM) | 3:01 | 2024-08-15 | 2024-09-27 |
 | [Home](https://open.spotify.com/track/6U1WukseRsBks1AjTYoheT) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Home](https://open.spotify.com/album/3AGeeV372MEs83epozEEt7) | 3:01 | 2024-10-24 | 2024-12-06 |
 | [Home \(Truckstops and Airports\)](https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Home \(Truckstops and Airports\)](https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f) | 3:42 | 2024-08-15 | 2025-04-04 |

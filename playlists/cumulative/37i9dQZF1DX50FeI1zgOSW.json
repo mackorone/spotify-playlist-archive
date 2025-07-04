@@ -2157,6 +2157,32 @@
     },
     {
       "album": {
+        "name": "En Nilav",
+        "url": "https://open.spotify.com/album/4OxD2nnqhV2p68eHISEamf"
+      },
+      "artists": [
+        {
+          "name": "Nidhin Jo Jacob",
+          "url": "https://open.spotify.com/artist/4MLMALTEsKnZaWnM0SbgUJ"
+        },
+        {
+          "name": "Sachin Warrier",
+          "url": "https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK"
+        },
+        {
+          "name": "Gayathri Suresh",
+          "url": "https://open.spotify.com/artist/17KMGAxvstqpaHy7JnxI51"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204637,
+      "name": "En Nilav",
+      "url": "https://open.spotify.com/track/2SAehaZgtMkygse1UGrZWs"
+    },
+    {
+      "album": {
         "name": "En Ooru",
         "url": "https://open.spotify.com/album/7u9iOxs8jtDc5Qwwqi7qpu"
       },
@@ -2670,6 +2696,24 @@
       "duration_ms": 190793,
       "name": "Hey My Kadhale",
       "url": "https://open.spotify.com/track/1qKYfUd20i5opqgHA90oEZ"
+    },
+    {
+      "album": {
+        "name": "Hey Penne",
+        "url": "https://open.spotify.com/album/5Wqcn00wb5O82kjv3WHbmT"
+      },
+      "artists": [
+        {
+          "name": "Akash Justin",
+          "url": "https://open.spotify.com/artist/5w4yb5ve75X4sQmDYDRp4r"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193399,
+      "name": "Hey Penne",
+      "url": "https://open.spotify.com/track/1ch5fimZpzzpGZdIWeOBVw"
     },
     {
       "album": {
@@ -3324,7 +3368,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 193960,
       "name": "Kaadhal Kaatchi",
       "url": "https://open.spotify.com/track/4rhfY4q2rJ95MMpSvMP8U6"
@@ -3761,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "Kadhal Idhudhano",
+        "url": "https://open.spotify.com/album/5du5L2aDzTNj3NzMgPXJZH"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167280,
+      "name": "Kadhal Idhudhano",
+      "url": "https://open.spotify.com/track/2hga7vNDaFDUeeh49VZFhw"
+    },
+    {
+      "album": {
         "name": "Kadhal Mazhai",
         "url": "https://open.spotify.com/album/7gDQFf4Kc8eihwL1jMGzD7"
       },
@@ -4066,7 +4128,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 237447,
       "name": "Kadhale Thonathadi",
       "url": "https://open.spotify.com/track/1YScueapf892eP1seINFrv"
@@ -6008,7 +6070,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 203821,
       "name": "Missu Mela Crushu",
       "url": "https://open.spotify.com/track/6k1PFMZrcLKZsSrAF7j5v8"
@@ -7108,7 +7170,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 129144,
       "name": "Nilavai Paarthu",
       "url": "https://open.spotify.com/track/0hV99CLB1byU2Azwnor1WZ"
@@ -9112,7 +9174,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 180045,
       "name": "Siragadichu",
       "url": "https://open.spotify.com/track/5b1JMxTCUQYLv6HZgB8u7H"

@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Hologram Lo' x Jungle Jack
+> Les plus belles plumes rap français du moment\. Photo : Damso
 
-237 songs - 12 hr 41 min
+238 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [BORDEL](https://open.spotify.com/track/53i4NiZxdvUP4TYCXbXhfn) | [Tha Manz](https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl) | [BORDEL](https://open.spotify.com/album/6IQZDeqjlraSyL1sYy1JKP) | 2:46 | 2025-04-03 | 2025-04-25 |
 | [BÂTEAU DANS LE CIEL](https://open.spotify.com/track/6H0QahVmwkQVJXFMxbikNV) | [Skary](https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP), [Wysko](https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [LE HORLA](https://open.spotify.com/album/0zzkrEonDjv3ZVSSek36I4) | 3:13 | 2024-06-27 | 2024-07-19 |
 | [C pas Bambi c le cerf](https://open.spotify.com/track/7CZtQMipOFZYCMpUCT0Php) | [GAL](https://open.spotify.com/artist/1X37AWx6kKH1rHNfXNyfAv) | [Du caviar pour mon chien](https://open.spotify.com/album/2vXODbd7kEGfzphKIVJXQ4) | 2:28 | 2025-03-27 | 2025-04-18 |
-| [C'EST CLASSE](https://open.spotify.com/track/3hW2HlGZvl4AHpGtV2l1bN) | [okis](https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB), [Mani Deïz](https://open.spotify.com/artist/0IKPfKkoKDbdQTKX0LCFZB) | [DOUBLE CRÈME](https://open.spotify.com/album/3Q1NafIwfdGgwkrjjkMFxY) | 2:44 | 2025-06-05 |  |
+| [C'EST CLASSE](https://open.spotify.com/track/3hW2HlGZvl4AHpGtV2l1bN) | [okis](https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB), [Mani Deïz](https://open.spotify.com/artist/0IKPfKkoKDbdQTKX0LCFZB) | [DOUBLE CRÈME](https://open.spotify.com/album/3Q1NafIwfdGgwkrjjkMFxY) | 2:44 | 2025-06-05 | 2025-07-04 |
 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-06-27 | 2024-10-25 |
 | [CAMP D'ENTRAÎNEMENT](https://open.spotify.com/track/5vTB5o92ygTGye1MaTOhWs) | [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg) | [JUNGLE DES ILLUSIONS VOL 2](https://open.spotify.com/album/3tFfZvWj3GYjONfRlTkMzc) | 3:56 | 2024-08-29 | 2024-10-11 |
 | [Ce qu'ils veulent](https://open.spotify.com/track/1MpgeeyuW7g3Vj3xmno7jA) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Dady S](https://open.spotify.com/artist/61klErX5u5ZSOi04EP4Xtj) | [Ce qu'ils veulent](https://open.spotify.com/album/6VSe1tblSprgXjY0ySkLzM) | 3:17 | 2025-06-26 |  |
@@ -126,6 +126,7 @@
 | [La bohème.](https://open.spotify.com/track/7geNM6tT1HZ6yvSOP0tsnM) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [La bohème.](https://open.spotify.com/album/0hZ8uiGV5qrmB9Hgi9CT5J) | 1:53 | 2024-09-26 |  |
 | [LA CHUTE](https://open.spotify.com/track/7tV20ulK6Ms7pmo5OegLdi) | [Lasco](https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra) | [LA CHUTE](https://open.spotify.com/album/2fdig9S3CKRYHkYJ25THdD) | 2:56 | 2024-11-14 | 2024-12-20 |
 | [La chute des anges](https://open.spotify.com/track/7L3OWRDfgdsHtfRi1h2ISf) | [Sage Pee](https://open.spotify.com/artist/6hkah6kDDj8tNuV4OJYvGG) | [La chute des anges](https://open.spotify.com/album/2iwLwIJbbnjXsc3otpH6kI) | 2:50 | 2024-12-19 | 2025-02-28 |
+| [LA CIGALE ET SON 3 FEUILLES](https://open.spotify.com/track/1SwGeVQumSrAVVMu4muAGG) | [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT), [Chanceko](https://open.spotify.com/artist/0rIcS71BzqNgTQl8yjiprz) | [LE HASARD OU LA CHANCE](https://open.spotify.com/album/4HCsBBttSzO6EhFrtYiJpa) | 2:24 | 2025-07-03 |  |
 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-06-27 | 2025-01-17 |
 | [LA HAINE \(feat\. Clara Luciani\)](https://open.spotify.com/track/5hw2tWIicbY7Kd737HZBZk) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [LA HAINE](https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT) | 3:09 | 2024-10-10 | 2024-12-06 |
 | [La nuit](https://open.spotify.com/track/0jn1yQPQRWWjnxpoTfUr4g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:56 | 2024-06-27 | 2025-02-07 |

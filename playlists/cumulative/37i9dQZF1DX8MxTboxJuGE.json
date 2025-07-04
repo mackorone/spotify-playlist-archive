@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Tem Para Todo Mundo",
+        "url": "https://open.spotify.com/album/6EJ5cnVIfkWjtu90F77hxr"
+      },
+      "artists": [
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "S\u00e1bado",
+      "url": "https://open.spotify.com/track/4uIGfX1aejjpvwvy5RH2ri"
+    },
+    {
+      "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 211844,
       "name": "Ted Jack",
       "url": "https://open.spotify.com/track/4CyvFtF2H7O7AXJm3boacu"

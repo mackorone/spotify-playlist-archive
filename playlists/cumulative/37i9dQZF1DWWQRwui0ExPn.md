@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, updated daily...
 
-7,413 songs - 11 day 16 hr 40 min
+7,414 songs - 11 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3831,6 +3831,7 @@
 | [Luna](https://open.spotify.com/track/4dKVTt3yaH7NMe8C3kXjou) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Luna](https://open.spotify.com/album/3NNNCac23pYdotNIgPo0j6) | 1:33 | 2021-08-22 | 2022-03-21 |
 | [Luna Amarilla](https://open.spotify.com/track/6hSSEFPdQXRHzUgxNx9OJJ) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Luna Amarilla](https://open.spotify.com/album/1E4JMoib79fHpSlBIASZ0A) | 1:55 | 2022-12-16 | 2023-10-13 |
 | [Luna Artificial](https://open.spotify.com/track/6uTvpThGGN9wdKgdEnFPsW) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Pacifico](https://open.spotify.com/album/1hG0XkGOR77SzXc2QeHQkU) | 3:15 | 2021-12-17 | 2022-08-19 |
+| [Lunar](https://open.spotify.com/track/5FnxEhQJUhzsSck2x7CBNc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Lunar](https://open.spotify.com/album/23amTJp10LQcwPuhPsOquc) | 2:11 | 2025-07-03 |  |
 | [lunar](https://open.spotify.com/track/5oxRePPI5auphKBWdf3SsX) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [lunar](https://open.spotify.com/album/3M0kIVVMCl5vjkDl6yI0Co) | 2:06 | 2022-08-19 | 2022-11-25 |
 | [Lunar Lull](https://open.spotify.com/track/5ffzlptK9U9oGU2h8H9mPl) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Lunar Lull](https://open.spotify.com/album/3seI3wUvZuOd2atIYTu5Th) | 2:01 | 2023-11-17 | 2025-04-26 |
 | [Lunar Walk](https://open.spotify.com/track/3dvOTAKXiZDxhwgaIsIH7Y) | [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH), [I'm.Busy](https://open.spotify.com/artist/7CLlZl0i0kCbkMSLmzYqS6) | [Lunar Walk](https://open.spotify.com/album/4QLZmgAZNL2SIzgn1L4XhB) | 2:28 | 2022-02-25 | 2022-08-05 |
@@ -4875,7 +4876,7 @@
 | [Patio](https://open.spotify.com/track/1Q74IYVE67sUKktSFIm9Yr) | [laqueus](https://open.spotify.com/artist/4tKF6F3hmXHojcc86TrL1R) | [Patio](https://open.spotify.com/album/4T296dRJgOYpUz77qLU2rv) | 2:28 | 2019-06-11 | 2020-03-30 |
 | [patio flowers](https://open.spotify.com/track/7KRwU0dEFeIULnYzOUpTqn) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [patio flowers](https://open.spotify.com/album/4nYdqUCHFsJItPyxhyt2uY) | 1:52 | 2019-05-26\* | 2020-06-12 |
 | [Pava Surprise](https://open.spotify.com/track/7rjL7FVG3Pu2gbbuxWXaJo) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Pava Surprise](https://open.spotify.com/album/1K6qmtWQOkIgaz72tl1ARu) | 2:25 | 2022-12-09 | 2023-02-15 |
-| [pawsitive](https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [pawsitive](https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m) | 2:16 | 2024-06-07 |  |
+| [pawsitive](https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [pawsitive](https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m) | 2:16 | 2024-06-07 | 2025-07-04 |
 | [Paz & Amor](https://open.spotify.com/track/0BSnOgCXl9KlR78wTDk1cZ) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Paz & Amor](https://open.spotify.com/album/0yiireaTPz5GZAev5wxbB1) | 2:52 | 2023-01-06 | 2023-09-30 |
 | [Peace](https://open.spotify.com/track/7tp5TWEpqZIdkIDm3Yk4x7) | [Herr Kaschke](https://open.spotify.com/artist/2dGqSVZSyxJpLWtWRkm7Ba) | [Peace](https://open.spotify.com/album/1ZyvJrRLvgssvRw1EWYRRD) | 2:40 | 2022-04-08 | 2022-08-27 |
 | [Peace of Mind](https://open.spotify.com/track/0saYRXEgGbjQSYgPARXk3J) | [Ile Flottante](https://open.spotify.com/artist/2miLM3YHGvo9sSd0kT5uCr) | [Peace of Mind](https://open.spotify.com/album/57v8c7cWF9DhJ251QtaxAN) | 1:56 | 2020-01-22 | 2021-08-22 |

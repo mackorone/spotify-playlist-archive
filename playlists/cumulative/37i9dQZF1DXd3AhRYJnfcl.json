@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy?si=FfcOtSRrQiCxivwrvrofWA\">  \u062a\u0627\u0645\u0631 \u062d\u0633\u0646\u064a \u0648   <a href=\"https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k?si=BZx8j7OJRe23ahe63YqC4Q\"> \u0627\u0644\u0634\u0627\u0645\u064a",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641:  \u0639\u0645\u0631\u0648 \u062f\u064a\u0627\u0628   ",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 251915,
       "name": "Amaken El Sahar",
       "url": "https://open.spotify.com/track/7lYXrmbJhunVGUYDGvZcL5"
@@ -1182,6 +1182,24 @@
       "duration_ms": 193090,
       "name": "e& Egypt - \u0627\u0643\u062a\u0631 \u0648\u0627\u0643\u062a\u0631 - \u0634\u064a\u0631\u064a\u0646 \u0639\u0628\u062f\u0627\u0644\u0648\u0647\u0627\u0628",
       "url": "https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd"
+    },
+    {
+      "album": {
+        "name": "Ebtadena",
+        "url": "https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Ebtadena",
+      "url": "https://open.spotify.com/track/54MaPJYSZOG3SZ36dzjFC9"
     },
     {
       "album": {
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 170815,
       "name": "Inta El Haz",
       "url": "https://open.spotify.com/track/0647xnQGtzAulUlJC8s4r4"
@@ -3760,6 +3778,24 @@
       "duration_ms": 138644,
       "name": "Setto Ana (Maktoub Alya)",
       "url": "https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY"
+    },
+    {
+      "album": {
+        "name": "Ebtadena",
+        "url": "https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149616,
+      "name": "Shaif Amar",
+      "url": "https://open.spotify.com/track/6ppnpZodq0gL0s4VC8yA5s"
     },
     {
       "album": {

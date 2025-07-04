@@ -1509,6 +1509,28 @@
     },
     {
       "album": {
+        "name": "Billie Eilish",
+        "url": "https://open.spotify.com/album/5qoyhlGvUIFoptZxpNZ0nb"
+      },
+      "artists": [
+        {
+          "name": "Saa'Turn",
+          "url": "https://open.spotify.com/artist/79oiLTBpm8FkKnqWHmtr1Z"
+        },
+        {
+          "name": "DJ Vtrine",
+          "url": "https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161377,
+      "name": "Billie Eilish",
+      "url": "https://open.spotify.com/track/0UuJtyELlzIyFK1DrzBIKl"
+    },
+    {
+      "album": {
         "name": "Prophecy",
         "url": "https://open.spotify.com/album/6QC9wozEHeMaEUiipw3gnC"
       },
@@ -1604,6 +1626,28 @@
       "duration_ms": 143505,
       "name": "Bodycount",
       "url": "https://open.spotify.com/track/1xet8SJiFFvsv5b0bmAi5n"
+    },
+    {
+      "album": {
+        "name": "Hoodrich",
+        "url": "https://open.spotify.com/album/1jyQwyjhyE9d5yQcUtadyr"
+      },
+      "artists": [
+        {
+          "name": "NAIROD",
+          "url": "https://open.spotify.com/artist/3uPD41pE4IS6ZWYf6KYbnd"
+        },
+        {
+          "name": "K-RIM",
+          "url": "https://open.spotify.com/artist/0II10Pn1LNFArIGqlxWrIm"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Bomboclaat",
+      "url": "https://open.spotify.com/track/1nHIxDOsRbaquT4Adw9qwv"
     },
     {
       "album": {
@@ -1924,6 +1968,28 @@
       "duration_ms": 228480,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/7b4PA6QeHODOBZ3uOamuHG"
+    },
+    {
+      "album": {
+        "name": "BRRR",
+        "url": "https://open.spotify.com/album/6Tux4WYUn1PP0pV1iZVWXc"
+      },
+      "artists": [
+        {
+          "name": "Le D",
+          "url": "https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149285,
+      "name": "BRRR",
+      "url": "https://open.spotify.com/track/5z58pyHjgkTe88zrWG85uV"
     },
     {
       "album": {
@@ -4131,6 +4197,36 @@
     },
     {
       "album": {
+        "name": "Fout Ou Dous'",
+        "url": "https://open.spotify.com/album/2J0FIhAtuovRfRwuoLI92s"
+      },
+      "artists": [
+        {
+          "name": "SA\u00cfK",
+          "url": "https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        },
+        {
+          "name": "Goldn.B",
+          "url": "https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152234,
+      "name": "Fout Ou Dous'",
+      "url": "https://open.spotify.com/track/3P0l3jpc58nMYS704Ha1SP"
+    },
+    {
+      "album": {
         "name": "Freestyle CKO",
         "url": "https://open.spotify.com/album/4gyj6y1MxAeBK7XHVRLKDW"
       },
@@ -4554,6 +4650,24 @@
       "duration_ms": 156055,
       "name": "Gin & Juice",
       "url": "https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5"
+    },
+    {
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153848,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu"
     },
     {
       "album": {
@@ -5852,7 +5966,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 144081,
       "name": "Jookgal",
       "url": "https://open.spotify.com/track/0VDmW9TBG7qMGN6EjrafRr"
@@ -5984,6 +6098,28 @@
       "duration_ms": 134478,
       "name": "Kant\u00e9",
       "url": "https://open.spotify.com/track/2C46wVpmfqUzrORlKUMSAr"
+    },
+    {
+      "album": {
+        "name": "Riddim Aleatoire",
+        "url": "https://open.spotify.com/album/6V3DQKLAlsUgYq8RUWSdvP"
+      },
+      "artists": [
+        {
+          "name": "LESTEF KJF BOYZ",
+          "url": "https://open.spotify.com/artist/1AEYRTRXesrGseS8nUFExp"
+        },
+        {
+          "name": "LeJuh",
+          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "Karibbean Gyal",
+      "url": "https://open.spotify.com/track/1iW74iW3I4bcEXa0XbJCGd"
     },
     {
       "album": {
@@ -6601,6 +6737,24 @@
     },
     {
       "album": {
+        "name": "LEGENDARY",
+        "url": "https://open.spotify.com/album/3Q8FdExdh0giJcXPEWxzo3"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160219,
+      "name": "LEGENDARY",
+      "url": "https://open.spotify.com/track/2hwNEmKTeGD6ekh4COmxHG"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/4eSSKHuHQj7SaH45cPSrSk"
       },
@@ -6942,6 +7096,28 @@
       "duration_ms": 107614,
       "name": "Manigance",
       "url": "https://open.spotify.com/track/37Tlkm2Euv26vuwZ1ww8yo"
+    },
+    {
+      "album": {
+        "name": "MANIGANCES (feat. LaRose)",
+        "url": "https://open.spotify.com/album/0FgLKZwvFt855QE343QIU7"
+      },
+      "artists": [
+        {
+          "name": "Malcolm",
+          "url": "https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb"
+        },
+        {
+          "name": "LaRose",
+          "url": "https://open.spotify.com/artist/7mZYTV6yPUvtbxZcH0OK3v"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "MANIGANCES (feat. LaRose)",
+      "url": "https://open.spotify.com/track/7Bf5WXRixMtBVAnZb05AKC"
     },
     {
       "album": {
@@ -8611,6 +8787,48 @@
     },
     {
       "album": {
+        "name": "Pa moli",
+        "url": "https://open.spotify.com/album/39577RNMY60wrUTHCSpXDI"
+      },
+      "artists": [
+        {
+          "name": "SSC4EVER",
+          "url": "https://open.spotify.com/artist/3bqKEjZCPSyA2twcF8MnHy"
+        },
+        {
+          "name": "Saian Supa Crew",
+          "url": "https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6"
+        },
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Vicelow",
+          "url": "https://open.spotify.com/artist/73IihJAuI7jJtyNV8myXct"
+        },
+        {
+          "name": "Sir Samuel",
+          "url": "https://open.spotify.com/artist/4BFBBQTithUwyNg0XQfDw3"
+        },
+        {
+          "name": "Sly Johnson",
+          "url": "https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7"
+        },
+        {
+          "name": "Specta",
+          "url": "https://open.spotify.com/artist/1UrLRK1iOAvBdZjGd50lke"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Pa moli",
+      "url": "https://open.spotify.com/track/5tu2q2jeUqqsJ6nKDDcqyR"
+    },
+    {
+      "album": {
         "name": "Bat\u00e9",
         "url": "https://open.spotify.com/album/67eNLPFbkFfVpGY7ECQkyA"
       },
@@ -9970,6 +10188,32 @@
       "duration_ms": 114382,
       "name": "Sa Piti",
       "url": "https://open.spotify.com/track/3BtRlEia7n1OAuzf9wNufr"
+    },
+    {
+      "album": {
+        "name": "Saccage Inqui\u00e9tant",
+        "url": "https://open.spotify.com/album/0g4YL0hBl1GynZutv7pLWx"
+      },
+      "artists": [
+        {
+          "name": "Damys",
+          "url": "https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10"
+        },
+        {
+          "name": "Shaydee's",
+          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/33CITwnsmRJ0HwCQF5yj0D"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "Saccage Inqui\u00e9tant",
+      "url": "https://open.spotify.com/track/4G7Wwu9d2lewQCtnt0byC7"
     },
     {
       "album": {
@@ -11400,6 +11644,28 @@
       "duration_ms": 129795,
       "name": "TELL THEM",
       "url": "https://open.spotify.com/track/3agLmniykQtjB9LNet7dTc"
+    },
+    {
+      "album": {
+        "name": "Tetris Riddim",
+        "url": "https://open.spotify.com/album/25tWajWKKJdMOKOP54ecAz"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Audio Thvg",
+          "url": "https://open.spotify.com/artist/4PyNZNMH7ejFyBV8wOM2mM"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178834,
+      "name": "Tetris Riddim",
+      "url": "https://open.spotify.com/track/6H0QymUjO3cAEZyH3apUGy"
     },
     {
       "album": {

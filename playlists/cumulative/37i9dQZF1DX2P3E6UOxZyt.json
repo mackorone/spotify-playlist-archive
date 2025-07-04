@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: Andr",
+  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u963f\u862d AC",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 168125,
       "name": "ASO",
       "url": "https://open.spotify.com/track/2lmEyHZNkQ9SzZIsg8mk4i"
@@ -870,6 +870,28 @@
       "duration_ms": 195000,
       "name": "Changing",
       "url": "https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/09Ef3J2Kb3vYsmj6mPNuMz"
+      },
+      "artists": [
+        {
+          "name": "Evie",
+          "url": "https://open.spotify.com/artist/0ueUhQmaJo8gESNKt3J7oQ"
+        },
+        {
+          "name": "Eileen Yo\u6e38\u5b87\u6f7c",
+          "url": "https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/59iGchL778biZ3FgVAF5d4"
     },
     {
       "album": {
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 140201,
       "name": "EXX",
       "url": "https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3"
@@ -2016,7 +2038,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 184331,
       "name": "Green House",
       "url": "https://open.spotify.com/track/5cSTP9OoL7EyuRVA4XngN6"
@@ -3154,7 +3176,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 230801,
       "name": "MESS'AGE",
       "url": "https://open.spotify.com/track/1hUN7k3bDt9LDSksOxMK99"
@@ -3750,7 +3772,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 160053,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3osKz5Ht9SamWHjleU9WSb"
@@ -4916,7 +4938,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 166404,
       "name": "Went Blurry",
       "url": "https://open.spotify.com/track/62oSWLXBHWTBhwiDZURQLm"
@@ -7939,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "\u6797",
+        "url": "https://open.spotify.com/album/6rkMnXR21pzpwIlqa27uUV"
+      },
+      "artists": [
+        {
+          "name": "PPlin \u6797\u8283\u9038",
+          "url": "https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163616,
+      "name": "\u5b78\u6703\u4e86\u73cd\u60dc",
+      "url": "https://open.spotify.com/track/5UH93vUdrxHMVcwiO4a1gQ"
+    },
+    {
+      "album": {
         "name": "\u695a\u9580 Dream Sober",
         "url": "https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo"
       },
@@ -8078,7 +8118,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 238235,
       "name": "\u5c01\u9396\u7dda - \u96fb\u5f71\u300a\u5c71\u5fcc\u9ec3\u8863\u5c0f\u98db\u4fe0\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/19qfZRL0wSiEXLcttvg5pm"
@@ -9280,7 +9320,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
       "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
@@ -11295,6 +11335,24 @@
     },
     {
       "album": {
+        "name": "\u73fe\u5728\u5e7e\u9ede",
+        "url": "https://open.spotify.com/album/3cb5HhawyeMGcFtamIp6AG"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u862d AC",
+          "url": "https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149551,
+      "name": "\u73fe\u5728\u5e7e\u9ede",
+      "url": "https://open.spotify.com/track/56Cqh5tLTB3Fm8SFxx6nkN"
+    },
+    {
+      "album": {
         "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
         "url": "https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ"
       },
@@ -13172,7 +13230,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 229487,
       "name": "\u9084\u662f\u6211\u5df2\u5b78\u58de Good Girl Gone",
       "url": "https://open.spotify.com/track/5BM7ZHUn11XoawA5kH2gD5"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: KSHMR
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Jerome x Kickbait
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,328 likes - 19 songs - 53 min 35 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,326 likes - 19 songs - 53 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 18 | [​Moving Mountains​](https://open.spotify.com/track/2k3sHpYAssiz9s5KPtOPts) | [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [​Moving Mountains​](https://open.spotify.com/album/3qRbSfk5iUteY0o6rKLx54) | 2:47 |
 | 19 | [Bittersweet](https://open.spotify.com/track/2MUCyxUfDKfUesEh8gNLdN) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [Bittersweet](https://open.spotify.com/album/7huLYbJmj8CMqlJwR8fdJj) | 3:08 |
 
-Snapshot ID: `AAAs48OlanW+iLXgrKbVhKSQp3iWuBCd`
+Snapshot ID: `AAAs5P57r1MXhv7PuXAQVY4qVkaDOmGx`

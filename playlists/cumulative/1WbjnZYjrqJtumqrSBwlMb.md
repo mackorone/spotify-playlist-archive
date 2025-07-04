@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,126 songs - 2 day 20 hr 50 min
+1,127 songs - 2 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [BEG FORGIVENESS](https://open.spotify.com/track/7DPUuTaTZCtQ6o4Xx00qzT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 6:08 | 2024-02-10 | 2024-05-20 |
 | [Being so Normal](https://open.spotify.com/track/65sNrvOp2HLlhGTeLJ0nnk) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:40 | 2025-04-01 |  |
 | [BEING YOURSELF](https://open.spotify.com/track/4oOajqkg42wp1D5liEAWKv) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:05 | 2024-02-16 |  |
-| [being yourself](https://open.spotify.com/track/1ZpvyFhY8Rl3ooTBNtNgcG) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [being yourself](https://open.spotify.com/album/4OjqG0s9AerXNuVa4ZAlMK) | 3:08 | 2023-04-19 |  |
+| [being yourself](https://open.spotify.com/track/1ZpvyFhY8Rl3ooTBNtNgcG) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [being yourself](https://open.spotify.com/album/4OjqG0s9AerXNuVa4ZAlMK) | 3:08 | 2023-04-19 | 2025-07-04 |
 | [Believe What I Say](https://open.spotify.com/track/0JuSGEldfovcc8IS9va1wa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:02 | 2021-10-01 |  |
 | [Beneath The Lilypad](https://open.spotify.com/track/5a4TVULMHuxkkfSClpRpgk) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 1:20 | 2025-05-16 |  |
 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 | 2023-06-27 |  |
@@ -957,6 +957,7 @@
 | [The Dream Synopsis](https://open.spotify.com/track/1iPeDwic3VEt0T75NyVoaG) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:03 | 2020-09-22 |  |
 | [The Dreamers](https://open.spotify.com/track/4reynFf5XLDuBHw4pFemEw) | [Gold Celeste](https://open.spotify.com/artist/0k7JGk03ntbFvfURT2hWmu) | [The Glow](https://open.spotify.com/album/45ghFsmrFTp9V6Q49grJlx) | 4:46 | 2024-08-11 |  |
 | [The Element Of Surprise](https://open.spotify.com/track/1JuflrFpkx9mhDwZ08Txx7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:52 | 2024-06-17 |  |
+| [The End.](https://open.spotify.com/track/6s2yqZbiPNPL1B2IeCMsUA) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 1:52 | 2025-07-03 |  |
 | [The Everglades \(For Leonard\)](https://open.spotify.com/track/5TztAWoMbNwmAxMR7sNpjD) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 2:56 | 2024-01-30 |  |
 | [The Feeling of Drifting Apart](https://open.spotify.com/track/34KbKD39tNltI27Duvdm0M) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:05 | 2021-11-03 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-13 |  |
@@ -1034,7 +1035,7 @@
 | [Umbrella \(with 21 Savage & Young Nudy\)](https://open.spotify.com/track/2Yt4SXIgmoaPZHGdRafp4P) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:42 | 2023-02-14 |  |
 | [UNDER MY SKIN](https://open.spotify.com/track/3r05e6BQTipgAK0dsd2tbk) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD II](https://open.spotify.com/album/62GII8VrNxo2Z6Wr80AeKl) | 2:36 | 2023-10-30 |  |
 | [UNDER MY SKIN](https://open.spotify.com/track/6DZoLdsp0JDI2mfoAEA8cK) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:36 | 2024-02-16 |  |
-| [under my skin](https://open.spotify.com/track/0ZgHOE3sujJDHI3k2qxrnj) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [under my skin](https://open.spotify.com/album/4ZwBboUH1wkR2TlXWHi6cL) | 1:01 | 2023-03-17 |  |
+| [under my skin](https://open.spotify.com/track/0ZgHOE3sujJDHI3k2qxrnj) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [under my skin](https://open.spotify.com/album/4ZwBboUH1wkR2TlXWHi6cL) | 1:01 | 2023-03-17 | 2025-07-04 |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2023-07-09 |  |
 | [Undercover Martyn](https://open.spotify.com/track/6GQLX6Z28fYwDNCrhaKzYF) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:46 | 2021-05-24 |  |
 | [Unfold](https://open.spotify.com/track/5xJDI5YYHk6dFexvSVonw2) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5agoEPMTMTZTSKibS1jfpL) | 1:30 | 2022-12-20 |  |

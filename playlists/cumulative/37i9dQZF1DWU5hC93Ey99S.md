@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-879 songs - 1 day 22 hr 44 min
+881 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Believe It \- Babsy\. Remix](https://open.spotify.com/track/7GxDAsr8db1c9ab21m92Uj) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Believe It \(feat\. Madeon\) \[Babsy\. Remix\]](https://open.spotify.com/album/6ZpIPRFdSTrEfJRajnQExy) | 2:10 | 2024-11-07 |  |
 | [Beside Me](https://open.spotify.com/track/0CxBI3tA8ZOUYTS0pPX45g) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Beside Me](https://open.spotify.com/album/7muAHpfi1dzcITcDKnjdAc) | 2:20 | 2023-06-08 | 2024-01-06 |
 | [Beside Of Me](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Beside Of Me](https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL) | 3:27 | 2025-06-24 |  |
+| [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 | 2025-07-03 |  |
 | [Best Time](https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Best Time](https://open.spotify.com/album/5RGfCAYmNeON0h8B2lXNPB) | 3:15 | 2024-09-19 |  |
 | [Better](https://open.spotify.com/track/6gD10TawLGxl9PCIwRMsNt) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Gali](https://open.spotify.com/artist/5fi0rOMvvx3YGwpkOfkPWm) | [Better](https://open.spotify.com/album/4VbUhn1TOBMlIqq5hgSdZx) | 2:36 | 2024-09-26 |  |
 | [Better](https://open.spotify.com/track/1cw4mrBVhHbYzLzzKXOUxb) | [Lavish](https://open.spotify.com/artist/2FyuJ5Gi4pbwZz2PzHcfmf) | [Better](https://open.spotify.com/album/5O8u0rEbfov9YKgTh5Khay) | 4:46 | 2024-01-18 |  |
@@ -98,6 +99,7 @@
 | [BLINDED](https://open.spotify.com/track/5e86PQ6kZGuMB3M9f4QSUu) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/4wP7WFvZGQUHyqYpYOeUz8) | 4:00 | 2023-12-08 |  |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 |  |
 | [Bounce](https://open.spotify.com/track/1WFHGHJcGJuzvAybmU5oQ0) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Bounce](https://open.spotify.com/album/1JVRTwsb069wBbLoFF9WeZ) | 2:25 | 2023-04-13 | 2024-01-06 |
+| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-03 |  |
 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-06-08 | 2024-01-06 |
 | [Break](https://open.spotify.com/track/21qh7wOW9qljk3A7tMAyLM) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Break / Saw U](https://open.spotify.com/album/3B9VRmFZ4TK6jgRsgextA5) | 4:06 | 2024-03-14 |  |
 | [Breaking Apart](https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Breaking Apart](https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp) | 4:35 | 2023-05-04 | 2024-01-06 |

@@ -4,7 +4,7 @@
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-890 songs - 2 day 0 hr 5 min
+891 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Gimme That Sunshine](https://open.spotify.com/track/3X3Q0i7IsINhaDSXt4lGqj) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Animalistic](https://open.spotify.com/album/3ysb5nxgkEyUTEL1H5FRZR) | 3:20 | 2022-07-22 | 2024-06-13 |
 | [Gimme That Sunshine](https://open.spotify.com/track/6Dj1rIkynzzi4n14rqam3j) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Animalistic](https://open.spotify.com/album/4PgBxwMdXI0dTryXpf5OyX) | 3:20 | 2022-07-22 | 2022-10-13 |
 | [Girl's Gotta](https://open.spotify.com/track/37i2gSRBQqBW8k0y8GAc88) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [Just Got Real](https://open.spotify.com/album/5qWBCCJklOoReCWWrG1jiD) | 3:01 | 2023-07-19 | 2024-06-13 |
+| [Girl, so confusing](https://open.spotify.com/track/41krZZovstMJKeJZJtbL78) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:54 | 2025-07-04 |  |
 | [GIRLS GIRLS GIRLS](https://open.spotify.com/track/3OOUuHoGM4FxoPKGsiKBPf) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [GIRLS GIRLS GIRLS](https://open.spotify.com/album/2w64MsUb8wgSHyxKtOHOsw) | 2:57 | 2024-07-16 | 2025-06-12 |
 | [Give Me Love](https://open.spotify.com/track/1If43f0qwZV5SeHyAugg6l) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Do It with Love](https://open.spotify.com/album/4t9YE3Pj9wjKKX5NxTSPov) | 3:03 | 2022-08-29 | 2022-10-13 |
 | [Give Me Love](https://open.spotify.com/track/2RRcrKBVEwEah7H0Ym6qNN) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Do It with Love](https://open.spotify.com/album/6qrmoFoizqbtiEWOi2cz0w) | 3:03 | 2022-08-29 | 2023-07-19 |

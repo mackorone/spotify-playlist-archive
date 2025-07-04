@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 162937,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
@@ -3440,6 +3440,24 @@
       "duration_ms": 209610,
       "name": "Bl\u00e5jeans och stj\u00e4rnljus",
       "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+    },
+    {
+      "album": {
+        "name": "Bl\u00e5ljus",
+        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207349,
+      "name": "Bl\u00e5ljus",
+      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
     },
     {
       "album": {
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 231642,
       "name": "Din egen sol",
       "url": "https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH"
@@ -6650,7 +6668,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 233726,
       "name": "Djungeltelegrafen",
       "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
@@ -8030,10 +8048,28 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 198648,
       "name": "Eazy Breezy",
       "url": "https://open.spotify.com/track/4Tv4dzoB1LKDxdfPzZ5pp2"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162070,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
     },
     {
       "album": {
@@ -8084,7 +8120,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 202240,
       "name": "EDEN",
       "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
@@ -8818,7 +8854,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 170500,
       "name": "ett minne i taget",
       "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
@@ -9602,7 +9638,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 173040,
       "name": "FEST",
       "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
@@ -13111,6 +13147,24 @@
     },
     {
       "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/5HVfLqGAzSoHcIpmzNXZYe"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142125,
+      "name": "Higher Place",
+      "url": "https://open.spotify.com/track/14xFUlSQiS45PpDZ21RP5i"
+    },
+    {
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/7LXf4A7JFlFBoH8eppUo0H"
       },
@@ -14224,7 +14278,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 166229,
       "name": "H\u00e5ll ihop",
       "url": "https://open.spotify.com/track/5a0VLC6tX0g45CZXU74dNK"
@@ -16080,7 +16134,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 205685,
       "name": "I\u2019m gonna die",
       "url": "https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq"
@@ -16152,7 +16206,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 197092,
       "name": "Ja visst g\u00f6r det ont",
       "url": "https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz"
@@ -16510,7 +16564,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 193200,
       "name": "Jag \u00c4r",
       "url": "https://open.spotify.com/track/4sAUGUun3R9KZYQlZ6YCBj"
@@ -20446,6 +20500,24 @@
       "duration_ms": 154155,
       "name": "Miles away",
       "url": "https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF"
+    },
+    {
+      "album": {
+        "name": "MILK",
+        "url": "https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210588,
+      "name": "MILK",
+      "url": "https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5"
     },
     {
       "album": {
@@ -26453,6 +26525,24 @@
     },
     {
       "album": {
+        "name": "Seiko",
+        "url": "https://open.spotify.com/album/41DEIBqikMJW924W2KUaG0"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "Seiko",
+      "url": "https://open.spotify.com/track/6TMIcpNnhkg1hzwfeWGdVx"
+    },
+    {
+      "album": {
         "name": "Pink Cloud EP",
         "url": "https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj"
       },
@@ -28350,7 +28440,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 206048,
       "name": "Somna om",
       "url": "https://open.spotify.com/track/67XxelwVe4EiPPbmRhf5u3"
@@ -30176,7 +30266,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 148266,
       "name": "S\u00e4tter f\u00e4rg p\u00e5 mig",
       "url": "https://open.spotify.com/track/5k2ASJQCLRyzg9J4gFPU6h"
@@ -30346,7 +30436,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 197215,
       "name": "tagesanbruch",
       "url": "https://open.spotify.com/track/0lKQ8gAUZxOvcifiyC9lFO"
@@ -30894,7 +30984,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 173310,
       "name": "The Bog Body",
       "url": "https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI"
@@ -33374,7 +33464,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-04",
       "duration_ms": 153618,
       "name": "Vem fan \u00e4r Murphy?",
       "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
@@ -33410,7 +33500,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 220560,
       "name": "Vera",
       "url": "https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175"

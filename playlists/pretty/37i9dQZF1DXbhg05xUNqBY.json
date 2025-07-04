@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 346972,
+  "num_followers": 346982,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "I Thank God",
+        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        }
+      ],
+      "duration_ms": 221739,
+      "name": "I Thank God",
+      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Praise Be",
         "url": "https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 251298,
       "name": "Praise Be",
       "url": "https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "I Thank God",
-        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
-      },
-      "artists": [
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "I Thank God",
-      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
-      },
-      "artists": [
-        {
-          "name": "ALIA LARA",
-          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Happily Hidden",
         "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 233129,
       "name": "Happily Hidden (with John Mark McMillan)",
       "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
+      },
+      "artists": [
+        {
+          "name": "ALIA LARA",
+          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "No Hopeless Soul",
-        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 193558,
-      "name": "No Hopeless Soul - Unplugged",
-      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Be My Glory",
         "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 262213,
       "name": "Be My Glory",
       "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "No Hopeless Soul - Unplugged",
+      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "God You Are",
-        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
+        "name": "My Cry",
+        "url": "https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Aura\u00e8",
+          "url": "https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM"
         }
       ],
-      "duration_ms": 265286,
-      "name": "God You Are (feat. Josh Baldwin)",
-      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+      "duration_ms": 200015,
+      "name": "My Cry",
+      "url": "https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "My Cry",
-        "url": "https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL"
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
       "artists": [
         {
-          "name": "Aura\u00e8",
-          "url": "https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 200015,
-      "name": "My Cry",
-      "url": "https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm"
+      "duration_ms": 265286,
+      "name": "God You Are (feat. Josh Baldwin)",
+      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Dawn Til Dusk",
+        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
+      },
+      "artists": [
+        {
+          "name": "Jonty Lees",
+          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Mental Help",
         "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Dawn Til Dusk",
-        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
+        "name": "Sparrows (Acoustic)",
+        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
       },
       "artists": [
         {
-          "name": "Jonty Lees",
-          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 212234,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
+      "duration_ms": 208000,
+      "name": "Sparrows - Acoustic",
+      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Sparrows (Acoustic)",
-        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
+        "name": "Graves Into Gardens",
+        "url": "https://open.spotify.com/album/1K5cVcwIdfduyciXSQJtUG"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Sparrows - Acoustic",
-      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
+      "duration_ms": 220478,
+      "name": "Graves Into Gardens",
+      "url": "https://open.spotify.com/track/1WfKBDfjgrSjQLYzEb50Je"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1519,22 +1535,6 @@
       "duration_ms": 214158,
       "name": "Mo Wa Dupe (Thank You)",
       "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Graves Into Gardens",
-        "url": "https://open.spotify.com/album/1K5cVcwIdfduyciXSQJtUG"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        }
-      ],
-      "duration_ms": 220478,
-      "name": "Graves Into Gardens",
-      "url": "https://open.spotify.com/track/1WfKBDfjgrSjQLYzEb50Je"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Known, Seen, Loved (LIVE from the Quarry)",
-        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
-      },
-      "artists": [
-        {
-          "name": "M\u014cRIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 187264,
-      "name": "Known, Seen, Loved (LIVE from the Quarry)",
-      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 264428,
       "name": "Life Again",
       "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Known, Seen, Loved (LIVE from the Quarry)",
+        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
+      },
+      "artists": [
+        {
+          "name": "M\u014cRIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 187264,
+      "name": "Known, Seen, Loved (LIVE from the Quarry)",
+      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Who Is Greatest?",
-        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Who Is Greatest?",
-      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Who Is Greatest?",
+        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "Who Is Greatest?",
+      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
     }
   ],
   "unique_name": "Be Still",
