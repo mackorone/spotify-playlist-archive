@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: JF Pauzé
 
-170 songs - 9 hr 8 min
+171 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Le coeur est un rêveur](https://open.spotify.com/track/0lBWxriZL930NGp1hLsaOM) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [Le coeur est un rêveur](https://open.spotify.com/album/2vhfJbQ3Oxf8en4v2ENgGW) | 3:10 | 2025-03-14 |  |
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
 | [Le grand défi](https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [L'Île](https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy) | 3:04 | 2024-06-28 | 2025-06-28 |
+| [Le jour est morne](https://open.spotify.com/track/43eSwHzPZ1hKxQQtSIeSET) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Le jour est morne](https://open.spotify.com/album/0ZtZTdoDajVToyzzRjguFs) | 3:40 | 2025-07-04 |  |
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-06-28 | 2024-08-31 |
 | [Le poids](https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Le poids](https://open.spotify.com/album/2UBIOGwKcj4bs8yoMla62U) | 3:14 | 2024-11-15 | 2025-01-25 |
 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2024-06-28 | 2025-04-05 |
@@ -140,7 +141,7 @@
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Replay](https://open.spotify.com/track/3Fu2ct0KmhS0Fg8gnUNpix) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Replay](https://open.spotify.com/album/4XNkm49r2qUs1dEtImT5vH) | 2:36 | 2025-03-28 |  |
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
-| [Rouler en août](https://open.spotify.com/track/7if4mulQZiyZ9ZK4grdW3j) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Rouler en août](https://open.spotify.com/album/2nERBo365hzapvIzvDi7dU) | 4:16 | 2025-05-16 |  |
+| [Rouler en août](https://open.spotify.com/track/7if4mulQZiyZ9ZK4grdW3j) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Rouler en août](https://open.spotify.com/album/2nERBo365hzapvIzvDi7dU) | 4:16 | 2025-05-16 | 2025-07-05 |
 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-06-28 | 2025-01-11 |
 | [Révolution \(la chanson\) \- Radio Édith](https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Révolution \(la chanson\) \[Radio Édith\]](https://open.spotify.com/album/5wIp1O2uO8bDaiMRuC3SeB) | 3:20 | 2024-06-28 | 2024-07-19 |
 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 | 2024-06-28 |  |

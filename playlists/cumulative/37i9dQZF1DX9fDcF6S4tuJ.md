@@ -4,7 +4,7 @@
 
 > Listen to all your favorite Disney Princess songs.
 
-66 songs - 3 hr 13 min
+67 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Touch The Sky \- From "Brave"/Soundtrack](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 | 2022-10-07 |  |
 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 | 2022-10-07 |  |
 | [Under the Sea \- From "The Little Mermaid Live!"](https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:01 | 2022-10-07 |  |
+| [Volerai](https://open.spotify.com/track/6kSoM99mGeF9nqwoSbJzAB) | [Amalia Gre'](https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv) | [Principesse \- Le Più Belle Canzoni](https://open.spotify.com/album/0450iDXoR3nasF3bZrgNrg) | 3:11 | 2025-07-04 |  |
 | [Waiting On A Wish \- From "Disney's Snow White"](https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Waiting On A Wish \(From "Disney's Snow White"\)](https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS) | 4:51 | 2025-03-05 |  |
 | [We Know The Way](https://open.spotify.com/track/6YH2r9NyEJTjlRmKOCvxgJ) | [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:21 | 2022-10-07 |  |
 | [We're Back](https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:11 | 2024-11-22 |  |

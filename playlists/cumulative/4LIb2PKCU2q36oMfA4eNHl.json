@@ -4223,6 +4223,28 @@
     },
     {
       "album": {
+        "name": "Philos",
+        "url": "https://open.spotify.com/album/6lm4yj3INP6F6X5L2j4auk"
+      },
+      "artists": [
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        },
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Philos - Edit",
+      "url": "https://open.spotify.com/track/6uMuNTt5BKq9Ft0N8StW2T"
+    },
+    {
+      "album": {
         "name": "Potential EP",
         "url": "https://open.spotify.com/album/5sOXGKshInDELSldm7D7Vx"
       },

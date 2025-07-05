@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: DYLAN",
-  "num_followers": 426273,
+  "num_followers": 426265,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XYgAAAABrDYJZQOWYQQ3NBFT0xHlm",
+  "snapshot_id": "aGdR4wAAAACpNc5NRlR2FXxr/gyqffYP",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:50",
@@ -27,6 +27,42 @@
     {
       "added_at": "2025-06-27 04:00:34",
       "album": {
+        "name": "BEAUTIFUL CHAOS",
+        "url": "https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129683,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E"
+    },
+    {
+      "added_at": "2025-07-04 04:00:35",
+      "album": {
+        "name": "I Like You Best (Cloud 9 Version)",
+        "url": "https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        },
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 168061,
+      "name": "I Like You Best - Cloud 9 Version",
+      "url": "https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
         "name": "The Dirt",
         "url": "https://open.spotify.com/album/6aSdpWAAZDayXUI96vPp8G"
       },
@@ -41,20 +77,20 @@
       "url": "https://open.spotify.com/track/6SvsfUdB6LE9NAYCOIZAu8"
     },
     {
-      "added_at": "2025-06-27 04:00:34",
+      "added_at": "2025-07-04 04:00:35",
       "album": {
-        "name": "BEAUTIFUL CHAOS",
-        "url": "https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi"
+        "name": "Under the Weather (All My Friends)",
+        "url": "https://open.spotify.com/album/4DvmWD9tbBc1mNEAntkAK6"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Earth to Cheska",
+          "url": "https://open.spotify.com/artist/3TRw8bb0v7cKloPTYnadsi"
         }
       ],
-      "duration_ms": 129683,
-      "name": "M.I.A",
-      "url": "https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E"
+      "duration_ms": 192883,
+      "name": "Under the Weather (All My Friends)",
+      "url": "https://open.spotify.com/track/0YpMFsNV3reblFvpLpD48W"
     },
     {
       "added_at": "2025-06-27 04:00:34",
@@ -279,6 +315,22 @@
       "duration_ms": 141738,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
+    },
+    {
+      "added_at": "2025-05-02 04:00:38",
+      "album": {
+        "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/2KR8YSHpIenuVjxiP8BlUL"
+      },
+      "artists": [
+        {
+          "name": "KINGS",
+          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
+        }
+      ],
+      "duration_ms": 128319,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/3X4JzWg9iUK5hYMysb53cu"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -557,22 +609,6 @@
       "url": "https://open.spotify.com/track/7mUOGK2T7zONpDE0KwegZ0"
     },
     {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "pretty little thing",
-        "url": "https://open.spotify.com/album/2KR8YSHpIenuVjxiP8BlUL"
-      },
-      "artists": [
-        {
-          "name": "KINGS",
-          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
-        }
-      ],
-      "duration_ms": 128319,
-      "name": "pretty little thing",
-      "url": "https://open.spotify.com/track/3X4JzWg9iUK5hYMysb53cu"
-    },
-    {
       "added_at": "2025-04-25 04:00:38",
       "album": {
         "name": "you should be scared",
@@ -651,22 +687,6 @@
       "duration_ms": 152249,
       "name": "I'M NOT SCARED",
       "url": "https://open.spotify.com/track/44aXDy69XdxDgOxULxKIl3"
-    },
-    {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "I'll be the death of us",
-        "url": "https://open.spotify.com/album/0jMv3ObVxDnANFmC9ASpQW"
-      },
-      "artists": [
-        {
-          "name": "Maeve",
-          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "I'll be the death of us",
-      "url": "https://open.spotify.com/track/79OhK3B4zt8VwEe2wfnGw3"
     },
     {
       "added_at": "2025-04-04 04:00:32",
@@ -795,22 +815,6 @@
       "duration_ms": 196060,
       "name": "Like No One's Watching",
       "url": "https://open.spotify.com/track/1ijN5LBIyxoC2iIEaI618m"
-    },
-    {
-      "added_at": "2025-04-11 04:00:29",
-      "album": {
-        "name": "made you cry",
-        "url": "https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY"
-      },
-      "artists": [
-        {
-          "name": "Alessiah",
-          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
-        }
-      ],
-      "duration_ms": 160588,
-      "name": "made you cry",
-      "url": "https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ"
     }
   ],
   "unique_name": "SALT",

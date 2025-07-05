@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 164058,
+  "num_followers": 164071,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "Dutty",
+        "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 210642,
+      "name": "Dutty",
+      "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
         "url": "https://open.spotify.com/album/3c7tJnWUuYVCpcmeia459g"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 226022,
       "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
       "url": "https://open.spotify.com/track/6FR9pKjugKwdb4JQcrVizK"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "Dutty",
-        "url": "https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 210642,
-      "name": "Dutty",
-      "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/0pSnRC8TDE1j7B04j7QIq3"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/5o4ekLO60BhAf4s9LhefCL"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "Yapa Yapa (Shut It Pls)",
         "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 114158,
       "name": "Yapa Yapa (Shut It Pls)",
       "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/0pSnRC8TDE1j7B04j7QIq3"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/5o4ekLO60BhAf4s9LhefCL"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
-        "name": "I've Got Feelings",
-        "url": "https://open.spotify.com/album/1S8uNZtJU3lJojsXXb7jFK"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        },
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "I've Got Feelings",
-      "url": "https://open.spotify.com/track/63OmWSc19gAlsObR0H8RjK"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
         "name": "Geeked Up (feat. Tayylor Made)",
         "url": "https://open.spotify.com/album/210Qa4bQUZbdp5eap1EgqA"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 182079,
       "name": "Geeked Up (feat. Tayylor Made)",
       "url": "https://open.spotify.com/track/0fzOjto8tbCRRu8lbI8tll"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/1S8uNZtJU3lJojsXXb7jFK"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        },
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/63OmWSc19gAlsObR0H8RjK"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -1179,6 +1179,46 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/66taP1euWf9VFCgzyeepb3"
+      },
+      "artists": [
+        {
+          "name": "Synergy",
+          "url": "https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK"
+        },
+        {
+          "name": "RIENK",
+          "url": "https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo"
+        }
+      ],
+      "duration_ms": 248300,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3eq1Yyh6tRpYDf7tWCdeoo"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "Waited All Night (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5"
       },
@@ -1211,42 +1251,6 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "Last Verse",
-        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 313500,
-      "name": "Last Verse",
-      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
         "name": "Need Me So",
         "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
       },
@@ -1267,6 +1271,22 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "Last Verse",
+        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 313500,
+      "name": "Last Verse",
+      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "In The Echo / Change",
         "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 183448,
       "name": "In The Echo",
       "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/66taP1euWf9VFCgzyeepb3"
-      },
-      "artists": [
-        {
-          "name": "Synergy",
-          "url": "https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK"
-        },
-        {
-          "name": "RIENK",
-          "url": "https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo"
-        }
-      ],
-      "duration_ms": 248300,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3eq1Yyh6tRpYDf7tWCdeoo"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5OFYWIaj2LruCihkQipBgQ"
+      },
+      "artists": [
+        {
+          "name": "SIREN",
+          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2nthNUBMT1nrgZII1mopKM"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "The Energiser",
         "url": "https://open.spotify.com/album/6iDMk2c4HkGc5hS93bCtSx"
       },
@@ -1831,6 +1851,22 @@
       "duration_ms": 209708,
       "name": "The Energiser",
       "url": "https://open.spotify.com/track/5pnQtywOCWO5yVG0ijAzt3"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
+        "name": "PopUp Dubplate",
+        "url": "https://open.spotify.com/album/6lW4S64q6Lp6qvT9SqvTut"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "PopUp Dubplate",
+      "url": "https://open.spotify.com/track/4jkgAjl07VpIbmIAqzXCVS"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -1871,22 +1907,6 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
-        "name": "PopUp Dubplate",
-        "url": "https://open.spotify.com/album/6lW4S64q6Lp6qvT9SqvTut"
-      },
-      "artists": [
-        {
-          "name": "BSEARL",
-          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "PopUp Dubplate",
-      "url": "https://open.spotify.com/track/4jkgAjl07VpIbmIAqzXCVS"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
         "name": "CALM",
         "url": "https://open.spotify.com/album/723ujhDCNK9Rw0n6GNQ09G"
       },
@@ -1903,50 +1923,6 @@
       "duration_ms": 182571,
       "name": "CALM",
       "url": "https://open.spotify.com/track/7N0Eavl0IkaFGIQrQRNQ4D"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5OFYWIaj2LruCihkQipBgQ"
-      },
-      "artists": [
-        {
-          "name": "SIREN",
-          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
-        },
-        {
-          "name": "Tima Dee",
-          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2nthNUBMT1nrgZII1mopKM"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "This Is Goodbye",
-        "url": "https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        },
-        {
-          "name": "Alibi",
-          "url": "https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV"
-        },
-        {
-          "name": "flowanastasia",
-          "url": "https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "This Is Goodbye",
-      "url": "https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -1991,6 +1967,46 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "This Is Goodbye",
+        "url": "https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        },
+        {
+          "name": "Alibi",
+          "url": "https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV"
+        },
+        {
+          "name": "flowanastasia",
+          "url": "https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "This Is Goodbye",
+      "url": "https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
+        "name": "Make It Drop",
+        "url": "https://open.spotify.com/album/6NRITaN28sXFMgdH9ffpZj"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Make It Drop",
+      "url": "https://open.spotify.com/track/2RyQYVS5q4LXCNAYOS58Hy"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "Dealing With The Best",
         "url": "https://open.spotify.com/album/0N0MHwnc7SEnxfXFl5rtgm"
       },
@@ -2011,26 +2027,6 @@
       "duration_ms": 157941,
       "name": "Dealing With The Best",
       "url": "https://open.spotify.com/track/35WmOfRHL6qsdtfjZUrrWt"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "Mwah! (I'm That Bitch)",
-        "url": "https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h"
-      },
-      "artists": [
-        {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        }
-      ],
-      "duration_ms": 103714,
-      "name": "Mwah! (I'm That Bitch)",
-      "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"
     }
   ],
   "unique_name": "Proper Naughty ",

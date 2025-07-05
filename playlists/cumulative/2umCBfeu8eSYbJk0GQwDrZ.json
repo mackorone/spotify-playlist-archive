@@ -138,6 +138,10 @@
         {
           "name": "Tei Shi",
           "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
       "date_added": "2025-06-27",
@@ -3794,7 +3798,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
@@ -4917,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
+    },
+    {
+      "album": {
         "name": "FUFN",
         "url": "https://open.spotify.com/album/0yICr3gvAwwfsJypjJzS2P"
       },
@@ -5008,7 +5030,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 209837,
       "name": "Gallop of the Hounds",
       "url": "https://open.spotify.com/track/0RfsNykOPSwrZ0GJyWeFlf"
@@ -12878,6 +12900,24 @@
       "duration_ms": 202000,
       "name": "Stargazing - Moonlight Version",
       "url": "https://open.spotify.com/track/6IdFbZkzvaS7apASHareqI"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7DTxFJL32yQaLVZygMqAgY"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Laxton",
+          "url": "https://open.spotify.com/artist/6WeoKwC3VvK3TtitaFqr19"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163570,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1onCvJgV8VL9WSHsrfIl2I"
     },
     {
       "album": {

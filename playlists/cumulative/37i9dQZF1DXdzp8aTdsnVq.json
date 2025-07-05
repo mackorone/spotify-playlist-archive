@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "JORGITO",
+        "url": "https://open.spotify.com/album/5FvL6Lv5S8FN88KMtLdLK5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Victor Nain Jr",
+          "url": "https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180123,
+      "name": "Me Espera Algo Mejor",
+      "url": "https://open.spotify.com/track/5ClDHzE6hQw2gG520sEDq1"
+    },
+    {
+      "album": {
         "name": "El Original",
         "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
       },
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 237000,
       "name": "Por Ellas",
       "url": "https://open.spotify.com/track/3n0Jrxvy5Fo9eJt37Fhu4D"

@@ -6603,6 +6603,28 @@
     },
     {
       "album": {
+        "name": "So Sweet",
+        "url": "https://open.spotify.com/album/4Z1vbwLPqTQ8jgBPeByTSh"
+      },
+      "artists": [
+        {
+          "name": "ALEXYS",
+          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
+        },
+        {
+          "name": "Strn.",
+          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120869,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/6XekDX1T9H2mcujtuhHIZU"
+    },
+    {
+      "album": {
         "name": "Sock It To Them",
         "url": "https://open.spotify.com/album/30H5DnAtCeIGHf0mLblwlK"
       },

@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "euyl",
+        "url": "https://open.spotify.com/album/336Zm4ExIDlSJWxZWeUtq3"
+      },
+      "artists": [
+        {
+          "name": "Faustus",
+          "url": "https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274998,
+      "name": "Imprimatura",
+      "url": "https://open.spotify.com/track/46uxWlqpJcaYzF3VMQVCsP"
+    },
+    {
+      "album": {
         "name": "What Burns Never Returns",
         "url": "https://open.spotify.com/album/7L9Lb7IO04ScYZawt6uaZJ"
       },
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 304000,
       "name": "That's Git",
       "url": "https://open.spotify.com/track/4iGnjVwzG8nkT8Gh8Elnwg"

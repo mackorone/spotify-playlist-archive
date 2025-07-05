@@ -2,9 +2,9 @@
 
 ### [Corridos 2025](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de los corridones\. Danny Felix y Sahir Montoya en portada.
+> Lo más fresco de los corridones\. Victor Valverde, Los comandos, Alejandrosoy en portada.
 
-1,570 songs - 3 day 8 hr 0 min
+1,573 songs - 3 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [En Preparación \- En Vivo](https://open.spotify.com/track/6fWADU6HwJqbrGhtAnfAuR) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [En Preparación \(En Vivo\)](https://open.spotify.com/album/1x8RKVyxWp1SIDgudWc54v) | 3:29 | 2023-12-22 | 2024-01-20 |
 | [En Un Carrillo](https://open.spotify.com/track/4HfD168Ihr6eT8tyuhnmhq) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [En Un Carrillo](https://open.spotify.com/album/37rMq9XpQOU7nEt8Ov13Af) | 3:17 | 2023-10-27 | 2023-11-18 |
 | [En Un Corvette](https://open.spotify.com/track/0EbNmjE3fD4kQYLejbQpTI) | [Niño Armado](https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ) | [En Un Corvette](https://open.spotify.com/album/3XY5zabnjR7uDCvSV9HQBV) | 2:52 | 2023-08-11 | 2023-09-23 |
+| [En Verdes Pensando](https://open.spotify.com/track/6wmjP0GFWJgHX6BE2CcAwz) | [Nueva Ruta](https://open.spotify.com/artist/3t3jUwWtk9NghwumBDJZLp) | [En Verdes Pensando](https://open.spotify.com/album/5abhzpumgZXbwHzjC8r1EY) | 1:59 | 2025-07-04 |  |
 | [Enamorado de la Muerte](https://open.spotify.com/track/5mJnSACWnnXWVPctZQcktp) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Quién Los Viera!!](https://open.spotify.com/album/6kil8QWE2WD0nMbQwbfLiC) | 3:02 | 2024-04-19 | 2024-07-27 |
 | [Encapuchados](https://open.spotify.com/track/53rXaMEbNI86YfR7YiNANJ) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [Encapuchados](https://open.spotify.com/album/0sLoXAAIrSQ9nUOG1J6DIf) | 2:50 | 2024-12-13 | 2025-01-18 |
 | [Enfocado En El Presente](https://open.spotify.com/track/3HSgIDUKrAaNeZG4QYNMHQ) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Enfocado En El Presente](https://open.spotify.com/album/0eVgAy8121BjgFlE0pbW9G) | 3:33 | 2023-03-10 | 2023-04-09 |
@@ -1103,6 +1104,7 @@
 | [Me Dicen Pollito](https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Me Dicen Pollito](https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l) | 4:19 | 2024-04-26 | 2024-11-09 |
 | [Me Fui](https://open.spotify.com/track/2jqAQpvwcRmKcLNJYpUVgF) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Me Fui](https://open.spotify.com/album/3YoPqy7swMlaUv4iAWYvZy) | 2:38 | 2023-04-21 | 2023-06-10 |
 | [Me Hice Bélico](https://open.spotify.com/track/6YSqNTHjDO01CHuu50eUE3) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Me Hice Bélico](https://open.spotify.com/album/0PklHIYAKaa9ojHys0Ople) | 2:33 | 2024-11-18 | 2024-11-30 |
+| [Me Hice Bélico 2](https://open.spotify.com/track/7ehqVe7In6e2XGG18AWeAB) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Me Hice Bélico 2](https://open.spotify.com/album/6lmJ6rt9j9n3OfflQK34xn) | 2:29 | 2025-07-04 |  |
 | [Me La Rolo](https://open.spotify.com/track/6BOEWJ6rnCLKHpPjgRnegT) | [Kirri Enigma](https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X) | [Me La Rolo](https://open.spotify.com/album/2g0x1RIrfPKWjdW7uyPJKW) | 3:36 | 2024-01-26 | 2024-03-09 |
 | [Me La Seguiran Pelando \- En Vivo](https://open.spotify.com/track/02R48GzQFMADKsAQjpfrQL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Me La Seguiran Pelando \(En Vivo\)](https://open.spotify.com/album/2qF8R8IWrc0LxE2CFkHdaL) | 3:40 | 2023-06-09 | 2023-06-24 |
 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 | 2024-03-15 | 2024-03-30 |
@@ -1249,6 +1251,7 @@
 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 | 2022-08-08 | 2022-12-17 |
 | [Pensando en Grande](https://open.spotify.com/track/2MvhLqUQoK0jPDktnTGHiN) | [Alfonso Muñoz](https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT) | [Pensando en Grande](https://open.spotify.com/album/5t483kWpXJRmSE4BOOjH9s) | 2:51 | 2025-04-11 |  |
 | [Pensando En Grande](https://open.spotify.com/track/4FTEOxnTFtuXTxQ6D4jbLD) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU) | [Pensando En Grande](https://open.spotify.com/album/1MChJOXoQkYTa5GIuKI7fQ) | 2:59 | 2025-06-27 |  |
+| [Perdon Mama](https://open.spotify.com/track/6WbkWq6e8KuD6k26L1yePw) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 3:32 | 2025-07-04 |  |
 | [Pero Yo](https://open.spotify.com/track/4eEU3xjm1fXxXyRnXdlFay) | [Emanuel Garcia](https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl) | [Pero Yo](https://open.spotify.com/album/7sWUYxEt6GpjERvPEZsyO9) | 3:15 | 2024-02-23 | 2024-03-16 |
 | [Pese A Quien Le Pese](https://open.spotify.com/track/2Pvx5MfPEzmDUNjnq9GFjP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pese A Quien Le Pese](https://open.spotify.com/album/6cnEHJEveEigJeAZIUQrQ4) | 1:44 | 2023-07-07 | 2023-09-30 |
 | [PHX](https://open.spotify.com/track/2jQci8Dr902XIFaeG1WBk0) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [PHX](https://open.spotify.com/album/1IOv8ht4ixe1npaJe3lp6z) | 3:05 | 2023-06-09 | 2023-07-01 |

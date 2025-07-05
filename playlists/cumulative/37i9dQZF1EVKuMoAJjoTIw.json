@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYbzNugsAfnh>Cheema Y</a>, <a href=spotify:playlist:37i9dQZF1EIWUC9LobrpBL>The Lonely Tree</a>, <a href=spotify:playlist:37i9dQZF1EIW5eqfxYp1JJ>Vishal Mishra</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXsXQ30glNSL>Luis Miguel</a>, <a href=spotify:playlist:37i9dQZF1EIX7l9gfEbi0Q>Shinedown</a>, <a href=spotify:playlist:37i9dQZF1EIXi5Zr2cdp0s>Strawberry Guy</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 259056,
       "name": "Aaj Bhi 2",
       "url": "https://open.spotify.com/track/16kUphL69BBLbrpl4bPXiB"
@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl"
+    },
+    {
+      "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
@@ -1966,6 +1984,24 @@
       "duration_ms": 228080,
       "name": "Como Mirarte",
       "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
+    },
+    {
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "Como Yo Te Am\u00e9",
+      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
     },
     {
       "album": {
@@ -5117,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Taking My Time to Be",
+        "url": "https://open.spotify.com/album/2ljZoj8pjImMAznXAkeJne"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110181,
+      "name": "Intermission",
+      "url": "https://open.spotify.com/track/4hm33jVolpa22nzhlY72jD"
+    },
+    {
+      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -5504,7 +5558,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 166285,
       "name": "Killswitch Lullaby (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/6UEavK4FwqZNqQU59DtA2E"
@@ -7086,7 +7140,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 136000,
       "name": "Necklace",
       "url": "https://open.spotify.com/track/5Pjn1aQS59ET5lJQminZTd"

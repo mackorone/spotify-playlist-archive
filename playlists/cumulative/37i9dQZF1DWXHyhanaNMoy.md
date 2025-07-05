@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes met KATNUF, Jinho 9 & Udi Mars \(GEM\-Z\) ✨
+> Motion & good vibes met Dylisa \(<a href="spotify:playlist:37i9dQZF1DXaXn0hGbmLLg">EQUAL</a>\-ambassador\) & Robin Roxette ✨
 
-1,424 songs - 2 day 15 hr 35 min
+1,425 songs - 2 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@
 | [Liever Mezelf Niet](https://open.spotify.com/track/3j2mDTK0ypXPa24xLPHyS6) | [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Liever Mezelf Niet](https://open.spotify.com/album/0tRorJVriSuBjHYih4ytee) | 2:43 | 2024-04-04 | 2024-04-26 |
 | [Life Is A Beach](https://open.spotify.com/track/3Z0WcZvat8eH1kn4mLer8s) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Life Is A Beach](https://open.spotify.com/album/4TK5pOkXCTXDqgtC6E7g0H) | 2:23 | 2023-12-14 | 2024-01-26 |
 | [Lifestyle \(feat\. KNALLER\)](https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Lifestyle \(feat\. KNALLER\)](https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP) | 2:30 | 2024-11-21 | 2025-03-07 |
-| [Lights, Camera & Action \(feat\. Chivv\)](https://open.spotify.com/track/2XnNq2RNONrZyRRqg8Ty9V) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Mi Boi](https://open.spotify.com/album/5Ap7HrLvJpd1mte45yMUb1) | 2:52 | 2025-03-27 |  |
+| [Lights, Camera & Action \(feat\. Chivv\)](https://open.spotify.com/track/2XnNq2RNONrZyRRqg8Ty9V) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Mi Boi](https://open.spotify.com/album/5Ap7HrLvJpd1mte45yMUb1) | 2:52 | 2025-03-27 | 2025-07-05 |
 | [Like Dat](https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Like Dat](https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc) | 2:31 | 2025-05-15 |  |
 | [Likkle Riddim](https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Likkle Riddim](https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ) | 2:44 | 2022-10-06 | 2023-01-27 |
 | [Likkle Waist](https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Likkle Waist](https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu) | 3:12 | 2023-01-19 | 2023-02-17 |
@@ -766,6 +766,7 @@
 | [Loyalty \(feat\. Boat\)](https://open.spotify.com/track/5EIEiMOslyLTd0H5Ej6d4i) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Boat](https://open.spotify.com/artist/3BLpP499tRGck1LfbRicGF) | [Loyalty \(feat\. Boat\)](https://open.spotify.com/album/7oIMg5RBN35uRCxyOcm018) | 3:12 | 2023-06-15 | 2023-07-28 |
 | [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 | 2023-12-21 | 2024-01-19 |
 | [Lucky One](https://open.spotify.com/track/2Exlj6mWLS6g4wXw7FsB23) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Lucky One](https://open.spotify.com/album/0Uk8PheqHOcCi1qGy68Umy) | 2:31 | 2023-11-09 | 2024-01-19 |
+| [Lululemon & Chanel](https://open.spotify.com/track/06TSFAUwBlMtD9RxGcFIga) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR), [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap) | [Lululemon & Chanel](https://open.spotify.com/album/6OQ3VLfGDINmSsgzRwO5go) | 2:35 | 2025-07-04 |  |
 | [luv](https://open.spotify.com/track/196q2VK1VCn9gHMhYfaQxl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [luv](https://open.spotify.com/album/4nEWQkd2g81DTp50Z5jMCx) | 2:46 | 2024-08-29 | 2025-01-31 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-06 | 2024-10-04 |
 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:44 | 2024-09-05 | 2024-12-06 |

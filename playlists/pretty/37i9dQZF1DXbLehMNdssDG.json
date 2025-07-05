@@ -1,6 +1,6 @@
 {
   "description": "Affirmations and meditation music for a mindful start of the day. ",
-  "num_followers": 33594,
+  "num_followers": 33624,
   "original_name": "Affirmations",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-28 14:29:46",
       "album": {
-        "name": "Laze",
-        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
-      },
-      "artists": [
-        {
-          "name": "Aileen Morais",
-          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
-    },
-    {
-      "added_at": "2024-08-28 14:29:46",
-      "album": {
         "name": "Kalmte",
         "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 203353,
       "name": "Kalmte",
       "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
+    },
+    {
+      "added_at": "2024-08-28 14:29:46",
+      "album": {
+        "name": "Laze",
+        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
+      },
+      "artists": [
+        {
+          "name": "Aileen Morais",
+          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
     },
     {
       "added_at": "2024-08-28 14:29:46",

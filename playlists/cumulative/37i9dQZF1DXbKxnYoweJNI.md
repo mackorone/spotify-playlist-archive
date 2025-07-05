@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 呂允 \(Lu Yun\)
 
-2,513 songs - 6 day 2 hr 11 min
+2,514 songs - 6 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1125,7 +1125,7 @@
 | [唏](https://open.spotify.com/track/31sbTfXzwtLGhAZOn3i0b0) | [飢餓藝術家](https://open.spotify.com/artist/3igxgiKF6jv1STDAIeoSMV) | [唏](https://open.spotify.com/album/0TZWXSqcR9XcpRkZz0ZZfC) | 3:30 | 2024-07-04 | 2024-07-27 |
 | [唯一](https://open.spotify.com/track/6kr2Wcg9dg2VPR5Felx7Iz) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [我的午夜電台](https://open.spotify.com/album/17Hzqbnh2UZZVYTlJu4Uwm) | 2:08 | 2025-06-12 | 2025-07-04 |
 | [唱](https://open.spotify.com/track/2P8tBIEGCGsE557Q1ePrOs) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [唱](https://open.spotify.com/album/6fPzvIOv8pFdPrC2qHqN0m) | 4:35 | 2024-10-03 | 2024-10-25 |
-| [唱一首簡單的歌](https://open.spotify.com/track/4f4gCHJHkoWDeLVNYsIX0p) | [G.K\. 高偉庭](https://open.spotify.com/artist/6oQww0uMiqePdArgcGKx2S), [賴慈泓](https://open.spotify.com/artist/4uXj8gagDzZOqnV8fGRmZ5) | [唱一首簡單的歌](https://open.spotify.com/album/4yb0VJ7uJO7s6wx0GEXBWB) | 3:03 | 2025-07-03 |  |
+| [唱一首簡單的歌](https://open.spotify.com/track/4f4gCHJHkoWDeLVNYsIX0p) | [G.K\. 高偉庭](https://open.spotify.com/artist/6oQww0uMiqePdArgcGKx2S), [賴慈泓](https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l) | [唱一首簡單的歌](https://open.spotify.com/album/4yb0VJ7uJO7s6wx0GEXBWB) | 3:03 | 2025-07-03 |  |
 | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/track/2qYn2UIaVBdi8TrLGpuVaI) | [閃閃閃閃](https://open.spotify.com/artist/3v1lQb5de2uc8TzkIsMVQj) | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/album/6506XgFAtzKjCwV0dF1vqP) | 2:44 | 2024-12-26 | 2025-01-17 |
 | [喜歡](https://open.spotify.com/track/7BeNe0U8z1qMi9NWCR4PUf) | [蔡瑞雪](https://open.spotify.com/artist/06i8SBkdXPHeibrUiuZ9fr) | [喜歡](https://open.spotify.com/album/5rAWjXBTzq1MCr7ranYgWv) | 3:36 | 2025-01-23 | 2025-01-31 |
 | [喜歡你](https://open.spotify.com/track/3Zf8ytj9wIbri5PZygncRK) | [stancsz](https://open.spotify.com/artist/3Yd1ranaGvAK5wtC7muHIV) | [喜歡你](https://open.spotify.com/album/44BTTM6L4MpnFo8MdQxhrO) | 1:51 | 2025-06-19 | 2025-06-27 |
@@ -1503,6 +1503,7 @@
 | [我不是你](https://open.spotify.com/track/4I0NOKUgtk2MCEgsrx4q0v) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [我不是你](https://open.spotify.com/album/2IQWZEoarhHIaHuxbrI7im) | 3:54 | 2024-11-21 | 2024-12-06 |
 | [我不是數學家，但讓我愛妳很久聽起來還不錯對吧？](https://open.spotify.com/track/0SzyQX2bEv9tnOc0g94UhL) | [DözY](https://open.spotify.com/artist/4MPFrDAwyRxYhcf1WRFRxr) | [我不是數學家，但讓我愛妳很久聽起來還不錯對吧？](https://open.spotify.com/album/0EWseOLcz3N3QYlO9r3nJj) | 2:49 | 2024-07-11 | 2024-08-09 |
 | [我不是農人](https://open.spotify.com/track/7MzrRbINZo4KgOeTLqfN8X) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [我不是農人](https://open.spotify.com/album/3002oED9ez41xpWlPl6Bnm) | 3:10 | 2024-09-12 | 2024-09-27 |
+| [我不會跳](https://open.spotify.com/track/38D8vniYyRefifED6h1nDK) | [陳漢典](https://open.spotify.com/artist/18CZokW8vv5EdMn1bYroOo) | [我不會跳](https://open.spotify.com/album/1utxkgazf3xrbejJlZUwtT) | 3:09 | 2025-07-03 |  |
 | [我不能不能喜歡你 \(影集《童話故事下集》插曲\)](https://open.spotify.com/track/7sqA93cjcNDer3y2ThjuLy) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [我不能不能喜歡你](https://open.spotify.com/album/4NWWpSqA42Y7axqD9Ha5Ed) | 4:30 | 2025-02-27 | 2025-03-07 |
 | [我什麼都不圖你難道突尼西亞](https://open.spotify.com/track/4tuJUjkSLUmDZX9Vg1g7HE) | [水水Mizu98](https://open.spotify.com/artist/1c83P0MDXWVhh7k64xyMcK) | [我什麼都不圖你難道突尼西亞](https://open.spotify.com/album/4IvwWVRMoZz8mbZfCrscxx) | 2:12 | 2024-07-11 | 2024-08-02 |
 | [我以為宇宙跟我說好了](https://open.spotify.com/track/5PP8fzBEsKqplYN9OL7m7u) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [我以為宇宙跟我說好了](https://open.spotify.com/album/4m2OGdbKYgRHQO3AVs6Yq9) | 4:10 | 2024-11-21 | 2024-12-13 |

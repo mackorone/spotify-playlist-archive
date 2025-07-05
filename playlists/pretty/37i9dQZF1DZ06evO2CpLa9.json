@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 564596,
+  "num_followers": 564620,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAABjgYJ2C3l8rHDOMU2UxTT+",
+  "snapshot_id": "aGXIAAAAAAAQnqJXc4KQlTlgdR+w7MqU",
   "tracks": [
     {
       "added_at": null,
@@ -1099,22 +1099,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrita",
-        "url": "https://open.spotify.com/album/2Ch8M3JiQh90jcBVwdeaKp"
+        "name": "Desde El Infierno",
+        "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         },
         {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Badguychapo",
+          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Morrita",
-      "url": "https://open.spotify.com/track/0gZNhCZqAiXiSUaK9TZACO"
+      "duration_ms": 233948,
+      "name": "Los Opaco",
+      "url": "https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok"
     },
     {
       "added_at": null,
@@ -1191,30 +1199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde El Infierno",
-        "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
+        "name": "Morrita",
+        "url": "https://open.spotify.com/album/2Ch8M3JiQh90jcBVwdeaKp"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Badguychapo",
-          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
-        },
-        {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
         }
       ],
-      "duration_ms": 233948,
-      "name": "Los Opaco",
-      "url": "https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok"
+      "duration_ms": 177600,
+      "name": "Morrita",
+      "url": "https://open.spotify.com/track/0gZNhCZqAiXiSUaK9TZACO"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

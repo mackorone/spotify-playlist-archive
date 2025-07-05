@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från KAJ, A36, Ida\-Lova och Loreen med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,485 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,792 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 31 | [Contesto](https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva) | [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Contesto](https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA) | 3:26 |
 | 32 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 |
 | 33 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
-| 34 | [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0cmFuWcYcqIglD8O5E0B9O) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 |
+| 34 | [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 |
 | 35 | [Tappar det](https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Tappar det](https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C) | 2:35 |
 | 36 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 |
 | 37 | [GENERATION GAZA](https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx) | [Generationgaza](https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GENERATION GAZA](https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD) | 3:21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Teyana Taylor",
+  "description": "Where R&B lives. Cover: Brent Faiyaz",
   "name": "RNB X",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 173875,
       "name": "act right",
       "url": "https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 163144,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/4nNpY2RyMQMvlKkQMRb5XQ"
@@ -8499,6 +8499,24 @@
     },
     {
       "album": {
+        "name": "peter pan.",
+        "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184614,
+      "name": "peter pan.",
+      "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
+    },
+    {
+      "album": {
         "name": "Piece of My Heart (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
       },
@@ -11650,6 +11668,24 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
+    },
+    {
+      "album": {
+        "name": "tony soprano.",
+        "url": "https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182304,
+      "name": "tony soprano.",
+      "url": "https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs"
     },
     {
       "album": {

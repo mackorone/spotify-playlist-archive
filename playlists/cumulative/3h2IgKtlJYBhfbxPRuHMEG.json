@@ -2561,6 +2561,32 @@
     },
     {
       "album": {
+        "name": "PLB (Pretty Little Baby)",
+        "url": "https://open.spotify.com/album/4ZiYzW5YyFd0lBHfFDzvLN"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        },
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "PLB (Pretty Little Baby)",
+      "url": "https://open.spotify.com/track/08eugiKdyPQFfRt1lTwTqr"
+    },
+    {
+      "album": {
         "name": "\u00c6ON:ONE",
         "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
       },

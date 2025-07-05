@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1351265,
+  "num_followers": 1351305,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAABZCr2HJSoPanKB0C1rvtkO",
+  "snapshot_id": "aGXIAAAAAABV3xx9c1m4bkmv7hBQ0GYH",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 208992,
       "name": "Mi Raz\u00f3n de Ser - REMASTERIZADO",
       "url": "https://open.spotify.com/track/0cbdTKHQDTA9P3R2iVCXM0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Olvido (REMASTERIZADO)",
+        "url": "https://open.spotify.com/album/3542b6XQMwlK7572x7aDWz"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 216832,
+      "name": "Mi Olvido - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/24q2y1LmrARR26PDPDeBiH"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
       "duration_ms": 139186,
       "name": "El Mech\u00f3n",
       "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     }
   ],
   "unique_name": "This Is Banda MS de Sergio Liz\u00e1rraga",

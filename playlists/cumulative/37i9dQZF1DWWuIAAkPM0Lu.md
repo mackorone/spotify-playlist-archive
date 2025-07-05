@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra D1MA, Tyla, WizTheMc og mange flere 👀
 
-6,206 songs - 13 day 8 hr 3 min
+6,207 songs - 13 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [Casual Weeknd](https://open.spotify.com/track/0Y21CcOTYfJAcdJdo5tbPA) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Casual Weeknd](https://open.spotify.com/album/3OfA5IKvyEfAqo6U5TVq6Z) | 2:16 | 2025-05-29 | 2025-06-06 |
 | [Catch Fire](https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Catch Fire](https://open.spotify.com/album/6VPisLb36V8VxxQhs0RyDH) | 1:59 | 2024-10-31 | 2024-11-08 |
 | [Catch Me If You Can](https://open.spotify.com/track/08xkny1wm9GWKnnzGRv3Xv) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Catch Me If You Can / So Far Away](https://open.spotify.com/album/2Vhdv7qbPOsqSCw6F6EA6E) | 2:47 | 2025-05-29 | 2025-06-06 |
+| [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 | 2025-07-03 |  |
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-09-26 | 2024-10-04 |
 | [Catching feelings](https://open.spotify.com/track/5WZL03aLF9GVNaa5Q6ATNe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Catching feelings](https://open.spotify.com/album/2lUIfpdrW8OuEgpvPjMhWg) | 3:22 | 2025-05-22 | 2025-05-30 |
 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-17 | 2024-10-25 |

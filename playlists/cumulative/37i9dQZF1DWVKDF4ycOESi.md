@@ -4,7 +4,7 @@
 
 > Nuovi brani di Shablo, 333 Mob, DJ Snake e J Balvin, Icy Subzero, Ava Max, WizTheMc e bees& honey, Kesha e molti altri.
 
-5,534 songs - 11 day 14 hr 25 min
+5,535 songs - 11 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2335,6 +2335,7 @@
 | [Il mio risveglio](https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/1lwUJdcej4UlbTFVyyShUF) | 2:41 | 2024-12-12 | 2024-12-20 |
 | [IL MONDO DEI BACi](https://open.spotify.com/track/6ISrOSvLz0VQ2zEJjMj3GF) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [IL MONDO DEI BACi](https://open.spotify.com/album/3B9hBYNxVTD1GAHmOHFzo3) | 3:43 | 2024-05-23 | 2024-06-01 |
 | [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 | 2025-05-22 | 2025-05-30 |
+| [Il mondo non ha gli occhi](https://open.spotify.com/track/59BXctKNyOByqpFA5oSwcS) | [Notlau](https://open.spotify.com/artist/3i25JvfCIGrr4IYCo7rg4V) | [Il mondo non ha gli occhi](https://open.spotify.com/album/1hSzN1SVGpmjAK2C4lGOAf) | 3:00 | 2025-07-04 |  |
 | [Il morso di Tyson](https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il morso di Tyson](https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ) | 4:00 | 2024-11-15 | 2024-11-22 |
 | [Il Natale degli Angeli](https://open.spotify.com/track/0GGf58HtRHeIFn5qs3F2Jn) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Il Natale degli Angeli](https://open.spotify.com/album/2MlY8hFaEHIJ2gFGzxWkrI) | 3:09 | 2024-11-28 | 2024-12-06 |
 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 | 2024-11-28 | 2024-12-06 |

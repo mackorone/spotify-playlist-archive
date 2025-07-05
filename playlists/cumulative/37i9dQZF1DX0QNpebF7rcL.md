@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Christone "Kingfish" Ingram
 
-483 songs - 1 day 8 hr 29 min
+484 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-02-25 | 2022-05-28 |
 | [Backbone Slip](https://open.spotify.com/track/0SeprpfgKltu37wRFpsDif) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Backbone Slip](https://open.spotify.com/album/1V7Sy4Jpilm8EGjpyGrM5f) | 4:19 | 2024-02-16 | 2024-03-09 |
 | [Bad Man](https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Bad Man](https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg) | 4:39 | 2022-03-25 | 2024-05-04 |
-| [Bad People](https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Bad People](https://open.spotify.com/album/0BAhzx2xOHrMisUGO6d4y1) | 4:20 | 2025-01-17 |  |
+| [Bad People](https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Bad People](https://open.spotify.com/album/0BAhzx2xOHrMisUGO6d4y1) | 4:20 | 2025-01-17 | 2025-07-05 |
 | [Bad Woman Blues](https://open.spotify.com/track/0rw2FKykg4yKVbt7XelcwC) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/3yDiN64DXyOgZSJ5oR6o7S) | 3:35 | 2020-12-14 | 2022-02-26 |
 | [Ball of Fire](https://open.spotify.com/track/3mtfFRcdAeHrrVnxbWpmI2) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [No More Worlds to Conquer](https://open.spotify.com/album/5RCGjONsYrTcNJpRjd27eL) | 3:51 | 2022-04-29 | 2023-08-19 |
 | [Beat The Devil](https://open.spotify.com/track/3XYMYGSPtFvczwyKpYmtXk) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Beat The Devil](https://open.spotify.com/album/6ahYjYXiTuofCvgdATnrMv) | 3:49 | 2021-12-10 | 2022-04-23 |
@@ -280,6 +280,7 @@
 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 | 2021-07-16 | 2023-01-14 |
 | [Mischief Man](https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Ten Thousand Watts](https://open.spotify.com/album/3ItR2zuQVdk1tO16cz2GFl) | 3:18 | 2020-12-14 | 2022-02-26 |
 | [Miss Information](https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Miss Information](https://open.spotify.com/album/7lRTdwCjqb6i22watL4REp) | 3:47 | 2021-09-10 | 2023-07-15 |
+| [Mississippi](https://open.spotify.com/track/3ykS8JhFli8fk4RyQewszO) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Mississippi](https://open.spotify.com/album/3uQaiRXPr4v4nV0NbZo9Ya) | 3:25 | 2025-07-04 |  |
 | [Mortgage on My Soul](https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mortgage on My Soul](https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa) | 7:04 | 2022-09-23 | 2024-08-24 |
 | [Mount up on the Wings of the King](https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 3:19 | 2022-05-20 | 2024-08-10 |
 | [Mount up on the Wings of the King](https://open.spotify.com/track/3oIkw0Owj1V0LH5EExbQKY) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5gM9h1Ksjiu1iy3wLy42dt) | [Straight from the Heart](https://open.spotify.com/album/4gN7CmqNauA6dTrBYOfVMe) | 3:19 | 2022-05-20 | 2024-04-12 |

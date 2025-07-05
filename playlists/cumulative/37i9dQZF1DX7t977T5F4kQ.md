@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: RCEE
 
-515 songs - 1 day 2 hr 42 min
+516 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 | 2024-10-18 |  |
 | [A POET's BOOK](https://open.spotify.com/track/4E38NnL7k4ttirYrJ7Hxve) | [Jayadi](https://open.spotify.com/artist/4mfk4OCq0FQMYKEJsFjdAl) | [A POET's BOOK](https://open.spotify.com/album/631de2gJdyYojP3aixNqyq) | 2:04 | 2024-03-29 | 2024-04-04 |
 | [Abasakom](https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc) | [NS Tino](https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI), [Mickey Lux](https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Abasakom](https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r) | 2:59 | 2024-03-15 | 2024-06-21 |
+| [Abena](https://open.spotify.com/track/4KEBHEiQve5RAIgX1LPYzw) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [From The Soil](https://open.spotify.com/album/7Fg63uNtYiTRMrJjMsHhTI) | 3:01 | 2025-07-04 |  |
 | [Abena](https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [757](https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4) | 2:22 | 2024-05-17 | 2025-03-14 |
 | [Abena](https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI) | [Yaw Dyro](https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Abena](https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4) | 2:40 | 2023-11-03 | 2023-12-02 |
 | [Abofra](https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Abofra](https://open.spotify.com/album/0t7PPoLJESwhAoG48GfrXc) | 2:46 | 2023-04-27 | 2023-05-13 |
@@ -335,7 +336,7 @@
 | [Obi Tan Wo](https://open.spotify.com/track/6UFei2sXl9dHbOzmCQJOD3) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Obi Tan Wo](https://open.spotify.com/album/2PQZCAt8WOUXPmRgVZr2VQ) | 2:35 | 2024-07-26 | 2024-09-28 |
 | [Obiaa](https://open.spotify.com/track/2mtP8qyPhspOExsNpPmHuQ) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/3XiiHZ3R6DtKXTb8X1cHzF) | 4:15 | 2023-01-13 | 2023-02-17 |
 | [Obiaa](https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/5x6h4sq7bNekBjnBoeGHaN) | 4:15 | 2022-11-04 | 2023-02-16 |
-| [Obiaa](https://open.spotify.com/track/6kvbug8brYmrPrdoE0QkW1) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Obiaa](https://open.spotify.com/album/3CoATpvAsRF3nbENgCRVr0) | 4:15 | 2024-06-21 |  |
+| [Obiaa](https://open.spotify.com/track/6kvbug8brYmrPrdoE0QkW1) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Obiaa](https://open.spotify.com/album/3CoATpvAsRF3nbENgCRVr0) | 4:15 | 2024-06-21 | 2025-07-05 |
 | [Obrempong](https://open.spotify.com/track/6vk0AipLoEac7RZIWkW4ZV) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Obrempong](https://open.spotify.com/album/1Ha74jk2foDfMrWRVzKAHP) | 3:16 | 2024-03-29 | 2024-04-19 |
 | [OCEAN \(feat\. Ashley Marie\)](https://open.spotify.com/track/28DOtsosQpLafMDvodwU3i) | [KWAMZ](https://open.spotify.com/artist/3xBE0TlbZwkC5tv0pooF58), [Ashley Marie](https://open.spotify.com/artist/4ydpkfKuLSsQSnIpQM8N4C) | [OCEAN \(feat\. Ashley Marie\)](https://open.spotify.com/album/5uQd6dUOcHJQHa78H0zQzw) | 2:44 | 2024-04-26 | 2024-07-27 |
 | [Odo Aduane](https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Odo Aduane](https://open.spotify.com/album/6hGinduqEgrBCJCLjEVBj5) | 2:58 | 2024-03-15 | 2024-09-28 |

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIYbzNugsAfnh>Cheema Y</a>, <a href=spotify:playlist:37i9dQZF1EIWUC9LobrpBL>The Lonely Tree</a>, <a href=spotify:playlist:37i9dQZF1EIW5eqfxYp1JJ>Vishal Mishra</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIXsXQ30glNSL>Luis Miguel</a>, <a href=spotify:playlist:37i9dQZF1EIX7l9gfEbi0Q>Shinedown</a>, <a href=spotify:playlist:37i9dQZF1EIXi5Zr2cdp0s>Strawberry Guy</a> and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Necklace](https://open.spotify.com/track/5Pjn1aQS59ET5lJQminZTd) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dripster](https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5) | 2:16 |
-| 2 | [Killswitch Lullaby \(Slowed + Reverb\)](https://open.spotify.com/track/6UEavK4FwqZNqQU59DtA2E) | [The Lonely Tree](https://open.spotify.com/artist/6lpbNvU6UQz0VOYYZClvay), [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Killswitch Lullaby \(Remixes\)](https://open.spotify.com/album/0pDz9K5o03JVFxkateLErs) | 2:46 |
-| 3 | [Aaj Bhi 2](https://open.spotify.com/track/16kUphL69BBLbrpl4bPXiB) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Love Feels with Vishal Mishra](https://open.spotify.com/album/6TmVjiKcgXt8N4FE94t4uG) | 4:19 |
+| 1 | [Como Yo Te Amé](https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:34 |
+| 2 | [Call Me](https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
+| 3 | [Intermission](https://open.spotify.com/track/4hm33jVolpa22nzhlY72jD) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Taking My Time to Be](https://open.spotify.com/album/2ljZoj8pjImMAznXAkeJne) | 1:50 |
 | 4 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 5 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 6 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 49 | [the remedy for a broken heart \(why am I so in love\)](https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:40 |
 | 50 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 |
 
-Snapshot ID: `AAAAAAAAAAAnrz53gA4l3xYHPdoZjUK4`
+Snapshot ID: `AAAAAAAAAABQUC0wwKCcXfxZZRy2BuC2`

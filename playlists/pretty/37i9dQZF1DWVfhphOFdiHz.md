@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: King Princess
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,113 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,115 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 82 | [Whips and Chains](https://open.spotify.com/track/0MpAjXcBHuZMqkkuCJQ7P3) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Whips and Chains](https://open.spotify.com/album/6ti7wgKd4PsYZv16WXE7xB) | 2:10 |
 | 83 | [LUBE](https://open.spotify.com/track/63Bw40ft3CFElVuZqiVBfH) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:46 |
 | 84 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/5ByVLM3xb78AVk6aKLKoW3) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Andy Bell](https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH), [Sarah Potenza](https://open.spotify.com/artist/4o3TLYc44160Nc57XrTZrd), [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [Greg Gould](https://open.spotify.com/artist/7scMWGksw0YUGUVuewfyJo) | [Pride \(In The Name Of Love\)](https://open.spotify.com/album/1zdsswrwHGq2cyr1lzSpVc) | 3:52 |
-| 85 | [the village \- trans chorus version](https://open.spotify.com/track/4CrXSDZgLUDKH9M3u7ay1l) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Trans Chorus of Los Angeles](https://open.spotify.com/artist/4TtD6XNkJlufh7J0quit2c) | [the village \(trans chorus version\)](https://open.spotify.com/album/4AFS2wG9s9oeYj0MKMyzV2) | 3:52 |
+| 85 | [the village \- trans chorus version](https://open.spotify.com/track/4CrXSDZgLUDKH9M3u7ay1l) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Trans Chorus of Los Angeles](https://open.spotify.com/artist/4TtD6XNkJlufh7J0quit2c) | [the village \(trans chorus version\)](https://open.spotify.com/album/4AFS2wG9s9oeYj0MKMyzV2) | 3:52 |
 | 86 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
 | 87 | [Mr\. Man \(feat\. Miya Folick\)](https://open.spotify.com/track/68O2VV2eloAmNFjI4fEaz0) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mr\. Man \(feat\. Miya Folick\)](https://open.spotify.com/album/0tkJFpgUaHur4wKSJhJQWD) | 2:24 |
 | 88 | [Pretty](https://open.spotify.com/track/4HQjjJIZnysvN2lxSj1oOt) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pretty](https://open.spotify.com/album/0p0uvSSSnejW1Dpv94bE1c) | 3:26 |

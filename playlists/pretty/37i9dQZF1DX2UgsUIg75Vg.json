@@ -1,12 +1,12 @@
 {
   "description": "Chill r&b. Cover: kwn",
-  "num_followers": 2377843,
+  "num_followers": 2377681,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XcQAAAAD/6nCTdvIvVjWnB+gyPm0W",
+  "snapshot_id": "aGdR4QAAAABtE5QBQNAcnTbFcQajGqyo",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:56",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
     },
     {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "Sycamore Tree",
-        "url": "https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 215032,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK"
-    },
-    {
       "added_at": "2025-06-14 14:32:39",
       "album": {
         "name": "Folded",
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
+      "added_at": "2025-06-20 04:00:56",
+      "album": {
+        "name": "Sycamore Tree",
+        "url": "https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 215032,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK"
+    },
+    {
       "added_at": "2025-05-02 04:00:36",
       "album": {
         "name": "Burning Blue",
@@ -87,6 +87,22 @@
       "duration_ms": 205724,
       "name": "Burning Blue",
       "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+    },
+    {
+      "added_at": "2025-07-04 04:00:33",
+      "album": {
+        "name": "peter pan.",
+        "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 184614,
+      "name": "peter pan.",
+      "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
     },
     {
       "added_at": "2025-03-28 04:00:48",
@@ -127,62 +143,6 @@
     {
       "added_at": "2025-06-27 04:00:49",
       "album": {
-        "name": "Can We Talk?",
-        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Can We Talk?",
-      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
-    },
-    {
-      "added_at": "2025-03-14 05:43:52",
-      "album": {
-        "name": "I'll Be Good",
-        "url": "https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI"
-      },
-      "artists": [
-        {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
-    },
-    {
-      "added_at": "2025-06-27 04:00:49",
-      "album": {
-        "name": "Read You Well (feat. Akeem Ali)",
-        "url": "https://open.spotify.com/album/3ZMN0o8ZUqT9WWduRUHsrF"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Akeem Ali",
-          "url": "https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X"
-        }
-      ],
-      "duration_ms": 151846,
-      "name": "Read You Well (feat. Akeem Ali)",
-      "url": "https://open.spotify.com/track/6dnjn9VpqriRjP0wOCMdrq"
-    },
-    {
-      "added_at": "2025-06-27 04:00:49",
-      "album": {
         "name": "I Choose You",
         "url": "https://open.spotify.com/album/59oQeJbXbZnz69c9DksMEc"
       },
@@ -199,6 +159,22 @@
       "duration_ms": 126902,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/62Q0tAz3JvaYUfTS2o0zrT"
+    },
+    {
+      "added_at": "2025-03-14 05:43:52",
+      "album": {
+        "name": "I'll Be Good",
+        "url": "https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
     },
     {
       "added_at": "2025-05-23 04:40:36",
@@ -219,6 +195,26 @@
       "duration_ms": 201398,
       "name": "Letting You Run",
       "url": "https://open.spotify.com/track/73dCTAnLDKbL1MpwarKLCP"
+    },
+    {
+      "added_at": "2025-07-04 04:00:33",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 186870,
+      "name": "talk you through it (feat. FLO)",
+      "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
     },
     {
       "added_at": "2025-06-20 04:00:56",
@@ -243,18 +239,18 @@
     {
       "added_at": "2025-06-27 04:00:49",
       "album": {
-        "name": "BMF",
-        "url": "https://open.spotify.com/album/4yOiuDiKW9ahoYRAoEX1bF"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
         }
       ],
-      "duration_ms": 154612,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/2qt9FKV2qvTBZX1ATFtNIC"
+      "duration_ms": 290224,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3"
     },
     {
       "added_at": "2025-06-27 04:00:49",
@@ -273,20 +269,44 @@
       "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
     },
     {
-      "added_at": "2025-05-09 04:00:20",
+      "added_at": "2025-06-27 04:00:49",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+        "name": "Read You Well (feat. Akeem Ali)",
+        "url": "https://open.spotify.com/album/3ZMN0o8ZUqT9WWduRUHsrF"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Akeem Ali",
+          "url": "https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X"
         }
       ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+      "duration_ms": 151846,
+      "name": "Read You Well (feat. Akeem Ali)",
+      "url": "https://open.spotify.com/track/6dnjn9VpqriRjP0wOCMdrq"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Can We Talk?",
+      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
     },
     {
       "added_at": "2025-06-06 04:50:22",
@@ -313,24 +333,20 @@
       "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
     },
     {
-      "added_at": "2025-06-27 04:00:49",
+      "added_at": "2025-05-09 04:00:20",
       "album": {
-        "name": "Catching Feelings",
-        "url": "https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR"
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
       },
       "artists": [
         {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 205028,
-      "name": "Catching Feelings",
-      "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2025-06-27 04:00:49",
@@ -355,18 +371,22 @@
     {
       "added_at": "2025-06-27 04:00:49",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv"
+        "name": "Catching Feelings",
+        "url": "https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR"
       },
       "artists": [
         {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 290224,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3"
+      "duration_ms": 205028,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
     },
     {
       "added_at": "2025-06-27 04:00:49",
@@ -457,36 +477,40 @@
       "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
     },
     {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/5FcEHDCPADtQwrz4gw9wnh"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Just Like Me",
-      "url": "https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5"
-    },
-    {
       "added_at": "2025-06-06 04:50:22",
       "album": {
-        "name": "What I Gotta Do",
-        "url": "https://open.spotify.com/album/2fl9ez05isjoG6IdqOXUzI"
+        "name": "Is This Love?",
+        "url": "https://open.spotify.com/album/69BacA7EcUTy0yOIEsYO3M"
       },
       "artists": [
         {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 96048,
-      "name": "What I Gotta Do",
-      "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
+      "duration_ms": 210729,
+      "name": "Is This Love?",
+      "url": "https://open.spotify.com/track/43Ha9dTAQLXaGF2aDeEzyH"
+    },
+    {
+      "added_at": "2025-01-31 10:12:57",
+      "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
       "added_at": "2025-02-07 07:29:18",
@@ -509,40 +533,52 @@
       "url": "https://open.spotify.com/track/5MDbtupR6oy8loU6Njp8jf"
     },
     {
-      "added_at": "2025-01-31 10:12:57",
-      "album": {
-        "name": "don't text me back",
-        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "all over u",
-      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
-    },
-    {
       "added_at": "2025-06-06 04:50:22",
       "album": {
-        "name": "Is This Love?",
-        "url": "https://open.spotify.com/album/69BacA7EcUTy0yOIEsYO3M"
+        "name": "What I Gotta Do",
+        "url": "https://open.spotify.com/album/2fl9ez05isjoG6IdqOXUzI"
       },
       "artists": [
         {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        },
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 96048,
+      "name": "What I Gotta Do",
+      "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:49",
+      "album": {
+        "name": "BMF",
+        "url": "https://open.spotify.com/album/4yOiuDiKW9ahoYRAoEX1bF"
+      },
+      "artists": [
         {
           "name": "PHABO",
           "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 210729,
-      "name": "Is This Love?",
-      "url": "https://open.spotify.com/track/43Ha9dTAQLXaGF2aDeEzyH"
+      "duration_ms": 154612,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/2qt9FKV2qvTBZX1ATFtNIC"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/5FcEHDCPADtQwrz4gw9wnh"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5"
     },
     {
       "added_at": "2025-05-09 05:01:53",
@@ -559,22 +595,6 @@
       "duration_ms": 193209,
       "name": "The Usual",
       "url": "https://open.spotify.com/track/0pyNAZxl5ZNwR16z41z7WD"
-    },
-    {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "stand on it",
-      "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
     },
     {
       "added_at": "2025-05-30 04:00:37",
@@ -3195,22 +3215,6 @@
       "duration_ms": 198200,
       "name": "Life Will Be",
       "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
-    },
-    {
-      "added_at": "2025-01-31 10:12:57",
-      "album": {
-        "name": "The R&B You Love",
-        "url": "https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 263730,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/7z5mythpa4M2WDXZR2bgtg"
     },
     {
       "added_at": "2025-01-31 10:12:57",

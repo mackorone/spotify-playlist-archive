@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Madness\n",
-  "num_followers": 61334,
+  "num_followers": 61375,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Magam sem tudom",
-        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0"
       },
       "artists": [
         {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        },
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
         }
       ],
-      "duration_ms": 190335,
-      "name": "Magam sem tudom",
-      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
+      "duration_ms": 159498,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -843,22 +847,18 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0"
+        "name": "Magam sem tudom",
+        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
       },
       "artists": [
         {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        },
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
         }
       ],
-      "duration_ms": 159498,
-      "name": "I Had Some Help",
-      "url": "https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw"
+      "duration_ms": 190335,
+      "name": "Magam sem tudom",
+      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Summer Disease",
-        "url": "https://open.spotify.com/album/31yE7CRqw1tN12Shn6zhxi"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 197525,
-      "name": "Summer Disease",
-      "url": "https://open.spotify.com/track/46oLm0kJKk5KtNpMxfjVRh"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Aizkolari",
         "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
@@ -1143,6 +1111,38 @@
       "duration_ms": 225047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Summer Disease",
+        "url": "https://open.spotify.com/album/31yE7CRqw1tN12Shn6zhxi"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 197525,
+      "name": "Summer Disease",
+      "url": "https://open.spotify.com/track/46oLm0kJKk5KtNpMxfjVRh"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Shellshock",
-        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+        "name": "Rude Station",
+        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
         }
       ],
-      "duration_ms": 248370,
-      "name": "Sleepin' on the Couch (with The Elovaters)",
-      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+      "duration_ms": 192106,
+      "name": "Contigo Estar\u00e9 Bien",
+      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1255,18 +1251,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Rude Station",
-        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
       "artists": [
         {
-          "name": "Juantxo Skalari & La Rude Band",
-          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
         }
       ],
-      "duration_ms": 192106,
-      "name": "Contigo Estar\u00e9 Bien",
-      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Estacional",
-        "url": "https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Estacional",
+        "url": "https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
-        "name": "Zombiler",
-        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
-      },
-      "artists": [
-        {
-          "name": "Second",
-          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
-        }
-      ],
-      "duration_ms": 206129,
-      "name": "Zombiler",
-      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
         "name": "Random Hand",
         "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
+        "name": "Zombiler",
+        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
+      },
+      "artists": [
+        {
+          "name": "Second",
+          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "Zombiler",
+      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
     },
     {
       "added_at": "2025-06-20 06:00:32",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-06-20 06:00:32",
       "album": {
+        "name": "Die in Denver",
+        "url": "https://open.spotify.com/album/1E4Srp7xDtym6hn5PywVqn"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 164326,
+      "name": "Die in Denver",
+      "url": "https://open.spotify.com/track/4A04Sd7GfZ2rrrOK0BX6lw"
+    },
+    {
+      "added_at": "2025-06-20 06:00:32",
+      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/5oD73yHwxR4UJhXsBFXLuk"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 176500,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/1y1a1nJZ3ycvXwNR3ycFe1"
-    },
-    {
-      "added_at": "2025-06-20 06:00:32",
-      "album": {
-        "name": "Die in Denver",
-        "url": "https://open.spotify.com/album/1E4Srp7xDtym6hn5PywVqn"
-      },
-      "artists": [
-        {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        }
-      ],
-      "duration_ms": 164326,
-      "name": "Die in Denver",
-      "url": "https://open.spotify.com/track/4A04Sd7GfZ2rrrOK0BX6lw"
     },
     {
       "added_at": "2025-06-20 06:00:32",

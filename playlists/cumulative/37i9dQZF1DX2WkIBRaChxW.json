@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring kwn.",
+  "description": "What's happening in r&b, right now \u2013 featuring Brent Faiyaz.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -11669,6 +11669,24 @@
     },
     {
       "album": {
+        "name": "Love Me Gentle",
+        "url": "https://open.spotify.com/album/3wz8VI2kJn9fx3NVmb1WON"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157351,
+      "name": "Love Me Gentle",
+      "url": "https://open.spotify.com/track/7bwgNZrJm4fnLFTxVJnzpf"
+    },
+    {
+      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -16086,7 +16104,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 244931,
       "name": "RAINING IN HOUSTON",
       "url": "https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E"
@@ -17806,7 +17824,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 221953,
       "name": "Soar",
       "url": "https://open.spotify.com/track/70TG24YZzgb1fmoot4XlI4"
@@ -20087,6 +20105,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2ibYWKbp1dta52A2Jg3kAN"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207589,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5OSZxdDYrFERsEDs7MnLA9"
+    },
+    {
+      "album": {
         "name": "Time & It's Order",
         "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
       },
@@ -20264,6 +20300,24 @@
       "duration_ms": 203946,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2F8UhXCxJveJWAmUVKse5h"
+    },
+    {
+      "album": {
+        "name": "tony soprano.",
+        "url": "https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182304,
+      "name": "tony soprano.",
+      "url": "https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs"
     },
     {
       "album": {
@@ -20872,7 +20926,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 175788,
       "name": "Type Dangerous",
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"

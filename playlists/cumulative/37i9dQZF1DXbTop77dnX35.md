@@ -4,7 +4,7 @@
 
 > New Music from BNXN, Blaqbonez, Fave, Zlatan and more
 
-3,164 songs - 6 day 15 hr 50 min
+3,165 songs - 6 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Cassa](https://open.spotify.com/track/5DLuVqlhV3YSmKunTb7sjN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Cassa](https://open.spotify.com/album/4q42s3AA5zgGMPjes17Ucd) | 2:30 | 2025-06-06 | 2025-06-13 |
 | [Catch Cold](https://open.spotify.com/track/65VKlVJxjMVeEzh607Gfpn) | [Pinky Jay](https://open.spotify.com/artist/0w7EOaPK7ujhclXHSsLfJh), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Catch Cold](https://open.spotify.com/album/2BJ0NDxQPVKJOdtL76C6ft) | 2:14 | 2024-12-13 | 2024-12-20 |
 | [Catch Fire](https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Catch Fire](https://open.spotify.com/album/6VPisLb36V8VxxQhs0RyDH) | 1:59 | 2024-11-01 | 2024-11-08 |
+| [Catch Me If U Can](https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Catch Me If U Can](https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo) | 3:22 | 2025-07-04 |  |
 | [cavities](https://open.spotify.com/track/0dIwEkXfjOzxsuZljBanmZ) | [Konzi](https://open.spotify.com/artist/5cQOVw60Aw0M6JH8nKKRBE), [Riicc](https://open.spotify.com/artist/27hqeF5E7b8Kqd9VfXlIDy) | [cavities/american honey](https://open.spotify.com/album/7mYKQ5BteuPF42x3sIx8AE) | 2:25 | 2024-10-18 | 2024-10-25 |
 | [Ceiling](https://open.spotify.com/track/6BRRJmpiGjPjC2GK05YvUx) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Ceiling](https://open.spotify.com/album/1WYdpb2r1FmMFMJeQxBKTV) | 2:33 | 2024-09-27 | 2024-10-04 |
 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-17 | 2025-01-25 |
@@ -2655,7 +2656,7 @@
 | [Stupid Queue](https://open.spotify.com/track/19JQWCJndFP2Uzko2VoUip) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Stupid Queue](https://open.spotify.com/album/3HgyG6mDPtlRQUvGYaP8AB) | 2:02 | 2024-06-07 | 2024-06-14 |
 | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(feat\. Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 | 2024-06-28 | 2024-07-05 |
 | [Sugar in My Tea](https://open.spotify.com/track/6ZNUnUUoqFhycRhRQfwv07) | [Logik Tha Pro](https://open.spotify.com/artist/6grOJlyvUhDYrgBKZMAa45), [KENNYBLAQ](https://open.spotify.com/artist/0H7jlYu3j0aRXM1XGkWyzw) | [Sugar in My Tea](https://open.spotify.com/album/2DJ2UsG9OoTHyWu0c8rNHZ) | 2:17 | 2025-05-09 | 2025-05-16 |
-| [Sugar Mummy](https://open.spotify.com/track/1RXEFbQyY8C9IV9oN8iy7f) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Sugar Mummy](https://open.spotify.com/album/16gzw8YuhybGqHXOoRCMKd) | 2:35 | 2025-07-04 |  |
+| [Sugar Mummy](https://open.spotify.com/track/1RXEFbQyY8C9IV9oN8iy7f) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Sugar Mummy](https://open.spotify.com/album/16gzw8YuhybGqHXOoRCMKd) | 2:35 | 2025-07-04 | 2025-07-05 |
 | [sugar rush](https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [Ansah Live](https://open.spotify.com/artist/0hbJqr0rLt4pCA9iDLJfup) | [AIR PISCINE](https://open.spotify.com/album/3ayLyO1LSESbWvbvacY5KD) | 2:40 | 2024-07-26 | 2024-08-02 |
 | [Sugarcoat](https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 2:00 | 2025-03-07 | 2025-03-14 |
 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 | 2024-12-06 | 2024-12-13 |
@@ -3126,7 +3127,7 @@
 | [Yesu](https://open.spotify.com/track/20a7Vi2E3huh83U2FwT6hW) | [Alhaji Bull](https://open.spotify.com/artist/6kSEocure6XDB5TaHsCmHh), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Yesu](https://open.spotify.com/album/7FtVWBnm7FXUdYt3TL6RLG) | 3:52 | 2025-02-21 | 2025-02-28 |
 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 | 2024-08-09 | 2024-08-17 |
 | [Yie](https://open.spotify.com/track/2gCBZzErQSGitLvS6QFkRn) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Yie](https://open.spotify.com/album/6lnwgB3IBDZD3exHF1ankh) | 2:30 | 2024-12-20 | 2025-01-10 |
-| [YII](https://open.spotify.com/track/1EhF99dqdrPeXTIqwJz7Xt) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YII](https://open.spotify.com/album/3qXlczTvXetMbYniaTFptQ) | 1:40 | 2025-07-04 |  |
+| [YII](https://open.spotify.com/track/1EhF99dqdrPeXTIqwJz7Xt) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YII](https://open.spotify.com/album/3qXlczTvXetMbYniaTFptQ) | 1:40 | 2025-07-04 | 2025-07-05 |
 | [Yipi Yoo](https://open.spotify.com/track/4aI9GatG1DzBNeDFvjcAPs) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Yipi Yoo](https://open.spotify.com/album/48dXq5BuUwJ1ItMzGyTge2) | 2:36 | 2025-02-28 | 2025-03-07 |
 | [Yo Fam](https://open.spotify.com/track/54WLkv4H2aR1ZtV5Q5QmFN) | [Two Tapp](https://open.spotify.com/artist/4qT2nqzdzq5lqP6QqqfJo8), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Yo Fam](https://open.spotify.com/album/2MP4D8SeTiDeSXNX5gYIKs) | 3:20 | 2024-07-12 | 2024-07-19 |
 | [Yo My Gee](https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Yo My Gee](https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3) | 2:34 | 2025-02-14 | 2025-02-21 |

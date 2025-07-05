@@ -2,7 +2,7 @@
 
 ### [Fiesta](https://open.spotify.com/playlist/37i9dQZF1DX9vJ2U3sN7xj)
 
-> nos fuimos de fiesta con J Balvin & Omega 🎉
+> nos fuimos de fiesta con KAROL G 🎉
 
 594 songs - 1 day 9 hr 17 min
 

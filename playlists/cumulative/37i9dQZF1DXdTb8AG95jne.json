@@ -3893,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/19QJBFMMfDDNos1Zuc4MlN"
+      },
+      "artists": [
+        {
+          "name": "RecordTheVoiceMessage",
+          "url": "https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231476,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/3dSCkpgpRjNMdNRT9l2qlw"
+    },
+    {
+      "album": {
         "name": "Dwaeji Gukbap",
         "url": "https://open.spotify.com/album/2CLx1E1CMNB4WMypc4Kx0l"
       },
@@ -4458,6 +4476,24 @@
       "duration_ms": 253792,
       "name": "Everything To",
       "url": "https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW"
+    },
+    {
+      "album": {
+        "name": "exchange - student",
+        "url": "https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt"
+      },
+      "artists": [
+        {
+          "name": "kimseungjoo",
+          "url": "https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "exchange - student",
+      "url": "https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N"
     },
     {
       "album": {
@@ -5544,7 +5580,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 195653,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE"
@@ -5688,7 +5724,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 178000,
       "name": "glow",
       "url": "https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q"
@@ -7328,7 +7364,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 150750,
       "name": "I'm OK",
       "url": "https://open.spotify.com/track/4OxFRgh7FWNU4v7eFzHzkZ"
@@ -9170,7 +9206,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 285568,
       "name": "Love Is Ever",
       "url": "https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I"

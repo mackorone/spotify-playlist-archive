@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > 10 years of the best new music by independent artists in the Nordics\. Cover: OLING
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,098 likes - 98 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,118 likes - 98 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wanna Wou](https://open.spotify.com/track/7CIlustqP30AQsM2Guy6o7) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Wanna Wou](https://open.spotify.com/album/7nbpWFhcFh3OON70jPubHD) | 4:23 |
 | 2 | [onyx eyes](https://open.spotify.com/track/3Mf1wSMEN3yz0s8qRYUXxq) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [onyx eyes](https://open.spotify.com/album/5q11onRG8I1NZGABWhLhls) | 2:31 |
-| 3 | [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0cmFuWcYcqIglD8O5E0B9O) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 |
+| 3 | [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 |
 | 4 | [9\-2\-5](https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [9\-2\-5](https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn) | 3:12 |
 | 5 | [bone](https://open.spotify.com/track/0BX2Mud9YLFJ8QLXjytGWA) | [Trout](https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy) | [bone](https://open.spotify.com/album/5CZw1bn4UiEc9aBXVim8kU) | 3:37 |
 | 6 | [D\*CK](https://open.spotify.com/track/4QDUgWoUgtpDvf2VM66j3r) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa), [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [D\*CK](https://open.spotify.com/album/7wzpJcYeQkCmIz5u9eDyvI) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: 21 Lil Harold, 21 Savage, Sexyy Red",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: JID",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -704,7 +704,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 135946,
       "name": "ACTIN UP WITH SEXYY RED",
       "url": "https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g"
@@ -2440,6 +2440,24 @@
       "duration_ms": 145700,
       "name": "Beetleborgs",
       "url": "https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF"
+    },
+    {
+      "album": {
+        "name": "GDLU (Preluxe)",
+        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155542,
+      "name": "Behold",
+      "url": "https://open.spotify.com/track/6eGWfTWDI764YbUeI9dswF"
     },
     {
       "album": {
@@ -4412,7 +4430,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 223571,
       "name": "Cashed Out - feat. Larry June",
       "url": "https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K"
@@ -4434,6 +4452,24 @@
       "duration_ms": 119466,
       "name": "Catch Fire",
       "url": "https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi"
+    },
+    {
+      "album": {
+        "name": "Catch Me Outside 2",
+        "url": "https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Catch Me Outside 2",
+      "url": "https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB"
     },
     {
       "album": {
@@ -7593,6 +7629,24 @@
     },
     {
       "album": {
+        "name": "Fly With Me",
+        "url": "https://open.spotify.com/album/1kp8BBWEumGAbp4z6qJ4op"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102631,
+      "name": "Fly With Me",
+      "url": "https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS"
+    },
+    {
+      "album": {
         "name": "FOOLERY",
         "url": "https://open.spotify.com/album/5e1bBTVdrMi7TCSmBlsU6S"
       },
@@ -9800,7 +9854,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 211187,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/6GuUPu0gwoRmebyWhnPHXP"
@@ -11766,7 +11820,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 152106,
       "name": "Keep It Sexy (MOMMAE 2) (Feat. JEON SOMI)",
       "url": "https://open.spotify.com/track/349vRUzitG48j0mYch7Ega"
@@ -14142,6 +14196,32 @@
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+    },
+    {
+      "album": {
+        "name": "Midnight In Shibuya",
+        "url": "https://open.spotify.com/album/4rmRay8jOJ7vmsSfoVauPJ"
+      },
+      "artists": [
+        {
+          "name": "John Robinson",
+          "url": "https://open.spotify.com/artist/2vyB0oUbcyIaoBVgUwhxZL"
+        },
+        {
+          "name": "BudaMunk",
+          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
+        },
+        {
+          "name": "Tiffany Paige",
+          "url": "https://open.spotify.com/artist/1duSiXQ5B0NMTRBLC023ap"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Midnight In Shibuya",
+      "url": "https://open.spotify.com/track/54yOoFabbK9LrbBHVtWRdd"
     },
     {
       "album": {
@@ -17272,6 +17352,24 @@
       "duration_ms": 207386,
       "name": "Paradise II (feat. Norah Jones) - Single Version",
       "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
+    },
+    {
+      "album": {
+        "name": "PARCHED",
+        "url": "https://open.spotify.com/album/6zVZDHE0i9i3mMZnqkjoYP"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129188,
+      "name": "PARCHED",
+      "url": "https://open.spotify.com/track/74G34ll2tZhpiSQdxoM9wO"
     },
     {
       "album": {
@@ -23701,6 +23799,32 @@
     },
     {
       "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz"
+    },
+    {
+      "album": {
         "name": "TREMOR",
         "url": "https://open.spotify.com/album/41SH1w2xcyIFA3puoCNgtR"
       },
@@ -24974,7 +25098,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 168533,
       "name": "WE ON GO",
       "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"

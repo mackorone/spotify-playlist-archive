@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,050 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,046 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Loco \(feat\. Migos\) \- Remix](https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M) | [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Clumsybeatz](https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy) | [Loco \(feat\. Migos\) \[Remix\]](https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q) | 2:37 |
 | 50 | [Menace 2 \(Migos, Lil Yachty\)](https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:24 |
 
-Snapshot ID: `aGR2gAAAAADEvLMh/jwBBeuPhgNYmbj/`
+Snapshot ID: `aGXIAAAAAACmtKAI23t5TvN7T/QMKX61`

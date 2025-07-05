@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,029 songs - 2 day 14 hr 34 min
+1,030 songs - 2 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Campanas en la Noche \- Versión Juan José Vasconcellos](https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Juan José Vasconcellos](https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A) | [De Mi Flor](https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P) | 3:41 | 2022-04-01 | 2022-04-07 |
 | [Canción Para Que Vuelvas](https://open.spotify.com/track/44pTqOSWCDTzYTskh8aJc1) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [SUPERSTICIONES](https://open.spotify.com/album/52lk6YflfGkqPcZXt7wE5L) | 3:35 | 2022-03-24 | 2022-04-06 |
 | [Canción para cantar de a dos](https://open.spotify.com/track/6Kl3mQYxh99eh8U3OkYmJQ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Canción para cantar de a dos](https://open.spotify.com/album/62mvHNoscp2kDuDWvIiYQp) | 3:40 | 2022-03-24 | 2022-04-21 |
-| [Canción para Mi Muerte](https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 3:35 | 2023-05-05 |  |
+| [Canción para Mi Muerte](https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 3:35 | 2023-05-05 | 2025-07-05 |
 | [Canción para Soltar](https://open.spotify.com/track/5wUEqcq5hzjie5m8cnDu5n) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Canción para Soltar](https://open.spotify.com/album/2oZSyEJljiMCLmFhfABCMx) | 2:46 | 2022-04-08 | 2022-04-10 |
 | [Cantar de la mala salud](https://open.spotify.com/track/2NYPExQi5gIQGX54iQoMoe) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Cantar de la mala salud](https://open.spotify.com/album/7iqxq7yEQ8w60Wc154NS16) | 3:46 | 2023-07-28 | 2023-08-24 |
 | [Cantata de Puentes Amarillos \(En Vivo\)](https://open.spotify.com/track/4eJbaOtTMHqEvWERy3tJRm) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Mil Noches y un Instante \(En Vivo en el Teatro Gran Rex\)](https://open.spotify.com/album/0FEw1ELbSr36VjZRlOhpbx) | 8:42 | 2022-03-24 | 2022-03-27 |
@@ -829,6 +829,7 @@
 | [Seminare \- 2021 Remasterizado](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(2021 Remasterizado\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 | 2022-01-28 |  |
 | [Sencillamente](https://open.spotify.com/track/0dsIBvWTJir86M4qSTMn6d) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Testosterona](https://open.spotify.com/album/0kiGu6K0189V5QwvPbtN9i) | 5:07 | 2022-01-07 | 2022-06-06 |
 | [Sencillo](https://open.spotify.com/track/0FB4iKAQ7QTbnIpa7KvwIX) | [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Sencillo](https://open.spotify.com/album/6aqyqVs3ipEahR5sQhLjh5) | 3:33 | 2022-01-07 | 2022-06-22 |
+| [Sentimental](https://open.spotify.com/track/0YWrwyCPj9fddTBaYaoaEE) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [Sentimental](https://open.spotify.com/album/4TnBvr4uFCYAoDOhQSbFVK) | 3:53 | 2025-07-04 |  |
 | [Septiembre Azul](https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi) | [Septiembre Azul](https://open.spotify.com/album/1zR4ZOHugUOaapOrrbQuBU) | 3:10 | 2022-04-13 | 2022-04-16 |
 | [Sequía](https://open.spotify.com/track/7y1IUmADjFRnxUytdkwnH0) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Sequía](https://open.spotify.com/album/6tsqbFGsGyAPSDxFZL1Gv7) | 2:31 | 2022-04-08 | 2022-04-21 |
 | [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 | 2021-12-24 | 2022-07-29 |

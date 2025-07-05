@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-248 songs - 13 hr 2 min
+250 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2023-02-09 | 2023-05-17 |
 | [Noise](https://open.spotify.com/track/3M3ZGMLBVdBKRLkandKONJ) | [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [I'M OK NO I'M NOT](https://open.spotify.com/album/5UniBmaoxyjTUwBgOS165S) | 3:53 | 2023-04-14 | 2023-07-01 |
 | [O.K.](https://open.spotify.com/track/3079KgxQ0kntfz3qTunWq6) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 1:42 | 2023-02-09 | 2023-05-17 |
+| [ocean deep](https://open.spotify.com/track/0NUL2x96GaWjD5z96ZuAgo) | [mellorush](https://open.spotify.com/artist/0agE92MYgcat5Ff87uXV8A), [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [ocean deep](https://open.spotify.com/album/55astp5uQOL5hpOEP2Qa12) | 2:48 | 2025-07-04 |  |
 | [One for sorrow, two for Joni Jones](https://open.spotify.com/track/5h9JLWHtDQDZyJJUTYroZJ) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:30 | 2023-07-14 |  |
 | [out](https://open.spotify.com/track/7fZkcPKxlkGkxyc1tbOt0g) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:33 | 2023-06-13 |  |
 | [Panic](https://open.spotify.com/track/3PSYoAFE4D6YPmdbtPoiQ4) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Let Them In](https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou) | 3:51 | 2023-04-11 |  |
@@ -240,6 +241,7 @@
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-05-16 |  |
 | [weighted blanket](https://open.spotify.com/track/1xKcwqnXbzHF5WXNw1V2GA) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [weighted blanket](https://open.spotify.com/album/1VXnRaNRvFA7Q6HqsRqPMd) | 4:24 | 2024-04-16 |  |
 | [When Everything Was Lost](https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [When Everything Was Lost](https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj) | 4:00 | 2023-06-30 |  |
+| [when i think of you](https://open.spotify.com/track/4q84VYwrWfJdcN2ESnIck3) | [by your side](https://open.spotify.com/artist/7EmjLkTFoHuukMT96bxgEd) | [when i think of you](https://open.spotify.com/album/300D5cCycf0LMYav3G4tdu) | 1:57 | 2025-07-04 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:56 | 2023-04-14 |  |
 | [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2023-04-14 | 2024-04-19 |
 | [Windshield](https://open.spotify.com/track/0cKtQJ21b6adfzO82U0Tvq) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/6p67XlnmixLtfkSn0vwiiE) | 3:01 | 2023-04-11 | 2023-05-13 |

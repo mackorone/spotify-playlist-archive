@@ -4709,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/1yUsYV2ytolZCl8Lc46WjD"
+      },
+      "artists": [
+        {
+          "name": "Dean James",
+          "url": "https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258285,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/4pt7tAam7H8ysQgxWXCNta"
+    },
+    {
+      "album": {
         "name": "Mind Over Matter",
         "url": "https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ"
       },
@@ -5014,7 +5032,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 254840,
       "name": "Let's Take A Ride",
       "url": "https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI"

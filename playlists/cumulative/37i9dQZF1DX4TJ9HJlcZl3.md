@@ -4,16 +4,17 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-123 songs - 7 hr 41 min
+125 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 | 2022-10-21 | 2025-05-28 |
+| [2019](https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [2019](https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM) | 3:15 | 2025-07-04 |  |
 | [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 | 2023-01-06 |
 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 | 2023-09-22 |  |
 | [Apartment \(feat\. Benny Sings\)](https://open.spotify.com/track/3bt6rnq9mCrq1XStEcGaNl) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:04 | 2022-10-21 | 2023-01-14 |
 | [Back On The Music!](https://open.spotify.com/track/5QALJWWpHnigY6CRPdQqhu) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:27 | 2022-10-21 | 2024-04-19 |
-| [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 | 2022-10-21 |  |
+| [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 | 2022-10-21 | 2025-07-05 |
 | [Back To Me](https://open.spotify.com/track/3Pko6euCnCPuwGy4TVK7o3) | [Super db](https://open.spotify.com/artist/6Fsj5gGio0BcLbbgrKh5IY) | [Back To Me](https://open.spotify.com/album/0d2wOE8aJIRJp6RJO5PJGd) | 4:31 | 2023-03-17 | 2023-09-23 |
 | [Better Than Ever](https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Better Than Ever](https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh) | 3:56 | 2023-09-08 |  |
 | [Better Than Ever](https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:56 | 2023-09-08 | 2024-04-19 |
@@ -115,10 +116,11 @@
 | [Tip of the Flame \- 12” Disco Mix](https://open.spotify.com/track/3PF7zlShrw5JwwW3b1E3Jh) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip of the Flame \(12” Disco Mix\)](https://open.spotify.com/album/0zasXyPv7yIEJ6mRJoaBEi) | 5:57 | 2023-09-01 |  |
 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 | 2022-10-21 |  |
 | [Tropical Illusion](https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Tropical Illusion / Passengers](https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy) | 3:47 | 2024-05-24 | 2024-09-07 |
+| [Upon Arrival](https://open.spotify.com/track/5AqO5MfeOGIgjnjgUaiSOt) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Upon Arrival](https://open.spotify.com/album/0i4qVBoh5czpvFAzezcrFU) | 3:24 | 2025-07-04 |  |
 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 | 2022-11-11 |  |
 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 | 2022-10-21 | 2022-11-19 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-07 |  |
-| [Walk Out The Door](https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Walk Out The Door](https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE) | 3:48 | 2024-10-18 |  |
+| [Walk Out The Door](https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Walk Out The Door](https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE) | 3:48 | 2024-10-18 | 2025-07-05 |
 | [Way Back](https://open.spotify.com/track/4uSf06Z9BYP2v85OcCaGho) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Way Back](https://open.spotify.com/album/7BEQqff2dgbMVD9eIiLBJu) | 3:39 | 2024-05-03 |  |
 | [What a Mess](https://open.spotify.com/track/0Nh1lcfO370r4RbnbHyI0u) | [Zachary Austin](https://open.spotify.com/artist/4dACqKiAumlZz4e7g05BUx), [Offghost](https://open.spotify.com/artist/5idpy1lojocVoblo9y9nan), [Barb](https://open.spotify.com/artist/2AKn3QitGXoKeodTlARfxe) | [What a Mess](https://open.spotify.com/album/4g6ZTv4RiQfcbrwZX9Xwnd) | 3:27 | 2024-03-08 |  |
 | [What Ever It May Be](https://open.spotify.com/track/7rj18BeidDwvzWAbQgbffM) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be](https://open.spotify.com/album/3cjiYBTwHHXEsA08KPpyaT) | 4:00 | 2022-10-21 | 2024-03-23 |

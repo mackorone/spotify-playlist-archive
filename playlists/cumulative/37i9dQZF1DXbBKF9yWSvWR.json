@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 189610,
       "name": "Favorite Person",
       "url": "https://open.spotify.com/track/173fPfGcG00V2L3zAem3fQ"
@@ -2714,6 +2714,24 @@
       "duration_ms": 169680,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/2Ue8uuwAK2AoV4otLL2HCV"
+    },
+    {
+      "album": {
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
       "album": {
@@ -3671,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "I Think I Feel Something",
+        "url": "https://open.spotify.com/album/2H85S87SVAeSEDk7g38qED"
+      },
+      "artists": [
+        {
+          "name": "Silver Lake",
+          "url": "https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "I Think I Feel Something",
+      "url": "https://open.spotify.com/track/3FHEN0BCClagOpIxV2jaDY"
+    },
+    {
+      "album": {
         "name": "I Wanna Know",
         "url": "https://open.spotify.com/album/4ESDAKoD962Ung9T8UlrbL"
       },
@@ -4180,10 +4216,28 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 169720,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/5faNmEw9yCofUMkLSkdB9t"
+    },
+    {
+      "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Kneel",
+      "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
     },
     {
       "album": {
@@ -4692,7 +4746,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 180816,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/1BGiBKtOgiAmEfofexKj5f"
@@ -6222,7 +6276,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 182939,
       "name": "Pop Up",
       "url": "https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf"
@@ -6312,10 +6366,28 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 201679,
       "name": "Pyramid",
       "url": "https://open.spotify.com/track/2MBMZkwfDM1FjoiCpP3aXD"
+    },
+    {
+      "album": {
+        "name": "Quiet Life",
+        "url": "https://open.spotify.com/album/3zG4TpY9GMajFXgBwQSbfJ"
+      },
+      "artists": [
+        {
+          "name": "plonki",
+          "url": "https://open.spotify.com/artist/34zf3havia33k7jVO7Na6g"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Quiet Life",
+      "url": "https://open.spotify.com/track/2X1TY6dff8ienKQQFO4CVP"
     },
     {
       "album": {
@@ -6402,7 +6474,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 195026,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/2b25lG96mQscG7TGIcvCxO"
@@ -6698,7 +6770,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 236306,
       "name": "Running",
       "url": "https://open.spotify.com/track/5Akz1ec7EFluRLgqGxV2TY"
@@ -7701,6 +7773,24 @@
     },
     {
       "album": {
+        "name": "Television Love",
+        "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280800,
+      "name": "Television Love",
+      "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
+    },
+    {
+      "album": {
         "name": "tell the world",
         "url": "https://open.spotify.com/album/6yehVVi1Baoif2AFsjmLU4"
       },
@@ -7716,6 +7806,24 @@
       "duration_ms": 227666,
       "name": "tell the world",
       "url": "https://open.spotify.com/track/28tGCouphDEPmxYTcP34NV"
+    },
+    {
+      "album": {
+        "name": "ten years time",
+        "url": "https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179665,
+      "name": "ten years time",
+      "url": "https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn"
     },
     {
       "album": {
@@ -7900,6 +8008,24 @@
       "duration_ms": 184715,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/531pb8X8dzEiJiR29Ql9GI"
+      },
+      "artists": [
+        {
+          "name": "Waltzburg",
+          "url": "https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/54uQ1AZVrgEi7QzHCslpYw"
     },
     {
       "album": {
@@ -8632,7 +8758,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59761,
+  "num_followers": 59807,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
+        "name": "Dina fula skor",
+        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Dina fula skor",
+      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 194789,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
-        "name": "Dina fula skor",
-        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
-      },
-      "artists": [
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Dina fula skor",
-      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
+        "name": "Gatorna i Bor\u00e5s",
+        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 164089,
+      "name": "Gatorna i Bor\u00e5s",
+      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
         "name": "Is It Love?",
         "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 205000,
       "name": "i miss you",
       "url": "https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
-        "name": "Gatorna i Bor\u00e5s",
-        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 164089,
-      "name": "Gatorna i Bor\u00e5s",
-      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "t-shirt",
-        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 152629,
-      "name": "t-shirt",
-      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "Murphy",
         "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 153618,
       "name": "Vem fan \u00e4r Murphy?",
       "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "t-shirt",
+        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 152629,
+      "name": "t-shirt",
+      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -939,18 +939,18 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "Goldfish",
-        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Natalie Reigo",
+          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
         }
       ],
-      "duration_ms": 186900,
-      "name": "Goldfish",
-      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
+      "duration_ms": 161684,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "It Was You",
-        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
       },
       "artists": [
         {
-          "name": "Natalie Reigo",
-          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 161684,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
+      "duration_ms": 186900,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "The Prettiest Face",
-        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "The Prettiest Face",
-      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "Side Effect",
         "url": "https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 126855,
       "name": "Side Effect",
       "url": "https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "The Prettiest Face",
+        "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "The Prettiest Face",
+      "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
+        "name": "Innan det \u00e4r f\u00f6rsent",
+        "url": "https://open.spotify.com/album/0XPmaDlH2k0VRk3kzWNEpS"
+      },
+      "artists": [
+        {
+          "name": "Vince Wavy",
+          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Hybris",
+      "url": "https://open.spotify.com/track/1iG2K8PaC5j0LqtuM7YcaK"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
         "name": "finns i chatten<3",
         "url": "https://open.spotify.com/album/6uRlOjL9tZgzb00IzpbKZR"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202261,
       "name": "The Dream Is Over",
       "url": "https://open.spotify.com/track/14TaOx6s12JuJ3DhJCrj8P"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
-        "name": "Innan det \u00e4r f\u00f6rsent",
-        "url": "https://open.spotify.com/album/0XPmaDlH2k0VRk3kzWNEpS"
-      },
-      "artists": [
-        {
-          "name": "Vince Wavy",
-          "url": "https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Hybris",
-      "url": "https://open.spotify.com/track/1iG2K8PaC5j0LqtuM7YcaK"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "Trappa till himlen",
-        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
-      },
-      "artists": [
-        {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        },
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Trappa till himlen",
-      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
         "name": "Var & N\u00e4r",
         "url": "https://open.spotify.com/album/7aJW0dQuPyvCWENSrtnOdo"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 219642,
       "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
       "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "Trappa till himlen",
+        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        },
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Trappa till himlen",
+      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1315,6 +1315,38 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
+        "name": "i guess this is me now?",
+        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
+      },
+      "artists": [
+        {
+          "name": "ENVYYOU",
+          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
+    },
+    {
+      "added_at": "2025-07-03 22:00:38",
+      "album": {
         "name": "K\u00e4rleksrum",
         "url": "https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo"
       },
@@ -1347,34 +1379,18 @@
     {
       "added_at": "2025-07-03 22:00:38",
       "album": {
-        "name": "Dansa med mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
+        "name": "In Terms Of You",
+        "url": "https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW"
       },
       "artists": [
         {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
         }
       ],
-      "duration_ms": 127250,
-      "name": "Dansa med mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
-        "name": "i guess this is me now?",
-        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
-      },
-      "artists": [
-        {
-          "name": "ENVYYOU",
-          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+      "duration_ms": 150843,
+      "name": "In Terms Of You",
+      "url": "https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2"
     },
     {
       "added_at": "2025-07-03 22:00:38",
@@ -1391,22 +1407,6 @@
       "duration_ms": 160840,
       "name": "Fast Love",
       "url": "https://open.spotify.com/track/7GIfbg4hznwd4AV24SJruG"
-    },
-    {
-      "added_at": "2025-07-03 22:00:38",
-      "album": {
-        "name": "In Terms Of You",
-        "url": "https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW"
-      },
-      "artists": [
-        {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
-        }
-      ],
-      "duration_ms": 150843,
-      "name": "In Terms Of You",
-      "url": "https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2"
     },
     {
       "added_at": "2025-07-03 22:00:38",

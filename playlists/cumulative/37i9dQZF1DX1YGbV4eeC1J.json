@@ -883,6 +883,32 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC"
+      },
+      "artists": [
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        },
+        {
+          "name": "Mordecai Dex",
+          "url": "https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230032,
+      "name": "Confuse Me",
+      "url": "https://open.spotify.com/track/7hPrIkzoycpFc9u2sQk8Lm"
+    },
+    {
+      "album": {
         "name": "Controller",
         "url": "https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2"
       },
@@ -5264,7 +5290,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 189473,
       "name": "Tulia Na Mimi (feat. Jay Melody)",
       "url": "https://open.spotify.com/track/53rL8Pf3wxrrYHK3PzmFJZ"

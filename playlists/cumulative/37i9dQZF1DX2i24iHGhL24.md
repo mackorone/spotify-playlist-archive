@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-445 songs - 1 day 1 hr 38 min
+446 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Boom Clap](https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91) | [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [Boom Clap](https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj) | 2:55 | 2021-12-17 | 2022-12-30 |
 | [Both Sides Now](https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Both Sides Now](https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt) | 4:44 | 2021-12-17 | 2023-10-17 |
 | [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 | 2023-10-17 |
+| [Breathless](https://open.spotify.com/track/0ci8M8VddctT9sehCbxn4R) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Breathless](https://open.spotify.com/album/5DEY9Qk83emaFTuOzRXf2B) | 3:00 | 2025-07-04 |  |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-02-23 |  |
 | [By Your Side](https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 4:38 | 2023-02-17 |  |
 | [Bye Bye Bye \- From the Original Motion Picture "Red Rocket"](https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [Bye Bye Bye \(From the Original Motion Picture "Red Rocket"\)](https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd) | 2:07 | 2021-12-24 | 2023-10-17 |
@@ -170,7 +171,7 @@
 | [gives you hell](https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [gives you hell](https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS) | 3:28 | 2022-09-19 | 2022-12-30 |
 | [glimpse of us](https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [glimpse of us](https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ) | 3:42 | 2022-08-12 | 2023-12-23 |
 | [Go Your Own Way](https://open.spotify.com/track/0DLVUfWdF4MptlOeYQsRkk) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Go Your Own Way](https://open.spotify.com/album/23adg4MHzuH1gjIp6COp5h) | 2:21 | 2022-03-25 | 2022-04-15 |
-| [God Is A Woman \- Yours Truly: 2018](https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [God Is A Woman \(Yours Truly: 2018\)](https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ) | 3:37 | 2021-12-17 |  |
+| [God Is A Woman \- Yours Truly: 2018](https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [God Is A Woman \(Yours Truly: 2018\)](https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ) | 3:37 | 2021-12-17 | 2025-07-05 |
 | [God Only Knows](https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [God Only Knows](https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi) | 3:04 | 2021-12-17 | 2023-10-17 |
 | [Golden \- Originally Performed By Harry Styles](https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Covers by Cannons](https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4) | 2:56 | 2021-12-17 | 2023-10-17 |
 | [Gone](https://open.spotify.com/track/450BViORvp0QhHY3OvAKGR) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Gone](https://open.spotify.com/album/3QjzQa1rwUbtZtDAbD77JD) | 3:30 | 2021-12-17 | 2022-05-02 |

@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "mountain of a memory",
+        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276611,
+      "name": "blue jean",
+      "url": "https://open.spotify.com/track/40vvgzQb8LSURO2Vh7dJgz"
+    },
+    {
+      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
       },
@@ -2976,6 +2994,24 @@
       "duration_ms": 197600,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD"
+    },
+    {
+      "album": {
+        "name": "Crucified Son",
+        "url": "https://open.spotify.com/album/2NOFo26dGaPq2Z0QJIfdPg"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209256,
+      "name": "Crucified Son",
+      "url": "https://open.spotify.com/track/0dAVs6Bzri2ivspQ0E7vM7"
     },
     {
       "album": {

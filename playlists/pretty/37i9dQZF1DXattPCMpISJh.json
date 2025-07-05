@@ -1,13 +1,37 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 140946,
+  "num_followers": 140986,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XXAAAAAD2cF3qpfniDabzWM89wR1C",
+  "snapshot_id": "aGdR0gAAAAAERsjCWmW5ruvy4+WN2VEw",
   "tracks": [
+    {
+      "added_at": "2025-07-04 04:00:18",
+      "album": {
+        "name": "Pool Party",
+        "url": "https://open.spotify.com/album/2L8ydmXS9h4jNkmARpn19V"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        },
+        {
+          "name": "Lenny McFly",
+          "url": "https://open.spotify.com/artist/56wurloBu7yu1BXGavaDXI"
+        }
+      ],
+      "duration_ms": 215937,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/0IUXH7X6r5AQ6XpNNTwHNR"
+    },
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
@@ -299,30 +323,6 @@
       "duration_ms": 231428,
       "name": "Messie",
       "url": "https://open.spotify.com/track/36IHDOzNRDPltiZTYCbuwa"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "220",
-        "url": "https://open.spotify.com/album/2EToGNnXG3eM5yuTasrokh"
-      },
-      "artists": [
-        {
-          "name": "Alex Cherney",
-          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
-        },
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        },
-        {
-          "name": "Kendra Morris",
-          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "220",
-      "url": "https://open.spotify.com/track/7c0YUHgp50nEISswBMsZqq"
     },
     {
       "added_at": "2024-09-06 04:00:00",

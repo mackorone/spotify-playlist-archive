@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julliany Souza",
-  "num_followers": 1156162,
+  "num_followers": 1156530,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
         "name": "Por Causa Dele",
         "url": "https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 352396,
       "name": "Por Causa Dele - Ao Vivo",
       "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
-        "name": "Escape / Nunca Pare de Lutar",
-        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 565252,
-      "name": "Escape / Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -387,22 +387,18 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Avenida do Arrependimento",
-        "url": "https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs"
+        "name": "Eu Vou Fazer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
         }
       ],
-      "duration_ms": 390733,
-      "name": "Avenida do Arrependimento",
-      "url": "https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT"
+      "duration_ms": 276551,
+      "name": "Eu Vou Fazer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -423,18 +419,22 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Eu Vou Fazer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r"
+        "name": "Avenida do Arrependimento",
+        "url": "https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs"
       },
       "artists": [
         {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
         }
       ],
-      "duration_ms": 276551,
-      "name": "Eu Vou Fazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy"
+      "duration_ms": 390733,
+      "name": "Avenida do Arrependimento",
+      "url": "https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
+        "name": "Estou Te Esperando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 411745,
+      "name": "Estou Te Esperando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
         "name": "Jesus te Amamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 415435,
       "name": "Jesus te Amamos - Ao Vivo",
       "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
-        "name": "Estou Te Esperando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 411745,
-      "name": "Estou Te Esperando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
+        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 390933,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
         "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 287520,
       "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
-        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 390933,
-      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
     },
     {
       "added_at": "2025-06-19 18:15:35",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-06-19 18:15:35",
       "album": {
-        "name": "Faz Morada",
-        "url": "https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa"
-      },
-      "artists": [
-        {
-          "name": "Mc Jo\u00e3o Igor",
-          "url": "https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO"
-        },
-        {
-          "name": "Jean braguioly",
-          "url": "https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l"
-        }
-      ],
-      "duration_ms": 288623,
-      "name": "Faz Morada",
-      "url": "https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9"
-    },
-    {
-      "added_at": "2025-06-19 18:15:35",
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 328753,
       "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
       "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": "2025-06-19 18:15:35",
+      "album": {
+        "name": "Faz Morada",
+        "url": "https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa"
+      },
+      "artists": [
+        {
+          "name": "Mc Jo\u00e3o Igor",
+          "url": "https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO"
+        },
+        {
+          "name": "Jean braguioly",
+          "url": "https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l"
+        }
+      ],
+      "duration_ms": 288623,
+      "name": "Faz Morada",
+      "url": "https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9"
     },
     {
       "added_at": "2025-06-19 18:15:35",

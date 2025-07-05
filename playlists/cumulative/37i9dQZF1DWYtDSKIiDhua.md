@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: James Alyn
 
-1,287 songs - 2 day 20 hr 54 min
+1,288 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 | 2024-08-01 | 2024-12-05 |
 | [take it slow](https://open.spotify.com/track/3SgeEEibjPbN6OoazEt6eD) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [take it slow](https://open.spotify.com/album/5n2RGIzRuQbaNn3Tq2wxug) | 3:26 | 2023-06-15 | 2025-04-04 |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 | 2025-06-07 |
+| [take you there](https://open.spotify.com/track/0acK5Vlgulx6l9x9KzGfbr) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [neverontime](https://open.spotify.com/album/22anfYOVSwAITMqSEZ1f7c) | 2:38 | 2025-07-03 |  |
 | [Take you to the moon](https://open.spotify.com/track/6pWYgWtWceKZHwxPIaP5Jg) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Take you to the moon](https://open.spotify.com/album/57HpGI0su9ICrlB9KPqPFC) | 4:04 | 2025-02-06 | 2025-05-02 |
 | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 | 2024-10-03 | 2024-12-05 |
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-02-24 |

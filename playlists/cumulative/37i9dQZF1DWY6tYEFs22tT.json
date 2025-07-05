@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Offset, Don Toliver, Smiley, Cardi B, Central Cee and Lil Tecca.",
+  "description": "Today's Hip-Hop with JID, Offset, Don Toliver, Cardi B, Central Cee and Lil Tecca.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -2838,6 +2838,24 @@
       "duration_ms": 147469,
       "name": "Beep Beep (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC"
+    },
+    {
+      "album": {
+        "name": "GDLU (Preluxe)",
+        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155542,
+      "name": "Behold",
+      "url": "https://open.spotify.com/track/6eGWfTWDI764YbUeI9dswF"
     },
     {
       "album": {
@@ -11024,7 +11042,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 202032,
       "name": "HANDLING BUSINESS (with Tory Lanez)",
       "url": "https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3"
@@ -23856,7 +23874,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 109714,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP"
@@ -26012,6 +26030,32 @@
       "duration_ms": 150275,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL"
+    },
+    {
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz"
     },
     {
       "album": {

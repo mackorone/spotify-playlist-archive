@@ -1095,6 +1095,28 @@
     },
     {
       "album": {
+        "name": "My Yellow Car",
+        "url": "https://open.spotify.com/album/1g7iIi3FkaqeLJ3lVsFYAg"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170288,
+      "name": "My Yellow Car",
+      "url": "https://open.spotify.com/track/1niDmaOz2GhJKbFFIRsC8c"
+    },
+    {
+      "album": {
         "name": "Vehicle Songs, Vol. 2",
         "url": "https://open.spotify.com/album/1VW3sLTTqeQjDpRje85ThB"
       },

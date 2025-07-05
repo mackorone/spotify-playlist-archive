@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Maz B from Winnipeg, MB.",
+  "description": "This is R&B in Canada. Elevate your aura with RUSSELL! from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -324,6 +324,28 @@
       "duration_ms": 157611,
       "name": "2AM",
       "url": "https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb"
+    },
+    {
+      "album": {
+        "name": "2UP (feat. Because)",
+        "url": "https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165098,
+      "name": "2UP (feat. Because)",
+      "url": "https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo"
     },
     {
       "album": {
@@ -8420,6 +8442,24 @@
       "duration_ms": 154702,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "album": {
+        "name": "Give Your All",
+        "url": "https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr"
+      },
+      "artists": [
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138374,
+      "name": "Give Your All",
+      "url": "https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2"
     },
     {
       "album": {
@@ -23084,7 +23124,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 192000,
       "name": "THE BADDEST (with Illest Morena)",
       "url": "https://open.spotify.com/track/22waNdIbBAhzes4D2CTQX0"

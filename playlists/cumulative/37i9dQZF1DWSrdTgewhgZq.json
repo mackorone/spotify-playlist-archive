@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Hey, Gucci Mane\nthat's DOPE!",
+  "description": "Hey, A$AP Rocky \nthat's DOPE!",
   "name": "DOPE.",
   "tracks": [
     {
@@ -610,6 +610,24 @@
       "duration_ms": 207507,
       "name": "Balut",
       "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "album": {
+        "name": "GDLU (Preluxe)",
+        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155542,
+      "name": "Behold",
+      "url": "https://open.spotify.com/track/6eGWfTWDI764YbUeI9dswF"
     },
     {
       "album": {
@@ -4528,7 +4546,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 159029,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
@@ -8308,7 +8326,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 136874,
       "name": "Words2LiveBy (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JP THE WAVY
 
-1,763 songs - 3 day 17 hr 47 min
+1,764 songs - 3 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1312,6 +1312,7 @@
 | [SPECULATION](https://open.spotify.com/track/3DGuibOm2NyK52tsT4LrrA) | [PM Kenobi](https://open.spotify.com/artist/4UKQgh3XTopmXatJChUMHL), [So muramoto](https://open.spotify.com/artist/0BiMt3gobw1hzjCcC2guGq) | [SPECULATION](https://open.spotify.com/album/2lvdqtumoAf58TM16CqVl3) | 3:29 | 2024-05-31 | 2024-06-05 |
 | [SPIDA](https://open.spotify.com/track/6jSADyfOL1xY1FXMm9TYDI) | [FNCY](https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL) | [SPIDA](https://open.spotify.com/album/3yTd5jxDqTdNcqujjZEdcy) | 2:33 | 2023-09-21 | 2023-09-27 |
 | [Spit!](https://open.spotify.com/track/5x3wle4zQdhiSBu937UflS) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [The Only Way](https://open.spotify.com/album/2l09JWRW4xPi3J9kFHiSqp) | 2:49 | 2025-01-16 | 2025-01-22 |
+| [Spotlight](https://open.spotify.com/track/1apk1NLMkVRJhTdUk1dV11) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Spotlight](https://open.spotify.com/album/7nGI2OQ5jZosc6Ezew6Lye) | 2:58 | 2025-07-03 |  |
 | [SPOTLIGHT \(Feat\. LEX\)](https://open.spotify.com/track/4gkpHKZKDYb5oLmkQwaxeW) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SWEET HE♡RT](https://open.spotify.com/album/55QqeroaRqbgA9wp4mIQHo) | 2:37 | 2024-04-30 | 2024-05-29 |
 | [Squeeze](https://open.spotify.com/track/7ArwG98L9IrcQe3MHbbeR8) | [ピーナッツくん](https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb) | [BloodBagBrainBomb](https://open.spotify.com/album/0Mstlb371aRsCUvsUNJqtn) | 2:56 | 2024-06-14 | 2024-06-26 |
 | [STACK UP \(feat\. JNKMN\)](https://open.spotify.com/track/0g45YiJeUF6Yk06NryJ16s) | [Luv Fvvgo](https://open.spotify.com/artist/4sN6pnesQTwtRMI7AuTrSw), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [STACK UP \(feat\. JNKMN\)](https://open.spotify.com/album/0xer0Sm4IFCLr8QMHkO1B6) | 3:16 | 2024-11-29 | 2024-12-11 |

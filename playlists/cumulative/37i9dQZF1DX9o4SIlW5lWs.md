@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-548 songs - 1 day 6 hr 57 min
+550 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 | 2022-03-11 |  |
 | [Amor Secreto](https://open.spotify.com/track/54Jr171k3fvsYRcuy6G7qi) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mi Corazón Canta para Vos](https://open.spotify.com/album/3a8kuLV7GUW3tDNBNsGC7L) | 3:18 | 2022-04-01 | 2022-06-10 |
 | [Amor y Deudas](https://open.spotify.com/track/2lX34uxOakDVkNDwiV0aCL) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Amor y Deudas](https://open.spotify.com/album/7lt8y2dL66EVdZtlSJcbaY) | 4:20 | 2022-01-21 | 2022-06-17 |
-| [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 | 2024-08-16 |  |
+| [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 | 2024-08-16 | 2025-07-05 |
 | [Anoche La Perdí](https://open.spotify.com/track/6IW4czFoRns3q8uYzh5Hq7) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp), [Simplemente El Ángel](https://open.spotify.com/artist/4crpkDgxnANIqV3V7gOq4g) | [Anoche La Perdí](https://open.spotify.com/album/3daX2Z6krmShXdXPzApMCU) | 2:39 | 2024-08-16 | 2024-08-31 |
 | [Anochecemos](https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Anochecemos](https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj) | 3:24 | 2023-10-27 | 2024-10-18 |
 | [APD](https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [APD](https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb) | 2:49 | 2024-05-10 | 2024-08-23 |
@@ -412,6 +412,7 @@
 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2022-01-14 | 2023-03-12 |
 | [Se Me Hizo Tarde](https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Se Me Hizo Tarde](https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8) | 2:47 | 2024-04-12 | 2024-09-01 |
 | [Se me va la voz](https://open.spotify.com/track/59HiyR19EwTWqVfK7owiKj) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [Se me va la voz](https://open.spotify.com/album/74NsVqIGsWmyRrniZItUFF) | 2:49 | 2022-01-21 | 2022-06-19 |
+| [Se parece más a ti](https://open.spotify.com/track/7MurjFLXZ5hJn2z82pcLgA) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Jambao: Sin Miedo Session \#52 \(Lado S\)](https://open.spotify.com/album/5RueSt1KRNW3uXcWjxG7M5) | 2:21 | 2025-07-04 |  |
 | [Se Que Llorarás](https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE) | [Aclamado Amistad](https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW) | [30 Años](https://open.spotify.com/album/4rvvkfhubGwH3mQ3ZHL9S1) | 4:08 | 2022-01-21 | 2022-07-17 |
 | [Se Quedo Sola](https://open.spotify.com/track/5TkS7rZGZockjx4qMW3Y1Q) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Se Quedo Sola](https://open.spotify.com/album/05twB7gDsvKAmCdY5AKJ3a) | 3:15 | 2023-01-20 | 2023-01-28 |
 | [Se Te Olvidó](https://open.spotify.com/track/1eFmhKnEOZ3sJg2NwmNFoU) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY), [Mario Guerrero](https://open.spotify.com/artist/6olBVa8DSbt2M0FAR7AAkI) | [Se Te Olvidó](https://open.spotify.com/album/74GgPz1rMBeYd3W19OXDtj) | 3:42 | 2024-06-21 | 2024-06-29 |
@@ -468,8 +469,9 @@
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2022-07-22 | 2024-04-19 |
 | [Te Voy a Amar](https://open.spotify.com/track/01B1lOK7MmETtd3YKjgN2v) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Te Voy a Amar](https://open.spotify.com/album/080g552SPxUhCDlKoVW14n) | 4:00 | 2024-03-29 | 2024-04-13 |
 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 | 2022-01-14 |  |
-| [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 | 2025-01-17 |  |
+| [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 | 2025-01-17 | 2025-07-05 |
 | [Tiene Espinas el Rosal](https://open.spotify.com/track/6p3lVBHIY9nHJgVaOoMLU6) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Clásicos de Siempre](https://open.spotify.com/album/5t03hqWU2j6Qox3vHbg270) | 1:19 | 2022-01-21 | 2022-07-01 |
+| [Todavia Me Prefieres](https://open.spotify.com/track/3oLZvV2KtS3GBNRtiGUGw6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Todavia Me Prefieres](https://open.spotify.com/album/7Fb0LfqF39Ji0WNg8tRzPZ) | 3:45 | 2025-07-04 |  |
 | [Todavía Me Amas](https://open.spotify.com/track/1KyiyHQ1wku9qO9tb0vxgp) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Puro Sabor Original Vol\. 1](https://open.spotify.com/album/0ybcoVxpEoReTaDsSVm5Dk) | 3:11 | 2025-05-02 | 2025-05-23 |
 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 | 2022-01-14 |  |
 | [Tramposa](https://open.spotify.com/track/1lLTyKsX4IDBYtAiRWnJEQ) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Tramposa](https://open.spotify.com/album/4tPBqFk4ZeAzQ0mB8ZxUzX) | 3:07 | 2024-02-23 | 2024-04-30 |

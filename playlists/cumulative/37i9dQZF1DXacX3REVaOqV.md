@@ -4,7 +4,7 @@
 
 > The best in house music
 
-635 songs - 1 day 17 hr 54 min
+636 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Cruel Intentions](https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Cruel Intentions](https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro) | 3:42 | 2024-01-18 | 2024-11-23 |
 | [Cruel Summer \(Again\)](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer \(Again\)](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 | 2025-05-07 |  |
 | [Cuttin](https://open.spotify.com/track/2SLX3GGCWpZyZO95L21MuA) | [DJ Dove](https://open.spotify.com/artist/4d6dDvAt5jdSDAhH33UabE) | [Cuttin](https://open.spotify.com/album/54sLvR7jIk07lqJMONPkqv) | 3:14 | 2022-04-14 | 2022-07-29 |
+| [D.A.N.C.E](https://open.spotify.com/track/1UxpSyWmUXJ7DZYPAPzNTU) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 3:15 | 2025-07-04 |  |
 | [D.A.N.C.E.](https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2) | [Superlover](https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO) | [D.A.N.C.E.](https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO) | 4:35 | 2023-05-31 | 2024-03-01 |
 | [D.A.N.C.E.](https://open.spotify.com/track/2mhRsvVVfukHWklTrRpnCB) | [Superlover](https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO) | [D.A.N.C.E.](https://open.spotify.com/album/0qaub7PZVrrkzZ0A99YsAn) | 4:35 | 2022-04-14 | 2023-05-11 |
 | [Da Bump](https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI) | [Da Bump](https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y) | 3:25 | 2024-03-04 | 2024-12-27 |
@@ -443,7 +444,7 @@
 | [Pick Up](https://open.spotify.com/track/3FKMngtZtIZCNKYexhGrVD) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up](https://open.spotify.com/album/1jIpoJDNdPF0LPM11T402r) | 6:38 | 2022-04-28 | 2022-11-19 |
 | [Pick Up The Pieces](https://open.spotify.com/track/0AFWgdVAOq0hG0hYhzclhN) | [Doche](https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf) | [Pick Up The Pieces](https://open.spotify.com/album/6jE9BNnlGqQjJ9DZIXXxkf) | 2:09 | 2024-04-13 | 2025-03-21 |
 | [Planet Blue](https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Planet Blue](https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL) | 2:55 | 2024-06-13 | 2025-06-06 |
-| [Please Take Me There \- Makèz Vocal House Remix](https://open.spotify.com/track/0mQ5l1WmiMaKe9zpIaerT3) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Please Take Me There \(Makèz Vocal House Remix\)](https://open.spotify.com/album/1tW7wKo1lhGI6tHcql8hxM) | 6:28 | 2024-09-12 |  |
+| [Please Take Me There \- Makèz Vocal House Remix](https://open.spotify.com/track/0mQ5l1WmiMaKe9zpIaerT3) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Please Take Me There \(Makèz Vocal House Remix\)](https://open.spotify.com/album/1tW7wKo1lhGI6tHcql8hxM) | 6:28 | 2024-09-12 | 2025-07-05 |
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-08-17 | 2024-03-26 |
 | [PRAY](https://open.spotify.com/track/2yfBO8K26U04vEP8vHrqgE) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK), [SABRI](https://open.spotify.com/artist/79fc2VCR2SzS8evACaiaSv) | [PRAY](https://open.spotify.com/album/6cMdeBfnyXRCcJWx80653Y) | 3:14 | 2022-04-14 | 2022-06-04 |
 | [PRETTY GIRLS \- Vlado Remix](https://open.spotify.com/track/0xvhUdemWOAJvgCqFHmGPe) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [PRETTY GIRLS REMIX PACK](https://open.spotify.com/album/4om3l500T8dDkqfZ0mvaRR) | 2:41 | 2024-07-22 | 2024-09-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Mt\. Nadir
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,294 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,302 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 29 | [Bangalang](https://open.spotify.com/track/27lrXtK8mDFsmQrcatZ71E) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Bangalang](https://open.spotify.com/album/30C5X5Vvltbe6Wt1DAawEi) | 2:45 |
 | 30 | [Inside Your Hive](https://open.spotify.com/track/3idwfbtll9HLhsh6anzIbE) | [The Terrifying Lows](https://open.spotify.com/artist/2odl8Ay49sxEdUJFJZzgNe) | [Inside Your Hive](https://open.spotify.com/album/7CMPAWZcUF0ShZUVHu5lUV) | 3:27 |
 | 31 | [Melbourne](https://open.spotify.com/track/2Q3BtNb5yUG3UHCZzFpfKN) | [Civic Video](https://open.spotify.com/artist/4LqvJqOgRVKAnZVI77gxaY) | [Melbourne](https://open.spotify.com/album/59mVugNGjNFosOigVRHk5S) | 3:32 |
-| 32 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear as Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
+| 32 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear As Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
 | 33 | [weak tolerance](https://open.spotify.com/track/5j1SW500X3s1fTFtm0BK7p) | [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [high again](https://open.spotify.com/album/1u3GyFOtmZB4qDmIddrxZU) | 2:42 |
 | 34 | [Take a Hint](https://open.spotify.com/track/0bksF1HHyZoTyQhr6Iwxlz) | [Brenda](https://open.spotify.com/artist/23RhOy5XOmw1fwsStJOvX1) | [Take a Hint](https://open.spotify.com/album/1lIQU0czDbxrUFe9I0bR2n) | 3:06 |
 | 35 | [ANGEL](https://open.spotify.com/track/5Kk8AiJSxdhT5nflK8l4oE) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [ANGEL](https://open.spotify.com/album/6OGMwoSKdKLbTfKfaAGkaV) | 2:40 |

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Say Sue Me \(South Korea\)
 
-2,052 songs - 5 day 4 hr 4 min
+2,053 songs - 5 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1666,7 +1666,7 @@
 | [too](https://open.spotify.com/track/6iPlmyUFvWUXQaNVebuW3k) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [too](https://open.spotify.com/album/3x0EHZBaDF3dFpGQVtDGEZ) | 2:20 | 2024-04-04 | 2024-04-26 |
 | [Too Far](https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Too Far](https://open.spotify.com/album/5uekioXuMtE3YiBbMscBQu) | 3:31 | 2022-09-22 | 2022-10-07 |
 | [Too Late](https://open.spotify.com/track/4VJFOkdwi8nYRYLcmBnW8W) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Too Late](https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj) | 3:06 | 2024-04-25 | 2024-06-22 |
-| [Topstar \- Japanese version, 2025](https://open.spotify.com/track/2hhc0gFJSmCYnb6nhguU0q) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Topstar \(Japanese version, 2025\)](https://open.spotify.com/album/5InulreJjfpZkaMBHBJ5EB) | 3:26 | 2025-06-19 |  |
+| [Topstar \- Japanese version, 2025](https://open.spotify.com/track/2hhc0gFJSmCYnb6nhguU0q) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Topstar \(Japanese version, 2025\)](https://open.spotify.com/album/5InulreJjfpZkaMBHBJ5EB) | 3:26 | 2025-06-19 | 2025-07-05 |
 | [Tori 2022](https://open.spotify.com/track/1e645b1filW7ajQi19fc5S) | [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Tori 2022](https://open.spotify.com/album/4PPV8jiPVXJdyVjSCjXEb7) | 4:59 | 2022-06-30 | 2022-08-26 |
 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 | 2025-05-15 | 2025-07-04 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-27 | 2023-10-15 |
@@ -1942,6 +1942,7 @@
 | [メビウス](https://open.spotify.com/track/4xrZ0pYCSyHm8OxB6GhjKh) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [メビウス](https://open.spotify.com/album/1M7OMt0g8q5YIgCLpBMmLz) | 3:34 | 2022-11-10 | 2022-11-18 |
 | [リトライ](https://open.spotify.com/track/4v5yPMmyTpEQ006Uocw2qn) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [リトライ](https://open.spotify.com/album/2r5jWn7s25JwggSObjpLOH) | 4:04 | 2024-09-12 | 2024-10-04 |
 | [一個眼神](https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [一個眼神](https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu) | 2:57 | 2024-02-08 | 2025-03-28 |
+| [上溫柔的所在](https://open.spotify.com/track/5anyAL7W4RnP2gSzG4iV3J) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [上溫柔的所在](https://open.spotify.com/album/22I5StrrqzSEpktjLHAZjd) | 3:15 | 2025-07-04 |  |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-08-05 |
 | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/album/4dFxr1czYW41LhmWo6LbRg) | 3:29 | 2022-04-21 | 2022-05-13 |
 | [二都夜想曲](https://open.spotify.com/track/1nMnEUTOhfDUsLpyrmc1r2) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [二都夜想曲](https://open.spotify.com/album/19mx3ysGi9Xdd0HiyFXFL2) | 4:09 | 2025-06-12 |  |

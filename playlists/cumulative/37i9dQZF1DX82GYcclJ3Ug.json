@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. The best new alternative tracks. Cover: late night drive home",
+  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Of Monsters and Men",
   "name": "The New Alt",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 131783,
       "name": "26",
       "url": "https://open.spotify.com/track/5g9l6lC7v2Z7OpXIztsJII"
@@ -6064,7 +6064,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 185160,
       "name": "Blurry Lights (with Albert Hammond Jr)",
       "url": "https://open.spotify.com/track/4nL1lfpCtPPdfiH4REUd4V"
@@ -7656,7 +7656,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 243203,
       "name": "Can we talk about Isaac?",
       "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
@@ -8218,7 +8218,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 188514,
       "name": "catch these fists",
       "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
@@ -10255,6 +10255,24 @@
     },
     {
       "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "album": {
         "name": "Cruel Power",
         "url": "https://open.spotify.com/album/746g6zfxXomYXr5FeF44Ph"
       },
@@ -10808,6 +10826,24 @@
       "duration_ms": 168537,
       "name": "Damn Shame",
       "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
+    },
+    {
+      "album": {
+        "name": "dance around it",
+        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145760,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
     },
     {
       "album": {
@@ -17125,6 +17161,24 @@
     },
     {
       "album": {
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
+    },
+    {
+      "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO"
       },
@@ -18364,7 +18418,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 184040,
       "name": "Gold Star Sticker",
       "url": "https://open.spotify.com/track/29blWeEpVWLTBeeJlGpfdM"
@@ -19560,6 +19614,24 @@
       "duration_ms": 178346,
       "name": "Harder to Kill",
       "url": "https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz"
+    },
+    {
+      "album": {
+        "name": "Hate Goodbyes",
+        "url": "https://open.spotify.com/album/07w74aZOr10AawZOJND2BY"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Hate Goodbyes",
+      "url": "https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl"
     },
     {
       "album": {
@@ -21154,6 +21226,24 @@
       "duration_ms": 178215,
       "name": "Homesick Honeybee - Edit",
       "url": "https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/4BTHoodeoCBEsYHD9DrTgW"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218066,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/3GZwRP4WxeKomaDxggYmru"
     },
     {
       "album": {
@@ -27004,7 +27094,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 159000,
       "name": "Livin' Wrong",
       "url": "https://open.spotify.com/track/6NGlYe5ONZL7ia5UgBHDbK"
@@ -27250,7 +27340,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
@@ -28330,6 +28420,24 @@
       "duration_ms": 218800,
       "name": "Mad At Me",
       "url": "https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4"
+    },
+    {
+      "album": {
+        "name": "Made Up My Mind",
+        "url": "https://open.spotify.com/album/7f6qE7J0OPKOWV3yklDvrH"
+      },
+      "artists": [
+        {
+          "name": "Coral Moons",
+          "url": "https://open.spotify.com/artist/1e1BtFMq0maJJM8Hjk2Myu"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "Made Up My Mind",
+      "url": "https://open.spotify.com/track/4plmxRZ8iteJa14MCdiokR"
     },
     {
       "album": {
@@ -29434,6 +29542,24 @@
       "duration_ms": 278460,
       "name": "Mindless Creatures",
       "url": "https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/19GjD1CuUyQ2kdhhYXzS8C"
+      },
+      "artists": [
+        {
+          "name": "DOUBLECAMP",
+          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139813,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1Gjv4SfzLSRidC7dT76jnU"
     },
     {
       "album": {
@@ -31334,7 +31460,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 235106,
       "name": "No Love",
       "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
@@ -31978,6 +32104,24 @@
       "duration_ms": 185319,
       "name": "nothing (in my head)",
       "url": "https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX"
+    },
+    {
+      "album": {
+        "name": "Nothing belongs to you.",
+        "url": "https://open.spotify.com/album/5epKNd0J5ywxBAoRFqUeQ2"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131181,
+      "name": "Nothing belongs to you.",
+      "url": "https://open.spotify.com/track/3wKHSmepybM8AaflkueKZm"
     },
     {
       "album": {
@@ -36044,7 +36188,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 219691,
       "name": "R U Happy Now",
       "url": "https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV"
@@ -41539,6 +41683,28 @@
     },
     {
       "album": {
+        "name": "Sound Of You Laughing",
+        "url": "https://open.spotify.com/album/3X2bsooL9iL5ffE88zxjDI"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        },
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170764,
+      "name": "Sound Of You Laughing",
+      "url": "https://open.spotify.com/track/7jwXdNgy5fOnPiXQJAaZtd"
+    },
+    {
+      "album": {
         "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
         "url": "https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK"
       },
@@ -42380,7 +42546,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 240399,
       "name": "Step Into The Sun",
       "url": "https://open.spotify.com/track/0V97fTBQ3DAQ9kuiceg02D"
@@ -44435,6 +44601,24 @@
     },
     {
       "album": {
+        "name": "Television Love",
+        "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280800,
+      "name": "Television Love",
+      "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
+    },
+    {
+      "album": {
         "name": "Tell Me I\u2019m Alive",
         "url": "https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu"
       },
@@ -44814,7 +44998,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 328052,
       "name": "The Catastrophe (Good Luck With That, Man)",
       "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
@@ -45942,6 +46126,24 @@
       "duration_ms": 210417,
       "name": "The Worst Person Alive",
       "url": "https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa"
+    },
+    {
+      "album": {
+        "name": "The Yips",
+        "url": "https://open.spotify.com/album/5hVeHAg3m0MkeW3j2vriOn"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326693,
+      "name": "The Yips",
+      "url": "https://open.spotify.com/track/2WgRH4OJTplHvuYsEEaNKB"
     },
     {
       "album": {
@@ -50824,7 +51026,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 137878,
       "name": "when my wings are cut off",
       "url": "https://open.spotify.com/track/4FLzbyklBSxPgU1PW82UUj"

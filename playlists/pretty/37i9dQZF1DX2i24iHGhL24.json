@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Ed Sheeran",
-  "num_followers": 208233,
+  "num_followers": 208388,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuiYAAAAABwiEFdTmnwzGzdblSRyawp",
+  "snapshot_id": "aGdR0AAAAACIvh6JeZkMwmni6nmUdeD0",
   "tracks": [
     {
       "added_at": "2025-06-08 20:02:07",
@@ -39,6 +39,22 @@
       "duration_ms": 241776,
       "name": "You'll Be In My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/5DEY9Qk83emaFTuOzRXf2B"
+      },
+      "artists": [
+        {
+          "name": "Honey.",
+          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
+        }
+      ],
+      "duration_ms": 180524,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/0ci8M8VddctT9sehCbxn4R"
     },
     {
       "added_at": "2025-06-08 20:02:07",
@@ -843,22 +859,6 @@
       "duration_ms": 177857,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
-    },
-    {
-      "added_at": "2025-06-08 20:02:07",
-      "album": {
-        "name": "God Is A Woman (Yours Truly: 2018)",
-        "url": "https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "God Is A Woman - Yours Truly: 2018",
-      "url": "https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S"
     },
     {
       "added_at": "2025-06-08 20:02:07",

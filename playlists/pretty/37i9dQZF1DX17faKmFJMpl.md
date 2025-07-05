@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,621 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,625 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 21 | [the real thing \(For The Club\)\(feat\. Shin Ji Sun\)](https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 3:39 |
 | 22 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 |
 | 23 | [The Movement](https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:47 |
-| 24 | [나는나뻐](https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 3:38 |
+| 24 | [탄띠](https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 3:08 |
 | 25 | [훔쳐 Rob It \(feat\. Double K\)](https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:42 |
 | 26 | [Whistle](https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:57 |
 | 27 | [Three Pirates \(Feat\. YDG\)](https://open.spotify.com/track/3SpidEKQSR7EqL6qA0ueny) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:32 |
 | 28 | [Airplane Music \(feat\. Basick, Rimi, Beenzino, Fana & San E\)](https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Rimi](https://open.spotify.com/artist/3nBsP6ABBDVgzFFOCyL3vG), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 4:12 |
-| 29 | [탄띠](https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 3:08 |
+| 29 | [나는나뻐](https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 3:38 |
 | 30 | [피해망상 Pt.3 \(with TBNY\)](https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:56 |
-| 31 | [Black Diamond](https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 3:50 |
-| 32 | [Movement Ⅲ](https://open.spotify.com/track/5j4ZSzlf2kcP3gxs6bIVlf) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 4:27 |
+| 31 | [Movement Ⅲ](https://open.spotify.com/track/5j4ZSzlf2kcP3gxs6bIVlf) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 4:27 |
+| 32 | [Black Diamond](https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 3:50 |
 | 33 | [뛰어가 Run \(feat\. Tiger JK & Jinbo\)](https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 3:55 |
 | 34 | [Run](https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Mirror \(28 Look at Youth\)](https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t) | 4:59 |
 | 35 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |

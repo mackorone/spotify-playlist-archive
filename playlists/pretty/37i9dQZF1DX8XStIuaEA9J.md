@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 優里
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,651 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,742 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 41 | [GATAGOTO](https://open.spotify.com/track/3HxxasFDrg4lj13UfC53NC) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [GATAGOTO](https://open.spotify.com/album/4rExJyX7pws0XYxYONhYZi) | 3:09 |
 | 42 | [Risk Your \(feat\. Bonbero\)](https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Risk Your \(feat\. Bonbero\)](https://open.spotify.com/album/5Vne7FdSPUYxOo2uDzWNPw) | 2:34 |
 | 43 | [golazo](https://open.spotify.com/track/75fAqyp6waHPob25OwjK1J) | [oops cool](https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE) | [golazo](https://open.spotify.com/album/0Zr3eI2FCwpvwfUI96UPZx) | 2:45 |
-| 44 | [Turinig Point](https://open.spotify.com/track/7CVjLrdRkzT74i9xPvRrKu) | [Natural Lag](https://open.spotify.com/artist/56imRTaCuJwSxQDveltEVU) | [Natural Lag Best Album \-Turning Point\-](https://open.spotify.com/album/44tIPey3DyaCGcyFVIPoyM) | 5:04 |
+| 44 | [Turning Point](https://open.spotify.com/track/7CVjLrdRkzT74i9xPvRrKu) | [Natural Lag](https://open.spotify.com/artist/56imRTaCuJwSxQDveltEVU) | [Natural Lag Best Album \-Turning Point\-](https://open.spotify.com/album/44tIPey3DyaCGcyFVIPoyM) | 5:04 |
 | 45 | [青空](https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [青空](https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER) | 3:58 |
 | 46 | [静かな海](https://open.spotify.com/track/4RsxhU19U6jRW5tVzrErj3) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [静かな海](https://open.spotify.com/album/5et1oYcFEQh4l8SBj3bMky) | 3:05 |
 | 47 | [KAGEROU](https://open.spotify.com/track/55BserbXWxRpQNONiaBhjp) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Pulsatilla cernua](https://open.spotify.com/album/3o7lBZIpr8OQZx8DMJgnOk) | 5:04 |

@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Lupe De Lupe
 
-543 songs - 1 day 6 hr 14 min
+545 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [N Era Amor \- Ao Vivo](https://open.spotify.com/track/31JMvaH6IbiOnS4CDq8f9l) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [N Era Amor \(Ao Vivo\)](https://open.spotify.com/album/0C2l6dhX4Pk0pTjviqso4W) | 3:20 | 2025-02-14 | 2025-03-08 |
 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 | 2024-11-22 | 2025-04-12 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
+| [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F) | 3:27 | 2025-07-04 |  |
 | [Nada de nós dois](https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Nada de nós dois](https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW) | 3:21 | 2024-05-03 | 2024-10-12 |
 | [Nada Igual](https://open.spotify.com/track/2owCS5OAuswj40Xyh4vOvx) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Nada Igual](https://open.spotify.com/album/0KdEgS8WCnNqByArEtyxVR) | 2:41 | 2025-02-21 |  |
 | [Nada Se Compara](https://open.spotify.com/track/6a7Gp9ZZxJPS5fbt5AOnX3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:16 | 2023-11-24 | 2023-12-09 |
@@ -451,6 +452,7 @@
 | [Scar \(Bleach 2022: Thousand Year Blood War Opening\)](https://open.spotify.com/track/1ZrHlCsZIFOWs5sR3TNmZV) | [Tiago Pereira](https://open.spotify.com/artist/5TXdEVFkEfQC3ROyrdAi1B), [Ron Rocker](https://open.spotify.com/artist/34hNltVzhJpKddFA22ix1T) | [Scar \(Bleach 2022: Thousand Year Blood War Opening\)](https://open.spotify.com/album/0vNU3XWB9ROik9vx3BIuEc) | 1:31 | 2022-09-23 | 2022-10-29 |
 | [Se Divertir](https://open.spotify.com/track/0SlGvj1SPXarziNUdQpOcD) | [Terra Celta](https://open.spotify.com/artist/2DBsooS9qDY79dtnqMBRuF) | [Se Divertir](https://open.spotify.com/album/6lrWb8lGht50fWq6PbHDo9) | 6:13 | 2022-03-18 | 2022-03-26 |
 | [Se Lembrar de Mim](https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Se Lembrar de Mim](https://open.spotify.com/album/4ow3axuDmPUKCnUXH3imuM) | 3:09 | 2022-04-29 | 2022-05-14 |
+| [Se Nosso Nome Fosse Um Verbo \(Canibalismo Como Forma de Amor\)](https://open.spotify.com/track/3KxipU1Yi6wRpI8h9NvdEU) | [Lupe De Lupe](https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR), [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Ricardo De Carli](https://open.spotify.com/artist/56xLp8CvZ6aJ6HChFsynWD) | [Amor](https://open.spotify.com/album/31cdOaeEbzQO8yLI8w8xip) | 12:16 | 2025-07-04 |  |
 | [Seja Quem Você Quiser](https://open.spotify.com/track/1uMkN9lKqPE2HymaAM0IVm) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO) | [Seja Quem Você Quiser](https://open.spotify.com/album/0TFiaL4ItKp7ELM5Jo7GAT) | 3:57 | 2024-04-05 |  |
 | [Seleção Natural](https://open.spotify.com/track/7rqlfTEYb189hzMLm4PN3y) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Seleção Natural](https://open.spotify.com/album/47hOPiDMmvkefR8GS02HaZ) | 2:50 | 2025-04-05 |  |
 | [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 | 2022-05-20 | 2022-08-02 |
@@ -474,7 +476,7 @@
 | [Supla Zombie](https://open.spotify.com/track/2bSv2939o5oeCJKevJz9PZ) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla Zombie](https://open.spotify.com/album/2eVJMjdV7HAYhmrdvNIHZY) | 2:34 | 2022-11-18 | 2022-11-26 |
 | [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 | 2022-01-21 | 2023-04-22 |
 | [sussurro](https://open.spotify.com/track/2duAOylqzXoGG7jCoiAQAE) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [sussurro](https://open.spotify.com/album/7z64AGT9ArbmI8VCwSMoG2) | 2:40 | 2022-10-28 | 2022-11-12 |
-| [SÍNDROME](https://open.spotify.com/track/7zokcBQvRtGAAEpCBPuWgp) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDROME](https://open.spotify.com/album/6JT8tYN9ARTzeSkHyLbe8y) | 3:03 | 2024-08-09 |  |
+| [SÍNDROME](https://open.spotify.com/track/7zokcBQvRtGAAEpCBPuWgp) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDROME](https://open.spotify.com/album/6JT8tYN9ARTzeSkHyLbe8y) | 3:03 | 2024-08-09 | 2025-07-05 |
 | [Só Chamar](https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Só Chamar](https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96) | 2:58 | 2022-07-01 | 2023-02-11 |
 | [Só Mais Essa Noite](https://open.spotify.com/track/7KI90ezWkHeTmhQ8qZWb8x) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Só Mais Essa Noite](https://open.spotify.com/album/0lbFykuNne4AWnWmNiLsHK) | 3:05 | 2023-04-28 | 2024-07-19 |
 | [Só Rezo \- Ao Vivo](https://open.spotify.com/track/2Iq5ySiuuWu8E00Pee22Rb) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Só Rezo \(Ao Vivo\)](https://open.spotify.com/album/5XiMlXl3eURkSVUdxydgwB) | 3:40 | 2024-07-12 |  |

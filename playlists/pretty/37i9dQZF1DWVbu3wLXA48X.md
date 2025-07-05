@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Hitsujibungaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,291 likes - 87 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,324 likes - 87 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

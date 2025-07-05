@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Durand Jones & The Indications",
-  "num_followers": 366469,
+  "num_followers": 366534,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XWwAAAAC84T69N3bjJ9G1eBVdv4Tf",
+  "snapshot_id": "aGdR0wAAAAAbbrTiDQE9YokuO0gDA4KB",
   "tracks": [
     {
       "added_at": "2025-06-27 04:00:27",
@@ -59,6 +59,26 @@
       "duration_ms": 218271,
       "name": "Shine Delight",
       "url": "https://open.spotify.com/track/50WXXxu0bmhZiZFnLjMVy6"
+    },
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        },
+        {
+          "name": "Jeremy Page",
+          "url": "https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2"
+        }
+      ],
+      "duration_ms": 180996,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl"
     },
     {
       "added_at": "2025-06-27 04:00:27",
@@ -1023,26 +1043,6 @@
       "duration_ms": 173203,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "All I Ever Wonder",
-        "url": "https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Burgos",
-          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
-        },
-        {
-          "name": "Jeremy Page",
-          "url": "https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp"
     },
     {
       "added_at": "2024-07-19 04:00:00",

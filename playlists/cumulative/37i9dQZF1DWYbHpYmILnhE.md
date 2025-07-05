@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: EESKAY
 
-107 songs - 4 hr 51 min
+108 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,10 +58,11 @@
 | [Lekki Epe](https://open.spotify.com/track/5VlSv8D8JRgfI520fkh546) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Drillionaire](https://open.spotify.com/album/0fShBKWgKfk9uA3Xcjm0bm) | 3:53 | 2024-06-28 |  |
 | [LET ME BE](https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MELÖVIA](https://open.spotify.com/album/43l2ygGjBGaT1sN7uZBJ74) | 2:29 | 2025-05-30 | 2025-06-28 |
 | [Let's Party](https://open.spotify.com/track/2EEsWQes5RpgM4aniEZgDt) | [Ashley CKS](https://open.spotify.com/artist/11OLVJLmhgoDnXFXSIqW3u), [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n) | [Let's Party](https://open.spotify.com/album/04xEkOzeh96Yblx4TDyi6f) | 2:29 | 2025-03-31 | 2025-05-09 |
-| [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 | 2024-11-22 |  |
+| [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 | 2024-11-22 | 2025-07-05 |
 | [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 | 2024-09-09 |  |
 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:33 | 2025-06-27 |  |
 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 | 2024-06-28 |  |
+| [Mind](https://open.spotify.com/track/0316jWRhPNYKfqCxMV9Ego) | [TMZY](https://open.spotify.com/artist/4Ubjf7E3q6rlWl8YgsYL5f) | [Money Over Love](https://open.spotify.com/album/1PEWut6FV5W0K6XUUVE61W) | 2:14 | 2025-07-04 |  |
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2024-06-28 | 2024-11-23 |
 | [My Pay](https://open.spotify.com/track/5xueuFvb4dGDVYw9kq7zbG) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [My Pay](https://open.spotify.com/album/1gurjO2yqQooB6khYfQAs8) | 2:45 | 2025-03-31 | 2025-05-30 |
 | [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 | 2024-08-25 |  |

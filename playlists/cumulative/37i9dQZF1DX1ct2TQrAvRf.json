@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "At Peace",
+      "url": "https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41"
+    },
+    {
+      "album": {
         "name": "Attach",
         "url": "https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV"
       },
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 154666,
       "name": "Gaadi 150",
       "url": "https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2"
@@ -2210,7 +2232,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 176551,
       "name": "Ghane Gande",
       "url": "https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6"
@@ -2827,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Jatt Nahi Dekhya",
+        "url": "https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Hukam",
+          "url": "https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Jatt Nahi Dekhya",
+      "url": "https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i"
+    },
+    {
+      "album": {
         "name": "Jeelo Jeelo",
         "url": "https://open.spotify.com/album/2VyHMIzG8NH8sCszrfgqoR"
       },
@@ -2968,6 +3012,24 @@
       "duration_ms": 182068,
       "name": "Junor Kotha",
       "url": "https://open.spotify.com/track/04SBqjNpWc1h37AAAHSU3A"
+    },
+    {
+      "album": {
+        "name": "Kaali Kaali Aankhein",
+        "url": "https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206015,
+      "name": "Kaali Kaali Aankhein",
+      "url": "https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU"
     },
     {
       "album": {
@@ -3867,6 +3929,32 @@
     },
     {
       "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/3f7hO9sBGmDzaHN2xUvoOB"
+      },
+      "artists": [
+        {
+          "name": "Nickox",
+          "url": "https://open.spotify.com/artist/0RYqUJYH3wtrv3YjOMR7o4"
+        },
+        {
+          "name": "D Hell",
+          "url": "https://open.spotify.com/artist/3ZKnyiq5ueImGm0JvCf9cD"
+        },
+        {
+          "name": "Young Jeric",
+          "url": "https://open.spotify.com/artist/2IYRiLP6g7vz3jTdiDKmXF"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203297,
+      "name": "Mafia",
+      "url": "https://open.spotify.com/track/7uynQTQcY6cG3C4FvLdCa6"
+    },
+    {
+      "album": {
         "name": "Maharani",
         "url": "https://open.spotify.com/album/6da96K6wuRyf61We22UBPe"
       },
@@ -4566,7 +4654,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 186000,
       "name": "Paisa Paisa",
       "url": "https://open.spotify.com/track/5Yyi121XIsVNEfCHcHFbcG"
@@ -4930,7 +5018,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 126000,
       "name": "Rail",
       "url": "https://open.spotify.com/track/6z2XnVsRqnGUoyNQMNOwax"
@@ -5375,6 +5463,28 @@
     },
     {
       "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/4TiLunEJxE8k1cZBhxj5ea"
+      },
+      "artists": [
+        {
+          "name": "Kim The Beloved",
+          "url": "https://open.spotify.com/artist/2lXkftiHxP34fKQl8W6hCC"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6esAptCMkyEwYxdDAnD03c"
+    },
+    {
+      "album": {
         "name": "Shana Bann",
         "url": "https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn"
       },
@@ -5754,7 +5864,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 216000,
       "name": "Take Notes",
       "url": "https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF"

@@ -2,7 +2,7 @@
 
 ### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
-> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Dr\. Prinz and Chizie
+> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Kaestrings
 
 551 songs - 2 day 3 hr 25 min
 

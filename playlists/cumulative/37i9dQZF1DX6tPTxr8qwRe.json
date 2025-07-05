@@ -7473,6 +7473,28 @@
     },
     {
       "album": {
+        "name": "I Like You Best (Cloud 9 Version)",
+        "url": "https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        },
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168061,
+      "name": "I Like You Best - Cloud 9 Version",
+      "url": "https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F"
+    },
+    {
+      "album": {
         "name": "I Love You But I Love Me More (feat. Beach Bunny)",
         "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
       },
@@ -7686,7 +7708,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 149026,
       "name": "I'll be the death of us",
       "url": "https://open.spotify.com/track/79OhK3B4zt8VwEe2wfnGw3"
@@ -9414,7 +9436,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 160588,
       "name": "made you cry",
       "url": "https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ"
@@ -15506,6 +15528,24 @@
       "duration_ms": 173105,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
+    },
+    {
+      "album": {
+        "name": "Under the Weather (All My Friends)",
+        "url": "https://open.spotify.com/album/4DvmWD9tbBc1mNEAntkAK6"
+      },
+      "artists": [
+        {
+          "name": "Earth to Cheska",
+          "url": "https://open.spotify.com/artist/3TRw8bb0v7cKloPTYnadsi"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192883,
+      "name": "Under the Weather (All My Friends)",
+      "url": "https://open.spotify.com/track/0YpMFsNV3reblFvpLpD48W"
     },
     {
       "album": {

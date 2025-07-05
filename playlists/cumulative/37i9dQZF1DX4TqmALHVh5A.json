@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Barbet",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Barbet",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "I Can Do Anything",
+        "url": "https://open.spotify.com/album/3fO9QNSdwsOdwiYOukKm98"
+      },
+      "artists": [
+        {
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190583,
+      "name": "I Can Do Anything",
+      "url": "https://open.spotify.com/track/12m7YgRtLVk18cYlu0ebbo"
+    },
+    {
+      "album": {
         "name": "I'm A Mess",
         "url": "https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M"
       },
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 216299,
       "name": "Les Gens Qui Dansent (j'adore)",
       "url": "https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us"

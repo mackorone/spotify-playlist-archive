@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ezhel ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,142 likes - 95 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,066 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 18 | [Hastayım Sana](https://open.spotify.com/track/09FMNa4qSeb7klkBoGRvp9) | [Gökçe](https://open.spotify.com/artist/6EkoCL5oWSht8mekRNBWAn) | [Hastayım Sana](https://open.spotify.com/album/5E0yLpLM9ZfbqbKDzlzTHc) | 2:40 |
 | 19 | [İLGİLENDİRMEZ](https://open.spotify.com/track/55osY1QWYD7cdMY8nShJnH) | [kefo](https://open.spotify.com/artist/0Z3JwMejHZc82MMubb3iPE) | [İLGİLENDİRMEZ](https://open.spotify.com/album/1xWeVIg2dX8q0XyTJ8Fgcg) | 2:19 |
 | 20 | [Nerelerdeydin](https://open.spotify.com/track/0PeO8BsAYRttaPUfrTG5hL) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb) | [Nerelerdeydin](https://open.spotify.com/album/32PtgfJElPmDzrHsIFLaJu) | 2:06 |
-| 21 | [Gezegen gibi çevrende](https://open.spotify.com/track/579tFyar3U2srsIlNLOBgm) | [TNK](https://open.spotify.com/artist/4EJYpvhyY4gO4rjEeitXLa), [Umut Er](https://open.spotify.com/artist/2dIg9NWnGgv2XFcXcdEMDp), [Caner Karamukluoğlu \(TNK\)](https://open.spotify.com/artist/2YEZa6HxYiPxIwEr70ph4F) | [Gezegen gibi çevrende](https://open.spotify.com/album/5xjeRtzugbV3i5UbaRHsdP) | 3:07 |
+| 21 | [Gezegen gibi çevrende](https://open.spotify.com/track/579tFyar3U2srsIlNLOBgm) | [TNK](https://open.spotify.com/artist/4EJYpvhyY4gO4rjEeitXLa) | [Gezegen gibi çevrende](https://open.spotify.com/album/5xjeRtzugbV3i5UbaRHsdP) | 3:07 |
 | 22 | [Zalim \- \(30\. Yıl Senfonik\) \- Hierapolis Live](https://open.spotify.com/track/7apYlqIOHFC7S8M8HSPi44) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [30\. Yıl Senfonik \(Live\)](https://open.spotify.com/album/20LxktQAraL7iO1RJchnFZ) | 5:49 |
 | 23 | [Rüzgar](https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Rüzgar](https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg) | 5:57 |
 | 24 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |

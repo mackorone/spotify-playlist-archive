@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈 Luchè in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,833 likes - 57 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,869 likes - 57 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 56 | [Icon](https://open.spotify.com/track/6TeSZw2Wo3sdpzAFK8N12r) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [ICON](https://open.spotify.com/album/2HNhkXshIPcTAULh837n69) | 2:59 |
 | 57 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 |
 
-Snapshot ID: `aGb9sgAAAAD8xTMKHPkevjxBgS2azodM`
+Snapshot ID: `aGeCeQAAAABprbjMGvh5T+Gj6zYIb7YN`

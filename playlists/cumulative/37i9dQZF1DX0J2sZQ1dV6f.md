@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Los Esquivel & Tian Glez
+> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Plan de Escape, Fend
 
-516 songs - 1 day 2 hr 31 min
+518 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Baila Baila Baila](https://open.spotify.com/track/7uH27oIt4a6cIFCA8ZPcyG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Baila Baila Baila](https://open.spotify.com/album/6xQurnsfSvF3hQwU5EIqB8) | 2:38 | 2022-04-19 | 2022-07-09 |
 | [Baile Muerto](https://open.spotify.com/track/433tx8JIv1VDz6LgTefzgk) | [Papá Kumbé](https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK), [DVTTY](https://open.spotify.com/artist/7KfMurt9HFz4Kbt8rSuYO1) | [CUCHO](https://open.spotify.com/album/5cBGii19CFUjRrAagQ8aBI) | 2:37 | 2022-03-21 | 2022-04-20 |
 | [Baja](https://open.spotify.com/track/0ZqOX97C7KnilyWo1ljzZ4) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Baja](https://open.spotify.com/album/77vo9DDNZ9uYym1opTF8yE) | 3:23 | 2022-03-21 | 2022-04-20 |
+| [Balmain](https://open.spotify.com/track/5QzfjBCJANNSd53FDHAWse) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Balmain](https://open.spotify.com/album/5z8PF25HtlCIPgfzSLfVsP) | 2:20 | 2025-07-04 |  |
 | [BANDIDA](https://open.spotify.com/track/3iecNdnfVdLoGCoBG2wmaT) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [BANDIDA](https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb) | 3:49 | 2023-07-07 | 2023-12-07 |
 | [Be Con Be](https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Be Con Be](https://open.spotify.com/album/1ATLAeJxPEB9aqqNGO5JgL) | 2:36 | 2023-05-25 | 2023-12-07 |
 | [Bebe](https://open.spotify.com/track/05W92LIxRmVB22B3jvY8DL) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Bebe](https://open.spotify.com/album/0pVYUAr6htgh45nWWlhTNW) | 3:04 | 2022-03-21 | 2022-04-20 |
@@ -293,7 +294,7 @@
 | [Me Muero](https://open.spotify.com/track/1j5TURkDjZRUSEp3ZUk17D) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Me Muero](https://open.spotify.com/album/4Reu7Thhx2CPhUxAy00jjA) | 2:49 | 2023-04-03 | 2023-05-26 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-11 | 2023-05-26 |
 | [Me Visto Caro](https://open.spotify.com/track/5U2eK2ahgNG5l8ebm0et8C) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Adiamantado](https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6) | 3:04 | 2025-05-09 |  |
-| [Me Visto Caro](https://open.spotify.com/track/5FdXe6NQbBl7lQ50RcS20i) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Me Visto Caro](https://open.spotify.com/album/7em6dhgWU8RyW5yq20s7F1) | 3:04 | 2024-03-01 |  |
+| [Me Visto Caro](https://open.spotify.com/track/5FdXe6NQbBl7lQ50RcS20i) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Me Visto Caro](https://open.spotify.com/album/7em6dhgWU8RyW5yq20s7F1) | 3:04 | 2024-03-01 | 2025-07-05 |
 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2023-05-25 | 2023-12-07 |
 | [Medallo](https://open.spotify.com/track/61yKsmCUsKARUnrzjZI8dG) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Medallo](https://open.spotify.com/album/37lSst2Lo5vOBnAafsNfB5) | 2:56 | 2022-07-08 | 2022-12-13 |
 | [Melo](https://open.spotify.com/track/4ebqXIKgRTn0z0h1rTnBc8) | [Bebo & Deluxx](https://open.spotify.com/artist/0zooY90x77JepDmoCJriwQ) | [Melo](https://open.spotify.com/album/1KhTTrm1rRmxSuKPb5tKcn) | 2:43 | 2022-07-08 | 2022-07-22 |
@@ -321,6 +322,7 @@
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2024-02-21 |  |
 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 | 2022-03-21 | 2022-07-09 |
 | [NICKI MINAJ](https://open.spotify.com/track/3r9iDnNEiqg7nZxQYc0FY0) | [Tony Espinoza](https://open.spotify.com/artist/3Vpu7WZUjVtlfpb0102Lwj), [TUNDER](https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ), [Ander Koss](https://open.spotify.com/artist/2myMYalBa9SDq9TTDssRDx) | [NICKI MINAJ](https://open.spotify.com/album/3cqE9z39xnMV2bW4SQsNbU) | 3:04 | 2024-04-12 | 2024-07-13 |
+| [Niña](https://open.spotify.com/track/4OdL91jpKqrQTg0ONo3xUV) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Niña](https://open.spotify.com/album/0uRoDH07L3tAGGguSjwUQS) | 2:43 | 2025-07-04 |  |
 | [No Es Culpa Mía](https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un) | [Betzabeth](https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm) | [Mi Error](https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj) | 3:00 | 2023-06-02 | 2023-12-03 |
 | [No Hay Falla Puro Fire](https://open.spotify.com/track/6w4IGeKLBWTMeTsODLWkfh) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS), [Charly Barraza](https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY) | [No Hay Falla Puro Fire](https://open.spotify.com/album/6IoOtCSEgOIINK8TWumspy) | 3:05 | 2024-01-12 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2022-12-07 | 2023-05-26 |

@@ -1,13 +1,29 @@
 {
-  "description": "a little indie, a little pop.  Cover: 24kGoldn",
-  "num_followers": 227663,
+  "description": "a little indie, a little pop.  Cover: Aidan Bissett",
+  "num_followers": 227695,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGQePwAAAACJ9yrgZEeHcJJMsJm0qXtQ",
+  "snapshot_id": "aGdR4wAAAAD87FDXB3QUoiCaUxQZeIF2",
   "tracks": [
+    {
+      "added_at": "2025-07-04 04:00:35",
+      "album": {
+        "name": "dance around it",
+        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 145760,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
+    },
     {
       "added_at": "2025-06-27 04:00:34",
       "album": {
@@ -23,6 +39,42 @@
       "duration_ms": 201226,
       "name": "June",
       "url": "https://open.spotify.com/track/0cCX9hZfhr138GDXFbTemL"
+    },
+    {
+      "added_at": "2025-07-04 04:00:35",
+      "album": {
+        "name": "End Zone",
+        "url": "https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "ROM COM",
+          "url": "https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg"
+        }
+      ],
+      "duration_ms": 163592,
+      "name": "End Zone",
+      "url": "https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD"
+    },
+    {
+      "added_at": "2025-07-04 04:00:35",
+      "album": {
+        "name": "Jamie",
+        "url": "https://open.spotify.com/album/1arxv6UMCzUYtxzBVXXMx0"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "duration_ms": 213255,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/3KYEnA8hogjKIquhHC0A5X"
     },
     {
       "added_at": "2025-06-27 04:00:34",
@@ -389,22 +441,6 @@
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
-      "added_at": "2025-06-20 04:00:45",
-      "album": {
-        "name": "Cherry Cola",
-        "url": "https://open.spotify.com/album/7gFObQ8QKnyFLQKH5XYyxE"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Cherry Cola",
-      "url": "https://open.spotify.com/track/2ggNs9hrDAnLkBO7DqEx2A"
-    },
-    {
       "added_at": "2025-06-13 04:00:59",
       "album": {
         "name": "The Beginning of Us",
@@ -585,22 +621,6 @@
       "url": "https://open.spotify.com/track/7tfHEAIiDswTzXPHuAG8Qb"
     },
     {
-      "added_at": "2025-05-16 04:00:10",
-      "album": {
-        "name": "Same Mouth",
-        "url": "https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 156165,
-      "name": "Same Mouth",
-      "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
-    },
-    {
       "added_at": "2025-06-13 04:00:59",
       "album": {
         "name": "Freaking Out",
@@ -631,22 +651,6 @@
       "duration_ms": 135666,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/55g2TpbGrXxLdekbyui2Sl"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
-        "name": "I Might",
-        "url": "https://open.spotify.com/album/4Hm3EHLMSw7v8PRtO5j9wH"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "I Might",
-      "url": "https://open.spotify.com/track/7qxhvX5rwSTUJs07Ju55gu"
     },
     {
       "added_at": "2025-05-30 04:00:34",

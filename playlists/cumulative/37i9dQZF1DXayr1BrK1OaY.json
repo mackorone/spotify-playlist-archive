@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7q1D9864hwnPyefZRg8dD1"
+      },
+      "artists": [
+        {
+          "name": "Diielex",
+          "url": "https://open.spotify.com/artist/18LRCYOF09zhrI77Us1y9P"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225350,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3fIIW08ndUQazACb6q3Hya"
+    },
+    {
+      "album": {
         "name": "A Radiant Sign",
         "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
@@ -656,7 +674,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 161546,
       "name": "APOLOGIES",
       "url": "https://open.spotify.com/track/5ednDPF7c7QUUBYgc8fTHM"
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 210461,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/5NTdCCpZPXkP1d3JMfQq8K"
@@ -4719,6 +4737,28 @@
     },
     {
       "album": {
+        "name": "It's Just a Nightmare",
+        "url": "https://open.spotify.com/album/1ossXpzhHek1tQfcB1p8PL"
+      },
+      "artists": [
+        {
+          "name": "how2fly",
+          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
+        },
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "It's Just a Nightmare",
+      "url": "https://open.spotify.com/track/6lsbmX8FFFHKnJ33PLAKJT"
+    },
+    {
+      "album": {
         "name": "It's over",
         "url": "https://open.spotify.com/album/5Y5Q5z31Pu03K6Y2g4CHvI"
       },
@@ -5540,7 +5580,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 180000,
       "name": "lost in paris",
       "url": "https://open.spotify.com/track/1UZGx4VsQXjvWLCKYJAYFW"
@@ -6062,7 +6102,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 179076,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3ISffiYxJz6urIUMsQRj16"
@@ -7052,6 +7092,28 @@
       "duration_ms": 162651,
       "name": "Over You",
       "url": "https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ"
+    },
+    {
+      "album": {
+        "name": "over you",
+        "url": "https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "over you",
+      "url": "https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe"
     },
     {
       "album": {
@@ -10474,6 +10536,28 @@
       "duration_ms": 152266,
       "name": "yesterday",
       "url": "https://open.spotify.com/track/1pajzEkuHxBLx5wSzXU4KG"
+    },
+    {
+      "album": {
+        "name": "Yesterday and Tomorrow",
+        "url": "https://open.spotify.com/album/3uHPU2B9joorAe2orLbeF9"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hemming",
+          "url": "https://open.spotify.com/artist/0y7PZphnEbZAG2JHlPR4Pi"
+        },
+        {
+          "name": "Dorothea",
+          "url": "https://open.spotify.com/artist/4WUpexcaF2O8ciLWziaNLQ"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Yesterday and Tomorrow",
+      "url": "https://open.spotify.com/track/48k0ynOFn1LXx6sQ04fq1v"
     },
     {
       "album": {

@@ -2031,6 +2031,28 @@
     },
     {
       "album": {
+        "name": "Dhaagey",
+        "url": "https://open.spotify.com/album/0QY6LFsuvkZ8WJkwIbPbGf"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Dhaagey",
+      "url": "https://open.spotify.com/track/1bav36G2cus1No9SZrjUml"
+    },
+    {
+      "album": {
         "name": "Dhalti Rahe (Stripped.)",
         "url": "https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu"
       },
@@ -8958,7 +8980,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 209606,
       "name": "Shaayad",
       "url": "https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO"

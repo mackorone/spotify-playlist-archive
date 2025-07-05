@@ -2,9 +2,9 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Sit back and relax to the chillest pop\.  Cover: The Two Lips
+> Sit back and relax to the chillest pop\.  Cover: Olivia Dean
 
-2,288 songs - 5 day 3 hr 3 min
+2,290 songs - 5 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Bedhead \(feat\. Anna Clendening\)](https://open.spotify.com/track/6HbXhn1ozap6E7PxtdzaZ0) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Flash](https://open.spotify.com/album/1zdQmQxGCIO3M3OJwejsvi) | 2:27 | 2020-05-01 | 2020-09-11 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-07-04 |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 | 2022-08-06 |
+| [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 | 2025-07-04 |  |
 | [Before I Knew You](https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:11 | 2024-05-31 | 2024-06-15 |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2020-04-26\* | 2020-07-31 |
 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/5Dz8nrwQlPLE68WaTEIqY5) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:14 | 2021-02-19 | 2021-04-30 |
@@ -788,7 +789,7 @@
 | [Happy Now?](https://open.spotify.com/track/4Q2f3cAoFrYkJPCMT6yQHJ) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Happy Now?](https://open.spotify.com/album/0CWH8bEukek5tnvrvhGQVo) | 3:00 | 2024-03-29 | 2024-04-19 |
 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-11-04 | 2023-02-05 |
 | [Hard Work](https://open.spotify.com/track/6lxhClexlw4zNH0yuxv4An) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Hard Work](https://open.spotify.com/album/3j9Ir2XYzLIXajJmKxhbwP) | 3:22 | 2023-10-27 | 2023-12-23 |
-| [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-06 |  |
+| [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-06 | 2025-07-05 |
 | [Haunt You](https://open.spotify.com/track/0ikj11vlWRTn6lxs5xMkOj) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Haunt You](https://open.spotify.com/album/16sm0PLHDeBVPQhNtpxLOC) | 2:46 | 2022-07-22 | 2022-08-27 |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-04-10 | 2021-06-12 |
 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 | 2022-06-24 | 2023-05-20 |
@@ -1189,7 +1190,7 @@
 | [Lost \- Lucian Remix](https://open.spotify.com/track/0m6odnrNnNMsD4nZnshfnq) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Lost \(Lucian Remix\)](https://open.spotify.com/album/3P7SMGjdcSCQ1tz0jO18pu) | 2:32 | 2021-01-23 | 2021-06-12 |
 | [Lost Soul](https://open.spotify.com/track/1DpfbpZ2A5qUvwmQ1eMl21) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Lost Soul](https://open.spotify.com/album/7fYr5G691mX0yqmrvytwOf) | 3:20 | 2024-04-19 | 2024-05-11 |
 | [Lost Without You](https://open.spotify.com/track/36uJxopqjp6UXC9BGx6jcm) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Lost Without You \(feat\. Clara Mae\)](https://open.spotify.com/album/7yQrCMYq5XrIebKDS1ezBa) | 2:45 | 2020-07-18 | 2020-12-04 |
-| [Love & Loneliness](https://open.spotify.com/track/0gmlaB87gjwHdPqNlO5fVF) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Love & Loneliness](https://open.spotify.com/album/4e7qWCK8WeVDQP5i5XAtyG) | 2:51 | 2025-06-06 |  |
+| [Love & Loneliness](https://open.spotify.com/track/0gmlaB87gjwHdPqNlO5fVF) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Love & Loneliness](https://open.spotify.com/album/4e7qWCK8WeVDQP5i5XAtyG) | 2:51 | 2025-06-06 | 2025-07-05 |
 | [love and hate](https://open.spotify.com/track/1vDKQnddTOwYevfB0lbIXu) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [love and hate](https://open.spotify.com/album/22RD49QYSQoEAnpHOBmp6m) | 3:10 | 2021-07-10 | 2021-09-25 |
 | [Love Come Around](https://open.spotify.com/track/01nz6KVz1nOwV1brJeKpX3) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Love Come Around](https://open.spotify.com/album/0sNOKOB8M5epzmJNF8ngYo) | 3:07 | 2021-05-29 | 2021-07-04 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
@@ -2105,6 +2106,7 @@
 | [Until We Meet Again](https://open.spotify.com/track/6aXgxeYA03veaPyHHZQaj3) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Until We Meet Again](https://open.spotify.com/album/1pGagy68WNlwyo7DwGZt91) | 3:17 | 2020-05-23 | 2020-06-29 |
 | [Up Down](https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened?](https://open.spotify.com/album/3K6gfRB0Yn4IEd5VDThMXv) | 3:10 | 2022-07-01 | 2023-03-18 |
 | [up to me](https://open.spotify.com/track/5pbQaprwbDRlzXBo8xVnCo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [up to me / dna \[demo\]](https://open.spotify.com/album/0GrGh2x8KprTal72UkxnBP) | 2:47 | 2021-07-17 | 2021-08-21 |
+| [Upon Arrival](https://open.spotify.com/track/5AqO5MfeOGIgjnjgUaiSOt) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Upon Arrival](https://open.spotify.com/album/0i4qVBoh5czpvFAzezcrFU) | 3:24 | 2025-07-04 |  |
 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-08-11 | 2024-01-27 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 | 2024-04-13 |
 | [Used to That](https://open.spotify.com/track/639pSiru77s6AAgWPNTbk8) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Used to That](https://open.spotify.com/album/5rUB8sX7uuyADrS1VJ3jUq) | 2:26 | 2021-06-12 | 2021-07-24 |

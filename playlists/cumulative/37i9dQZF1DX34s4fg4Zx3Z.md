@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Trúc
 
-2,134 songs - 5 day 5 hr 7 min
+2,135 songs - 5 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2140,6 +2140,7 @@
 | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/4Z0pQVOggxLvK1qbSDNDMj) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/6NXNgfbcUqAGJMyLmWISnO) | 4:57 | 2024-02-01 | 2024-03-01 |
 | [Ở Lại](https://open.spotify.com/track/62UfSSzyX2K1hvhZbvDTEo) | [Bigg Vu](https://open.spotify.com/artist/7g4X3YRbkUfB5WTS0KOc4B) | [Ở Lại](https://open.spotify.com/album/1JEaYwhP18VqbwHylQwMP8) | 3:12 | 2023-01-26 | 2023-02-01 |
 | [Ở lại](https://open.spotify.com/track/4h7QyJlxwmgqC5TrYyigba) | [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Bí Nhe](https://open.spotify.com/artist/3nQIlmGkxvwm2kZ1ueopqx) | [Ở lại](https://open.spotify.com/album/6K2QEIPH7MOn9jDEg5FYYR) | 2:18 | 2023-03-23 | 2023-05-23 |
+| [Ở NGAY LÚC NÀY](https://open.spotify.com/track/0XyimbL9FjmpOcdPcPZhnX) | [Trúc](https://open.spotify.com/artist/6NhIqmbIYCMpWp7CWkV0uA) | [HỖN MANG](https://open.spotify.com/album/4kC8nD7ucW0m4gNzPwpbEk) | 3:00 | 2025-07-03 |  |
 | [Ở Trong Em](https://open.spotify.com/track/0s0miHlc60MwKktiRgY9SQ) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [NHATNGUYEN](https://open.spotify.com/artist/3pxke5x7WfMfs5IwsSAh0u), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Ở Trong Em](https://open.spotify.com/album/1SZCulOLZl9NneKPDouGOj) | 3:23 | 2023-09-08 | 2023-09-26 |
 | [Ở Trong Đôi Mắt Em](https://open.spotify.com/track/3LvcVUUS0QmDiOgee1lvXj) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [Ở Trong Đôi Mắt Em](https://open.spotify.com/album/3yGF3u2anFL7j8PLeskfFl) | 4:13 | 2022-02-21 | 2023-01-06 |
 

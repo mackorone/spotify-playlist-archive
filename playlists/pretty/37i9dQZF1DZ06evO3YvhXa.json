@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 416424,
+  "num_followers": 416489,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAACcvu9gQ4dFDHlWI96SvU2b",
+  "snapshot_id": "aGXIAAAAAACTcPCZlynvZ2lfGzYYLpn/",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "Hot Property",
-      "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 269946,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Hot Property",
+      "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 321426,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245573,
       "name": "Goodbye To My Dancer",
       "url": "https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 321426,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
     },
     {
       "added_at": null,

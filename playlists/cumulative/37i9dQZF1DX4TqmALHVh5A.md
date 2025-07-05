@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Barbet
+> La scène française branchée sur courant alternatif\. Photo : Barbet
 
-317 songs - 16 hr 56 min
+318 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 | 2024-05-10 |
 | [Humain](https://open.spotify.com/track/1I7q4Nvn6hRTb2lyHTVcWR) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 2:45 | 2025-06-05 |  |
 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 | 2024-02-08 | 2024-06-21 |
+| [I Can Do Anything](https://open.spotify.com/track/12m7YgRtLVk18cYlu0ebbo) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [I Can Do Anything](https://open.spotify.com/album/3fO9QNSdwsOdwiYOukKm98) | 3:10 | 2025-07-04 |  |
 | [I'm A Mess](https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [I'm A Mess](https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M) | 2:26 | 2023-11-23 | 2024-02-02 |
 | [Idiot du quartier de lune](https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0) | [Ian Caulfield](https://open.spotify.com/artist/4jcI2D2oUbSyQYB4isUZiz) | [Idiot du quartier de lune](https://open.spotify.com/album/6fig2z3viSXQIukDe36Hwo) | 3:21 | 2023-10-12 | 2024-06-07 |
 | [Ikea Boy](https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Ikea Boy](https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU) | 3:29 | 2023-11-02 | 2023-12-08 |
@@ -171,7 +172,7 @@
 | [Les Chevaux Blancs](https://open.spotify.com/track/6y0yMswC3BLtp5VQ41lxJD) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Cowboy Circus](https://open.spotify.com/album/0LeNAzIxVwsSVrvUq28HPD) | 2:38 | 2025-06-12 |  |
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
-| [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/album/3ATPhog7ZvQNERcWSvbQnQ) | 3:36 | 2025-02-27 |  |
+| [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/album/3ATPhog7ZvQNERcWSvbQnQ) | 3:36 | 2025-02-27 | 2025-07-05 |
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-09-28 | 2023-10-20 |
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-11-22 |
 | [Love Sixties](https://open.spotify.com/track/18YUpvNqYdKV9pYynF7WiP) | [PETITE](https://open.spotify.com/artist/3fCq6kmP05qWeSimk0cPfO) | [PETITE](https://open.spotify.com/album/7JHvaqoKxRc3jFlXGD6be0) | 3:18 | 2025-02-13 | 2025-06-06 |

@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-807 songs - 2 day 21 hr 18 min
+808 songs - 2 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 | 2022-07-13 | 2023-12-24 |
 | [Devils and Angels](https://open.spotify.com/track/43ioujgfr3uASYa0v1xmdp) | [Psychotic Waltz](https://open.spotify.com/artist/2dOv4EhVP0W9QU8irQJEld) | [Devils and Angels](https://open.spotify.com/album/36jqRyLbU0wixx7RU2HgEQ) | 6:29 | 2021-12-17 | 2022-07-29 |
 | [Devonian: Nascent](https://open.spotify.com/track/3aKfvwFdNWXPDQuW5XOJ6k) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq), [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Devonian: Nascent](https://open.spotify.com/album/6q1qy7xbrjPnzGMW0vp4SF) | 11:05 | 2021-12-17 | 2022-05-14 |
+| [Devourer](https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Devourer](https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH) | 3:20 | 2025-07-04 |  |
 | [Diabolical Majesty](https://open.spotify.com/track/7LpG7xh1lmyS2hfE10JlKN) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3) | [Diabolical Majesty](https://open.spotify.com/album/2lmJTrhnj2OKxp8c9zJE59) | 4:56 | 2022-07-08 | 2024-05-18 |
 | [Die On The Cross Of The Martyr](https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Scott LePage](https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0) | [...And Everything In Between](https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8) | 4:30 | 2023-12-06 |  |
 | [Differentiate](https://open.spotify.com/track/1HyowzIQaOllPWHFlqj2U8) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Differentiate](https://open.spotify.com/album/7sKa8eHU6SWfJpmk7JnLmm) | 5:15 | 2021-12-17 | 2023-01-21 |
@@ -167,7 +168,7 @@
 | [Dignity](https://open.spotify.com/track/27zLixLnXaVFkihr32cyWb) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [In Cauda Venenum \(Extended Edition\)](https://open.spotify.com/album/2fsdMzQ5Tr6GTS9XErOtP0) | 6:36 | 2022-07-08 | 2022-09-03 |
 | [Dignity](https://open.spotify.com/track/3cXEaRUuLYDT2hzqLwBJe8) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/0w9RrU2alZeQ1BJwpvpFtP) | 8:22 | 2022-06-24 | 2022-07-08 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-01-07 |  |
-| [Dinner](https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Dinner](https://open.spotify.com/album/3pl00ZxrKeLIog0Qi8Tm4R) | 4:28 | 2022-05-20 |  |
+| [Dinner](https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Dinner](https://open.spotify.com/album/3pl00ZxrKeLIog0Qi8Tm4R) | 4:28 | 2022-05-20 | 2025-07-05 |
 | [Disarray](https://open.spotify.com/track/4FhQi9oReeewRdU399Rod3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Neon](https://open.spotify.com/album/2fMZGcHeAcIakWa1uJrULA) | 3:50 | 2022-10-28 | 2024-04-19 |
 | [Disciple](https://open.spotify.com/track/4JzSQaWe333dS5ukME50Vr) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Charismatic Leaders](https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7) | 4:12 | 2024-11-22 |  |
 | [Disciples of the Sun](https://open.spotify.com/track/76KGTHiM04kL0TCowKsGUU) | [Pyramaze](https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK) | [Disciples of the Sun](https://open.spotify.com/album/5PKrNohOZEdJMSo1FxrTN3) | 3:54 | 2021-12-17 | 2022-01-27 |

@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Doro
 
-659 songs - 2 day 2 hr 16 min
+660 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Descending Upon Hades](https://open.spotify.com/track/7wWlxfXN3XBxAlRYQXuIqw) | [Mendel](https://open.spotify.com/artist/0b6LOcL2yFcKpn5nODTSxm) | [Descending Upon Hades](https://open.spotify.com/album/6h3dvqLkuxXlSzTb7PVeXy) | 6:33 | 2022-07-13 | 2022-07-30 |
 | [Desert Dreams](https://open.spotify.com/track/75Pf9KKZzzTl7YmA16I3FX) | [Falconer](https://open.spotify.com/artist/1UKdnbreQFDmPg3Mhcjhkr) | [Desert Dreams](https://open.spotify.com/album/0HMSRUZN6Vxz1RU1fQxip2) | 3:58 | 2020-11-29\* | 2021-09-04 |
 | [Devastation Bound](https://open.spotify.com/track/0w42qcf4CoLHVsCcVG9LfL) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Devastation Bound](https://open.spotify.com/album/6XohTB5NLzOslQIAfTZEYw) | 4:35 | 2021-10-09 | 2021-12-11 |
+| [Devourer](https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Devourer](https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH) | 3:20 | 2025-07-04 |  |
 | [Diamanti](https://open.spotify.com/track/47uPFOpLZMwu2ke4hyhbyW) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs) | 4:31 | 2021-11-20 | 2022-04-02 |
 | [Diamond Claws](https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Diamond Claws](https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx) | 4:36 | 2024-05-24 | 2024-07-24 |
 | [Dig, Bury, Drink!](https://open.spotify.com/track/6U4eqGKqIpTLa1T4gYz2Un) | [Lagerstein](https://open.spotify.com/artist/7rdELsS0UW8P27qyWJsiSG) | [Dig, Bury, Drink!](https://open.spotify.com/album/3gOYuHkIwSQgZsKWvZ4fWE) | 4:05 | 2020-11-29\* | 2021-05-21 |
@@ -523,7 +524,7 @@
 | [Synthesis](https://open.spotify.com/track/6K3eOhPwC99IS6vHzf9qQX) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Synthesis](https://open.spotify.com/album/39qDyjkFJ658NyTQnRq5Ju) | 2:39 | 2022-07-13 | 2022-07-30 |
 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 | 2023-03-24 | 2025-05-28 |
 | [Tales from the North](https://open.spotify.com/track/2h1nhjGCI0otQYmkp0f4gw) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Tales from the North](https://open.spotify.com/album/2oFRy2lPJVJ9wiOxaVRXsg) | 5:39 | 2024-02-23 |  |
-| [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 | 2022-02-11 |  |
+| [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 | 2022-02-11 | 2025-07-05 |
 | [Tempest Of Blades](https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 3:32 | 2022-04-29 |  |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-05-05 |  |
 | [Temple Of Circadia](https://open.spotify.com/track/4DkdmrJ1P8v1PFZrBZIuoV) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu) | 7:10 | 2022-07-13 | 2022-07-30 |

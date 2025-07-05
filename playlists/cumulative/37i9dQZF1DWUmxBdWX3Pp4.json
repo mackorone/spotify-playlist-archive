@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos de Trap Latino \ud83d\udcf8 Young Miko.\n",
+  "description": "\u00c9xitos de Trap Latino \ud83d\udcf8 Eladio Carrion.\n",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -272,6 +272,24 @@
       "duration_ms": 222603,
       "name": "300",
       "url": "https://open.spotify.com/track/38qm9QOThz4R650p5WPKrN"
+    },
+    {
+      "album": {
+        "name": "4AM EN IBIZA",
+        "url": "https://open.spotify.com/album/6lYMuShTlxnmA4MGrihGIi"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "4AM EN IBIZA",
+      "url": "https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg"
     },
     {
       "album": {
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 226100,
       "name": "C\u00f3mo Le Digo",
       "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"

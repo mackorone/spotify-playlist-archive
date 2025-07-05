@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/0VLNY1VYVWe0AWm0BI5nDA"
+      },
+      "artists": [
+        {
+          "name": "STELLA.",
+          "url": "https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa"
+        },
+        {
+          "name": "pedram",
+          "url": "https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/60ghoHsVEM4VEE1f7OKzcv"
+    },
+    {
+      "album": {
         "name": "De Vere",
         "url": "https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM"
       },
@@ -750,7 +772,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 306097,
       "name": "Fleur de Sucre",
       "url": "https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT"
@@ -1964,7 +1986,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 444986,
       "name": "Society's Man",
       "url": "https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw"
@@ -2098,6 +2120,28 @@
       "duration_ms": 212170,
       "name": "Tess",
       "url": "https://open.spotify.com/track/4g2IofvpR6XcrX9I1Rui3J"
+    },
+    {
+      "album": {
+        "name": "the message",
+        "url": "https://open.spotify.com/album/5PeLuRScqmff4MV6hSAyTN"
+      },
+      "artists": [
+        {
+          "name": "mango heist",
+          "url": "https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs"
+        },
+        {
+          "name": "Koresma",
+          "url": "https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228405,
+      "name": "the message",
+      "url": "https://open.spotify.com/track/73blhc3aERjdW7XXS04e2Z"
     },
     {
       "album": {

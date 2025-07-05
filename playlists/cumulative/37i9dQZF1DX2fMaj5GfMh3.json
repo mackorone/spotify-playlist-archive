@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Count To 4",
+        "url": "https://open.spotify.com/album/4KGsIxmDJ8N36yoCsP1gp4"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162031,
+      "name": "Count To 4",
+      "url": "https://open.spotify.com/track/7p4wucD9c7XQVZczrUSQKH"
+    },
+    {
+      "album": {
         "name": "Crazy For You",
         "url": "https://open.spotify.com/album/0LKaCSPTuHk2z1Pdntl5jG"
       },

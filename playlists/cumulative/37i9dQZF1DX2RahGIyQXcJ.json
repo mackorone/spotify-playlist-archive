@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/1Cm8wkqc7uvlfHJbevQTX7"
+      },
+      "artists": [
+        {
+          "name": "Mr. D",
+          "url": "https://open.spotify.com/artist/7DpUj0xjA6iUPrvWgdQv64"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1hONlYfMQVrZrwwUjBP3UC"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f"
       },

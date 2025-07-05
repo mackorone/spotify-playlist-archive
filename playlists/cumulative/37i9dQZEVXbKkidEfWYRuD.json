@@ -8675,6 +8675,24 @@
     },
     {
       "album": {
+        "name": "HURT",
+        "url": "https://open.spotify.com/album/6AcaydKdkFDlJKkd5WwMsA"
+      },
+      "artists": [
+        {
+          "name": "Envy Marshall",
+          "url": "https://open.spotify.com/artist/0YWlVX6nIsOvJCRUertJ5h"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216101,
+      "name": "HURT",
+      "url": "https://open.spotify.com/track/5ne515mhuyE54lSIwPC2IJ"
+    },
+    {
+      "album": {
         "name": "hurt",
         "url": "https://open.spotify.com/album/2hyzJp4LYI2ht6TaTRFdsR"
       },
@@ -9770,7 +9788,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -15794,7 +15812,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -15812,7 +15830,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -18740,7 +18758,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 230880,
       "name": "The Sun, The Wine and You",
       "url": "https://open.spotify.com/track/6rYfWhx94NEPTxeaGQbHIx"
@@ -21336,7 +21354,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 165028,
       "name": "\u0410\u043a\u0430\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u"
@@ -23540,7 +23558,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU"
@@ -25052,7 +25070,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 152076,
       "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
       "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
@@ -25484,7 +25502,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 152725,
       "name": "\u0415\u043d\u0434\u043e\u0440\u0444\u0456\u043d",
       "url": "https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO"
@@ -26946,7 +26964,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 77037,
       "name": "\u041a\u0430\u0442\u044e\u0445\u0430",
       "url": "https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV"
@@ -27286,7 +27304,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -27366,7 +27384,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 157317,
       "name": "\u041a\u043e\u0441\u0438",
       "url": "https://open.spotify.com/track/3kebQnMSfgN6i97Ur2uQNb"
@@ -27736,7 +27754,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 122033,
       "name": "\u043a\u0445\u043c-\u043a\u0445\u043c",
       "url": "https://open.spotify.com/track/2Br49Z6ckGKdcnDGLj2L8q"
@@ -28460,7 +28478,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 178857,
       "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q"
@@ -35816,7 +35834,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 98029,
       "name": "\u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv"
@@ -37320,6 +37338,24 @@
       "duration_ms": 168541,
       "name": "\u042f\u043a\u0431\u0438 \u043d\u0435 \u0442\u0438",
       "url": "https://open.spotify.com/track/3uDigmZFnHh4SOb4MizSOc"
+    },
+    {
+      "album": {
+        "name": "\u042f\u043a\u0431\u0438 \u043d\u0435 \u0442\u0438",
+        "url": "https://open.spotify.com/album/7oSUr0nH4jcEv2wUkTweWT"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0411\u043e\u0440\u043e\u0434\u0456\u043d",
+          "url": "https://open.spotify.com/artist/3b1ptNUGXbqu28JMv7YDBV"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168541,
+      "name": "\u042f\u043a\u0431\u0438 \u043d\u0435 \u0442\u0438",
+      "url": "https://open.spotify.com/track/7vPNM1PsO9Z6H4rSa6ip6h"
     },
     {
       "album": {

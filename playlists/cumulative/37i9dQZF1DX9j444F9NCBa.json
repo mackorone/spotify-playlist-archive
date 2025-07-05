@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 228009,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 191701,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/1rXk1c4KcPoAXfkSIrKmuJ"
@@ -5506,7 +5506,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 214928,
       "name": "Just The Way You Are - Piano Version",
       "url": "https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6"
@@ -6359,6 +6359,24 @@
     },
     {
       "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/6IEifv95ND12iR1WHrRFxD"
+      },
+      "artists": [
+        {
+          "name": "Davy Burns",
+          "url": "https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/7MMFRjAiYOwPxQnmxcsert"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/5gXmTWp9saddHSZ1EaLZ2V"
       },
@@ -7133,6 +7151,24 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jennings",
+          "url": "https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB"
+    },
+    {
+      "album": {
         "name": "Out of Reach",
         "url": "https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD"
       },
@@ -7450,7 +7486,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 198375,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/37jmM5yYmTqETXCbi4Ko5U"
@@ -8764,7 +8800,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 206000,
       "name": "Sweet But Psycho",
       "url": "https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2"
@@ -11072,7 +11108,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 239026,
       "name": "You Are The Reason - Piano Version",
       "url": "https://open.spotify.com/track/2F05YYG6v1eYXMRlJrPBLX"

@@ -2,7 +2,7 @@
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now!  Cover: Loud Luxury
+> The best Dance, House, Bass and EDM tracks right now!  Cover: Loud Luxury
 
 336 songs - 17 hr 33 min
 

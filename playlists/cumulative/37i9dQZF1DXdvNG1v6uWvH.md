@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Monsters and Men, Ava Max, Loreen og mörgum fleiri!
 
-6,680 songs - 14 day 23 hr 23 min
+6,681 songs - 14 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5618,6 +5618,7 @@
 | [Take You Away](https://open.spotify.com/track/1szWgjk1m11qQpVkWvSxQH) | [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Take You Away](https://open.spotify.com/album/6MaoyUjlHFogVwvT5bI9gH) | 2:44 | 2024-05-24 | 2024-06-01 |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-14 | 2025-02-21 |
 | [Take You Home \- Radio Edit](https://open.spotify.com/track/3C03P0f7z6PVyFc5gKwW5R) | [UXI](https://open.spotify.com/artist/66IBsnGDM0yT9yKOmXUCEu) | [Take You Home \(Radio Edit\)](https://open.spotify.com/album/2cJJZXFhNToOLHBp69xeOv) | 3:22 | 2025-02-21 | 2025-02-22 |
+| [take you there](https://open.spotify.com/track/0acK5Vlgulx6l9x9KzGfbr) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [neverontime](https://open.spotify.com/album/22anfYOVSwAITMqSEZ1f7c) | 2:38 | 2025-07-04 |  |
 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 | 2024-06-14 | 2024-06-21 |
 | [Take Your Time with Me](https://open.spotify.com/track/1XCvSihVAJLqO3o69vLD5P) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Risk of Make Believe](https://open.spotify.com/album/4zlnbMD86gswBAXROOdQ03) | 6:19 | 2025-01-17 | 2025-01-24 |
 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 | 2024-08-16 | 2024-08-23 |
@@ -6087,7 +6088,7 @@
 | [tú m kieres](https://open.spotify.com/track/5DquTZ0Qurp0ZR0sWnxqUM) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [headphones !](https://open.spotify.com/album/6fGBIRSIjiyOFnDFB1Ru0Z) | 2:24 | 2025-02-28 | 2025-03-07 |
 | [Túbusjónvarp \- smáskífu útgáfa](https://open.spotify.com/track/5cQpvjaBvyNgEPl1DKNiWd) | [Woolly Kind](https://open.spotify.com/artist/2Hs0za9Fh7y0POCHDm4mOe) | [Túbusjónvarp](https://open.spotify.com/album/6ZgX5ubGlHQgqqGDILFMhR) | 3:10 | 2025-02-14 | 2025-02-16 |
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2024-11-22 | 2024-11-29 |
-| [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0cmFuWcYcqIglD8O5E0B9O) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 | 2025-07-04 |  |
+| [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 | 2025-07-04 |  |
 | [U and I \(Intertwine\)](https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [U and I \(Intertwine\)](https://open.spotify.com/album/0RhDkObdl3kydd4jUIr6CA) | 2:46 | 2024-10-25 | 2024-11-01 |
 | [U know](https://open.spotify.com/track/3kS86aHE3z4zRiNBRybTRC) | [Linnea Awad](https://open.spotify.com/artist/4ol01UJxFIWX3X1zxExtXU) | [Hear me, see me](https://open.spotify.com/album/0ZPM92L33pbfILOp2nEjR2) | 3:24 | 2025-02-07 | 2025-02-14 |
 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 | 2025-05-02 | 2025-05-09 |

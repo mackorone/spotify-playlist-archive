@@ -24586,26 +24586,6 @@
         {
           "name": "monopolice",
           "url": "https://open.spotify.com/artist/7HJT0fgWu56JuKB70YLWMf"
-        },
-        {
-          "name": "Miguel Granada",
-          "url": "https://open.spotify.com/artist/3MYBR8yZ0NkHQk7RIaPcps"
-        },
-        {
-          "name": "Karl Lucente",
-          "url": "https://open.spotify.com/artist/4wV6hS9iZ0eKZKsVNpbBme"
-        },
-        {
-          "name": "Amiel Cortes",
-          "url": "https://open.spotify.com/artist/0I7iMHuBFEYRf9x49FuONy"
-        },
-        {
-          "name": "Jesiree Rosales",
-          "url": "https://open.spotify.com/artist/4Gbnml9FkrLmYcOJT4Nnly"
-        },
-        {
-          "name": "Peter Mascari\u00f1as",
-          "url": "https://open.spotify.com/artist/5GI51wUlz0mma7Lu2um2kn"
         }
       ],
       "date_added": "2025-07-03",
@@ -33621,6 +33601,24 @@
     },
     {
       "album": {
+        "name": "Loud Tonight",
+        "url": "https://open.spotify.com/album/3P3Yc5oskrYFBRYl5p3A5o"
+      },
+      "artists": [
+        {
+          "name": "Spencer Negosa",
+          "url": "https://open.spotify.com/artist/4yWtvwqsareIRoSRnWDxgE"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176969,
+      "name": "Loud Tonight",
+      "url": "https://open.spotify.com/track/5r3vMvuoQBbqxUyDemE3Np"
+    },
+    {
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/4TSFNL2fY5e6w1oV2xQjrk"
       },
@@ -39216,6 +39214,24 @@
       "duration_ms": 147475,
       "name": "Namseyin",
       "url": "https://open.spotify.com/track/5cY6dnSASejcg0F8I9tY4E"
+    },
+    {
+      "album": {
+        "name": "Nananaginip",
+        "url": "https://open.spotify.com/album/7zESaGbrTNjcZigGN8c6df"
+      },
+      "artists": [
+        {
+          "name": "Kevin Montillano",
+          "url": "https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225017,
+      "name": "Nananaginip",
+      "url": "https://open.spotify.com/track/62821lC95kvfuKCrhQcr5W"
     },
     {
       "album": {

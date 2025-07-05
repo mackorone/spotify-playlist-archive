@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-304 songs - 19 hr 29 min
+305 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Pandora](https://open.spotify.com/track/5e5Q1bAFyR6o3dpB5gufQw) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Pandora](https://open.spotify.com/album/4L7o78mSbrbTB6AXSzqgdj) | 6:38 | 2024-09-20 | 2025-01-14 |
 | [Peaceful Avenues \- Unplugged Instrumental](https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Peaceful Avenues](https://open.spotify.com/album/2tSLZZXtD1PDRuRTNNKnst) | 4:00 | 2024-04-16 | 2024-12-07 |
 | [Persevere \- An Evening With Wife's Piano Playing](https://open.spotify.com/track/2uy39vRSVXKvYzEwJfbCRu) | [Alex Rusin](https://open.spotify.com/artist/5ncIkDwysG4a84OvqiL4uS) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 2:25 | 2024-07-19 | 2024-10-12 |
+| [Philos \- Edit](https://open.spotify.com/track/6uMuNTt5BKq9Ft0N8StW2T) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Philos](https://open.spotify.com/album/6lm4yj3INP6F6X5L2j4auk) | 3:55 | 2025-07-04 |  |
 | [Potential](https://open.spotify.com/track/5cY1HAqMCWX6O8NsmvIaEP) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Potential EP](https://open.spotify.com/album/5sOXGKshInDELSldm7D7Vx) | 3:55 | 2025-06-20 |  |
 | [Push](https://open.spotify.com/track/1R7IHRsBICbt7ye7EihWsS) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Anjunadeep pres\. Reflections Vol\. 3](https://open.spotify.com/album/0OAHHOQXOuk6Srzu8Y8D8k) | 4:28 | 2025-01-13 | 2025-02-22 |
 | [Put You Back Together](https://open.spotify.com/track/4wRgSUpELGyDeKnaG3sFUW) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Put You Back Together](https://open.spotify.com/album/2iE2GaYIZCGqCcJdMBFv3v) | 3:00 | 2024-06-21 | 2024-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 224807,
+  "num_followers": 224815,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAABcfs4jAB+ShOA6DJimLtcP",
+  "snapshot_id": "aGXIAAAAAACnaQAeHvBGgKk37vYmC7DP",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 107960,
-      "name": "Knockturn Alley",
-      "url": "https://open.spotify.com/track/717XC5okeGGuLAXCzcWZLS"
+      "duration_ms": 125973,
+      "name": "Gilderoy Lockhart",
+      "url": "https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "March of the Resistance",
-      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jurassic Park",
         "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "March of the Resistance",
+      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
       },
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 125973,
-      "name": "Gilderoy Lockhart",
-      "url": "https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt"
+      "duration_ms": 107960,
+      "name": "Knockturn Alley",
+      "url": "https://open.spotify.com/track/717XC5okeGGuLAXCzcWZLS"
     },
     {
       "added_at": null,

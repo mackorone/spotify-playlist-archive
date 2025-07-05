@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 43896,
+  "num_followers": 43903,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAAB2InDIiTzxH9RSChShPlf0",
+  "snapshot_id": "aGXIAAAAAADyrP8WHAuOvGAuTwd7hJj1",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belicosa",
-        "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Belicosa",
-      "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Audi",
         "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 198545,
       "name": "En El Audi",
       "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belicosa",
+        "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Belicosa",
+      "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
     },
     {
       "added_at": null,
@@ -887,34 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakalaka (feat. Max Styler)",
-        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Shakalaka (feat. Max Styler)",
-      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Random White Dude Be Everywhere",
         "url": "https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb"
       },
@@ -939,6 +911,34 @@
       "duration_ms": 281250,
       "name": "Freak (feat. Steve Bays)",
       "url": "https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakalaka (feat. Max Styler)",
+        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Shakalaka (feat. Max Styler)",
+      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
     },
     {
       "added_at": null,

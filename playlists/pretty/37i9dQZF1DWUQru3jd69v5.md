@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Flaco G in cover della playlist con il futuro del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,983 likes - 77 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,018 likes - 77 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

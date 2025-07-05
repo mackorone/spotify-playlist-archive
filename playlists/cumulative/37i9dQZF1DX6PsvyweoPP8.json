@@ -1423,6 +1423,36 @@
     },
     {
       "album": {
+        "name": "Cheguei, Amor",
+        "url": "https://open.spotify.com/album/5PeQoMzGeG2IddCgHJ9HRj"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Akiraexperience",
+          "url": "https://open.spotify.com/artist/7kDf4oh3ULxiKTN9qaOqoq"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163528,
+      "name": "Cheguei, Amor",
+      "url": "https://open.spotify.com/track/0aYcqHnBmVUuWEa1SVM7oK"
+    },
+    {
+      "album": {
         "name": "Cheia de charme",
         "url": "https://open.spotify.com/album/4qwXqQ0Z9eeNObgkO9fN0N"
       },
@@ -1828,7 +1858,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 121791,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/4IaO5GKWcR6LdMOQH6heJM"

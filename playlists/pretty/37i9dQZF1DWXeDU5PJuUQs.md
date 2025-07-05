@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,672 likes - 64 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,805 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 16 | [El Doctorado \- En Vivo](https://open.spotify.com/track/1CFTRRDmK63TyODr782deN) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Luna Park \(En Vivo\)](https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r) | 2:37 |
 | 17 | [Aque volviste mujer \- En Vivo](https://open.spotify.com/track/2LyiRlFyxmayopOsyjx00B) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [En Inca Megadisco \(En Vivo\)](https://open.spotify.com/album/3OCiEztfi9VD5TrtWD5i3E) | 3:38 |
 | 18 | [Amores como el nuestro](https://open.spotify.com/track/6gnbBWrui5jqGKyxy1CP89) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Session \#14 \(Vol 2\) Los Charros](https://open.spotify.com/album/20CjhbSbh6yqAIsqsov7IU) | 3:15 |
-| 19 | [Ya llegó \- En Vivo](https://open.spotify.com/track/7kbYYzNAkoQtcyShZvMspR) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5iXv2zVf6nmd4FmBiSBMEv) | 1:28 |
+| 19 | [Se parece más a ti](https://open.spotify.com/track/7MurjFLXZ5hJn2z82pcLgA) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Jambao: Sin Miedo Session \#52 \(Lado S\)](https://open.spotify.com/album/5RueSt1KRNW3uXcWjxG7M5) | 2:21 |
 | 20 | [Dame tu calor](https://open.spotify.com/track/2cs3J2S2ZFL7zaLlI7wyju) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Malagata](https://open.spotify.com/artist/549gX84eSqoYRJp8BglJqy) | [Session \#19 \- Clásicos](https://open.spotify.com/album/73rvbMXMHUQCwa0E92Fooc) | 1:54 |
 | 21 | [A Puro Dolor / Un Montón de Estrellas \- Live](https://open.spotify.com/track/479e6N75lPYvWORxdUp8fZ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [A Puro Dolor / Un Montón de Estrellas \(Live\)](https://open.spotify.com/album/4ZAXQiJmXveCBSefUhlwHE) | 3:12 |
 | 22 | [Cumbia Dile \- En Vivo](https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 6](https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf) | 2:37 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 | 64 | [Jurabas Tu \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 2:11 |
 
-Snapshot ID: `aF4JPwAAAADmRwqr1Ukwe/vvpeHW0ewp`
+Snapshot ID: `aGfUyQAAAADUdlA5cPUthF6jawWJVrPV`

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125224,
+  "num_followers": 125220,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUSRhecGduk5cW6BR1qBZGrZz+eUVZ",
+  "snapshot_id": "AAAUSmq1EfiT8V6mvr3wIGe/n+UfZC8d",
   "tracks": [
+    {
+      "added_at": "2025-07-04 14:16:14",
+      "album": {
+        "name": "Duality (VIP)",
+        "url": "https://open.spotify.com/album/69PpLYqPXWsobyRrEQvVpe"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "duration_ms": 176353,
+      "name": "Duality - VIP",
+      "url": "https://open.spotify.com/track/4myFq10WACySlAAS0vGeTJ"
+    },
     {
       "added_at": "2025-07-03 14:52:54",
       "album": {

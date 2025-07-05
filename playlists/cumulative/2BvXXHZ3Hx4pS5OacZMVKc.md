@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-401 songs - 20 hr 51 min
+402 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 | 2022-10-29 |
 | [Slow Down](https://open.spotify.com/track/1zAljZbhp0j8EBSDEcsRLI) | [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy) | [Slow Down](https://open.spotify.com/album/0HpjiDTMrVazgCn2wT4evB) | 3:37 | 2023-08-10 | 2023-12-09 |
 | [So Good](https://open.spotify.com/track/0C6275GUv27JP82Vc6jXnF) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [So Good](https://open.spotify.com/album/7GuUaitLe4QQQWhwbIs000) | 2:52 | 2025-04-29 |  |
+| [So Sweet](https://open.spotify.com/track/6XekDX1T9H2mcujtuhHIZU) | [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT), [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH) | [So Sweet](https://open.spotify.com/album/4Z1vbwLPqTQ8jgBPeByTSh) | 2:00 | 2025-07-04 |  |
 | [Sock It To Them](https://open.spotify.com/track/5l85ZxVJFmwIGWShOBG0vN) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [Sock It To Them](https://open.spotify.com/album/30H5DnAtCeIGHf0mLblwlK) | 3:06 | 2023-08-10 | 2024-06-20 |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 | 2022-08-06 |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 | 2023-08-11 |

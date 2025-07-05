@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 229253,
       "name": "AS ONE",
       "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234346,
+      "name": "Only US",
+      "url": "https://open.spotify.com/track/6dqNzdwpS4oOf0lb1oOlrY"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -1246,6 +1264,24 @@
       "duration_ms": 151800,
       "name": "PHOENIX (Movie Ver.)",
       "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
+    },
+    {
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251773,
+      "name": "PHOENIX AX",
+      "url": "https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7"
     },
     {
       "album": {
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 183693,
       "name": "\u3048\u304f\u307c",
       "url": "https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf"

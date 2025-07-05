@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Yves Berendse & Donnie, néomí, De Jeugd van Tegenwoordig, Kensington en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,360 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,755 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 75 | [Parasol](https://open.spotify.com/track/3k8YHp0T9fvdje1M20uKEm) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Parasol](https://open.spotify.com/album/6dnJyodjxvmDYvBEX7XE1S) | 3:59 |
 | 76 | [Haast](https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Haast](https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f) | 3:00 |
 
-Snapshot ID: `aGb9iAAAAABtC9CcWLAGGa9Qc57lwsfu`
+Snapshot ID: `aGfedwAAAABFh+pFwRCf6Qlk36E+r9c6`

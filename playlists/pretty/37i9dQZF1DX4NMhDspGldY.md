@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 8 | [Stand on Trial](https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Stand on Trial](https://open.spotify.com/album/4i9qgLAuUYMjocxgpoTg65) | 3:04 |
 | 9 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
 | 10 | [My Mind](https://open.spotify.com/track/22J3tTlWFg4bsLh67jGksy) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [My Mind](https://open.spotify.com/album/5vGnQgOMQtTd8X4rYRejVu) | 3:24 |
-| 11 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
-| 12 | [All I Knew Was You](https://open.spotify.com/track/4VM0AM6vA0OTUvmFbnnigT) | [5X](https://open.spotify.com/artist/1OLc1He3X5Q3yEreHX5FDe) | [All I Knew Was You](https://open.spotify.com/album/7Mu5qrYhWekxQYJcS93tuh) | 3:56 |
+| 11 | [All I Knew Was You](https://open.spotify.com/track/4VM0AM6vA0OTUvmFbnnigT) | [5X](https://open.spotify.com/artist/1OLc1He3X5Q3yEreHX5FDe) | [All I Knew Was You](https://open.spotify.com/album/7Mu5qrYhWekxQYJcS93tuh) | 3:56 |
+| 12 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 13 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 |
 | 14 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 |
 | 15 | [Need Your Touch](https://open.spotify.com/track/26un2NdBK4eLwX5TJCA1eI) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Need Your Touch](https://open.spotify.com/album/0QrWko9I2LyEOgGk2vLE68) | 3:52 |

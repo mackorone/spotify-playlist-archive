@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Don Toliver and Young Nudy.",
+  "description": "Music from Gunna, Don Toliver and Offset. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -2396,6 +2396,28 @@
       "duration_ms": 208000,
       "name": "Angles (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx"
+    },
+    {
+      "album": {
+        "name": "GDLU (Preluxe)",
+        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348144,
+      "name": "Animals (Pt. I) [with Eminem]",
+      "url": "https://open.spotify.com/track/3QKXo5IoMxnVwNm2bMRiVc"
     },
     {
       "album": {
@@ -6964,7 +6986,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 198866,
       "name": "BTA",
       "url": "https://open.spotify.com/track/6SFdQhFy1OBbYNmtNMRDRz"
@@ -12600,7 +12622,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
@@ -22943,6 +22965,24 @@
     },
     {
       "album": {
+        "name": "Kickboxer",
+        "url": "https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ"
+    },
+    {
+      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG"
       },
@@ -25228,7 +25268,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 226863,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
@@ -32436,7 +32476,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 155917,
       "name": "peekaboo (feat. azchike)",
       "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
@@ -48356,6 +48396,24 @@
       "duration_ms": 140487,
       "name": "Went Legit",
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"
+    },
+    {
+      "album": {
+        "name": "WENT WEST",
+        "url": "https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "WENT WEST",
+      "url": "https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj"
     },
     {
       "album": {

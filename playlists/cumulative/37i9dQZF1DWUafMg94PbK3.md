@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-118 songs - 4 hr 11 min
+119 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Monster Truck](https://open.spotify.com/track/3SycSYhHVXYhxeEtfC5JRp) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Monster Truck](https://open.spotify.com/album/5gYtP9cmquChLATkBWuzWP) | 2:14 | 2025-05-23 |  |
 | [Monster Truck](https://open.spotify.com/track/1bMpakeLhw1s1ZCcA8KnhT) | [Sugar Free Allstars](https://open.spotify.com/artist/20jDeqVyKIXRSo4l6ORIWX) | [Sugar Free Allstars](https://open.spotify.com/album/3kOhHCa6SyGFbAkNR0dXLB) | 4:07 | 2019-10-29 |  |
 | [Monster Truck Race / Yellow, Red, Blue](https://open.spotify.com/track/5NK18gYM8pLn5AOxPg9zWO) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Monster Trucks & Construction Machines Songs](https://open.spotify.com/album/7zby52lKuI7bIiopIr4Etf) | 3:15 | 2019-10-29 |  |
+| [My Yellow Car](https://open.spotify.com/track/1niDmaOz2GhJKbFFIRsC8c) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [My Yellow Car](https://open.spotify.com/album/1g7iIi3FkaqeLJ3lVsFYAg) | 2:50 | 2025-07-04 |  |
 | [On a Bike](https://open.spotify.com/track/35Mj7mpxRHYfgZGoi9kcs6) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol\. 2](https://open.spotify.com/album/1VW3sLTTqeQjDpRje85ThB) | 1:30 | 2019-10-29 |  |
 | [On a Bike](https://open.spotify.com/track/7MwZcaEJS24i2KHXwbJEnV) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum](https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj) | 1:30 | 2019-10-29 | 2024-04-19 |
 | [On a Bike](https://open.spotify.com/track/7o5BkhXAlLSFlhhDzMozSA) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 | 2019-10-29 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 166457,
+  "num_followers": 166473,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAADVwjFe/0ise7vEICDfZ4Z9",
+  "snapshot_id": "aGXIAAAAAACeNEvOQ2XanftKWaEGR36c",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Endless War",
-      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Q-Music Sessions",
         "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 246720,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/0tVxMtLxFlc6y4xSX41vKX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Endless War",
+      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Covered by Roses",
-      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 268373,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Covered by Roses",
+      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Don't Pray For Me",
-      "url": "https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 333866,
       "name": "The Howling",
       "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Don't Pray For Me",
+      "url": "https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5"
     },
     {
       "added_at": null,

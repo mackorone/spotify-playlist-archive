@@ -1,13 +1,45 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 18613,
+  "num_followers": 18634,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktVQAAAAButfBd8nbcYXacW82dpIOi",
+  "snapshot_id": "aGdR0gAAAAAvHSspBslMds9TkcoT0cdm",
   "tracks": [
+    {
+      "added_at": "2025-07-04 04:00:18",
+      "album": {
+        "name": "Upon Arrival",
+        "url": "https://open.spotify.com/album/0i4qVBoh5czpvFAzezcrFU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 204832,
+      "name": "Upon Arrival",
+      "url": "https://open.spotify.com/track/5AqO5MfeOGIgjnjgUaiSOt"
+    },
+    {
+      "added_at": "2025-07-04 04:00:18",
+      "album": {
+        "name": "2019",
+        "url": "https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh"
+    },
     {
       "added_at": "2025-05-30 04:00:21",
       "album": {
@@ -91,22 +123,6 @@
       "duration_ms": 280489,
       "name": "Four In The Morning",
       "url": "https://open.spotify.com/track/5LnDdFPjJkrUDt9BOoJMfS"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Walk Out The Door",
-        "url": "https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE"
-      },
-      "artists": [
-        {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Walk Out The Door",
-      "url": "https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 277866,
       "name": "Konichiwa",
       "url": "https://open.spotify.com/track/5qY5MMXsrlCmYj9X4qKqBX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Back On the Music!",
-        "url": "https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB"
-      },
-      "artists": [
-        {
-          "name": "Paul Cherry",
-          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Back On The Music!",
-      "url": "https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg"
     },
     {
       "added_at": "2023-09-01 04:00:00",

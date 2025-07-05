@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: OurR \(아월\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-987 songs - 2 day 12 hr 0 min
+989 songs - 2 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Dreaming me](https://open.spotify.com/track/48yWAEKHXC7HZumnUvoqoc) | [Hyeong Min](https://open.spotify.com/artist/46oTnauRqldja8Zxdxyjsi) | [Dreaming me](https://open.spotify.com/album/0gnOekyeHjuZwQF2yRkcms) | 4:14 | 2021-12-21 | 2022-07-23 |
 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 | 2022-03-03 | 2022-04-18 |
 | [Dress](https://open.spotify.com/track/0ox9eoIW3U1MpFXWH20LV6) | [Tejong](https://open.spotify.com/artist/3XWBLSm4ZehGW3NIcCCfZF) | [Dress](https://open.spotify.com/album/2VTUFlWwiZ2hgfo4XLxI4s) | 3:59 | 2024-04-30 | 2024-05-10 |
+| [Drifter](https://open.spotify.com/track/3dSCkpgpRjNMdNRT9l2qlw) | [RecordTheVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [Drifter](https://open.spotify.com/album/19QJBFMMfDDNos1Zuc4MlN) | 3:51 | 2025-07-04 |  |
 | [Dwaeji Gukbap](https://open.spotify.com/track/4BjcOOlE57CRTGwOPMHJLc) | [Legend Choi](https://open.spotify.com/artist/7y6MINRLLV1YKsflvQKRXC) | [Dwaeji Gukbap](https://open.spotify.com/album/2CLx1E1CMNB4WMypc4Kx0l) | 2:48 | 2024-11-06 | 2024-11-21 |
 | [E\-Girl \(Feat\. So!YoON!\)](https://open.spotify.com/track/3NnTjY5oUN3rg5rEBLm6At) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [SWEET HE♡RT](https://open.spotify.com/album/55QqeroaRqbgA9wp4mIQHo) | 2:47 | 2024-05-10 | 2024-05-17 |
 | [E\-oh!](https://open.spotify.com/track/0gGQD3ClABn0YPG8Cq1und) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [E\-oh!](https://open.spotify.com/album/3XLLaTBFEWt3MCkByEUyTV) | 3:30 | 2025-05-23 | 2025-05-26 |
@@ -246,6 +247,7 @@
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-03-31 | 2022-07-23 |
 | [Everything Bagel](https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3) | [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Everything Bagel](https://open.spotify.com/album/2Kp8ezqdUoEN3kYE7iecCB) | 3:09 | 2024-11-06 | 2024-12-20 |
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
+| [exchange \- student](https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [exchange \- student](https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt) | 3:09 | 2025-07-04 |  |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
 | [Expression](https://open.spotify.com/track/3TvohDfitHnEuXSJuJyIzr) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Expression](https://open.spotify.com/album/5LTSYg2669brAmWN7bjWG2) | 3:21 | 2021-12-21 | 2022-04-12 |
 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2024-08-06 |
@@ -302,7 +304,7 @@
 | [Gentle Breeze](https://open.spotify.com/track/0gywQujjcGhh1XAjMkjhwd) | [OLIVER](https://open.spotify.com/artist/4WzpqecdwnCeWATK2UpssH) | [Gentle Breeze](https://open.spotify.com/album/5Cvj2fZ0NE49eYxq51UBvk) | 3:11 | 2021-12-21 | 2022-07-06 |
 | [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 | 2025-05-19 | 2025-06-05 |
 | [Getting the Season](https://open.spotify.com/track/66ZCqYrneHDfVoxE3cE5O0) | [Ryoni](https://open.spotify.com/artist/4i9PKdDoAnZi9xC9VhqbdM) | [Getting the Season](https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW) | 4:14 | 2022-03-31 | 2022-04-15 |
-| [Ghost](https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Ghost](https://open.spotify.com/album/2Snl4Z0vZx5hBaAwVP4dHf) | 3:15 | 2025-06-30 |  |
+| [Ghost](https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Ghost](https://open.spotify.com/album/2Snl4Z0vZx5hBaAwVP4dHf) | 3:15 | 2025-06-30 | 2025-07-05 |
 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 | 2024-12-19 | 2025-03-05 |
 | [Ghost Theatre](https://open.spotify.com/track/40iWsP5PYbpJB7uC4eE5pU) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [Ghost Theatre](https://open.spotify.com/album/4eN3Dzm5FEaPly9th3vjeQ) | 5:34 | 2024-04-30 | 2024-05-10 |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 | 2022-08-05 |
@@ -310,7 +312,7 @@
 | [Girl to a Bride](https://open.spotify.com/track/77oYxuIZpbKKRQC2DUtwkt) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [XOXO: Your Wedding Song](https://open.spotify.com/album/1VQ38HctrDL20BpOUHvf0y) | 3:26 | 2022-05-11 | 2022-06-09 |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-28 | 2023-03-28 |
 | [Gloomy melody](https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Gloomy melody](https://open.spotify.com/album/5Ir0Ou7xH6smsOdvdelFYo) | 2:38 | 2024-04-30 | 2024-05-10 |
-| [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-06-23 |  |
+| [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-06-23 | 2025-07-05 |
 | [Glow Stars](https://open.spotify.com/track/0J5vwP4zOkZxBBkJSFUIZr) | [서예안](https://open.spotify.com/artist/4XcyxfvYDxE4RhYNZlfyUD) | [Glow Stars](https://open.spotify.com/album/1tTDA9MOyLBhbD1RELSXsO) | 3:04 | 2024-04-30 | 2024-05-10 |
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 | 2025-01-23 |
 | [Go Back](https://open.spotify.com/track/4GhDaROSZ1HHh6qGHxBR0O) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Go Back](https://open.spotify.com/album/5nrTyyRN42maHoTsNt5veZ) | 4:13 | 2024-07-22 | 2024-08-29 |
@@ -398,7 +400,7 @@
 | [I'll Get Off](https://open.spotify.com/track/5benJ7SrT8nDWv5folm7bi) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [I'll Get Off](https://open.spotify.com/album/0GlIcMH98qVp8K8UmbuS0h) | 3:22 | 2024-01-05 | 2024-01-16 |
 | [I'm Going](https://open.spotify.com/track/1Mj5qNzOaOJRRJZc5tA3KP) | [손예지](https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8) | [I'm Going](https://open.spotify.com/album/7f1FVjcvBUGQ99p5rkB1nQ) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [I'm Homeless](https://open.spotify.com/track/5jYioe70lpLaSRgyhDA8ZJ) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I'm Homeless](https://open.spotify.com/album/1JAyIVuV1OccG70eLBkWkc) | 2:30 | 2023-02-14 | 2023-03-01 |
-| [I'm OK](https://open.spotify.com/track/4OxFRgh7FWNU4v7eFzHzkZ) | [미래](https://open.spotify.com/artist/2KYWKQ4JtQwTpoHKPjHHxF) | [I'm OK](https://open.spotify.com/album/2ljEGAZdyZT56xoSbEGIBC) | 2:30 | 2025-06-27 |  |
+| [I'm OK](https://open.spotify.com/track/4OxFRgh7FWNU4v7eFzHzkZ) | [미래](https://open.spotify.com/artist/2KYWKQ4JtQwTpoHKPjHHxF) | [I'm OK](https://open.spotify.com/album/2ljEGAZdyZT56xoSbEGIBC) | 2:30 | 2025-06-27 | 2025-07-05 |
 | [I'MMORTAL \(feat\. sogumm\)](https://open.spotify.com/track/7lNm1tvWp2EEKE6293Iuj8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [I'MMORTAL](https://open.spotify.com/album/6yuKLd2o2NAdlHe7EIRiiM) | 3:55 | 2022-07-04 | 2022-07-28 |
 | [ICARUS](https://open.spotify.com/track/6I1VYleHY5n6RJujfFvj33) | [Kim Sookhyung](https://open.spotify.com/artist/5Yjiiksbgd959gXHO7H7in), [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ) | [ICARUS](https://open.spotify.com/album/7hauZJUoi314kbFesqZ5Jt) | 3:08 | 2022-12-21 | 2023-01-05 |
 | [Ice Dance](https://open.spotify.com/track/326DIiir3XRRgRpJinCls9) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Ice Dance](https://open.spotify.com/album/6Q2tJ19xmyWRZzlb9LypZC) | 3:47 | 2022-03-31 | 2022-06-01 |
@@ -495,7 +497,7 @@
 | [love and hatred](https://open.spotify.com/track/6RIhYubAexXYmq2LGqAGIa) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [love and hatred](https://open.spotify.com/album/6yEmEdDzRy3kUGOcIz6qzG) | 2:50 | 2024-11-06 | 2025-01-23 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 | 2023-03-01 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2024-05-16 |
-| [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 | 2025-05-30 | 2025-06-13 |
+| [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 | 2025-05-30 |  |
 | [Love letter](https://open.spotify.com/track/6ilYsOd0s4HLgUWmByEb8b) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Love letter](https://open.spotify.com/album/1PtHh5uwtCqVziHfkkXFY5) | 4:10 | 2024-10-15 | 2024-11-30 |
 | [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 | 2022-08-19 | 2022-09-06 |
 | [Love Lost](https://open.spotify.com/track/3S6rPD9U4esvHwgYe3d1hk) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Love Lost](https://open.spotify.com/album/4RB7FLLcYwNpkdyZdIrEu2) | 3:06 | 2023-02-14 | 2023-03-01 |

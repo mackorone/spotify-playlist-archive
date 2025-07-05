@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 112692,
+  "num_followers": 112816,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Heard It Like This",
+        "url": "https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "duration_ms": 220461,
+      "name": "Heard It Like This",
+      "url": "https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -635,42 +655,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Heard It Like This",
-        "url": "https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        }
-      ],
-      "duration_ms": 220461,
-      "name": "Heard It Like This",
-      "url": "https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr"
-    },
-    {
-      "added_at": "2024-09-16 18:33:06",
-      "album": {
-        "name": "FORMIDABLE",
-        "url": "https://open.spotify.com/album/0SMGp4F2NJH7sX2s4wv6HY"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "FORMIDABLE",
-      "url": "https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2024-09-16 18:33:06",
+      "album": {
+        "name": "FORMIDABLE",
+        "url": "https://open.spotify.com/album/0SMGp4F2NJH7sX2s4wv6HY"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "FORMIDABLE",
+      "url": "https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 245985,
-      "name": "Don't Ask",
-      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dark Times",
         "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 198630,
       "name": "Black&Blue",
       "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Garden State Vampire",
-        "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 240917,
-      "name": "Everybody's Different",
-      "url": "https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Silence Of Love",
         "url": "https://open.spotify.com/album/00UQmxp15bECetcjau5hTO"
       },
@@ -1407,22 +1391,18 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Blindside",
-        "url": "https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk"
+        "name": "Garden State Vampire",
+        "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
         }
       ],
-      "duration_ms": 174855,
-      "name": "Blindside",
-      "url": "https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX"
+      "duration_ms": 240917,
+      "name": "Everybody's Different",
+      "url": "https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1443,6 +1423,26 @@
       "duration_ms": 180480,
       "name": "Lost In Mumbai",
       "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 174855,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Berghain (feat. Barney Bones)",
+        "url": "https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Berghain (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "GEORGE",
         "url": "https://open.spotify.com/album/5YYgmFU4aVssLNV0ISnZuv"
       },
@@ -1971,26 +1991,6 @@
       "duration_ms": 292364,
       "name": "Black Eye",
       "url": "https://open.spotify.com/track/67P2PR85vDePx5x2wvCL2V"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Berghain (feat. Barney Bones)",
-        "url": "https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Berghain (feat. Barney Bones)",
-      "url": "https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6"
     },
     {
       "added_at": "2024-09-16 11:00:00",

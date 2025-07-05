@@ -3861,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Shouldn't Drink No More",
+        "url": "https://open.spotify.com/album/28oQSClPcThd1YJ7CgvNBB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182516,
+      "name": "Shouldn't Drink No More",
+      "url": "https://open.spotify.com/track/4wnFOQyQvgqbSFNDVR7wMV"
+    },
+    {
+      "album": {
         "name": "Silverado-si-do",
         "url": "https://open.spotify.com/album/4mZpINDx7oZJcrLVx6HTC7"
       },
@@ -4280,6 +4298,24 @@
       "duration_ms": 166400,
       "name": "Tears That You'll Never Find",
       "url": "https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2"
+    },
+    {
+      "album": {
+        "name": "Tequila Gold",
+        "url": "https://open.spotify.com/album/0sL5GkqnABYOrb2mUUQlH5"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182918,
+      "name": "Tequila Gold",
+      "url": "https://open.spotify.com/track/1pcTINzxpKJ2Fu64MWfLyS"
     },
     {
       "album": {
@@ -4712,7 +4748,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 156544,
       "name": "Wake Up!",
       "url": "https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC"
@@ -5172,7 +5208,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 144950,
       "name": "Write About You",
       "url": "https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes"

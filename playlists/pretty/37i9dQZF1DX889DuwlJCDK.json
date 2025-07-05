@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: This is LAST",
-  "num_followers": 19869,
+  "num_followers": 19903,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
+        "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+        "url": "https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 198833,
+      "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
+      "url": "https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/3lIOBUtWhcp2urQAyErTpg"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 247226,
       "name": "\u5357\u65b0\u753a",
       "url": "https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
-        "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
-        "url": "https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 198833,
-      "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
-      "url": "https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc"
     },
     {
       "added_at": "2025-07-01 16:34:53",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/16CHtQZHjbQj81UiGCORo5"
-      },
-      "artists": [
-        {
-          "name": "KAMI WA SAIKORO WO FURANAI",
-          "url": "https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "Lovey Dovey",
-      "url": "https://open.spotify.com/track/0U3EVAfwbZdN93z7ICu9gI"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
         "name": "\u541b\u306b\u5922\u4e2d!!",
         "url": "https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 233037,
       "name": "\u541b\u306b\u5922\u4e2d!!",
       "url": "https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/16CHtQZHjbQj81UiGCORo5"
+      },
+      "artists": [
+        {
+          "name": "KAMI WA SAIKORO WO FURANAI",
+          "url": "https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "Lovey Dovey",
+      "url": "https://open.spotify.com/track/0U3EVAfwbZdN93z7ICu9gI"
     },
     {
       "added_at": "2025-07-01 16:34:53",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
-        "name": "Fix",
-        "url": "https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Fix",
-      "url": "https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
         "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 188130,
       "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
+        "name": "Fix",
+        "url": "https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Fix",
+      "url": "https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d"
     },
     {
       "added_at": "2025-07-01 16:34:53",
@@ -1275,6 +1275,22 @@
       "duration_ms": 286689,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306b\u3057\u3066",
       "url": "https://open.spotify.com/track/5WoE5XLxLdr8TWdHRNuQZZ"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
+        "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
+        "url": "https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
+      "url": "https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs"
     },
     {
       "added_at": "2025-07-01 16:34:53",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
-        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb",
-        "url": "https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 211907,
-      "name": "\u30ab\u30fc\u30cb\u30d0\u30eb",
-      "url": "https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
         "name": "\u30d6\u30eb\u30fc\u30b7\u30d5\u30c8",
         "url": "https://open.spotify.com/album/5oAZrUOyJ5bODLqWsB8PMA"
       },
@@ -1359,34 +1359,18 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
-        "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
-        "url": "https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7"
+        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb",
+        "url": "https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS"
       },
       "artists": [
         {
-          "name": "yutori",
-          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
         }
       ],
-      "duration_ms": 233360,
-      "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
-      "url": "https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
-        "name": "\u7d19\u98a8\u8239",
-        "url": "https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 194534,
-      "name": "\u7d19\u98a8\u8239",
-      "url": "https://open.spotify.com/track/6PnVH4Baj1g8Dyy1XwG0xx"
+      "duration_ms": 211907,
+      "name": "\u30ab\u30fc\u30cb\u30d0\u30eb",
+      "url": "https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7"
     },
     {
       "added_at": "2025-07-01 16:34:53",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
+        "name": "\u7d19\u98a8\u8239",
+        "url": "https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "duration_ms": 194534,
+      "name": "\u7d19\u98a8\u8239",
+      "url": "https://open.spotify.com/track/6PnVH4Baj1g8Dyy1XwG0xx"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
         "name": "\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc",
         "url": "https://open.spotify.com/album/6Py14Bzgq3wiuUVdy6QGDS"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 252426,
       "name": "\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc",
       "url": "https://open.spotify.com/track/0K8YQCXjT5QCOJrdZFimG9"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
+        "name": "\u5171\u72af\u8005",
+        "url": "https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "\u5171\u72af\u8005",
+      "url": "https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF"
     },
     {
       "added_at": "2025-07-01 16:34:53",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
-        "name": "\u5171\u72af\u8005",
-        "url": "https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i"
-      },
-      "artists": [
-        {
-          "name": "\u540d\u8a89\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "\u5171\u72af\u8005",
-      "url": "https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
         "name": "\u518d\u4f1a",
         "url": "https://open.spotify.com/album/2VOnqcBzypWwUAd6enWkGg"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
-        "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8 (Reproduced 2025)",
-        "url": "https://open.spotify.com/album/3qbnAZagfEhj89YL5oz5jv"
-      },
-      "artists": [
-        {
-          "name": "KAMI WA SAIKORO WO FURANAI",
-          "url": "https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8 - Reproduced 2025",
-      "url": "https://open.spotify.com/track/0evPEb81K3yp0R33pIB5aB"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
         "name": "Light Maker",
         "url": "https://open.spotify.com/album/6iqAiNPAAZsROJfCaGz7ti"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 193208,
       "name": "Light Maker",
       "url": "https://open.spotify.com/track/5K81RTZRNdVjTB06gn9ftm"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
+        "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8 (Reproduced 2025)",
+        "url": "https://open.spotify.com/album/3qbnAZagfEhj89YL5oz5jv"
+      },
+      "artists": [
+        {
+          "name": "KAMI WA SAIKORO WO FURANAI",
+          "url": "https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8 - Reproduced 2025",
+      "url": "https://open.spotify.com/track/0evPEb81K3yp0R33pIB5aB"
     },
     {
       "added_at": "2025-07-01 16:34:53",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-07-01 16:34:53",
       "album": {
-        "name": "sekisei inko",
-        "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
-      },
-      "artists": [
-        {
-          "name": "kurayamisaka",
-          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "sekisei inko",
-      "url": "https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ"
-    },
-    {
-      "added_at": "2025-07-01 16:34:53",
-      "album": {
         "name": "\u3044\u305f\u3044",
         "url": "https://open.spotify.com/album/2DtTw78HZaP7aGhYsaJzhG"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 196266,
       "name": "\u3044\u305f\u3044",
       "url": "https://open.spotify.com/track/6MSosUtVQ7O4uZBF9EPAZg"
+    },
+    {
+      "added_at": "2025-07-01 16:34:53",
+      "album": {
+        "name": "sekisei inko",
+        "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "duration_ms": 207745,
+      "name": "sekisei inko",
+      "url": "https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

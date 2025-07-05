@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 178 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472 likes - 178 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 52 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 |
 | 53 | [Unlonely](https://open.spotify.com/track/7Igc6JB0xPDcn5yRkkVGQX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:51 |
 | 54 | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/track/5stBjr01wRUJa6BGqkxPD7) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/album/0xK3vVeEMBZCn0CVTTaYL9) | 3:19 |
-| 55 | [Should've Been Me](https://open.spotify.com/track/27Bm0wnZk7NGFGYoTuYM8Y) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Should've Been Me](https://open.spotify.com/album/14knqLZ1yBtkXtGRXgFgYp) | 4:04 |
-| 56 | [Drop In the Ocean \(feat\. AronChupa\)](https://open.spotify.com/track/07idyjb93qYavu1s29HtBi) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 2:57 |
+| 55 | [Drop In the Ocean \(feat\. AronChupa\)](https://open.spotify.com/track/07idyjb93qYavu1s29HtBi) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 2:57 |
+| 56 | [Should've Been Me](https://open.spotify.com/track/27Bm0wnZk7NGFGYoTuYM8Y) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Should've Been Me](https://open.spotify.com/album/14knqLZ1yBtkXtGRXgFgYp) | 4:04 |
 | 57 | [Riptide](https://open.spotify.com/track/7dTd00X8Mc5iErfQQyBA6B) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:51 |
 | 58 | [Safety Pin](https://open.spotify.com/track/5leyWMqJqUXT7wc70koshC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Sounds Good Feels Good \(Deluxe\)](https://open.spotify.com/album/43v9cUsP5K0hvu9iyuAzmZ) | 3:29 |
 | 59 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 177 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 178 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Ab10XgAAAAA8eOQB4TMS7mEPzgtm70Jc`
+Snapshot ID: `Ab159AAAAABzv9rDR4vcBqLi2ClSNh6A`

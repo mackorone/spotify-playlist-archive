@@ -1,13 +1,29 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Devon Gabriella",
-  "num_followers": 218573,
+  "num_followers": 218572,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XZwAAAAD4nJxISaGSvJ1kbY/6ha0a",
+  "snapshot_id": "aGdR2AAAAAC8Ub2jCTnbaq9QBMCo3uEj",
   "tracks": [
+    {
+      "added_at": "2025-06-27 04:00:39",
+      "album": {
+        "name": "Do You Like That, Baby?",
+        "url": "https://open.spotify.com/album/0hdsmDJb71T5Uupl2TiWXI"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Do You Like That, Baby?",
+      "url": "https://open.spotify.com/track/1I7QWW2rjALUtIDrVBWJQm"
+    },
     {
       "added_at": "2025-06-27 04:00:39",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW"
     },
     {
-      "added_at": "2025-06-27 04:00:39",
+      "added_at": "2025-07-04 04:00:24",
       "album": {
-        "name": "Do You Like That, Baby?",
-        "url": "https://open.spotify.com/album/0hdsmDJb71T5Uupl2TiWXI"
+        "name": "Salt Stained Lungs",
+        "url": "https://open.spotify.com/album/29lRw042Sd7EqT5BS6aNA2"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "Lauren Wallace",
+          "url": "https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu"
         }
       ],
-      "duration_ms": 198680,
-      "name": "Do You Like That, Baby?",
-      "url": "https://open.spotify.com/track/1I7QWW2rjALUtIDrVBWJQm"
+      "duration_ms": 214922,
+      "name": "People Who Love People",
+      "url": "https://open.spotify.com/track/3ph60eaOkjFlIBVNqbGuJS"
     },
     {
       "added_at": "2025-06-20 00:00:02",
@@ -443,22 +459,6 @@
       "duration_ms": 181888,
       "name": "Wicked Nature",
       "url": "https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk"
-    },
-    {
-      "added_at": "2025-05-23 00:00:24",
-      "album": {
-        "name": "Hey Ma",
-        "url": "https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 240123,
-      "name": "Hey Ma",
-      "url": "https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged"
     },
     {
       "added_at": "2025-05-18 17:45:15",

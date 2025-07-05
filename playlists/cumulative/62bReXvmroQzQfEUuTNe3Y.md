@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for Summer 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-477 songs - 1 day 2 hr 45 min
+478 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,11 +119,12 @@
 | [Fade \- Your Eyes Vocal Edit](https://open.spotify.com/track/0Il7aXEcgGpJ1gCMQYeAMe) | [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp), [Lucia](https://open.spotify.com/artist/2q125u4SujtYj8A0Zs3R7Z) | [Fade E.P\. \(Incl\. Remix By Lexer\)](https://open.spotify.com/album/7GGC5AySPrPqj0ritAovrb) | 6:03 | 2020-09-13\* | 2021-03-06 |
 | [Feel Good Inc.](https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Good Inc.](https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb) | 2:53 | 2021-03-06 | 2021-10-16 |
 | [Feel Like Home \- Embody Remix](https://open.spotify.com/track/4ZLQGkK1EMtFtYXistZ08R) | [Sander Kleinenberg](https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Feel Like Home \(Remixes\)](https://open.spotify.com/album/4uvxD8sm2XLCP4GTCZJihI) | 2:57 | 2020-09-13\* | 2021-03-06 |
-| [Feel Your Body](https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Feel Your Body](https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8) | 2:56 | 2022-08-05 |  |
+| [Feel Your Body](https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Feel Your Body](https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8) | 2:56 | 2022-08-05 | 2025-07-05 |
 | [Feelings](https://open.spotify.com/track/1ZSuGfwnaWCLfIIVS5Qxp7) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Feelings](https://open.spotify.com/album/5syLJL7AyN1ZDfA1mvr2Nw) | 3:40 | 2020-09-13\* | 2021-07-24 |
 | [Feels so Good](https://open.spotify.com/track/4VLfNAwn0eo218nImtwvpN) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Feels so Good](https://open.spotify.com/album/2aCKYrT06QIhh7t1xy4Dnh) | 2:27 | 2022-12-02 | 2023-02-04 |
 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 | 2021-03-11 |  |
 | [Fire](https://open.spotify.com/track/3wuVn9TJsfWYZnaTSicrx1) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Fire](https://open.spotify.com/album/3916RvUXnF5pTl3awG2yGM) | 1:53 | 2021-06-26 | 2021-10-23 |
+| [Fix Me](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ) | [CAKES](https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Fix Me](https://open.spotify.com/album/1wxSeFkiRvvvYlWrGAhWGU) | 2:59 | 2025-07-04 |  |
 | [Flames \(feat\. Ruel\)](https://open.spotify.com/track/4JiuLIWKkLH2iluzOhXh5Y) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Flames \(feat\. Ruel\) \[Lastlings Remix\]](https://open.spotify.com/album/79jCjSW0TiYcTKhJLeQ9Hk) | 3:36 | 2021-06-12 | 2021-07-17 |
 | [For You](https://open.spotify.com/track/0OI2vd19P36SiBrrXjse3w) | [Maone](https://open.spotify.com/artist/3lHCbPkaSUJPiqQ9ZJLEOj) | [For You](https://open.spotify.com/album/4ob30Xa8SQR8vzs4sas7yh) | 2:53 | 2022-02-11 | 2022-06-07 |
 | [FORMATIONS](https://open.spotify.com/track/1DRLIUG8HFTBfJOFYaByZn) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 2:57 | 2024-02-23 | 2025-06-28 |

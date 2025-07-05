@@ -4,7 +4,7 @@
 
 > La playlist que prende la fiesta.
 
-475 songs - 1 day 3 hr 53 min
+476 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Dale Activaa](https://open.spotify.com/track/6A8S10AECx3yqV2F5ExDnc) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Dale Activaa](https://open.spotify.com/album/1SoiS9BfdMszU4scw6ENQb) | 3:13 | 2022-06-09 | 2022-06-25 |
 | [Dance monkey](https://open.spotify.com/track/7vGju2O4LYSNwHVlTlxjh8) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Dance monkey](https://open.spotify.com/album/6YbfXZ583tbY3kuQoXhjgg) | 3:45 | 2022-06-17 | 2022-07-28 |
 | [De Ahí](https://open.spotify.com/track/59MN1aOpePepwrpmNdkVlA) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE) | [De Ahí](https://open.spotify.com/album/6BKiolA3MKFhps2rfKecmd) | 2:27 | 2022-05-13 | 2022-07-27 |
-| [De Cora <3](https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:10 | 2022-05-13 |  |
+| [De Cora <3](https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:10 | 2022-05-13 | 2025-07-05 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-02-10 | 2025-03-08 |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/06oYXNcaTwKAlDg1uqvnSR) | [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Deja de Llorar](https://open.spotify.com/album/0bSs0ly2sGFwLnokPatqRn) | 1:25 | 2022-05-13 | 2022-07-23 |
 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-28 |  |
@@ -427,6 +427,7 @@
 | [Tinty Nasty](https://open.spotify.com/track/1e0NatUVfOD9xRgeXSedrl) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Tinty Nasty](https://open.spotify.com/album/2svQMn9RrCglH2SbMIqlzU) | 3:07 | 2022-07-14 | 2022-07-16 |
 | [TITAN](https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2) | 2:02 | 2022-05-13 | 2022-07-29 |
 | [TO LO DÍAS ES 420](https://open.spotify.com/track/3FFr3Dllm8qLNtteC9IcBk) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TO LO DÍAS ES 420](https://open.spotify.com/album/2NRgFNHyPp1T8iqRpJRLNk) | 2:55 | 2023-05-19 | 2023-06-10 |
+| [Todo Me Da Vuelta](https://open.spotify.com/track/08egYib47iMghlgJ8q3GUG) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Todo Me Da Vuelta](https://open.spotify.com/album/4FrbBi5jGDUwWR2GGQ7wuz) | 2:20 | 2025-07-04 |  |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-05-13 |  |
 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 | 2022-05-13 | 2022-10-21 |
 | [Travesuras \- Remix](https://open.spotify.com/track/4tZEIja9Qo2UOPCdtUH7DF) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Maty Deejay](https://open.spotify.com/artist/2q6Gq9jlgpNEWgOzRZELQP) | [Travesuras \(Remix\)](https://open.spotify.com/album/5dg9bhPwSjK9yQ2Of79kiY) | 2:38 | 2022-06-17 | 2022-07-11 |

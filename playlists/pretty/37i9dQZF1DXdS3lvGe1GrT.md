@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Celebrating 10 years of the best new folk music from independent artists\. Cover: Tommy WÁ
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,905 likes - 130 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,959 likes - 130 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 5 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
 | 6 | [My Love Is Free](https://open.spotify.com/track/1TzdiVSUg4y1FzVYQKFx2P) | [Mike Kota](https://open.spotify.com/artist/4XQTByA2uvyebfXRZFseV6) | [My Love Is Free](https://open.spotify.com/album/2q2HUL8YO2qRKSCpQFVkmk) | 6:46 |
 | 7 | [Fucking Games](https://open.spotify.com/track/2AeEdDUGn1iUilYGcsuLtk) | [Akeeda](https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK) | [I Forget Myself](https://open.spotify.com/album/3qvh4z5Tbe4th26RZpqHFe) | 3:36 |
-| 8 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear as Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
+| 8 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear As Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
 | 9 | [Life After Death](https://open.spotify.com/track/1ywudI4qwz79dpTC8l5ugL) | [Wells Ferrari](https://open.spotify.com/artist/7y3H6facbUSu09KdIycZu0), [Mikey Ferrari](https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7), [Will Wells](https://open.spotify.com/artist/4okeaWBRoehWh3jJ9x6N4Z) | [Life After Death](https://open.spotify.com/album/6RRnGTNdhhNUVTbB8MtsuS) | 3:11 |
 | 10 | [where will I go now?](https://open.spotify.com/track/0B5E9CqUZspiokHwi3KmXg) | [Downey Chase](https://open.spotify.com/artist/3JXZ7DSkdeW6hqJ06iNJOl) | [where will I go now?](https://open.spotify.com/album/1ehQOCO0mZBfqRJ6kBMt5V) | 3:05 |
 | 11 | [If I Can’t Win \(With You\)](https://open.spotify.com/track/0xcQe52wlh6AcndADrKF7S) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG) | [If I Can’t Win \(With You\)](https://open.spotify.com/album/5YvyCqKE2qP59fJjGSIONc) | 3:20 |

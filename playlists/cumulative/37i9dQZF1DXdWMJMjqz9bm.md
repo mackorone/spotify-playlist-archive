@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Kevin Abstract
 
-737 songs - 1 day 9 hr 38 min
+738 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Girl U My Plug](https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Girl U My Plug](https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302) | 3:19 | 2022-04-22 | 2022-05-07 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2022-07-07 |
 | [girls like you](https://open.spotify.com/track/6rPwolS0uPBqqe2KGOSTcU) | [Obai](https://open.spotify.com/artist/54u3tnWEeHQ7UfY0FXJZ8h) | [girls like you](https://open.spotify.com/album/6LcODo6pn4vz9XokfBsmfN) | 2:17 | 2023-11-10 | 2024-06-01 |
-| [go](https://open.spotify.com/track/4H448E9IQ0TV4nmLRMJ2BH) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [for us](https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf) | 2:19 | 2025-05-16 |  |
+| [go](https://open.spotify.com/track/4H448E9IQ0TV4nmLRMJ2BH) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [for us](https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf) | 2:19 | 2025-05-16 | 2025-07-05 |
 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 | 2023-07-21 | 2024-03-16 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-11-21 | 2023-06-17 |
 | [good day](https://open.spotify.com/track/3QK8wVrYJD2C6DAIypaXW1) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [good day](https://open.spotify.com/album/4Yyn7HIrbeCp8tQuNAF3C4) | 2:48 | 2022-07-11 | 2022-07-23 |
@@ -516,6 +516,7 @@
 | [Play Dumb](https://open.spotify.com/track/3mUZEL6JHbTzjGheGP6Qz9) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [Play Dumb](https://open.spotify.com/album/7HMgaC6WOyaHmeG4TdEFyZ) | 2:37 | 2022-02-25 | 2022-05-07 |
 | [Please Don't Go](https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:16 | 2022-04-04 | 2022-06-18 |
 | [POISON!](https://open.spotify.com/track/0okaDpkRq0rpIuf1dC0VEr) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [POISON!](https://open.spotify.com/album/1YFdxsXeuQkSzvh7YhHp4N) | 2:27 | 2021-12-03 | 2022-02-26 |
+| [Pop Out](https://open.spotify.com/track/0WyO63CxKjKsTBMlTsb4CP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Drigo](https://open.spotify.com/artist/22SOlSw4QOrYYarJbS2VA6), [E Bleu](https://open.spotify.com/artist/5iFK29ta4wFeMTSqxc4CMt), [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:21 | 2025-07-04 |  |
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-05-05 | 2024-03-16 |
 | [PRADA ME](https://open.spotify.com/track/3LCpL8sZLGBNw7KwzDyHwE) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [PRADA ME](https://open.spotify.com/album/5KbRQhHI3WZVr9DaIjPd3z) | 3:12 | 2022-08-05 | 2022-09-17 |
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 | 2022-04-04 | 2022-07-09 |

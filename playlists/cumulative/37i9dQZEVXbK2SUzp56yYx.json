@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 102631,
       "name": "AGENT-PROVOCATEUR",
       "url": "https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 156734,
       "name": "Bayern Demon",
       "url": "https://open.spotify.com/track/3kMDwJfJC8uxvmYy2zuMTn"
@@ -5712,7 +5712,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -9774,7 +9774,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 179395,
       "name": "Lemon Drop",
       "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
@@ -15086,7 +15086,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -15104,7 +15104,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -20572,7 +20572,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 93544,
       "name": "\u0430\u0432\u0442\u043e\u0437\u0430\u043f\u0440\u0430\u0432\u043a\u0430",
       "url": "https://open.spotify.com/track/1Vzs4HHhseSJwhaxs72Ts1"
@@ -21580,7 +21580,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 148071,
       "name": "\u0411\u0440\u0430\u0433\u0438 \u0434\u0432\u0430 \u0431\u0438\u0434\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/0dUSYynpQkugfJ6Ic4LVKU"
@@ -22296,6 +22296,24 @@
     {
       "album": {
         "name": "\u0411\u044b\u043b\u044c \u0432 \u0433\u043b\u0430\u0437\u0430",
+        "url": "https://open.spotify.com/album/49pSPE0OZ9h28uttw0qcOx"
+      },
+      "artists": [
+        {
+          "name": "Kasta",
+          "url": "https://open.spotify.com/artist/5I37oVgAnT7OGiqKJSMVRH"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0448\u0443\u043c",
+      "url": "https://open.spotify.com/track/4xsywhNm9UliJbrp81Bzc7"
+    },
+    {
+      "album": {
+        "name": "\u0411\u044b\u043b\u044c \u0432 \u0433\u043b\u0430\u0437\u0430",
         "url": "https://open.spotify.com/album/0HQRLT73BJSUnojMuFQdv9"
       },
       "artists": [
@@ -22306,7 +22324,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 215680,
       "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0448\u0443\u043c",
       "url": "https://open.spotify.com/track/5NqhAFTgPTsxhm7kDhfVCw"
@@ -30910,7 +30928,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 108000,
       "name": "\u0442\u0430\u043a \u043f\u043e\u0445\u0443\u0439",
       "url": "https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv"
@@ -32922,7 +32940,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 116307,
       "name": "\u044d\u0442\u043e \u043b\u0438 \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/2srZOnoESIrv4FZ4XwXZT0"
@@ -33678,7 +33696,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
@@ -33718,7 +33736,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 211677,
       "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
       "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"

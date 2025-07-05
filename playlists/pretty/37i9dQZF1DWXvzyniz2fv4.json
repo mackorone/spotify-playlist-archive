@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158776,
+  "num_followers": 158781,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -8,30 +8,6 @@
   },
   "snapshot_id": "aENdkgAAAACysWh8x9GlK4FqiH6hgmMR",
   "tracks": [
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
-        "name": "MAIOR QUE O TEMPO",
-        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 228349,
-      "name": "MULHER SECRETA",
-      "url": "https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG"
-    },
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
@@ -59,6 +35,30 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "MAIOR QUE O TEMPO",
+        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 228349,
+      "name": "MULHER SECRETA",
+      "url": "https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -307,6 +307,26 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
+        "name": "Equa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182205,
+      "name": "Equa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
         "name": "Bate A Onda",
         "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
-        "name": "Equa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182205,
-      "name": "Equa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Comemorar?",
-        "url": "https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 190833,
-      "name": "Comemorar?",
-      "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 215936,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Comemorar?",
+        "url": "https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 190833,
+      "name": "Comemorar?",
+      "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola (Ao Vivo em Noronha)",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188319,
+      "name": "Passa a Bola (Ao Vivo em Noronha)",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
-      },
-      "artists": [
-        {
-          "name": "Nitto",
-          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "N\u00e3o Quero Mais Nada",
         "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 213587,
       "name": "N\u00e3o Quero Mais Nada",
       "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
+      },
+      "artists": [
+        {
+          "name": "Nitto",
+          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "Ka\u00ea",
-          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Perto do Sol",
         "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 168292,
       "name": "Perto do Sol",
       "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00ea",
+          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -1251,34 +1251,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "No Dayz Off.",
-        "url": "https://open.spotify.com/album/6ixBTMEvwbw1EOPBSOae1p"
-      },
-      "artists": [
-        {
-          "name": "Smoke",
-          "url": "https://open.spotify.com/artist/4JOLUHjQd1JHJw5CASQg24"
-        },
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "inBlack",
-          "url": "https://open.spotify.com/artist/3TcMWDjq9mgmVamapV7wqE"
-        }
-      ],
-      "duration_ms": 132302,
-      "name": "Doses Doces",
-      "url": "https://open.spotify.com/track/7u2FphuFjw6FO3V6Sktyl0"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -1323,6 +1295,34 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "No Dayz Off.",
+        "url": "https://open.spotify.com/album/6ixBTMEvwbw1EOPBSOae1p"
+      },
+      "artists": [
+        {
+          "name": "Smoke",
+          "url": "https://open.spotify.com/artist/4JOLUHjQd1JHJw5CASQg24"
+        },
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "inBlack",
+          "url": "https://open.spotify.com/artist/3TcMWDjq9mgmVamapV7wqE"
+        }
+      ],
+      "duration_ms": 132302,
+      "name": "Doses Doces",
+      "url": "https://open.spotify.com/track/7u2FphuFjw6FO3V6Sktyl0"
     }
   ],
   "unique_name": "Resenha na Praia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from DJ Snake & J Balvin, Jokke, Kendji Girac and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,726 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,877 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 65 | [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 |
 | 66 | [Bassline Flexa](https://open.spotify.com/track/2Ls9ecOpdCnfNuzGqE1P39) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Joytime Collective](https://open.spotify.com/artist/000RxCIP8j1ysGQKrZheBj) | [Bassline Flexa](https://open.spotify.com/album/2tUzlYkAW8m1PzA3DEgGu1) | 2:02 |
 
-Snapshot ID: `aGb9igAAAADrCZwBSu7ATn5ugsZQZKv+`
+Snapshot ID: `aGfeiAAAAACxcyH1FrzcVoDa3ezHjhsG`

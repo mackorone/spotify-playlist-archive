@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,796 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,804 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

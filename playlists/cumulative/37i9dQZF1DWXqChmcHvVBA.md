@@ -2,9 +2,9 @@
 
 ### [RKT  & Turreo](https://open.spotify.com/playlist/37i9dQZF1DWXqChmcHvVBA)
 
-> 📸 Alejo Isaak & El Turko.
+> 📸 Peipper.
 
-269 songs - 12 hr 20 min
+271 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,8 +219,10 @@
 | [SUELTA](https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [SUELTA](https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq) | 2:43 | 2024-04-12 |  |
 | [SUPUESTAMENTE](https://open.spotify.com/track/1NSFGv6QemZiHiZfMY7F46) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SUPUESTAMENTE](https://open.spotify.com/album/45Aq4OYxS70A7L6mwQWr2T) | 2:18 | 2024-09-27 |  |
 | [TAKI TAKI TA RKT \- Remix](https://open.spotify.com/track/30em1iBHeo2RmOcXSWNmbT) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Tomi Rmx](https://open.spotify.com/artist/5hk5Jw9GqvzUFLCd927bnZ) | [TAKI TAKI TA RKT \(Remix\)](https://open.spotify.com/album/2EDa15V0c0qzjwjpEhFC8w) | 2:26 | 2023-12-15 | 2024-03-09 |
+| [Taki\-Ta](https://open.spotify.com/track/6sbQQ1SdlUcN4dW6bmLmy2) | [\_zaymi](https://open.spotify.com/artist/12SnGSf8Kc72sRDTyBFMGq), [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Taki\-Ta](https://open.spotify.com/album/2uOjN4QuuaMbiPnXGJs9q0) | 2:35 | 2025-07-04 |  |
 | [Tal Para Cual](https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tal Para Cual](https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy) | 2:31 | 2024-01-12 |  |
 | [TAPOUN](https://open.spotify.com/track/5Ht6WQPJ7V6yeyubWa2U7D) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Mc Tota](https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [TAPOUN](https://open.spotify.com/album/6mAKRZIFNGYRz4ggpkn6iK) | 2:36 | 2025-01-10 |  |
+| [TAPRETAO](https://open.spotify.com/track/50nubJMIB7e659zjQcCBMU) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [TAPRETAO](https://open.spotify.com/album/4Oy2w32Lsa3z0qkIDSFF80) | 2:14 | 2025-07-04 |  |
 | [TATTOO](https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Coco Palmer](https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY) | [TATTOO](https://open.spotify.com/album/2pT9dWP5sqm4FipajPLVpw) | 2:16 | 2024-05-03 | 2024-08-17 |
 | [TATTOO REMIX](https://open.spotify.com/track/4LnJJwdPgID9vFXjmxfdMy) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TATTOO REMIX](https://open.spotify.com/album/0PNTf1VNhQJZPmPzhDQijA) | 2:42 | 2024-08-16 |  |
 | [TE AMO RMX \(feat\. Salastkbron\)](https://open.spotify.com/track/335JDXiJij27LNVm4xfhdk) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TE AMO RMX \(feat\. Salastkbron\)](https://open.spotify.com/album/5JVoimtJeq4plcNKU3rSMF) | 4:00 | 2023-12-15 | 2023-12-23 |

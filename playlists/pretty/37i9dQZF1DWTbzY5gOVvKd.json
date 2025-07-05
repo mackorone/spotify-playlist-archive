@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1281412,
+  "num_followers": 1281448,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
+        "name": "Signature",
+        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
+    },
+    {
+      "added_at": "2025-06-27 08:22:50",
+      "album": {
         "name": "Sunset In The Blue (Deluxe Version)",
         "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 325659,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i"
-    },
-    {
-      "added_at": "2025-06-27 08:22:50",
-      "album": {
-        "name": "Signature",
-        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
     },
     {
       "added_at": "2025-06-27 08:22:50",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
-        "name": "Date With A Dream",
-        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
-      },
-      "artists": [
-        {
-          "name": "Malene Mortensen",
-          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
-        }
-      ],
-      "duration_ms": 252081,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
-    },
-    {
-      "added_at": "2025-06-27 08:22:50",
-      "album": {
         "name": "The Best Of... The Great American Songbook",
         "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 192133,
       "name": "Long Ago And Far Away",
       "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
+    },
+    {
+      "added_at": "2025-06-27 08:22:50",
+      "album": {
+        "name": "Date With A Dream",
+        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
+      },
+      "artists": [
+        {
+          "name": "Malene Mortensen",
+          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
+        }
+      ],
+      "duration_ms": 252081,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
     },
     {
       "added_at": "2025-06-27 08:22:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
-        "name": "Dear Blossom,",
-        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2025-06-27 08:22:50",
-      "album": {
         "name": "True Love: A Celebration Of Cole Porter",
         "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 209040,
       "name": "Mind If I Make Love To You",
       "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
+    },
+    {
+      "added_at": "2025-06-27 08:22:50",
+      "album": {
+        "name": "Dear Blossom,",
+        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
     },
     {
       "added_at": "2025-06-27 08:22:50",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 331141,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2025-06-27 08:22:50",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
       },
@@ -927,18 +907,22 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
       "artists": [
         {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
         }
       ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+      "duration_ms": 331141,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
     },
     {
       "added_at": "2025-06-27 08:22:50",
@@ -979,22 +963,6 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
-        "name": "That Doesn't Matter",
-        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "That Doesn't Matter",
-      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
-    },
-    {
-      "added_at": "2025-06-27 08:22:50",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
       },
@@ -1007,6 +975,38 @@
       "duration_ms": 327000,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
+    },
+    {
+      "added_at": "2025-06-27 08:22:50",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+    },
+    {
+      "added_at": "2025-06-27 08:22:50",
+      "album": {
+        "name": "That Doesn't Matter",
+        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "That Doesn't Matter",
+      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
     },
     {
       "added_at": "2025-06-27 08:22:50",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
+        "name": "Till There Was You",
+        "url": "https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C"
+    },
+    {
+      "added_at": "2025-06-27 08:22:50",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 265746,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
-    },
-    {
-      "added_at": "2025-06-27 08:22:50",
-      "album": {
-        "name": "Till There Was You",
-        "url": "https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C"
     },
     {
       "added_at": "2025-06-27 08:22:50",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-06-27 08:22:50",
       "album": {
+        "name": "An Englishman in Love in LA",
+        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
+      },
+      "artists": [
+        {
+          "name": "Richard Shelton",
+          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "The Touch of Your Lips",
+      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "added_at": "2025-06-27 08:22:50",
+      "album": {
         "name": "A New Path",
         "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 348740,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
-    },
-    {
-      "added_at": "2025-06-27 08:22:50",
-      "album": {
-        "name": "An Englishman in Love in LA",
-        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
-      },
-      "artists": [
-        {
-          "name": "Richard Shelton",
-          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "The Touch of Your Lips",
-      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
     },
     {
       "added_at": "2025-06-27 08:22:50",

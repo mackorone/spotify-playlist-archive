@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6KYoPTmN7cdEUBhbm1TJ7k.md) - [plain]
 
 > FAHRVERGNÜGEN! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,598 likes - 11 songs - 47 min 39 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,600 likes - 11 songs - 47 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

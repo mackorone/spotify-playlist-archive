@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-515 songs - 1 day 12 hr 23 min
+516 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Keep It Moving](https://open.spotify.com/track/0Q00M9Rn0Nz519t2FLUJUW) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Keep It Moving](https://open.spotify.com/album/3ilVn6i8gwJzTlfy50HLPo) | 3:35 | 2023-04-14 | 2024-04-13 |
 | [Key West](https://open.spotify.com/track/2QwKksQCIZkt4iaTLD61m2) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Key West](https://open.spotify.com/album/1p8KkemoJTihAJ1mz1a2yG) | 3:48 | 2021-05-21 | 2022-03-14 |
 | [Keys to Paradise](https://open.spotify.com/track/4frWFPntyFrkNYD6C0q1wT) | [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [Keys to Paradise](https://open.spotify.com/album/4yTUD1XGbpvJErt6IyioeO) | 4:01 | 2021-05-21 | 2022-03-17 |
+| [Kings & Queens](https://open.spotify.com/track/4pt7tAam7H8ysQgxWXCNta) | [Dean James](https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu) | [Kings & Queens](https://open.spotify.com/album/1yUsYV2ytolZCl8Lc46WjD) | 4:18 | 2025-07-04 |  |
 | [Labyrinth](https://open.spotify.com/track/0aQoZUFmZmOb29LMqsRoz5) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ) | 5:08 | 2023-07-28 | 2024-04-19 |
 | [Labyrinth](https://open.spotify.com/track/5bMem6seFRTk6amdhRA2Z4) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/0Nyi7tRAwpdr0viwQwx0Fq) | 5:08 | 2023-07-28 |  |
 | [Last Dance](https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg), [Peter White](https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo) | [Touch](https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb) | 4:13 | 2020-10-30 | 2022-03-17 |
@@ -263,7 +264,7 @@
 | [Let's Get It Movin'](https://open.spotify.com/track/1KD1VylXj6Hjb71qeRQupI) | [Nelson Garcia](https://open.spotify.com/artist/2LOUd3sHzVXTNHnVv1fdIo), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Let's Get It Movin'](https://open.spotify.com/album/39YVysbUGA9AQYtAbFZLl5) | 3:43 | 2021-02-27 | 2022-03-11 |
 | [Let's Get Lost](https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Let's Get Lost](https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3) | 4:25 | 2025-01-03 |  |
 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 | 2023-02-24 | 2023-08-26 |
-| [Let's Take A Ride](https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y) | 4:14 | 2023-05-12 |  |
+| [Let's Take A Ride](https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y) | 4:14 | 2023-05-12 | 2025-07-05 |
 | [Let's Talk](https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Let's Talk](https://open.spotify.com/album/2fsA3q4Cdx3wfpEVmruBrE) | 4:08 | 2025-01-10 |  |
 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2020-10-30 | 2022-03-18 |
 | [Let’s Take A Ride](https://open.spotify.com/track/5KkvZL3s2M04v0OGtfZidL) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX) | 4:14 | 2023-05-12 | 2024-04-19 |

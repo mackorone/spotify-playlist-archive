@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2024</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2024 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,464 likes - 88 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,466 likes - 88 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 82 | [Twenty years old](https://open.spotify.com/track/0HNX0housEsXeku4BTAICS) | [Wings of the ISANG](https://open.spotify.com/artist/000dicAA3QWT6m118rFXLO) | [The Borderline between Hope and Despair](https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7) | 5:26 |
 | 83 | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq) | 3:30 |
 | 84 | [Voyage](https://open.spotify.com/track/689SUaYVZgTvtjtPI73cPP) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Voyage](https://open.spotify.com/album/2AublvDrxMftvZr0dwAwC2) | 3:45 |
-| 85 | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/track/6NsRPpK8eXNY1gJAY5QXBo) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/album/1nchrXiaAT5HZBSdnBAent) | 3:39 |
-| 86 | [I dreamt about you last night](https://open.spotify.com/track/1NuSbl3RABsfAXn7NXl1xR) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [In My Garden](https://open.spotify.com/album/6pOsJOh8sEaVBmObEI9ArK) | 3:06 |
+| 85 | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/track/6NsRPpK8eXNY1gJAY5QXBo) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/album/1nchrXiaAT5HZBSdnBAent) | 3:39 |
+| 86 | [I dreamt about you last night](https://open.spotify.com/track/1NuSbl3RABsfAXn7NXl1xR) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [In My Garden](https://open.spotify.com/album/6pOsJOh8sEaVBmObEI9ArK) | 3:06 |
 | 87 | [Way to You](https://open.spotify.com/track/3cEu4y6MfcnsiFf1OmNr7w) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Way to You](https://open.spotify.com/album/3KonVXFKTK3VmnmUAafTU2) | 3:15 |
 | 88 | [isle of me](https://open.spotify.com/track/0Miji5OZAJoKlOSonlCgCi) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [isle of me](https://open.spotify.com/album/1qJYp7WdUafdCnm6fOhT2A) | 2:47 |
 

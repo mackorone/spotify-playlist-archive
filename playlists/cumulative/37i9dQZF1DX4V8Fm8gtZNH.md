@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-339 songs - 20 hr 6 min
+342 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Got To Get Back \(To My Baby\)](https://open.spotify.com/track/5e5FZEfKTyijJTqw7C2kog) | [The Bo\-Keys \(feat\. Otis Clay\)](https://open.spotify.com/artist/5GozKckmnw7VUVEtmgZkJE) | [Got To Get Back!](https://open.spotify.com/album/06yTFcU8N7rytg6NT2YPU4) | 3:25 | 2023-10-18 |  |
 | [Got To Go](https://open.spotify.com/track/5uu22LZbLnNuXdvevpxXuV) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7) | [Got To Go](https://open.spotify.com/album/3kEJPZ0qgdVhnyDNTM6Nq5) | 2:08 | 2023-10-18 |  |
 | [Grey Luh](https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 4:21 | 2023-10-18 |  |
+| [Guide](https://open.spotify.com/track/6F0Ol1A3qud9afdLjKSJoM) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Expectations](https://open.spotify.com/album/693vqIGvxvCds8k3VMMyUg) | 3:12 | 2025-07-04 |  |
 | [Happy Holiday](https://open.spotify.com/track/1GLdHIGsGad61FElQYEyWZ) | [Peter Caines](https://open.spotify.com/artist/2A9NxU4u2fRnwCNAfl0kSk) | [A Christmas to Remember](https://open.spotify.com/album/6ELeLZNIIa0atcFhRnX5uz) | 3:50 | 2023-10-18 |  |
 | [Hate My Ex](https://open.spotify.com/track/3HXF6O828lZgEMNzpKhCRj) | [Cain Perez](https://open.spotify.com/artist/6VzAAoOgHPItFeFvAiC52V) | [Hate My Ex](https://open.spotify.com/album/4P4RbxPtbNYutN6ZyjSxIW) | 1:59 | 2023-10-18 |  |
 | [Have Fun](https://open.spotify.com/track/63MSbjl8S3sHI0ZalZLBRN) | [Speech](https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt) | [The Vagabond](https://open.spotify.com/album/5Omu6U9lvLacjaMBFCeMxD) | 4:45 | 2023-10-18 |  |
@@ -246,6 +247,7 @@
 | [Reality Check \(feat\. Akenya & Eryn Allen Kane\)](https://open.spotify.com/track/0UVfZ1QfaSPqRHhmZNVI71) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Akenya](https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:03 | 2023-10-18 |  |
 | [Reign](https://open.spotify.com/track/3nesHwazD9HBvqr3G8VMIx) | [Arrow Benjamin](https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj), [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0) | [Reign](https://open.spotify.com/album/65NH1ygu522yaz1bncYq8s) | 3:12 | 2023-10-18 |  |
 | [Rents Due](https://open.spotify.com/track/5yz3TrZM4AywEGlPqHgBc7) | [FreeWifi](https://open.spotify.com/artist/5BcQcV91uEIAnvdF9WvyBA) | [Freequency \- EP](https://open.spotify.com/album/1Ne4WbwERo19AL12QgkDIY) | 2:37 | 2023-10-18 |  |
+| [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2025-07-04 |  |
 | [Right On Time](https://open.spotify.com/track/2Go63YfK8fJ2dX4eoQBrv3) | [Neen Bowen](https://open.spotify.com/artist/5XZCSduNNO6KZuM8YTDmzl) | [Right On Time](https://open.spotify.com/album/4JhmkXqxdITOmtXbxog2Wk) | 2:34 | 2025-06-13 |  |
 | [Ring The Alarm](https://open.spotify.com/track/1jxQKV6UlzV3scs6SMBHNX) | [Tenor Saw](https://open.spotify.com/artist/1LAgDHjyZvOQf39Fa9rtlT) | [Little Sound Boy](https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k) | 2:56 | 2023-10-18 |  |
 | [River Run Wild](https://open.spotify.com/track/0bl38x36cMHX2CYB2utDr9) | [Jake & Papa](https://open.spotify.com/artist/0t8jcjbcfE79FcWSpIkGdR) | [Tattoos&Blues](https://open.spotify.com/album/6TazZk2ULWKssm8fqhqntL) | 3:38 | 2023-10-18 |  |
@@ -306,6 +308,7 @@
 | [Too Late](https://open.spotify.com/track/0bHMLzRZ4GaHO3PnOCtTth) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Moved](https://open.spotify.com/album/036hmr7bSYXlwSId6GTtJk) | 3:48 | 2023-10-18 |  |
 | [Too Much](https://open.spotify.com/track/1jP3M6DPaKEIP8GQpTdHNX) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 2:56 | 2023-10-18 |  |
 | [Troo](https://open.spotify.com/track/5VkGkl11NE2lw2z1yCqwXh) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Troo](https://open.spotify.com/album/1vq2vDPWT335QRVIk5oegb) | 2:26 | 2023-10-18 |  |
+| [Truffles](https://open.spotify.com/track/6YjiNeQLT9MZDTA236qRYt) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Elephant in the Room](https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN) | 3:14 | 2025-07-04 |  |
 | [Truth Tastes Good](https://open.spotify.com/track/7yPa4TS1M07r56E5Tyf432) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Free Mickey Part 2](https://open.spotify.com/album/56sGIX9HXr2Zxjc3h7G3Ph) | 1:09 | 2023-10-18 |  |
 | [Try](https://open.spotify.com/track/4tyUOfJO4F1zoxOITM6bKq) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7), [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Military Mindset Productions](https://open.spotify.com/artist/0LAYLmZKxwwiEUaIE7Dhyn) | [Behind Enemy Lines](https://open.spotify.com/album/14nYTal2Bm96I4m6M5SDNh) | 3:08 | 2024-06-07 |  |
 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 | 2023-10-18 |  |

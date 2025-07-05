@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Michael Cera Palin",
-  "num_followers": 70513,
+  "num_followers": 70556,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 138679,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
         "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
         "url": "https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 138679,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "Arrowhead",
-        "url": "https://open.spotify.com/album/2wIc6Q44MWXDSxw8McR3pr"
-      },
-      "artists": [
-        {
-          "name": "Charmer",
-          "url": "https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Arrowhead",
-      "url": "https://open.spotify.com/track/59VAMnorUAUOTzINy5KEpD"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 240953,
       "name": "Numb",
       "url": "https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "Arrowhead",
+        "url": "https://open.spotify.com/album/2wIc6Q44MWXDSxw8McR3pr"
+      },
+      "artists": [
+        {
+          "name": "Charmer",
+          "url": "https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Arrowhead",
+      "url": "https://open.spotify.com/track/59VAMnorUAUOTzINy5KEpD"
     },
     {
       "added_at": "2025-03-28 16:04:45",

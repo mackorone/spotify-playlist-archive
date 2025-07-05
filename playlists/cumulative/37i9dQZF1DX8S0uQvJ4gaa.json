@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Ella Langley",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Russell Dickerson",
   "name": "New Boots",
   "tracks": [
     {
@@ -814,6 +814,24 @@
       "duration_ms": 195957,
       "name": "A Road and a Radio",
       "url": "https://open.spotify.com/track/2sRGIrRAoiTvyyAEliOiaY"
+    },
+    {
+      "album": {
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217185,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/744zwLqGKbOZW3RnxkRfHE"
     },
     {
       "album": {
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 222656,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/7vlpjaBWF5Rb7dr52OahOL"
@@ -19112,7 +19130,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 285680,
       "name": "Hope That I\u2019m Enough",
       "url": "https://open.spotify.com/track/74mjyK6UGHGSCLaFtmJfOW"
@@ -22746,7 +22764,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 201012,
       "name": "JP\u2019s Hard Luck Diner, Permanently Closed - London Sessions",
       "url": "https://open.spotify.com/track/5Z90dj7NBpnjSX21Jr9BVJ"
@@ -25779,6 +25797,24 @@
     },
     {
       "album": {
+        "name": "Made for Goodbyes",
+        "url": "https://open.spotify.com/album/17KRz5Kv6py3eGnJWEjaAv"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192963,
+      "name": "Made for Goodbyes",
+      "url": "https://open.spotify.com/track/3ZwblzGobTgNPuvAhgrBsr"
+    },
+    {
+      "album": {
         "name": "Made For You",
         "url": "https://open.spotify.com/album/0IP1hWWp4viLp8C7HJew06"
       },
@@ -28153,6 +28189,24 @@
     },
     {
       "album": {
+        "name": "My Truck, Some Weed, and a Guitar",
+        "url": "https://open.spotify.com/album/39XcvORWxWO8SVR8wQYHDE"
+      },
+      "artists": [
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196365,
+      "name": "My Truck, Some Weed, and a Guitar",
+      "url": "https://open.spotify.com/track/3fz8uYbzhg08cYe7KraTWD"
+    },
+    {
+      "album": {
         "name": "Name On It",
         "url": "https://open.spotify.com/album/6rFB81xzj10uogd4MnzPtM"
       },
@@ -28716,7 +28770,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 168417,
       "name": "Never Met Anyone Like You (feat. HARDY)",
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
@@ -31834,7 +31888,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 203103,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/7L9op1t2cZXxM2BRmJ9DcC"
@@ -34119,6 +34173,48 @@
     },
     {
       "album": {
+        "name": "Said No Country Boy Ever",
+        "url": "https://open.spotify.com/album/7Afj1lOpEQaOPn8BI5wZ9r"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+        },
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Rob Hatch",
+          "url": "https://open.spotify.com/artist/6YNY8ujFZfFsR4apb7u7t5"
+        },
+        {
+          "name": "Dallas Davidson",
+          "url": "https://open.spotify.com/artist/1b20prOo5LCPlryTTLYb9H"
+        },
+        {
+          "name": "The Traler Park",
+          "url": "https://open.spotify.com/artist/1JQGocYwQnJHqzmo91T0PD"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "Said No Country Boy Ever",
+      "url": "https://open.spotify.com/track/1lKNwH63kNy9rmNTdf6esw"
+    },
+    {
+      "album": {
         "name": "Salt and Lime",
         "url": "https://open.spotify.com/album/4CgEpmxGmGuXkuguwOhkY2"
       },
@@ -35428,6 +35524,24 @@
       "duration_ms": 159622,
       "name": "Sippin Country",
       "url": "https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq"
+    },
+    {
+      "album": {
+        "name": "Sippin' On Top Of The World",
+        "url": "https://open.spotify.com/album/72lAozYlqZmaQdj2f0hD9U"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189537,
+      "name": "Sippin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4OlnuFIobmWsB9P78Jn8qw"
     },
     {
       "album": {
@@ -37230,6 +37344,24 @@
       "duration_ms": 225499,
       "name": "Sorrys Don't Work No More",
       "url": "https://open.spotify.com/track/0pXANstKZy6B4Qzr1SmwIS"
+    },
+    {
+      "album": {
+        "name": "Sorryville",
+        "url": "https://open.spotify.com/album/6C2CseI4u2YgwW6RzE5Pa5"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174347,
+      "name": "Sorryville",
+      "url": "https://open.spotify.com/track/2Ri6KgtAyWJwJNc8ooQcGs"
     },
     {
       "album": {
@@ -39856,7 +39988,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 169875,
       "name": "The Actor (feat. Charles Wesley Godwin)",
       "url": "https://open.spotify.com/track/2Njx2qH5mUaKXHNvMeQeue"
@@ -40800,7 +40932,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 179361,
       "name": "There Ain't a Bar",
       "url": "https://open.spotify.com/track/3l8csG08d9LrkqagCFdvZI"
@@ -42748,6 +42880,28 @@
       "duration_ms": 215746,
       "name": "Two Things",
       "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
+    },
+    {
+      "album": {
+        "name": "Two Tone Trippin\u2019",
+        "url": "https://open.spotify.com/album/5nOY1NZ7xwR8gr99sdmHTX"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        },
+        {
+          "name": "Wyatt McCubbin",
+          "url": "https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132135,
+      "name": "Two Tone Trippin'",
+      "url": "https://open.spotify.com/track/58JH7sFoz0CBYQymsE3KXL"
     },
     {
       "album": {

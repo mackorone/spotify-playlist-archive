@@ -1383,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Bhari",
+        "url": "https://open.spotify.com/album/4tph5TBu193Y6Qm6fXcQUp"
+      },
+      "artists": [
+        {
+          "name": "H18",
+          "url": "https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3"
+        },
+        {
+          "name": "RAW GU",
+          "url": "https://open.spotify.com/artist/09l0NvKltRTTAilTfTPSn6"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226700,
+      "name": "Bhari",
+      "url": "https://open.spotify.com/track/3vJgjE41SUcC0FpeplSiz2"
+    },
+    {
+      "album": {
         "name": "Bhavanegalu",
         "url": "https://open.spotify.com/album/1qk0d5mYA3z9QIRzDvxlug"
       },
@@ -8876,7 +8898,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 247664,
       "name": "Preethiso Hudugane",
       "url": "https://open.spotify.com/track/3esWWiqywedcWEYdEP2vaI"

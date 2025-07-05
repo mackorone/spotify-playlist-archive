@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,094 likes - 104 songs - 5 hr 44 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,095 likes - 104 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My☆Hero](https://open.spotify.com/track/3o6ob6bZPyoEde5C9VT7PZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [My☆Hero](https://open.spotify.com/album/2oj3gtuMsPrmADdeKw0RXk) | 3:02 |
-| 2 | [A Remix of The Marukane Department Store Jingle \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/0l0g1LNR1kUBMOFvzDJSKr) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [FeatherHATS](https://open.spotify.com/artist/6fOlx8VF1ozQaZJbn0qArC) | [A Remix of The Marukane Department Store Jingle \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/3HEAYfZrvGu71xe7i5OnVy) | 1:46 |
+| 1 | [Light of Life \- from "The Apothecary Diaries Season 2"](https://open.spotify.com/track/3d70bPPjdERf8PYeU4uyAp) | [Rimu Miyake](https://open.spotify.com/artist/0le0ILp1SY8424CZCt3xOW) | [Light of Life \(from "The Apothecary Diaries Season 2"\)](https://open.spotify.com/album/7bX5VGXDpjrEYifITzsKMh) | 2:43 |
+| 2 | [Can't Help Loving You \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/4r8gn0eiQkgGVdIvyOf2Cq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [The Little Sisters](https://open.spotify.com/artist/4cIJYu7BnsVN3difEOHOMi) | [Can't Help Loving You \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/4jE9XFdSgvzwg6QnhDTewi) | 1:35 |
 | 3 | [Kekka Orai\(English ver\)](https://open.spotify.com/track/2PFp5efJF0uBwvDxyC1ASL) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Kekka Orai\(English ver\)](https://open.spotify.com/album/1ygQd5Oc5CVPPTMKIRIYyZ) | 2:54 |
 | 4 | [C.H.E.E.R\. \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/0xvBZuITYfPxyiMqxjBnoV) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CC Cheerleaders](https://open.spotify.com/artist/1THJKXFV8Oq3TmVBnG5lsp) | [C.H.E.E.R\. \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/77vS1623pBvjyCJJkKlc8i) | 1:19 |
 | 5 | [Chris takes the world by storm \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/4N1hJ03kkrhemlxlW9iElF) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [鳴羽田漢気応援団](https://open.spotify.com/artist/366BpKdkyHFZslOlOk1Fmm) | [Chris takes the world by storm \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/6Ba8dIvaBTm8YnKAQYsUNq) | 1:25 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 | 103 | [Undead Murder Farce](https://open.spotify.com/track/4n3tx3Ur7Yf5504K0Iog9W) | [Mara Carlyle](https://open.spotify.com/artist/165UIU9o6ULboTQs0QYXj1), [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [Undead Murder Farce \(Original Series Soundtrack\)](https://open.spotify.com/album/6NYKmuUwNeJW3IYaG2Bngq) | 4:25 |
 | 104 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 
-Snapshot ID: `AAADUA7VoFwdy2vMDGDjpQDbjwRDPo8M`
+Snapshot ID: `AAADUpefUclIhsQECbPDDU5zj6NT4pnr`

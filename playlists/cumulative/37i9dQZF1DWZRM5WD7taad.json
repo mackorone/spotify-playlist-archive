@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Young Miko en Portada ",
+  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. EMJAY en Portada ",
   "name": "Femcees",
   "tracks": [
+    {
+      "album": {
+        "name": "me estoy volviendo loca (deluxe)",
+        "url": "https://open.spotify.com/album/5KLB5YwjF66uqMIY35lsHV"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "$$$ mis l\u00e1grimas",
+      "url": "https://open.spotify.com/track/5qj3yJlsxm8ChVxg3ws3AJ"
+    },
     {
       "album": {
         "name": "THIS is Latin Hip-Hop",
@@ -110,7 +128,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 155000,
       "name": "4:44 AM",
       "url": "https://open.spotify.com/track/1q3jLTobi4P29Tzx2wsOVV"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 156342,
       "name": "Arena y Mar",
       "url": "https://open.spotify.com/track/7m5O0Qhg8rFzlHPpPYiBJi"
@@ -816,6 +834,28 @@
       "duration_ms": 158360,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/64KQlZiuTcnh3IdZUMn48r"
+    },
+    {
+      "album": {
+        "name": "bby please",
+        "url": "https://open.spotify.com/album/765WYwS6jkoyUESt1eGldl"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "bby please",
+      "url": "https://open.spotify.com/track/0zFJ3iJ2YLhvj6F8KBUrQD"
     },
     {
       "album": {
@@ -1742,7 +1782,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 207328,
       "name": "CUENCO",
       "url": "https://open.spotify.com/track/2WWe3FjQIZsuadIvNNZzXU"
@@ -2645,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "FLOW QUE QUEMA",
+        "url": "https://open.spotify.com/album/6lnA8rUUBwtlDsGkJkncMd"
+      },
+      "artists": [
+        {
+          "name": "Lela",
+          "url": "https://open.spotify.com/artist/1u3ZC3x9csSPB1d0TO05fe"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "FLOW QUE QUEMA",
+      "url": "https://open.spotify.com/track/32ZarveGEi6iXdnNqlq8sL"
+    },
+    {
+      "album": {
         "name": "Flow925",
         "url": "https://open.spotify.com/album/5nJtKo8OKhKtWiFzGOUyBN"
       },
@@ -3511,6 +3569,28 @@
     },
     {
       "album": {
+        "name": "La Primera",
+        "url": "https://open.spotify.com/album/39ICZEfQgeMWBVWMisix9A"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143311,
+      "name": "La Primera",
+      "url": "https://open.spotify.com/track/4F12uZbVbzzvyI1shTud4m"
+    },
+    {
+      "album": {
         "name": "La Respuesta",
         "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
       },
@@ -3902,7 +3982,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 126867,
       "name": "m1llonario",
       "url": "https://open.spotify.com/track/3d1G5cIuXDITJKVDz8BZqu"
@@ -7228,6 +7308,28 @@
       "duration_ms": 197000,
       "name": "Viernes 15 (Organic Remix)",
       "url": "https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt"
+    },
+    {
+      "album": {
+        "name": "Violenta Se Pone el Hambre",
+        "url": "https://open.spotify.com/album/6HSX7YwZwVhPJF9v6eLmxh"
+      },
+      "artists": [
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        },
+        {
+          "name": "El propio junte",
+          "url": "https://open.spotify.com/artist/453BRGxqa4IYKVhNP3Bv7v"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Violenta Se Pone el Hambre",
+      "url": "https://open.spotify.com/track/3Wm1TsWNHeotmiC00i75QH"
     },
     {
       "album": {

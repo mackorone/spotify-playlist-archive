@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 242711,
+  "num_followers": 242734,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAADAxA+8qfienG3Zw79WKAgf",
+  "snapshot_id": "aGXIAAAAAAC81d/qYF/46zVH/HI7Af07",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/71v6RtyqohRd1AVAG4nmzi"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/67w1H4Wb3IX5yX7cIAs6DQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/0MCdpAW6Uu1DKJ6xhrl85x"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 267953,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/0rTsf701vQZJ45qhWyFde9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/71v6RtyqohRd1AVAG4nmzi"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/67w1H4Wb3IX5yX7cIAs6DQ"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Quiero Hablar",
-      "url": "https://open.spotify.com/track/0fEXNlcGfKRp33LNM7jToQ"
+      "duration_ms": 299400,
+      "name": "D\u00edas Intensos",
+      "url": "https://open.spotify.com/track/2L7bcQuqRaa05ufkTNY5lx"
     },
     {
       "added_at": null,
@@ -731,38 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Aniversario en el Luna Park",
-        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "D\u00edas Intensos - En Vivo",
-      "url": "https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 321131,
-      "name": "Ten Valor",
-      "url": "https://open.spotify.com/track/2WzAnFamItmOMGWgIvHzul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Codigos Del Alma",
         "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
@@ -783,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
       },
       "artists": [
         {
@@ -792,9 +760,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 133933,
-      "name": "La Otra Galaxia",
-      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
+      "duration_ms": 321131,
+      "name": "Ten Valor",
+      "url": "https://open.spotify.com/track/2WzAnFamItmOMGWgIvHzul"
     },
     {
       "added_at": null,
@@ -811,6 +779,22 @@
       "duration_ms": 269080,
       "name": "Bocanada - En Vivo",
       "url": "https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "La Otra Galaxia",
+      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
     },
     {
       "added_at": null,

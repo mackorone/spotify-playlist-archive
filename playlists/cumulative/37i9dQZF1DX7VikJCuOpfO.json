@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Pepe Aguilar",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal",
   "name": "Mariachi 2025",
   "tracks": [
     {
@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/2SlZ9wQQMpi2J4AL2lMpLr"
+      },
+      "artists": [
+        {
+          "name": "Grijalba",
+          "url": "https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140593,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/7ysVmGcKGac1HJyVfThJWM"
+    },
+    {
+      "album": {
         "name": "Ciega Por El",
         "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
       },
@@ -1882,6 +1900,24 @@
       "duration_ms": 183626,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/0iTafmNe563xhFprjGSZyA"
+    },
+    {
+      "album": {
+        "name": "Diferentes",
+        "url": "https://open.spotify.com/album/70KakLAZ82chHwTzdHU020"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "Diferentes",
+      "url": "https://open.spotify.com/track/7vOEFTu4kIzLAJpK9EOIyD"
     },
     {
       "album": {
@@ -2794,7 +2830,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
@@ -3022,7 +3058,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 153125,
       "name": "hasta ser viejitos",
       "url": "https://open.spotify.com/track/4GbBqCjhsc2NmWkzfqi0RX"
@@ -3268,7 +3304,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 258441,
       "name": "Kbron y Medio",
       "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
@@ -3674,6 +3710,24 @@
       "duration_ms": 170570,
       "name": "La Perd\u00ed",
       "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
+    },
+    {
+      "album": {
+        "name": "La Que Se Fue, Se Fue",
+        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159621,
+      "name": "La Que Se Fue, Se Fue",
+      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
     },
     {
       "album": {
@@ -4174,7 +4228,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 140933,
       "name": "Me Est\u00e1 Marcando El Diablo",
       "url": "https://open.spotify.com/track/3K1Tvu5CRfCxCSfA9Xz3ly"
@@ -5374,7 +5428,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 187833,
       "name": "No Vuelvo A Enamorarme",
       "url": "https://open.spotify.com/track/29DTBWazMyHbdh3d4iT8nj"
@@ -6543,6 +6597,24 @@
     },
     {
       "album": {
+        "name": "Retumbando En El Cora",
+        "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130832,
+      "name": "Retumbando En El Cora",
+      "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
       },
@@ -6612,6 +6684,28 @@
       "duration_ms": 206383,
       "name": "Se Disfraz\u00f3",
       "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
+    },
+    {
+      "album": {
+        "name": "Se Me Hizo Tarde",
+        "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Plan Exclusivo",
+          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223250,
+      "name": "Se Me Hizo Tarde",
+      "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
     },
     {
       "album": {

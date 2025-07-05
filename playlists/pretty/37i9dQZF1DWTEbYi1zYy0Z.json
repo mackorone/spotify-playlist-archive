@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 76827,
+  "num_followers": 76859,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuiXwAAAADN7F12jbMdqetUt3eJOVd7",
+  "snapshot_id": "aGdR0AAAAACdG/IEJWSuSonfC2PtBjKe",
   "tracks": [
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/1yUsYV2ytolZCl8Lc46WjD"
+      },
+      "artists": [
+        {
+          "name": "Dean James",
+          "url": "https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu"
+        }
+      ],
+      "duration_ms": 258285,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/4pt7tAam7H8ysQgxWXCNta"
+    },
     {
       "added_at": "2025-06-13 04:00:31",
       "album": {
@@ -1683,22 +1699,6 @@
       "duration_ms": 272000,
       "name": "Waiting in the Wings",
       "url": "https://open.spotify.com/track/0tbZoaS14AUWqkrXG4Twcr"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "Let's Take A Ride",
-      "url": "https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI"
     },
     {
       "added_at": "2023-06-09 04:01:00",

@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 169999,
       "name": "College Dropout",
       "url": "https://open.spotify.com/track/6yorRPLJMAobxSoZlX2n4x"
@@ -5188,8 +5188,8 @@
           "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
         },
         {
-          "name": "Sounds by Jeremy",
-          "url": "https://open.spotify.com/artist/2tXDUc9Q9XE49TC9mkkNkR"
+          "name": "SoundsbyJeremy",
+          "url": "https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ"
         }
       ],
       "date_added": "2025-07-03",
@@ -6890,6 +6890,14 @@
         {
           "name": "Vicky Dhillon",
           "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        },
+        {
+          "name": "Sukh Bohanwala",
+          "url": "https://open.spotify.com/artist/2tVAyhV9tSFiSgYOBxnUhL"
+        },
+        {
+          "name": "Acid",
+          "url": "https://open.spotify.com/artist/1xEOhnps7IjqOQwOzk3qKB"
         }
       ],
       "date_added": "2025-07-03",
@@ -9712,6 +9720,24 @@
       "duration_ms": 159088,
       "name": "Prime Call",
       "url": "https://open.spotify.com/track/2eks9h0d4JOSjlxbEJDvqB"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/06um4lMf63KYf6nj8p4MO8"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Pta Kro",
+      "url": "https://open.spotify.com/track/3byHeGv0TzpXmTNQmyKPLB"
     },
     {
       "album": {

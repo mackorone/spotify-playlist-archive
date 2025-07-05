@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Raimundos",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Lupe De Lupe",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -5679,6 +5679,28 @@
     },
     {
       "album": {
+        "name": "NA NOITE PASSADA EU N\u00c3O DORMI",
+        "url": "https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F"
+      },
+      "artists": [
+        {
+          "name": "BAD LUV",
+          "url": "https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "NA NOITE PASSADA EU N\u00c3O DORMI",
+      "url": "https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM"
+    },
+    {
+      "album": {
         "name": "Nada de n\u00f3s dois",
         "url": "https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW"
       },
@@ -8531,6 +8553,32 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/31cdOaeEbzQO8yLI8w8xip"
+      },
+      "artists": [
+        {
+          "name": "Lupe De Lupe",
+          "url": "https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR"
+        },
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        },
+        {
+          "name": "Ricardo De Carli",
+          "url": "https://open.spotify.com/artist/56xLp8CvZ6aJ6HChFsynWD"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 736844,
+      "name": "Se Nosso Nome Fosse Um Verbo (Canibalismo Como Forma de Amor)",
+      "url": "https://open.spotify.com/track/3KxipU1Yi6wRpI8h9NvdEU"
+    },
+    {
+      "album": {
         "name": "Seja Quem Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/0TFiaL4ItKp7ELM5Jo7GAT"
       },
@@ -8980,7 +9028,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 183597,
       "name": "S\u00cdNDROME",
       "url": "https://open.spotify.com/track/7zokcBQvRtGAAEpCBPuWgp"

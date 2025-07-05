@@ -4,7 +4,7 @@
 
 > The best voices in R&B\. Cover: kwn
 
-476 songs - 1 day 1 hr 11 min
+477 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Firsts](https://open.spotify.com/track/5OLCFaHq3b7ozbSm25SCTe) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Firsts](https://open.spotify.com/album/230oLKY7kuYYISr6uzNqJK) | 3:13 | 2023-07-21 | 2024-03-19 |
 | [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2023-07-21 | 2023-09-23 |
 | [Floating \(feat\. PHABO\)](https://open.spotify.com/track/6B1ATelHWGrHzcKCKqLSTf) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Floating \(feat\. PHABO\)](https://open.spotify.com/album/7bH76YIlzc21indTnRiFsP) | 2:32 | 2024-06-14 | 2024-12-06 |
-| [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 | 2024-12-20 |  |
+| [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 | 2024-12-20 | 2025-07-05 |
 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-09-12 | 2025-07-04 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-12 |  |
 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-06-05 |  |
@@ -329,6 +329,7 @@
 | [Patient \(02\)](https://open.spotify.com/track/77gaU2zZfncrzF9vxA8fEC) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 1:31 | 2023-05-14 | 2023-07-22 |
 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 | 2024-07-24 | 2024-11-29 |
 | [Perspective](https://open.spotify.com/track/3yKdkGwOJGFz1ktoJ7NcGZ) | [Ted Winn](https://open.spotify.com/artist/0c86qGuVZWOdEl7Wdr6g4f), [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Perspective](https://open.spotify.com/album/1FlP1mO1EmYPZecGrRNmi9) | 4:21 | 2023-05-14 | 2023-07-22 |
+| [peter pan.](https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [peter pan.](https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L) | 3:04 | 2025-07-04 |  |
 | [Pieces](https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Pieces](https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD) | 2:57 | 2025-03-21 |  |
 | [Pinky Blues](https://open.spotify.com/track/1uETFKsxZNVHWaGVOHFPe7) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [The Right Side Of Wrong](https://open.spotify.com/album/3lFc4rFgFOJfSg2YfePfId) | 2:56 | 2023-05-14 | 2023-07-22 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-18 | 2023-11-17 |

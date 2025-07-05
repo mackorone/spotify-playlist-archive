@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bulgarian Cartrader
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,804 likes - 90 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,818 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 9 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
 | 10 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 |
 | 11 | [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 |
-| 12 | [Distant Shore](https://open.spotify.com/track/1WResYyBqUWWMwNOp4iBgF) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Distant Shore](https://open.spotify.com/album/1JqFKwC3VLmIeGlnNchpIu) | 4:20 |
+| 12 | [Distant Shore](https://open.spotify.com/track/1bdd9K6fmtNQ6Z65zFPyxQ) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Distant Shore](https://open.spotify.com/album/2HQHERjvB6TmzIlXJCoTqS) | 4:20 |
 | 13 | [spring](https://open.spotify.com/track/7FJP6mlhCqObXC3Tel4kjk) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [spring](https://open.spotify.com/album/26lL4PeAXe9s4agTyBIb6s) | 2:42 |
 | 14 | [casual](https://open.spotify.com/track/5QwOo2jsDrEJvL5JlwHAwR) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [ivory](https://open.spotify.com/album/33VAsZG8yAqz3yqfvdkgaR) | 2:48 |
 | 15 | [Someone Else](https://open.spotify.com/track/40chr05A8qJGEOrTSGi2qL) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Someone Else](https://open.spotify.com/album/1eRQmS5J3hTsgnHsqFYRER) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 |
 | 90 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 |
 
-Snapshot ID: `aGb9gwAAAACs73YXi2agXHRcFXZukgI5`
+Snapshot ID: `aGexjwAAAAAxDn8Ee/cxQ/35q+raucYR`

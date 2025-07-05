@@ -68,7 +68,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 205826,
       "name": "220",
       "url": "https://open.spotify.com/track/7c0YUHgp50nEISswBMsZqq"
@@ -4462,6 +4462,32 @@
       "duration_ms": 135528,
       "name": "Played",
       "url": "https://open.spotify.com/track/4L9YxToj8Ub66xBrbVtBkF"
+    },
+    {
+      "album": {
+        "name": "Pool Party",
+        "url": "https://open.spotify.com/album/2L8ydmXS9h4jNkmARpn19V"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        },
+        {
+          "name": "Lenny McFly",
+          "url": "https://open.spotify.com/artist/56wurloBu7yu1BXGavaDXI"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215937,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/0IUXH7X6r5AQ6XpNNTwHNR"
     },
     {
       "album": {

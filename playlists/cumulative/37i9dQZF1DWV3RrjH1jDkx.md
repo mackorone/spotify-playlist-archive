@@ -4,7 +4,7 @@
 
 > Ny musikk fra Roc Boyz, Ida\-Lova, Matoma og mange flere!🎵
 
-6,415 songs - 13 day 18 hr 33 min
+6,416 songs - 13 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5461,6 +5461,7 @@
 | [Take the Power](https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dirty & Divine](https://open.spotify.com/album/0ud2bmJAS87JO2eYEqkMNr) | 2:58 | 2025-02-06 | 2025-02-14 |
 | [Take You Away](https://open.spotify.com/track/1szWgjk1m11qQpVkWvSxQH) | [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Take You Away](https://open.spotify.com/album/6MaoyUjlHFogVwvT5bI9gH) | 2:44 | 2024-05-23 | 2024-06-01 |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 | 2025-02-21 |
+| [take you there](https://open.spotify.com/track/0acK5Vlgulx6l9x9KzGfbr) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [neverontime](https://open.spotify.com/album/22anfYOVSwAITMqSEZ1f7c) | 2:38 | 2025-07-03 |  |
 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 | 2024-06-13 | 2024-06-21 |
 | [Taken](https://open.spotify.com/track/52i9pBpGkz9cGN5qqn8FjC) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Taken](https://open.spotify.com/album/7byS1BbfZKyvjAdpRCcYfa) | 4:25 | 2025-03-27 | 2025-04-04 |
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-11 | 2024-07-19 |
@@ -5879,7 +5880,7 @@
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 | 2025-05-16 |
 | [Tøffe gutter gråter ikke](https://open.spotify.com/track/6vgOhN09tXzM3cTPy47UOO) | [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Tøffe gutter gråter ikke](https://open.spotify.com/album/6MpH5lk77YENlEVwzOKLCI) | 2:47 | 2025-01-23 | 2025-01-31 |
 | [Tør ikkje leva](https://open.spotify.com/track/6g4zsCg7X0aYUPCy2Qyypo) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Tør ikkje leva](https://open.spotify.com/album/40T4n8U1QyaEQNKzPvHo5D) | 3:41 | 2025-07-03 |  |
-| [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0cmFuWcYcqIglD8O5E0B9O) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 | 2025-07-03 |  |
+| [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 | 2025-07-03 |  |
 | [U AINT SHIT](https://open.spotify.com/track/3STc9osSkifsDV1LtWnTBu) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [U AINT SHIT](https://open.spotify.com/album/0ESHxMvkww69acfqDk8Weo) | 1:52 | 2025-02-28 | 2025-03-07 |
 | [Uansett hvem du er](https://open.spotify.com/track/5nLQt0ahxPkenarXZyd7xn) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Uansett hvem du er](https://open.spotify.com/album/5cCJ1Xn8MSpvXWHjHCE0Z6) | 2:56 | 2024-08-29 | 2024-09-06 |
 | [UDØDELIG](https://open.spotify.com/track/4kLjGxRrwhpzFkex5fnexX) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [UDØDELIG](https://open.spotify.com/album/1TOatP9wlGAcYpnFESyzvE) | 3:21 | 2025-03-13 | 2025-03-21 |

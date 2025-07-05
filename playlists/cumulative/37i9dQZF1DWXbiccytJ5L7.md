@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-158 songs - 8 hr 26 min
+159 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 | 2023-03-17 |  |
 | [Holler Boys](https://open.spotify.com/track/1XsTcnVnJqjjXXLBRqXWmD) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Parachute](https://open.spotify.com/album/0ZzfgzLIpiIPOpVopokjPg) | 3:31 | 2024-04-19 |  |
 | [Holler Boys](https://open.spotify.com/track/3z0dzcrMa0e9TpP6xxKwaU) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Parachute](https://open.spotify.com/album/0x1pqWmdjByJt0lVEUr99c) | 3:31 | 2023-03-17 | 2024-04-19 |
+| [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Home \(feat\. Shaboozey\)](https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ) | 2:15 | 2025-07-04 |  |
 | [Hot Sauce](https://open.spotify.com/track/3STVAAAa4TasjdcYPMtbJN) | [HoodBillies](https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Hoodbillies](https://open.spotify.com/album/5GvnX7ydKmQLN5IqzbOxsf) | 1:49 | 2023-10-06 | 2024-09-21 |
 | [Hunger in My Stomach](https://open.spotify.com/track/4JcoMt9O0jUumJG2PoJGss) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [The Foundation](https://open.spotify.com/album/6CnajEdJG9GdOe7UgSit7T) | 4:43 | 2023-03-17 | 2024-04-19 |
 | [Hunger in My Stomach](https://open.spotify.com/track/4hexDDErC1cS0SF4Eqrz8k) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [The Foundation](https://open.spotify.com/album/7C1JUuLHcxYTV87kB92xEC) | 4:43 | 2024-04-19 |  |

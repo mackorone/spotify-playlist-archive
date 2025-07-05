@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 5335,
+  "num_followers": 5369,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-05-28 10:10:09",
       "album": {
+        "name": "In Purpose (feat. NATURE)",
+        "url": "https://open.spotify.com/album/0EHyjPgDfmVplZ2oaPLEQG"
+      },
+      "artists": [
+        {
+          "name": "Madame Gandhi",
+          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 241212,
+      "name": "In Purpose (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0fYg8DpVBD8xSY3Y2slmrR"
+    },
+    {
+      "added_at": "2025-05-28 10:10:09",
+      "album": {
         "name": "We Can't Walk Away (feat. NATURE)",
         "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 241846,
       "name": "We Can't Walk Away (feat. NATURE)",
       "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
-    },
-    {
-      "added_at": "2025-05-28 10:10:09",
-      "album": {
-        "name": "In Purpose (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0EHyjPgDfmVplZ2oaPLEQG"
-      },
-      "artists": [
-        {
-          "name": "Madame Gandhi",
-          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 241212,
-      "name": "In Purpose (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0fYg8DpVBD8xSY3Y2slmrR"
     },
     {
       "added_at": "2025-05-28 10:10:09",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-05-28 10:10:09",
       "album": {
-        "name": "Shelter Me (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Sturgeon",
-          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 254975,
-      "name": "Shelter Me (feat. NATURE)",
-      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
-    },
-    {
-      "added_at": "2025-05-28 10:10:09",
-      "album": {
         "name": "Nightingale (feat. NATURE)",
         "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 163408,
       "name": "Nightingale (feat. NATURE)",
       "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
+    },
+    {
+      "added_at": "2025-05-28 10:10:09",
+      "album": {
+        "name": "Shelter Me (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
+      },
+      "artists": [
+        {
+          "name": "Jenny Sturgeon",
+          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 254975,
+      "name": "Shelter Me (feat. NATURE)",
+      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
     },
     {
       "added_at": "2025-05-28 10:10:09",

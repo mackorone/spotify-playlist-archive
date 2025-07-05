@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-366 songs - 23 hr 50 min
+367 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Love Song](https://open.spotify.com/track/4oZPOhLn4AoWrJKQj2ORjX) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Love Song](https://open.spotify.com/album/3NCwymfin2azsUdEb2U8xK) | 2:57 | 2022-02-04 | 2022-06-29 |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2023-02-10 | 2024-02-01 |
 | [LOVE YOU BETTER](https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:09 | 2024-09-20 |  |
+| [Love You Now](https://open.spotify.com/track/1oXb4YCP9CZJKZ9mWpKZGB) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Love You Now](https://open.spotify.com/album/6ZHkpCmMXzg0P9Tw9W986U) | 3:19 | 2025-07-04 |  |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2022-03-10 |
 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 | 2024-04-24 |  |
 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 | 2023-02-10 |  |
@@ -304,7 +305,7 @@
 | [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:07 | 2025-04-15 | 2025-05-03 |
 | [Sponsor](https://open.spotify.com/track/6VWFODoLzBjcFl77Egk6ir) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l) | [Sponsor](https://open.spotify.com/album/5f7RPcK9NES4zGvyGFTlzu) | 2:33 | 2025-05-23 |  |
 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2023-02-13 | 2024-02-01 |
-| [Stay](https://open.spotify.com/track/6VGRrR4FQ9SBRKfUhFRRqN) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Stay](https://open.spotify.com/album/3oxVdNKT0zaQBL1rMnyn7p) | 3:37 | 2025-05-23 |  |
+| [Stay](https://open.spotify.com/track/6VGRrR4FQ9SBRKfUhFRRqN) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Stay](https://open.spotify.com/album/3oxVdNKT0zaQBL1rMnyn7p) | 3:37 | 2025-05-23 | 2025-07-05 |
 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 | 2021-12-15 | 2022-07-27 |
 | [Stuck On You](https://open.spotify.com/track/3OSuGtQFrffdCkrR0jW174) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Stuck On You](https://open.spotify.com/album/4Cer2oGz8fedFN9VHtAGxs) | 3:43 | 2022-02-04 | 2022-03-10 |
 | [Stuck.](https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Dur&](https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR) | 4:19 | 2021-12-15 | 2023-01-15 |

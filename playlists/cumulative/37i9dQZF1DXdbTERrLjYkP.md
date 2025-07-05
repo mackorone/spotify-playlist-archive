@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Devon Gabriella
 
-888 songs - 1 day 23 hr 31 min
+889 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 | 2023-05-13 |
 | [her](https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- the complete story](https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz) | 3:45 | 2023-12-22 | 2024-08-17 |
 | [Hey Brother](https://open.spotify.com/track/7dNWl8ygkv1REyRuUPs42w) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Hey Brother](https://open.spotify.com/album/6CxOmEhnxKMaeOXRCfJ6IG) | 2:33 | 2022-01-14 | 2022-04-09 |
-| [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-23 |  |
+| [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-23 | 2025-07-05 |
 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-14 | 2022-12-24 |
 | [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-14 | 2022-10-16 |
 | [His LA Girl](https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [His LA Girl](https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY) | 4:46 | 2025-06-13 |  |
@@ -606,6 +606,7 @@
 | [Penthouse](https://open.spotify.com/track/1LtNEYgneVIjcl9Kcu231Q) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ) | [Penthouse](https://open.spotify.com/album/5XjFDl6uxHa69kd2fW40hr) | 3:38 | 2024-04-12 | 2024-09-28 |
 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 | 2022-07-15 | 2022-09-17 |
 | [people grow apart, people let me down](https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [people grow apart, people let me down](https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua) | 3:09 | 2023-02-03 | 2023-03-25 |
+| [People Who Love People](https://open.spotify.com/track/3ph60eaOkjFlIBVNqbGuJS) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Salt Stained Lungs](https://open.spotify.com/album/29lRw042Sd7EqT5BS6aNA2) | 3:34 | 2025-07-04 |  |
 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 | 2024-07-26 | 2025-02-18 |
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-04 | 2022-06-04 |
 | [Pictures Of You](https://open.spotify.com/track/6Q1i73OuBudnyvDLyxdyMJ) | [Myya's Diary](https://open.spotify.com/artist/34InewAqwTV9yX2PCK3y77) | [Pictures Of You](https://open.spotify.com/album/4gxmr0oHbHJQ9cve16vfve) | 2:22 | 2025-01-24 | 2025-06-07 |

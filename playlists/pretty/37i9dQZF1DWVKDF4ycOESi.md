@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Shablo, 333 Mob, DJ Snake e J Balvin, Icy Subzero, Ava Max, WizTheMc e bees& honey, Kesha e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,135 likes - 84 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,646 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 82 | [Le luci per te](https://open.spotify.com/track/2fVdNFsRRFKnbddOljrLo2) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Le luci per te](https://open.spotify.com/album/4mw5TrQtacLMFZYu6j1uMu) | 3:17 |
 | 83 | [nomade](https://open.spotify.com/track/3XH7b9f1Q55kZz2ob3dlTU) | [Corpoceleste](https://open.spotify.com/artist/7xVYEcgg58BT3A0Ty0DfDp) | [nomade](https://open.spotify.com/album/6wOTVQ36AjypWTmyRIlvc4) | 3:02 |
 | 84 | [Cinema Mexico](https://open.spotify.com/track/4Hgt2lUq6JvMQhUtHtVRaM) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Cinema Mexico](https://open.spotify.com/album/6PgOEKi6cEx9CglBVPqYMk) | 2:55 |
+| 85 | [Il mondo non ha gli occhi](https://open.spotify.com/track/59BXctKNyOByqpFA5oSwcS) | [Notlau](https://open.spotify.com/artist/3i25JvfCIGrr4IYCo7rg4V) | [Il mondo non ha gli occhi](https://open.spotify.com/album/1hSzN1SVGpmjAK2C4lGOAf) | 3:00 |
 
-Snapshot ID: `aGcLzgAAAABALhN4NF0U5hv9laMU6YAk`
+Snapshot ID: `aGeKfQAAAAC1RjEV8deLcbrdPuyrEPav`

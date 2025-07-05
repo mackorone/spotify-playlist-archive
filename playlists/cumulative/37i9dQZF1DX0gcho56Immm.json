@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Forget her",
+        "url": "https://open.spotify.com/album/7wEFFT8ha9xLJ4w5uAZvlz"
+      },
+      "artists": [
+        {
+          "name": "EERA",
+          "url": "https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Forget her",
+      "url": "https://open.spotify.com/track/5Pf5FOgGfEyKK9zizL2UtA"
+    },
+    {
+      "album": {
         "name": "Forgetful",
         "url": "https://open.spotify.com/album/3JkbrPgAyJMSn9YuPUpNS5"
       },

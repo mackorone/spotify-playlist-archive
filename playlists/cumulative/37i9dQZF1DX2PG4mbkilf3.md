@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada\. Elevate your aura with Maz B from Winnipeg, MB.
+> This is R&B in Canada\. Elevate your aura with RUSSELL! from Brampton, ON.
 
-1,381 songs - 2 day 23 hr 57 min
+1,383 songs - 3 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [23 SPECIAL](https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Kaleidoscope](https://open.spotify.com/album/6Rgww4ZKoUkNqki1bQdJNW) | 3:02 | 2024-07-05 | 2024-08-31 |
 | [24hrs](https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [24hrs](https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz) | 3:22 | 2022-02-18 | 2022-03-26 |
 | [2AM](https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [8](https://open.spotify.com/album/5EkUPC1lK59jm0O0y1jswQ) | 2:37 | 2023-09-29 | 2024-04-27 |
+| [2UP \(feat\. Because\)](https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [2UP \(feat\. Because\)](https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5) | 2:45 | 2025-07-04 |  |
 | [3AM](https://open.spotify.com/track/1lpKb41TytHt799qHYImCT) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [3AM](https://open.spotify.com/album/7ih9bEz6nXigYmVNddVtio) | 3:13 | 2022-05-27 | 2022-07-16 |
 | [4 Letter Word](https://open.spotify.com/track/1us5FXqtcrJUAaIINwMOhs) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 4:04 | 2023-09-08 | 2024-01-06 |
 | [444](https://open.spotify.com/track/10AyiEuf8rvgMKbsceFBM1) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [444](https://open.spotify.com/album/30EIuIFU1JY63ZWKvkzVbP) | 3:30 | 2023-04-21 | 2023-06-17 |
@@ -447,6 +448,7 @@
 | [Give In](https://open.spotify.com/track/25QnFnHnzY8xr61IQxVuw9) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [Give In](https://open.spotify.com/album/5d1sYgeRv77RXDHjMQA3nL) | 2:38 | 2023-07-14 | 2023-11-11 |
 | [Give Me Love](https://open.spotify.com/track/42sBbNFbNgAXYJjqWvq0w7) | [Cyani](https://open.spotify.com/artist/0mz6ypuN2JQnnlQCoxzG3S) | [Give Me Love](https://open.spotify.com/album/4hWM3aX6wr4WOwOzt6atGR) | 2:45 | 2025-01-24 | 2025-05-31 |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 | 2022-12-17 |
+| [Give Your All](https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Give Your All](https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr) | 2:18 | 2025-07-04 |  |
 | [Glory](https://open.spotify.com/track/6ZpFWfTWUw8O4zdpb6xAKN) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Glory](https://open.spotify.com/album/2qNFKtSWX8RzM88MPmkuca) | 2:49 | 2025-02-14 | 2025-04-12 |
 | [Glowing](https://open.spotify.com/track/2urpLm640blWOExbhQpFUl) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Esquire](https://open.spotify.com/artist/41zs0yeWeQNNwSMp8yAKY7) | [Glowing](https://open.spotify.com/album/10stvNyLMgPnFX4MPFzUuW) | 3:31 | 2022-02-25 | 2022-04-29 |
 | [Go' Head](https://open.spotify.com/track/4xlJlOrT1vgRrL2xxGHcRG) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 2:50 | 2025-05-16 |  |
@@ -1204,7 +1206,7 @@
 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-29 | 2022-10-29 |
 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 | 2024-03-15 | 2024-11-09 |
 | [The Art of Chess/The Game of Love](https://open.spotify.com/track/0aJhaQOHIhYloEugZXgVkF) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Sounds from Deep Down](https://open.spotify.com/album/6G7yp96Kdeym4yHFMhsTXV) | 4:00 | 2024-11-08 | 2025-02-22 |
-| [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/track/22waNdIbBAhzes4D2CTQX0) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/album/3N6AEFJ8tVjRIghPf1GPK6) | 3:12 | 2025-05-09 |  |
+| [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/track/22waNdIbBAhzes4D2CTQX0) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/album/3N6AEFJ8tVjRIghPf1GPK6) | 3:12 | 2025-05-09 | 2025-07-05 |
 | [THE CITY](https://open.spotify.com/track/6k8KSVKyMNZWtt8P4v6m2u) | [AMEN DENIRO](https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5) | [THE CITY](https://open.spotify.com/album/2NCmWdgFie2IewMrKzvOYX) | 2:23 | 2023-01-13 | 2023-03-04 |
 | [The Coochie Song](https://open.spotify.com/track/1ZKnx75UImiBGaSHp4d8Kg) | [Staasia Daniels](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [The Coochie Song](https://open.spotify.com/album/7n5avnSR9wyediAPHVWeHR) | 2:55 | 2022-05-27 | 2022-08-06 |
 | [The Dream](https://open.spotify.com/track/6owRPnezJsGhlbKfbRAfqi) | [Ciara Leah](https://open.spotify.com/artist/7FNnF6wVawmhhqUbwLGeo2) | [Love Money](https://open.spotify.com/album/6Orz1ukWtOi9u2OW6lvE0K) | 4:30 | 2023-01-06 | 2023-06-03 |

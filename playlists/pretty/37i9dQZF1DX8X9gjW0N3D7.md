@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: JF Pauzé
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,806 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,812 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 5 | [Drôle de temps](https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Drôle de temps](https://open.spotify.com/album/0WsI0ksQOfwX73ZE4YpaJs) | 3:43 |
 | 6 | [Ensemble \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 |
 | 7 | [minable](https://open.spotify.com/track/5OQfQjHdIyAcgQNnC8YQnR) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [minable](https://open.spotify.com/album/3UlDYwWkphGpLlyfmGxSsh) | 2:30 |
-| 8 | [Couche tard](https://open.spotify.com/track/2GMjBIujd8dNs5SpT1RQLd) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Couche tard](https://open.spotify.com/album/7HoyKW7zPtK0VoDXsUwNLQ) | 1:55 |
-| 9 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
-| 10 | [Je veux pas t'attendre mais je t'attends](https://open.spotify.com/track/6B86ieRgF2BhI1b81qpo8R) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Est\-ce que quelqu'un me voit ?](https://open.spotify.com/album/47JLynKKW2wWCpc21eaceH) | 3:35 |
-| 11 | [Rouler en août](https://open.spotify.com/track/7if4mulQZiyZ9ZK4grdW3j) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Rouler en août](https://open.spotify.com/album/2nERBo365hzapvIzvDi7dU) | 4:16 |
+| 8 | [Le jour est morne](https://open.spotify.com/track/43eSwHzPZ1hKxQQtSIeSET) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Le jour est morne](https://open.spotify.com/album/0ZtZTdoDajVToyzzRjguFs) | 3:40 |
+| 9 | [Couche tard](https://open.spotify.com/track/2GMjBIujd8dNs5SpT1RQLd) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Couche tard](https://open.spotify.com/album/7HoyKW7zPtK0VoDXsUwNLQ) | 1:55 |
+| 10 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
+| 11 | [Je veux pas t'attendre mais je t'attends](https://open.spotify.com/track/6B86ieRgF2BhI1b81qpo8R) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Est\-ce que quelqu'un me voit ?](https://open.spotify.com/album/47JLynKKW2wWCpc21eaceH) | 3:35 |
 | 12 | [Sur un malentendu](https://open.spotify.com/track/5PpylbXynoQyfKFapgYNEO) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Un meilleur lendemain](https://open.spotify.com/album/1kHPOUVWaVZVbGmvZH5hfu) | 3:47 |
 | 13 | [Ne partez pas sans moi](https://open.spotify.com/track/040pT97vMtIYgABtNjzrau) | [Star Académie](https://open.spotify.com/artist/4JNaMxBxA6eqY6QYRj5jDK) | [Ne partez pas sans moi](https://open.spotify.com/album/17go52ItR838U5I3fywNDA) | 3:12 |
 | 14 | [Il y a tant de moi en vous](https://open.spotify.com/track/49bqtZIf4uii8vOQQD4hsy) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Patrick Krief](https://open.spotify.com/artist/3qLS4mXlfuL6vnKdDe2dK6) | [Scarabée](https://open.spotify.com/album/6y1UMNEMz5lFm0eZZ6v39f) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Shalala](https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [Shalala](https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt) | 2:42 |
 | 75 | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK) | 2:20 |
 
-Snapshot ID: `aF4XZQAAAACMSEql4hiZyRWTRFXbg6Og`
+Snapshot ID: `aGdR3wAAAAD5UAgvnvP7nrDy5dpYrftw`

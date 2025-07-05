@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Thalaivan Thalaivii",
-  "num_followers": 152430,
+  "num_followers": 152749,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGFAjgAAAABP9aCnEOjObAFJKIZCVgIO",
+  "snapshot_id": "aGeKeAAAAADXBMfI+c+T9dF6d1Evd1Xw",
   "tracks": [
     {
       "added_at": "2025-06-04 14:31:01",
@@ -79,6 +79,30 @@
       "duration_ms": 149921,
       "name": "Nee Arike",
       "url": "https://open.spotify.com/track/2QFyg6VF0KPeKvKnkipR0V"
+    },
+    {
+      "added_at": "2025-07-04 08:02:00",
+      "album": {
+        "name": "Malarey (From \"Yaadhum Ariyaan\")",
+        "url": "https://open.spotify.com/album/33WRfJFlPx3H3dgNCH9BU8"
+      },
+      "artists": [
+        {
+          "name": "Dharma Prakash",
+          "url": "https://open.spotify.com/artist/6j5MeR7FqQfO9meOdkZD7Z"
+        },
+        {
+          "name": "Arul Pragasam",
+          "url": "https://open.spotify.com/artist/4wDrPOVYI8j53HYcAaNtUe"
+        },
+        {
+          "name": "Sk Siddiq",
+          "url": "https://open.spotify.com/artist/6SWKsTT9QNc2QooVU6lIrB"
+        }
+      ],
+      "duration_ms": 245142,
+      "name": "Malarey (From \"Yaadhum Ariyaan\")",
+      "url": "https://open.spotify.com/track/1bufadBDkkvBAAXKMM7EOF"
     },
     {
       "added_at": "2025-01-13 06:02:31",
@@ -1211,30 +1235,6 @@
       "duration_ms": 242249,
       "name": "Kangal Edho",
       "url": "https://open.spotify.com/track/7CfNtzLIwNZ6ze4TXFD0bH"
-    },
-    {
-      "added_at": "2025-02-19 05:49:37",
-      "album": {
-        "name": "Paavai",
-        "url": "https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3"
-      },
-      "artists": [
-        {
-          "name": "Marshall Robinson",
-          "url": "https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H"
-        },
-        {
-          "name": "Sreekanth Hariharan",
-          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
-        },
-        {
-          "name": "Priyanka NK",
-          "url": "https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K"
-        }
-      ],
-      "duration_ms": 215942,
-      "name": "Paavai",
-      "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"
     }
   ],
   "unique_name": "Latest Love Tamil",

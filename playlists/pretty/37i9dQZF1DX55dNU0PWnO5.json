@@ -1,13 +1,29 @@
 {
   "description": "Jazzy blips and blops. Cover: Theo Croker",
-  "num_followers": 580734,
+  "num_followers": 580755,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4SAAAAAAHrdmJUwaEKSCXt0lUMfiY",
+  "snapshot_id": "aGdR0AAAAAAWOX4LrnsHxWvp1bsMEZYw",
   "tracks": [
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 238794,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY"
+    },
     {
       "added_at": "2025-05-16 04:00:08",
       "album": {
@@ -879,22 +895,6 @@
       "duration_ms": 207500,
       "name": "r&r",
       "url": "https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/0V6u5oyZhB5vx1EJroIXi2"
-      },
-      "artists": [
-        {
-          "name": "Keeth",
-          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
-        }
-      ],
-      "duration_ms": 127706,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz"
     },
     {
       "added_at": "2023-07-14 04:01:00",

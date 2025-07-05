@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05d1\u05d9\u05d3\u05df",
-  "num_followers": 32113,
+  "num_followers": 32116,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-07-03 21:00:14",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
-    },
-    {
-      "added_at": "2025-07-03 21:00:14",
-      "album": {
         "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
         "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 231000,
       "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+    },
+    {
+      "added_at": "2025-07-03 21:00:14",
+      "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
     },
     {
       "added_at": "2025-07-03 21:00:14",
@@ -763,22 +763,18 @@
     {
       "added_at": "2025-07-03 21:00:14",
       "album": {
-        "name": "Priorities",
-        "url": "https://open.spotify.com/album/5MpXC8mEUSX5lIWw1hQnWk"
+        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
       },
       "artists": [
         {
-          "name": "Guy Moses",
-          "url": "https://open.spotify.com/artist/1cZUAgTSmJr8mXjwN9mvlI"
-        },
-        {
-          "name": "SHAKED MILLER",
-          "url": "https://open.spotify.com/artist/7Ax3QEFi6NXeuiAB025OaQ"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
         }
       ],
-      "duration_ms": 225737,
-      "name": "Priorities",
-      "url": "https://open.spotify.com/track/4a6Br4XFWyCLNkSlGLvXHr"
+      "duration_ms": 209230,
+      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
     },
     {
       "added_at": "2025-07-03 21:00:14",
@@ -799,18 +795,22 @@
     {
       "added_at": "2025-07-03 21:00:14",
       "album": {
-        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
+        "name": "Priorities",
+        "url": "https://open.spotify.com/album/5MpXC8mEUSX5lIWw1hQnWk"
       },
       "artists": [
         {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+          "name": "Guy Moses",
+          "url": "https://open.spotify.com/artist/1cZUAgTSmJr8mXjwN9mvlI"
+        },
+        {
+          "name": "SHAKED MILLER",
+          "url": "https://open.spotify.com/artist/7Ax3QEFi6NXeuiAB025OaQ"
         }
       ],
-      "duration_ms": 209230,
-      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
+      "duration_ms": 225737,
+      "name": "Priorities",
+      "url": "https://open.spotify.com/track/4a6Br4XFWyCLNkSlGLvXHr"
     },
     {
       "added_at": "2025-07-03 21:00:14",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-07-03 21:00:14",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+        "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt"
       },
       "artists": [
         {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+          "name": "Aviv Guedj",
+          "url": "https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT"
         }
       ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
+      "duration_ms": 263853,
+      "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

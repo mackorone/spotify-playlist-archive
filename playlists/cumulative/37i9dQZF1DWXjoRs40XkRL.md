@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-377 songs - 1 day 11 hr 12 min
+378 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 | 2024-04-19 |
 | [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 | 2023-10-09 | 2024-01-08 |
 | [Badra Jhum](https://open.spotify.com/track/3paWIcLemVopky4tYAjYnn) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/6xzmXaik3FZtgmExS2Il4M) | 3:42 | 2023-12-15 | 2024-03-16 |
-| [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 |  |
+| [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 | 2025-07-05 |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Balma Roothe](https://open.spotify.com/track/5iwv6Hnc8qK2MMWAEPaxSy) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Balma Roothe](https://open.spotify.com/album/3H2bShG6rGWRWpB4zCB3i8) | 2:46 | 2025-02-12 | 2025-05-08 |
 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 | 2024-10-04 |  |
@@ -128,6 +128,7 @@
 | [Jabse Tum Sana Lag Li \- Bhoopali](https://open.spotify.com/track/6zFQPuWAkXBEN2h3ytYJLx) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Jabse Tum Sana Lag Li \(Bhoopali\)](https://open.spotify.com/album/6Bm1pY8Lg5vDmRzxOjC22l) | 3:03 | 2023-12-15 |  |
 | [Jagaave Saari Raina](https://open.spotify.com/track/4Y5YYrofXOcGZnrH03AhvF) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/23R1Rdt3MDu5aHYh9FFGBp) | 5:38 | 2024-01-31 | 2024-04-19 |
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 | 2025-01-07 |
+| [Jamuna Kinaare](https://open.spotify.com/track/7JRBFFMp0VpGoFmEMGLJ9w) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Jamuna Kinaare](https://open.spotify.com/album/6FoH3QGoYMwNlnPW6TkPNP) | 7:41 | 2025-07-04 |  |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 | 2023-04-22 |
 | [Jao Ji Jao \- From "Ulajh"](https://open.spotify.com/track/5LKAj1Ed6xJewL8RYa7K0j) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shanya Kashyap](https://open.spotify.com/artist/2En4ppmO51pQ7t4MXSmw2D), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Ulajh \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3ZaDeJrwMgfJExajojAuwC) | 3:59 | 2024-07-29 | 2024-10-01 |
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/2FlrURkLtjLKlfkVmgQRob) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6h564cMA06UJRCmanWFdqp) | 5:27 | 2023-03-30 | 2023-04-01 |

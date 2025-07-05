@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Kyrus Artwork: Isu Kim
 
-3,395 songs - 8 day 6 hr 55 min
+3,397 songs - 8 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1281,7 +1281,7 @@
 | [Hundreds](https://open.spotify.com/track/1pvLfLN3vXjRDqtDDIWZaE) | [S6xth Bone](https://open.spotify.com/artist/77JsE0YDJfCSiq5s5fjpNw) | [Hundreds](https://open.spotify.com/album/3pPTgJ9H4v4T8745Gcf4Ai) | 4:17 | 2022-09-08 | 2022-10-14 |
 | [Huni](https://open.spotify.com/track/2bX7m2LiQrAYqi3ROiCLtm) | [Francis DP](https://open.spotify.com/artist/4HmY02cUKsU92u2dNQkPzX) | [Huni](https://open.spotify.com/album/6UuGXxZ5wDlcvcq2MmlT3S) | 3:31 | 2024-07-18 | 2024-08-16 |
 | [Hunnid Bands](https://open.spotify.com/track/1St8loj5e8xNADjYqnwalk) | [J\. Auste](https://open.spotify.com/artist/0jp35QSUB7nbth0BGvLIYi), [Kapsul](https://open.spotify.com/artist/4erLGtIPk5Ka85WITwHZlb) | [Hunnid Bands](https://open.spotify.com/album/03iqmbEYqCCnUnoMVrUwcf) | 3:33 | 2023-05-18 | 2023-06-09 |
-| [Hunter](https://open.spotify.com/track/1qbk9NsGg0NhJxxYQSOaM6) | [monopolice](https://open.spotify.com/artist/7HJT0fgWu56JuKB70YLWMf), [Miguel Granada](https://open.spotify.com/artist/3MYBR8yZ0NkHQk7RIaPcps), [Karl Lucente](https://open.spotify.com/artist/4wV6hS9iZ0eKZKsVNpbBme), [Amiel Cortes](https://open.spotify.com/artist/0I7iMHuBFEYRf9x49FuONy), [Jesiree Rosales](https://open.spotify.com/artist/4Gbnml9FkrLmYcOJT4Nnly), [Peter Mascariñas](https://open.spotify.com/artist/5GI51wUlz0mma7Lu2um2kn) | [Hunter](https://open.spotify.com/album/2eBG0R2XCtjbqo4hd0ilBU) | 2:56 | 2025-07-03 |  |
+| [Hunter](https://open.spotify.com/track/1qbk9NsGg0NhJxxYQSOaM6) | [monopolice](https://open.spotify.com/artist/7HJT0fgWu56JuKB70YLWMf) | [Hunter](https://open.spotify.com/album/2eBG0R2XCtjbqo4hd0ilBU) | 2:56 | 2025-07-03 |  |
 | [Hurricane Dreams](https://open.spotify.com/track/3Jo1YhKlae1cwrkz45sW1j) | [Manilenya](https://open.spotify.com/artist/1atUnYa1mqUUVJwA24aBl5) | [Hurricane Dreams](https://open.spotify.com/album/1D0QaQKQ3orVDRtat5SzvG) | 2:46 | 2024-11-29 | 2024-12-05 |
 | [Hush](https://open.spotify.com/track/33O4vkNwmOgWvT8icPRZup) | [Ian Sison](https://open.spotify.com/artist/3DoUSxKNl7KKNxvrhmkCus) | [Hush](https://open.spotify.com/album/6pVSj2uOdBttUluEZ8qRA4) | 5:21 | 2025-01-31 | 2025-03-21 |
 | [huwag ka nang mawala](https://open.spotify.com/track/1tqQvcjOiBdtjJe6QllxB0) | [mooncrate](https://open.spotify.com/artist/0Qk3nj7X8lCFIbBw6fffdC) | [huwag ka nang mawala](https://open.spotify.com/album/5Q6Y59J14wbx68r7Gae5z1) | 2:12 | 2022-11-03 | 2023-02-10 |
@@ -1758,6 +1758,7 @@
 | [Lost](https://open.spotify.com/track/3k23yhRSuvHWwSAks6vo7o) | [The 12/21](https://open.spotify.com/artist/4nM97dII7qHxrZKU0IjKYE) | [Lost](https://open.spotify.com/album/31RZOpyTu9Uh6o3o5auIR8) | 3:02 | 2024-08-29 | 2025-01-17 |
 | [Lost](https://open.spotify.com/track/0P4p9gudlTlreFg9jcBbTA) | [The Great Dane](https://open.spotify.com/artist/0kBu4TScyrcXugROuOFkqe) | [Lost](https://open.spotify.com/album/7gqdscbGP6ffuOXDsfng4y) | 4:07 | 2022-06-16 | 2022-09-09 |
 | [Lost In Time](https://open.spotify.com/track/5AsQ5xODUOuBc4FKDz02Kw) | [Teresa Suydam](https://open.spotify.com/artist/71MnE4kBYYcoM1yiNTdi0b) | [Lost In Time](https://open.spotify.com/album/7BxTlh9ZuUcn5uxF7k9qR2) | 4:38 | 2023-08-10 | 2023-09-01 |
+| [Loud Tonight](https://open.spotify.com/track/5r3vMvuoQBbqxUyDemE3Np) | [Spencer Negosa](https://open.spotify.com/artist/4yWtvwqsareIRoSRnWDxgE) | [Loud Tonight](https://open.spotify.com/album/3P3Yc5oskrYFBRYl5p3A5o) | 2:56 | 2025-07-04 |  |
 | [LOVE](https://open.spotify.com/track/4aBp0UGwzDJgn7qrkPV2iw) | [PLAN B](https://open.spotify.com/artist/1DFnRiFfABRQzsYINMux60) | [LOVE](https://open.spotify.com/album/4TSFNL2fY5e6w1oV2xQjrk) | 3:15 | 2022-04-14 | 2022-05-06 |
 | [Love Alarmism](https://open.spotify.com/track/1gwHn8tFbdESaev9AX7WSu) | [Carlo Mesina](https://open.spotify.com/artist/7GBWVhprM1BFq53jworKnp) | [Love Alarmism](https://open.spotify.com/album/4qRWW6vdJtjfBRveHDuVzJ) | 4:19 | 2023-06-15 | 2023-06-30 |
 | [Love Calling](https://open.spotify.com/track/0N46OWZIrVmwYJo9NJ17NJ) | [Uncle Bob's Funky Seven Club](https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp) | [Love Calling](https://open.spotify.com/album/2hBs7ZgmXUoHyYniIHSVcQ) | 4:57 | 2025-02-27 | 2025-04-26 |
@@ -2049,6 +2050,7 @@
 | [Namamaalam](https://open.spotify.com/track/3mjIYJTUEJioxBMJMaW5hS) | [Fer](https://open.spotify.com/artist/3p297g0B6UdXL3CPo9czhs) | [Namamaalam](https://open.spotify.com/album/5ldBPmzr4w0bJ9FKymYdNa) | 4:15 | 2023-07-06 | 2023-07-28 |
 | [Namimiss Kita, Sinta](https://open.spotify.com/track/7uLMids0SCAD1I6fiLlYWl) | [Mikee](https://open.spotify.com/artist/48rxnfZyO2oDLWaSaqgocx) | [Namimiss Kita, Sinta](https://open.spotify.com/album/6zsRtaeovjYNBoiHmWx1mc) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [Namseyin](https://open.spotify.com/track/5cY6dnSASejcg0F8I9tY4E) | [Jeez](https://open.spotify.com/artist/1FA0103VxNaPThsF6GKNGq), [J\. Cee](https://open.spotify.com/artist/49zxrFspRuDbHnds7lfE2B) | [Namseyin](https://open.spotify.com/album/4ronvDR4O6bNXcyhSxriAZ) | 2:27 | 2024-06-27 | 2024-07-27 |
+| [Nananaginip](https://open.spotify.com/track/62821lC95kvfuKCrhQcr5W) | [Kevin Montillano](https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju) | [Nananaginip](https://open.spotify.com/album/7zESaGbrTNjcZigGN8c6df) | 3:45 | 2025-07-04 |  |
 | [Nandito Ako](https://open.spotify.com/track/2p5rD1YvrQ5zNJ9JJeXimC) | [Bo$$ RyL](https://open.spotify.com/artist/2aUXqWnqgiQG0HiLXyNz2A), [XAP](https://open.spotify.com/artist/1pIYXdqALY3HWGWz9cbiIk), [KyD LDN](https://open.spotify.com/artist/11iAdroTH5Gfpg71hoTz26) | [Nandito Ako](https://open.spotify.com/album/0otILrwcLIjT4e00Ekm4wc) | 3:51 | 2024-02-08 | 2024-03-01 |
 | [Nandito Ako](https://open.spotify.com/track/4lFpGvBAwEuQ9HWRYAObzU) | [Bo$$ RyL](https://open.spotify.com/artist/2aUXqWnqgiQG0HiLXyNz2A), [XAP](https://open.spotify.com/artist/1pIYXdqALY3HWGWz9cbiIk), [KyD LDN](https://open.spotify.com/artist/11iAdroTH5Gfpg71hoTz26) | [Nandito Ako](https://open.spotify.com/album/2vlPSsrAQUXsjeZJzETYeJ) | 3:51 | 2024-02-08 | 2024-02-19 |
 | [Nandito Ako](https://open.spotify.com/track/603wjFSh0TVmg6NmM9iVFJ) | [Philip Mahoney](https://open.spotify.com/artist/3TwA0HXGKdt9MQu4OwUbdp) | [Nandito Ako](https://open.spotify.com/album/1kMk4iunzy09X0KxIIP1Gm) | 3:55 | 2024-07-18 | 2024-08-23 |

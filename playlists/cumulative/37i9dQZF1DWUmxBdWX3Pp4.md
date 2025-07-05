@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos de Trap Latino 📸 Young Miko.
+> Éxitos de Trap Latino 📸 Eladio Carrion.
 
-548 songs - 1 day 6 hr 29 min
+549 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 | 2021-12-06 | 2022-03-12 |
 | [28](https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:20 | 2022-08-19 | 2022-11-19 |
 | [300](https://open.spotify.com/track/38qm9QOThz4R650p5WPKrN) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:42 | 2021-12-06 | 2022-06-04 |
+| [4AM EN IBIZA](https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [4AM EN IBIZA](https://open.spotify.com/album/6lYMuShTlxnmA4MGrihGIi) | 2:59 | 2025-07-04 |  |
 | [5 Estrellas](https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [5 Estrellas](https://open.spotify.com/album/3hPNd8YlE88jGyQ1jIdNrM) | 4:09 | 2023-03-31 | 2023-06-03 |
 | [5:05 pm](https://open.spotify.com/track/2x4zbYm00NIr2Sk469ktQs) | [Leïti Sene](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [Chineseguy2021](https://open.spotify.com/artist/4WvZnQsXqHEg6OTI2wAieW) | [5:05 pm](https://open.spotify.com/album/2Ejm2cWwalFvS5pRGfyP1G) | 3:31 | 2022-07-15 | 2022-11-26 |
 | [60 Barras](https://open.spotify.com/track/6NtEyIBt9KpNF1a1Om367P) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 3:07 | 2021-12-06 | 2023-02-25 |
@@ -120,7 +121,7 @@
 | [Cucaracha](https://open.spotify.com/track/3Lkt1xGzHXV6bEsmtJNEyn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:29 | 2021-12-06 | 2022-03-26 |
 | [CUENTA](https://open.spotify.com/track/57JxDNtEe4iDhKFiwQT6Uo) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CUENTA](https://open.spotify.com/album/4HKm0BAbVpTdwb1dru6uem) | 2:36 | 2021-12-06 | 2022-04-14 |
 | [Código G](https://open.spotify.com/track/7kXFHkoWcqtRc3vJEmYkmN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:31 | 2024-05-03 | 2024-11-23 |
-| [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 | 2022-06-03 |  |
+| [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 | 2022-06-03 | 2025-07-05 |
 | [Cómo Te Explico?](https://open.spotify.com/track/2ouBjgKseCiYoGBAJm3S7B) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Cómo Te Explico?](https://open.spotify.com/album/5LaLUUh2nUdBK8DoNSgX1n) | 2:42 | 2022-04-04 | 2022-06-04 |
 | [Dame La Verde](https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Dame La Verde](https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1) | 3:35 | 2024-09-27 |  |
 | [Danger \(with DJ Drama, G Herbo & Sugarhill Ddot\)](https://open.spotify.com/track/1ZSjmPEiMr1kLT0ipTPzZt) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 3:52 | 2023-06-02 | 2023-07-01 |

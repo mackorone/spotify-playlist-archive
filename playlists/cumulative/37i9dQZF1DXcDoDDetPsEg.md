@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Doechii
 
-1,553 songs - 3 day 6 hr 25 min
+1,554 songs - 3 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk) | 3:27 | 2023-02-03 | 2023-03-03 |
 | [1989](https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [1989](https://open.spotify.com/album/5L6AKgaJyex0tb5TfdsF6S) | 2:17 | 2022-05-20 | 2022-06-25 |
 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-25 | 2024-06-08 |
+| [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 | 2025-07-04 |  |
 | [2 seater \(feat\. Smino\)](https://open.spotify.com/track/31utIsi83TdTRNLxvDHZTU) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [2 seater \(feat\. Smino\)](https://open.spotify.com/album/74cs9FDpfW0pxPCMXu89xj) | 3:04 | 2022-03-08 | 2022-03-09 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-11 | 2023-01-13 |
 | [2 Summers](https://open.spotify.com/track/36k6X9eENFg2iWeDhY0EVh) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [2 Summers](https://open.spotify.com/album/0fKazuV2iZIDDEaF5nX4vd) | 4:00 | 2025-04-04 | 2025-06-20 |
@@ -582,7 +583,7 @@
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-05 | 2024-07-27 |
 | [Half Way](https://open.spotify.com/track/5qdfpE7QdCEdbyvZAjP9fk) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Half Way](https://open.spotify.com/album/05k9DvSzjUmAnnzglNa2iT) | 3:08 | 2025-01-31 | 2025-05-02 |
 | [Hallelujah \(feat\. Lojay\)](https://open.spotify.com/track/0Zb004lei42rERugapZaSt) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:49 | 2023-08-17 | 2023-12-09 |
-| [Hands On Knees](https://open.spotify.com/track/52ceILmHmaBcD8DyVSgG1U) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Hands On Knees](https://open.spotify.com/album/5OdFmqoaEYUIzC8ZZgSIM6) | 1:37 | 2025-04-25 |  |
+| [Hands On Knees](https://open.spotify.com/track/52ceILmHmaBcD8DyVSgG1U) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Hands On Knees](https://open.spotify.com/album/5OdFmqoaEYUIzC8ZZgSIM6) | 1:37 | 2025-04-25 | 2025-07-05 |
 | [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 | 2024-12-13 | 2025-04-04 |
 | [Happiness](https://open.spotify.com/track/3RPxsGHRBxjpLyqbjVVnsh) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Happiness](https://open.spotify.com/album/27JZOu7tCqtrRWhhmVl88Y) | 2:32 | 2022-08-23 | 2022-08-31 |
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2023-12-11 | 2024-04-26 |

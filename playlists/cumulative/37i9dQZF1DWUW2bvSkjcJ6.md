@@ -4,7 +4,7 @@
 
 > Neue Musik von WizTheMc, CRO, RAF Camora & Apache 207, Ellice und mehr!
 
-5,382 songs - 10 day 23 hr 48 min
+5,383 songs - 10 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1378,7 +1378,7 @@
 | [EGWU EJI](https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EGWU EJI](https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p) | 2:52 | 2024-08-29 | 2024-09-06 |
 | [EHRLICH](https://open.spotify.com/track/5e23Kryt9ShCzg2NQt5X1D) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn) | [EHRLICH](https://open.spotify.com/album/2iwBp3xjpjTaucVKP0j45d) | 2:24 | 2025-04-24 | 2025-05-02 |
 | [eigentlich](https://open.spotify.com/track/4YtvSY7hAUYspEpl9iWCmN) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [eigentlich](https://open.spotify.com/album/5utBsTeBTt6TVi6mWMTnNT) | 2:52 | 2024-12-05 | 2024-12-13 |
-| [Eighteen](https://open.spotify.com/track/6GPUnS1VtTrjaBpqLThKeB) | [Summer](https://open.spotify.com/artist/3fL8Dy5VBZpGj8j4sTAF5E) | [Eighteen](https://open.spotify.com/album/2Tbm6lyYDLtC6Wp1kWybwo) | 2:34 | 2025-07-03 |  |
+| [Eighteen](https://open.spotify.com/track/6GPUnS1VtTrjaBpqLThKeB) | [SUMMER](https://open.spotify.com/artist/3fL8Dy5VBZpGj8j4sTAF5E) | [Eighteen](https://open.spotify.com/album/2Tbm6lyYDLtC6Wp1kWybwo) | 2:34 | 2025-07-03 |  |
 | [Ein Ja Reicht](https://open.spotify.com/track/5M30c6zb56V8ukB77PIAvW) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Ein Ja Reicht](https://open.spotify.com/album/0BVhiR58DR5eMkfCBU3GeU) | 1:58 | 2025-05-15 | 2025-05-23 |
 | [Ein Kleines Bisschen Glücklich](https://open.spotify.com/track/1Ebp5V7XR0ZsNTMgvN1QZ0) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Ein Kleines Bisschen Glücklich](https://open.spotify.com/album/5zsENLDwUutFenaAhIfBCv) | 2:57 | 2024-08-29 | 2024-09-06 |
 | [EiN LETZTES MAL](https://open.spotify.com/track/7m1Wtzk5YfCL6uhFt8cgw1) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [EiN LETZTES MAL](https://open.spotify.com/album/2ValeEUVzkac6p1OYq81cE) | 2:43 | 2024-08-29 | 2024-09-06 |
@@ -2474,6 +2474,7 @@
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 | 2025-04-25 |
 | [Invisible](https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Invisible](https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn) | 3:17 | 2024-09-12 | 2024-09-20 |
 | [Ipanema](https://open.spotify.com/track/6DZ9WJyO58GXhnYTYzIMTe) | [Jamin](https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Ipanema](https://open.spotify.com/album/1veqAYagbMEZTHUnNHBwFO) | 2:48 | 2024-08-15 | 2024-08-23 |
+| [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:35 | 2025-07-04 |  |
 | [iPhone 5s](https://open.spotify.com/track/1ptOsYm0MmBdUsGd1Ef2Qw) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [iPhone 5s](https://open.spotify.com/album/12j5qmxcRIDBrmoXGD7LPu) | 2:08 | 2025-04-17 | 2025-04-25 |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 | 2025-06-27 |
 | [irgendwann](https://open.spotify.com/track/61Nom3MKTRermOlbTTIp9z) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [irgendwann](https://open.spotify.com/album/6MKlXcJGtsE9DwnyJi2p3d) | 3:22 | 2024-10-03 | 2024-10-11 |

@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-589 songs - 1 day 12 hr 31 min
+590 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [BOOTS](https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [BOOTS](https://open.spotify.com/album/0h2VDVB4yE4JTdTKeUL7Bu) | 3:19 | 2025-01-31 | 2025-02-14 |
 | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5) | 3:13 | 2023-12-08 | 2024-05-04 |
 | [Breathing](https://open.spotify.com/track/0OY1Iyu2yuiCpQBrhkV7zV) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Breathing](https://open.spotify.com/album/6D3bxM6aNBo2Qk3gBD0NEm) | 3:53 | 2024-01-12 | 2024-03-16 |
+| [Burnin'](https://open.spotify.com/track/4Okyrxv0ZNQcykjyJ3fvAx) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [Bloom](https://open.spotify.com/album/4v8UXSF4axUN6brXSjsmiW) | 2:20 | 2025-07-04 |  |
 | [BUTTER BREAD](https://open.spotify.com/track/2S4pfn4eZbyOLpJwy6T8kA) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [BUTTER BREAD](https://open.spotify.com/album/6IjENtVmf4WU836bGcBWv0) | 3:34 | 2025-04-04 |  |
 | [california](https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb) | [SUBURBIA \(after dark\)](https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA) | 3:28 | 2025-05-23 |  |
 | [Can't Stop Cryin'](https://open.spotify.com/track/4jJs2ohRchPCc7VrYWpjbN) | [Austin Manuel](https://open.spotify.com/artist/0ih9NQR8CkKRwxfN9yXozi) | [Can't Stop Cryin'](https://open.spotify.com/album/0hL9VPzSao6NlX3aSEPkym) | 3:13 | 2020-12-22 | 2022-07-29 |
@@ -187,7 +188,7 @@
 | [Fou \- Poolside Remix](https://open.spotify.com/track/1HWuPD9JjXtRBp1xqX9KNC) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Fou \(Poolside Remix\)](https://open.spotify.com/album/6ofU9bwcQ8kflxyn5Nc088) | 4:41 | 2020-12-22 | 2022-04-14 |
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-08-11 | 2024-01-27 |
 | [Free \- Folamour Remix](https://open.spotify.com/track/16zYjPEcLGYCOsJOAvwNhn) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Day/Night Remixed](https://open.spotify.com/album/3dYicMi9AWSw7ZO56J8ehf) | 4:42 | 2023-12-01 | 2024-01-13 |
-| [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2024-02-13 |  |
+| [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2024-02-13 | 2025-07-05 |
 | [Freeway Crush \(Edit\)](https://open.spotify.com/track/5fUunJssU1UfTAQpFRdbno) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [Freeway Crush \(Edit\)](https://open.spotify.com/album/24uUEwVT99eWD8IDNMqxUA) | 5:35 | 2020-12-22 | 2022-04-21 |
 | [Friends](https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Friends](https://open.spotify.com/album/4jStOidSdXoVBPdgVUj0po) | 3:26 | 2020-12-22 | 2022-04-21 |
 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 | 2020-12-22 | 2022-11-13 |

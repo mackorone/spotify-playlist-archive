@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,315 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,317 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 59 | [Si Te Coge Greta Thunberg](https://open.spotify.com/track/19pVQCrYaAOwQLFmshUrLH) | [Los Pelukeros de Punset](https://open.spotify.com/artist/6juxKdApXKZBmcsINhuCb5), [Catalina Grande Piñón Pequeño](https://open.spotify.com/artist/701mxW0iFERrJuhfNebtL3) | [Si Te Coge Greta Thunberg](https://open.spotify.com/album/74ErpDzlO2IjF78JLJbOpV) | 2:30 |
 | 60 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 61 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
-| 62 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
-| 63 | [Himno de la Dictadura Travesti](https://open.spotify.com/track/22ihKXRm9Pdks2zMCDA1vJ) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Himno de la Dictadura Travesti](https://open.spotify.com/album/78RzWv26gU19MnwYLBfJ4U) | 1:49 |
+| 62 | [Himno de la Dictadura Travesti](https://open.spotify.com/track/22ihKXRm9Pdks2zMCDA1vJ) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Himno de la Dictadura Travesti](https://open.spotify.com/album/78RzWv26gU19MnwYLBfJ4U) | 1:49 |
+| 63 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
 | 64 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
-| 65 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
+| 65 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 66 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
-| 67 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
+| 67 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 68 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
 | 69 | [El Rey de la Ciénaga](https://open.spotify.com/track/6WwCGsJbvA6gcXRNEc04YO) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [El Rey de la Ciénaga](https://open.spotify.com/album/6vusKSh4ZqJwZtjdmK0Nfr) | 3:04 |
 | 70 | [El Incendio](https://open.spotify.com/track/5hK1Fl7rgETlW6Xsop2ay0) | [El Flacotirador](https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq) | [El Incendio](https://open.spotify.com/album/67fdGZ8kyZ4py6tP8RoSuc) | 3:43 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 84 | [Nunca Más](https://open.spotify.com/track/76GV55TWYohghcdNIutMVT) | [Nervio](https://open.spotify.com/artist/1R2eVRmyJMD00TKq3uNMCz) | [Nunca Más](https://open.spotify.com/album/0Gqw1ocHw6eZCdQ8EoRzzS) | 2:38 |
 | 85 | [DES0KUPA](https://open.spotify.com/track/5UyFdKSTKokWO4xtesk7D4) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [DES0KUPA](https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI) | 2:27 |
 | 86 | [Pepas](https://open.spotify.com/track/05KuSiTBf115S6xWtbw0jF) | [Afónica Naranjo](https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC) | [Pepas](https://open.spotify.com/album/5plfvAFnSlEzYyhZamSWpd) | 1:54 |
-| 87 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 |
-| 88 | [Murciana](https://open.spotify.com/track/1P23A8i7pYRCbsrJrsbvSt) | [Los Webelos](https://open.spotify.com/artist/5jbMbHJ2oBy927oqGesw3k) | [Fetichisme](https://open.spotify.com/album/1W1ebsrIKfIZFg54OoHd3g) | 1:51 |
+| 87 | [Murciana](https://open.spotify.com/track/1P23A8i7pYRCbsrJrsbvSt) | [Los Webelos](https://open.spotify.com/artist/5jbMbHJ2oBy927oqGesw3k) | [Fetichisme](https://open.spotify.com/album/1W1ebsrIKfIZFg54OoHd3g) | 1:51 |
+| 88 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 |
 | 89 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 |
 | 90 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
 | 91 | [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 |

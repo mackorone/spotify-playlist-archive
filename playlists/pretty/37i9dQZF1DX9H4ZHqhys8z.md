@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Aspa
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,242 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,251 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 4 | [Trelane Mas](https://open.spotify.com/track/5CnaKQEtOPnY8jf1npotRQ) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Trelane Mas](https://open.spotify.com/album/5q5Yc64p2GhKiM2deSXvBi) | 3:18 |
 | 5 | [San To Louloudi](https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK) | [San To Louloudi](https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2) | 3:13 |
 | 6 | [Tourísta](https://open.spotify.com/track/2XTxnII8KE0wRoIqyf3nsx) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Peproméno](https://open.spotify.com/album/3rqiucHK1cixqLeXd7I6A2) | 2:57 |
-| 7 | [Fainomeno](https://open.spotify.com/track/4oiw93wniQggi1ZFB7VQ8P) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Fainomeno](https://open.spotify.com/album/7o1M8VMkQ2Jvun0FWbqoU1) | 2:41 |
+| 7 | [Fainomeno](https://open.spotify.com/track/4oiw93wniQggi1ZFB7VQ8P) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Arcade](https://open.spotify.com/artist/79GjHhMHonErm1Ulf07Urr) | [Fainomeno](https://open.spotify.com/album/7o1M8VMkQ2Jvun0FWbqoU1) | 2:41 |
 | 8 | [Na Peite Sto Paidi](https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Na Peite Sto Paidi](https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl) | 3:47 |
 | 9 | [DOMINO](https://open.spotify.com/track/3zUMsRcLeCalOaEBVkdwg6) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [THE VILLAIN HEROINE](https://open.spotify.com/album/28JL3mgiF606cEw7jVB6kS) | 2:50 |
 | 10 | [Gremos](https://open.spotify.com/track/3srqDkqUYOt6aEtB0hY9Pt) | [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Gremos](https://open.spotify.com/album/5WMCQnseeaKn9Cq3fJ9MCJ) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Alejandra Rojas & Lupita Infante en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 206260,
       "name": "A Casi Nada",
       "url": "https://open.spotify.com/track/03VoNjlOYSQ5Cg3iqWvQvw"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 167784,
       "name": "Ahora por idea",
       "url": "https://open.spotify.com/track/6aVSTTTdVYhmsomn0PgAOW"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 200544,
       "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6C9yGcfTdkmn0iZDWEwRZo"
@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Al Tiro Con la Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/6hEGZCKN3qvU4bTk2C4kqc"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Con Dinero Puedes",
+      "url": "https://open.spotify.com/track/11yALMlDp4w3r5l546uCqg"
+    },
+    {
+      "album": {
         "name": "Con El Alma Marchita",
         "url": "https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb"
       },
@@ -1498,6 +1516,28 @@
       "duration_ms": 200546,
       "name": "Con El Alma Marchita",
       "url": "https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw"
+    },
+    {
+      "album": {
+        "name": "Con La Tierra Encima",
+        "url": "https://open.spotify.com/album/5fi4wC96OxrPAPi6Q2aom8"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez Jr.",
+          "url": "https://open.spotify.com/artist/5z31c3mbByOIgXn6B8GffX"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "Con La Tierra Encima",
+      "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
     },
     {
       "album": {
@@ -1688,7 +1728,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 154093,
       "name": "Cosas del Amor - En Vivo",
       "url": "https://open.spotify.com/track/6YzMEo6d3PbmtftbYwE9tj"
@@ -2477,6 +2517,28 @@
     },
     {
       "album": {
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151022,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
+    },
+    {
+      "album": {
         "name": "El Ceja Levantada",
         "url": "https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr"
       },
@@ -2808,7 +2870,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 148323,
       "name": "El Invencible - En Vivo",
       "url": "https://open.spotify.com/track/7vEfaomVUA1Zor6f5zy05T"
@@ -3540,7 +3602,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 168480,
       "name": "Est\u00e1s Cancelada",
       "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
@@ -3972,7 +4034,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 170987,
       "name": "Hoy Toca Llorar",
       "url": "https://open.spotify.com/track/2EDt4kTcgoeVaHnvxtmOSD"
@@ -5136,7 +5198,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 207453,
       "name": "Me Vas A Comparar",
       "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
@@ -5302,10 +5364,28 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 212042,
       "name": "Mi Mayor Anhelo - REMASTERIZADO",
       "url": "https://open.spotify.com/track/3VLjIedrArb67ZJ9KxEbyP"
+    },
+    {
+      "album": {
+        "name": "Mi Olvido (REMASTERIZADO)",
+        "url": "https://open.spotify.com/album/3542b6XQMwlK7572x7aDWz"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216832,
+      "name": "Mi Olvido - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/24q2y1LmrARR26PDPDeBiH"
     },
     {
       "album": {
@@ -5366,6 +5446,24 @@
       "duration_ms": 1187749,
       "name": "Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca - En Vivo",
       "url": "https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW"
+    },
+    {
+      "album": {
+        "name": "Mi Raz\u00f3n de Ser (REMASTERIZADO)",
+        "url": "https://open.spotify.com/album/0lNgjTTlj7czZMn9DW8COx"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208992,
+      "name": "Mi Raz\u00f3n de Ser - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/0cbdTKHQDTA9P3R2iVCXM0"
     },
     {
       "album": {
@@ -5736,7 +5834,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 161114,
       "name": "No Existe Remedio",
       "url": "https://open.spotify.com/track/5OIqXlQfDM9lg4J4QZyrve"
@@ -5990,7 +6088,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 190981,
       "name": "Ojitos Caf\u00e9s",
       "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
@@ -6172,6 +6270,28 @@
       "duration_ms": 187448,
       "name": "Pa' Olvidarme de tus Besos",
       "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
+    },
+    {
+      "album": {
+        "name": "Pajarillo",
+        "url": "https://open.spotify.com/album/0noHiVyZqv0SoWTJtZhikn"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243029,
+      "name": "Pajarillo",
+      "url": "https://open.spotify.com/track/5K6XbQuRJLPZHTqgq5CjNv"
     },
     {
       "album": {
@@ -7165,6 +7285,24 @@
     },
     {
       "album": {
+        "name": "Raite Pa' Con Diosito",
+        "url": "https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124677,
+      "name": "Raite Pa' Con Diosito",
+      "url": "https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo"
+    },
+    {
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -7692,7 +7830,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 156400,
       "name": "Sin Miedo al \u00c9xito",
       "url": "https://open.spotify.com/track/7MKkqXp6jE9IFoqe0gFKmm"
@@ -7790,7 +7928,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 189506,
       "name": "Soltero Para Rato",
       "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
@@ -8306,6 +8444,28 @@
       "duration_ms": 168711,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
+    },
+    {
+      "album": {
+        "name": "Tengo Ganas de Llorar",
+        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Tengo Ganas de Llorar",
+      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
     },
     {
       "album": {
@@ -8854,7 +9014,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 166232,
       "name": "Una Caguama en la Banqueta",
       "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"

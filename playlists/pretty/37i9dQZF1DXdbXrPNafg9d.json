@@ -1,13 +1,29 @@
 {
-  "description": "The best new music every Friday. Cover: Mac DeMarco",
-  "num_followers": 1311409,
+  "description": "The best new music every Friday. Cover: Ethel Cain",
+  "num_followers": 1311626,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XYwAAAAA+TM41uXShyH1vnv4/3YOg",
+  "snapshot_id": "aGdRzwAAAAC/hxyOX8bT0za9IifBM+iA",
   "tracks": [
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "Fly With Me",
+        "url": "https://open.spotify.com/album/1kp8BBWEumGAbp4z6qJ4op"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 102631,
+      "name": "Fly With Me",
+      "url": "https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS"
+    },
     {
       "added_at": "2025-06-27 04:00:35",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 131898,
       "name": "Home",
       "url": "https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
       "added_at": "2025-06-27 04:00:35",
@@ -59,6 +91,38 @@
     {
       "added_at": "2025-06-27 04:00:35",
       "album": {
+        "name": "June Guitar",
+        "url": "https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 232213,
+      "name": "June Guitar",
+      "url": "https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 224287,
+      "name": "Kneel",
+      "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:35",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du"
       },
@@ -73,20 +137,52 @@
       "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
     },
     {
-      "added_at": "2025-06-27 04:00:35",
+      "added_at": "2025-07-04 04:00:15",
       "album": {
-        "name": "June Guitar",
-        "url": "https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC"
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
         }
       ],
-      "duration_ms": 232213,
-      "name": "June Guitar",
-      "url": "https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5"
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "9-2-5",
+        "url": "https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn"
+      },
+      "artists": [
+        {
+          "name": "Boko Yout",
+          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "9-2-5",
+      "url": "https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "I Wantchu",
+        "url": "https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "I Wantchu",
+      "url": "https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn"
     },
     {
       "added_at": "2025-06-27 04:00:35",
@@ -103,6 +199,22 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/4KibMYTphWJBlt5KVU1CZT"
+      },
+      "artists": [
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        }
+      ],
+      "duration_ms": 206781,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/7FGBP6aI627og340ZYeTV5"
     },
     {
       "added_at": "2025-06-27 04:00:35",
@@ -123,6 +235,38 @@
       "duration_ms": 169344,
       "name": "97 Jag",
       "url": "https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "I think we should just move in together",
+        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "duration_ms": 245836,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "Hate Goodbyes",
+        "url": "https://open.spotify.com/album/07w74aZOr10AawZOJND2BY"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Hate Goodbyes",
+      "url": "https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl"
     },
     {
       "added_at": "2025-06-27 04:00:35",
@@ -3199,138 +3343,6 @@
       "duration_ms": 128985,
       "name": "Cole's Response",
       "url": "https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "All My Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 224090,
-      "name": "All My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "GET RICH OR DIE TRYING",
-        "url": "https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD"
-      },
-      "artists": [
-        {
-          "name": "ABY iO",
-          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "GET RICH OR DIE TRYING",
-      "url": "https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/4BnGWRuhp5AjUjZiCT2ptL"
-      },
-      "artists": [
-        {
-          "name": "Laura Stevenson",
-          "url": "https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg"
-        }
-      ],
-      "duration_ms": 241815,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0CwFlsGy4Z43WJANhxJLQ5"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "13 Months of Sunshine",
-        "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 183953,
-      "name": "History (feat. Waxahatchee)",
-      "url": "https://open.spotify.com/track/2v3H792zzsZb4OrWrNhkCv"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "Got to Have Love",
-        "url": "https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 292228,
-      "name": "Got to Have Love",
-      "url": "https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "7 Months",
-        "url": "https://open.spotify.com/album/2dLMn2hMMJP9SnO4aBYemA"
-      },
-      "artists": [
-        {
-          "name": "Forth Wanderers",
-          "url": "https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs"
-        }
-      ],
-      "duration_ms": 152880,
-      "name": "7 Months",
-      "url": "https://open.spotify.com/track/3QIprxybtXTK5mifthT4Q5"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "Forgiving",
-        "url": "https://open.spotify.com/album/7trEwuPPg2WdoGBkEkp9bY"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 160687,
-      "name": "Forgiving",
-      "url": "https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "Moviestar",
-        "url": "https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 188664,
-      "name": "Moviestar",
-      "url": "https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip"
     }
   ],
   "unique_name": "All New Indie",

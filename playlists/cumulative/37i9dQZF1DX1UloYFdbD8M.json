@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Arya Dhayal",
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Sushin Shyam",
   "name": "Malayalam Indie",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 170434,
       "name": "1008 Swami",
       "url": "https://open.spotify.com/track/5qUt8FKmFfNdq2HcnpNJyj"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/4vA38tpMboduF3weCsLmsS"
+      },
+      "artists": [
+        {
+          "name": "Jan Sam Bobby",
+          "url": "https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR"
+        },
+        {
+          "name": "XACHIN",
+          "url": "https://open.spotify.com/artist/20lW75tq13BWoLYv49y8mh"
+        },
+        {
+          "name": "Javad Ali",
+          "url": "https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67PaN1S6nTgCAc9eJ1ELnk"
     },
     {
       "album": {
@@ -1680,7 +1706,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 286561,
       "name": "Ejjathi - From \"AYAKTIHIS\"",
       "url": "https://open.spotify.com/track/0APH1Jj5zZCC75WxTpCzbr"
@@ -3752,7 +3778,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 200830,
       "name": "Mask",
       "url": "https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2"
@@ -5765,6 +5791,36 @@
     },
     {
       "album": {
+        "name": "Premaalamil",
+        "url": "https://open.spotify.com/album/07WgthIei5wM26SmISQvhu"
+      },
+      "artists": [
+        {
+          "name": "Raaza Razaq",
+          "url": "https://open.spotify.com/artist/5ustb0rnxsWzd8G95USxs3"
+        },
+        {
+          "name": "Wraith V",
+          "url": "https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ"
+        },
+        {
+          "name": "AMANI KL10",
+          "url": "https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr"
+        },
+        {
+          "name": "Jawed Aslam",
+          "url": "https://open.spotify.com/artist/7dxeL109zn2qpD5W2HX1sC"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230183,
+      "name": "Premaalamil",
+      "url": "https://open.spotify.com/track/1VeJX1Mx3wXV46KYhWiXmt"
+    },
+    {
+      "album": {
         "name": "Puttu Biriyani",
         "url": "https://open.spotify.com/album/3PsgvyeqCTUCeKE4FaSuMr"
       },
@@ -5881,6 +5937,28 @@
     },
     {
       "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/0oritKj3ppZGOmU91yYsDL"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358929,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/7yyPe2eJRKxdwS0h3LDovO"
+    },
+    {
+      "album": {
         "name": "Raziya",
         "url": "https://open.spotify.com/album/35fy04I0riev84gM05G5Lo"
       },
@@ -5932,7 +6010,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 190545,
       "name": "RECALL",
       "url": "https://open.spotify.com/track/0EqwSQvoGXY4a9ZHCLCU43"

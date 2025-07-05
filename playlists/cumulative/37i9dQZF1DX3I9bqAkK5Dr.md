@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
 
-373 songs - 22 hr 22 min
+374 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Love Letter](https://open.spotify.com/track/2SxtMJPmfsYCVGbb6LNUhH) | [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Love Letter](https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm) | 2:22 | 2023-11-16 | 2023-12-02 |
 | [Love Pill](https://open.spotify.com/track/5xOVz87ylswUTTX6vlCPYU) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Love Pill](https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub) | 2:40 | 2023-10-06 | 2025-04-05 |
 | [LOVE TRAP](https://open.spotify.com/track/1rhKhTvyXoT7n56sG3WeNE) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC) | [LOVE TRAP](https://open.spotify.com/album/51cfMc9e1PPy0deFacw4y0) | 2:54 | 2024-10-16 | 2024-12-14 |
+| [Luv U Ne](https://open.spotify.com/track/01xxsSx2Qo8HBBC0gTbYgZ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Luv U Ne](https://open.spotify.com/album/6kHi10DdaKzRpuvVCXC6wr) | 2:56 | 2025-07-04 |  |
 | [MA NI](https://open.spotify.com/track/6W0tYuj8AH8DTe95QAqKXW) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Sri Soumya Varanasi](https://open.spotify.com/artist/0DCsCakJqGUQ26WoKIEbqe) | [MA NI](https://open.spotify.com/album/0g533rnhuVo0XvqFSDpoGj) | 2:57 | 2024-09-18 | 2024-10-24 |
 | [Maakkikirkiri](https://open.spotify.com/track/0p5SBWlo2FD8jQFDyqbIGt) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Maakkikirkiri](https://open.spotify.com/album/7tGakiVZjFCUKw3uh8LUuS) | 5:17 | 2022-07-18 | 2023-12-19 |
 | [Maawa Paata](https://open.spotify.com/track/6fyg0c8ktTqKjEodSB9QgF) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u) | [Maawa Paata](https://open.spotify.com/album/6thV698YCV2goAO1Jx6oTl) | 2:39 | 2024-07-19 | 2024-10-04 |
@@ -243,7 +244,7 @@
 | [Ontari](https://open.spotify.com/track/6LpMArM5X2QCE12ZOPUsJZ) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Ontari](https://open.spotify.com/album/7sz6bNnzgEIdHwPX9uI94Y) | 3:08 | 2023-07-27 | 2023-08-22 |
 | [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 | 2024-01-09 |
 | [Oopiri](https://open.spotify.com/track/3pJEDr2NKBJJR4ykXWSjjZ) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk) | [Oopiri](https://open.spotify.com/album/47VDvKGwLPielokigmZ8yK) | 3:59 | 2024-11-04 | 2024-11-19 |
-| [Oopiri \- Telugu \(From "Oopiri"\)](https://open.spotify.com/track/6AtPCiyCS7WqvJD2qWitvg) | [Vedika](https://open.spotify.com/artist/3Lm2JM1wrWmPRiazdNUddz) | [Oopiri \- Telugu \(From "Oopiri"\)](https://open.spotify.com/album/4Qg56ZnmMLMA4ICCbKloMK) | 5:24 | 2025-04-23 |  |
+| [Oopiri \- Telugu \(From "Oopiri"\)](https://open.spotify.com/track/6AtPCiyCS7WqvJD2qWitvg) | [Vedika](https://open.spotify.com/artist/3Lm2JM1wrWmPRiazdNUddz) | [Oopiri \- Telugu \(From "Oopiri"\)](https://open.spotify.com/album/4Qg56ZnmMLMA4ICCbKloMK) | 5:24 | 2025-04-23 | 2025-07-05 |
 | [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 | 2023-06-04 | 2024-01-09 |
 | [Oorelipota Mama](https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Oorellipota Mama](https://open.spotify.com/album/5WEUFAOSi07U29RKWNsKG9) | 2:46 | 2022-07-18 |  |
 | [Oota Neeru](https://open.spotify.com/track/1eod9PjVVcM8RmypcGANNm) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Chandana Harshitha](https://open.spotify.com/artist/7pNEV4axyRck6KYDP7URhU) | [Oota Neeru](https://open.spotify.com/album/5f61tdGpIcitAfRG1b28bG) | 5:25 | 2023-09-04 | 2024-01-23 |

@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Santiago Motorizado.
 
-400 songs - 1 day 0 hr 47 min
+403 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 | 2022-06-24 | 2024-06-01 |
 | [Conmigo](https://open.spotify.com/track/54wyNTp0qU0qJ9xBk3brnN) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Conmigo](https://open.spotify.com/album/2YBbMqoVXGVWZEutpP5ous) | 4:24 | 2023-09-01 | 2024-09-21 |
 | [Consuelo Eterno](https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Consuelo Eterno](https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo) | 4:01 | 2023-05-05 | 2023-07-29 |
+| [Contacto](https://open.spotify.com/track/3e5hUklU9dx6AUOOoxAF0A) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Contacto](https://open.spotify.com/album/7h31BriQ8NqZraj3Zt32lL) | 4:01 | 2025-07-04 |  |
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-06-24 | 2023-09-30 |
 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 | 2022-06-24 | 2023-09-27 |
 | [Corazón](https://open.spotify.com/track/0fykSvqczR1CXD6PWnusOW) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Corazón](https://open.spotify.com/album/4bdbHQc0l5NHBH4Mjh4TRU) | 3:27 | 2023-08-18 | 2025-02-22 |
@@ -161,6 +162,7 @@
 | [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 | 2025-03-28 |  |
 | [Fango](https://open.spotify.com/track/1GFQig8E1kpHcJVAVg5IOH) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Fango](https://open.spotify.com/album/3Y5uIFvMnozIUvF0soxaM5) | 4:22 | 2022-06-24 | 2023-04-15 |
 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 | 2023-04-14 | 2023-12-16 |
+| [Flor Salvaje](https://open.spotify.com/track/7r70MZad8fYToFBqG3b6dA) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Flor Salvaje](https://open.spotify.com/album/65O655JmOj3Up6hFIaRNJw) | 4:26 | 2025-07-04 |  |
 | [Frecuencia Modulada \(Herencia Lebón\)](https://open.spotify.com/track/5rKgO7RYwJdOdTyLD5vXaf) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Frecuencia Modulada \(Herencia Lebón\)](https://open.spotify.com/album/5Lt97bQEPiRIrjy0mKF4Ow) | 3:58 | 2024-05-16 | 2024-07-27 |
 | [Fuego Eterno](https://open.spotify.com/track/0qJ9B3TEky2xt6xKnObtK8) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Fuego Eterno](https://open.spotify.com/album/21JuTMChSUvV1TA4k3yRNr) | 3:37 | 2022-11-11 | 2023-06-03 |
 | [Fugar](https://open.spotify.com/track/7a9TQ1i4S2MyQT52KfRnmM) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Irreal](https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk) | 3:16 | 2023-11-10 | 2024-04-27 |
@@ -225,6 +227,7 @@
 | [La ultima carta](https://open.spotify.com/track/2yCBPSsMp9modg5Gmb9oqB) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:35 | 2022-06-24 | 2023-04-15 |
 | [La Vida Es Así](https://open.spotify.com/track/1Zsu6m9PyxwcpyUcw3yQgk) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [La Vida Es Así](https://open.spotify.com/album/4A5ZpkfXDkiVFXrQWQQv8s) | 3:56 | 2022-06-24 | 2022-07-09 |
 | [Las Arañas](https://open.spotify.com/track/0DC2xgdAaunixqno818mZo) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Arañas](https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK) | 2:59 | 2025-02-21 |  |
+| [Las increíbles andanzas del Capitán Buscapina en Cybersiberia \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/43Low02moUHi1BXkE4gTaT) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Las increíbles andanzas del Capitán Buscapina en Cybersiberia \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/3RUPsKlFOZ4Dx6AWoOToSj) | 4:32 | 2025-07-04 |  |
 | [Las Mañanas](https://open.spotify.com/track/1NlygPzTUj39B8jQUyUGjM) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bellos Años](https://open.spotify.com/album/0QPof2smPENXXtfMhi81Au) | 2:26 | 2022-06-24 | 2023-01-21 |
 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 | 2022-06-24 | 2023-03-11 |
 | [Lejos de Acá](https://open.spotify.com/track/7I1bJimgthpduRHR4CIoKp) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [EL MISMO](https://open.spotify.com/artist/5SSPAJQe4pqnz9gKnRB9g3) | [Lejos de Acá](https://open.spotify.com/album/6Ujn6SsPlnTvDZJejYsapF) | 3:38 | 2023-07-28 | 2024-04-06 |

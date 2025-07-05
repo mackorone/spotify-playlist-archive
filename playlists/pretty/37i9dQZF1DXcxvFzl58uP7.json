@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
-  "num_followers": 1129816,
+  "num_followers": 1129875,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-03-03 17:05:33",
       "album": {
+        "name": "Taking Over The Sun",
+        "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 229113,
+      "name": "Taking Over The Sun",
+      "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
+    },
+    {
+      "added_at": "2025-03-03 17:05:33",
+      "album": {
         "name": "Years Roll By",
         "url": "https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 189475,
       "name": "Years Roll By",
       "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
-    },
-    {
-      "added_at": "2025-03-03 17:05:33",
-      "album": {
-        "name": "Taking Over The Sun",
-        "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 229113,
-      "name": "Taking Over The Sun",
-      "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
     },
     {
       "added_at": "2025-03-03 17:05:33",
@@ -1631,30 +1631,18 @@
     {
       "added_at": "2025-03-03 17:05:33",
       "album": {
-        "name": "milk in the morning",
-        "url": "https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj"
+        "name": "What Should I Do?",
+        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
       },
       "artists": [
         {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Jomie",
-          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
-        },
-        {
-          "name": "Zaini",
-          "url": "https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH"
-        },
-        {
-          "name": "Skinny Atlas",
-          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
         }
       ],
-      "duration_ms": 190223,
-      "name": "milk in the morning",
-      "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"
+      "duration_ms": 183080,
+      "name": "What Should I Do?",
+      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
     }
   ],
   "unique_name": "Bedroom Pop",

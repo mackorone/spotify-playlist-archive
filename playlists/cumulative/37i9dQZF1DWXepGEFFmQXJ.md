@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Zach Bryan
 
-983 songs - 2 day 5 hr 38 min
+984 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF) | 3:38 | 2024-04-05 | 2024-04-26 |
 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 | 2024-05-16 | 2024-07-05 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-11-01 |
-| [Cowboys Were Kings](https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboys Were Kings](https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep) | 3:15 | 2025-03-20 |  |
+| [Cowboys Were Kings](https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Cowboys Were Kings](https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep) | 3:15 | 2025-03-20 | 2025-07-05 |
 | [Cruise Control](https://open.spotify.com/track/3ZdNbkfAPiYxN53jYQOh4c) | [Jesse Dozzi](https://open.spotify.com/artist/5V6iCwSrD8np7jjVSxZH6f) | [Cruise Control](https://open.spotify.com/album/5xEP796HQV7XpByVpgZC9e) | 3:26 | 2024-09-19 | 2024-11-22 |
 | [Daffodils](https://open.spotify.com/track/5UNMwWjbKzj1hn4jSkk9tP) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [The Coastal Plain](https://open.spotify.com/album/4CVDGvkyx7NuuG04nqEBkJ) | 3:14 | 2024-08-15 | 2024-11-15 |
 | [Dammit Randy](https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Dammit Randy](https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7) | 2:59 | 2024-06-27 | 2024-08-23 |
@@ -692,6 +692,7 @@
 | [RIGHT ON TRACK](https://open.spotify.com/track/2stzMSLIhrWoCOwzSBkxag) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [RIGHT ON TRACK](https://open.spotify.com/album/58m21NWAdq1miS65qwCBUc) | 3:48 | 2025-04-17 | 2025-07-04 |
 | [Right Turn](https://open.spotify.com/track/4Iuun3BhbsK5lZMP2Dv45R) | [Dear Tommie](https://open.spotify.com/artist/4kgQh9U3U38xNiLQ2DK3tP), [Nathan Lamont](https://open.spotify.com/artist/6eEOnmBkhTlN4G8Ch16tU8) | [Right Turn](https://open.spotify.com/album/3W2mXuT3E96J3jpbPuJM9T) | 3:17 | 2024-08-22 | 2024-10-11 |
 | [Ring On It](https://open.spotify.com/track/6jsILzXZH4g0bIT56ophdx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Ring On It](https://open.spotify.com/album/6mJNwKLjfUifIFmkXhUgVw) | 3:04 | 2025-04-03 |  |
+| [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 | 2025-07-04 |  |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-28 | 2023-05-12 |
 | [Rodeo](https://open.spotify.com/track/3VbgbyGNRSidv6WgO5QDsT) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Rodeo](https://open.spotify.com/album/4JqJTBJIO4q3jfvxZywHWI) | 3:12 | 2024-04-18 | 2024-07-12 |
 | [Roll On](https://open.spotify.com/track/1spm426YWlmX9gXqYyj0Lz) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside](https://open.spotify.com/album/4XCB0jpyFMEqwKFK1mWopJ) | 3:45 | 2024-08-15 | 2024-11-01 |

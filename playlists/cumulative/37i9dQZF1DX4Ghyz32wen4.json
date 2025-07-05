@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Almas Gemelas",
+        "url": "https://open.spotify.com/album/489b7rRUZ1N2EPXRnGMpW2"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Almas Gemelas",
+      "url": "https://open.spotify.com/track/1ATzXsjdUhrQKOrTMmJBTn"
+    },
+    {
+      "album": {
         "name": "Amapolas",
         "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
       },
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 220500,
       "name": "Entre Mis Manos",
       "url": "https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 158666,
       "name": "INGRATA4 (dime si a\u00fan)",
       "url": "https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ"
@@ -2760,6 +2778,28 @@
       "duration_ms": 201529,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
+    },
+    {
+      "album": {
+        "name": "ALL I DREAM",
+        "url": "https://open.spotify.com/album/0GzGVVSRJdbkPQYQqjvH25"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226346,
+      "name": "ME QUEDO AK\u00cd",
+      "url": "https://open.spotify.com/track/1Kgq3SDw0J2h7Njyb7R9I7"
     },
     {
       "album": {
@@ -3566,7 +3606,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 187500,
       "name": "NSQMQ",
       "url": "https://open.spotify.com/track/6VKD9CaG2mCqbFhwkYHGyZ"
@@ -5072,6 +5112,32 @@
       "duration_ms": 153103,
       "name": "vienes o vas?",
       "url": "https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN"
+    },
+    {
+      "album": {
+        "name": "VILLANO - con Emiliano Athie & Erick Martiz",
+        "url": "https://open.spotify.com/album/7gcMgX9F0FQJHIc4On94zz"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        },
+        {
+          "name": "Erick Martiz",
+          "url": "https://open.spotify.com/artist/4JwZgjr7tFmhjQaSa9PYJ1"
+        },
+        {
+          "name": "Emiliano Athie",
+          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247894,
+      "name": "VILLANO - con Emiliano Athie & Erick Martiz",
+      "url": "https://open.spotify.com/track/0vTMQp1gydVQbnUnR5H0ES"
     },
     {
       "album": {

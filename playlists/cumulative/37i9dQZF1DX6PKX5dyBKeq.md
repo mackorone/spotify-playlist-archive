@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kidwild, LeoStayTrill
 
-2,120 songs - 4 day 9 hr 36 min
+2,121 songs - 4 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,7 +783,7 @@
 | [Goku](https://open.spotify.com/track/2YroZEr2wxG2or7oA1oG5e) | [RM](https://open.spotify.com/artist/06vJVRBMbp4o11xulzeT1z) | [Goku](https://open.spotify.com/album/0fyWkPQJJud0cos9ScG4pT) | 2:57 | 2024-03-22 | 2024-05-03 |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-06-26 |  |
 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 | 2024-07-25 | 2024-09-13 |
-| [Golden Brown](https://open.spotify.com/track/0yQWn4Ikzdn5rTV9AwmzbJ) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Golden Brown](https://open.spotify.com/album/49ZOWZt6s4Nwh7OTFcYyIO) | 1:46 | 2025-04-11 |  |
+| [Golden Brown](https://open.spotify.com/track/0yQWn4Ikzdn5rTV9AwmzbJ) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Golden Brown](https://open.spotify.com/album/49ZOWZt6s4Nwh7OTFcYyIO) | 1:46 | 2025-04-11 | 2025-07-05 |
 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 | 2022-10-13 | 2022-12-03 |
 | [Good Hearts \(feat\. Aida Lae\)](https://open.spotify.com/track/0o0eLV2HtDSzGTcrXAwzGj) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 3:09 | 2021-02-20 | 2021-03-19 |
 | [Goodies](https://open.spotify.com/track/4v7uX5WWIonCiwEk2EMTqM) | [D Power Diesle](https://open.spotify.com/artist/2WR5eGIR0Lp7Pw1qxzUICR), [Deadly R3al](https://open.spotify.com/artist/6S5NJqoVc47hY1YkMxMckw), [President T](https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS) | [Goodies](https://open.spotify.com/album/1FnApayL05IW0smOX5J0XY) | 2:59 | 2020-12-18 | 2021-01-15 |
@@ -1216,6 +1216,7 @@
 | [Mob Ties](https://open.spotify.com/track/5U5isNSylokILAW2uvHNKV) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Flights](https://open.spotify.com/artist/7a0XICIJSvpVWQW6I7T2mv) | [Mob Ties](https://open.spotify.com/album/6ZB0YUbV1yhGuhAWdIv77s) | 2:56 | 2022-10-23 | 2022-11-19 |
 | [Mobb Mentality](https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Jus Jammin](https://open.spotify.com/artist/44QcOr1krKgXeXbJGx5h3c), [Off Endz](https://open.spotify.com/artist/3RT7TqiP2ItbSrnVomTgAL), [Smila](https://open.spotify.com/artist/7ceegIQiAYyIsHczx0BBkO), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [Blittz](https://open.spotify.com/artist/5wh8Pzrj67NfBOA5t8GBE5), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Shorty](https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy) | [Mobb Mentality](https://open.spotify.com/album/7oPwu31zSQKEkJx25dMLNN) | 4:30 | 2023-03-03 | 2023-04-15 |
 | [Mobsters](https://open.spotify.com/track/0lisP3XLMVyFL0pYfhROPK) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK) | [Mobsters](https://open.spotify.com/album/2zCcthEvgxDF33v0AC0mbQ) | 2:19 | 2024-05-03 | 2024-06-01 |
+| [Modern](https://open.spotify.com/track/24rEtHW3ULdrM7tWP1zhDz) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Modern](https://open.spotify.com/album/1qVRce3xuULcz3ZHoTG61o) | 2:48 | 2025-07-04 |  |
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-06 | 2025-02-14 |
 | [Mojo Back](https://open.spotify.com/track/6X05rFNwAuDPnlFkHt5eBs) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [Mojo Back](https://open.spotify.com/album/4faymgQ76dX7Pjh0pHLpIK) | 2:31 | 2023-01-20 | 2023-03-10 |
 | [Molly](https://open.spotify.com/track/2rzB283GsNJGajkJ31UrjF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Molly](https://open.spotify.com/album/5wIQ68aaD5A0TyiOMIpdVj) | 3:21 | 2020-07-30 | 2020-10-16 |

@@ -2839,6 +2839,28 @@
     },
     {
       "album": {
+        "name": "ocean deep",
+        "url": "https://open.spotify.com/album/55astp5uQOL5hpOEP2Qa12"
+      },
+      "artists": [
+        {
+          "name": "mellorush",
+          "url": "https://open.spotify.com/artist/0agE92MYgcat5Ff87uXV8A"
+        },
+        {
+          "name": "how r u",
+          "url": "https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "ocean deep",
+      "url": "https://open.spotify.com/track/0NUL2x96GaWjD5z96ZuAgo"
+    },
+    {
+      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -4298,6 +4320,24 @@
       "duration_ms": 240058,
       "name": "When Everything Was Lost",
       "url": "https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi"
+    },
+    {
+      "album": {
+        "name": "when i think of you",
+        "url": "https://open.spotify.com/album/300D5cCycf0LMYav3G4tdu"
+      },
+      "artists": [
+        {
+          "name": "by your side",
+          "url": "https://open.spotify.com/artist/7EmjLkTFoHuukMT96bxgEd"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117230,
+      "name": "when i think of you",
+      "url": "https://open.spotify.com/track/4q84VYwrWfJdcN2ESnIck3"
     },
     {
       "album": {

@@ -2621,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Devourer",
+        "url": "https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Devourer",
+      "url": "https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv"
+    },
+    {
+      "album": {
         "name": "Diamanti",
         "url": "https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs"
       },
@@ -9642,7 +9660,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 288166,
       "name": "Target Acquired",
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"

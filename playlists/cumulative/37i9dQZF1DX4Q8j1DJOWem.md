@@ -4,12 +4,13 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-261 songs - 16 hr 14 min
+265 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [124 BPM](https://open.spotify.com/track/0hAoGiAaZQVl3UzemYRadq) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [124 BPM](https://open.spotify.com/album/0YgfHQN287ghLyYbN2SXjt) | 2:42 | 2025-03-27 | 2025-04-23 |
 | [24](https://open.spotify.com/track/6ZmvkPsAhZdP0VUqX2NtTo) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [24](https://open.spotify.com/album/1qI2EQofSUMJJl35IzIsT0) | 5:05 | 2023-08-25 | 2023-11-30 |
+| [7 นาทีสุดท้าย](https://open.spotify.com/track/7CDxETVC1KE1cp9kG9Tleo) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG), [Kow fellow fellow](https://open.spotify.com/artist/53eBVaOsawBphQx3utE948) | [Like You Never Left](https://open.spotify.com/album/33UVHOkjjuWshFXOwMKTNP) | 3:26 | 2025-07-04 |  |
 | [9MM](https://open.spotify.com/track/5rqTRj4ZB2Nv3watYPlIYb) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [ESKIIMO](https://open.spotify.com/artist/3XtbVyd1BMPc4vIwCengvA) | [9MM](https://open.spotify.com/album/3NvxmDyHLzXU73v6eRDXS2) | 2:39 | 2023-08-25 | 2023-09-02 |
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2023-07-21 | 2024-03-29 |
 | [April](https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [April \- Single](https://open.spotify.com/album/2zittikcejcyLsFIk5mSik) | 4:58 | 2023-09-29 | 2024-03-29 |
@@ -31,6 +32,7 @@
 | [Fire](https://open.spotify.com/track/4A8MNB9J3m8b8vRyqEGfmT) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Fire](https://open.spotify.com/album/2IEabIspGBtKzlFeU6EdOU) | 2:22 | 2024-10-25 | 2025-03-28 |
 | [Flower](https://open.spotify.com/track/1kVLTBPnyHuBc3jVZccV6C) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E) | [Flower](https://open.spotify.com/album/237XyBytXoA5cLwjuVBISE) | 3:16 | 2023-09-01 | 2024-03-29 |
 | [Follow](https://open.spotify.com/track/6qXCg8lIDRuquq0xgRzmU2) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Follow](https://open.spotify.com/album/2D9rFCRKSVRruOTZOax12I) | 3:58 | 2023-09-15 | 2024-03-29 |
+| [Friend Next Door](https://open.spotify.com/track/2KSrXzB9sRsjLXpkQjZH2V) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [Friend Next Door](https://open.spotify.com/album/0d7CS7KBxWBxwjUfrgHwl2) | 2:36 | 2025-07-04 |  |
 | [Friends](https://open.spotify.com/track/1Q7vncRS2gtX9s41Ax5fgo) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Friends](https://open.spotify.com/album/0MC4L4gQJqsyu2xa82U0wG) | 3:43 | 2024-02-18 | 2024-03-29 |
 | [FROM NOW IT'S MY TURN](https://open.spotify.com/track/1d6pYOpVosI1e2gQwE0OlM) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [FROM NOW IT'S MY TURN](https://open.spotify.com/album/76nhn0zfwMGJgCsj41d6hP) | 3:32 | 2025-03-27 |  |
 | [G.A.Y o\(T^T\)o](https://open.spotify.com/track/30p0jzv4DZf1gOIHOvBlRh) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [G.A.Y o\(T^T\)o](https://open.spotify.com/album/1tonE5HqMUp6oTqQtUWuaI) | 3:47 | 2025-05-11 |  |
@@ -71,6 +73,7 @@
 | [TIME MACHINE](https://open.spotify.com/track/3oMgDz84kGhpmoNZGLq7Dz) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [TIME MACHINE](https://open.spotify.com/album/5r8CqHiE5zvNKOSG3ki88I) | 3:06 | 2025-03-27 |  |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 | 2024-03-29 |
 | [Today's mood](https://open.spotify.com/track/4kuYISPouD11LYYVjruC8b) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [Today's mood](https://open.spotify.com/album/02FY1dr1nSrTyzMfURRJ2Q) | 2:42 | 2023-11-29 | 2024-01-12 |
+| [Touch](https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Touch](https://open.spotify.com/album/095xs3mn4Liu7EqDc8HeUO) | 2:54 | 2025-07-04 |  |
 | [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-10-04 | 2025-03-28 |
 | [Treasure](https://open.spotify.com/track/0QASGt3ZHaxXAdpW0PX9oV) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [Treasure](https://open.spotify.com/album/3Y9Z0QXHzEw7jH7NA0Z90c) | 2:42 | 2024-03-28 | 2025-02-18 |
 | [Tutor](https://open.spotify.com/track/7GHMIJwlFDaThr47NYwnQ9) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Tutor](https://open.spotify.com/album/0wGByPiO4hAEj7n6FtAB1e) | 2:58 | 2022-11-23 | 2023-01-11 |
@@ -160,6 +163,7 @@
 | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/track/2FrrpvhvuPfmbM4X958MvV) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/album/0UYXu27MRbyudK3NNIByWo) | 3:06 | 2025-06-06 |  |
 | [นี่นะคะ \(I'm Here!\)](https://open.spotify.com/track/25WkNItOoTJrAzwU5yUZEU) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [นี่นะคะ \(I'm Here!\)](https://open.spotify.com/album/7KlgOUdJNcOFX5vUUw1fEF) | 3:46 | 2024-03-28 | 2024-04-12 |
 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 | 2024-03-28 | 2025-03-28 |
+| [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/album/4vIoOt8BTgikAbRUyLQLFh) | 2:56 | 2025-07-04 |  |
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2023-04-18 | 2024-03-29 |
 | [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 | 2025-02-17 | 2025-03-28 |
 | [บังอร](https://open.spotify.com/track/1JUxXaTW7ihP7lnlaJbhb1) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [บังอร](https://open.spotify.com/album/6nTx2pg2TIjXZOGfKC2dtm) | 3:07 | 2023-01-10 | 2023-03-25 |

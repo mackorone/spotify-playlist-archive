@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 176888,
       "name": "Anyways",
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 299382,
       "name": "Ayesha",
       "url": "https://open.spotify.com/track/0v2vEZdWbq3QLx0JRzdIRu"
@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5O38MActB1mTAL8nmGOsQY"
+      },
+      "artists": [
+        {
+          "name": "Mufaro",
+          "url": "https://open.spotify.com/artist/6rCjN8curntY3lqk8cLnlU"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135924,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0enybYuVnqE8N83Ot1KPFc"
+    },
+    {
+      "album": {
         "name": "CHANTE'S GROOVE",
         "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
       },
@@ -2014,6 +2032,28 @@
       "duration_ms": 183286,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/1iR2KYd4xQJdoVG7GICA1F"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3GnLPpDwWYpIEdBlgaEk4o"
+      },
+      "artists": [
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Pleij",
+          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204058,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt"
     },
     {
       "album": {
@@ -3050,7 +3090,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 248372,
       "name": "Flying away",
       "url": "https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu"
@@ -4725,6 +4765,24 @@
     },
     {
       "album": {
+        "name": "LK99: The Prelude",
+        "url": "https://open.spotify.com/album/5DOLO9rRo3YyKQcbYsrkqR"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245893,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/6E8vEr5MN0GH7xMW2jN8SD"
+    },
+    {
+      "album": {
         "name": "In The Fire",
         "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
       },
@@ -5206,7 +5264,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 154415,
       "name": "Layers Of Time",
       "url": "https://open.spotify.com/track/6zwDnspc4FqWCUcp0212Uf"
@@ -5232,6 +5290,28 @@
       "duration_ms": 256898,
       "name": "Learn To Love",
       "url": "https://open.spotify.com/track/4oHlUmKHMqr5beyfxlHXVW"
+    },
+    {
+      "album": {
+        "name": "Leave It Up To You",
+        "url": "https://open.spotify.com/album/1CE36RRFj8UJxH9B0KSTnH"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        },
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168833,
+      "name": "Leave It Up To You",
+      "url": "https://open.spotify.com/track/6L9mT3g89Nl8JVWMy5DAPf"
     },
     {
       "album": {
@@ -5708,7 +5788,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 228996,
       "name": "Lost but Here pt II",
       "url": "https://open.spotify.com/track/78WotkbeKTSyVMWbHLcFPB"
@@ -6272,7 +6352,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 220040,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/0Ck0XB2iADGIXzguzMM4A6"
@@ -7358,7 +7438,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 253482,
       "name": "Poeira Cosmica",
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
@@ -7376,7 +7456,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 355533,
       "name": "Power Plants",
       "url": "https://open.spotify.com/track/4kUhGa72MOGqJWp0cihs8n"
@@ -7602,7 +7682,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 210000,
       "name": "Realness Aint Free",
       "url": "https://open.spotify.com/track/1Jx05xj8nVDT5F6DuB3WFJ"
@@ -7860,7 +7940,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 167586,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/7cWhXtvDtQ3aOfb62rllyx"
@@ -8282,7 +8362,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 108829,
       "name": "she just wanna see me rn",
       "url": "https://open.spotify.com/track/132NmIOKCUGXSXQCno3WSB"
@@ -8304,6 +8384,28 @@
       "duration_ms": 218732,
       "name": "SHIMMER",
       "url": "https://open.spotify.com/track/21PNdcOg9gWRsvfko3in1Q"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/2hoHXr0lkQywzKT9Pq4kQP"
+      },
+      "artists": [
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        },
+        {
+          "name": "Youp",
+          "url": "https://open.spotify.com/artist/7jCBzrD5wYqeGRyYUHJ3E9"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158197,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4okxazPTs6HGcfwiPgTaW0"
     },
     {
       "album": {
@@ -8794,6 +8896,24 @@
       "duration_ms": 189635,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/4kU5O6r6BlGpcELBNj2SEA"
+    },
+    {
+      "album": {
+        "name": "Souls x Mates",
+        "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
+      },
+      "artists": [
+        {
+          "name": "Dandi Noxx",
+          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "Souls x Mates",
+      "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
     },
     {
       "album": {
@@ -9614,7 +9734,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 247586,
       "name": "Taste of Dawn",
       "url": "https://open.spotify.com/track/2mob0hl3OXd4Yo1DbmZ9LN"

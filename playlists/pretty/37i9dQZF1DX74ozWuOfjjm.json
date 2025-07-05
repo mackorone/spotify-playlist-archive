@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGNdTQAAAACR7ItKB6VajlZVNoQ8Rtfo",
+  "snapshot_id": "aGdLSQAAAAB5RubgjUHzOwlo1NezhUcZ",
   "tracks": [
-    {
-      "added_at": "2025-07-01 04:00:13",
-      "album": {
-        "name": "Timezones (feat. ELLES)",
-        "url": "https://open.spotify.com/album/3mGTtnBLnzuw966alm0thr"
-      },
-      "artists": [
-        {
-          "name": "PEPTALK",
-          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
-        },
-        {
-          "name": "ELLES",
-          "url": "https://open.spotify.com/artist/1Sg5fMw3Vz72wcwRDTC71o"
-        }
-      ],
-      "duration_ms": 136115,
-      "name": "Timezones (feat. ELLES)",
-      "url": "https://open.spotify.com/track/2RFsX3NwH5cEseX68hUN6P"
-    },
     {
       "added_at": "2025-07-01 04:00:13",
       "album": {
@@ -75,6 +55,26 @@
       "duration_ms": 172915,
       "name": "Julia",
       "url": "https://open.spotify.com/track/2xnllPBqRgTiszi2cmgLul"
+    },
+    {
+      "added_at": "2025-07-01 04:00:13",
+      "album": {
+        "name": "Timezones (feat. ELLES)",
+        "url": "https://open.spotify.com/album/3mGTtnBLnzuw966alm0thr"
+      },
+      "artists": [
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        },
+        {
+          "name": "ELLES",
+          "url": "https://open.spotify.com/artist/1Sg5fMw3Vz72wcwRDTC71o"
+        }
+      ],
+      "duration_ms": 136115,
+      "name": "Timezones (feat. ELLES)",
+      "url": "https://open.spotify.com/track/2RFsX3NwH5cEseX68hUN6P"
     },
     {
       "added_at": "2025-07-01 04:00:13",
@@ -207,7 +207,7 @@
     {
       "added_at": "2025-07-01 04:00:13",
       "album": {
-        "name": "Clear as Mud Pt. 1",
+        "name": "Clear As Mud Pt. 1",
         "url": "https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO"
       },
       "artists": [

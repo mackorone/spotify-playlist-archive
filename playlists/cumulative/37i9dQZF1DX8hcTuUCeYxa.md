@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bulgarian Cartrader
 
-1,612 songs - 3 day 20 hr 33 min
+1,613 songs - 3 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 | 2025-02-20 | 2025-03-21 |
 | [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 | 2024-10-17 | 2024-11-08 |
 | [Dirty Luck](https://open.spotify.com/track/0OX3Fhf9eSEjbPPV2PHUxW) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Planet Nowhere](https://open.spotify.com/album/50ypX7IeARsoMbdeMXla56) | 4:49 | 2024-10-24 | 2024-11-22 |
-| [Distant Shore](https://open.spotify.com/track/1WResYyBqUWWMwNOp4iBgF) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Distant Shore](https://open.spotify.com/album/1JqFKwC3VLmIeGlnNchpIu) | 4:20 | 2025-07-03 |  |
+| [Distant Shore](https://open.spotify.com/track/1WResYyBqUWWMwNOp4iBgF) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Distant Shore](https://open.spotify.com/album/1JqFKwC3VLmIeGlnNchpIu) | 4:20 | 2025-07-03 | 2025-07-05 |
+| [Distant Shore](https://open.spotify.com/track/1bdd9K6fmtNQ6Z65zFPyxQ) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Distant Shore](https://open.spotify.com/album/2HQHERjvB6TmzIlXJCoTqS) | 4:20 | 2025-07-04 |  |
 | [Do I Wanna?](https://open.spotify.com/track/0IoktieUhfT2hd8ti917nI) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Do I Wanna?](https://open.spotify.com/album/2KRtmZJ57CTZtZMuYxzDHU) | 3:14 | 2025-01-09 | 2025-01-31 |
 | [Do It All For You](https://open.spotify.com/track/7g1UJIJrb70LWlrRBOjNON) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Do It All For You](https://open.spotify.com/album/4GraaLa4iuXFLf21hgp8lP) | 4:34 | 2025-04-03 | 2025-04-11 |
 | [Do Things My Own Way](https://open.spotify.com/track/4GOXcXGHH1fIIf5ik0MIO8) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Do Things My Own Way](https://open.spotify.com/album/3RPhA9NmCMqu1Fm60nju7Q) | 3:40 | 2025-01-30 | 2025-02-14 |

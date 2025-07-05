@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Tyler Childers
+> A new shade of Country\. Cover: Charley Crockett
 
-631 songs - 1 day 14 hr 28 min
+633 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Life Where We Work Out](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 | 2023-06-30 |  |
 | [A Life Where We Work Out \(with Kaitlin Butts\)](https://open.spotify.com/track/5UyBjTBy4XxqQT2qHksbo0) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8) | 3:10 | 2024-01-19 | 2024-04-19 |
 | [A Song Can't Fix Everything \(feat\. Paul Cauthen\)](https://open.spotify.com/track/77nza5LdjuD35bjguHP0le) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [A Song Can't Fix Everything \(feat\. Paul Cauthen\)](https://open.spotify.com/album/6Pkjx1PBynwE3VzKXLbDgg) | 3:47 | 2022-06-03 | 2022-07-30 |
+| [A Song For You](https://open.spotify.com/track/744zwLqGKbOZW3RnxkRfHE) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:37 | 2025-07-04 |  |
 | [Abilene](https://open.spotify.com/track/2xi9KMyT6acK7kDkdpptfN) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Abilene](https://open.spotify.com/album/5IQl0bM8GiALIa6BtxMHRf) | 3:03 | 2022-09-02 | 2022-10-26 |
 | [Abilene](https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:03 | 2022-10-14 | 2023-03-04 |
 | [Above My Head](https://open.spotify.com/track/01eVEqO0S7ktYP2rSmV94P) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Above My Head](https://open.spotify.com/album/6chTGihS0RawQYmJhyYpQt) | 4:42 | 2023-02-10 | 2024-06-08 |
@@ -138,6 +139,7 @@
 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2022-07-22 | 2023-04-15 |
 | [Cowpoke](https://open.spotify.com/track/3nuXMmXEJz8nRjDikhLryl) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cowpoke](https://open.spotify.com/album/5lzka2jHklC4W6hYTeoNYd) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 | 2022-02-26 |
+| [Crucified Son](https://open.spotify.com/track/0dAVs6Bzri2ivspQ0E7vM7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Crucified Son](https://open.spotify.com/album/2NOFo26dGaPq2Z0QJIfdPg) | 3:29 | 2025-07-04 |  |
 | [Cypress Hills and the Big Country](https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:10 | 2022-09-23 | 2023-06-03 |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2023-09-23 |
 | [Dangerous](https://open.spotify.com/track/1MuLoJAZzlZ4asgtm9Nxx5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Dangerous](https://open.spotify.com/album/5ndbRx8tiRa4vA6suk6vAV) | 3:27 | 2025-06-06 |  |
@@ -211,7 +213,7 @@
 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2021-12-17 | 2022-05-28 |
 | [Funnel of Love](https://open.spotify.com/track/4oGqIK1jkxV5aRZQCtUBsY) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Funnel of Love](https://open.spotify.com/album/3aBd3KzmK8yarhB0eOSbgg) | 2:23 | 2024-02-16 |  |
 | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/track/4jqAbk5oP2vIWnqmMGWGBt) | [Zachary Williams](https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv), [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Dirty Camaro](https://open.spotify.com/album/3ehs5YxrC7X217QCg46MY7) | 3:01 | 2021-12-17 | 2022-01-22 |
-| [Game I Can’t Win](https://open.spotify.com/track/6S54LiJPmBRfm877hXbOX0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Game I Can't Win](https://open.spotify.com/album/1jOP8GYgypMo7my87TeygA) | 3:21 | 2025-02-28 |  |
+| [Game I Can’t Win](https://open.spotify.com/track/6S54LiJPmBRfm877hXbOX0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Game I Can't Win](https://open.spotify.com/album/1jOP8GYgypMo7my87TeygA) | 3:21 | 2025-02-28 | 2025-07-05 |
 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2021-12-17 | 2022-04-09 |
 | [Get Lucky](https://open.spotify.com/track/4ZCko883ozgRWoVX92CySJ) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Get Lucky](https://open.spotify.com/album/1GeMArEzZQYAM09KA8cplb) | 2:45 | 2022-04-29 | 2022-07-16 |
 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 | 2022-02-11 | 2022-08-27 |

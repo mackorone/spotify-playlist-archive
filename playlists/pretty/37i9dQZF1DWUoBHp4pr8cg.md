@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from KindlyNxsh, HENNYBELIT, Indigo Stella and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,638 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,671 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soft](https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Soft](https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ) | 2:15 |
 | 2 | [PLAYMAKER](https://open.spotify.com/track/2nmgHVFopEAUWTRgBnwN2U) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [SOLDIER IN TRANSIT](https://open.spotify.com/album/15xG70LDB6Ba7IjrsYFo13) | 2:04 |
 | 3 | [Nǐ Hǎo](https://open.spotify.com/track/2B68zv6GngxWnvIQkKK3Qo) | [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [Shia\-lun Choo](https://open.spotify.com/artist/3eVIhx66y5tAwcZxVfR7fj) | [Nǐ Hǎo](https://open.spotify.com/album/6m150WSUWbDEHfUE3RMf47) | 2:00 |
-| 4 | [Year 64](https://open.spotify.com/track/7bb5sYepNQNfNhLf0gg4aa) | [Modar](https://open.spotify.com/artist/35Uvd85AfUR39B4ZPWWf27), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Year 64](https://open.spotify.com/album/5nwCFWjuKXKPekROJ1KabV) | 2:26 |
+| 4 | [Year 64](https://open.spotify.com/track/7bb5sYepNQNfNhLf0gg4aa) | [MODAR](https://open.spotify.com/artist/35Uvd85AfUR39B4ZPWWf27), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Year 64](https://open.spotify.com/album/5nwCFWjuKXKPekROJ1KabV) | 2:26 |
 | 5 | [iGhost \(feat\. Jepedoh, Sastii, DaHoodHope & Buzzi Lee\)](https://open.spotify.com/track/3RcvOGYJ0OIrOAkVHKSSJh) | [HENNYBELIT](https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Jepedoh](https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Dahoodhope](https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd), [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR) | [X\-PUNK](https://open.spotify.com/album/2tHYz8EVBug65zWiEwYloh) | 4:08 |
 | 6 | [Deny Me](https://open.spotify.com/track/6FcmIDJX2bM6lPd1FWOpiY) | [Indigo Stella](https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e) | [Deny Me](https://open.spotify.com/album/0CpuBnDBXYRidsSPZSmhFW) | 2:57 |
 | 7 | [Paco Rabbane](https://open.spotify.com/track/25X5JxSQzUPOS48EFQItLW) | [Seru the Ellipsis](https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT) | [Paco Rabbane](https://open.spotify.com/album/0AKcmO1mQfDLofcg82pwrU) | 2:42 |

@@ -8,10 +8,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Timezones \(feat\. ELLES\)](https://open.spotify.com/track/2RFsX3NwH5cEseX68hUN6P) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [ELLES](https://open.spotify.com/artist/1Sg5fMw3Vz72wcwRDTC71o) | [Timezones \(feat\. ELLES\)](https://open.spotify.com/album/3mGTtnBLnzuw966alm0thr) | 2:16 |
-| 2 | [Red Dirt Romeo](https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Red Dirt Romeo](https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R) | 3:45 |
-| 3 | [daisyfields](https://open.spotify.com/track/2VLGEfXOL6KhZnKySdhnBa) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [daisyfields](https://open.spotify.com/album/7eMftdQCzidswWKP74oQwY) | 2:45 |
-| 4 | [Julia](https://open.spotify.com/track/2xnllPBqRgTiszi2cmgLul) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Julia](https://open.spotify.com/album/5TWGSRtuOsPUDAKl2WKvon) | 2:52 |
+| 1 | [Red Dirt Romeo](https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Red Dirt Romeo](https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R) | 3:45 |
+| 2 | [daisyfields](https://open.spotify.com/track/2VLGEfXOL6KhZnKySdhnBa) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [daisyfields](https://open.spotify.com/album/7eMftdQCzidswWKP74oQwY) | 2:45 |
+| 3 | [Julia](https://open.spotify.com/track/2xnllPBqRgTiszi2cmgLul) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Julia](https://open.spotify.com/album/5TWGSRtuOsPUDAKl2WKvon) | 2:52 |
+| 4 | [Timezones \(feat\. ELLES\)](https://open.spotify.com/track/2RFsX3NwH5cEseX68hUN6P) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [ELLES](https://open.spotify.com/artist/1Sg5fMw3Vz72wcwRDTC71o) | [Timezones \(feat\. ELLES\)](https://open.spotify.com/album/3mGTtnBLnzuw966alm0thr) | 2:16 |
 | 5 | [Easy](https://open.spotify.com/track/5ueprcU4xtHUtTvpO27kEi) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Untitled \(Read My Mind\)](https://open.spotify.com/album/3InZHXAzoRnIi0cJfVTaYy) | 2:11 |
 | 6 | [this very thing](https://open.spotify.com/track/11JLMABcN1aHTQtCVnfzf1) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [this very thing](https://open.spotify.com/album/6zDg8b92jQHQ4ac8APNQRF) | 3:43 |
 | 7 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 10 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 |
 | 11 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 |
 | 12 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
-| 13 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear as Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
+| 13 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear As Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
 | 14 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 |
 | 15 | [Wish I Didn't Miss You](https://open.spotify.com/track/3vqQPsvr1WR0m1HpOD6i4o) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Wish I Didn't Miss You](https://open.spotify.com/album/4IN8fa6mzYiH5thvRRCrr9) | 2:52 |
 | 16 | [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 100 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:19 |
 | 101 | [So Easy](https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Soft Power](https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C) | 3:28 |
 
-Snapshot ID: `aGNdTQAAAACR7ItKB6VajlZVNoQ8Rtfo`
+Snapshot ID: `aGdLSQAAAAB5RubgjUHzOwlo1NezhUcZ`

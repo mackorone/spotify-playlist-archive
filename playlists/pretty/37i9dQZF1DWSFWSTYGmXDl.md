@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,937 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,925 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 89 | [Grown\-Up Christmas List](https://open.spotify.com/track/7g79SswJha9rzR0or3VOcQ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | ['Tis The Season](https://open.spotify.com/album/2nzdzvxSAgnzYAvYaYcsI9) | 3:31 |
 | 90 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 |
 | 91 | [I’ll Be Home For Christmas](https://open.spotify.com/track/3gkDQzMSAsVcxGTCvTcl4B) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I’ll Be Home For Christmas](https://open.spotify.com/album/5q9IE9PlEsjq3jMxDLOfYp) | 2:45 |
-| 92 | [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/3KzxVvS1N3UhHWsytxURYF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/18Ev7MoYqGciQ2pfURU7B5) | 3:25 |
+| 92 | [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/3KzxVvS1N3UhHWsytxURYF) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/18Ev7MoYqGciQ2pfURU7B5) | 3:25 |
 | 93 | [This Time Of Year](https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [This Time Of Year](https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP) | 3:42 |
 | 94 | [It's Christmas Time](https://open.spotify.com/track/64cfCAmXSuusxwmHknLzYp) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [It's Christmas Time](https://open.spotify.com/album/0VLiXivVPVfEcjP82FJvrx) | 3:26 |
 | 95 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 |

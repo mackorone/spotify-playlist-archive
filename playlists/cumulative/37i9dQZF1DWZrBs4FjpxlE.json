@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Away you bleed",
+        "url": "https://open.spotify.com/album/7L34snu4jsWI5A5el0o27Z"
+      },
+      "artists": [
+        {
+          "name": "Sway Burr",
+          "url": "https://open.spotify.com/artist/57bMN7QDsEnxCtPXDo56Ok"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Away you bleed",
+      "url": "https://open.spotify.com/track/4FHp3T2CC92SV7JFLE8Q5j"
+    },
+    {
+      "album": {
         "name": "Bad Vibes Forever",
         "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
       },
@@ -710,7 +732,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 188967,
       "name": "Forever (71943509)",
       "url": "https://open.spotify.com/track/6SffDDS6cMdlSB9pBM2Gxz"
@@ -1008,7 +1030,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 156266,
       "name": "Hollywood's Bleeding",
       "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
@@ -1356,6 +1378,28 @@
       "duration_ms": 120546,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
+    },
+    {
+      "album": {
+        "name": "losing interest",
+        "url": "https://open.spotify.com/album/3busZjyakCpZP68UbSVywY"
+      },
+      "artists": [
+        {
+          "name": "zown",
+          "url": "https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107823,
+      "name": "losing interest",
+      "url": "https://open.spotify.com/track/7fbwZ7VuHycKgn0ksPZNgf"
     },
     {
       "album": {

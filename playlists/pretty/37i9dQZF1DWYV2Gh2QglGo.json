@@ -1,15 +1,15 @@
 {
   "description": "The home of Canadian country music. Cover: Morgan Wallen & Tate McRae",
-  "num_followers": 81153,
+  "num_followers": 81177,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4HWwAAAAAlA3ymM+zENFx53wjqHewK",
+  "snapshot_id": "aGdR1AAAAACtqnb6mCV3aKnxWqtKISXL",
   "tracks": [
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Drunk Right Now (Na Na Na) with Akon",
         "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Somebody I Know",
         "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
@@ -65,23 +65,7 @@
       "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Never Drinking Again",
-        "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 149854,
-      "name": "Never Drinking Again",
-      "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
-    },
-    {
-      "added_at": "2025-06-27 02:52:11",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Drink Around",
         "url": "https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k"
@@ -97,23 +81,23 @@
       "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "Smooth Like Vinyl",
-        "url": "https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH"
+        "name": "Tequila Gold",
+        "url": "https://open.spotify.com/album/0sL5GkqnABYOrb2mUUQlH5"
       },
       "artists": [
         {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
         }
       ],
-      "duration_ms": 219545,
-      "name": "Smooth Like Vinyl",
-      "url": "https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI"
+      "duration_ms": 182918,
+      "name": "Tequila Gold",
+      "url": "https://open.spotify.com/track/1pcTINzxpKJ2Fu64MWfLyS"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Crushin' Cans",
         "url": "https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN"
@@ -129,7 +113,39 @@
       "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
     },
     {
-      "added_at": "2025-06-27 02:52:11",
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Never Drinking Again",
+        "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 149854,
+      "name": "Never Drinking Again",
+      "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Smooth Like Vinyl",
+        "url": "https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 219545,
+      "name": "Smooth Like Vinyl",
+      "url": "https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Carl Dean",
         "url": "https://open.spotify.com/album/6mkTIWSOpkT4JMt1ymi8eQ"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/3efLofADfuZadHHNi1X0F3"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Let Your Horses Run - The Album",
         "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
     },
     {
-      "added_at": "2025-06-27 02:52:11",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Wish I Was",
         "url": "https://open.spotify.com/album/3pT6k4q90XQgDPJkZrbQZj"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/49NbdrkcFCdERnptZ1M17c"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Drinkin' Hand",
         "url": "https://open.spotify.com/album/04bJuRgewEbjeGiSrQgPWT"
@@ -193,7 +209,23 @@
       "url": "https://open.spotify.com/track/55x4wIhw8MZMAxJocbnebF"
     },
     {
-      "added_at": "2025-06-27 02:52:11",
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Shouldn't Drink No More",
+        "url": "https://open.spotify.com/album/28oQSClPcThd1YJ7CgvNBB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "duration_ms": 182516,
+      "name": "Shouldn't Drink No More",
+      "url": "https://open.spotify.com/track/4wnFOQyQvgqbSFNDVR7wMV"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Outta the Bar",
         "url": "https://open.spotify.com/album/3KF7JlHe1YEVsMhyAjiW3c"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/6zzOichWfkqq3kX8AlwUaq"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/0tDsJddA8lRaQC2Y5zE5X2"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/2J2lkDj2UeHdCLLkszHN6s"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Woman In The Mirror",
         "url": "https://open.spotify.com/album/269aSTuFbQ4tyn7JhyjUS5"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
     },
     {
-      "added_at": "2025-06-27 02:52:11",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Heartbreak Rodeo",
         "url": "https://open.spotify.com/album/5CsPQZX5z0cgIUW5TR9jG8"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/2rWuh8EBT4fCzFzDnmAR2W"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Middle Of The Bed",
         "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Mitch Zorn",
         "url": "https://open.spotify.com/album/2WYoAwG03kFOyL8oIqOnfP"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/5e6nn5XHkxlE03vG6Hp8XH"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/0HFWQXxhxtlJ4ztZUIkjpW"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "I Saw the Devil",
         "url": "https://open.spotify.com/album/0ZALmMpegki8cMOJzwoqCe"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "PICTURE [feat. Marie-Mai]",
         "url": "https://open.spotify.com/album/42l9D8nuCx9jxheZeQSDDG"
@@ -361,7 +393,7 @@
       "url": "https://open.spotify.com/track/0wOZIDRrEEM2GCo1JN9gEH"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Chainsmokin Memories",
         "url": "https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Alabama Way",
         "url": "https://open.spotify.com/album/7wDibrtVMCs2DGXh3pSusG"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/3oYBQOjoXySfvg6ftSfzoq"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Airplane Bottle",
         "url": "https://open.spotify.com/album/6KRroYi7h81O1Aqg0DFsMR"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/4WLBwTpJGtdgQajrx3p27V"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Unbecoming",
         "url": "https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Scraps",
         "url": "https://open.spotify.com/album/34nunss6fUKT9SoQDOXVv0"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/4a5eCFMZrwy4WPZdWmLsjx"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Tequila Knows Me",
         "url": "https://open.spotify.com/album/4hCnVX8rygqrjc1SBnC1hH"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/5j8IqsMA9wFn7zRuVfh22E"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "7 Words",
         "url": "https://open.spotify.com/album/6BuB9ZxCxGsYZV0iSkv1xv"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/1DXBG86wW6xaOoaEryBaAa"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "I Ain't Country",
         "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Leave the Tab Open",
         "url": "https://open.spotify.com/album/6m3N5BjxA8SxB47RrTPGCN"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/2magbsrEX1TSYoCTO1Zocl"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "My Expense",
         "url": "https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "I've Learned",
         "url": "https://open.spotify.com/album/0RSR5g34ZYX9i8XkVcuU8V"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/0JpfPOgw7MU1io1tUpPXSF"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Western Wind",
         "url": "https://open.spotify.com/album/5zh5UmVMhLKwa1yJX8pSq7"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Easy Man",
         "url": "https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "How Do You Miss Me",
         "url": "https://open.spotify.com/album/2JmjXSDe7gzx5v8zQ7DOV7"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Burn the Boats",
         "url": "https://open.spotify.com/album/0b2pYSIafKMLboovEJ6dzt"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/2KrEkvgkkqQo0PapU8OCm9"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Worth The Double",
         "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Tears That You'll Never Find",
         "url": "https://open.spotify.com/album/207ZWbh7bQe4q7nr9RzYXI"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Rally Around",
         "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Cowboys Were Kings",
         "url": "https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Slow Go the Days",
         "url": "https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Every Once In a While",
         "url": "https://open.spotify.com/album/5j71tQSZuhWVTjEntqM992"
@@ -749,7 +781,7 @@
       "url": "https://open.spotify.com/track/43qxCAP9QX3HoCVxRPUZdC"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Gettin' By",
         "url": "https://open.spotify.com/album/3GE8zt1rkVQXcpYudJq4TI"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/4RrNZfwHpJO5Stb1xAOnij"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Doin' What She Does",
         "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
@@ -781,7 +813,7 @@
       "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "All Roads Lead To You",
         "url": "https://open.spotify.com/album/6mHyBVGp4Xa0hCoNCGEnFG"
@@ -801,39 +833,7 @@
       "url": "https://open.spotify.com/track/4WAjW3T2fTS4RjX8UHIjVS"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Write About You",
-        "url": "https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix"
-      },
-      "artists": [
-        {
-          "name": "Parker Graye",
-          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
-        }
-      ],
-      "duration_ms": 144950,
-      "name": "Write About You",
-      "url": "https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Wake Up!",
-        "url": "https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb"
-      },
-      "artists": [
-        {
-          "name": "Bree Taylor",
-          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
-        }
-      ],
-      "duration_ms": 156544,
-      "name": "Wake Up!",
-      "url": "https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC"
-    },
-    {
-      "added_at": "2025-06-20 04:00:33",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"

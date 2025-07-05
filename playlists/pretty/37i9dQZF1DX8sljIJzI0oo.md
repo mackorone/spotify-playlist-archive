@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Katteyes is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,099 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,142 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BAILAME ASI](https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [BAILAME ASI](https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i) | 2:24 |
 | 2 | [Bellakita](https://open.spotify.com/track/4tSrGUb119Qx4sAZBzfFgd) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:39 |
-| 3 | [Khelani \- Remix](https://open.spotify.com/track/2R9VCHkAfx5w7wiydJW2JO) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Fabriell](https://open.spotify.com/artist/3ildDrjBPJNGTlGtd2TSJ6) | [Khelani \(Remix\)](https://open.spotify.com/album/2mJsYeclKoIVabpT8g2cGt) | 4:44 |
+| 3 | [Khelani \- Remix](https://open.spotify.com/track/2R9VCHkAfx5w7wiydJW2JO) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Fabriell](https://open.spotify.com/artist/7sR2VU3zdYk41TJ6HcVQF6) | [Khelani \(Remix\)](https://open.spotify.com/album/2mJsYeclKoIVabpT8g2cGt) | 4:44 |
 | 4 | [Tu Le Da](https://open.spotify.com/track/3ZQUJgJAU342LFmKof7Yvo) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [Tu Le Da](https://open.spotify.com/album/5amRmgBNIVJAWMmVzZheIj) | 1:58 |
 | 5 | [Little Demon](https://open.spotify.com/track/5HmbkAdM5TJZcCmFQgNHI6) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Little Demon](https://open.spotify.com/album/0jcuyuKVZVkDLFlEPSaa9N) | 2:46 |
 | 6 | [Fashion Week](https://open.spotify.com/track/3srDd3rppxZPvFeMwIo6JR) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 3:46 |

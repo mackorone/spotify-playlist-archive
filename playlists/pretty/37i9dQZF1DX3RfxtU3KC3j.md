@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: TNK x Umut Er x Caner Karamukluoğlu
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,251 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,231 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Düğün](https://open.spotify.com/track/39l3hlw46QJZWLgCZLic9K) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [TAŞ](https://open.spotify.com/album/1yzJh8RDG8XSswP1cqzNws) | 2:57 |
 | 2 | [Yarım Saat Sonra](https://open.spotify.com/track/4moyOqNwcJhSqTSSilwf4H) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Yarım Saat Sonra](https://open.spotify.com/album/6Pz3xh0PotNaXdIIiHk2dm) | 3:45 |
-| 3 | [Gezegen gibi çevrende](https://open.spotify.com/track/579tFyar3U2srsIlNLOBgm) | [TNK](https://open.spotify.com/artist/4EJYpvhyY4gO4rjEeitXLa), [Umut Er](https://open.spotify.com/artist/2dIg9NWnGgv2XFcXcdEMDp), [Caner Karamukluoğlu \(TNK\)](https://open.spotify.com/artist/2YEZa6HxYiPxIwEr70ph4F) | [Gezegen gibi çevrende](https://open.spotify.com/album/5xjeRtzugbV3i5UbaRHsdP) | 3:07 |
+| 3 | [Gezegen gibi çevrende](https://open.spotify.com/track/579tFyar3U2srsIlNLOBgm) | [TNK](https://open.spotify.com/artist/4EJYpvhyY4gO4rjEeitXLa) | [Gezegen gibi çevrende](https://open.spotify.com/album/5xjeRtzugbV3i5UbaRHsdP) | 3:07 |
 | 4 | [Bize Ne?](https://open.spotify.com/track/4yNjMK5poCcC1U9c7MXk4M) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Bize Ne?](https://open.spotify.com/album/4TPqPuEFLDrYM0UlzGo8lb) | 3:09 |
 | 5 | [geceyarısı, sisli deniz...](https://open.spotify.com/track/3aTiHsSzAcDWYOdPNwVxYr) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [geceyarısı, sisli deniz...](https://open.spotify.com/album/11M134hfwvHBQqUFA6D9L1) | 2:49 |
 | 6 | [Öyle](https://open.spotify.com/track/5P174cIMnUWF8pjMqrVeJd) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Öyle](https://open.spotify.com/album/4nWFhbLNM8R1PgwYyBsrhG) | 3:55 |

@@ -4225,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7DTxFJL32yQaLVZygMqAgY"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Laxton",
+          "url": "https://open.spotify.com/artist/6WeoKwC3VvK3TtitaFqr19"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163570,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1onCvJgV8VL9WSHsrfIl2I"
+    },
+    {
+      "album": {
         "name": "plum blossom (revisited)",
         "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
       },
@@ -4478,7 +4496,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 212021,
       "name": "The Alchemist",
       "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"

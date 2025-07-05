@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 140032,
+  "num_followers": 140054,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aF4XWQAAAACScMw6mgjN9qTuvtNCuU2C",
+  "snapshot_id": "aGdR0QAAAADhwqw1y8uNUqxex/NM4l5N",
   "tracks": [
     {
       "added_at": "2025-06-27 04:00:25",
@@ -67,6 +67,22 @@
       "duration_ms": 263653,
       "name": "How Blues Is That (feat. Joe Walsh)",
       "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
+    },
+    {
+      "added_at": "2025-07-04 04:00:17",
+      "album": {
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/3uQaiRXPr4v4nV0NbZo9Ya"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 205411,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/3ykS8JhFli8fk4RyQewszO"
     },
     {
       "added_at": "2025-06-20 04:00:32",
@@ -695,22 +711,6 @@
       "duration_ms": 201933,
       "name": "Trouble Of That Girl",
       "url": "https://open.spotify.com/track/0rQ5Eyy3SsOpYTUVGu7lsH"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
-        "name": "Bad People",
-        "url": "https://open.spotify.com/album/0BAhzx2xOHrMisUGO6d4y1"
-      },
-      "artists": [
-        {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
-        }
-      ],
-      "duration_ms": 260345,
-      "name": "Bad People",
-      "url": "https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y"
     },
     {
       "added_at": "2025-01-10 05:00:08",

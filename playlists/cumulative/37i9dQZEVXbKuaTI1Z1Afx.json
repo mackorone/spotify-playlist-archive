@@ -19051,6 +19051,24 @@
     },
     {
       "album": {
+        "name": "I.S.T.",
+        "url": "https://open.spotify.com/album/08aHAfQh86f8aj2YgsXavn"
+      },
+      "artists": [
+        {
+          "name": "And One",
+          "url": "https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180373,
+      "name": "Driving with My Darling",
+      "url": "https://open.spotify.com/track/5HlRJ3ZIO1fOPXqKNAWrmT"
+    },
+    {
+      "album": {
         "name": "Drop Stop Roll",
         "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
       },
@@ -43135,6 +43153,24 @@
     },
     {
       "album": {
+        "name": "MamaZota",
+        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
+      },
+      "artists": [
+        {
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122125,
+      "name": "MamaZota",
+      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/4QWnhJfLTrD0fPDmU6SeES"
       },
@@ -54708,7 +54744,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 155538,
       "name": "Por Las Buenas",
       "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
@@ -58898,6 +58934,24 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
+    },
+    {
+      "album": {
+        "name": "SAFE WITH ME (SECRETOS)",
+        "url": "https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe"
+      },
+      "artists": [
+        {
+          "name": "Jhay Rivas",
+          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "SAFE WITH ME (SECRETOS)",
+      "url": "https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"
     },
     {
       "album": {
@@ -78750,7 +78804,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
@@ -80320,7 +80374,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/42GKyvz5KBsHTBaLpo3cqJ"

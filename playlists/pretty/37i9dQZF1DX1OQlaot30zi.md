@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 333 Mob, Shablo, Icy Subzero, Morad e Baby Gang, Melon, MamboLosco e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,679 likes - 147 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,713 likes - 147 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

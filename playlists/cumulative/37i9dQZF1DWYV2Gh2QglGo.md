@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Morgan Wallen & Tate McRae
 
-286 songs - 15 hr 24 min
+288 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Seventeen](https://open.spotify.com/track/1SHpHu0loVuIXvasFr5qsA) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Seventeen](https://open.spotify.com/album/5avFJN7Foam2pPkN3H5NGD) | 3:26 | 2024-07-05 | 2024-09-14 |
 | [She Knows Better](https://open.spotify.com/track/5qShJOuogy2eaOyO6B5wsL) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [She Knows Better](https://open.spotify.com/album/3jVdXB4rdQRkyXiW8IJkfo) | 3:20 | 2024-06-28 | 2024-08-17 |
 | [She Stole My Harley](https://open.spotify.com/track/0UgBuShvhYEmOuFHXvzZgY) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [She Stole My Harley](https://open.spotify.com/album/4pnwZ0Jrh3wIXE7b6wr0fC) | 3:12 | 2024-09-27 | 2025-01-18 |
+| [Shouldn't Drink No More](https://open.spotify.com/track/4wnFOQyQvgqbSFNDVR7wMV) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Shouldn't Drink No More](https://open.spotify.com/album/28oQSClPcThd1YJ7CgvNBB) | 3:02 | 2025-07-04 |  |
 | [Silverado\-si\-do](https://open.spotify.com/track/2arYI5xSg8l1CMqMaJwOQo) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Silverado\-si\-do](https://open.spotify.com/album/4mZpINDx7oZJcrLVx6HTC7) | 3:23 | 2024-08-30 | 2024-10-26 |
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-06-28 | 2024-11-23 |
 | [Skeletons](https://open.spotify.com/track/4wFZ05jtrJfOPrIoUvUqpp) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [To The River](https://open.spotify.com/album/00FItLjcKVBX8WieQDYC4I) | 4:17 | 2025-04-25 | 2025-05-24 |
@@ -237,6 +238,7 @@
 | [Tail Lights](https://open.spotify.com/track/2V0OXn4Bum36a6tcVdDEci) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Tail Lights](https://open.spotify.com/album/3UnKGVmIllBTCsAbj4i9Wk) | 3:34 | 2025-01-31 | 2025-03-29 |
 | [Takes Me Back](https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Takes Me Back](https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd) | 3:15 | 2024-10-04 | 2024-10-26 |
 | [Tears That You'll Never Find](https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Tears That You'll Never Find](https://open.spotify.com/album/207ZWbh7bQe4q7nr9RzYXI) | 2:46 | 2025-05-16 |  |
+| [Tequila Gold](https://open.spotify.com/track/1pcTINzxpKJ2Fu64MWfLyS) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Tequila Gold](https://open.spotify.com/album/0sL5GkqnABYOrb2mUUQlH5) | 3:02 | 2025-07-04 |  |
 | [Tequila Knows Me](https://open.spotify.com/track/5j8IqsMA9wFn7zRuVfh22E) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Tequila Knows Me](https://open.spotify.com/album/4hCnVX8rygqrjc1SBnC1hH) | 3:04 | 2025-06-20 |  |
 | [That Was The Night](https://open.spotify.com/track/0EIPKmQbx9uRUEV4zDGk4P) | [Benny Douglas](https://open.spotify.com/artist/4SxWoqHdJs8UU6HyNlI9n2) | [That Was The Night](https://open.spotify.com/album/7c4kFeK4ylgwRMeQb0sFPP) | 3:39 | 2024-06-28 | 2024-07-06 |
 | [The Bullfighter](https://open.spotify.com/track/1HgKUjJRScAcZD5WPhlACo) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Bullfighter](https://open.spotify.com/album/5OfwLDZVVkjuBFQFBKid9p) | 3:18 | 2025-02-21 | 2025-04-26 |
@@ -260,7 +262,7 @@
 | [Unbecoming](https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Unbecoming](https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0) | 2:48 | 2025-05-16 |  |
 | [Unforgettable](https://open.spotify.com/track/2O9vFIsFzi4NavmLmTrkIe) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [The Truth We Hold](https://open.spotify.com/album/4ZECwfb4wwu830xgPnTk52) | 3:23 | 2025-04-11 | 2025-05-03 |
 | [Upside of Being Down](https://open.spotify.com/track/2qJN9RuKAZYXfMRynYMuXN) | [Jordyn Pollard](https://open.spotify.com/artist/5erlKemcX5wMgwsmEIWfH9) | [Upside of Being Down](https://open.spotify.com/album/5U20NzOvPpdw0jr6JgziVP) | 2:40 | 2025-01-17 | 2025-03-08 |
-| [Wake Up!](https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC) | [Bree Taylor](https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA) | [Wake Up!](https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb) | 2:36 | 2025-04-25 |  |
+| [Wake Up!](https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC) | [Bree Taylor](https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA) | [Wake Up!](https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb) | 2:36 | 2025-04-25 | 2025-07-05 |
 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 | 2024-07-19 | 2025-01-18 |
 | [Was Fort Worth Worth It? \(Feat\. Jaida Dreyer\) \- Bonus Track](https://open.spotify.com/track/3bHoEZfTbxj0AsXx8zojDx) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og), [Jaida Dreyer](https://open.spotify.com/artist/35OJ5CJ1uS9gUas2RlDxmF) | [El Viejo \(Deluxe\)](https://open.spotify.com/album/1FcT67ew8L55yHnVeAjYHQ) | 3:11 | 2024-11-01 | 2024-11-16 |
 | [Waste Of Space](https://open.spotify.com/track/4iiO21zbbsrp1q7u1pzG1D) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Waste Of Space](https://open.spotify.com/album/1ZV6NU52nZL07pMVfncdCR) | 3:10 | 2024-07-05 | 2024-09-14 |
@@ -284,7 +286,7 @@
 | [Won't Forget](https://open.spotify.com/track/59O3j00c3p3B5umtTxUUyZ) | [Dan Davidson](https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI), [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci), [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Won't Forget](https://open.spotify.com/album/5qimPgCfn0ybRLGIkFpjAU) | 3:19 | 2024-06-28 | 2024-09-14 |
 | [Worth The Double](https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Worth The Double](https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d) | 2:51 | 2024-10-18 |  |
 | [Wreckin' this Truck](https://open.spotify.com/track/6jtfr9qz4IGhopSc7iYHZR) | [Buck Twenty](https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq) | [From A to B](https://open.spotify.com/album/02yEzzqbzv7JgrZPqQcKiF) | 3:32 | 2024-07-19 | 2024-11-02 |
-| [Write About You](https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Write About You](https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix) | 2:24 | 2025-04-04 |  |
+| [Write About You](https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Write About You](https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix) | 2:24 | 2025-04-04 | 2025-07-05 |
 | [Written All Over It](https://open.spotify.com/track/6oX7x3oEqDJ0uf0iw3Z0TL) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Written All Over It](https://open.spotify.com/album/77aqU7xpaxrWB1KsLzlZEJ) | 3:04 | 2024-06-28 | 2024-08-31 |
 | [You and Me](https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [You and Me](https://open.spotify.com/album/4UCtstaaxD25dGbMUHqlV3) | 2:27 | 2024-08-16 | 2025-01-18 |
 | [You Didn’t Hear It From Me](https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [You Didn’t Hear It From Me](https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv) | 3:09 | 2025-01-10 | 2025-03-15 |

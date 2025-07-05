@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-199 songs - 12 hr 43 min
+200 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [You Still Get Me High](https://open.spotify.com/track/3lFDs1SNa0rTumlPZSOHH8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im) | 3:38 | 2023-12-13 | 2023-12-30 |
 | [You Still Get Me High](https://open.spotify.com/track/726GRWH3hMbnr6HAlMJUfA) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:38 | 2023-12-29 |  |
 | [You Used To Love Me](https://open.spotify.com/track/372pXXuQ4ht43qeaS34FlA) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:09 | 2021-12-27 |  |
+| [You're The Reason](https://open.spotify.com/track/0P4el0JBYiO4LQKuqZmzL9) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Born To Be Free](https://open.spotify.com/album/4CzXGZ95nDYwUolrYUfres) | 3:45 | 2025-07-04 |  |
 | [Young Free and Happy](https://open.spotify.com/track/6JqPpvs0GiNDkEM9Gciawx) | [Girl Thing](https://open.spotify.com/artist/6u7Xu6msBBuSXGyl60BuQF) | [Girl Thing](https://open.spotify.com/album/6rQuZ9mCt1q6y9n71tIk08) | 4:07 | 2021-12-27 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

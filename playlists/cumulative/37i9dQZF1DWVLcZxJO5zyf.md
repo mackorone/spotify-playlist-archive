@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Cynthia Luz, Carla Sol
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Rico Dalasam
 
-401 songs - 19 hr 7 min
+402 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 | 2022-07-22 | 2023-08-16 |
 | [desficava](https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [desficava](https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX) | 2:33 | 2022-09-30 | 2023-07-15 |
 | [DEUSA](https://open.spotify.com/track/7lwqdadTSjieUkL0l843dk) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [DEUSA](https://open.spotify.com/album/63bxU6zYHWnFREUErxDeUM) | 2:26 | 2022-04-06 | 2022-05-07 |
+| [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 | 2025-07-04 |  |
 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 | 2025-05-23 |  |
 | [Doce](https://open.spotify.com/track/7sCGeBklTQyhZLbflFc6xg) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:16 | 2022-02-04 | 2022-03-05 |
 | [Doce Boy](https://open.spotify.com/track/56UFY8s74kaEkBSsFhSiJA) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Doce Boy](https://open.spotify.com/album/1BGmw1hnnwRV4NJ69wD4s9) | 2:18 | 2024-05-17 | 2024-06-15 |
@@ -253,7 +254,7 @@
 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 | 2022-01-26 | 2022-11-12 |
 | [Não Se Vá](https://open.spotify.com/track/0XoFdDHxXJ0SqgomwiLAet) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Não Se Vá](https://open.spotify.com/album/5ZDXO9LppxZbYNaqD1L1Rf) | 2:38 | 2022-12-19 | 2023-08-16 |
 | [Não Te Amo](https://open.spotify.com/track/4NIOFeptzAsbkOUnyBE6FY) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:00 | 2022-01-14 | 2022-02-05 |
-| [Nós](https://open.spotify.com/track/7kDQV2MzhzRGHeLrB09zMA) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Leoa do Asfalto](https://open.spotify.com/album/0UxqYcrRyinpMMf0osL6YJ) | 2:53 | 2025-05-13 |  |
+| [Nós](https://open.spotify.com/track/7kDQV2MzhzRGHeLrB09zMA) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Leoa do Asfalto](https://open.spotify.com/album/0UxqYcrRyinpMMf0osL6YJ) | 2:53 | 2025-05-13 | 2025-07-05 |
 | [O Café Num Esfriou](https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Pra Beber e Amar](https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP) | 2:31 | 2025-04-04 |  |
 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 | 2024-06-14 | 2024-08-20 |
 | [O Último Romântico Online \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:50 | 2023-05-26 | 2023-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,909 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,018 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 27 | [LOCATION](https://open.spotify.com/track/1o4TctoKCsjJ2iLM34LZon) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:00 |
 | 28 | [Jet Ski](https://open.spotify.com/track/6K54j58zLdDgbWGtT4CINU) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jet Ski](https://open.spotify.com/album/0EoE85vAFJhMghCxeUjjKe) | 2:02 |
 | 29 | [HOLIDAY](https://open.spotify.com/track/2ZgoINSHCzkcUA2rSRWWw1) | [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D), [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q) | [HOLIDAY](https://open.spotify.com/album/0CBhqrITaHfUtQLC7iq3kf) | 2:31 |
-| 30 | [Saccage Inquiétant](https://open.spotify.com/track/4G7Wwu9d2lewQCtnt0byC7) | [Damys](https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg), [Mikado](https://open.spotify.com/artist/33CITwnsmRJ0HwCQF5yj0D) | [Saccage Inquiétant](https://open.spotify.com/album/0g4YL0hBl1GynZutv7pLWx) | 2:02 |
+| 30 | [Saccage Inquiétant](https://open.spotify.com/track/4G7Wwu9d2lewQCtnt0byC7) | [Damys](https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Saccage Inquiétant](https://open.spotify.com/album/0g4YL0hBl1GynZutv7pLWx) | 2:02 |
 | 31 | [Chambre 04](https://open.spotify.com/track/6zBRSNNizxsGWRQFg2eToG) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Attachingboy](https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL) | [Chambre 04](https://open.spotify.com/album/5H8p6fAmRy5j9Hn6cJAU0l) | 2:09 |
 | 32 | [Bodycount](https://open.spotify.com/track/1xet8SJiFFvsv5b0bmAi5n) | [K\-Rosif](https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV) | [Bodycount](https://open.spotify.com/album/1baXYkA27qJSVC3F90qw6d) | 2:23 |
 | 33 | [Pété Tchouw](https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Jona](https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM), [JDS](https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm) | [Pété Tchouw](https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom) | 1:53 |

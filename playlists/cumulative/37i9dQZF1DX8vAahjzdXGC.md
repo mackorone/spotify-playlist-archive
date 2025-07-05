@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Sydney Rose, Sammy Simorangkir, BABYMONSTER dan masih banyak lagi dari dalam dan mancanegara
 
-27,405 songs - 65 day 1 hr 16 min
+27,406 songs - 65 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24272,6 +24272,7 @@
 | [Tiger Eyes](https://open.spotify.com/track/1boEZE7JfhFGU8ZhJOmoWF) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [RYU SU JEONG 1st Mini Album \[Tiger Eyes\]](https://open.spotify.com/album/4HHW42BPxobSoqn8P5sUGE) | 3:37 | 2020-05-22 | 2020-05-29 |
 | [Tiger Inside](https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [Tiger Inside](https://open.spotify.com/album/38FEnRZ38L0fyCZjaV0wxm) | 3:29 | 2020-09-04 | 2020-09-11 |
 | [Tiger Song \(Do The Wiggle\)](https://open.spotify.com/track/6tX2Y10dD3OwIeT0Jf5TJc) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Tiger Song \(Do The Wiggle\)](https://open.spotify.com/album/6NtAqMmTXti5XCXf3oeoGs) | 2:34 | 2021-04-23 | 2021-04-30 |
+| [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/track/25DeCJkbJNacQt3dfPT9st) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/album/24OBRgl45p0zr0CV7zCHIf) | 3:00 | 2025-07-03 |  |
 | [Tiket Suargo](https://open.spotify.com/track/4OslOFYvjekrDCve05AsSX) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tiket Suargo](https://open.spotify.com/album/0JUW8NwVzhZ3LF8YJS7eUy) | 6:02 | 2021-05-14 | 2021-05-21 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-11-19 | 2021-11-26 |
 | [TIKTIKTOKIN](https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [TIKTIKTOKIN](https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs) | 2:05 | 2023-03-16 | 2023-03-25 |

@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-157 songs - 7 hr 52 min
+158 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,10 +37,10 @@
 | [Every Time I Feel The Spirit \- Live](https://open.spotify.com/track/4ck7oUwxWNgXmVSsTJQZJQ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Soul Of Gospel](https://open.spotify.com/album/7tMURmtJUVkgltUFJWq5TY) | 3:42 | 2023-10-01 | 2023-10-11 |
 | [Everything To Me \- Live Overdub](https://open.spotify.com/track/5xQEVxGWdPQiCkSJ7gPFTy) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister On Tour](https://open.spotify.com/album/096yrvEmbVGUeC9TpWUTPO) | 2:31 | 2022-09-20 | 2022-09-22 |
 | [Family Prayer](https://open.spotify.com/track/4m1zv5LLT3fnSCdBsPHTBC) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:40 | 2022-12-23 | 2022-12-25 |
-| [Father Prepare Me](https://open.spotify.com/track/1JzOFnaBuWxnbtETqaotzh) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:10 | 2022-05-25 | 2025-07-02 |
+| [Father Prepare Me](https://open.spotify.com/track/1JzOFnaBuWxnbtETqaotzh) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:10 | 2022-05-25 |  |
 | [Feed Me Jesus](https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 3:03 | 2022-05-25 |  |
 | [Fly Away](https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:27 | 2022-05-25 |  |
-| [Forgive Me Lord and Try Me One More Time](https://open.spotify.com/track/7LzY6XaQI8Kyk7naBt5SHi) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:35 | 2025-03-02 |  |
+| [Forgive Me Lord and Try Me One More Time](https://open.spotify.com/track/7LzY6XaQI8Kyk7naBt5SHi) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:35 | 2025-03-02 | 2025-07-05 |
 | [Forgive Me Lord and Try Me One More Time](https://open.spotify.com/track/3vHAgyKCQJBFgf5RpKa9nM) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:38 | 2023-04-01 | 2023-05-04 |
 | [Go Ahead](https://open.spotify.com/track/3iduBepxPdQzxUOCAz6b01) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 4:37 | 2022-05-25 | 2022-12-25 |
 | [Go Ahead \- Live](https://open.spotify.com/track/50fnUS19njK5kSzm9l0Whd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bound For Glory \(Live Stuttgart '58\)](https://open.spotify.com/album/1SbRXFU9vDp4OrQ4umcCGM) | 3:34 | 2023-08-08 | 2023-09-03 |
@@ -127,7 +127,8 @@
 | [Strange Things Are Happening](https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:21 | 2022-05-25 | 2024-11-07 |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/2cXqQ0RT3zCKQ8yIVk7siF) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:47 | 2025-05-07 | 2025-07-02 |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:47 | 2022-05-25 | 2025-05-07 |
-| [Strange Things Happening Every Day](https://open.spotify.com/track/2ah8JPjc8eCBoOPy8nNKHA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:49 | 2025-07-02 |  |
+| [Strange Things Happening Every Day](https://open.spotify.com/track/2xzjrWmKD8lh4H4tgmVorQ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Darling Mother](https://open.spotify.com/album/6TNt3uZFQWMwTkzPfG5e98) | 2:47 | 2025-07-05 |  |
+| [Strange Things Happening Every Day](https://open.spotify.com/track/2ah8JPjc8eCBoOPy8nNKHA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 2:49 | 2025-07-02 | 2025-07-05 |
 | [Stretch Out](https://open.spotify.com/track/2ZT3NIKMCgtNdnEyTgxJd6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:45 | 2023-12-13 | 2025-06-08 |
 | [Take My Hand Precious Lord \- Intro](https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 1:24 | 2024-07-13 |  |
 | [Take My Hand Precious Lord \- Live](https://open.spotify.com/track/2nQp9iM7bfCOliwklwO736) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Soul Of Gospel](https://open.spotify.com/album/7tMURmtJUVkgltUFJWq5TY) | 4:29 | 2023-10-01 | 2023-11-11 |

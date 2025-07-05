@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 560763,
+  "num_followers": 560877,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Macro",
         "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 239786,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "you loved me like a fool",
         "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 214638,
       "name": "you loved me like a fool",
       "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Giver Taker",
-        "url": "https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc"
-      },
-      "artists": [
-        {
-          "name": "Anjimile",
-          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
-        }
-      ],
-      "duration_ms": 164613,
-      "name": "Baby No More",
-      "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "head down",
         "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
       },
@@ -1523,22 +1507,34 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Home Cooking",
-        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
+        "name": "Giver Taker",
+        "url": "https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc"
       },
       "artists": [
         {
-          "name": "DJ Yoda",
-          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
         }
       ],
-      "duration_ms": 207201,
-      "name": "Thornton Heath",
-      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
+      "duration_ms": 164613,
+      "name": "Baby No More",
+      "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+        "name": "Home Cooking",
+        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "DJ Yoda",
+          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+      "duration_ms": 207201,
+      "name": "Thornton Heath",
+      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     },
     {
       "added_at": "2025-05-16 06:00:17",

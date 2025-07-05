@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Sam Vazquez en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Sous-Sol en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 160695,
       "name": "donjulio",
       "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 172765,
       "name": "ESA NO SOY YO",
       "url": "https://open.spotify.com/track/6ZLpqPelpfOwGAk45cgJnu"
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 263186,
       "name": "JAM CLUB BANDAM",
       "url": "https://open.spotify.com/track/6ur4ZudnVO2CjWwSCfs3GU"
@@ -6540,7 +6540,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 146462,
       "name": "MALTRIPEAR",
       "url": "https://open.spotify.com/track/0ocRy5Le0v3eu5nObEuojf"
@@ -6678,6 +6678,24 @@
       "duration_ms": 205160,
       "name": "Match",
       "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
+    },
+    {
+      "album": {
+        "name": "Matching Tattoos",
+        "url": "https://open.spotify.com/album/0w1mc0HIGFMyREdGaSO07o"
+      },
+      "artists": [
+        {
+          "name": "KNYA",
+          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230556,
+      "name": "Matching Tattoos",
+      "url": "https://open.spotify.com/track/7u2NUmeW5z4XDBTGdRBH8o"
     },
     {
       "album": {
@@ -6956,6 +6974,24 @@
       "duration_ms": 187636,
       "name": "MEDIO LLENO: medio vac\u00edo",
       "url": "https://open.spotify.com/track/38uBvlxu8rchby9QF2mqbo"
+    },
+    {
+      "album": {
+        "name": "mejoras\u00ed",
+        "url": "https://open.spotify.com/album/52f0I2VU84gdiTh2tkbTXV"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170736,
+      "name": "mejoras\u00ed",
+      "url": "https://open.spotify.com/track/0DdJAiPRTusgibGZr6Pm2T"
     },
     {
       "album": {
@@ -11655,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "todas las veces",
+        "url": "https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj"
+      },
+      "artists": [
+        {
+          "name": "ni\u00f1o viejo",
+          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170794,
+      "name": "todas las veces",
+      "url": "https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ"
+    },
+    {
+      "album": {
         "name": "todav\u00eda dueles",
         "url": "https://open.spotify.com/album/6BjsUk9eHecrsCmPiSCf3g"
       },
@@ -12061,6 +12119,24 @@
     },
     {
       "album": {
+        "name": "Truco Viejo",
+        "url": "https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Truco Viejo",
+      "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"
+    },
+    {
+      "album": {
         "name": "tu fiel admirador",
         "url": "https://open.spotify.com/album/3mKil68qGPIkGRWFLpdYEe"
       },
@@ -12455,6 +12531,28 @@
     },
     {
       "album": {
+        "name": "veinticuatrosiete",
+        "url": "https://open.spotify.com/album/6o4ZWwXsGGTNGrGPMWdqlp"
+      },
+      "artists": [
+        {
+          "name": "Plata Shail",
+          "url": "https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "veinticuatrosiete",
+      "url": "https://open.spotify.com/track/6nhMYhjxm88CGj7F5taXgi"
+    },
+    {
+      "album": {
         "name": "Ven",
         "url": "https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK"
       },
@@ -12636,7 +12734,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 194000,
       "name": "visi\u00f3n \u2606",
       "url": "https://open.spotify.com/track/2XEdYZ4ZZL0ceranFbYuoU"

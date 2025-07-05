@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 214020,
       "name": "Corte Caco - Remix",
       "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
@@ -2550,6 +2550,24 @@
       "duration_ms": 193515,
       "name": "Gobernada",
       "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
+    },
+    {
+      "album": {
+        "name": "Gordo",
+        "url": "https://open.spotify.com/album/7Cn3xh65bkIu70wNMmrMpF"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212386,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/2pDxURcQGlw2RZG0aAkmsv"
     },
     {
       "album": {
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 140280,
       "name": "Negro cumbiero donde voy",
       "url": "https://open.spotify.com/track/6XtiECNVkKdvsXKomx4I8g"
@@ -5910,7 +5928,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 234315,
       "name": "Suena mi bajo cumbiero",
       "url": "https://open.spotify.com/track/1GyYBfenfRo0DTgY4dDyGU"

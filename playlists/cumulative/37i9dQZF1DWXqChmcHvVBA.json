@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-22",
-  "description": "\ud83d\udcf8 Alejo Isaak & El Turko.",
+  "description": "\ud83d\udcf8 Peipper.",
   "name": "RKT  & Turreo",
   "tracks": [
     {
@@ -5055,6 +5055,32 @@
     },
     {
       "album": {
+        "name": "Taki-Ta",
+        "url": "https://open.spotify.com/album/2uOjN4QuuaMbiPnXGJs9q0"
+      },
+      "artists": [
+        {
+          "name": "_zaymi",
+          "url": "https://open.spotify.com/artist/12SnGSf8Kc72sRDTyBFMGq"
+        },
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155374,
+      "name": "Taki-Ta",
+      "url": "https://open.spotify.com/track/6sbQQ1SdlUcN4dW6bmLmy2"
+    },
+    {
+      "album": {
         "name": "Tal Para Cual",
         "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
       },
@@ -5100,6 +5126,28 @@
       "duration_ms": 156305,
       "name": "TAPOUN",
       "url": "https://open.spotify.com/track/5Ht6WQPJ7V6yeyubWa2U7D"
+    },
+    {
+      "album": {
+        "name": "TAPRETAO",
+        "url": "https://open.spotify.com/album/4Oy2w32Lsa3z0qkIDSFF80"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134064,
+      "name": "TAPRETAO",
+      "url": "https://open.spotify.com/track/50nubJMIB7e659zjQcCBMU"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 446855,
+  "num_followers": 446846,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Onde a Saudade Mora",
+        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 123060,
+      "name": "Deus Me Livre Quem Me Dera",
+      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Continua, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 168380,
       "name": "C\u00ea N\u00e3o Me Superou - Ao Vivo",
       "url": "https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Onde a Saudade Mora",
-        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 123060,
-      "name": "Deus Me Livre Quem Me Dera",
-      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Barretto",
-          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
-        }
-      ],
-      "duration_ms": 163090,
-      "name": "Amor De Cana - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+        }
+      ],
+      "duration_ms": 163090,
+      "name": "Amor De Cana - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Frieza (Ao Vivo)",
         "url": "https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt"
       },
@@ -1351,38 +1351,6 @@
       "duration_ms": 185761,
       "name": "Frieza - Ao Vivo",
       "url": "https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Jenifer",
-        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Jenifer",
-      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 176835,
-      "name": "Terapinga - Ao Vivo",
-      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1407,6 +1375,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Jenifer",
+      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Pronta pra Trair",
         "url": "https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 177144,
       "name": "Pronta pra Trair",
       "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "duration_ms": 176835,
+      "name": "Terapinga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1443,42 +1443,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 185781,
-      "name": "Mundo de Ilus\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 234592,
-      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "Continua, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
       },
@@ -1499,6 +1463,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Mundo de Ilus\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Aperte O Play! (Ao Vivo)",
         "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 201669,
       "name": "Aperte O Play - Ao Vivo",
       "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 234592,
+      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Guias Dvd 2018",
+        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Cora\u00e7\u00e3o Infectado",
+      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
         "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 144071,
       "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Guias Dvd 2018",
-        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Cora\u00e7\u00e3o Infectado",
-      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Te Assumo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6yhEh4AnSgSw1PauUw41Rr"
-      },
-      "artists": [
-        {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
-        }
-      ],
-      "duration_ms": 195354,
-      "name": "Te Assumo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zIghh6yq3ldfdwU0meLbu"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "Reflexo - Deluxe (ao Vivo)",
         "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 148330,
       "name": "Bebo Litro - Ao Vivo",
       "url": "https://open.spotify.com/track/0GSHXM7PZ75f6ZwpekBq83"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Te Assumo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6yhEh4AnSgSw1PauUw41Rr"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 195354,
+      "name": "Te Assumo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zIghh6yq3ldfdwU0meLbu"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+        "name": "Agora \u00c9 Que S\u00e3o Elas 2 (Ao Vivo | Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4"
       },
       "artists": [
         {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
+      "duration_ms": 211456,
+      "name": "Quem Foi Que Soprou - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL"
     }
   ],
   "unique_name": "Sertanejo no Trabalho",

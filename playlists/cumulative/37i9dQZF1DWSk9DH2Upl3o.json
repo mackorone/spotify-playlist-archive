@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 349985,
       "name": "Dust Mites (Tumble Down)",
       "url": "https://open.spotify.com/track/0sg2CKv4gfvgMvtloRVu4g"
@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Me & My Lady",
+        "url": "https://open.spotify.com/album/0rt2SrLVvxNBf4Ev1rg40R"
+      },
+      "artists": [
+        {
+          "name": "Kendall Street Company",
+          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190535,
+      "name": "Me & My Lady",
+      "url": "https://open.spotify.com/track/6L4iw08eNogB3cEssYFGNl"
+    },
+    {
+      "album": {
         "name": "Mister Funky Daddy",
         "url": "https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF"
       },
@@ -2682,6 +2700,24 @@
       "duration_ms": 286119,
       "name": "On and On",
       "url": "https://open.spotify.com/track/24DTU2rSsVkiehF2bxUKRL"
+    },
+    {
+      "album": {
+        "name": "On My Way Down",
+        "url": "https://open.spotify.com/album/0AgDscAmgbPBUwwFow0uP0"
+      },
+      "artists": [
+        {
+          "name": "Jon Sullivan Band",
+          "url": "https://open.spotify.com/artist/23FBB7KARNDUnKXhzo93Pb"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308613,
+      "name": "On My Way Down",
+      "url": "https://open.spotify.com/track/6HWOC6noC1DhqVhZoXWJNy"
     },
     {
       "album": {
@@ -3932,7 +3968,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 338026,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/5atSKRkn8KIc6juTtZuRja"

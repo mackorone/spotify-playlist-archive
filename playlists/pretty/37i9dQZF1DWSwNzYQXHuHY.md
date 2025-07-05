@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,332 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,330 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 46 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
 | 47 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
 | 48 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
-| 49 | [Newbie](https://open.spotify.com/track/3m6PwqoA3PNy1S8K5hbAgP) | [ZANMANG LOOPY](https://open.spotify.com/artist/4gTQMpynaU2xBlpLHtYj3q), [KEITA](https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6), [LEE JEONGHYEON\(EVNNE\)](https://open.spotify.com/artist/4mrHBbzFL3vsHsZCaqwFJ2) | [Newbie](https://open.spotify.com/album/0d9KAqU4zsIRwltLHR0CWk) | 2:27 |
-| 50 | [독신주의 \(i love you\)](https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [독신주의 \(i love you\)](https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo) | 3:25 |
+| 49 | [독신주의 \(i love you\)](https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [독신주의 \(i love you\)](https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo) | 3:25 |
+| 50 | [Newbie](https://open.spotify.com/track/3m6PwqoA3PNy1S8K5hbAgP) | [ZANMANG LOOPY](https://open.spotify.com/artist/4gTQMpynaU2xBlpLHtYj3q), [KEITA](https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6), [LEE JEONGHYEON\(EVNNE\)](https://open.spotify.com/artist/4mrHBbzFL3vsHsZCaqwFJ2) | [Newbie](https://open.spotify.com/album/0d9KAqU4zsIRwltLHR0CWk) | 2:27 |
 
 Snapshot ID: `aGNF8AAAAACyiZYSC7qCHWNae1O4Tbxn`

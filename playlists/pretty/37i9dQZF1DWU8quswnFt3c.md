@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Regina Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,223 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,242 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 36 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
 | 37 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
 | 38 | [Sugar](https://open.spotify.com/track/0NDtqYhhPiGTUGCJBmHsJG) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Sugar](https://open.spotify.com/album/2lIFJ8da4YeAtyAW3kvha5) | 3:12 |
-| 39 | [Kryptonita](https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Kryptonita](https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9) | 2:44 |
-| 40 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 |
-| 41 | [A fost mai simplu să pleci](https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [A fost mai simplu să pleci](https://open.spotify.com/album/2ADICf1yT37nPwVObJU2uF) | 2:40 |
+| 39 | [A fost mai simplu să pleci](https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [A fost mai simplu să pleci](https://open.spotify.com/album/2ADICf1yT37nPwVObJU2uF) | 2:40 |
+| 40 | [Kryptonita](https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Kryptonita](https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9) | 2:44 |
+| 41 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 |
 | 42 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
 | 43 | [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 |
 | 44 | [A8](https://open.spotify.com/track/0gkp70DCW19XjTRMksgdJF) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [to you, to me](https://open.spotify.com/album/4gsgZrKtgwCBAMIn7Qs42V) | 3:28 |

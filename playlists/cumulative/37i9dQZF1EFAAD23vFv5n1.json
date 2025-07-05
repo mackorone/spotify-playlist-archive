@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "fuori dalla stanza",
+        "url": "https://open.spotify.com/album/5IuN8Gt3WM27QXNhb6kenh"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182908,
+      "name": "Fare finta",
+      "url": "https://open.spotify.com/track/0oxCfIael0av7V8JCucC7q"
+    },
+    {
+      "album": {
         "name": "Fake News",
         "url": "https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,009 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,051 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Chandrakala Oo Chandrakala \(From "Shanmukha"\)](https://open.spotify.com/track/2rNgFg37XoxAE57fWC3xLl) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Chandrakala Oo Chandrakala \(From "Shanmukha"\)](https://open.spotify.com/album/1iMjRo2Iskv6ZHCh4ENh16) | 3:27 |
 | 50 | [Oohalona Oosulaade \(From "Kaalamega Karigindhi"\)](https://open.spotify.com/track/0v2GixBcMg7D1OdZXexk3D) | [Gudappan](https://open.spotify.com/artist/3aOMHvCiGDWFyiZAp2M17k), [Sai Madhav](https://open.spotify.com/artist/43jyzHaxxei3yv3UpVmfUc), [Aishwarya Daruri](https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf), [Singara Mohan](https://open.spotify.com/artist/0OZgZc5136oeAAfie9nVZd) | [Oohalona Oosulaade \(From "Kaalamega Karigindhi"\)](https://open.spotify.com/album/4X8LVbhCnfV2O8yTwb0Ml3) | 5:15 |
 
-Snapshot ID: `aGKqBgAAAABbeU9+WjCgyJJ2S4qGMq4H`
+Snapshot ID: `aGfliAAAAAD6qw/RijFsYvzgkLpb4zIJ`

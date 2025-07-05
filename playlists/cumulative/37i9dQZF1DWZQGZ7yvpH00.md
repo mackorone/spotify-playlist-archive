@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Panter Belico, Gabito Ballesteros en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Gemelos de Sinaloa en portada.
 
-482 songs - 1 day 2 hr 43 min
+483 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1004 Kilómetros](https://open.spotify.com/track/0pt0wjZNeFOMIeCudmXRrl) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico](https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv) | 4:37 | 2021-11-22 | 2022-07-09 |
 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 | 2023-05-12 |  |
 | [123](https://open.spotify.com/track/2HpaoTOD7dojn7e7S0NLzc) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [123](https://open.spotify.com/album/5Uj1vT6mKxxDjuzUb5DQFC) | 3:33 | 2023-07-14 | 2023-08-26 |
+| [130](https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/0wbnTjxysM59zeh4z4a5ID) | 3:03 | 2025-07-04 |  |
 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 | 2022-09-02 | 2023-01-28 |
 | [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-08-05 | 2023-02-18 |
 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 | 2023-01-27 | 2023-06-17 |
@@ -80,7 +81,7 @@
 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 | 2025-01-10 | 2025-03-11 |
 | [CLEOPATRA](https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [CLEOPATRA](https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag) | 3:25 | 2025-05-02 |  |
 | [CLVH \(with Julio Caesar\)](https://open.spotify.com/track/2QfbYP9hHRBPQNGxE8QoPJ) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [MEJOR SOLO </3](https://open.spotify.com/album/2ZtzyOFSMCOqV8yGCUBsD7) | 2:46 | 2025-05-30 |  |
-| [Como Me Siento](https://open.spotify.com/track/4G2XGaO1o80RoFx99h7sIP) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capitulo 3: El Dragón Para Siempre](https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb) | 3:19 | 2025-05-23 |  |
+| [Como Me Siento](https://open.spotify.com/track/4G2XGaO1o80RoFx99h7sIP) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capitulo 3: El Dragón Para Siempre](https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb) | 3:19 | 2025-05-23 | 2025-07-05 |
 | [Como Te Olvido](https://open.spotify.com/track/3UnPolWiDF49MjUr2w0gZh) | [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Ambiciones](https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7) | 3:53 | 2025-01-24 |  |
 | [Como Voy A Ser Feliz](https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Como Voy A Ser Feliz](https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId) | 2:53 | 2024-01-26 | 2024-03-16 |
 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 | 2025-01-10 |  |

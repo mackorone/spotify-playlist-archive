@@ -5069,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Duality (VIP)",
+        "url": "https://open.spotify.com/album/69PpLYqPXWsobyRrEQvVpe"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176353,
+      "name": "Duality - VIP",
+      "url": "https://open.spotify.com/track/4myFq10WACySlAAS0vGeTJ"
+    },
+    {
+      "album": {
         "name": "Eagle Rock",
         "url": "https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN"
       },

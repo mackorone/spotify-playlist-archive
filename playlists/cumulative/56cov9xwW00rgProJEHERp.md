@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-281 songs - 16 hr 11 min
+282 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Spanish is The Loving Tongue](https://open.spotify.com/track/2mIriSSWbDa2OHgtXuume7) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Spanish is The Loving Tongue](https://open.spotify.com/album/1J4Mnd8G3cJ1wjYsDjVSeu) | 4:41 | 2024-03-08 | 2024-05-25 |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-12-08 | 2024-05-04 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-10 | 2025-02-01 |
+| [Stay](https://open.spotify.com/track/1onCvJgV8VL9WSHsrfIl2I) | [Mikhail Laxton](https://open.spotify.com/artist/6WeoKwC3VvK3TtitaFqr19) | [Stay](https://open.spotify.com/album/7DTxFJL32yQaLVZygMqAgY) | 2:43 | 2025-07-04 |  |
 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 | 2023-12-08 | 2024-06-15 |
 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 | 2025-03-28 |  |
 | [Suitcase](https://open.spotify.com/track/127t3pQNgzyKuQMbuw79ve) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Suitcase](https://open.spotify.com/album/63IfPTlXRgA4Sl62LFddNQ) | 2:38 | 2025-06-20 |  |
@@ -247,7 +248,7 @@
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2023-12-08 | 2024-07-27 |
 | [That's Life](https://open.spotify.com/track/77815RO1IuoduqqoxRaC2n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/7i3h5FxsKCEFVvtKg2fZGs) | 3:43 | 2024-08-23 | 2025-03-08 |
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-27 |  |
-| [The Alchemist](https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist](https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC) | 3:32 | 2024-12-06 |  |
+| [The Alchemist](https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist](https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC) | 3:32 | 2024-12-06 | 2025-07-05 |
 | [The Bad Guy](https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [In Another Lifetime](https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO) | 3:16 | 2024-05-24 | 2024-09-07 |
 | [The Banks of The Lough Erne](https://open.spotify.com/track/72NQqlScymhPQuPe3haRyd) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [The Banks of The Lough Erne \(feat\. Erin Rae\)](https://open.spotify.com/album/4C5wWyXwZ6XthXF7GfjhUB) | 4:50 | 2024-04-12 | 2024-04-20 |
 | [The Bullfighter](https://open.spotify.com/track/1HgKUjJRScAcZD5WPhlACo) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Bullfighter](https://open.spotify.com/album/5OfwLDZVVkjuBFQFBKid9p) | 3:18 | 2025-02-21 |  |

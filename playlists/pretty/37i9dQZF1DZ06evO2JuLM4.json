@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 119285,
+  "num_followers": 119296,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAACILmmRLe0rN0a+F7kpT7TP",
+  "snapshot_id": "aGXIAAAAAAA5HoLIKcWlvjIG197qfsa8",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hand Springs",
-        "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 176045,
-      "name": "Hand Springs",
-      "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 126413,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hand Springs",
+        "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 176045,
+      "name": "Hand Springs",
+      "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 306453,
       "name": "Black Jack Davey",
       "url": "https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 132511,
-      "name": "Cool Drink Of Water Blues - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "City Lights (Previously Unreleased)",
         "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 290693,
       "name": "City Lights - Previously Unreleased",
       "url": "https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 132511,
+      "name": "Cool Drink Of Water Blues - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
     },
     {
       "added_at": null,

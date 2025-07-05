@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gippy Grewal & Sargun Mehta
 
-315 songs - 16 hr 14 min
+316 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-18 | 2025-02-26 |
 | [90Degree](https://open.spotify.com/track/6pCUdn2CoXIFwryZpuIk1z) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:16 | 2025-01-08 | 2025-06-19 |
 | [Aj Video Call Teh](https://open.spotify.com/track/2gJJeomolO5DPf0Q9vCPv6) | [Sukshinder Shinda](https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18) | [Forever](https://open.spotify.com/album/4CBYzMqxhpcCckNzJ5IdwX) | 3:49 | 2025-06-20 | 2025-06-25 |
+| [Akh Lag Gayi](https://open.spotify.com/track/0ji3bZHEal6kDITQeksnIa) | [Param Mundi](https://open.spotify.com/artist/6kB1qKGjh6mQ26UkZKioIR) | [Akh Lag Gayi](https://open.spotify.com/album/0aGSHNB9GfNcFqsyq4fIft) | 2:17 | 2025-07-04 |  |
 | [Akhiyan Chaar](https://open.spotify.com/track/10pbzkxHhIiT033xFUYBCd) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Akhiyan Chaar](https://open.spotify.com/album/5ejbNR7uA9bzWtkjglZW0x) | 3:00 | 2025-01-30 |  |
 | [Alone Jatt](https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 3:11 | 2025-01-08 |  |
 | [Amrood](https://open.spotify.com/track/4nFSf18DPrwGfkZB57gdTC) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Joga Jeezy](https://open.spotify.com/artist/45p8yyWjnJz8ds6uwTOKnD) | [Amrood](https://open.spotify.com/album/7hrHxEWeJDJOaesybrheHU) | 2:50 | 2025-06-06 | 2025-06-11 |
@@ -228,7 +229,7 @@
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2025-01-08 |  |
 | [Patili Chaa Di](https://open.spotify.com/track/3McpImTq4C6gA3UFAuZ9Hh) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Patili Chaa Di](https://open.spotify.com/album/369dmtIr8TdnVDlGK33XRP) | 3:14 | 2025-06-03 |  |
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2025-01-08 | 2025-03-20 |
-| [Pauna Crore](https://open.spotify.com/track/2sP6Nv4rglhNZoi7brcg4X) | [Boota Aklia](https://open.spotify.com/artist/5xFvjlU5uaj67ErkybedNZ) | [Pauna Crore](https://open.spotify.com/album/7nVUM54y7QHcA2wKkJovvr) | 2:44 | 2025-06-30 |  |
+| [Pauna Crore](https://open.spotify.com/track/2sP6Nv4rglhNZoi7brcg4X) | [Boota Aklia](https://open.spotify.com/artist/5xFvjlU5uaj67ErkybedNZ) | [Pauna Crore](https://open.spotify.com/album/7nVUM54y7QHcA2wKkJovvr) | 2:44 | 2025-06-30 | 2025-07-05 |
 | [Peg Te Bhangra](https://open.spotify.com/track/65wgSWsUxiK9Xwvyo81SAG) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Peg Te Bhangra](https://open.spotify.com/album/5mDKUZuY40vUIQb5nTnd3q) | 2:57 | 2024-06-21 | 2025-01-09 |
 | [Pehle Lalkare Naal Main Dar Gai \- Desi Remix](https://open.spotify.com/track/68RWov6fKPxwtlrnBqOUTc) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg), [Bhumik Raj](https://open.spotify.com/artist/5pcqn5mDxT6XKUBwSm2n8N) | [Pehle Lalkare Naal Main Dar Gai \- Desi Remix](https://open.spotify.com/album/61tQHjpdbo2qMvdv3Z73Lh) | 2:26 | 2024-10-16 | 2025-01-09 |
 | [Pehredaariyan](https://open.spotify.com/track/2vJaQC3GomnoivP7aIogz9) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Pehredaariyan](https://open.spotify.com/album/3mt8nNSKMHPei2Tb8GmWE0) | 2:51 | 2025-01-08 |  |

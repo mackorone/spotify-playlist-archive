@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest\)
 
-361 songs - 17 hr 37 min
+362 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Belle en het Beest](https://open.spotify.com/track/1RmLvvcyEVyneZAVFW12V4) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p) | [Belle en het Beest](https://open.spotify.com/album/3qOmLtjmAMzj39Hejmgq7N) | 2:47 | 2025-04-11 | 2025-05-23 |
 | [Beter Af Alleen](https://open.spotify.com/track/095QobOSVFoh2sg3cZRhRa) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Beter Af Alleen](https://open.spotify.com/album/5nW6DK4CfTp6Z5vUj8TQKp) | 3:11 | 2024-10-03 | 2025-02-28 |
 | [Blauwe Plekken](https://open.spotify.com/track/38uMqZZ9ms5cVbrOwJyQBT) | [Raoel](https://open.spotify.com/artist/0BMgHUFkZZAdzv6VNXoIv4) | [Blauwe Plekken](https://open.spotify.com/album/72aNDQTfy9CMFbFFA0ZZRJ) | 2:51 | 2024-10-10 | 2024-11-08 |
-| [Blijf altijd bij mij](https://open.spotify.com/track/1Kfd6LtG1zLGkcNBeYNK9U) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Blijf altijd bij mij](https://open.spotify.com/album/4xi6PBkcfFTA8Xhgf19Jgl) | 2:36 | 2025-06-12 |  |
+| [Blijf altijd bij mij](https://open.spotify.com/track/1Kfd6LtG1zLGkcNBeYNK9U) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Blijf altijd bij mij](https://open.spotify.com/album/4xi6PBkcfFTA8Xhgf19Jgl) | 2:36 | 2025-06-12 | 2025-07-05 |
 | [Blijf Bij Mij](https://open.spotify.com/track/4a3k5MpyuTYfAWiZknc0bj) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Blijf Bij Mij](https://open.spotify.com/album/3pipl4FxxkmuTJdZYYlwI8) | 2:21 | 2024-06-13 | 2024-09-06 |
 | [Blijf Nog Even Open](https://open.spotify.com/track/6SCRUa7JgPJsipP9HaWUKF) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Blijf Nog Even Open](https://open.spotify.com/album/1917AO9yTHNS06uTepMmVW) | 2:42 | 2024-06-13 | 2024-11-05 |
 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 | 2024-09-26 | 2025-03-28 |
@@ -184,6 +184,7 @@
 | [Kameraden](https://open.spotify.com/track/4HU1ixk3hDB51dSqzMsDFT) | [Ancora](https://open.spotify.com/artist/6XNz9WBY0eqg95kZxbHnJZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Jan Keizer](https://open.spotify.com/artist/1pADHrgtnPgv0TO0j8V8S6) | [Kameraden](https://open.spotify.com/album/14FyazPIwBSqIIqxxrjSz2) | 2:49 | 2024-09-26 | 2025-01-11 |
 | [Kan Het Ook Later](https://open.spotify.com/track/4UvEz0QvMjhGTvCgkMNGAG) | [FeestDJRuud](https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Kan Het Ook Later](https://open.spotify.com/album/55ziC8FL68Gy3HIoAxjoc0) | 2:40 | 2025-02-07 | 2025-05-02 |
 | [Kater Van De Liefde](https://open.spotify.com/track/63nNz8FdlSc5TmxZ8soTej) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Kater Van De Liefde](https://open.spotify.com/album/4A8yq22J8ljbYLCFBkcRWo) | 3:07 | 2024-10-18 | 2024-11-29 |
+| [Kijk Om Je Heen](https://open.spotify.com/track/3U5KWLt1lWCIQIlpoxEGiU) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Kijk Om Je Heen](https://open.spotify.com/album/3SKNynZrP8QFY4jL6NJELH) | 3:36 | 2025-07-04 |  |
 | [King Van De Camping \- Ferry Bouman](https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI) | [Frank Lammers](https://open.spotify.com/artist/29dtP6x6ulMqlK0AydxvXc) | [King Van De Camping \(Ferry Bouman\)](https://open.spotify.com/album/0mheUJEFtEwhKn30gJt9x8) | 2:41 | 2024-12-12 | 2025-03-14 |
 | [Kleine After](https://open.spotify.com/track/1RlvrCBtdbogpHYnrSL1Nq) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kleine After](https://open.spotify.com/album/1rMiNhxe1SzzQRkhSZSbYx) | 2:34 | 2024-09-12 | 2024-12-13 |
 | [Kleine Meid](https://open.spotify.com/track/76FzoYmWYRX5e7NvYOLFai) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Kleine Meid](https://open.spotify.com/album/5DVSNlsQMv8pi5AGUaPQkd) | 3:31 | 2025-01-28 | 2025-04-18 |

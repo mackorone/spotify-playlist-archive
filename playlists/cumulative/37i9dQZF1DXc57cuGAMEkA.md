@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Creepy Nuts, Kesha, 羊文学, Foo Fighters and more!
 
-10,155 songs - 23 day 15 hr 19 min
+10,158 songs - 23 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [Begin Again](https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Begin Again](https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr) | 2:53 | 2023-06-01 | 2023-06-09 |
 | [Begin Again \- Single Edit](https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Begin Again](https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21) | 3:37 | 2023-04-13 | 2023-04-21 |
 | [Behind](https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs) | 3:18 | 2023-12-28 | 2024-01-05 |
+| [Behold](https://open.spotify.com/track/6eGWfTWDI764YbUeI9dswF) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [GDLU \(Preluxe\)](https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ) | 2:35 | 2025-07-03 |  |
 | [BEING PURE AT HEART〜ありのままでいいんじゃない](https://open.spotify.com/track/7IbILtOcMROuyhNQToLXjO) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [BEING PURE AT HEART〜ありのままでいいんじゃない](https://open.spotify.com/album/1uFvwRZ2Sy9ECwhipKD0TB) | 2:14 | 2024-03-14 | 2024-03-22 |
 | [Being Stupid Again](https://open.spotify.com/track/7iZz3SW9XR2YOB0L15r5Gj) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [End Of World](https://open.spotify.com/album/5P7qtegvoQBNRVnooNCdoI) | 4:32 | 2023-08-10 | 2023-08-18 |
 | [Bekhauf \(feat\. BABYMETAL\)](https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Bekhauf \(feat\. BABYMETAL\)](https://open.spotify.com/album/6J8ujkbzjxaBofiBg3TLRk) | 3:48 | 2024-12-05 | 2024-12-13 |
@@ -7468,6 +7469,7 @@
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-23 | 2025-01-31 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 | 2024-09-27 |
 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 | 2024-04-26 | 2024-05-03 |
+| [Spotlight](https://open.spotify.com/track/1apk1NLMkVRJhTdUk1dV11) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Spotlight](https://open.spotify.com/album/7nGI2OQ5jZosc6Ezew6Lye) | 2:58 | 2025-07-03 |  |
 | [SPOTLIGHT \(Feat\. LEX\)](https://open.spotify.com/track/4gkpHKZKDYb5oLmkQwaxeW) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SWEET HE♡RT](https://open.spotify.com/album/55QqeroaRqbgA9wp4mIQHo) | 2:37 | 2024-05-02 | 2024-05-10 |
 | [SPOTLIGHT \- MATZ Remix](https://open.spotify.com/track/003ipehvhVcI2kKYNWos86) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD) | [SPOTLIGHT Remixes](https://open.spotify.com/album/0EH7P8arHvOXY2lqz20v1M) | 3:20 | 2025-04-24 | 2025-05-02 |
 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-13 | 2024-06-21 |
@@ -9621,6 +9623,7 @@
 | [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 | 2023-10-01 |
 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 | 2025-05-30 | 2025-06-06 |
 | [デコグラデーション](https://open.spotify.com/track/1fOcVWr4ZACKuW9eet8SS4) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [デコグラデーション](https://open.spotify.com/album/3mU9WRxTFxcFTgyFAuvZ33) | 3:17 | 2025-03-20 | 2025-03-28 |
+| [デッドエンド](https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy), [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn), [ざらばんし](https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij) | [デッドエンド](https://open.spotify.com/album/50hmckAxnEiUNUA2rx2Fxh) | 2:12 | 2025-07-03 |  |
 | [デッドエンド](https://open.spotify.com/track/505amJN26gbUe9tb9FtZL5) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:40 | 2024-03-14 | 2024-03-22 |
 | [ドキメキダイアリー](https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q) | 3:19 | 2023-04-13 | 2023-04-21 |
 | [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 | 2023-02-17 |

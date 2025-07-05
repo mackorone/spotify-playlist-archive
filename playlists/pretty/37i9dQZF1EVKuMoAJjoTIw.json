@@ -1,68 +1,60 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYbzNugsAfnh>Cheema Y</a>, <a href=spotify:playlist:37i9dQZF1EIWUC9LobrpBL>The Lonely Tree</a>, <a href=spotify:playlist:37i9dQZF1EIW5eqfxYp1JJ>Vishal Mishra</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXsXQ30glNSL>Luis Miguel</a>, <a href=spotify:playlist:37i9dQZF1EIX7l9gfEbi0Q>Shinedown</a>, <a href=spotify:playlist:37i9dQZF1EIXi5Zr2cdp0s>Strawberry Guy</a> and more",
   "num_followers": 0,
   "original_name": "Moody Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAnrz53gA4l3xYHPdoZjUK4",
+  "snapshot_id": "AAAAAAAAAABQUC0wwKCcXfxZZRy2BuC2",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Dripster",
-        "url": "https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
-          "name": "Cheema Y",
-          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Necklace",
-      "url": "https://open.spotify.com/track/5Pjn1aQS59ET5lJQminZTd"
+      "duration_ms": 214506,
+      "name": "Como Yo Te Am\u00e9",
+      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Killswitch Lullaby (Remixes)",
-        "url": "https://open.spotify.com/album/0pDz9K5o03JVFxkateLErs"
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
       },
       "artists": [
         {
-          "name": "The Lonely Tree",
-          "url": "https://open.spotify.com/artist/6lpbNvU6UQz0VOYYZClvay"
-        },
-        {
-          "name": "Flawed Mangoes",
-          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 166285,
-      "name": "Killswitch Lullaby (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/6UEavK4FwqZNqQU59DtA2E"
+      "duration_ms": 222200,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Love Feels with Vishal Mishra",
-        "url": "https://open.spotify.com/album/6TmVjiKcgXt8N4FE94t4uG"
+        "name": "Taking My Time to Be",
+        "url": "https://open.spotify.com/album/2ljZoj8pjImMAznXAkeJne"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         }
       ],
-      "duration_ms": 259056,
-      "name": "Aaj Bhi 2",
-      "url": "https://open.spotify.com/track/16kUphL69BBLbrpl4bPXiB"
+      "duration_ms": 110181,
+      "name": "Intermission",
+      "url": "https://open.spotify.com/track/4hm33jVolpa22nzhlY72jD"
     },
     {
       "added_at": null,

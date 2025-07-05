@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: La Zarra",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Olivier Dion",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "LA VIE RAPIDE DELUXE",
+        "url": "https://open.spotify.com/album/3Ak2FkMeHSvUuKJCbYu5f3"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165298,
+      "name": "ANTAGONISTE",
+      "url": "https://open.spotify.com/track/77ga6v2NfRoFVXbljkvZf4"
+    },
+    {
+      "album": {
         "name": "Vingt-deux",
         "url": "https://open.spotify.com/album/3fmOPx6xuF1RA9yPunOwis"
       },
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 152250,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/2SMOKmrjKkddAZEdECbMVD"
@@ -10484,7 +10502,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 196363,
       "name": "CHROME HEARTS",
       "url": "https://open.spotify.com/track/4ZlaY8an3Sk87sW9m0mkil"
@@ -10542,7 +10560,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 198586,
       "name": "Ch\u00e2teau de sable",
       "url": "https://open.spotify.com/track/4c9YqPthFT6LIFSQehoZre"
@@ -13882,7 +13900,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 211306,
       "name": "Dans 10 ans",
       "url": "https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS"
@@ -14028,6 +14046,24 @@
       "duration_ms": 158006,
       "name": "Dans la moyenne",
       "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
+    },
+    {
+      "album": {
+        "name": "Dans la temp\u00eate",
+        "url": "https://open.spotify.com/album/5I117UybmWve5CM5xqlGqm"
+      },
+      "artists": [
+        {
+          "name": "Olivier Dion",
+          "url": "https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150032,
+      "name": "Dans la temp\u00eate",
+      "url": "https://open.spotify.com/track/0oDgk7tWYXUxap3yrlW41T"
     },
     {
       "album": {
@@ -15782,7 +15818,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 165433,
       "name": "Diva",
       "url": "https://open.spotify.com/track/1hw14CKqbSyToyfc0QVdkK"
@@ -18426,7 +18462,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 161463,
       "name": "Entre nous",
       "url": "https://open.spotify.com/track/1HkH3VrIrdfSUMEaz5FBbh"
@@ -19080,7 +19116,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 165866,
       "name": "Extraordinaire",
       "url": "https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt"
@@ -22026,7 +22062,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 152187,
       "name": "GENS DU PAYS",
       "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
@@ -22526,7 +22562,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 153828,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5caiMGkiOJtDOpYv3C17df"
@@ -24112,6 +24148,28 @@
       "duration_ms": 152411,
       "name": "HWMB",
       "url": "https://open.spotify.com/track/6vl6Do3EvEys2PPbWGWzr9"
+    },
+    {
+      "album": {
+        "name": "HYBRIDE",
+        "url": "https://open.spotify.com/album/1Hp9Bdb9ynJC5W1kKyvXoE"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "EL GARRA",
+          "url": "https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172349,
+      "name": "HYBRIDE",
+      "url": "https://open.spotify.com/track/3vue2IMSRJeWN5A9NQc3cL"
     },
     {
       "album": {
@@ -32973,6 +33031,24 @@
     },
     {
       "album": {
+        "name": "Le jour est morne",
+        "url": "https://open.spotify.com/album/0ZtZTdoDajVToyzzRjguFs"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220320,
+      "name": "Le jour est morne",
+      "url": "https://open.spotify.com/track/43eSwHzPZ1hKxQQtSIeSET"
+    },
+    {
+      "album": {
         "name": "Je reviens de voyage",
         "url": "https://open.spotify.com/album/0hhsR5J3vUJPt3MReC5FSR"
       },
@@ -33990,6 +34066,28 @@
       "duration_ms": 302893,
       "name": "Leitmotiv",
       "url": "https://open.spotify.com/track/15hkBz9ac754HWEx1qXQQm"
+    },
+    {
+      "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/6rBBlKKskNWHwx62nKXegq"
+      },
+      "artists": [
+        {
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
+        },
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "LEMONS",
+      "url": "https://open.spotify.com/track/4K9HeFNpABcOGQUgi9uUzN"
     },
     {
       "album": {
@@ -38058,7 +38156,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 110413,
       "name": "Manuel de vengeance",
       "url": "https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh"
@@ -41528,7 +41626,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 128571,
       "name": "M\u00eame Vie",
       "url": "https://open.spotify.com/track/4AGpgDwYoMY5zxTES6vhVZ"
@@ -50040,7 +50138,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 198133,
       "name": "Quoi qu'il arrive \u00e7a va aller",
       "url": "https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc"
@@ -54293,6 +54391,28 @@
     },
     {
       "album": {
+        "name": "Si j'avais su",
+        "url": "https://open.spotify.com/album/3egGk5OtB2oJSd5W8kGlXb"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149356,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/239IKlDKrzCDdisFHxfJY0"
+    },
+    {
+      "album": {
         "name": "Si j'savais",
         "url": "https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC"
       },
@@ -55860,6 +55980,24 @@
       "duration_ms": 208586,
       "name": "SQ Remix",
       "url": "https://open.spotify.com/track/3m5QW5miEWmUOmD8yK7KdO"
+    },
+    {
+      "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120199,
+      "name": "St-Lau",
+      "url": "https://open.spotify.com/track/556A9uNcU31SkPyJcmZXYS"
     },
     {
       "album": {
@@ -61948,7 +62086,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 183092,
       "name": "Une rose \u00e0 la fois",
       "url": "https://open.spotify.com/track/7ARU11M9zMJyCnF9FMXeNS"
@@ -63242,7 +63380,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 147157,
       "name": "Voyou",
       "url": "https://open.spotify.com/track/5tQLPuhi9pJhxSD6pjm6Ek"
@@ -63508,7 +63646,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "WANTA",
       "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"

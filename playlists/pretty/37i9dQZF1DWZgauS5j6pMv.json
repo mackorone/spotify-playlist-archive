@@ -1,13 +1,53 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 344396,
+  "num_followers": 344425,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuibAAAAAA49yBa0Fqns02wxVNGqS9t",
+  "snapshot_id": "aGdR0wAAAAD+GSNgHrhEHzhZo4Fgy83f",
   "tracks": [
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/3orMsnyHs4XWPC8gB88Jww"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "THANKYOUFATMATT",
+          "url": "https://open.spotify.com/artist/2qVAVNt1XNBF6BSfpyvarm"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/2NQzZV9E14hnJRKaFBq29v"
+    },
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
+        "name": "Air2Nite",
+        "url": "https://open.spotify.com/album/4lc1AJuRDfYFc66v06UD79"
+      },
+      "artists": [
+        {
+          "name": "Mishell Ivon",
+          "url": "https://open.spotify.com/artist/5PAXTWUw6VJdKHpGafv7yd"
+        },
+        {
+          "name": "Andrew Napoleon",
+          "url": "https://open.spotify.com/artist/4KT3b8EB95e3gD5d9nIo5M"
+        }
+      ],
+      "duration_ms": 170301,
+      "name": "Air2Nite",
+      "url": "https://open.spotify.com/track/3uvGR5wiF6TZNedHbUmE1G"
+    },
     {
       "added_at": "2025-06-13 04:00:44",
       "album": {
@@ -1209,22 +1249,6 @@
       "url": "https://open.spotify.com/track/4GSYsEcIHfmdVdglO8PY9j"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Preshow Music",
-        "url": "https://open.spotify.com/album/5IObpymLC1NwUeVDV3Jw3e"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hawley",
-          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
-        }
-      ],
-      "duration_ms": 234875,
-      "name": "Can't Steal My Heaven",
-      "url": "https://open.spotify.com/track/5O5zZIKZRKwwNDlg8oJz4q"
-    },
-    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "How You Feel",
@@ -1647,34 +1671,6 @@
       "duration_ms": 194986,
       "name": "Sepricon",
       "url": "https://open.spotify.com/track/2FG43kVwZ84Q4o8mbJ2DhC"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Drip Feed",
-        "url": "https://open.spotify.com/album/7rrEsShvbbzukQD3TVn8cf"
-      },
-      "artists": [
-        {
-          "name": "Black Caviar",
-          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
-        },
-        {
-          "name": "Rion S",
-          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
-        },
-        {
-          "name": "DOMENICO",
-          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
-        },
-        {
-          "name": "Prince Street Bodega",
-          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Drip Feed",
-      "url": "https://open.spotify.com/track/5fhIrC32KM91BM9z4OVMnh"
     },
     {
       "added_at": "2024-05-03 04:01:00",

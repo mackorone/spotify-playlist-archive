@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Tasha Cobbs Leonard",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: William Murphy",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 286437,
       "name": "Good Morning - Live",
       "url": "https://open.spotify.com/track/6Ig52FtLA9NiOl1QmRdfdf"
@@ -8260,7 +8260,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 435240,
       "name": "My Lover (Live)",
       "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
@@ -8628,6 +8628,24 @@
       "duration_ms": 677496,
       "name": "No Failure (Hymn)",
       "url": "https://open.spotify.com/track/35LWvBeu7NgSsp80iksPfg"
+    },
+    {
+      "album": {
+        "name": "Payback (Live)",
+        "url": "https://open.spotify.com/album/1DU9sVDdYQJdxijVlF7zgZ"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305529,
+      "name": "No Failure - Live",
+      "url": "https://open.spotify.com/track/3M0yx7w2xV6BeBxZlYnAk6"
     },
     {
       "album": {
@@ -13246,6 +13264,24 @@
       "duration_ms": 161095,
       "name": "When the Praises Go Up (The Blessings Come Down) - Remix",
       "url": "https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W"
+    },
+    {
+      "album": {
+        "name": "When You Say A Thing",
+        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239076,
+      "name": "When You Say A Thing",
+      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
     },
     {
       "album": {

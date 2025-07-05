@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 128018,
+  "num_followers": 128045,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 189000,
       "name": "1999",
       "url": "https://open.spotify.com/track/05mAIVLkIWc2d1UBYZBCp8"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Wasabi",
-      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "G.R.L.",
         "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
       },
       "artists": [
         {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
         }
       ],
-      "duration_ms": 219093,
-      "name": "I Don't Need A Man",
-      "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
+      "duration_ms": 196306,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
       },
       "artists": [
         {
-          "name": "Lindsay Lohan",
-          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
+      "duration_ms": 219093,
+      "name": "I Don't Need A Man",
+      "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Move To This (Polydor Expanded Edition)",
-        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
-      },
-      "artists": [
-        {
-          "name": "Cathy Dennis",
-          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Touch Me (All Night Long) - 7\" Mix",
-      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "SuperLove",
         "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 193163,
       "name": "SuperLove",
       "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Move To This (Polydor Expanded Edition)",
+        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
+      },
+      "artists": [
+        {
+          "name": "Cathy Dennis",
+          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Touch Me (All Night Long) - 7\" Mix",
+      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Playlist: The Very Best Of Kelly Rowland",
+        "url": "https://open.spotify.com/album/25h3hmV7iot9lZlhjsmmHz"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Work - Freemasons Radio Edit",
+      "url": "https://open.spotify.com/track/1foEfzZaWdicH22pCxx52P"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 176947,
       "name": "Wave (feat. Mike Sabath)",
       "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Playlist: The Very Best Of Kelly Rowland",
-        "url": "https://open.spotify.com/album/25h3hmV7iot9lZlhjsmmHz"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Work - Freemasons Radio Edit",
-      "url": "https://open.spotify.com/track/1foEfzZaWdicH22pCxx52P"
     },
     {
       "added_at": "2024-06-02 21:23:10",

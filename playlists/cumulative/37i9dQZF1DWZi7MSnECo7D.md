@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Superafim
+> Música brasileira fora da curva\. Foto: Mateus Fazeno Rock
 
-782 songs - 1 day 20 hr 23 min
+783 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Como Me Dói](https://open.spotify.com/track/5AZc8v8x5svqEnsOQYY9kY) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [Clube Dezenove](https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT) | [Como Me Dói](https://open.spotify.com/album/3g7BficCAod2FcfAyLCXVF) | 2:36 | 2023-10-13 | 2023-12-02 |
 | [Como Vai Você?](https://open.spotify.com/track/0jZGKkbAt7bTKEdmUkH0o6) | [Gabriel Campos](https://open.spotify.com/artist/3jBbW1WUmpJF8lwJm3rQxb) | [Como Vai Você?](https://open.spotify.com/album/57I1bIi2uAeUylTILpAJkJ) | 3:28 | 2023-02-03 | 2023-03-03 |
 | [Consciente](https://open.spotify.com/track/44DfRvxTdq4taWVWeuuRjI) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Consciente](https://open.spotify.com/album/5uapryf0liDLNKnjjGycQD) | 2:57 | 2024-12-20 |  |
-| [Contramão](https://open.spotify.com/track/0lnmNrF8OlP3c4yyA5nDfn) | [Papôla](https://open.spotify.com/artist/75QtFEkddr2y6u35NZtG7I) | [Contramão](https://open.spotify.com/album/2lNbjxSBRCWxolD5x5eVqa) | 4:45 | 2025-01-17 |  |
+| [Contramão](https://open.spotify.com/track/0lnmNrF8OlP3c4yyA5nDfn) | [Papôla](https://open.spotify.com/artist/75QtFEkddr2y6u35NZtG7I) | [Contramão](https://open.spotify.com/album/2lNbjxSBRCWxolD5x5eVqa) | 4:45 | 2025-01-17 | 2025-07-05 |
 | [Contramão](https://open.spotify.com/track/1CO9fTr4r9C9mFd8pMJh4W) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Plutão Já Foi Planeta](https://open.spotify.com/album/74Y9K1oIR6alco7bScWIYx) | 3:29 | 2023-09-01 | 2024-03-02 |
 | [Contramão](https://open.spotify.com/track/5vxVf4x310ltfa2sVwMZRq) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Plutão Já Foi Planeta](https://open.spotify.com/album/443v0AsX5FFio7iX23rxse) | 3:29 | 2023-08-18 | 2023-09-02 |
 | [Convenções Humanas](https://open.spotify.com/track/08MJeBwFr7XF74jSHVTrZv) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Convenções Humanas](https://open.spotify.com/album/64dFOgBTk4vXAJbkb9O6gu) | 4:18 | 2022-02-25 | 2023-05-20 |
@@ -404,6 +404,7 @@
 | [Melhor Assim](https://open.spotify.com/track/6LasRNS5VpIoGLx8LmCXxM) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [Y](https://open.spotify.com/album/7MLJDclnjQfoTzmAYzsebI) | 3:21 | 2025-05-09 |  |
 | [Melhor de Três](https://open.spotify.com/track/4rQfTr0ugCFFQTMhWGRQBZ) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Melhor de Três](https://open.spotify.com/album/3jBdU1dOvwq9hnsSAZ5OyV) | 3:15 | 2024-04-26 | 2024-08-17 |
 | [Melô de Aparecida](https://open.spotify.com/track/1e0hVVG6zKxTQvY0lLDQPn) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô de Aparecida](https://open.spotify.com/album/4vs3woZjO8j9L303tEhWxB) | 2:58 | 2023-01-27 | 2023-03-18 |
+| [Melô do Sossego](https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô do Sossego](https://open.spotify.com/album/5qzdvVJmvb6gk05ftG0tB0) | 3:56 | 2025-07-04 |  |
 | [MENINA LINDA](https://open.spotify.com/track/5MAO8iHLDVnfmWPDyPzU4a) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Dois Quartos](https://open.spotify.com/artist/3JsaihYkRDSTkIgQbxSUto) | [MENINA LINDA](https://open.spotify.com/album/0OmfyYuXhDFZkdiqaNGkrA) | 2:37 | 2022-02-11 | 2022-03-12 |
 | [Menina Uh Uh](https://open.spotify.com/track/2LqzKuAtEl9MvHigNIUdBg) | [Tuzera](https://open.spotify.com/artist/3s0liW6FMQi0jZ3cHpU2pU) | [Você Não É Especial](https://open.spotify.com/album/75Bk9Jt2cNlfSnnKh3Ip0e) | 2:21 | 2023-02-03 | 2023-03-03 |
 | [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-14 | 2023-11-18 |

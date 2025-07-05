@@ -4,7 +4,7 @@
 
 > New music from 3P, BABYMONSTER, Kesha, Sydney Rose, and more!
 
-16,580 songs - 37 day 22 hr 59 min
+16,581 songs - 37 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13790,6 +13790,7 @@
 | [Tidy It Up](https://open.spotify.com/track/2IMApMqroeh14nmD6ZTC5I) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Tidy It Up](https://open.spotify.com/album/1mscxm5YSjOrkPwKWpbgpQ) | 2:35 | 2025-06-19 | 2025-06-27 |
 | [TIED UP](https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [TIED UP](https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG) | 2:23 | 2024-05-30 | 2024-06-07 |
 | [Tiger \(New Flavour\)](https://open.spotify.com/track/0KiIRYYzMRXfvcPARTz5oM) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 2nd MINI ALBUM Repackage ‘Tiger‘](https://open.spotify.com/album/0ORMKuIl5wSETYzur33uK9) | 2:44 | 2024-07-18 | 2024-07-27 |
+| [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/track/25DeCJkbJNacQt3dfPT9st) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/album/24OBRgl45p0zr0CV7zCHIf) | 3:00 | 2025-07-03 |  |
 | [TIKTIKTOKIN](https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [TIKTIKTOKIN](https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs) | 2:05 | 2023-03-16 | 2023-03-25 |
 | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K) | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1) | 3:02 | 2025-07-03 |  |
 | [Till I Live](https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Till I Live](https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH) | 4:28 | 2023-10-19 | 2023-10-27 |

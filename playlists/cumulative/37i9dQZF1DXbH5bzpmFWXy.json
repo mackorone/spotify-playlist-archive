@@ -4625,6 +4625,28 @@
     },
     {
       "album": {
+        "name": "Gatito",
+        "url": "https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178043,
+      "name": "Gatito",
+      "url": "https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE"
+    },
+    {
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -8302,6 +8324,28 @@
       "duration_ms": 181100,
       "name": "Pa Mis Loc@S",
       "url": "https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl"
+    },
+    {
+      "album": {
+        "name": "Pa Sus Chiklez y Su Cumbiaton",
+        "url": "https://open.spotify.com/album/2Mx9iH9veWhHLosmlRQSgJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Naxssy",
+          "url": "https://open.spotify.com/artist/7I3EenS7fbjXWsY7JTamHm"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131611,
+      "name": "Pa Sus Chiklez y Su Cumbiaton",
+      "url": "https://open.spotify.com/track/1EquwXlm8ruGbtVxcRmtoZ"
     },
     {
       "album": {
@@ -12006,7 +12050,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 149700,
       "name": "XClusive",
       "url": "https://open.spotify.com/track/46defqRhyto8kFovVjc36n"
@@ -12174,7 +12218,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 172618,
       "name": "\u00bfKHE SOMOS?",
       "url": "https://open.spotify.com/track/2LNzSghlScx0qEDInydjip"

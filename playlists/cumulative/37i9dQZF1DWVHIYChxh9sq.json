@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Edgardo Nu\u00f1ez",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Codiciado y Edgardo Nu\u00f1ez",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 328301,
       "name": "A Mi Manera - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
       "url": "https://open.spotify.com/track/5uHGmZtbFPrrkzY0rrQtQm"
@@ -620,6 +620,28 @@
       "duration_ms": 192457,
       "name": "Amor Falso - En Vivo",
       "url": "https://open.spotify.com/track/3zzm0N0fxALsRHwOLKhHmp"
+    },
+    {
+      "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "album": {
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 173053,
       "name": "Chingo A Mi Madre - En Vivo",
       "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
@@ -1336,7 +1358,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
@@ -1851,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "Borrachos (En Vivo)",
+        "url": "https://open.spotify.com/album/0WUcY66oLB8uAQkYTINrja"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "Cuanto Me Gusta Este Rancho - En Vivo",
+      "url": "https://open.spotify.com/track/0WheWPfgsQEcpdUFfAbH3D"
+    },
+    {
+      "album": {
         "name": "Cul\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/2hF7FIU53g2uyCGBvjnsqB"
       },
@@ -1910,7 +1954,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
@@ -2070,7 +2114,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 218634,
       "name": "DE SOBREMANERA - EN VIVO",
       "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
@@ -3752,7 +3796,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 183293,
       "name": "El Muchacho Alegre (En Vivo)",
       "url": "https://open.spotify.com/track/5Be3wsPCaICO4AVggp9ZuM"
@@ -4028,6 +4072,24 @@
       "duration_ms": 196080,
       "name": "El Precio De La Soledad - En Vivo",
       "url": "https://open.spotify.com/track/6AQEerPhCJhnJ9qTNcIzPK"
+    },
+    {
+      "album": {
+        "name": "El Proceso (En Vivo)",
+        "url": "https://open.spotify.com/album/3LCnhWUQC7ugoCWQgkSyCe"
+      },
+      "artists": [
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195875,
+      "name": "El Proceso - En Vivo",
+      "url": "https://open.spotify.com/track/0UK3yoRU95qu489aXFf6CJ"
     },
     {
       "album": {
@@ -5146,7 +5208,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 160501,
       "name": "Gente Del Flaco (En Vivo)",
       "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
@@ -5284,7 +5346,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 212688,
       "name": "Hablemos - Live",
       "url": "https://open.spotify.com/track/1puzMBz3y9RgaqfXAGv383"
@@ -6399,6 +6461,24 @@
     },
     {
       "album": {
+        "name": "La Picar\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHn0TzKPgVh2cchtli8yA"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201582,
+      "name": "La Picar\u00e9 (En Vivo)",
+      "url": "https://open.spotify.com/track/0dS2UvZBfzdeLGNe0C6rtL"
+    },
+    {
+      "album": {
         "name": "La Belikenzia (En Vivo)",
         "url": "https://open.spotify.com/album/3Y8J8lgCluTfikb6feaI8N"
       },
@@ -7112,6 +7192,28 @@
       "duration_ms": 192906,
       "name": "Los Ninis - En Vivo",
       "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
+    },
+    {
+      "album": {
+        "name": "Los Pajaros (En Vivo)",
+        "url": "https://open.spotify.com/album/3xJk5ThULYCRqlcWwl0KA8"
+      },
+      "artists": [
+        {
+          "name": "Manuel Felix",
+          "url": "https://open.spotify.com/artist/13HJiI3SSgZsti6wzZk3uz"
+        },
+        {
+          "name": "Juan Salazar",
+          "url": "https://open.spotify.com/artist/7pbYRngC3tB7ivvHAOkTdK"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183210,
+      "name": "Los Pajaros - En Vivo",
+      "url": "https://open.spotify.com/track/4fGSnFDsKG4URxviFeAjzE"
     },
     {
       "album": {
@@ -9732,7 +9834,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 206792,
       "name": "Te Metiste - Live",
       "url": "https://open.spotify.com/track/74GchIxY1V3NEKOSKt0mDy"
@@ -9772,6 +9874,28 @@
       "duration_ms": 180542,
       "name": "Te Vi Con \u00c9l",
       "url": "https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR"
+    },
+    {
+      "album": {
+        "name": "Te Voy A Amar (En Vivo)",
+        "url": "https://open.spotify.com/album/1x2NskCBNshzTbfR5YmCG8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Te Voy A Amar - En Vivo",
+      "url": "https://open.spotify.com/track/5Z2uCELdECtX0Ar9YzoOQ0"
     },
     {
       "album": {
@@ -10350,6 +10474,24 @@
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+    },
+    {
+      "album": {
+        "name": "Y Si Me Vuelvo A Enamorar (En Vivo)",
+        "url": "https://open.spotify.com/album/4AfwpSpn0gpJojQdRw4tMo"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Y Si Me Vuelvo A Enamorar - En Vivo",
+      "url": "https://open.spotify.com/track/3SUZvddmXQ6lE6XWSDoRRf"
     },
     {
       "album": {

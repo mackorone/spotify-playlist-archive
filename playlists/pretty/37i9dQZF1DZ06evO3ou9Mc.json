@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 418688,
+  "num_followers": 418768,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAABLJqpaK4LPzDGqlhf8x/OA",
+  "snapshot_id": "aGXIAAAAAADiuTMOCS2W5TZAkq34qwET",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ignition (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 152466,
+      "name": "Session - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
       },
@@ -639,18 +655,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignition (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
+        "name": "Looking Out For #1",
+        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
+        },
+        {
+          "name": "Adam Greenholtz",
+          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Session - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
+      "duration_ms": 150553,
+      "name": "Looking Out For #1 - Ska Version",
+      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
     },
     {
       "added_at": null,
@@ -687,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Out For #1",
-        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Bob Rock",
-          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
-        },
-        {
-          "name": "Adam Greenholtz",
-          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
-        }
-      ],
-      "duration_ms": 150553,
-      "name": "Looking Out For #1 - Ska Version",
-      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 142413,
-      "name": "Dividing By Zero",
-      "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERCHARGED",
         "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 120346,
       "name": "Truth In Fiction",
       "url": "https://open.spotify.com/track/1gx6wJfh9vN3kez2xsGDbN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 142413,
+      "name": "Dividing By Zero",
+      "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
     },
     {
       "added_at": null,

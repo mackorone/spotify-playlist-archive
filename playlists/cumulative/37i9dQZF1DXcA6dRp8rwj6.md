@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Chance the Rapper\)
 
-2,902 songs - 6 day 2 hr 37 min
+2,903 songs - 6 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 | 2022-12-01 | 2022-12-10 |
 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-12 | 2024-08-23 |
 | [Catch \(Feat\. Hwa Sa\)](https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Strawberry](https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd) | 3:44 | 2023-02-02 | 2023-03-25 |
+| [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 | 2025-07-03 |  |
 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 | 2024-02-22 | 2024-05-03 |
 | [Celebrate](https://open.spotify.com/track/1HRmXrpgzEgWJRGiIKHTl0) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Celebrate](https://open.spotify.com/album/6luzuOHCjfR1zkzjKCcY4S) | 2:55 | 2025-02-21 | 2025-04-04 |
 | [Cell 245 \- Prison Tapes](https://open.spotify.com/track/64URMxToWOIrQ5yzNTePnS) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Cell 245 \- Prison Tapes](https://open.spotify.com/album/0e1i4sEOKsvbn4x7uUx4dY) | 3:21 | 2024-08-04 | 2024-09-28 |

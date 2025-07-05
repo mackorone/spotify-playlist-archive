@@ -1,6 +1,6 @@
 {
   "description": "Ny musikk fra Roc Boyz, Ida-Lova, Matoma og mange flere!\ud83c\udfb5",
-  "num_followers": 195236,
+  "num_followers": 195374,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-07-03 22:00:34",
       "album": {
+        "name": "neverontime",
+        "url": "https://open.spotify.com/album/22anfYOVSwAITMqSEZ1f7c"
+      },
+      "artists": [
+        {
+          "name": "Notkyle",
+          "url": "https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "take you there",
+      "url": "https://open.spotify.com/track/0acK5Vlgulx6l9x9KzGfbr"
+    },
+    {
+      "added_at": "2025-07-03 22:00:34",
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7"
       },
@@ -1645,7 +1661,7 @@
         },
         {
           "name": "Jermaine Holmes",
-          "url": "https://open.spotify.com/artist/0cmFuWcYcqIglD8O5E0B9O"
+          "url": "https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT"
         }
       ],
       "duration_ms": 346798,

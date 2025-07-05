@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
@@ -5605,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4TnBvr4uFCYAoDOhQSbFVK"
+      },
+      "artists": [
+        {
+          "name": "Lisa Maria",
+          "url": "https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/0YWrwyCPj9fddTBaYaoaEE"
+    },
+    {
+      "album": {
         "name": "Guerra (+ Sessions Recorded at Abbey Road)",
         "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
       },
@@ -5816,7 +5834,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 147943,
       "name": "Sin Gato (MIAU!)",
       "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
@@ -6676,6 +6694,24 @@
       "duration_ms": 226132,
       "name": "Un Campo",
       "url": "https://open.spotify.com/track/2PNYtvb3kuZR9rDAPCUAGI"
+    },
+    {
+      "album": {
+        "name": "Un Poco de Autocr\u00edtica",
+        "url": "https://open.spotify.com/album/4ym7shT8tRJQXzVrohx4T0"
+      },
+      "artists": [
+        {
+          "name": "Diosque",
+          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171659,
+      "name": "Un Poco de Autocr\u00edtica",
+      "url": "https://open.spotify.com/track/7lzfDwWMtsv9uKeTviJ3Ce"
     },
     {
       "album": {

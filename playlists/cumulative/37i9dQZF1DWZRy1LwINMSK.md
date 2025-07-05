@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de AQUA VS.
 
-284 songs - 14 hr 31 min
+285 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Tierra y Venus](https://open.spotify.com/track/5p9qC7CUghVEBPObrkLP1c) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Tierra y Venus](https://open.spotify.com/album/6Rd9WfSOzBTvNF8RaLaCDA) | 3:46 | 2022-07-22 | 2023-09-09 |
 | [Tierra y Venus](https://open.spotify.com/track/5pKau7iaikQaYX1jprFht0) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Tierra y Venus](https://open.spotify.com/album/4IqS69vK7500PsECB82x2W) | 3:46 | 2022-01-20 | 2022-07-29 |
 | [To' Tu Size](https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [To' Tu Size](https://open.spotify.com/album/350YEZ7qaf4m2T887RcfW2) | 2:56 | 2022-01-20 |  |
+| [Todo es Ganancia](https://open.spotify.com/track/5yHkZ0ND54YhwD0XGzqQWF) | [Alvarofrvn](https://open.spotify.com/artist/45qGgIzVMkceXwhMos7WA7), [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Lvreaux](https://open.spotify.com/artist/0vQ61YT6wack8vCNEpM4lN) | [Todo es Ganancia](https://open.spotify.com/album/4iO7WO7yj3VRBHqKAgbHGq) | 2:27 | 2025-07-04 |  |
 | [TODO O NADA](https://open.spotify.com/track/0XiYVqEYP72zcU920ndQvr) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [RICO POR SIEMPRE](https://open.spotify.com/album/6RWEpmENu1ZVBfZPOAzIPM) | 2:30 | 2025-04-04 |  |
 | [TONINI](https://open.spotify.com/track/0rYGGxF4VitfzCyw3zmhlN) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [TONINI](https://open.spotify.com/album/53QbHt39FFQ8O27HrWlnCr) | 2:12 | 2025-04-25 |  |
 | [Top Ten](https://open.spotify.com/track/0c7sf8cPgknnj4TCTNpDHP) | [Dest](https://open.spotify.com/artist/1TPFtZ7ALuA18J6nKi4OeY), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Top Ten](https://open.spotify.com/album/44lcbclj4zdVnwgwFaKcM9) | 3:43 | 2022-04-29 | 2023-02-25 |

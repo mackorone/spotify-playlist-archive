@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 284521,
       "name": "1607",
       "url": "https://open.spotify.com/track/2hzjtQhPMjXtEW95JR4So3"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 156610,
       "name": "Aural Therapy",
       "url": "https://open.spotify.com/track/66IYfbVOcRwoVE7GXmEt0J"
@@ -1829,6 +1829,32 @@
     },
     {
       "album": {
+        "name": "Delicate (REBRN Remix)",
+        "url": "https://open.spotify.com/album/2bg76uS8u3Z7AWCzxF6sYW"
+      },
+      "artists": [
+        {
+          "name": "Echolocation",
+          "url": "https://open.spotify.com/artist/2P5jqqB0roZs1NmrC2x6Dg"
+        },
+        {
+          "name": "Jordan Whitlock",
+          "url": "https://open.spotify.com/artist/2hfjbY3nRSsfIVyOG5j3Eg"
+        },
+        {
+          "name": "REBRN",
+          "url": "https://open.spotify.com/artist/3GHKSLV8K79xY8Z6TASqqz"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Delicate - REBRN Remix",
+      "url": "https://open.spotify.com/track/6PEiiurv88SsG8EokmmlZJ"
+    },
+    {
+      "album": {
         "name": "Deny Thy Flaw",
         "url": "https://open.spotify.com/album/04IFBXM4uKkY6COh3zyuhD"
       },
@@ -2978,7 +3004,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 393679,
       "name": "Feels Like - Original Mix",
       "url": "https://open.spotify.com/track/3II14nc55BkPP3oPhvPAth"
@@ -3249,6 +3275,28 @@
     },
     {
       "album": {
+        "name": "Follow EP",
+        "url": "https://open.spotify.com/album/04tT2en23cD8al8SiDQPwE"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Running Touch",
+          "url": "https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477183,
+      "name": "Follow - Extended Mix",
+      "url": "https://open.spotify.com/track/4Bzr0oM62T2M9aqDPVHDpV"
+    },
+    {
+      "album": {
         "name": "Follow The Lead",
         "url": "https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz"
       },
@@ -3490,7 +3538,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 297176,
       "name": "Generator",
       "url": "https://open.spotify.com/track/3FV2AQ5XPCCXqHvalR7SMA"
@@ -3512,6 +3560,24 @@
       "duration_ms": 303889,
       "name": "Get Back - Tape Mix",
       "url": "https://open.spotify.com/track/3xBudG07erHx9GxIVx7zs3"
+    },
+    {
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/6vvFxx3UDdME3vYrxuVC5p"
+      },
+      "artists": [
+        {
+          "name": "Dukwa",
+          "url": "https://open.spotify.com/artist/7foiHDFvNIouC0QFaaKXeq"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326400,
+      "name": "Give Me A Reason",
+      "url": "https://open.spotify.com/track/2v5y5WtflED96fRwKxAax5"
     },
     {
       "album": {
@@ -4295,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "Hyper EP",
+        "url": "https://open.spotify.com/album/4TPYPnaq4adRpCe2xpmjwe"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/2pGybTaIPRo3IHjqXnVAkV"
+    },
+    {
+      "album": {
         "name": "Hyperdrive",
         "url": "https://open.spotify.com/album/5sOOQ3UyIhHftNt1Aj7j2D"
       },
@@ -4486,7 +4570,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 230643,
       "name": "I Just Want To Love You",
       "url": "https://open.spotify.com/track/5g7Sh1pm9VFPckt6c99tOd"
@@ -4781,6 +4865,28 @@
     },
     {
       "album": {
+        "name": "EP Three",
+        "url": "https://open.spotify.com/album/1u060ymtNGk8uVIV4aYjs1"
+      },
+      "artists": [
+        {
+          "name": "Yaruba",
+          "url": "https://open.spotify.com/artist/6N3ByDnmJhsbGldlvG8Gzc"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328500,
+      "name": "In Trancit - Extended Mix",
+      "url": "https://open.spotify.com/track/24JslqFwWhocmFJIb6Zvkf"
+    },
+    {
+      "album": {
         "name": "in2minds",
         "url": "https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY"
       },
@@ -5072,7 +5178,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 346691,
       "name": "Kawasaki 100",
       "url": "https://open.spotify.com/track/0YroFMRkxwPH4JTrfrm9y7"
@@ -5454,7 +5560,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 219073,
       "name": "Looking at Your Pager - Chris Lake Remix",
       "url": "https://open.spotify.com/track/19IYiA9TCmbCet65fZZhhN"
@@ -5730,7 +5836,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 301912,
       "name": "Metaphobia",
       "url": "https://open.spotify.com/track/4VS8SYb0xooX1bqpiGkkHa"
@@ -6550,10 +6656,32 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 288328,
       "name": "On & On (Again)",
       "url": "https://open.spotify.com/track/7Mno6NjdI9b71hBLCmZomi"
+    },
+    {
+      "album": {
+        "name": "HOUSE THAT BEAT",
+        "url": "https://open.spotify.com/album/5Oyui0CDycptZG6EeIdhKj"
+      },
+      "artists": [
+        {
+          "name": "T\u00eate de la Course",
+          "url": "https://open.spotify.com/artist/67btmdr6FbX5yIiyX8GVc1"
+        },
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343062,
+      "name": "On Time - Angelo Ferreri Remix",
+      "url": "https://open.spotify.com/track/2qUkBw3v6WOcTCNCqbIYsd"
     },
     {
       "album": {
@@ -6594,7 +6722,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 402974,
       "name": "Only For A Moment - Extended Mix",
       "url": "https://open.spotify.com/track/05LShItfKTTVjm9NEV14Ii"
@@ -6816,7 +6944,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 383673,
       "name": "Peeve",
       "url": "https://open.spotify.com/track/1v8Td5J1gxp9damVdBr95r"
@@ -7671,6 +7799,32 @@
     },
     {
       "album": {
+        "name": "JS05",
+        "url": "https://open.spotify.com/album/3UipUsvsC4iM6vlFbJ43Vh"
+      },
+      "artists": [
+        {
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418491,
+      "name": "Sad Salad",
+      "url": "https://open.spotify.com/track/43BDePuQJJ3Q0kjB5xemfx"
+    },
+    {
+      "album": {
         "name": "FaCet, Vol. 1",
         "url": "https://open.spotify.com/album/7eeGn6KMLa7NVWM1GdtCqU"
       },
@@ -7718,7 +7872,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 240000,
       "name": "Say You Want To Fly",
       "url": "https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W"
@@ -8669,6 +8823,24 @@
     },
     {
       "album": {
+        "name": "Spectrums Vol. 2",
+        "url": "https://open.spotify.com/album/5IBnsRmGJHwVSvbjgMC0y4"
+      },
+      "artists": [
+        {
+          "name": "Erosion Flow",
+          "url": "https://open.spotify.com/artist/2LkdNp8NaPcYazFfuxzTtv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271130,
+      "name": "Syvv",
+      "url": "https://open.spotify.com/track/3a95VWpNQzvNmYqJcRzALb"
+    },
+    {
+      "album": {
         "name": "Never Tried",
         "url": "https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF"
       },
@@ -8866,7 +9038,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 169335,
       "name": "The Flow",
       "url": "https://open.spotify.com/track/4jmBDEQoGwcJeQSocJrmsk"
@@ -9065,6 +9237,32 @@
     },
     {
       "album": {
+        "name": "The Techno Code (Remixes)",
+        "url": "https://open.spotify.com/album/3Li1RofrZtlvNEK8hBkMM4"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289846,
+      "name": "The Techno Code - Kevin de Vries & SLVR Remix",
+      "url": "https://open.spotify.com/track/0iqHSOHIunWpe7uoxjwbXx"
+    },
+    {
+      "album": {
         "name": "Soulkeeper / The Unseen 22",
         "url": "https://open.spotify.com/album/3kt2qEebdaNalFbLk8DR9a"
       },
@@ -9098,6 +9296,28 @@
       "duration_ms": 226254,
       "name": "The World Keeps Turning",
       "url": "https://open.spotify.com/track/1sxGoYIDd1zPjLdxOgar7R"
+    },
+    {
+      "album": {
+        "name": "Thin Line",
+        "url": "https://open.spotify.com/album/3Nt1qnkgEB9n5hbHNzdnnO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345620,
+      "name": "Thin Line - Extended Mix",
+      "url": "https://open.spotify.com/track/3r5awlQlgnJwKlFBBBiI0d"
     },
     {
       "album": {
@@ -9177,6 +9397,28 @@
     },
     {
       "album": {
+        "name": "Thunderbolt",
+        "url": "https://open.spotify.com/album/3umwFjTH5hJ1MeUQwR9LiN"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214946,
+      "name": "Thunderbolt",
+      "url": "https://open.spotify.com/track/6LSEOg4XwOuyIxM78uW79P"
+    },
+    {
+      "album": {
         "name": "The Botox Queen",
         "url": "https://open.spotify.com/album/0IVGnMI2xQWIHGYstkMg34"
       },
@@ -9192,6 +9434,24 @@
       "duration_ms": 311071,
       "name": "ticket to childhood",
       "url": "https://open.spotify.com/track/3nSIvZpvO6kU87bmSGwZVV"
+    },
+    {
+      "album": {
+        "name": "Booty EP",
+        "url": "https://open.spotify.com/album/13IA3oJIPNHgvXK0sTXUdU"
+      },
+      "artists": [
+        {
+          "name": "Florian Picasso",
+          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377341,
+      "name": "Till I'm Dead - Riviera Mix",
+      "url": "https://open.spotify.com/track/3IaQNfuSxlAoVEQ5xYKt6B"
     },
     {
       "album": {
@@ -10258,6 +10518,28 @@
       "duration_ms": 371076,
       "name": "Work - CVMPANILE & Draxx Extended Remix",
       "url": "https://open.spotify.com/track/5DZccyNEsfrSWTP02aWMrU"
+    },
+    {
+      "album": {
+        "name": "Bang 2 Drum EP",
+        "url": "https://open.spotify.com/album/6ODWmc6V7VafBVffcOWWyC"
+      },
+      "artists": [
+        {
+          "name": "Mat.Joe",
+          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236286,
+      "name": "World In Action",
+      "url": "https://open.spotify.com/track/2b1CFo1MDf6FHL8MC6IX0T"
     },
     {
       "album": {

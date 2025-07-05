@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, updated daily...
 
-7,414 songs - 11 day 16 hr 42 min
+7,415 songs - 11 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3831,7 +3831,7 @@
 | [Luna](https://open.spotify.com/track/4dKVTt3yaH7NMe8C3kXjou) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Luna](https://open.spotify.com/album/3NNNCac23pYdotNIgPo0j6) | 1:33 | 2021-08-22 | 2022-03-21 |
 | [Luna Amarilla](https://open.spotify.com/track/6hSSEFPdQXRHzUgxNx9OJJ) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Luna Amarilla](https://open.spotify.com/album/1E4JMoib79fHpSlBIASZ0A) | 1:55 | 2022-12-16 | 2023-10-13 |
 | [Luna Artificial](https://open.spotify.com/track/6uTvpThGGN9wdKgdEnFPsW) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Pacifico](https://open.spotify.com/album/1hG0XkGOR77SzXc2QeHQkU) | 3:15 | 2021-12-17 | 2022-08-19 |
-| [Lunar](https://open.spotify.com/track/5FnxEhQJUhzsSck2x7CBNc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Lunar](https://open.spotify.com/album/23amTJp10LQcwPuhPsOquc) | 2:11 | 2025-07-03 |  |
+| [Lunar](https://open.spotify.com/track/5FnxEhQJUhzsSck2x7CBNc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Lunar](https://open.spotify.com/album/23amTJp10LQcwPuhPsOquc) | 2:11 | 2025-07-03 | 2025-07-05 |
 | [lunar](https://open.spotify.com/track/5oxRePPI5auphKBWdf3SsX) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [lunar](https://open.spotify.com/album/3M0kIVVMCl5vjkDl6yI0Co) | 2:06 | 2022-08-19 | 2022-11-25 |
 | [Lunar Lull](https://open.spotify.com/track/5ffzlptK9U9oGU2h8H9mPl) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Lunar Lull](https://open.spotify.com/album/3seI3wUvZuOd2atIYTu5Th) | 2:01 | 2023-11-17 | 2025-04-26 |
 | [Lunar Walk](https://open.spotify.com/track/3dvOTAKXiZDxhwgaIsIH7Y) | [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH), [I'm.Busy](https://open.spotify.com/artist/7CLlZl0i0kCbkMSLmzYqS6) | [Lunar Walk](https://open.spotify.com/album/4QLZmgAZNL2SIzgn1L4XhB) | 2:28 | 2022-02-25 | 2022-08-05 |
@@ -7302,6 +7302,7 @@
 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 | 2021-07-04 | 2022-03-12 |
 | [Working From Home](https://open.spotify.com/track/0uHOaloc8zRTmkvFKFG0cF) | [Assistant Manager](https://open.spotify.com/artist/15sr5wzsH17p3tFje4h9Tl) | [Working From Home](https://open.spotify.com/album/3KWvyrwsImgcpAHqEYMeCL) | 2:05 | 2022-04-15 | 2022-10-14 |
 | [World](https://open.spotify.com/track/3OJ7ZUP3ICXg22b9TvVoRi) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj), [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [World](https://open.spotify.com/album/0Z2cyXwLTkb8pWXFAqYe8O) | 2:01 | 2022-12-02 | 2023-10-13 |
+| [World](https://open.spotify.com/track/2tfGauk51uKPA5u2d0SFkM) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [World](https://open.spotify.com/album/6fEv2kZSdsp9U68tq1YFcs) | 2:24 | 2025-07-04 |  |
 | [World Is My Pillow](https://open.spotify.com/track/0V2A3Wj3b7wLbEf0kLZAhn) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [World Is My Pillow](https://open.spotify.com/album/4DtC7Dy60nNTJP6vOoCG5q) | 1:44 | 2022-04-15 | 2022-09-02 |
 | [World Was Ending 2Day](https://open.spotify.com/track/3U10OTy9wPL3gnds1c4NTH) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [YAYME](https://open.spotify.com/artist/6hxgdnoPfOE2ag75ltz84E) | [World Was Ending 2Day](https://open.spotify.com/album/5e3UpfJH8Wpb9WjdgIVTzV) | 1:50 | 2022-05-27 | 2022-09-16 |
 | [Worlds Apart](https://open.spotify.com/track/2ofFpAIOVlr0xIYzntxSMJ) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Smile](https://open.spotify.com/album/1lBJll6oj2KKlaQXoEXlDk) | 1:28 | 2022-07-15 | 2022-10-28 |

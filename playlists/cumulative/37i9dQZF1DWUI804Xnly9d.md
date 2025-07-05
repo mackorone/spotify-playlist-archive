@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-564 songs - 1 day 7 hr 36 min
+565 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Chupke Se](https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Manya Narang](https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY) | [Chupke Se](https://open.spotify.com/album/4HtzchXd1UF5p6v8qZe2k2) | 3:01 | 2024-02-06 | 2024-05-29 |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 | 2023-07-08 |
 | [DESTINY](https://open.spotify.com/track/2skHjbqgYwr83621d9phrL) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 3:02 | 2023-08-03 | 2023-09-13 |
+| [Dhaagey](https://open.spotify.com/track/1bav36G2cus1No9SZrjUml) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Dhaagey](https://open.spotify.com/album/0QY6LFsuvkZ8WJkwIbPbGf) | 4:17 | 2025-07-04 |  |
 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 | 2023-05-17 | 2023-07-25 |
 | [Dheemi](https://open.spotify.com/track/09yLuL7dXwPvHykgfXvBZz) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Dheemi](https://open.spotify.com/album/39Br7xTBLeUQaZ8JPg2J9S) | 3:55 | 2023-05-17 | 2023-06-01 |
 | [Dhuaan](https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Dhuaan](https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4) | 3:30 | 2023-07-28 | 2023-09-09 |
@@ -443,7 +444,7 @@
 | [Secrets](https://open.spotify.com/track/5HENJVFTpwo7n8RvXhex2g) | [Andrew KZ](https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR) | [Secrets](https://open.spotify.com/album/0Edq37EUIlXNqtfniAWYOa) | 1:58 | 2024-08-01 | 2024-08-31 |
 | [September](https://open.spotify.com/track/2fDy9nSilEVvD2AoWL2es7) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [September](https://open.spotify.com/album/6zVilVx3Xo9yP5xMsoZZ8o) | 2:16 | 2025-04-16 |  |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 | 2024-06-01 |
-| [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [C&A Kalatva](https://open.spotify.com/artist/6vRAO1pNeHHfXC4cHW9sp6) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 | 2024-08-29 |  |
+| [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [C&A Kalatva](https://open.spotify.com/artist/6vRAO1pNeHHfXC4cHW9sp6) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 | 2024-08-29 | 2025-07-05 |
 | [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 | 2024-04-10 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 | 2024-03-01 |
 | [Shikayatein](https://open.spotify.com/track/0Gf0s7zHB6mC72fSnUEVKr) | [Abhimanyu Sharma](https://open.spotify.com/artist/1023HBlUsOPyfK5et4fspo) | [Shikayatein](https://open.spotify.com/album/1unKBXd0KUTMzsybQHFBBg) | 4:43 | 2024-05-13 | 2024-09-04 |

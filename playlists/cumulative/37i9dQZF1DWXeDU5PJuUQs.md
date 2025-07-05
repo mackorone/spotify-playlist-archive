@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-218 songs - 13 hr 35 min
+219 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 | 2021-12-10 | 2024-11-11 |
 | [Recordando / Dudas \- En Vivo](https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Recordando / Dudas \(En Vivo\)](https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8) | 5:07 | 2024-04-05 | 2025-02-22 |
 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 | 2021-12-10 | 2025-03-01 |
+| [Se parece más a ti](https://open.spotify.com/track/7MurjFLXZ5hJn2z82pcLgA) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Jambao: Sin Miedo Session \#52 \(Lado S\)](https://open.spotify.com/album/5RueSt1KRNW3uXcWjxG7M5) | 2:21 | 2025-07-04 |  |
 | [Se Te Ve la Tanga \- En Vivo](https://open.spotify.com/track/0lZxPTnWhyktE0T5dMAA0j) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [En Vivo \- Hasta las Manos](https://open.spotify.com/album/34hLpBNhr8YQXksZp9Vgwi) | 5:01 | 2021-12-10 | 2022-07-29 |
 | [Sencillamente \- En Vivo](https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Sencillamente \(En Vivo\)](https://open.spotify.com/album/148HwFdc4WPUhEEK0eeSGQ) | 2:11 | 2021-12-10 | 2023-01-18 |
 | [Session Live: Te Llevas Todo / Me Preocupa Sin Ti / Déjenla Que Llore Sola](https://open.spotify.com/track/0ipf9Js7CHIj2LXzuFMFkR) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Session Live: Te Llevas Todo / Me Preocupa Sin Ti / Déjenla Que Llore Sola](https://open.spotify.com/album/6GPnVSdpLG7EkcFBywAVmK) | 5:06 | 2022-03-25 | 2022-07-25 |
@@ -219,7 +220,7 @@
 | [Vete \- En Vivo](https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Artistas invitados, Pt\. 3 \(En Vivo\)](https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk) | 1:35 | 2024-07-05 | 2025-01-01 |
 | [Y Hoy Quieres Volver \- En Vivo](https://open.spotify.com/track/3cI2BuSlMn3Ia9yf08Ow7Z) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Y Hoy Quieres Volver \(En Vivo\)](https://open.spotify.com/album/4o2a0nu9pqw4yGZ6Lb15wv) | 4:30 | 2024-10-25 | 2025-01-06 |
 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 | 2023-04-24 |  |
-| [Ya llegó \- En Vivo](https://open.spotify.com/track/7kbYYzNAkoQtcyShZvMspR) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5iXv2zVf6nmd4FmBiSBMEv) | 1:28 | 2025-04-18 |  |
+| [Ya llegó \- En Vivo](https://open.spotify.com/track/7kbYYzNAkoQtcyShZvMspR) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5iXv2zVf6nmd4FmBiSBMEv) | 1:28 | 2025-04-18 | 2025-07-05 |
 | [Ya Te Olvide \- En Vivo](https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Ya Te Olvide \(En Vivo\)](https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Yo Era](https://open.spotify.com/track/3n6EihEumKlLky7mfeOj71) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v) | 2:12 | 2025-03-14 |  |
 | [Yo Tengo un Angel \- En Vivo](https://open.spotify.com/track/73lLqZyFsu6jGFfD1e7nYI) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Yo Tengo un Angel \(En Vivo\)](https://open.spotify.com/album/6nqRXecIGxl5eDTNekrldR) | 2:09 | 2022-03-18 | 2022-07-25 |

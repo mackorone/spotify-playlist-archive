@@ -3515,6 +3515,32 @@
     },
     {
       "album": {
+        "name": "Malarey (From \"Yaadhum Ariyaan\")",
+        "url": "https://open.spotify.com/album/33WRfJFlPx3H3dgNCH9BU8"
+      },
+      "artists": [
+        {
+          "name": "Dharma Prakash",
+          "url": "https://open.spotify.com/artist/6j5MeR7FqQfO9meOdkZD7Z"
+        },
+        {
+          "name": "Arul Pragasam",
+          "url": "https://open.spotify.com/artist/4wDrPOVYI8j53HYcAaNtUe"
+        },
+        {
+          "name": "Sk Siddiq",
+          "url": "https://open.spotify.com/artist/6SWKsTT9QNc2QooVU6lIrB"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "Malarey (From \"Yaadhum Ariyaan\")",
+      "url": "https://open.spotify.com/track/1bufadBDkkvBAAXKMM7EOF"
+    },
+    {
+      "album": {
         "name": "Viduthalai 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/43DKHyWZW4n0YOGwn4AfIw"
       },
@@ -4940,7 +4966,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 215942,
       "name": "Paavai",
       "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Durand Jones & The Indications
 
-520 songs - 1 day 7 hr 18 min
+521 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [About Love](https://open.spotify.com/track/1MzIUuIxjrfUIlwFytoIok) | [The Soultrend Orchestra](https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV), [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Live For Funk](https://open.spotify.com/album/10naG4dQ2r6SjjWPcEPFgR) | 3:56 | 2022-04-29 | 2024-03-23 |
 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2023-02-18 |
 | [All I Do](https://open.spotify.com/track/1X3R0xThNLoUtx44gJ5fYl) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [All I Do](https://open.spotify.com/album/68yAw6dKuIka6aBYwtITo1) | 3:05 | 2024-03-29 | 2024-05-25 |
-| [All I Ever Wonder](https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [All I Ever Wonder](https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD) | 3:36 | 2024-06-28 |  |
+| [All I Ever Wonder](https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [All I Ever Wonder](https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD) | 3:36 | 2024-06-28 | 2025-07-05 |
 | [All I Need \(The Gemini Song\)](https://open.spotify.com/track/212aM3sCb6fAeqUnYiLr61) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [All I Need \(The Gemini Song\)](https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF) | 4:11 | 2024-05-31 | 2024-08-17 |
 | [All My Love](https://open.spotify.com/track/2RYxyOzv9g2llmMTnR8eQo) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [All My Love](https://open.spotify.com/album/2vrwrP2BU6HFhs3rhvAAq6) | 5:16 | 2022-07-01 | 2022-07-30 |
 | [All Night](https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [All Night](https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy) | 3:15 | 2022-11-18 | 2023-03-18 |
@@ -59,6 +59,7 @@
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2021-09-10 | 2022-07-29 |
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2021-09-10 | 2023-01-28 |
 | [Carry My Name \- Magic Bus Sessions](https://open.spotify.com/track/26PuNsYkMzveo40E5eNOFJ) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Magic Bus Sessions](https://open.spotify.com/album/7wbQ4FeW8zl8hhDdfSuuEK) | 3:43 | 2025-02-07 |  |
+| [Caught Up](https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [Caught Up](https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp) | 3:00 | 2025-07-04 |  |
 | [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-08-16 |  |
 | [Changes](https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Changes](https://open.spotify.com/album/1NoZDyi7x7a4qg4YqN2EaU) | 3:18 | 2022-09-16 | 2022-10-15 |
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2023-02-04 |

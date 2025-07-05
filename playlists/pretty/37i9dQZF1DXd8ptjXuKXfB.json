@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon!",
-  "num_followers": 27199,
+  "num_followers": 27215,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2025-06-30 09:35:29",
       "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 154571,
+      "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
+      "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
+    },
+    {
+      "added_at": "2025-06-30 09:35:29",
+      "album": {
         "name": "HA MEG\u00c9RKEZEL",
         "url": "https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 192983,
       "name": "Sz\u00e9p",
       "url": "https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX"
-    },
-    {
-      "added_at": "2025-06-30 09:35:29",
-      "album": {
-        "name": "Lidokain",
-        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        },
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 154571,
-      "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
-      "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
     },
     {
       "added_at": "2025-06-30 09:35:29",
@@ -1331,50 +1331,22 @@
     {
       "added_at": "2025-06-30 09:35:29",
       "album": {
-        "name": "PATK\u00c1NY",
-        "url": "https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK"
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
       "artists": [
         {
           "name": "KKevin",
           "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 149072,
-      "name": "PATK\u00c1NY",
-      "url": "https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV"
-    },
-    {
-      "added_at": "2025-06-30 09:35:29",
-      "album": {
-        "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k (Rolling back)",
-        "url": "https://open.spotify.com/album/1l3Y1NWpMHiYdAX6rWB1le"
-      },
-      "artists": [
-        {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
-      "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
-    },
-    {
-      "added_at": "2025-06-30 09:35:29",
-      "album": {
-        "name": "SZ\u00cdVTIPR\u00d3 SZ\u00c1LLODA (1. R\u00c9SZ)",
-        "url": "https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF"
-      },
-      "artists": [
+        },
         {
           "name": "T. Danny",
           "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 208000,
-      "name": "SZ\u00d6RNYETEG",
-      "url": "https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr"
+      "duration_ms": 150295,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
     },
     {
       "added_at": "2025-06-30 09:35:29",
@@ -1395,6 +1367,38 @@
     {
       "added_at": "2025-06-30 09:35:29",
       "album": {
+        "name": "SZ\u00cdVTIPR\u00d3 SZ\u00c1LLODA (1. R\u00c9SZ)",
+        "url": "https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "SZ\u00d6RNYETEG",
+      "url": "https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr"
+    },
+    {
+      "added_at": "2025-06-30 09:35:29",
+      "album": {
+        "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k (Rolling back)",
+        "url": "https://open.spotify.com/album/1l3Y1NWpMHiYdAX6rWB1le"
+      },
+      "artists": [
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
+      "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
+    },
+    {
+      "added_at": "2025-06-30 09:35:29",
+      "album": {
         "name": "Oy Lele",
         "url": "https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B"
       },
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2025-06-30 09:35:29",
       "album": {
-        "name": "NINCS HOLNAP",
-        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+        "name": "PATK\u00c1NY",
+        "url": "https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK"
       },
       "artists": [
         {
           "name": "KKevin",
           "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 150295,
-      "name": "CARTIER",
-      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
+      "duration_ms": 149072,
+      "name": "PATK\u00c1NY",
+      "url": "https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV"
     },
     {
       "added_at": "2025-06-30 09:35:29",

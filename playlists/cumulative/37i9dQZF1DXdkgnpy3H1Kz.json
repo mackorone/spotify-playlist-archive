@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Bubbles",
+        "url": "https://open.spotify.com/album/3EUhSpSFRe7vx9PBu0gB0Q"
+      },
+      "artists": [
+        {
+          "name": "Sarah Sommers",
+          "url": "https://open.spotify.com/artist/3DsFXXoLCX6S7e7bJdSclA"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322412,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/4zs2BUIBOjzOMOfZTZGVE4"
+    },
+    {
+      "album": {
         "name": "TRST",
         "url": "https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK"
       },

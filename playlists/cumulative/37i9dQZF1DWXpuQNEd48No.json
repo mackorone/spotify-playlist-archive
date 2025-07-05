@@ -243,6 +243,28 @@
     },
     {
       "album": {
+        "name": "3020",
+        "url": "https://open.spotify.com/album/7wOT5hE8dEqyIkJ8WaC7Yp"
+      },
+      "artists": [
+        {
+          "name": "Dishank Sharma",
+          "url": "https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85"
+        },
+        {
+          "name": "Veraz beats",
+          "url": "https://open.spotify.com/artist/2vc5EEAoIPIYCb4UqQxQlG"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "3020",
+      "url": "https://open.spotify.com/track/3BzLg09AsTC8GO8PZMALmB"
+    },
+    {
+      "album": {
         "name": "32 Bore",
         "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
       },
@@ -938,7 +960,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 172045,
       "name": "Bair Jaat Ke",
       "url": "https://open.spotify.com/track/2vbc9OopdVgitvWCFxXow1"
@@ -5372,7 +5394,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 180000,
       "name": "Killer Flow",
       "url": "https://open.spotify.com/track/5spZP1hjkR3BXFNJ8X2xTQ"
@@ -7422,10 +7444,40 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 138000,
       "name": "Rana Rangers",
       "url": "https://open.spotify.com/track/4s0H8KXSOjeewEawq6qwQG"
+    },
+    {
+      "album": {
+        "name": "Rana Rangers",
+        "url": "https://open.spotify.com/album/5HLSUYsdiFvqwUGzuR2F6I"
+      },
+      "artists": [
+        {
+          "name": "Uchana Amit",
+          "url": "https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW"
+        },
+        {
+          "name": "Rana Brass",
+          "url": "https://open.spotify.com/artist/5ZzjJaWW89yvDv6cCiwYKK"
+        },
+        {
+          "name": "Duryodhan",
+          "url": "https://open.spotify.com/artist/311HubrdsENDlyEJAzcNV4"
+        },
+        {
+          "name": "AFSR",
+          "url": "https://open.spotify.com/artist/4dlDP4FvwwOO1UBgXyHVly"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Rana Rangers",
+      "url": "https://open.spotify.com/track/52lYOtEB9ejoQvH4Etuvmy"
     },
     {
       "album": {
@@ -9454,6 +9506,28 @@
       "duration_ms": 209629,
       "name": "Yamraaj",
       "url": "https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0"
+    },
+    {
+      "album": {
+        "name": "You Heard Me Right",
+        "url": "https://open.spotify.com/album/6BKUJpsqq68KSFOH91FsON"
+      },
+      "artists": [
+        {
+          "name": "D Shark",
+          "url": "https://open.spotify.com/artist/6OUhFj39zRaUDiKnvzbmCr"
+        },
+        {
+          "name": "Kartavya",
+          "url": "https://open.spotify.com/artist/1wmMWy3nG6RphHhovk37OC"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127508,
+      "name": "You Heard Me Right",
+      "url": "https://open.spotify.com/track/7Cgik8VBRJV2z6RDBgqf8G"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No"

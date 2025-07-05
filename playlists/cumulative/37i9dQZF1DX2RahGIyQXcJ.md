@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Raftaar & Chaar Diwaari
 
-408 songs - 22 hr 53 min
+409 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 | 2021-12-03 |  |
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2022-01-13 | 2023-01-13 |
 | [All Stars](https://open.spotify.com/track/4fCFdbYqFprAmHDshJf8ow) | [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl), [Borkung Hrangkhawl](https://open.spotify.com/artist/79y19puiMbnl0WYzw9dgFv), [G'nie](https://open.spotify.com/artist/6F9ENtiaYwPHorBIxHPlAv), [Khasi Bloodz](https://open.spotify.com/artist/2oprnU1dSoeeRiepAEPSoZ), [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD), [Young Dirrt](https://open.spotify.com/artist/2wiZAHq7GVIO6DUIM8gOSH) | [All Stars](https://open.spotify.com/album/34cdgtdSC529XmAwcuKSu5) | 5:56 | 2022-07-18 | 2022-10-11 |
+| [Alright](https://open.spotify.com/track/1hONlYfMQVrZrwwUjBP3UC) | [Mr\. D](https://open.spotify.com/artist/7DpUj0xjA6iUPrvWgdQv64) | [Alright](https://open.spotify.com/album/1Cm8wkqc7uvlfHJbevQTX7) | 3:00 | 2025-07-04 |  |
 | [Ammo \(feat\. Sultaan\)](https://open.spotify.com/track/7fN0FOUaOWN722v8EJMzQ4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 3:22 | 2024-10-10 | 2024-12-07 |
 | [AMSTERDAM](https://open.spotify.com/track/0l4J0ItMJu5RViPqZFthLm) | [Jamesy](https://open.spotify.com/artist/3Z3yPo3SbczpDs4FpY9ixA) | [RISKTAPE](https://open.spotify.com/album/58tPbamRoUkTyNFWLb9N7Q) | 3:00 | 2025-03-03 | 2025-05-31 |
 | [Andakare Man](https://open.spotify.com/track/2zvFA2eV9gJOMaOJ5TmTk3) | [Dilo](https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ) | [Andakare Man](https://open.spotify.com/album/5sRrIfFzMDdcXyQyHCF3DK) | 3:09 | 2021-12-03 | 2022-02-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Hansika Pareek, Mohammed Irfan  and more. ",
+  "description": "Latest music from Varun Jain, Abhijeet Srivastava, Kushagra  and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 206511,
       "name": "Aaja Re Piya",
       "url": "https://open.spotify.com/track/6Ezy91iJO0zhaVn9fl5gUX"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 212000,
       "name": "Adatein",
       "url": "https://open.spotify.com/track/6c2WV0UWPkvbuq7EDEbmO8"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 179716,
       "name": "Chahvan Sohneya",
       "url": "https://open.spotify.com/track/4qRukdESa5cDVl0IenNcPL"
@@ -5352,10 +5352,6 @@
         {
           "name": "Mohammed Irfan",
           "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
-        },
-        {
-          "name": "Gufy",
-          "url": "https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv"
         }
       ],
       "date_added": "2025-06-27",
@@ -6849,6 +6845,28 @@
     },
     {
       "album": {
+        "name": "Dhaagey",
+        "url": "https://open.spotify.com/album/0QY6LFsuvkZ8WJkwIbPbGf"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Dhaagey",
+      "url": "https://open.spotify.com/track/1bav36G2cus1No9SZrjUml"
+    },
+    {
+      "album": {
         "name": "Dhadkan",
         "url": "https://open.spotify.com/album/2PKjKq8UobW0xMJXFpLpjP"
       },
@@ -8052,6 +8070,24 @@
       "duration_ms": 226666,
       "name": "Dilbara",
       "url": "https://open.spotify.com/track/7Eoa10BX1oXOwn3EbJ3B4l"
+    },
+    {
+      "album": {
+        "name": "Dilnasheen",
+        "url": "https://open.spotify.com/album/7vGhsJdLLyevYqYVgs14RS"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Irfan",
+          "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226575,
+      "name": "Dilnasheen",
+      "url": "https://open.spotify.com/track/5PEpNGJNBbnaPGusdbMSKB"
     },
     {
       "album": {
@@ -9448,7 +9484,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 200000,
       "name": "Fiza",
       "url": "https://open.spotify.com/track/6tv7ryf9SGmYEWO1olKwcC"
@@ -16242,7 +16278,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 157411,
       "name": "Khamkha",
       "url": "https://open.spotify.com/track/0rnEEW32uSNuX0LZtaG9yL"
@@ -18005,6 +18041,28 @@
     },
     {
       "album": {
+        "name": "Last Love",
+        "url": "https://open.spotify.com/album/2Q3FYaYV9ECw8MXUiM3YG7"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n"
+    },
+    {
+      "album": {
         "name": "Laut Aao Na",
         "url": "https://open.spotify.com/album/0KdlC1GChvtlBGIGsQY6dK"
       },
@@ -18526,6 +18584,32 @@
       "duration_ms": 190200,
       "name": "Maahi Dekhle",
       "url": "https://open.spotify.com/track/1nWJtWMjH82MLk3iduAi7N"
+    },
+    {
+      "album": {
+        "name": "Maahi Mereya",
+        "url": "https://open.spotify.com/album/34T30mccgzk8UWBIuaWhyO"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190135,
+      "name": "Maahi Mereya",
+      "url": "https://open.spotify.com/track/5LcXyhSx0YgSNlYu9CVHWK"
     },
     {
       "album": {
@@ -22512,7 +22596,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 150000,
       "name": "Paapi",
       "url": "https://open.spotify.com/track/2YQcdg36Rv2jRFcccORcv9"
@@ -23312,6 +23396,24 @@
       "duration_ms": 203137,
       "name": "Pehli Baar Mile",
       "url": "https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj"
+    },
+    {
+      "album": {
+        "name": "Pehli Baarish",
+        "url": "https://open.spotify.com/album/1Ronq7mySjX9ewnckbJ5AE"
+      },
+      "artists": [
+        {
+          "name": "Bharatt-Saurabh",
+          "url": "https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Pehli Baarish",
+      "url": "https://open.spotify.com/track/3tsZhGyF3SxUP93Y73LeoR"
     },
     {
       "album": {
@@ -25770,6 +25872,28 @@
       "duration_ms": 206400,
       "name": "sach kehne do",
       "url": "https://open.spotify.com/track/73efP3SdBvpmOZHQSceiFQ"
+    },
+    {
+      "album": {
+        "name": "Sacha Wala Pyaar",
+        "url": "https://open.spotify.com/album/170rZGOyHYoy2WDKcLaB9E"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179387,
+      "name": "Sacha Wala Pyaar",
+      "url": "https://open.spotify.com/track/1qWMlqYWiPEkeFYycgJcmg"
     },
     {
       "album": {
@@ -32722,6 +32846,24 @@
       "duration_ms": 274909,
       "name": "Waqt",
       "url": "https://open.spotify.com/track/4d70bpXNyxPFchPzEQU5JW"
+    },
+    {
+      "album": {
+        "name": "Way You Move",
+        "url": "https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178555,
+      "name": "Way You Move",
+      "url": "https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K"
     },
     {
       "album": {

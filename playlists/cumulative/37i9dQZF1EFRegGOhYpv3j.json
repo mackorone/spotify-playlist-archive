@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Double Standard",
+        "url": "https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP"
+      },
+      "artists": [
+        {
+          "name": "Conor Clemmons",
+          "url": "https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "Double Standard",
+      "url": "https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L"
+    },
+    {
+      "album": {
         "name": "Fake Names",
         "url": "https://open.spotify.com/album/6HR8wY3bzZWNoU3sJZY2bX"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: ECCOS",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Living",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 189626,
       "name": "AL100",
       "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
@@ -3369,6 +3369,28 @@
     },
     {
       "album": {
+        "name": "Cristiano de Fuego",
+        "url": "https://open.spotify.com/album/1pWKmgSVtv6vqeq9uC7dlr"
+      },
+      "artists": [
+        {
+          "name": "Oro de Ofir",
+          "url": "https://open.spotify.com/artist/5hAQnU2aoVLGaOCmOEefxy"
+        },
+        {
+          "name": "Gabriel \"Chiche\" Maestre",
+          "url": "https://open.spotify.com/artist/1hWaFXYt7FYE1iZmg3RtIT"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335412,
+      "name": "Cristiano de Fuego",
+      "url": "https://open.spotify.com/track/6FsVC9PGOw2jsqTJZ6AI4k"
+    },
+    {
+      "album": {
         "name": "Cristo eres Hermoso",
         "url": "https://open.spotify.com/album/4I6sHZwfxS6PL85kDP14cQ"
       },
@@ -4617,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "d\u00f3nde est\u00e1s???",
+        "url": "https://open.spotify.com/album/5Det7ZIv3O9FPT4U1ZB7b5"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161407,
+      "name": "d\u00f3nde est\u00e1s???",
+      "url": "https://open.spotify.com/track/4cJubuQkWDMntiLtsJ1Jfl"
+    },
+    {
+      "album": {
         "name": "ECHO",
         "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
       },
@@ -4924,7 +4964,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 298392,
       "name": "El Gran Yo Soy",
       "url": "https://open.spotify.com/track/6O3dQWh8Hm2e824yOizPN9"
@@ -5226,7 +5266,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 176910,
       "name": "El secreto",
       "url": "https://open.spotify.com/track/5KGv4G1ExaqQ6lydmYcXSz"
@@ -8472,6 +8512,24 @@
       "duration_ms": 145424,
       "name": "Lo de Adentro",
       "url": "https://open.spotify.com/track/5IbengZi8118xmuhu67cAy"
+    },
+    {
+      "album": {
+        "name": "Lo He Visto",
+        "url": "https://open.spotify.com/album/6nCzuZsOafIlAxLsLcLLGr"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406317,
+      "name": "Lo He Visto",
+      "url": "https://open.spotify.com/track/1jaY6jnD56RZwvb0ICI7sq"
     },
     {
       "album": {
@@ -13134,7 +13192,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 233586,
       "name": "Sigue Orando (Don't Stop Praying)",
       "url": "https://open.spotify.com/track/6t9lLCkgPTSEtT5jnOBJax"
@@ -15500,6 +15558,24 @@
       "duration_ms": 227908,
       "name": "vale na",
       "url": "https://open.spotify.com/track/7gh11NpuOwvASxThHQhxCk"
+    },
+    {
+      "album": {
+        "name": "ALBA",
+        "url": "https://open.spotify.com/album/5H99GIWYw1JWhEHKZKjfx4"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192256,
+      "name": "Vamos bien",
+      "url": "https://open.spotify.com/track/3ihSP5eDXLDUWCglJgj75b"
     },
     {
       "album": {

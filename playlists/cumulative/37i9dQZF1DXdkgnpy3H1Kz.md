@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-914 songs - 3 day 6 hr 9 min
+915 songs - 3 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Brera Som Som](https://open.spotify.com/track/2TI2frL2pdL9LGsJ9Fm7MY) | [Amandra](https://open.spotify.com/artist/0rQNrF6amURGSFkECQhpfv) | [Brera Som Som](https://open.spotify.com/album/2MIRcJPgbpanpftcUEduzZ) | 7:26 | 2024-11-08 | 2024-12-14 |
 | [Bringing Down Their System](https://open.spotify.com/track/1Wk3Q3IewiqDddOHMsxdgK) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x) | [Grown From The Ashes](https://open.spotify.com/album/1IJUFZflT1joyAjlRYwU1g) | 6:19 | 2023-05-25 | 2023-06-15 |
 | [Bringing Down Their System](https://open.spotify.com/track/3fipVtOcZ3huMxAhBTWR1P) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Cadency](https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD) | [Año V\-I](https://open.spotify.com/album/5fLv1lxrQ7zvF3pLzMazym) | 6:19 | 2023-05-25 | 2023-07-01 |
+| [Bubbles](https://open.spotify.com/track/4zs2BUIBOjzOMOfZTZGVE4) | [Sarah Sommers](https://open.spotify.com/artist/3DsFXXoLCX6S7e7bJdSclA) | [Bubbles](https://open.spotify.com/album/3EUhSpSFRe7vx9PBu0gB0Q) | 5:22 | 2025-07-04 |  |
 | [Bulbform](https://open.spotify.com/track/5c5LFrdYFQSyb5gIUiVCY9) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 4:49 | 2023-04-14 | 2023-05-26 |
 | [Bumper](https://open.spotify.com/track/5M5BVkJuxDLXMIabehB0z3) | [Regal86](https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613) | [Hydraulic Booty](https://open.spotify.com/album/2WTdnBBCxH1NKbgJ2hLEDr) | 3:19 | 2024-07-15 | 2024-10-05 |
 | [Burn It To The Ground](https://open.spotify.com/track/4M1ggPR3GmYwcF3Jt4omvn) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Fascination](https://open.spotify.com/album/5jSLfQ44mEYTDAM1T3OxF2) | 3:55 | 2023-06-30 | 2023-08-05 |

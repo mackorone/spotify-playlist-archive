@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Trey Pendley, Artwork: Fanélie Muselier
 
-3,251 songs - 7 day 7 hr 57 min
+3,254 songs - 7 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [After You \(Carolina\)](https://open.spotify.com/track/1ekCHIGrLJvD3p8qfVkeLr) | [Vinnie Brigante](https://open.spotify.com/artist/7aKuM9zcFfXBnKv7bkXl9h) | [After You \(Carolina\)](https://open.spotify.com/album/5KJ8fJAxVhv38jLfYzAq8V) | 2:48 | 2024-08-28 | 2024-12-05 |
 | [Again](https://open.spotify.com/track/0Ustl8OXZB4GLaGK8HuIPa) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Again](https://open.spotify.com/album/434Wsj2X1jxkxnq4jKq5Sb) | 3:09 | 2023-01-18 | 2023-02-16 |
 | [Ain't A Bad Day](https://open.spotify.com/track/4uJRaWtR0pJEoIViThbKGg) | [Reed Salmon](https://open.spotify.com/artist/4opAiuSMSLK0b5bg6UGQFD) | [Ain't A Bad Day](https://open.spotify.com/album/08iE3VSBA29ZW3yTqLlAKs) | 2:44 | 2025-03-26 | 2025-06-19 |
+| [Ain't About You](https://open.spotify.com/track/7oOdMIG78UeLb3Mdp9pq7F) | [Daniel Jeffers](https://open.spotify.com/artist/2ygX3kOsmUCnnDa8UIApg7) | [Ain't About You](https://open.spotify.com/album/4dIr6umMX0QONYfKH1PEq6) | 3:01 | 2025-07-04 |  |
 | [Ain't Doing Something Right](https://open.spotify.com/track/5lesYQ4UDsSGGFMNf5fLVn) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:32 | 2021-12-01 | 2022-01-13 |
 | [Ain't Done Yet](https://open.spotify.com/track/3LQRDoQeMHH8Xl0zGJDDdk) | [Styles](https://open.spotify.com/artist/57sVUbHm2z4eBvAnexnZEG) | [Ain't Done Yet](https://open.spotify.com/album/1KOwjUPXvXMOdljuLBquk5) | 3:04 | 2024-07-31 | 2024-10-24 |
 | [Ain't For Me](https://open.spotify.com/track/0nl6comjSULrsfHy2XohMI) | [Southerland](https://open.spotify.com/artist/5Fft88xB3YSwSWzdS42xyf) | [Southerland](https://open.spotify.com/album/7bx1O8YDqym7lJpHgXlaIK) | 3:08 | 2023-05-05 | 2023-07-20 |
@@ -988,7 +989,7 @@
 | [Get Me off \(Your Mind\)](https://open.spotify.com/track/1J79OgedZE6zfQislW89Sj) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [Get Me off \(Your Mind\)](https://open.spotify.com/album/0g6WNdFgNiLAFnO1Hfppf4) | 2:54 | 2022-06-29 | 2022-07-28 |
 | [Get There First](https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz) | 3:46 | 2023-02-15 | 2023-03-09 |
 | [Get There First](https://open.spotify.com/track/6Q1t0ivoNyMynfx6nOU1Ez) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0uZgjHZ9DiWmMCWz0swpzo) | 3:46 | 2023-02-01 | 2023-02-19 |
-| [Get This Girl A Drink](https://open.spotify.com/track/4ax4lJalcnJA6hEOVjz4H5) | [Rachel Lee Roberts](https://open.spotify.com/artist/4IkIQH1H6uomyGgjpABSaz), [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [Get This Girl A Drink](https://open.spotify.com/album/2xRXrvbMlYQOgyZM2gEvlM) | 2:25 | 2025-04-02 |  |
+| [Get This Girl A Drink](https://open.spotify.com/track/4ax4lJalcnJA6hEOVjz4H5) | [Rachel Lee Roberts](https://open.spotify.com/artist/4IkIQH1H6uomyGgjpABSaz), [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [Get This Girl A Drink](https://open.spotify.com/album/2xRXrvbMlYQOgyZM2gEvlM) | 2:25 | 2025-04-02 | 2025-07-05 |
 | [Get To Know Me](https://open.spotify.com/track/6mamoj74sAZXt7fztsuv9Z) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Get To Know Me](https://open.spotify.com/album/6L0lGC5qqgDRk1XBeDiwBl) | 3:08 | 2024-06-05 | 2025-01-16 |
 | [Get To Me](https://open.spotify.com/track/5kPKbXMGFCm5PsIXuLjYrm) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5RLA7MOGJhPMW3uhkuAh1E) | 3:13 | 2023-04-26 | 2023-05-24 |
 | [Getaway](https://open.spotify.com/track/0Fm7DsAwJdEco1Oe4wUwCM) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j), [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Getaway](https://open.spotify.com/album/0Q8SD4uic12Unpy5ALhUse) | 2:24 | 2022-06-08 | 2022-07-21 |
@@ -1627,6 +1628,7 @@
 | [Leavin' Season](https://open.spotify.com/track/1al2a1XCAXYNPQNmrpm5cH) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Leavin' Season](https://open.spotify.com/album/2QGN2vjNiqpDuezfKfeDVE) | 3:20 | 2023-09-06 | 2023-11-09 |
 | [Leaving Coming Back](https://open.spotify.com/track/6KmI6XNfv19iVNn9YjkTKk) | [Radio Romance](https://open.spotify.com/artist/3zpay2Ds6IoLxC70N1H1vW) | [Leaving Coming Back](https://open.spotify.com/album/0jICaE02cTipncr69fsW4v) | 3:15 | 2021-12-01 | 2022-01-13 |
 | [Leaving Eyes](https://open.spotify.com/track/45ZfiIAMaGwnwtxQQrhZp2) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella) | [Leaving Eyes](https://open.spotify.com/album/6XARJBqAUzwgPKHFfsqhKR) | 3:24 | 2024-07-24 | 2025-01-16 |
+| [Leaving Side of You](https://open.spotify.com/track/1DRDGmxa613rIl9xbskQMH) | [Ashley Brooks](https://open.spotify.com/artist/2czq9EfXFJSeXXlg8Dnnr5) | [Leaving Side of You](https://open.spotify.com/album/0HxavPHZJflA34vZTepRCE) | 3:41 | 2025-07-04 |  |
 | [leaving the party](https://open.spotify.com/track/2xOJiMRH9QVBcM4o9waej9) | [Kat Johnson](https://open.spotify.com/artist/5DExv8aXqpN2NI3IyRzkMy) | [leaving the party](https://open.spotify.com/album/2mxOIUxhWRKKfFzaklQalv) | 3:34 | 2022-01-12 | 2022-02-17 |
 | [LEFT MY LEVI'S](https://open.spotify.com/track/1tFv42gi8YE2DbVEhLIqgq) | [TANAEYA](https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa) | [LEFT MY LEVI'S](https://open.spotify.com/album/1IJR5Mc6HX9xFaMxBJP88P) | 3:04 | 2025-05-07 |  |
 | [left my tshirt](https://open.spotify.com/track/4tPfahlzRnsN1qEU12mk4N) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [left my tshirt](https://open.spotify.com/album/78VJ70iKnxcjKcayZqCXCZ) | 3:57 | 2024-05-01 | 2024-06-06 |
@@ -3095,6 +3097,7 @@
 | [Whiskey Whispers Your Name](https://open.spotify.com/track/1VYzNgVYyC1BS3q6kVdG0D) | [Karissa Ella](https://open.spotify.com/artist/60SgxHhlYxHNXdA6obPu6X) | [Whiskey Whispers Your Name](https://open.spotify.com/album/3PckYMfKCquL83VnJznBPL) | 2:37 | 2022-03-02 | 2022-04-14 |
 | [Whiskey You're Cold](https://open.spotify.com/track/5gFzJxGWPamBswU2xqMpqZ) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Whiskey You're Cold](https://open.spotify.com/album/5TOtySy8wcwkpduWRIWAxk) | 3:46 | 2024-10-16 | 2024-12-05 |
 | [Whiskey'd Me Away](https://open.spotify.com/track/1II9mlFpVwHiea71iFTeUB) | [Kenna Elpers](https://open.spotify.com/artist/5FisVPwrUiiV4z19WdWPcM) | [Whiskey'd Me Away](https://open.spotify.com/album/57JsxkHchM8fTWIOv248An) | 4:00 | 2023-05-03 | 2023-07-20 |
+| [White Boots](https://open.spotify.com/track/0XW9yvD8wP90zAorU7yvwF) | [Emily Roth](https://open.spotify.com/artist/63DcWh43Brnv7VeqJxkVUu) | [White Boots](https://open.spotify.com/album/4WFVipTZMff40aq152rnAA) | 2:50 | 2025-07-04 |  |
 | [White Trash](https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [White Trash](https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw) | 3:45 | 2025-05-07 |  |
 | [White Whale](https://open.spotify.com/track/5UGmcfOzTfEf9FjWwEFcQ6) | [Cade Mower](https://open.spotify.com/artist/60t9MnOI1PKeXModNQjI8j) | [White Whale](https://open.spotify.com/album/1OLZib5gRVof1AMVUjhPFO) | 4:06 | 2024-07-24 | 2024-10-24 |
 | [Who I Was \(Montana Memories\)](https://open.spotify.com/track/1LNuRZFxL0epxjq3JRrL4B) | [Cat Stone](https://open.spotify.com/artist/5rW38Fh10oQoc0ZUN3WlQi) | [Who I Was \(Montana Memories\)](https://open.spotify.com/album/0mnVHU4BdmS5QIEFiI398u) | 4:02 | 2022-07-20 | 2022-08-18 |

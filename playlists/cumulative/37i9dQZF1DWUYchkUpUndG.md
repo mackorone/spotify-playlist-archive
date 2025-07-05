@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Henrisoul
 
-5,637 songs - 17 day 3 hr 35 min
+5,638 songs - 17 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3198,6 +3198,7 @@
 | [MOWA](https://open.spotify.com/track/70krYkrzgFj9xMdKtLxd5R) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [MOWA](https://open.spotify.com/album/29tgyRmOxdKaFMOaWoUEUf) | 2:20 | 2025-03-14 | 2025-03-28 |
 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 | 2023-07-21 | 2023-08-04 |
 | [Mowariri](https://open.spotify.com/track/0QByBNo8SvheAarquDJcMB) | [Mic Dada](https://open.spotify.com/artist/2SWGKvYcm3wowvgdQTwQ4c), [Femi Fasan](https://open.spotify.com/artist/0MV0ow3AMdwFiTFPbaloMh) | [Mowariri](https://open.spotify.com/album/7sEB4hyM7jh9kf6FPZ2UCW) | 7:54 | 2025-05-02 | 2025-05-16 |
+| [MOYA \- Remastered 2025](https://open.spotify.com/track/7dgLj6DC3n7vDb0SEGN2EB) | [Biggy Lass](https://open.spotify.com/artist/1DW5cVTmfsxhnHXMNtJoI5), [Young son](https://open.spotify.com/artist/0p5Wa1R9bpmdAcjLNhkaqC) | [MOYA \(Remastered 2025\)](https://open.spotify.com/album/0BspsybK1S1J39J93KlWrL) | 5:05 | 2025-07-04 |  |
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-03-29 | 2024-04-12 |
 | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 | 2024-06-29 | 2024-07-12 |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-08-25 | 2023-09-08 |

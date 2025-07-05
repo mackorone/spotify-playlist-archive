@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra D1MA, Tyla, WizTheMc og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,164 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,300 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,17 +72,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 62 | [Ten Out Of Ten](https://open.spotify.com/track/1vr6OT3o3Amd1SXCr5TlWh) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [ROU](https://open.spotify.com/artist/4pUoGQv3H8IsCJLsWGHeVB) | [Ten Out Of Ten](https://open.spotify.com/album/2Sr00goCrkDe8sbYP91EV2) | 2:35 |
 | 63 | [Rumors](https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Rumors](https://open.spotify.com/album/4Bam5z6xEu8eylzs4oXokN) | 2:15 |
 | 64 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 |
-| 65 | [Buzzin](https://open.spotify.com/track/4i3eTy62k7cWJzWU3nvMW5) | [Saint Best](https://open.spotify.com/artist/2veOgEYUAKtamMUZG02g3w) | [Buzzin](https://open.spotify.com/album/77a2GoETmlMyWL2uaEMseU) | 3:18 |
-| 66 | [Smil Til Mig](https://open.spotify.com/track/5dIYluGDgo3ODQYe240USY) | [Oliverz](https://open.spotify.com/artist/43Yots6ThjP8kBlbKtSSGv) | [Smil Til Mig](https://open.spotify.com/album/778hwk1bVaLYE4sVsv3DW7) | 2:36 |
-| 67 | [Freedom](https://open.spotify.com/track/29WwN7OZGIwtRsEX18c1LO) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Freedom](https://open.spotify.com/album/2FOoWd3HnAhZXGuw6gQrCg) | 2:49 |
-| 68 | [Bare Ta' Det Roligt](https://open.spotify.com/track/0qXNEupVwCmnN7Rfa0KfvU) | [FREKVÆNS](https://open.spotify.com/artist/7F1yxKKmMK1Ehqz33NTcbY) | [Bare Ta' Det Roligt](https://open.spotify.com/album/15Vnp7SE2ziVj0SdjJsogD) | 3:30 |
-| 69 | [We](https://open.spotify.com/track/6y1oIurM4zxBgXAJ4QAIPZ) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [We](https://open.spotify.com/album/1bZ1oIeIGvinFFrGoPifFz) | 2:45 |
-| 70 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 |
-| 71 | [Wonder](https://open.spotify.com/track/26Zw4E6ofUHWDbjPW4NrWy) | [Ane Sætterstrøm](https://open.spotify.com/artist/40WrtMDwxR7hS79wImNfN4) | [Wonder](https://open.spotify.com/album/4Ij5wM86m09LBujFL7uhsa) | 4:04 |
-| 72 | [Nice to Meet Ya](https://open.spotify.com/track/7r34QUcwELcqz5mH85BTZX) | [Emil Lewis](https://open.spotify.com/artist/01y4Bu7Sk1mqRpnW2oWVNo) | [Nice to Meet Ya](https://open.spotify.com/album/51uCZvQHSqeQcZEMJfDxPu) | 2:27 |
-| 73 | [Ice Cube Candy \- Radio Edit](https://open.spotify.com/track/6hviWSZAZ0SRrY43svrWsT) | [CHILD + the banned](https://open.spotify.com/artist/37jg6o775fa2KRD9iEGcNH) | [Ice Cube Candy \(Radio Edit\)](https://open.spotify.com/album/5gATYNVGSKYTUQsxq6r80l) | 3:18 |
-| 74 | [Stereo](https://open.spotify.com/track/5ss1W6tV6FuxPaiC1yDHYJ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Lovelle](https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx) | [Stereo](https://open.spotify.com/album/6LmzV6rY9jUecyjydmsrDR) | 2:24 |
-| 75 | [Fake ID](https://open.spotify.com/track/0LwCO6CtZxBDmHYZucgbSI) | [MNTL](https://open.spotify.com/artist/1aR7odDtLBCCVue0bRFDhO), [E.V Palmer](https://open.spotify.com/artist/5Gaofd13RY8uhtBPktY9dv) | [Fake ID](https://open.spotify.com/album/5RckLG34L4tZqG1eASOkYQ) | 2:07 |
-| 76 | [I Like To Dream](https://open.spotify.com/track/7w4zrb3H4NUKWjjoqEWKMA) | [Solkim](https://open.spotify.com/artist/2gVSd8DxU404yhbncF0QnF) | [I Like To Dream](https://open.spotify.com/album/2qTXa2phboDMGw5M8nejNV) | 2:56 |
+| 65 | [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 |
+| 66 | [Buzzin](https://open.spotify.com/track/4i3eTy62k7cWJzWU3nvMW5) | [Saint Best](https://open.spotify.com/artist/2veOgEYUAKtamMUZG02g3w) | [Buzzin](https://open.spotify.com/album/77a2GoETmlMyWL2uaEMseU) | 3:18 |
+| 67 | [Smil Til Mig](https://open.spotify.com/track/5dIYluGDgo3ODQYe240USY) | [Oliverz](https://open.spotify.com/artist/43Yots6ThjP8kBlbKtSSGv) | [Smil Til Mig](https://open.spotify.com/album/778hwk1bVaLYE4sVsv3DW7) | 2:36 |
+| 68 | [Freedom](https://open.spotify.com/track/29WwN7OZGIwtRsEX18c1LO) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Freedom](https://open.spotify.com/album/2FOoWd3HnAhZXGuw6gQrCg) | 2:49 |
+| 69 | [Bare Ta' Det Roligt](https://open.spotify.com/track/0qXNEupVwCmnN7Rfa0KfvU) | [FREKVÆNS](https://open.spotify.com/artist/7F1yxKKmMK1Ehqz33NTcbY) | [Bare Ta' Det Roligt](https://open.spotify.com/album/15Vnp7SE2ziVj0SdjJsogD) | 3:30 |
+| 70 | [We](https://open.spotify.com/track/6y1oIurM4zxBgXAJ4QAIPZ) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [We](https://open.spotify.com/album/1bZ1oIeIGvinFFrGoPifFz) | 2:45 |
+| 71 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 |
+| 72 | [Wonder](https://open.spotify.com/track/26Zw4E6ofUHWDbjPW4NrWy) | [Ane Sætterstrøm](https://open.spotify.com/artist/40WrtMDwxR7hS79wImNfN4) | [Wonder](https://open.spotify.com/album/4Ij5wM86m09LBujFL7uhsa) | 4:04 |
+| 73 | [Nice to Meet Ya](https://open.spotify.com/track/7r34QUcwELcqz5mH85BTZX) | [Emil Lewis](https://open.spotify.com/artist/01y4Bu7Sk1mqRpnW2oWVNo) | [Nice to Meet Ya](https://open.spotify.com/album/51uCZvQHSqeQcZEMJfDxPu) | 2:27 |
+| 74 | [Ice Cube Candy \- Radio Edit](https://open.spotify.com/track/6hviWSZAZ0SRrY43svrWsT) | [CHILD + the banned](https://open.spotify.com/artist/37jg6o775fa2KRD9iEGcNH) | [Ice Cube Candy \(Radio Edit\)](https://open.spotify.com/album/5gATYNVGSKYTUQsxq6r80l) | 3:18 |
+| 75 | [Stereo](https://open.spotify.com/track/5ss1W6tV6FuxPaiC1yDHYJ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Lovelle](https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx) | [Stereo](https://open.spotify.com/album/6LmzV6rY9jUecyjydmsrDR) | 2:24 |
+| 76 | [Fake ID](https://open.spotify.com/track/0LwCO6CtZxBDmHYZucgbSI) | [MNTL](https://open.spotify.com/artist/1aR7odDtLBCCVue0bRFDhO), [E.V Palmer](https://open.spotify.com/artist/5Gaofd13RY8uhtBPktY9dv) | [Fake ID](https://open.spotify.com/album/5RckLG34L4tZqG1eASOkYQ) | 2:07 |
+| 77 | [I Like To Dream](https://open.spotify.com/track/7w4zrb3H4NUKWjjoqEWKMA) | [Solkim](https://open.spotify.com/artist/2gVSd8DxU404yhbncF0QnF) | [I Like To Dream](https://open.spotify.com/album/2qTXa2phboDMGw5M8nejNV) | 2:56 |
 
 Snapshot ID: `aGb9eQAAAAAWlmCwUbg/xOfStACUwIE2`

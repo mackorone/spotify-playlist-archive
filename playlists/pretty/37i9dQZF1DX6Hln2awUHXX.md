@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,823 likes - 61 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,837 likes - 61 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

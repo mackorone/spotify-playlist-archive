@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Los Esquivel & Tian Glez",
+  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Plan de Escape, Fend",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -954,6 +954,28 @@
       "duration_ms": 203181,
       "name": "Baja",
       "url": "https://open.spotify.com/track/0ZqOX97C7KnilyWo1ljzZ4"
+    },
+    {
+      "album": {
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/5z8PF25HtlCIPgfzSLfVsP"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/5QzfjBCJANNSd53FDHAWse"
     },
     {
       "album": {
@@ -6530,7 +6552,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 184653,
       "name": "Me Visto Caro",
       "url": "https://open.spotify.com/track/5FdXe6NQbBl7lQ50RcS20i"
@@ -7132,6 +7154,24 @@
       "duration_ms": 184542,
       "name": "NICKI MINAJ",
       "url": "https://open.spotify.com/track/3r9iDnNEiqg7nZxQYc0FY0"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/0uRoDH07L3tAGGguSjwUQS"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163627,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4OdL91jpKqrQTg0ONo3xUV"
     },
     {
       "album": {

@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 | 33 | [i'll still feel for you](https://open.spotify.com/track/0qNOicj66xgqIEf6h5FHc7) | [PRETTY BLEAK](https://open.spotify.com/artist/6x0YBTahRdiFIVlZt9ilLx) | [i'll still feel for you](https://open.spotify.com/album/2AdHx4C7q8AczjzuwNEyEQ) | 3:31 |
 | 34 | [Late To The Party](https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:37 |
 | 35 | [Good Ol' Boys Club](https://open.spotify.com/track/4CHyDw5J56I0x40MFk5f2V) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:16 |
-| 36 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear as Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
+| 36 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear As Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
 
 Snapshot ID: `AAAAKnx+G86F4MyC2EMETs0VFuGbMWBG`

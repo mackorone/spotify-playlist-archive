@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVBFK0uYpNv.md) - [plain]
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,959 likes - 144 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,965 likes - 144 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

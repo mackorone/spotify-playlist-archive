@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Zia \(지아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,510 songs - 4 day 1 hr 54 min
+1,511 songs - 4 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,7 +1079,7 @@
 | [So to speak,Love](https://open.spotify.com/track/0kjUOLyLACpGsZP8V26nNS) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Neighborhood enemy](https://open.spotify.com/album/67B6cE29Q7bTaTkJnEVFTJ) | 4:55 | 2023-05-05 | 2023-05-16 |
 | [So you](https://open.spotify.com/track/3keXyvu1hnN63Lw8bUN3lh) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [So you \(DK\(DECEMBER\) X Busking Traveler\)](https://open.spotify.com/album/1gVTjwHau79QdOgEjp1z8M) | 4:26 | 2024-10-25 | 2025-04-16 |
 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-29 | 2022-11-17 |
-| [Softly](https://open.spotify.com/track/2ayyf1KZFHgbTORNZfBoYh) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Softly](https://open.spotify.com/album/0xEJ8Vu9QlHyIzaLCRfu0d) | 3:23 | 2025-03-26 |  |
+| [Softly](https://open.spotify.com/track/2ayyf1KZFHgbTORNZfBoYh) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Softly](https://open.spotify.com/album/0xEJ8Vu9QlHyIzaLCRfu0d) | 3:23 | 2025-03-26 | 2025-07-05 |
 | [Solitude](https://open.spotify.com/track/2PGi27GRNkWhPqyQn1068G) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Solitude](https://open.spotify.com/album/3PrVoXf0lbcHBeVYLyjkV6) | 3:14 | 2025-02-06 | 2025-04-01 |
 | [Some days](https://open.spotify.com/track/6slhQbJyE06M4zcswqaLB9) | [Kim Chan Ho](https://open.spotify.com/artist/2iL5pnX0kNkBHvRUoEuj0l) | [Some days](https://open.spotify.com/album/3aOkWcnuxgdrNPp218EPu3) | 4:09 | 2022-07-07 | 2022-08-19 |
 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2023-09-20 | 2023-12-14 |
@@ -1237,6 +1237,7 @@
 | [The Wall](https://open.spotify.com/track/6laaGxiNcLZTYM7MNUKfV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [The Forbidden Marriage, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1PvjV2Ezh7NGKGD0y2RQJJ) | 4:02 | 2023-01-20 | 2023-02-15 |
 | [The way I love you](https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Oh, Boy! OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q) | 3:54 | 2023-04-26 | 2023-09-12 |
 | [The way we were](https://open.spotify.com/track/1s2qz1ehVyS5EdCgt427hL) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [The way we were](https://open.spotify.com/album/5ja9Rqpzs5Y0Q0P6VBKADE) | 4:18 | 2023-02-08 | 2023-04-27 |
+| [The Way You Look at Me](https://open.spotify.com/track/4KygUKoHSyNlI30Mcrt9E8) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [The First Night With The Duke \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0szxP7GaHsivlZV6FpTjsD) | 3:56 | 2025-07-04 |  |
 | [The Wind Blows](https://open.spotify.com/track/1PssUYQxZqXz673rilqMvZ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Sing Forest Part.1](https://open.spotify.com/album/53wnkkDyLjZLpdRBR9iP0i) | 3:48 | 2022-03-31 | 2022-04-13 |
 | [The World of You](https://open.spotify.com/track/03LjOJ71W4yGJ0mjtudMRR) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [The World of You](https://open.spotify.com/album/0PYvMxPdN7gTsEBTDJ7ZPj) | 4:08 | 2024-01-25 | 2024-07-12 |
 | [The Youngest Day](https://open.spotify.com/track/2eV326QQILReuueEekaIcF) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [me](https://open.spotify.com/album/4GN22bZVPpEqwPsIf2uwEh) | 3:51 | 2022-01-17 | 2022-05-24 |

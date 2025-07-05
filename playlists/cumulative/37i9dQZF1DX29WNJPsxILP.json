@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 224781,
       "name": "Chamdi Chaaley",
       "url": "https://open.spotify.com/track/1CsyTxRwc2rxkpKb40pX36"
@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Kaali Kaali Aankhein",
+        "url": "https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206015,
+      "name": "Kaali Kaali Aankhein",
+      "url": "https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU"
+    },
+    {
+      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y"
       },
@@ -2702,6 +2720,28 @@
       "duration_ms": 234000,
       "name": "Kami Na Bhai",
       "url": "https://open.spotify.com/track/6uJwgrnqGbvVghf9zRcGA2"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6Etf7FyFNt4WvRVUebwdMa"
+      },
+      "artists": [
+        {
+          "name": "Nanku",
+          "url": "https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p"
+        },
+        {
+          "name": "Faizan",
+          "url": "https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/4N1dL2QsTVlucOQ4Gg9rl1"
     },
     {
       "album": {
@@ -4420,7 +4460,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 150681,
       "name": "Santa Claws",
       "url": "https://open.spotify.com/track/0TY80GStM6cxDDyLSYswni"

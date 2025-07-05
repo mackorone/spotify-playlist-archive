@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: 24kGoldn
+> a little indie, a little pop\.  Cover: Aidan Bissett
 
-1,378 songs - 2 day 20 hr 35 min
+1,381 songs - 2 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 | 2023-11-24 | 2024-01-05 |
 | [Chelsea's Coming Over](https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Chelsea's Coming Over](https://open.spotify.com/album/1VA0zdqUK2Y7mIHzLsUpql) | 2:48 | 2022-05-27 | 2022-08-13 |
 | [Chemical](https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Chemical](https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN) | 3:01 | 2024-06-21 | 2024-07-19 |
-| [Cherry Cola](https://open.spotify.com/track/2ggNs9hrDAnLkBO7DqEx2A) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Cherry Cola](https://open.spotify.com/album/7gFObQ8QKnyFLQKH5XYyxE) | 2:27 | 2025-06-20 |  |
+| [Cherry Cola](https://open.spotify.com/track/2ggNs9hrDAnLkBO7DqEx2A) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Cherry Cola](https://open.spotify.com/album/7gFObQ8QKnyFLQKH5XYyxE) | 2:27 | 2025-06-20 | 2025-07-05 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-13 | 2025-02-25 |
 | [Chloe \(feat\. Jutes\)](https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chloe \(feat\. Jutes\)](https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi) | 3:25 | 2022-09-23 | 2022-11-26 |
 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/7fw47hoXPG24gh3i94F2pt) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/14wBZka4KfOJjPgS0wVQhy) | 1:59 | 2023-07-28 | 2023-09-16 |
@@ -293,6 +293,7 @@
 | [daisies](https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [daisies](https://open.spotify.com/album/4NNX4e5yeyhDcuL2awCGpx) | 2:04 | 2023-08-11 | 2023-11-25 |
 | [DAMAGE](https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [DAMAGE](https://open.spotify.com/album/4omVNZeB8EhBJKOVwntP3j) | 3:21 | 2024-09-27 | 2025-01-15 |
 | [Damn, I miss you](https://open.spotify.com/track/0U5ok644ffKGSKW8HaaZsX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Damn, I miss you](https://open.spotify.com/album/0Byim1JQ7KLiOph79QbFQQ) | 2:40 | 2023-10-20 | 2024-01-05 |
+| [dance around it](https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [dance around it](https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H) | 2:25 | 2025-07-04 |  |
 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 | 2024-03-08 | 2024-05-18 |
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-10-29 | 2022-03-18 |
 | [Dance With Me](https://open.spotify.com/track/60woEXoiw2gYu1JCWeE9Jo) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [Dance With Me](https://open.spotify.com/album/3zy5Lkt1SQj3IUCVXheJ2j) | 4:02 | 2024-06-07 | 2024-07-19 |
@@ -371,6 +372,7 @@
 | [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 | 2024-11-08 | 2025-01-25 |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 | 2022-11-26 |
 | [emotional affair](https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu) | 3:01 | 2024-06-14 | 2024-07-19 |
+| [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 | 2025-07-04 |  |
 | [Enough](https://open.spotify.com/track/5SRtYF8McqIjXUfuZ6pkRg) | [Girlish](https://open.spotify.com/artist/5PfYBii9FIHzxC5lJBYyW9) | [Heartthrob](https://open.spotify.com/album/0vh29UqwakrXXKoXNx0pFE) | 2:58 | 2025-04-11 | 2025-06-07 |
 | [enough for you](https://open.spotify.com/track/0MVuOqwCCcEAb7iQATWBJ5) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [enough for you](https://open.spotify.com/album/2sMBLpd0aSDyWv1hCBXzcV) | 3:30 | 2025-01-03 | 2025-03-22 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 | 2024-02-03 |
@@ -601,7 +603,7 @@
 | [i love u](https://open.spotify.com/track/4h83bb7xRzB7Qo735CjLMH) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [i love u](https://open.spotify.com/album/6f3F3cp9VVYCFKerzAp82n) | 2:43 | 2022-02-25 | 2022-03-12 |
 | [I Love You So \- King Henry Remix](https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [I Love You So \(King Henry Remix\)](https://open.spotify.com/album/7mGp8czi0fTiBsg7xq6wMD) | 3:13 | 2022-01-07 | 2022-02-26 |
 | [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 | 2023-03-31 | 2023-07-01 |
-| [I Might](https://open.spotify.com/track/7qxhvX5rwSTUJs07Ju55gu) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [I Might](https://open.spotify.com/album/4Hm3EHLMSw7v8PRtO5j9wH) | 2:41 | 2025-06-06 |  |
+| [I Might](https://open.spotify.com/track/7qxhvX5rwSTUJs07Ju55gu) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [I Might](https://open.spotify.com/album/4Hm3EHLMSw7v8PRtO5j9wH) | 2:41 | 2025-06-06 | 2025-07-05 |
 | [I Miss My Friends](https://open.spotify.com/track/17KjW8iBczo8uF47vdsJQQ) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [I Miss My Friends](https://open.spotify.com/album/3LVns0qDEnPhBggXgtQtYN) | 3:17 | 2022-01-14 | 2022-02-26 |
 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-02 | 2023-03-25 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-10-29 | 2022-01-15 |
@@ -657,6 +659,7 @@
 | [ITTY BITTY](https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [ITTY BITTY](https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3) | 2:21 | 2024-06-21 | 2024-07-19 |
 | [i’m sorry](https://open.spotify.com/track/3Q0ML7kvjcGOr9QnvfDz8a) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [if we're being honest](https://open.spotify.com/album/560PHAR5paWC24zj4rtdZx) | 2:57 | 2023-06-02 | 2023-07-22 |
 | [i’m sorry for everything](https://open.spotify.com/track/2oQcWuQ41tSHKPo2UN83qe) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [i’m sorry for everything](https://open.spotify.com/album/779EcXlno6YlpYStO2Sz2m) | 2:40 | 2022-10-07 | 2022-12-17 |
+| [Jamie](https://open.spotify.com/track/3KYEnA8hogjKIquhHC0A5X) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Jamie](https://open.spotify.com/album/1arxv6UMCzUYtxzBVXXMx0) | 3:33 | 2025-07-04 |  |
 | [Japanese Cafe](https://open.spotify.com/track/20cZPbzQ9wqxWfMDWn0vPo) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Japanese Cafe](https://open.spotify.com/album/1fXTNCdCXszXaKvPW1PhO4) | 2:40 | 2024-02-09 | 2024-04-19 |
 | [Jealous](https://open.spotify.com/track/4bYTWJm6jDyVA68YAyI6JX) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Jealous](https://open.spotify.com/album/0qLz8pQ964IpX7iCgJULnL) | 2:25 | 2024-12-13 | 2025-03-22 |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-05-27 | 2022-06-04 |
@@ -1012,7 +1015,7 @@
 | [sailboat](https://open.spotify.com/track/6pVWnjQNBnRBR3mCJb0KoI) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [sailboat](https://open.spotify.com/album/09CGLTQOVUI0HumnPS9ktq) | 1:41 | 2022-07-22 | 2022-08-27 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-14 |  |
 | [Salt Water Taffy](https://open.spotify.com/track/2MuY7Djj8hqZeQFic3dY9a) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Salt Water Taffy](https://open.spotify.com/album/7z9LxFMfUtFV6YGyZHhdHR) | 3:26 | 2024-08-02 | 2024-10-26 |
-| [Same Mouth](https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Same Mouth](https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn) | 2:36 | 2025-05-16 |  |
+| [Same Mouth](https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Same Mouth](https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn) | 2:36 | 2025-05-16 | 2025-07-05 |
 | [Same Old Story](https://open.spotify.com/track/7jyy9JO1IT3txW2FMLNLf5) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Same Old Story](https://open.spotify.com/album/6SRh9ykaXuheaC83PahQ4o) | 2:51 | 2025-01-31 | 2025-04-12 |
 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 | 2022-03-04 | 2022-03-18 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2023-09-16 |

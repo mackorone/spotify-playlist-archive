@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: DYLAN
 
-925 songs - 1 day 18 hr 37 min
+927 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2023-05-06 |
 | [I Know U Know](https://open.spotify.com/track/2EFNCr1kRsyLmryWA3M8xF) | [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [I Know U Know](https://open.spotify.com/album/5TTU4kEpnHYMA8k822kJjk) | 3:01 | 2022-06-03 | 2022-07-16 |
 | [I Like You Best](https://open.spotify.com/track/75TVJYusnr7pk5ooXNLZCP) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [I Like You Best](https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX) | 2:43 | 2024-07-05 | 2025-01-25 |
+| [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 | 2025-07-04 |  |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2021-10-22 | 2022-03-18 |
 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-06-08 |
 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 | 2022-09-23 | 2023-04-22 |
@@ -427,7 +428,7 @@
 | [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 | 2024-11-15 | 2025-03-22 |
 | [I Wish I Gave You Hell](https://open.spotify.com/track/7iNGrDHPTT8ZVEjPS8Lo13) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Wish I Gave You Hell](https://open.spotify.com/album/08s3DeMH86rfM9Nso6qqB3) | 3:39 | 2024-06-14 | 2024-09-14 |
 | [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 | 2024-02-09 | 2024-05-18 |
-| [I'll be the death of us](https://open.spotify.com/track/79OhK3B4zt8VwEe2wfnGw3) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [I'll be the death of us](https://open.spotify.com/album/0jMv3ObVxDnANFmC9ASpQW) | 2:29 | 2025-05-02 |  |
+| [I'll be the death of us](https://open.spotify.com/track/79OhK3B4zt8VwEe2wfnGw3) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [I'll be the death of us](https://open.spotify.com/album/0jMv3ObVxDnANFmC9ASpQW) | 2:29 | 2025-05-02 | 2025-07-05 |
 | [I'll Just Say It](https://open.spotify.com/track/3OaR8YS7CCELb4nzDcmxMw) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [I'll Just Say It](https://open.spotify.com/album/2rKjWKEvNheSppihIV5OWG) | 2:38 | 2024-08-09 | 2024-09-21 |
 | [I'M NOT SCARED](https://open.spotify.com/track/44aXDy69XdxDgOxULxKIl3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [I'M NOT SCARED](https://open.spotify.com/album/0iZzILBoUvNzTDoT5VGyMG) | 2:32 | 2025-04-18 |  |
 | [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 | 2024-10-25 | 2025-03-08 |
@@ -521,7 +522,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 | 2024-10-19 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
 | [M.I.A](https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 2:09 | 2025-06-27 |  |
-| [made you cry](https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [made you cry](https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY) | 2:40 | 2025-04-11 |  |
+| [made you cry](https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [made you cry](https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY) | 2:40 | 2025-04-11 | 2025-07-05 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2022-10-29 |
 | [MAGIC](https://open.spotify.com/track/4DtvQH0FFDHAqHrM8tTS5s) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER \(Deluxe\)](https://open.spotify.com/album/41KBxe5xPK4LvoivmxhP5T) | 3:33 | 2024-02-02 | 2024-04-27 |
 | [make a move](https://open.spotify.com/track/5a4vtLAbKiKmJ5Trjs88wF) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [make a move](https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5) | 2:33 | 2024-03-15 | 2024-06-08 |
@@ -852,6 +853,7 @@
 | [Unattractive](https://open.spotify.com/track/7GLsAhi8OuJDAP7O5BwWTr) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Unattractive](https://open.spotify.com/album/2IwztrANynFPpFWzAbPK0k) | 3:02 | 2024-05-17 | 2024-06-29 |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2022-01-07 | 2022-03-12 |
 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 | 2024-04-12 | 2024-06-29 |
+| [Under the Weather \(All My Friends\)](https://open.spotify.com/track/0YpMFsNV3reblFvpLpD48W) | [Earth to Cheska](https://open.spotify.com/artist/3TRw8bb0v7cKloPTYnadsi) | [Under the Weather \(All My Friends\)](https://open.spotify.com/album/4DvmWD9tbBc1mNEAntkAK6) | 3:12 | 2025-07-04 |  |
 | [Undone](https://open.spotify.com/track/1tEK1Lm8PnxCi83TSxmhgt) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Undone](https://open.spotify.com/album/0gCYOi2ZfRkI6cO9j8iviH) | 3:32 | 2023-03-17 | 2023-04-22 |
 | [Unfinished Business](https://open.spotify.com/track/4YluI2KiR4ZWxqGAvNWsD1) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [Unfinished Business](https://open.spotify.com/album/4fHanSBBo7YvqXhYUQgZ8N) | 2:56 | 2023-08-18 | 2024-01-20 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-07-14 | 2023-09-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 58155,
+  "num_followers": 58162,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Double Up",
-        "url": "https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 314840,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Double Up",
+        "url": "https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy"
     },
     {
       "added_at": "2022-10-01 16:00:00",

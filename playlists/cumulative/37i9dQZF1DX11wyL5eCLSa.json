@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Depresi\u00f3n Sonora en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Adri\u00e1n Quesada en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "De Regreso",
+        "url": "https://open.spotify.com/album/4SPYigqrG10MsDoXjENm33"
+      },
+      "artists": [
+        {
+          "name": "Vigilante",
+          "url": "https://open.spotify.com/artist/6xm4gYSGOg3ik5pVBwl50L"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219395,
+      "name": "De Regreso",
+      "url": "https://open.spotify.com/track/1yyLkSKtweWX6G8wsAPJAB"
+    },
+    {
+      "album": {
         "name": "Cocoliche Life",
         "url": "https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc"
       },
@@ -3106,7 +3124,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 224209,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/5uyLN2pKGmgl5FrfEsyVkZ"
@@ -3160,7 +3178,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 192040,
       "name": "Donde Vivimos Juntos",
       "url": "https://open.spotify.com/track/3utYGrlEOApB9dH2TQuU9Z"
@@ -5910,6 +5928,24 @@
     {
       "album": {
         "name": "Laberinto",
+        "url": "https://open.spotify.com/album/10DngffOiajm0rmcVbcnVF"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258879,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/4fDmiHDWeCXCB9BY52vXDz"
+    },
+    {
+      "album": {
+        "name": "Laberinto",
         "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
       },
       "artists": [
@@ -8545,6 +8581,24 @@
     },
     {
       "album": {
+        "name": "nunca he aprendido a soltar",
+        "url": "https://open.spotify.com/album/15HxFTwGLR6PB3PKPQj84d"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208254,
+      "name": "nunca he aprendido a soltar",
+      "url": "https://open.spotify.com/track/2u0oPp1ctq1m4ojQKt6Whb"
+    },
+    {
+      "album": {
         "name": "Viaje Por Lo Eterno",
         "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
@@ -11058,7 +11112,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 246393,
       "name": "TERNURA RADICAL",
       "url": "https://open.spotify.com/track/1ROv5qUvLuDUqI6f2v5iLN"

@@ -11,7 +11,7 @@
 | [\(アリゾナ 緑茶\) arizona green tea](https://open.spotify.com/track/1ZF1xEOClUgmqBxUIx627e) | [tiredjohannes](https://open.spotify.com/artist/4Lm9BNuTUGPqgMBuIpAR2i) | [self\-care, Vol\. 1](https://open.spotify.com/album/1rfkfGaRj113CXQSHpvuRj) | 3:12 | 2022-06-06 | 2022-07-16 |
 | [.nothing to show here.](https://open.spotify.com/track/2gyxeKWsJk7sdy4BQcYCM6) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [PIPE WRLD](https://open.spotify.com/album/4q5s6TTYD1kjMoYyalqmVO) | 3:22 | 2022-08-12 | 2022-09-12 |
 | [006original](https://open.spotify.com/track/08qs9eJWCCNp1KzQk1iJUD) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM) | [006original](https://open.spotify.com/album/0Tp2xg6jyxC4GsstLsD2Hv) | 1:36 | 2022-01-26 | 2022-06-25 |
-| [100% Erotica](https://open.spotify.com/track/2mEuwWAo32Fu2YzwghiXuv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Synthetic Sweetheart](https://open.spotify.com/album/1GGYOsqkY7FbViz0pKxw0u) | 2:59 | 2022-04-11 |  |
+| [100% Erotica](https://open.spotify.com/track/2mEuwWAo32Fu2YzwghiXuv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Synthetic Sweetheart](https://open.spotify.com/album/1GGYOsqkY7FbViz0pKxw0u) | 2:59 | 2022-04-11 | 2025-07-05 |
 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 | 2021-12-08 |  |
 | [1997](https://open.spotify.com/track/6JetmovsIBWOGSOKQnbza7) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [1997](https://open.spotify.com/album/7HoN7VZy21Gd9kRwVio1oH) | 5:42 | 2022-07-15 | 2022-08-13 |
 | [1997](https://open.spotify.com/track/6rhv7nts8BB94KjQLwP6qF) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [Cloud Zero](https://open.spotify.com/album/3VABoV6hfnboGf0JMInFEw) | 5:42 | 2022-08-12 | 2022-09-15 |
@@ -452,6 +452,6 @@
 | [都 市 フ ォ ー ラ ム Consumer \[kahvi\]](https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [シ ョ ッ プ @ ヘ ル シ ン キ](https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl) | 5:54 | 2021-12-08 | 2022-11-19 |
 | [都市フォーラム Consumer \(kahvi\)](https://open.spotify.com/track/1V4E9a1EalEmIFkrJ7cZ1L) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [ショップ @ ヘルシンキ](https://open.spotify.com/album/7upP20MlGsGVBis10Jmv7O) | 5:54 | 2023-07-18 | 2024-04-19 |
 | [都市フォーラム Consumer \[kahvi\]](https://open.spotify.com/track/0ROwi1AbB8iDecrn5MRxoR) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [ショップ @ ヘルシンキ](https://open.spotify.com/album/3lsIOYThsgxgdWUXOljYns) | 5:54 | 2022-09-11 | 2023-07-16 |
-| [青春の休暇](https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [青春の休暇](https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu) | 4:23 | 2022-02-27 | 2025-07-01 |
+| [青春の休暇](https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [青春の休暇](https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu) | 4:23 | 2022-02-27 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

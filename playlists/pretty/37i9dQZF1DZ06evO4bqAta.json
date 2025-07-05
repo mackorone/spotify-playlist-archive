@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 576582,
+  "num_followers": 576675,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGR2gAAAAAAYkrsFjO818mUzNtrmzphg",
+  "snapshot_id": "aGXIAAAAAAAyOaRJ6eEXU2ZR3iZ/e8Mo",
   "tracks": [
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 327466,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK"
+      "duration_ms": 356226,
+      "name": "Tombstone Blues",
+      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
     },
     {
       "added_at": null,
@@ -739,54 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 451133,
-      "name": "Visions of Johanna",
-      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slow Train Coming",
-        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 324800,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 356226,
-      "name": "Tombstone Blues",
-      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Secret Of Life: Partners, Volume 2",
         "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
       },
@@ -803,6 +755,54 @@
       "duration_ms": 232751,
       "name": "The Very Thought Of You (with Bob Dylan)",
       "url": "https://open.spotify.com/track/11D9S73itV15ZGvlaCIL0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 451133,
+      "name": "Visions of Johanna",
+      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 327466,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 324800,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
     },
     {
       "added_at": null,

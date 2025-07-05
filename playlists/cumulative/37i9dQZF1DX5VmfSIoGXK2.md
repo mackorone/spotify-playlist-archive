@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with Chaos In The CBD
 
-122 songs - 8 hr 15 min
+124 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cloud Nine](https://open.spotify.com/track/4HbYC5n3UHmm6SxdCC7Jn2) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Days In The Sun](https://open.spotify.com/album/4jrMiOto4gfVQVapKnhIJx) | 3:12 | 2025-02-21 |  |
 | [Cold nights and city bike rides.](https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Oliver Rees](https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI) | [Cold nights and city bike rides.](https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2) | 2:46 | 2025-06-27 |  |
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-03-28 |  |
+| [daydream](https://open.spotify.com/track/60ghoHsVEM4VEE1f7OKzcv) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [daydream](https://open.spotify.com/album/0VLNY1VYVWe0AWm0BI5nDA) | 2:52 | 2025-07-04 |  |
 | [De Vere](https://open.spotify.com/track/5QBuldX6YpnOtKfuQPlamh) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [De Vere](https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM) | 2:27 | 2025-02-21 |  |
 | [Different place, same people](https://open.spotify.com/track/0i6vMyHFpLh8Az4ra1iuQM) | [Altone Dieux](https://open.spotify.com/artist/5jaLmESXLLyV6XXvGkJFNv) | [Different place, same people](https://open.spotify.com/album/1wUJpcDx6efKPrmHwYDsU6) | 2:06 | 2025-02-21 |  |
 | [Disco in Doha](https://open.spotify.com/track/6HISSlYeN7ooBd1WCijmDF) | [Lamchopz](https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF) | [Disco in Doha](https://open.spotify.com/album/6kis2IuvxvdPt0jDH02Wrc) | 6:02 | 2025-03-21 |  |
@@ -45,7 +46,7 @@
 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 | 2025-06-28 |
 | [fiesta jazz](https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [fiesta jazz](https://open.spotify.com/album/78nm9fNZtgUmzlhXTuF19g) | 1:55 | 2025-05-30 |  |
 | [fifth element](https://open.spotify.com/track/70wy9Kh0umg2TYGmIh05oc) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Gina Sobel](https://open.spotify.com/artist/1J4zEWSsVL27NBNRgKiKr0) | [lounge lizard](https://open.spotify.com/album/5WUzH9R8AOGWqlXUtusmYz) | 3:31 | 2025-04-18 |  |
-| [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 |  |
+| [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 | 2025-07-05 |
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
 | [fourth wave](https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [fourth wave](https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt) | 4:24 | 2025-03-28 |  |
@@ -108,7 +109,7 @@
 | [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 |  |
 | [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 |  |
 | [Six Am](https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 3:24 | 2025-02-21 |  |
-| [Society's Man](https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 7:24 | 2025-04-04 |  |
+| [Society's Man](https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 7:24 | 2025-04-04 | 2025-07-05 |
 | [SOMEWHERE IN MANHATTAN](https://open.spotify.com/track/2oOi12NtTZZGJkujoAK3cL) | [Luke Andy](https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS) | [SOMEWHERE IN MANHATTAN](https://open.spotify.com/album/6fAfX2xL2iNUSapSs32lOa) | 3:30 | 2025-06-20 |  |
 | [Spore](https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Spore](https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz) | 2:30 | 2025-06-06 |  |
 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 | 2025-03-21 |  |
@@ -116,6 +117,7 @@
 | [Takes Time](https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Takes Time](https://open.spotify.com/album/0jW9tsdoxRlkxdroh5Nyox) | 6:09 | 2025-03-07 |  |
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2025-02-21 |  |
 | [Tess](https://open.spotify.com/track/4g2IofvpR6XcrX9I1Rui3J) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Tess](https://open.spotify.com/album/1SpgeROLMxyyyeBEXeu2Es) | 3:32 | 2025-02-21 |  |
+| [the message](https://open.spotify.com/track/73blhc3aERjdW7XXS04e2Z) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [the message](https://open.spotify.com/album/5PeLuRScqmff4MV6hSAyTN) | 3:48 | 2025-07-04 |  |
 | [The Road is Long](https://open.spotify.com/track/6QZPF2qAWRlKcvWksumlZh) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [The Road is Long](https://open.spotify.com/album/0gHCl3TDVNHxR1FA6FPq5t) | 7:29 | 2025-02-21 |  |
 | [tres palmas](https://open.spotify.com/track/3Das5N4gqRSDDyoyxrTZpq) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [tres palmas](https://open.spotify.com/album/2doAeZEmDlWabXhhaiAql5) | 3:04 | 2025-02-28 | 2025-04-26 |
 | [Tryin' Find A Way \- Club Mix](https://open.spotify.com/track/5dUMhESneKFO2owCLbVKJ8) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0) | [The Radicle \(Expanded Edition\)](https://open.spotify.com/album/0eersZ0Zl9dLM7vOIP76Ur) | 7:06 | 2025-02-21 | 2025-05-10 |

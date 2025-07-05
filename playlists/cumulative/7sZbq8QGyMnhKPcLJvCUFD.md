@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-728 songs - 1 day 12 hr 40 min
+729 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 | 2025-01-21 |  |
 | [snake eyes](https://open.spotify.com/track/5GpJ4hQliOMpemRVqrDyBy) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [snake eyes](https://open.spotify.com/album/2vuH7JCmiZnZ2BpXw9PGz5) | 2:15 | 2025-06-27 |  |
 | [So Good](https://open.spotify.com/track/0C6275GUv27JP82Vc6jXnF) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [So Good](https://open.spotify.com/album/7GuUaitLe4QQQWhwbIs000) | 2:52 | 2025-04-29 |  |
+| [So Sweet](https://open.spotify.com/track/6XekDX1T9H2mcujtuhHIZU) | [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT), [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH) | [So Sweet](https://open.spotify.com/album/4Z1vbwLPqTQ8jgBPeByTSh) | 2:00 | 2025-07-04 |  |
 | [Sold Dreams](https://open.spotify.com/track/0NOR0mj9h4KyIuEBROGpVA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Sold Dreams](https://open.spotify.com/album/5B1FEceDW5hOWDNIpnrz6U) | 1:31 | 2023-12-13 | 2024-05-08 |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 | 2023-08-10 |
 | [Soundclash](https://open.spotify.com/track/2RI50gVvlJUjr6v3pZxYrk) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Soundclash](https://open.spotify.com/album/3WhTR2g9NgJvZawTpwutM2) | 3:39 | 2024-05-17 | 2025-01-08 |

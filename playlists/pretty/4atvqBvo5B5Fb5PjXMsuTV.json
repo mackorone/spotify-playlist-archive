@@ -1,13 +1,93 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Jul 22:03 UTC.",
-  "num_followers": 95,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Jul 22:03 UTC.",
+  "num_followers": 96,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAATC2NNP28QoL0DrzXpOSYbX+WrdinB",
+  "snapshot_id": "AAATESaq1rvJWCkmXgBUDufJA1zIoino",
   "tracks": [
+    {
+      "added_at": "2025-07-04 18:04:22",
+      "album": {
+        "name": "Kickboxer",
+        "url": "https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ"
+    },
+    {
+      "added_at": "2025-07-04 08:04:10",
+      "album": {
+        "name": "peter pan.",
+        "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 184614,
+      "name": "peter pan.",
+      "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
+    },
+    {
+      "added_at": "2025-07-04 08:04:10",
+      "album": {
+        "name": "The Adventures of Cocaine Larry",
+        "url": "https://open.spotify.com/album/3UQGAcqllwtEjtd4GfHG0M"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "The Adventures of Cocaine Larry",
+      "url": "https://open.spotify.com/track/3DgPs41AXYyH951ZdrnPeu"
+    },
+    {
+      "added_at": "2025-07-04 08:04:10",
+      "album": {
+        "name": "Catch Me Outside 2",
+        "url": "https://open.spotify.com/album/3S1bi3bHxtPHtlCAKiOKW7"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 127236,
+      "name": "Catch Me Outside 2",
+      "url": "https://open.spotify.com/track/6XEHE51mqCIyBP1LIuDWqj"
+    },
+    {
+      "added_at": "2025-07-04 18:04:22",
+      "album": {
+        "name": "BABYRINO",
+        "url": "https://open.spotify.com/album/0x4lDg9zVDZth6nlP5Maar"
+      },
+      "artists": [
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "duration_ms": 132120,
+      "name": "BABYRINO",
+      "url": "https://open.spotify.com/track/59ROR8sJpSxM16hqXtFUGU"
+    },
     {
       "added_at": "2025-07-03 08:04:24",
       "album": {
@@ -51,6 +131,22 @@
       "duration_ms": 422068,
       "name": "In My Town",
       "url": "https://open.spotify.com/track/02d0eSjcUsP9Lcubb7QUHJ"
+    },
+    {
+      "added_at": "2025-07-04 22:03:54",
+      "album": {
+        "name": "Uh Yaya",
+        "url": "https://open.spotify.com/album/2pyg5qIAqEVNBVX4heDVpi"
+      },
+      "artists": [
+        {
+          "name": "vianova",
+          "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
+        }
+      ],
+      "duration_ms": 249676,
+      "name": "Uh Yaya",
+      "url": "https://open.spotify.com/track/7rvPUq1aEiKrPJckEwWwAm"
     },
     {
       "added_at": "2025-07-03 22:03:47",
@@ -179,6 +275,22 @@
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
+    },
+    {
+      "added_at": "2025-07-04 08:04:10",
+      "album": {
+        "name": "Television Love",
+        "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 280800,
+      "name": "Television Love",
+      "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
     },
     {
       "added_at": "2025-07-01 08:06:08",
@@ -731,118 +843,6 @@
       "duration_ms": 191952,
       "name": "Kiss It",
       "url": "https://open.spotify.com/track/0crf7XPp15LSQ82AId28aK"
-    },
-    {
-      "added_at": "2025-06-30 18:05:05",
-      "album": {
-        "name": "I Just Don't Know You Yet",
-        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 201007,
-      "name": "I Just Don't Know You Yet",
-      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
-    },
-    {
-      "added_at": "2025-06-28 13:04:27",
-      "album": {
-        "name": "momo.",
-        "url": "https://open.spotify.com/album/0VljFz7Lsrfa5ep5bLbGEl"
-      },
-      "artists": [
-        {
-          "name": "shteppi",
-          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
-        }
-      ],
-      "duration_ms": 186471,
-      "name": "momo.",
-      "url": "https://open.spotify.com/track/2UQcWSeabv2lD6hiKcfE2C"
-    },
-    {
-      "added_at": "2025-06-29 13:03:39",
-      "album": {
-        "name": "SAVIOR",
-        "url": "https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "SAVIOR",
-      "url": "https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7"
-    },
-    {
-      "added_at": "2025-06-30 13:04:57",
-      "album": {
-        "name": "Infestis",
-        "url": "https://open.spotify.com/album/75GfcIxZoztj8ZXQnHCxt1"
-      },
-      "artists": [
-        {
-          "name": "Igorrr",
-          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
-        }
-      ],
-      "duration_ms": 326413,
-      "name": "Infestis",
-      "url": "https://open.spotify.com/track/2pd9itTuHrR5RW9e42oz2O"
-    },
-    {
-      "added_at": "2025-06-29 18:04:05",
-      "album": {
-        "name": "WIFEY",
-        "url": "https://open.spotify.com/album/1tNFQJTavzceB0nE8TTPBr"
-      },
-      "artists": [
-        {
-          "name": "ARIA BELA",
-          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
-        }
-      ],
-      "duration_ms": 183021,
-      "name": "WIFEY",
-      "url": "https://open.spotify.com/track/2CAZRdOniNbyR1ehg8rUYF"
-    },
-    {
-      "added_at": "2025-06-27 08:05:28",
-      "album": {
-        "name": "My Love is a Quickscope",
-        "url": "https://open.spotify.com/album/2fm2HpEwNWqdsqLcCE4D0H"
-      },
-      "artists": [
-        {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "My Love is a Quickscope",
-      "url": "https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz"
-    },
-    {
-      "added_at": "2025-06-29 22:04:40",
-      "album": {
-        "name": "Gvasalia",
-        "url": "https://open.spotify.com/album/4Zb4K0GsexEYdGUcJ5LZqM"
-      },
-      "artists": [
-        {
-          "name": "roro",
-          "url": "https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs"
-        }
-      ],
-      "duration_ms": 149661,
-      "name": "Gvasalia",
-      "url": "https://open.spotify.com/track/1ahqJKpmzSAOYzvdpaQSVR"
     }
   ],
   "unique_name": "New Singles Now",

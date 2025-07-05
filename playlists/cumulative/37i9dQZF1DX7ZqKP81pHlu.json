@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hottest 50 tracks in Algeria. Cover: Soolking, GIMS",
+  "description": "The hottest 50 tracks in Algeria. Cover: Numidia Lezoul",
   "name": "Hot Hits Algeria",
   "tracks": [
     {
@@ -1468,6 +1468,28 @@
       "duration_ms": 314083,
       "name": "Effet De L'Amour",
       "url": "https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V"
+    },
+    {
+      "album": {
+        "name": "El Ghira",
+        "url": "https://open.spotify.com/album/0kc537yKO4crc50nRqMWv8"
+      },
+      "artists": [
+        {
+          "name": "Cheb Cristal",
+          "url": "https://open.spotify.com/artist/4OucPEDMUkYVhet2JqVHs6"
+        },
+        {
+          "name": "Hasna Elaazizi",
+          "url": "https://open.spotify.com/artist/4eiZIVmnpwWyEjaGs1xBio"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319425,
+      "name": "El Ghira",
+      "url": "https://open.spotify.com/track/5V2zIdJc8wVDkn8yza53QF"
     },
     {
       "album": {
@@ -3316,7 +3338,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -3974,7 +3996,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
@@ -5050,6 +5072,24 @@
       "duration_ms": 759743,
       "name": "\u0627\u0635\u0628\u0631 \u0623\u0642\u0644\u0628\u064a \u0635\u0628\u0627\u0631 - Guitar Version",
       "url": "https://open.spotify.com/track/7GypUUjgqKRhIyoEWwMVuP"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0644\u0628\u0633 \u0644\u0627\u0643\u0648\u0633\u062a \u062a\u0644\u0628\u0633 \u0641\u0627\u0646\u062f\u064a \u0628\u06a8\u0627\u0646\u062f\u064a \u062a\u06a8\u0639\u062f \u0628\u06a8\u0627\u0646\u062f\u064a",
+        "url": "https://open.spotify.com/album/6ogfT1oeL9zSNqfWWjcgxP"
+      },
+      "artists": [
+        {
+          "name": "Cheb Badro",
+          "url": "https://open.spotify.com/artist/77ajZbWMJ87JLLMVUPZDy3"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330918,
+      "name": "\u062a\u0644\u0628\u0633 \u0644\u0627\u0643\u0648\u0633\u062a \u062a\u0644\u0628\u0633 \u0641\u0627\u0646\u062f\u064a \u0628\u06a8\u0627\u0646\u062f\u064a \u062a\u06a8\u0639\u062f \u0628\u06a8\u0627\u0646\u062f\u064a",
+      "url": "https://open.spotify.com/track/3jyyG3x2WlkQu2V23gWTjl"
     },
     {
       "album": {

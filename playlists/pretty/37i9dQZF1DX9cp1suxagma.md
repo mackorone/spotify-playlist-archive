@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Natalia Natalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,969 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,977 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 |
 | 2 | [RD](https://open.spotify.com/track/15wOr6sCU1HlWNCTHjxirx) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 2:34 |
 | 3 | [Mi Casa](https://open.spotify.com/track/0kfPIJCXi0wohJAz8NDWdS) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Mi Casa](https://open.spotify.com/album/1BG12xD3hKPPZcMO5d2rx9) | 3:09 |
-| 4 | [La Crisis De Los 20](https://open.spotify.com/track/67nYstbq7HBorHzkGvRZFr) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Los De Los 2000](https://open.spotify.com/album/0x5Y9AaukN9QbM4Grb65FN) | 2:48 |
-| 5 | [¿Cómo Pasó? Con Morat \- Live](https://open.spotify.com/track/7FpqL8i3LVBYWm5RvMsdS8) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:11 |
-| 6 | [Una Noche Contigo](https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Una Noche Contigo](https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3) | 3:13 |
-| 7 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
-| 8 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 |
-| 9 | [Todos Tenemos Cicatrices](https://open.spotify.com/track/7vEDuljzjMXQOyrZZh8ipu) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Todos Tenemos Cicatrices](https://open.spotify.com/album/6FkTpFrUi4EZEPDKmCtIX0) | 3:38 |
-| 10 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
+| 4 | [¿Cómo Pasó? Con Morat \- Live](https://open.spotify.com/track/7FpqL8i3LVBYWm5RvMsdS8) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:11 |
+| 5 | [Una Noche Contigo](https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Una Noche Contigo](https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3) | 3:13 |
+| 6 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
+| 7 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 |
+| 8 | [Todos Tenemos Cicatrices](https://open.spotify.com/track/7vEDuljzjMXQOyrZZh8ipu) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Todos Tenemos Cicatrices](https://open.spotify.com/album/6FkTpFrUi4EZEPDKmCtIX0) | 3:38 |
+| 9 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
+| 10 | [53 mensajes](https://open.spotify.com/track/1sWlwaQjyEn8yFUedRJ1ru) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Fragmentos](https://open.spotify.com/album/2B43Igtwcqi0G7FPph7bEQ) | 3:05 |
 | 11 | [Te Quiero Mucho](https://open.spotify.com/track/5NOHPW4eJSnYOr705Kaivl) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Naty Botero](https://open.spotify.com/album/63KPlK1GpeACZmN2oQ7Wm5) | 3:37 |
 | 12 | [Que No Me Falten](https://open.spotify.com/track/3quijRz4YM5tagBK4kj3vC) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Que No Me Falten](https://open.spotify.com/album/3GRhFeE5g1X4lTBbJhGH85) | 2:30 |
 | 13 | [Me Muero](https://open.spotify.com/track/5hbOB1PvPS7WySf4HQ2As9) | [De Narvaez](https://open.spotify.com/artist/7MutscQk35q3QHOJ8mYGWT) | [Notas de Voz](https://open.spotify.com/album/3KTZtsFjUeX5a1ojKdpoPF) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `aFTNDgAAAAA1IsriEQqPkG6Y0s6Zhago`
+Snapshot ID: `aGdgHAAAAAC3M8v6vaEunAaed8XdOxU5`

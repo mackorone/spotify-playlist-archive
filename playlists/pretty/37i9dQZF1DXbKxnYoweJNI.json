@@ -1,6 +1,6 @@
 {
   "description": "\u7121\u8ad6\u98a8\u683c\u6c23\u5473\uff0c\u7368\u7acb\u53ea\u554f\u97f3\u6a02\u81ea\u4e3b\uff0c\u5531\u4f5c\u8868\u73fe\u6e05\u6e05\u695a\u695a\uff01Cover: \u5442\u5141 (Lu Yun)",
-  "num_followers": 61922,
+  "num_followers": 61933,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-07-03 16:00:17",
       "album": {
+        "name": "\u6211\u4e0d\u6703\u8df3",
+        "url": "https://open.spotify.com/album/1utxkgazf3xrbejJlZUwtT"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u6f22\u5178",
+          "url": "https://open.spotify.com/artist/18CZokW8vv5EdMn1bYroOo"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "\u6211\u4e0d\u6703\u8df3",
+      "url": "https://open.spotify.com/track/38D8vniYyRefifED6h1nDK"
+    },
+    {
+      "added_at": "2025-07-03 16:00:17",
+      "album": {
         "name": "YOU JUST WANT TO BE IN MY BODY",
         "url": "https://open.spotify.com/album/7BwFzuheBYDcI3Tu8f5BVt"
       },
@@ -705,7 +721,7 @@
         },
         {
           "name": "\u8cf4\u6148\u6cd3",
-          "url": "https://open.spotify.com/artist/4uXj8gagDzZOqnV8fGRmZ5"
+          "url": "https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l"
         }
       ],
       "duration_ms": 183673,

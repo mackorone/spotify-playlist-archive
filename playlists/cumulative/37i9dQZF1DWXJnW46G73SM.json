@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c & \u0625\u0633\u0644\u0627\u0645 \u0643\u0627\u0628\u0648\u0646\u062c\u0627",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -4359,24 +4359,6 @@
     },
     {
       "album": {
-        "name": "DAHR",
-        "url": "https://open.spotify.com/album/4nHQVBbFyeu4a9ghgDwO5e"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Ramadan",
-          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
-        }
-      ],
-      "date_added": "2025-07-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148806,
-      "name": "DAHR",
-      "url": "https://open.spotify.com/track/1bsn3C90tgUAgGIuggIxQD"
-    },
-    {
-      "album": {
         "name": "Dalla3 Wetdalla3",
         "url": "https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6"
       },
@@ -8022,6 +8004,24 @@
       "duration_ms": 211502,
       "name": "Hamoot Men Gherha",
       "url": "https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX"
+    },
+    {
+      "album": {
+        "name": "Hanehky Fe Eih",
+        "url": "https://open.spotify.com/album/3gLfi17apJkOvkpCR2gIHb"
+      },
+      "artists": [
+        {
+          "name": "Code Masr",
+          "url": "https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235034,
+      "name": "Hanehky Fe Eih",
+      "url": "https://open.spotify.com/track/7IJazBonXaVmMyYfJ4MTkI"
     },
     {
       "album": {
@@ -16796,8 +16796,8 @@
           "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
         },
         {
-          "name": "Lege Cy",
-          "url": "https://open.spotify.com/artist/4SO6pAHWg8eXSkTYvN9XdZ"
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
         }
       ],
       "date_added": "2025-07-03",
@@ -26884,6 +26884,24 @@
       "duration_ms": 156029,
       "name": "\u0645\u0646 \u0623\u0648\u0644 \u064a\u0648\u0645",
       "url": "https://open.spotify.com/track/4hqxXL2H3VMVKLSLOsy37c"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0646 \u0636\u0647\u0631 \u0631\u0627\u062c\u0644",
+        "url": "https://open.spotify.com/album/4nHQVBbFyeu4a9ghgDwO5e"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148806,
+      "name": "\u0645\u0646 \u0636\u0647\u0631 \u0631\u0627\u062c\u0644",
+      "url": "https://open.spotify.com/track/1bsn3C90tgUAgGIuggIxQD"
     },
     {
       "album": {

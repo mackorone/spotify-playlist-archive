@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Brand\u00e3o85",
-  "num_followers": 147284,
+  "num_followers": 147286,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,34 @@
     {
       "added_at": "2025-06-28 01:12:12",
       "album": {
+        "name": "ISSO \u00c9 TRAP",
+        "url": "https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 291374,
+      "name": "100% MOLHO",
+      "url": "https://open.spotify.com/track/6PMFRImayWVHs9rXA7bOsu"
+    },
+    {
+      "added_at": "2025-06-28 01:12:12",
+      "album": {
         "name": "Invis\u00edvel pt.2",
         "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
       },
@@ -195,34 +223,6 @@
       "duration_ms": 174556,
       "name": "Invis\u00edvel pt.2",
       "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
-    },
-    {
-      "added_at": "2025-06-28 01:12:12",
-      "album": {
-        "name": "ISSO \u00c9 TRAP",
-        "url": "https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 291374,
-      "name": "100% MOLHO",
-      "url": "https://open.spotify.com/track/6PMFRImayWVHs9rXA7bOsu"
     },
     {
       "added_at": "2025-06-28 01:12:12",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-06-28 01:12:12",
       "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
-    },
-    {
-      "added_at": "2025-06-28 01:12:12",
-      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/6UsLoyTAeRFmcTb1PpNR5a"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 134226,
       "name": "ABC",
       "url": "https://open.spotify.com/track/5yX0aLjzZe1wDy4camywS4"
+    },
+    {
+      "added_at": "2025-06-28 01:12:12",
+      "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
       "added_at": "2025-06-28 01:12:12",

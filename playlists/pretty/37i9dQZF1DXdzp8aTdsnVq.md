@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Silvestre Dangond & Juancho de la Espriella
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,321 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,312 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Volvamos a Ser Novios](https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Último Baile](https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si) | 3:57 |
 | 2 | [Ay Me Enamoré](https://open.spotify.com/track/7DRlRTXgYF8lhyASJEXkIA) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [La Jerarquía](https://open.spotify.com/album/0rbgeaPpbLvETwqErcbvIU) | 4:15 |
 | 3 | [UN VALLENATICO](https://open.spotify.com/track/2IFAhnHOXL1UDx1iVXy2eD) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [DR\. DEALER](https://open.spotify.com/album/0Ic6Jvj4b7fbHBDQfuAIgT) | 3:55 |
-| 4 | [Por Ellas](https://open.spotify.com/track/3n0Jrxvy5Fo9eJt37Fhu4D) | [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ), [Hebert Vargas](https://open.spotify.com/artist/5LIulxyhL1bYKZzThgO0zI), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Wilfran Castillo](https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [Por Ellas](https://open.spotify.com/album/4KBl8Rvd8SE9hHIptdxLTp) | 3:57 |
-| 5 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 |
-| 6 | [El Picantico](https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [EL CANTOR](https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp) | 3:43 |
+| 4 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 |
+| 5 | [El Picantico](https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [EL CANTOR](https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp) | 3:43 |
+| 6 | [Me Espera Algo Mejor](https://open.spotify.com/track/5ClDHzE6hQw2gG520sEDq1) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Victor Nain Jr](https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7) | [JORGITO](https://open.spotify.com/album/5FvL6Lv5S8FN88KMtLdLK5) | 3:00 |
 | 7 | [DESESPERADO](https://open.spotify.com/track/1JfWU4M4wsLxmefinlXrWw) | [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS), [Juank Ricardo](https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ) | [DESESPERADO](https://open.spotify.com/album/5K5hnCuL3a0HqLDAgO5MfJ) | 3:51 |
 | 8 | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/track/1ixIQXRPH0ZjrCcq13DIl1) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/album/72i69AiCrCe9e6PBh8zyoL) | 3:32 |
 | 9 | [Cosas Sencillas](https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Sencillas](https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `aF4lGQAAAAD0qFEk/iR4YTXXRwJ25f0h`
+Snapshot ID: `aGdgHAAAAAD1BlKAxOif5vuD7qZmQ23I`

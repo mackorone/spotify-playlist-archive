@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Hunsick",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 283727,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/70czjI8Z88yCw54iXfte1F"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 156279,
       "name": "Life 2 Deep",
       "url": "https://open.spotify.com/track/6nB1Axy5GnXZGpzoqs4jJy"
@@ -4316,6 +4316,28 @@
       "duration_ms": 262758,
       "name": "ONE GIRL",
       "url": "https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD"
+    },
+    {
+      "album": {
+        "name": "ONE HUNDRED PERCENT (100%)",
+        "url": "https://open.spotify.com/album/5YB8Yf7jRpezsVFl4J52Q4"
+      },
+      "artists": [
+        {
+          "name": "KRK",
+          "url": "https://open.spotify.com/artist/69jmffWjz5TWglZkReTYJC"
+        },
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230078,
+      "name": "ONE HUNDRED PERCENT (100%)",
+      "url": "https://open.spotify.com/track/0q9qDhap2nU1jhRRmmhuRC"
     },
     {
       "album": {
@@ -5991,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/095xs3mn4Liu7EqDc8HeUO"
+      },
+      "artists": [
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174757,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt"
+    },
+    {
+      "album": {
         "name": "Turn To Something",
         "url": "https://open.spotify.com/album/2LwN4BmqOwe7QzLZ9jPMTc"
       },
@@ -7531,6 +7571,28 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e33\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e",
+        "url": "https://open.spotify.com/album/5GtfUsXvWrQTIt7B7FgUrd"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Jayrun",
+          "url": "https://open.spotify.com/artist/6ZjhHErPU82gGyEzzZvLo5"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "\u0e04\u0e33\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e",
+      "url": "https://open.spotify.com/track/66hMeagJVQVjvf295ggudK"
+    },
+    {
+      "album": {
         "name": "URMAN",
         "url": "https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd"
       },
@@ -7710,7 +7772,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 173793,
       "name": "\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e44\u0e1b\u0e44\u0e2b\u0e19\u0e17\u0e33\u0e44\u0e21\u0e44\u0e21\u0e48\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48",
       "url": "https://open.spotify.com/track/3UwrAJaeOqVCm0irEWcxy7"
@@ -9596,7 +9658,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 146495,
       "name": "\u0e21\u0e31\u0e48\u0e19\u0e43\u0e08\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e14\u0e34\u0e27\u0e48\u0e30",
       "url": "https://open.spotify.com/track/3qllosM3e50u675h2Ftdwu"
@@ -10775,6 +10837,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e21\u0e32\u0e18\u0e34\u0e2a\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/1KkxnxDY1PkkfqWG1ro1Kb"
+      },
+      "artists": [
+        {
+          "name": "ISEAST",
+          "url": "https://open.spotify.com/artist/0dt1yV0LyuMy145NvQrH1Y"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243631,
+      "name": "\u0e2a\u0e21\u0e32\u0e18\u0e34\u0e2a\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/55x7eWuOh4lUNBodZzJTiG"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e27\u0e22",
         "url": "https://open.spotify.com/album/4JL9UUTKMsoLY6S7q6VaaL"
       },
@@ -11861,6 +11941,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07",
+        "url": "https://open.spotify.com/album/4pj3DnSiEanMi4Cg2uA3Lg"
+      },
+      "artists": [
+        {
+          "name": "Young J",
+          "url": "https://open.spotify.com/artist/5nYImteGVIjH7sXrD9quLp"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07",
+      "url": "https://open.spotify.com/track/1uYhP1xNM9cVmcAV2r5qT4"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e0a\u0e49\u0e32 5 \u0e40\u0e22\u0e47\u0e19 5",
         "url": "https://open.spotify.com/album/4gSldLdG4zOL5K9DgRdcq2"
       },
@@ -11937,6 +12039,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e14\u0e47\u0e01\u0e04\u0e19\u0e19\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/00ZfkbcbJ8lo2iPu1R4if6"
+      },
+      "artists": [
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244948,
+      "name": "\u0e40\u0e14\u0e47\u0e01\u0e04\u0e19\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/2inDPC6XyNAfpprTfISeom"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e14\u0e47\u0e01\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
         "url": "https://open.spotify.com/album/06pCsu7UtTY8oK195ax8Q2"
       },
@@ -11984,7 +12104,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 225319,
       "name": "\u0e40\u0e14\u0e47\u0e01\u0e23\u0e48\u0e21\u0e40\u0e01\u0e25\u0e49\u0e32 / Nowadays",
       "url": "https://open.spotify.com/track/1mDaBUWdLPEK9Mb1H5qt0H"
@@ -12910,7 +13030,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 256500,
       "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5xgcAUHWw5xvreNq1W0m4M"

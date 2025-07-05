@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > CALI! in cover con una foto molto sanguegiovane
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,636 likes - 125 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,711 likes - 125 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

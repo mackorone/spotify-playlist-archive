@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-579 songs - 1 day 8 hr 25 min
+580 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:42 | 2019-06-10 | 2019-08-09 |
 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 | 2019-05-26\* | 2021-06-02 |
 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-20 |  |
-| [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 | 2024-09-06 |  |
+| [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 | 2024-09-06 | 2025-07-05 |
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2022-04-21 |
 | [Song You'll Never Hear \(feat\. Maisie Peters\)](https://open.spotify.com/track/5EmM1BSgdTZTvG86AZhtsw) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Song You'll Never Hear \(feat\. Maisie Peters\)](https://open.spotify.com/album/1EtC24OKKvHPgiNkPemOX8) | 2:33 | 2021-11-13 | 2022-07-29 |
 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 | 2022-11-11 | 2024-01-23 |
@@ -541,6 +541,7 @@
 | [Underwater](https://open.spotify.com/track/04QZdz4g1qoDlPscXVXS1I) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Underwater](https://open.spotify.com/album/0KDYWXyVzqgZWRS1oZu91c) | 5:49 | 2019-05-26\* | 2019-08-09 |
 | [Undrunk](https://open.spotify.com/track/5SHhPFh68OhUmuRPymKX9d) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Undrunk](https://open.spotify.com/album/5Skgz8BwS0Lfw2zlQSy1EB) | 3:03 | 2019-05-26\* | 2021-10-02 |
 | [Until We Bleed \(feat\. Lykke Li\)](https://open.spotify.com/track/4R9tl76Nf4xr8GMhcpaNDm) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Longing for Lullabies \(feat\. Titiyo\)](https://open.spotify.com/album/1mSVeWzQxYeVY2SQUqqGzx) | 4:24 | 2019-07-28 | 2019-08-08 |
+| [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 | 2025-07-04 |  |
 | [Used to Love You](https://open.spotify.com/track/6T4uabGkWUegfv3O2QiwyZ) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Used to Love You](https://open.spotify.com/album/3UJ3kelJ5onDDfiz8Mbu2j) | 3:00 | 2023-01-06 | 2023-01-19 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-09-15 | 2024-08-24 |
 | [Vertigo](https://open.spotify.com/track/2Aqg6jGRbrpyX3Pms61Q9o) | [Kisnou](https://open.spotify.com/artist/3Co4gT2U5SSLRcqcaArvBF), [Amethyst](https://open.spotify.com/artist/4rWVnoVdnBxs0C1o9RNIhg) | [Glow to Last](https://open.spotify.com/album/6uF3BZA5Hi002BbTERqshy) | 4:17 | 2019-05-26\* | 2021-05-27 |

@@ -192,6 +192,24 @@
     {
       "album": {
         "name": "Sahra",
+        "url": "https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259600,
+      "name": "A\u00efcha - Version Mixte",
+      "url": "https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng"
+    },
+    {
+      "album": {
+        "name": "Sahra",
         "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
       },
       "artists": [
@@ -256,7 +274,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 197562,
       "name": "beau-papa",
       "url": "https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p"

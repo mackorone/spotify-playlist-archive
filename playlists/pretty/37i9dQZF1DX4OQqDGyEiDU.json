@@ -1,6 +1,6 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
-  "num_followers": 117527,
+  "num_followers": 117540,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-06-24 15:00:20",
       "album": {
-        "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
-        "url": "https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9"
-      },
-      "artists": [
-        {
-          "name": "\u3044\u3088\u308f",
-          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
-      "url": "https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU"
-    },
-    {
-      "added_at": "2025-06-24 15:00:20",
-      "album": {
         "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
         "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 192440,
       "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
       "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
+    },
+    {
+      "added_at": "2025-06-24 15:00:20",
+      "album": {
+        "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
+        "url": "https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3088\u308f",
+          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
+      "url": "https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU"
     },
     {
       "added_at": "2025-06-24 15:00:20",

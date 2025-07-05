@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-436 songs - 1 day 2 hr 17 min
+437 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Regular Groove \- Remix](https://open.spotify.com/track/5v83Hcu9AS6YO2qtwWPVBY) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Ayjay Nils](https://open.spotify.com/artist/5KQNqrksTsuOyxQjp00Pe4) | [Regular Groove \(Remix\)](https://open.spotify.com/album/6LPk4HK9Z2Jyr6avSUczQZ) | 4:34 | 2024-02-16 |  |
 | [Requez](https://open.spotify.com/track/7ddzYGkufjhFNKuSnQ2HLc) | [The Lasso](https://open.spotify.com/artist/65aMEDDhSsuHYCKhdmQj5N), [Jordan Hamilton](https://open.spotify.com/artist/0td9fO3GtOdkV4qoHPBo6H), [The Saxsquatch](https://open.spotify.com/artist/0JUIcVe77tU9YanYIX6fwY) | [Requez](https://open.spotify.com/album/22sqixfPAzKpFeFEHBJaOO) | 2:10 | 2021-06-25 | 2022-07-29 |
 | [Reset](https://open.spotify.com/track/4Hm30fhcX2gtBxzDRr009T) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Reset](https://open.spotify.com/album/400HOzNdS7kJVCM6EsCCFB) | 2:52 | 2021-10-15 | 2022-04-20 |
+| [Resonance](https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Resonance](https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y) | 3:58 | 2025-07-04 |  |
 | [Respite](https://open.spotify.com/track/5mlEjqThIiz9S9pkLrdOWn) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Respite](https://open.spotify.com/album/7zZ8JGTOPRhxjIVa9VYhu6) | 2:00 | 2023-03-24 | 2024-02-17 |
 | [Return of the Sky](https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Return of the Sky](https://open.spotify.com/album/7ov4GzQl5hpq92O1ySXEO1) | 3:23 | 2021-06-25 |  |
 | [Returning the Flavour](https://open.spotify.com/track/67uXhwaZIJqgTF4IYzKZmG) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Trian Kayhatu](https://open.spotify.com/artist/51TOlXFbJfbcclHeWl1DNw) | [Do My Thing / Returning the Flavour](https://open.spotify.com/album/26lDpwFQsViXI1Miw4K6Uz) | 3:02 | 2021-01-29 | 2022-03-26 |
@@ -428,7 +429,7 @@
 | [Why Not Jungle](https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Why Not Jungle](https://open.spotify.com/album/40oY1hBdf6Inarnr3iM8sC) | 4:24 | 2022-09-02 |  |
 | [Wild](https://open.spotify.com/track/0pLNBfL8hIf58lqpFgIhct) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wild](https://open.spotify.com/album/6FOuijhx9uJTJkL7XtMkn6) | 2:02 | 2023-06-23 | 2023-09-16 |
 | [Wild and Steady](https://open.spotify.com/track/4y5w91db336cCz1AwPCNna) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Wild and Steady](https://open.spotify.com/album/2vcPFnOKUrwhJQKoo4p7C3) | 2:03 | 2025-01-17 |  |
-| [Wonder](https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wonder](https://open.spotify.com/album/0V6u5oyZhB5vx1EJroIXi2) | 2:07 | 2023-07-21 |  |
+| [Wonder](https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wonder](https://open.spotify.com/album/0V6u5oyZhB5vx1EJroIXi2) | 2:07 | 2023-07-21 | 2025-07-05 |
 | [Wonderland](https://open.spotify.com/track/2KMe85RjUyossAhvG4C1Eg) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/5UkSvvmhb6LelIKVQzTpG0) | 5:08 | 2021-03-05 | 2022-06-14 |
 | [Wonderland](https://open.spotify.com/track/31TqU3iyfmDGlNMo2rIRRY) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/6lMjY92u9KVkfwVqJ5z2js) | 5:08 | 2021-03-12 | 2024-03-02 |
 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 | 2022-04-29 |  |

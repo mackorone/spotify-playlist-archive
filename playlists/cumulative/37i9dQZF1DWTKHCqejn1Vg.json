@@ -310,7 +310,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 160426,
       "name": "Bad Influence",
       "url": "https://open.spotify.com/track/5IfWm7ztpJW3Up9pTLAAUc"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 189373,
       "name": "Chain",
       "url": "https://open.spotify.com/track/5n4RzKeMYnDg3a2O0YRNDA"
@@ -2313,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Hot tea",
+        "url": "https://open.spotify.com/album/0HkQ09I0jslQK3mtG3fHH3"
+      },
+      "artists": [
+        {
+          "name": "Siwoo",
+          "url": "https://open.spotify.com/artist/2ykrVeycEnr9k7WPZHFE6W"
+        },
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Hot tea",
+      "url": "https://open.spotify.com/track/6wP60QbQyE9hH4mCp7eZiY"
+    },
+    {
+      "album": {
         "name": "Everything You Wanted",
         "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
       },
@@ -3058,7 +3080,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 210546,
       "name": "Lovers In The Night",
       "url": "https://open.spotify.com/track/1riG0Dk62yWVqNxdWY28j0"
@@ -3142,6 +3164,24 @@
       "duration_ms": 208831,
       "name": "LYING",
       "url": "https://open.spotify.com/track/1NpIpw2JRLaR0SNRGcRE4t"
+    },
+    {
+      "album": {
+        "name": "Dare to Crave",
+        "url": "https://open.spotify.com/album/1owOEcI2MAjZTRSLj0XZuD"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177026,
+      "name": "Marionette (Sung by SERIM, MINHEE, TAEYOUNG)",
+      "url": "https://open.spotify.com/track/1wDseyIgNSYuJESL9mZlR6"
     },
     {
       "album": {
@@ -4268,6 +4308,24 @@
       "duration_ms": 185040,
       "name": "Show me up (Prod. TII)",
       "url": "https://open.spotify.com/track/6ldGBHz01zDpodf7f310Rb"
+    },
+    {
+      "album": {
+        "name": "Simple dance",
+        "url": "https://open.spotify.com/album/6MjpFt6aHJGeP3O9PMS8hD"
+      },
+      "artists": [
+        {
+          "name": "Jang Wooyoung",
+          "url": "https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Simple dance",
+      "url": "https://open.spotify.com/track/2E2q92XqIMi1vrL8lwXplz"
     },
     {
       "album": {

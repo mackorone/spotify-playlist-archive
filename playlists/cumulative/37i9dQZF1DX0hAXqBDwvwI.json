@@ -4109,6 +4109,24 @@
     },
     {
       "album": {
+        "name": "MONTAGE",
+        "url": "https://open.spotify.com/album/3VEkzo2LI14ETYv0wM5192"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "MONTAGE",
+      "url": "https://open.spotify.com/track/35lRjn0gdvNNYpPmEjVDSa"
+    },
+    {
+      "album": {
         "name": "Pretty Guardian Sailor Moon BEST",
         "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
       },
@@ -5506,6 +5524,24 @@
       "duration_ms": 273680,
       "name": "Reverb",
       "url": "https://open.spotify.com/track/1WkwcJ36zgQOuq8oYbtldj"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4ichGXKR5PCxKXZBy5Hypk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205452,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1j3H5bMaTPwFFuXoUydeFG"
     },
     {
       "album": {
@@ -7429,6 +7465,24 @@
     },
     {
       "album": {
+        "name": "WORK HARD",
+        "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173604,
+      "name": "WORK HARD",
+      "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
+    },
+    {
+      "album": {
         "name": "JUNCTION/Y",
         "url": "https://open.spotify.com/album/1YdMNJh9v6oGlAUiMHBttT"
       },
@@ -7530,7 +7584,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 239761,
       "name": "\u300c\u50d5\u306f...\u300d",
       "url": "https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D"
@@ -7646,6 +7700,28 @@
       "duration_ms": 185566,
       "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
       "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
+    },
+    {
+      "album": {
+        "name": "\u3048\u3076\u308a\u3067\u3044\u30db\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/3FC9PGjfE51hKmk2AstSCY"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3076\u30db\u30b9Players",
+          "url": "https://open.spotify.com/artist/4vjtGmzkeZra6NVZkOGdm8"
+        },
+        {
+          "name": "\u3048\u3076\u308a\u3067\u3044\u30db\u30b9\u30c8",
+          "url": "https://open.spotify.com/artist/6g19jgrjwi4kHBvkqxCa2M"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197987,
+      "name": "\u3048\u3076\u308a\u3067\u3044\u30db\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/6nZiCJPU2ISNR9h3gFEbPX"
     },
     {
       "album": {
@@ -11578,7 +11654,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 221425,
       "name": "\u5efb\u5efb\u5947\u8b5a",
       "url": "https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445"
@@ -11614,7 +11690,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 261833,
       "name": "\u5fc3\u7d75",
       "url": "https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM"
@@ -13546,7 +13622,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-05",
       "duration_ms": 275614,
       "name": "\u82b1\u306e\u5854",
       "url": "https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU"

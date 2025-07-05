@@ -4,7 +4,7 @@
 
 > This week's top new releases, including WizTheMc, Zoë Më, Mike Candys, CRO and more.
 
-18,310 songs - 37 day 22 hr 54 min
+18,311 songs - 37 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4694,7 +4694,7 @@
 | [Eigentlich](https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Eigentlich](https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ) | 2:38 | 2022-07-14 | 2022-07-22 |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-06 | 2023-04-14 |
 | [Eighteen](https://open.spotify.com/track/1FxWlWJcwdwsMV5gyhzaRt) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Eighteen](https://open.spotify.com/album/58VVT4jFu7mrzkpqbBdBGo) | 2:56 | 2022-05-12 | 2022-05-20 |
-| [Eighteen](https://open.spotify.com/track/6GPUnS1VtTrjaBpqLThKeB) | [Summer](https://open.spotify.com/artist/3fL8Dy5VBZpGj8j4sTAF5E) | [Eighteen](https://open.spotify.com/album/2Tbm6lyYDLtC6Wp1kWybwo) | 2:34 | 2025-07-03 |  |
+| [Eighteen](https://open.spotify.com/track/6GPUnS1VtTrjaBpqLThKeB) | [SUMMER](https://open.spotify.com/artist/3fL8Dy5VBZpGj8j4sTAF5E) | [Eighteen](https://open.spotify.com/album/2Tbm6lyYDLtC6Wp1kWybwo) | 2:34 | 2025-07-03 |  |
 | [Ein Auge blau](https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Ein Auge blau](https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF) | 3:05 | 2023-04-13 | 2023-04-21 |
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-19 | 2025-01-03 |
 | [Ein bisschen Lärm](https://open.spotify.com/track/5EA13cQIrNoRGLBrC95t49) | [Madsen](https://open.spotify.com/artist/1LsT3D414izg8h3K1VbrL4) | [Ein bisschen Lärm](https://open.spotify.com/album/2cOxuPGNAqjOl8AOc7rkeJ) | 3:04 | 2023-04-13 | 2023-04-21 |
@@ -8227,6 +8227,7 @@
 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 | 2022-03-10 | 2022-03-18 |
 | [Ipanema](https://open.spotify.com/track/6DZ9WJyO58GXhnYTYzIMTe) | [Jamin](https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Ipanema](https://open.spotify.com/album/1veqAYagbMEZTHUnNHBwFO) | 2:48 | 2024-08-15 | 2024-08-23 |
 | [Ipanema](https://open.spotify.com/track/1JCQBstFdEqihwKhh8QVUV) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Ipanema](https://open.spotify.com/album/7CFLwNNtjoMqGoig3DYiRF) | 1:50 | 2023-05-11 | 2023-05-19 |
+| [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:35 | 2025-07-04 |  |
 | [iPhone 5s](https://open.spotify.com/track/1ptOsYm0MmBdUsGd1Ef2Qw) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [iPhone 5s](https://open.spotify.com/album/12j5qmxcRIDBrmoXGD7LPu) | 2:08 | 2025-04-17 | 2025-04-25 |
 | [iPhone X](https://open.spotify.com/track/6xqiepkcqK9Imi4GP1lFyS) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [iPhone X](https://open.spotify.com/album/5PtQ0IazDwgpZ3u642RuHQ) | 2:09 | 2023-01-19 | 2023-01-27 |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 | 2025-06-27 |

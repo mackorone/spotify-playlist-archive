@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,091 songs - 3 day 7 hr 30 min
+1,092 songs - 3 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 | 2023-05-26 | 2024-04-19 |
 | [Bad Company](https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 4:22 | 2022-08-19 | 2023-08-21 |
 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 | 2022-08-19 | 2024-03-09 |
-| [Band of Brothers](https://open.spotify.com/track/0GFg1KvaXcbIzIr4gUuqPT) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Band of Brothers](https://open.spotify.com/album/2ayI3wAz2rcBIQ7jyXZLQL) | 3:00 | 2025-05-30 |  |
+| [Band of Brothers](https://open.spotify.com/track/0GFg1KvaXcbIzIr4gUuqPT) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Band of Brothers](https://open.spotify.com/album/2ayI3wAz2rcBIQ7jyXZLQL) | 3:00 | 2025-05-30 | 2025-07-05 |
 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 | 2024-04-05 | 2024-06-05 |
 | [BANSHEE](https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf) | 3:34 | 2023-04-21 | 2023-05-27 |
 | [Baptized in Blood](https://open.spotify.com/track/1iTjWS1gLL69NRcxUtbnlN) | [Lion's Share](https://open.spotify.com/artist/4yIytMmJ2tx30YdMAMkDSo) | [Baptized in Blood](https://open.spotify.com/album/6vecSH2rsmj751vaPr0SDd) | 3:58 | 2022-01-07 | 2022-06-08 |
@@ -621,6 +621,7 @@
 | [Night Terror \- Radio Edit](https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 6:01 | 2024-10-11 |  |
 | [Night Witches](https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:01 | 2021-12-17 | 2022-01-08 |
 | [Nihilism](https://open.spotify.com/track/6C8l342LO3G0EOQWbdM7Yz) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Nihilism](https://open.spotify.com/album/69fjRGFNKKjgx4PzdxAsRz) | 3:16 | 2024-05-17 | 2025-05-03 |
+| [Nine Lives](https://open.spotify.com/track/60tOgA47Djd7GidVqAFwLc) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Nine Lives](https://open.spotify.com/album/21b3tUExb3TAfziGLG0b9h) | 4:08 | 2025-07-04 |  |
 | [No Loss, No Love](https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 2:56 | 2025-03-11 |  |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-14 | 2025-03-12 |
 | [No More Hollywood Endings](https://open.spotify.com/track/4LlEtj8I2XUhkrXFzBBtFJ) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/7H4gPkbdQlDM7jRTRnsnyO) | 3:54 | 2021-12-17 | 2023-03-11 |

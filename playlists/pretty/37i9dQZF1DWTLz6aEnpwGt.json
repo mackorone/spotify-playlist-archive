@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 63929,
+  "num_followers": 63957,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -459,30 +459,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Capriccio (from Partita No. 2 in C Minor BWV 826)",
-        "url": "https://open.spotify.com/album/5bRXhMPEusvoRbjjJKKmxz"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Francesco Tristano",
-          "url": "https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj"
-        },
-        {
-          "name": "\u30d5\u30e9\u30f3\u30c1\u30a7\u30b9\u30b3\u00b7\u30c8\u30ea\u30b9\u30bf\u30fc\u30ce",
-          "url": "https://open.spotify.com/artist/3S6nmYZyfvLMKMnai4HwDo"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Partita No. 2 in C Minor, BWV 826: Capriccio",
-      "url": "https://open.spotify.com/track/6SKGFE4co3L9O76RyxWufA"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Unity (Affinity)",
         "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 278400,
       "name": "Concerto No. 4 in A Major, BWV 1055: II. Larghetto",
       "url": "https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: Capriccio (from Partita No. 2 in C Minor BWV 826)",
+        "url": "https://open.spotify.com/album/5bRXhMPEusvoRbjjJKKmxz"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Francesco Tristano",
+          "url": "https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj"
+        },
+        {
+          "name": "\u30d5\u30e9\u30f3\u30c1\u30a7\u30b9\u30b3\u00b7\u30c8\u30ea\u30b9\u30bf\u30fc\u30ce",
+          "url": "https://open.spotify.com/artist/3S6nmYZyfvLMKMnai4HwDo"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Partita No. 2 in C Minor, BWV 826: Capriccio",
+      "url": "https://open.spotify.com/track/6SKGFE4co3L9O76RyxWufA"
     },
     {
       "added_at": "2025-01-24 04:00:20",

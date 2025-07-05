@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-358 songs - 18 hr 48 min
+361 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [ANTIVILLAIN](https://open.spotify.com/track/5WQOTW68PnM96F67Zc8KRy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIVILLAIN](https://open.spotify.com/album/1BzXmHRWqVaOQaQuMZdJ6s) | 4:11 | 2024-04-24 |  |
 | [antler crimes](https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy) | 4:43 | 2025-03-11 |  |
 | [antler crimes](https://open.spotify.com/track/1I7TUj9ZSZNxfHoQ9MwqlA) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/0cQBvrHqCGFkET8ODs57rF) | 4:44 | 2024-04-21 |  |
+| [ANTONYMPH](https://open.spotify.com/track/6wmn9nN4of6GOnJ15qWfjU) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:02 | 2025-07-05 |  |
 | [April's Fool](https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [Don't Waste Good Names on an EP](https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D) | 3:22 | 2024-05-28 |  |
 | [Are you for me?](https://open.spotify.com/track/2mOw8RRSIC6wPocTRuaITf) | [Koa](https://open.spotify.com/artist/1D2fuywbAodeGUc1xitNJ7) | [Circles](https://open.spotify.com/album/4efUO1YCPDx3mrcaSGFbrD) | 2:24 | 2024-05-28 |  |
 | [Around You](https://open.spotify.com/track/5ehLnLEsE4bcJW1ad2RWlx) | [Khaliber](https://open.spotify.com/artist/27uhOz3aj61Jbvnoc0yUrH), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Pagan Pegasus](https://open.spotify.com/artist/6PjziLb2WCuAT7QInQt8vX), [T1M3K33P3R](https://open.spotify.com/artist/6LEePlrr96IOh11y11tlte) | [Around You](https://open.spotify.com/album/4W5A1Nsd7RTcl5br0sdLaR) | 3:08 | 2024-02-23 |  |
@@ -40,6 +41,7 @@
 | [Blood // Water](https://open.spotify.com/track/4AyS2onxBbtArFwc6lXCTt) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [Songs From A Broken Mind](https://open.spotify.com/album/7I7NrdgIIqrol4fyBMOr0A) | 3:28 | 2023-06-14 |  |
 | [Blue Bird](https://open.spotify.com/track/1p22iYZzkbVdjKhVjWPnNk) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Blue Bird](https://open.spotify.com/album/1KouYdQgreczfMEKX3gotS) | 4:01 | 2024-10-21 |  |
 | [BOGOS BINTED](https://open.spotify.com/track/5YGCBEMw5M687kDntOnVYX) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [2a03fox](https://open.spotify.com/artist/5O9Kn8XmhZnYIhOL3lT5I9) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 2:53 | 2024-07-22 |  |
+| [BONNIE](https://open.spotify.com/track/21Y9F54jhNFQK7A0D9LZHu) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:21 | 2025-07-04 |  |
 | [book of mending \- interlude](https://open.spotify.com/track/5xoSwE3PZWwfMDoA7AU1d6) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 1:39 | 2025-02-03 |  |
 | [boosterpack fx](https://open.spotify.com/track/1LfzbK5FAHP7C1kIZCAUzz) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx), [coldpizza](https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 3:12 | 2024-05-28 |  |
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-09-12 | 2025-04-14 |
@@ -233,6 +235,7 @@
 | [Oh Yeah?](https://open.spotify.com/track/3qjZvwNwyveoy6OPAk3kyd) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Oh Yeah?](https://open.spotify.com/album/4Zkl6RwdxqrcGoEsxzV9Gi) | 2:01 | 2024-11-25 |  |
 | [old money bitch](https://open.spotify.com/track/396MgRKqn3axtAuhjEVWTF) | [Fur:Trash](https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m) | [fur:core VII \(puppy radio 24/7\)](https://open.spotify.com/album/2QCOs35xx77fJEBvijbFhG) | 3:10 | 2025-01-06 |  |
 | [omggg im so emotional and my heart is broken :\(](https://open.spotify.com/track/5oHcO0PLT3E1icEIWpt7cs) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [omggg im so emotional and my heart is broken :\(](https://open.spotify.com/album/531U8P5mybgfThxGXxueBB) | 2:13 | 2025-01-25 |  |
+| [ON MY BODY](https://open.spotify.com/track/52NAe9IEa65ExgnamYkN5O) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ON MY BODY](https://open.spotify.com/album/5pEGqmCiP46dHKMIS9I2PA) | 2:30 | 2025-07-04 |  |
 | [Opposites Attack!](https://open.spotify.com/track/2rVbRRo9BKBk5Ogfiusrht) | [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Falsework](https://open.spotify.com/album/6mRZBa04P3wKGQeIEgv9Vb) | 2:20 | 2023-11-08 |  |
 | [Ouroboros](https://open.spotify.com/track/5N1tco0mZrM6TzGueiudJw) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Skunk Surfeit](https://open.spotify.com/artist/71v8c8wbnG3fkjVx34cL81) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 4:51 | 2024-02-09 |  |
 | [out of service](https://open.spotify.com/track/1mbB7e3oG3j5CjQL3HmsP8) | [mochji](https://open.spotify.com/artist/693tqzQdVpEOHELN58WkQz) | [out of service](https://open.spotify.com/album/6JBd5dLCcNRHnM68KLcqeu) | 2:48 | 2024-06-04 |  |
