@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
@@ -8414,6 +8414,32 @@
       "duration_ms": 188968,
       "name": "Casseurs Flowters Infinity",
       "url": "https://open.spotify.com/track/4zNegI08Ey41oFdfaiZinq"
+    },
+    {
+      "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN"
+      },
+      "artists": [
+        {
+          "name": "Cheu-B",
+          "url": "https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT"
+        },
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB"
     },
     {
       "album": {
@@ -37631,6 +37657,28 @@
     },
     {
       "album": {
+        "name": "Saint Laurent",
+        "url": "https://open.spotify.com/album/6AXIqaOESCwHv35kM67Q5s"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Saint Laurent",
+      "url": "https://open.spotify.com/track/5xjZayFgMiq4WYSfAp7LKy"
+    },
+    {
+      "album": {
         "name": "Dans la temp\u00eate",
         "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
       },
@@ -38660,7 +38708,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 151173,
       "name": "Sexy Woman",
       "url": "https://open.spotify.com/track/6Rt09PJSCfxEpx83G4ftr4"
@@ -39818,12 +39866,12 @@
       },
       "artists": [
         {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
-        },
-        {
           "name": "Bleu Soleil",
           "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
         }
       ],
       "date_added": "2025-06-28",

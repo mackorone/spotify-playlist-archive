@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1606986,
+  "num_followers": 1606959,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2025-06-27 04:00:32",
       "album": {
+        "name": "Humans",
+        "url": "https://open.spotify.com/album/3IMeZdfa9akLXvM2mqJQad"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/09uGZlo756Ndzq0WIJQ9eS"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
         "name": "Now We Are Free (B Jones Remix)",
         "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
-        "name": "Humans",
-        "url": "https://open.spotify.com/album/3IMeZdfa9akLXvM2mqJQad"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/09uGZlo756Ndzq0WIJQ9eS"
     },
     {
       "added_at": "2025-06-27 04:00:32",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2025-06-27 04:00:32",
       "album": {
-        "name": "One More Thing",
-        "url": "https://open.spotify.com/album/1GWjugkKrXYklmMaDpoWD7"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Sara Davis",
-          "url": "https://open.spotify.com/artist/2XYDrXOdwhRiGSgo8NWKFW"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "One More Thing",
-      "url": "https://open.spotify.com/track/0Mk1NKKRRpR4ZWRHJOmKu3"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
         "name": "Era",
         "url": "https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 169275,
       "name": "Embers",
       "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
+        "name": "One More Thing",
+        "url": "https://open.spotify.com/album/1GWjugkKrXYklmMaDpoWD7"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Sara Davis",
+          "url": "https://open.spotify.com/artist/2XYDrXOdwhRiGSgo8NWKFW"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "One More Thing",
+      "url": "https://open.spotify.com/track/0Mk1NKKRRpR4ZWRHJOmKu3"
     },
     {
       "added_at": "2025-06-27 04:00:32",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-06-27 04:00:32",
       "album": {
+        "name": "Sunrise To The Morning",
+        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Sunrise To The Morning",
+      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
         "name": "Coming Down",
         "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 214695,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
-        "name": "Sunrise To The Morning",
-        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Sunrise To The Morning",
-      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
     },
     {
       "added_at": "2025-06-27 04:00:32",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-06-27 04:00:32",
       "album": {
+        "name": "Each Other",
+        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Each Other",
+      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
         "name": "Where's The Music Gone",
         "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
       },
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2025-06-27 04:00:32",
       "album": {
-        "name": "Each Other",
-        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Each Other",
-      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
         "name": "Follow EP",
         "url": "https://open.spotify.com/album/04tT2en23cD8al8SiDQPwE"
       },
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2025-06-27 04:00:32",
       "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
         "name": "Pretoria",
         "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
       },
@@ -1675,6 +1675,30 @@
       "duration_ms": 207840,
       "name": "Pretoria",
       "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Afnan Prince",
+          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE"
     },
     {
       "added_at": "2025-06-27 04:00:32",
@@ -1707,30 +1731,6 @@
     {
       "added_at": "2025-06-27 04:00:32",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Hessian",
-          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
-        },
-        {
-          "name": "Afnan Prince",
-          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
       },
@@ -1743,42 +1743,6 @@
       "duration_ms": 207638,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
-        "name": "One New Change",
-        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "One New Change",
-      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
-    },
-    {
-      "added_at": "2025-06-27 04:00:32",
-      "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 246048,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
     },
     {
       "added_at": "2025-06-27 04:00:32",
@@ -1815,6 +1779,42 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 246048,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
+    },
+    {
+      "added_at": "2025-06-27 04:00:32",
+      "album": {
+        "name": "One New Change",
+        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "One New Change",
+      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
     },
     {
       "added_at": "2025-06-27 04:00:32",

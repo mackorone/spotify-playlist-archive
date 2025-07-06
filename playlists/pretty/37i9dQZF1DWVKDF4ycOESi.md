@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Shablo, 333 Mob, DJ Snake e J Balvin, Icy Subzero, Ava Max, WizTheMc e bees& honey, Kesha e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,646 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,668 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 8 | [Gente Intelligente \(con Franco126\)](https://open.spotify.com/track/4mJgnqp92FEPiyYKJnvv43) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Gente Intelligente \(con Franco126\)](https://open.spotify.com/album/1gnJenLUhUxVXhT8yTBSeW) | 3:12 |
 | 9 | [Sentir](https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:21 |
 | 10 | [Non Andare Via \(feat\. Artie 5ive\)](https://open.spotify.com/track/5RLXn5wMo137SOunM2BxIw) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Osama 3 \(La Morte Di Osama\)](https://open.spotify.com/album/0HCrnHn0WU7ZSN2SEZe8hY) | 3:00 |
-| 11 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 |
+| 11 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 |
 | 12 | [Estate in Strada](https://open.spotify.com/track/0ySdxisdEZHRYaU6P0stI3) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [ESTATE IN STRADA](https://open.spotify.com/album/7odOarkNiBB4Xu5v9szB5P) | 2:19 |
 | 13 | [Felini \(feat\. Marco Castello\)](https://open.spotify.com/track/4Htqzteal7xtt5Y0XeDmRa) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Felini](https://open.spotify.com/album/1bUJl8yT2VeX5IqjIeCETq) | 3:47 |
 | 14 | [quasi all'improvviso](https://open.spotify.com/track/6eocEEZLEKEArXqydsMZHO) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [quasi all'improvviso](https://open.spotify.com/album/61uYbqtTTArI1YrkNkDUiE) | 3:17 |

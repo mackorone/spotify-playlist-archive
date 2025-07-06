@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Blaqbonez, Fave, Zlatan and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,640 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,759 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 15 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
 | 16 | [tony soprano.](https://open.spotify.com/track/0OmupNM2dP2QJvstyMMSCs) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [tony soprano.](https://open.spotify.com/album/6VGu7IeegTdohqDcwPWtPB) | 3:02 |
 | 17 | [Believe](https://open.spotify.com/track/0mhTXfQbfTOd8VGvnsTr1P) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Believe](https://open.spotify.com/album/39TePDQqn0v1F4l6cMpqsB) | 2:39 |
-| 18 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Angarita](https://open.spotify.com/artist/4LJ2sIQkmuImXIky255TH2) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 |
+| 18 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ANGARITA](https://open.spotify.com/artist/3i4OsTUD79iYLEVlXJavgS) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 |
 | 19 | [STATION](https://open.spotify.com/track/5tyuajS5DiBO3G22APUPFC) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/08Dg7XUvVPa8a2FA6lGcY7) | 2:52 |
 | 20 | [Rhythm & Blues](https://open.spotify.com/track/6MatF34mUyDaaf9diQgCDA) | [Dr.Ish](https://open.spotify.com/artist/4NPYdsxHeTKjVyM1gzme77), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Rhythm & Blues](https://open.spotify.com/album/4MJf04FlpbTj1y1luauTee) | 3:16 |
 | 21 | [Yaa Maame](https://open.spotify.com/track/6vx23wu5pjWBpVL1GaWK4N) | [Showbezzy](https://open.spotify.com/artist/7BelL3ykjT9gOHjMCf3yMu), [Ofori Amponsah](https://open.spotify.com/artist/4W2XPXz78M8v0DTKfcHfXN) | [Yaa Maame](https://open.spotify.com/album/2roZGQ01R2ugSEzbMRvGWW) | 3:23 |

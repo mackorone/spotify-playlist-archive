@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Mika Heggemann, DJ Cringey, KYANU
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,088 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,294 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 11 | [Cola](https://open.spotify.com/track/5cd72YjQAbp1Vf0FBJJ53D) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [RUSH AVENUE](https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP), [Miliūs](https://open.spotify.com/artist/1KDi3qn2gig0tveCiaeI4V) | [Cola](https://open.spotify.com/album/2ZL2Ed8SyBwjROrqdJIBuM) | 4:17 |
 | 12 | [Stereo](https://open.spotify.com/track/5ss1W6tV6FuxPaiC1yDHYJ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Lovelle](https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx) | [Stereo](https://open.spotify.com/album/6LmzV6rY9jUecyjydmsrDR) | 2:24 |
 | 13 | [Loosen Up](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ) | 3:00 |
-| 14 | [Come Undone](https://open.spotify.com/track/4CbTrY0U3h9SL11nGvl95R) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Come Undone](https://open.spotify.com/album/5mXxmNCowyfaUmxVssO0un) | 2:51 |
+| 14 | [Come Undone](https://open.spotify.com/track/4CbTrY0U3h9SL11nGvl95R) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Luna Isa](https://open.spotify.com/artist/48rIZslea3sq2nxBfiEPpb) | [Come Undone](https://open.spotify.com/album/5mXxmNCowyfaUmxVssO0un) | 2:51 |
 | 15 | [Everlight](https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Everlight](https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6) | 2:47 |
 | 16 | [Rumors](https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Rumors](https://open.spotify.com/album/4Bam5z6xEu8eylzs4oXokN) | 2:15 |
 | 17 | [I Wanna Go](https://open.spotify.com/track/0HfylTo23WNyrsQ0sMJgxM) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [I Wanna Go](https://open.spotify.com/album/5e6d1Y9pYejh3y1cwBFNoI) | 2:06 |

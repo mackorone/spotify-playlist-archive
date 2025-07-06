@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "11 case",
+        "url": "https://open.spotify.com/album/6qOC7izy6HXMCyGF9N29YA"
+      },
+      "artists": [
+        {
+          "name": "rovere",
+          "url": "https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153499,
+      "name": "chissenefrega",
+      "url": "https://open.spotify.com/track/3KD0W1cTkKp7L9obShsOSJ"
+    },
+    {
+      "album": {
         "name": "Fake News",
         "url": "https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3"
       },

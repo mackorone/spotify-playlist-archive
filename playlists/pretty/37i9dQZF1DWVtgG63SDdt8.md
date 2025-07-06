@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jonathan Ogden
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,168 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,185 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 36 | [AHEAD OF MY TIME](https://open.spotify.com/track/0jCEhdYOaayUkaG7oLHpt9) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [AHEAD OF MY TIME](https://open.spotify.com/album/5LJqfLbc5YijLjuxPGMWO8) | 2:35 |
 | 37 | [AMEN AMEN](https://open.spotify.com/track/5tcMRkTz3TMUjILo1uA2bM) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [AMEN AMEN](https://open.spotify.com/album/4BjN6rV4ReLfD2lnSzI73a) | 2:56 |
 | 38 | [BEEN A MINUTE](https://open.spotify.com/track/6K64vmx57CJZv0srdWXiIJ) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [BEEN A MINUTE](https://open.spotify.com/album/5kBQDTlunSxJaiPxlniDE8) | 2:33 |
-| 39 | [Holy Huh \- Remix](https://open.spotify.com/track/5D86xyUIwt6Psyd35a54Vw) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Holy Huh \(Remix\)](https://open.spotify.com/album/2pkhqoC3IhWs2zQdkCL2A5) | 3:07 |
+| 39 | [HOLY HUH? \- Remix](https://open.spotify.com/track/5D86xyUIwt6Psyd35a54Vw) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [HOLY HUH? \(Remix\)](https://open.spotify.com/album/2pkhqoC3IhWs2zQdkCL2A5) | 3:07 |
 | 40 | [Sold Out to Christ](https://open.spotify.com/track/2YWwEBN2yCWrgym7rI6esx) | [JBthaPreacher](https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6), [Chosen Jigg](https://open.spotify.com/artist/7qqT7RNb6rvCSp6uhQlkgJ) | [Sold Out to Christ](https://open.spotify.com/album/3EgyZPJTTWWEyOZkKZ1aH4) | 2:33 |
 | 41 | [Powerless](https://open.spotify.com/track/3WIZnVR8RsKBGYYq0Ftl3c) | [The Joshua Band](https://open.spotify.com/artist/2X5zUsOK47HsaTDo553Vz0) | [Powerless](https://open.spotify.com/album/0RaPGrTTTtLPshnj2np57f) | 3:41 |
 | 42 | [Misfit](https://open.spotify.com/track/4gD5XuSoA8DqpY1oikxBhl) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Wild Child](https://open.spotify.com/album/7xYvqJyefvpXWdsG9hUlCC) | 3:04 |

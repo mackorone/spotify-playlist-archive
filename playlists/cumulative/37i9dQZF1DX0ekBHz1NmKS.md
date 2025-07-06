@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,933 songs - 4 day 4 hr 11 min
+1,935 songs - 4 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [Feels Like A Dream](https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Feels Like A Dream](https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw) | 2:52 | 2022-09-01 | 2022-10-31 |
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 | 2024-01-19 |
 | [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-13 | 2024-08-16 |
-| [FEST](https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [FEST](https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3) | 2:53 | 2025-05-23 |  |
+| [FEST](https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [FEST](https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3) | 2:53 | 2025-05-23 | 2025-07-06 |
 | [Festen \- Remix](https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Festen \(Remix\)](https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge) | 2:37 | 2023-11-03 | 2024-02-09 |
 | [FFL](https://open.spotify.com/track/4Ar2EzzoTHOxemFzFSBy0J) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [FFL](https://open.spotify.com/album/67XbEzL2I0E1nRBsp76azd) | 2:49 | 2024-04-19 | 2024-05-24 |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-05-16 | 2024-06-14 |
@@ -710,6 +710,7 @@
 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 | 2023-01-12 | 2023-04-28 |
 | [Hercules](https://open.spotify.com/track/2EKj7HXp6JHXIVbMzmDUlK) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hercules](https://open.spotify.com/album/128LJh1FIAAS0QcpRNvPWD) | 3:20 | 2024-04-19 | 2024-05-24 |
 | [Here Comes The Night](https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Here Comes The Night](https://open.spotify.com/album/4Ix7oLZKkbrqbsb12qTShP) | 3:32 | 2021-12-16 | 2022-05-13 |
+| [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-05 |  |
 | [Higher](https://open.spotify.com/track/6voH1nEeqIS3S0ZOAtqRfi) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Higher](https://open.spotify.com/album/5gjw2rOMq6aWDCYBDgKzhy) | 3:51 | 2023-01-19 | 2023-02-12 |
 | [Higher Place](https://open.spotify.com/track/14xFUlSQiS45PpDZ21RP5i) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Higher Place](https://open.spotify.com/album/5HVfLqGAzSoHcIpmzNXZYe) | 2:22 | 2025-07-03 |  |
 | [Higher Power](https://open.spotify.com/track/5X72zZ8sbbYXXEARdbZpgG) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Higher Power](https://open.spotify.com/album/7LXf4A7JFlFBoH8eppUo0H) | 3:00 | 2022-03-10 | 2022-09-16 |
@@ -871,7 +872,7 @@
 | [It's a love cult!](https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6) | [Friska Viljor](https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul) | [It's a love cult!](https://open.spotify.com/album/0mAz5bcUPnLs7gL9liXUyi) | 2:54 | 2025-05-01 | 2025-05-28 |
 | [ITU](https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB) | [Gamebojj](https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j) | [ITU](https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V) | 2:19 | 2024-06-13 | 2024-08-16 |
 | [I´m Not Your Girl](https://open.spotify.com/track/6ieR62VPMIZGOwB8LeO9Th) | [Emma Nilsdotter](https://open.spotify.com/artist/2AAJ99uA6YnG8XgqBmFDnd), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [I´m Not Your Girl](https://open.spotify.com/album/5XrQYpeiUCIYZ6GgF4YzL6) | 3:40 | 2024-03-14 | 2024-04-19 |
-| [I’m gonna die](https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [I’m gonna die](https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol) | 3:25 | 2025-05-15 |  |
+| [I’m gonna die](https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [I’m gonna die](https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol) | 3:25 | 2025-05-15 | 2025-07-06 |
 | [I’m His, He’s Mine](https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/7akLNZ7EOOAZuNqNEc2zNA) | 2:39 | 2024-01-25 | 2024-02-23 |
 | [I’m Not a Boy](https://open.spotify.com/track/1MCqZiyILK5yKITelASw7a) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [I’m Not a Boy](https://open.spotify.com/album/1SHRLt3g7yrOZT9TG7Ffep) | 2:32 | 2025-01-30 | 2025-05-30 |
 | [Ja](https://open.spotify.com/track/7l7xxZPc59AS2ZELHnrLul) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [Ja](https://open.spotify.com/album/21daaQE9MppIykDklxl4wk) | 3:10 | 2022-05-05 | 2022-07-28 |
@@ -1142,6 +1143,7 @@
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 | 2023-03-26 |
 | [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 | 2023-10-20 |
 | [Morning](https://open.spotify.com/track/5NQ8oXv0nbpwUn51Nzu45H) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy) | 2:54 | 2021-12-16 | 2022-02-09 |
+| [Mosquito](https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Mosquito](https://open.spotify.com/album/37pxUdSwqMJt2ZdeTmk0T0) | 2:24 | 2025-07-05 |  |
 | [Motståndarlaget](https://open.spotify.com/track/3ioh5HIKMK8vxGODjey2iE) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tacka motståndarlaget](https://open.spotify.com/album/5gMTYjjjgZ8n30ArisfIAv) | 3:42 | 2024-03-14 | 2024-04-26 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-05 | 2022-04-28 |
 | [MR BIG \(feat\. Miriam Bryant\)](https://open.spotify.com/track/6brcFMcUcb0aWDcJyFsQFt) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 2:40 | 2024-11-07 | 2025-03-21 |

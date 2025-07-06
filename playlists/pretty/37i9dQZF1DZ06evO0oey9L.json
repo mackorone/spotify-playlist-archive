@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGXIAAAAAAAaKvoliav4szxuHrI6LyXM",
+  "snapshot_id": "aGcZgAAAAADAu3ziAmq9WCfjRGfwtpR3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dime x Que",
+        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 173854,
+      "name": "Dime x Que",
+      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
+    },
     {
       "added_at": null,
       "album": {
@@ -827,22 +843,6 @@
       "duration_ms": 180000,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "Cookies En Las Pipas",
-      "url": "https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS"
     }
   ],
   "unique_name": "This Is El de La Guitarra",

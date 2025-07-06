@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,533 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,555 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 11 | [Left 2 Right](https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Left 2 Right](https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6) | 3:22 |
 | 12 | [Outta Order](https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Outta Order](https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r) | 3:55 |
 | 13 | [Surround Me](https://open.spotify.com/track/5sPQYCBr3nK35Ol6Jw9oiT) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Surround Me](https://open.spotify.com/album/3EURQYWukZKCUKWwdzIgNq) | 3:36 |
-| 14 | [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 |
+| 14 | [Get Outta Here](https://open.spotify.com/track/495Wq1TcHmzEfDOym4BqCr) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Get Outta Here](https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh) | 2:38 |
 | 15 | [Immortal](https://open.spotify.com/track/65N1APSZgR83n1AP8SNj2v) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Immortal](https://open.spotify.com/album/4O5lcsCUGhjRHsTtuAn3rX) | 3:17 |
-| 16 | [Get Outta Here](https://open.spotify.com/track/495Wq1TcHmzEfDOym4BqCr) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Get Outta Here](https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh) | 2:38 |
+| 16 | [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 |
 | 17 | [Ready Set Begin](https://open.spotify.com/track/6ZycwWiGPWO4CRZ6yp9QDi) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib), [JFB](https://open.spotify.com/artist/5ncNJNBW6jRC3xnY7ZSzLj) | [It Is What It Is](https://open.spotify.com/album/5X6pPF5WNoVJCRLOXvlm7I) | 3:04 |
 | 18 | [Make It Drop](https://open.spotify.com/track/2RyQYVS5q4LXCNAYOS58Hy) | [Diagnostix](https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5) | [Make It Drop](https://open.spotify.com/album/6NRITaN28sXFMgdH9ffpZj) | 3:18 |
 | 19 | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh) | 3:44 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 49 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
 | 50 | [Mosh Pit](https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Mosh Pit](https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h) | 2:08 |
 | 51 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
-| 52 | [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 |
-| 53 | [Aim High](https://open.spotify.com/track/7oavYorF6d5ZY54v4ePltt) | [Drumsound & Bassline Smith](https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh) | [Aim High](https://open.spotify.com/album/2Sa5LRyomt48DxYzqog0ZC) | 3:46 |
-| 54 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
+| 52 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
+| 53 | [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 |
+| 54 | [Aim High](https://open.spotify.com/track/7oavYorF6d5ZY54v4ePltt) | [Drumsound & Bassline Smith](https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh) | [Aim High](https://open.spotify.com/album/2Sa5LRyomt48DxYzqog0ZC) | 3:46 |
 | 55 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |
 
 Snapshot ID: `aGcLhAAAAABEiCfxqxlTHTUTum3gRAab`

@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -4134,6 +4134,24 @@
       "duration_ms": 247520,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/0ill3qz7eiLAswHanCCoeJ"
+    },
+    {
+      "album": {
+        "name": "Booty De Modelo",
+        "url": "https://open.spotify.com/album/0uetpMumBUBgnetC8xbURG"
+      },
+      "artists": [
+        {
+          "name": "RDjavi",
+          "url": "https://open.spotify.com/artist/6o262niiGSfmN1VLyHONfx"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118285,
+      "name": "Booty De Modelo",
+      "url": "https://open.spotify.com/track/2THGKvFiwUy6WGtNMcy8lr"
     },
     {
       "album": {
@@ -12178,7 +12196,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -16048,7 +16066,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 169411,
       "name": "Juguete",
       "url": "https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT"

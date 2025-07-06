@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-144 songs - 9 hr 31 min
+145 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,10 +94,11 @@
 | [Manodzi](https://open.spotify.com/track/5CPbFl3Y19J2VLlrk7Ms33) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:45 | 2023-04-30 |  |
 | [Meant For Me](https://open.spotify.com/track/254lUrmfp6Q6IXGzBPIzSD) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:06 | 2024-10-23 | 2024-11-06 |
 | [Milambi](https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Milambi](https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q) | 3:13 | 2021-12-28 |  |
-| [Mother Nature](https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:59 | 2021-12-28 |  |
+| [Mother Nature](https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:59 | 2021-12-28 | 2025-07-06 |
 | [Move On Up](https://open.spotify.com/track/58zamIGFUxfTBboAaSlnXt) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [ÕŸÖ](https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX) | 3:13 | 2022-01-09 | 2022-10-13 |
 | [Mycelium](https://open.spotify.com/track/6maTtCz6fwZGY6QTBXXsvv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:48 | 2021-12-30 | 2022-10-02 |
 | [NA MONEY \(feat\. The Cavemen\. & Angélique Kidjo\)](https://open.spotify.com/track/0pLx3RsHPmZnD90h2yaL8V) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:41 | 2023-04-01 |  |
+| [Nadi Balance \(feat\. Sheila Maurice\-Grey\)](https://open.spotify.com/track/0T50W2ymtPwtJgtZMOXrGO) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Sheila Maurice\-Grey](https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC) | [Nadi Balance \(feat\. Sheila Maurice\-Grey\)](https://open.spotify.com/album/64l1BlE1c8ScUdi1aCPO4a) | 3:16 | 2025-07-06 |  |
 | [Naima](https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:32 | 2021-12-28 |  |
 | [Ogbo](https://open.spotify.com/track/4vpq5g4p3h8xVDOdHIlrku) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 4:19 | 2022-10-12 | 2022-11-25 |
 | [Okan Bale](https://open.spotify.com/track/5tXpgUhuzcqQQORHLxMPNA) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:34 | 2022-10-06 | 2022-10-13 |

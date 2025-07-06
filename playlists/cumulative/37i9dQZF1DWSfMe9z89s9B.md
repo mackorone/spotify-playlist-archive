@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Isaia Huron
 
-1,438 songs - 3 day 3 hr 41 min
+1,439 songs - 3 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,6 +1053,7 @@
 | [SAVIOR](https://open.spotify.com/track/4qUlp9rJtbi9gBZa2Ie3Xx) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [SAVIOR](https://open.spotify.com/album/5LGgXesk13CEHDW2uBuEJh) | 2:48 | 2024-10-20 | 2025-02-08 |
 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2022-12-11 |
 | [Scorpios kiss](https://open.spotify.com/track/1Yv9mPmTMyqAWnuV4SGPGm) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Scorpios kiss](https://open.spotify.com/album/3NBhNOVCWapilng8yLsJ7r) | 2:16 | 2024-05-17 | 2024-08-14 |
+| [scrabble](https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:16 | 2024-12-06 |  |
 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 | 2024-07-26 |  |
 | [scuse me](https://open.spotify.com/track/6Y6RY6HhGO74XTiCNls79c) | [Charlie Myles](https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7) | [scuse me](https://open.spotify.com/album/7mLCTKkW7aWxsNsXTJ9oYz) | 2:24 | 2022-12-16 | 2023-01-14 |
 | [See You](https://open.spotify.com/track/1laov0eTmYzYLbP01ChrGe) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [See You](https://open.spotify.com/album/2hIkmuhxnh4q3sBr45kohd) | 2:17 | 2023-08-18 | 2023-10-09 |
@@ -1296,7 +1297,7 @@
 | [TRICK DADDY](https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 1:53 | 2025-05-02 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-10-22 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-15 | 2022-07-24 |
-| [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 |  |
+| [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 | 2025-07-06 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-12-03 |
 | [Trust Nobody](https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Trust Nobody](https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ) | 3:15 | 2021-11-05 | 2022-07-29 |
 | [Trust Nobody](https://open.spotify.com/track/7ceXCl3ndsTFrH60P1c0io) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:15 | 2022-06-10 | 2022-08-09 |

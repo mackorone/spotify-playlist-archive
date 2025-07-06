@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-356 songs - 20 hr 53 min
+357 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [You Are So Fair](https://open.spotify.com/track/2CJVusPx4IWAgmJyV6ocGR) | [Christopher Fitzgerald](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII), [Jessica Stone](https://open.spotify.com/artist/7LqVU6rPQIAyrXa693LBvA), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [Babes In Arms \(1999 New York Cast Recording\)](https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1) | 4:07 | 2024-07-26 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:36 | 2024-07-26 |  |
 | [You Don't Tell Me](https://open.spotify.com/track/3eEcGQFM12d9PcMg3FBdLo) | [Diahann Carroll](https://open.spotify.com/artist/1xUs1QVa416s6LPsHRcRxx) | [No Strings \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn) | 1:54 | 2024-07-26 |  |
-| [You Have Cast Your Shadow On The Sea](https://open.spotify.com/track/3DRjt9HoD3bPaZ1ZtvGfpt) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 3:50 | 2024-07-26 |  |
+| [You Have Cast Your Shadow On The Sea](https://open.spotify.com/track/6FyZmtNLTrmImAkzIlAToM) | [Davis Gaines](https://open.spotify.com/artist/6kZS07gYQ9mSAUP38G5yFE), [Sarah Uriarte Berry](https://open.spotify.com/artist/48VqIWqwjLW8E1zWLaOUAL), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [The Boys From Syracuse: A Musical Comedy Sensation \(1997 Original New York Recording\)](https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp) | 3:10 | 2025-07-05 |  |
+| [You Have Cast Your Shadow On The Sea](https://open.spotify.com/track/3DRjt9HoD3bPaZ1ZtvGfpt) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 3:50 | 2024-07-26 | 2025-07-06 |
 | [You Mustn't Kick It Around](https://open.spotify.com/track/787jMCTWWUcdirC4JyArXB) | [Joel Grey](https://open.spotify.com/artist/64WqSGPXrSf1YbxoimVNbd) | [Only the Beginning / Black Sheep Boy](https://open.spotify.com/album/25juTvFz2VxEPSiWz4zib7) | 2:18 | 2024-07-26 |  |
 | [You Took Advantage Of Me \- Remastered](https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Is June Christy](https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC) | 2:29 | 2025-06-20 |  |
 | [You Took Advantage of Me \- Remastered](https://open.spotify.com/track/7AIcoEEaAvlpOoC1kWqeRe) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rosie Solves the Swinging Riddle](https://open.spotify.com/album/03hz9YvV6vbKkjZVzGkHPV) | 2:59 | 2024-07-26 | 2025-06-21 |

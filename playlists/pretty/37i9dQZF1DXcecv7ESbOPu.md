@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från KAJ, A36, Ida\-Lova och Loreen med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,792 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,814 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 62 | [Breathless](https://open.spotify.com/track/0ci8M8VddctT9sehCbxn4R) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Breathless](https://open.spotify.com/album/5DEY9Qk83emaFTuOzRXf2B) | 3:00 |
 | 63 | [Vänner & alkohol](https://open.spotify.com/track/44JfbXYOlTKs5C0cvPhx6l) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx) | [Vänner & alkohol](https://open.spotify.com/album/2KrdVnG7QjuTsmj43Y60Go) | 2:54 |
 | 64 | [Flo](https://open.spotify.com/track/6FuBQqmogF3HgVjfy6Nx8F) | [Månen](https://open.spotify.com/artist/2DttCqdRB5rCVCPJgv7YBd) | [Flo](https://open.spotify.com/album/41haJ7pEnUnqoTCp0cUqk2) | 2:19 |
-| 65 | [No Way](https://open.spotify.com/track/436DPTrdm4GvEIRJRDfuAe) | [Naiia](https://open.spotify.com/artist/4F67EiXT2ffTcQknrKXYDO) | [No Way](https://open.spotify.com/album/3J3X9R1xj9ghHilQoR9Hid) | 2:10 |
+| 65 | [NO WAY](https://open.spotify.com/track/436DPTrdm4GvEIRJRDfuAe) | [Naiia](https://open.spotify.com/artist/4F67EiXT2ffTcQknrKXYDO) | [NO WAY](https://open.spotify.com/album/3J3X9R1xj9ghHilQoR9Hid) | 2:10 |
 | 66 | [Sunset](https://open.spotify.com/track/6lFQL7wcWMEKlmLY352af5) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Sunset](https://open.spotify.com/album/0QVbopKTwgjj6sqG7bLHls) | 2:24 |
 | 67 | [Tree](https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Tree](https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH) | 4:27 |
 | 68 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 |

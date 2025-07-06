@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,553 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,597 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 48 | [A Face Without Eyes](https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [Nu.wav Hallucinations](https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv) | 5:59 |
 | 49 | [Mirror Mirror](https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Televised Tragedies](https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9) | 1:37 |
 | 50 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 |
-| 51 | [Eye](https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF) | [Diskette Park](https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic) | [Dark Bandwidth](https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj) | 3:37 |
-| 52 | [Training Day](https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:34 |
+| 51 | [Training Day](https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:34 |
+| 52 | [Eye](https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF) | [Diskette Park](https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic) | [Dark Bandwidth](https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj) | 3:37 |
 | 53 | [Dreams](https://open.spotify.com/track/2YpY3UKrjEh9ZfhxDk9gPN) | [Trushinitas](https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Dreams](https://open.spotify.com/album/7E3gWMH1S8VE6uxJxARh8v) | 3:09 |
 | 54 | [so be it](https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw) | [glhf](https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te) | [so be it](https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj) | 6:28 |
 | 55 | [This Will Pass](https://open.spotify.com/track/2lIznpONVW6XaK7z0wX7qs) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Falling into Place](https://open.spotify.com/album/37SWbswE3jEairzfGWBHgH) | 3:21 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 92 | [Sneakers for Men](https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Buy Now](https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah) | 3:47 |
 | 93 | [CasaBlanca](https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [CasaBlanca](https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES) | 3:03 |
 | 94 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
-| 95 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 |
-| 96 | [True Cyan](https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Wish We Were Sightseers](https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY) | 3:58 |
-| 97 | [I Used To Make Vaporwave](https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Afterparty](https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw) | 1:46 |
+| 95 | [True Cyan](https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Wish We Were Sightseers](https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY) | 3:58 |
+| 96 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 |
+| 97 | [青春の休暇](https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [青春の休暇](https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu) | 4:23 |
 | 98 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
-| 99 | [青春の休暇](https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [青春の休暇](https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu) | 4:23 |
+| 99 | [I Used To Make Vaporwave](https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Afterparty](https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw) | 1:46 |
 | 100 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
 
 Snapshot ID: `ZNZbAAAAAADIAddr7v4EU1i5CxImiv+B`

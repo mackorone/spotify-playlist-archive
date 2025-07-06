@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Roc Boyz, Ida\-Lova, Matoma og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,374 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,370 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 89 | [Dark Sea](https://open.spotify.com/track/5OzkheroVCAAted61g9GUA) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Dark Sea](https://open.spotify.com/album/5XEniBFYvIZhCNptDMZgWe) | 2:16 |
 | 90 | [Eden](https://open.spotify.com/track/1ceEkD7pAsd8yI71OTVU3G) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Eden](https://open.spotify.com/album/1yV9sHDafmg6B9RcfIbwzv) | 3:07 |
 | 91 | [Runner](https://open.spotify.com/track/6K566wKOjEE5YNcWztHtnJ) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Runner](https://open.spotify.com/album/4guZ1Kq4wUJB9soOCFIPbv) | 3:21 |
-| 92 | [No Way](https://open.spotify.com/track/436DPTrdm4GvEIRJRDfuAe) | [Naiia](https://open.spotify.com/artist/4F67EiXT2ffTcQknrKXYDO) | [No Way](https://open.spotify.com/album/3J3X9R1xj9ghHilQoR9Hid) | 2:10 |
+| 92 | [NO WAY](https://open.spotify.com/track/436DPTrdm4GvEIRJRDfuAe) | [Naiia](https://open.spotify.com/artist/4F67EiXT2ffTcQknrKXYDO) | [NO WAY](https://open.spotify.com/album/3J3X9R1xj9ghHilQoR9Hid) | 2:10 |
 | 93 | [Candy](https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Candy](https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO) | 2:51 |
 | 94 | [U](https://open.spotify.com/track/3riJRew5hOMdAxRSFd5aze) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT) | [U](https://open.spotify.com/album/08inRbIEzHtzaw42eQJfwH) | 5:46 |
 | 95 | [Love Me Gentle](https://open.spotify.com/track/7bwgNZrJm4fnLFTxVJnzpf) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Love Me Gentle](https://open.spotify.com/album/3wz8VI2kJn9fx3NVmb1WON) | 2:37 |

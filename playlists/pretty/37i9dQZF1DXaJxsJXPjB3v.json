@@ -1,6 +1,6 @@
 {
   "description": "Revisit the best Kwaito songs ever released. Cover: Bongo Maffin",
-  "num_followers": 74035,
+  "num_followers": 74082,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "S'guqa Ngamadolo",
-        "url": "https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX"
-      },
-      "artists": [
-        {
-          "name": "Mzekezeke",
-          "url": "https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e"
-        }
-      ],
-      "duration_ms": 337400,
-      "name": "Amakoporosh",
-      "url": "https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Yizo Yizo",
         "url": "https://open.spotify.com/album/0MI38qrVzFPVgRiHN4ocFU"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 280013,
       "name": "Tlo Be Rele Daar",
       "url": "https://open.spotify.com/track/03RGHM6AtZxkZ3rU3iAwQa"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "S'guqa Ngamadolo",
+        "url": "https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX"
+      },
+      "artists": [
+        {
+          "name": "Mzekezeke",
+          "url": "https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e"
+        }
+      ],
+      "duration_ms": 337400,
+      "name": "Amakoporosh",
+      "url": "https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY"
     },
     {
       "added_at": "2024-05-22 11:00:00",

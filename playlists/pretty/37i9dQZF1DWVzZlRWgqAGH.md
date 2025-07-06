@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Sasha Keable and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,051 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,060 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 26 | [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 |
 | 27 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
 | 28 | [raisins](https://open.spotify.com/track/7AaHNhB05A2yPXRSpeABJS) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [raisins](https://open.spotify.com/album/1ONVmw18mFxkVFPNusJv0t) | 2:41 |
-| 29 | [Give Your All](https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Give Your All](https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr) | 2:18 |
+| 29 | [Give Your All](https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Nulo](https://open.spotify.com/artist/62CWOZ6M3S4ropjgWlUoWm) | [Give Your All](https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr) | 2:18 |
 | 30 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 |
 | 31 | [Feel It Coming](https://open.spotify.com/track/1l5lvuKlquMKkJgNkcPEzG) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:50 |
 | 32 | [Big Man / Freedom \- Live](https://open.spotify.com/track/79AmTzLaLBK8T36y26W5Rq) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Live At The Montreal International Jazz Festival](https://open.spotify.com/album/5kJaHkoqAOL6Phw7lFpc6p) | 6:05 |

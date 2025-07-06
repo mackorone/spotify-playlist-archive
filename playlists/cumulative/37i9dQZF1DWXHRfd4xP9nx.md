@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-346 songs - 16 hr 17 min
+346 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Drizzling](https://open.spotify.com/track/2czlzoPXzidrNnJ1vLdqV8) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 | 2023-12-20 |  |
 | [Drop from the cloud](https://open.spotify.com/track/7ANIqzLUgOlYvDjsMFi5Qu) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Droplet](https://open.spotify.com/album/34d9oMxfXLOAcvo3PH5PxW) | 3:32 | 2022-10-27 |  |
 | [Drops During Dream](https://open.spotify.com/track/0Y2AiBpOVTg69UDxGozu4w) | [Alois](https://open.spotify.com/artist/6WqG9JAQw07tR3BUuwNTHt) | [Drops During Dream](https://open.spotify.com/album/2uZ06TUDBXNc54ueZj8o8i) | 2:20 | 2023-12-20 |  |
+| [Drops Of Rain](https://open.spotify.com/track/5Sl5wOIQFtBAolYgdkVGB4) | [Electricality](https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:58 | 2022-10-27 |  |
 | [Drops Of Skies](https://open.spotify.com/track/7b2LGKVoG029pfEgI0Jnmk) | [Tailormade Rain](https://open.spotify.com/artist/136WJmw5lkgh37HAthTB1p) | [Drops Of Skies](https://open.spotify.com/album/4wopG570SslotxhJVt1WC8) | 2:53 | 2023-12-20 |  |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2022-10-27 | 2023-12-21 |
 | [Earthly Breeze Rain](https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Tranquil Rain](https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm) | 2:16 | 2023-12-20 |  |
@@ -229,7 +230,6 @@
 | [Rain On The Autumn Leaves](https://open.spotify.com/track/4Uclrcxkq2wCWX5ieA0LfN) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Natural Serenity](https://open.spotify.com/album/3pJL4HWm5phcV0FEvFd7Iz) | 3:29 | 2022-10-27 |  |
 | [Rain On The Cobblestone](https://open.spotify.com/track/5jCwTeQv8DXJzsMmzv0qYi) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain On The Cobblestone](https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP) | 3:41 | 2022-10-27 |  |
 | [Rain On The Lake](https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain On The Lake](https://open.spotify.com/album/0B1aCViIMUFAUgs5vtlfx1) | 3:02 | 2022-10-27 |  |
-| [Rain On the PorchPop Notch Music](https://open.spotify.com/track/5Sl5wOIQFtBAolYgdkVGB4) | [Skies of Rain](https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:20 | 2022-10-27 |  |
 | [Rain On The Rooftop](https://open.spotify.com/track/4M2Ig5mHw3p3H1OJwutuyO) | [DreamDrops](https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za) | [Fairytale Rain](https://open.spotify.com/album/7qZG7K1lwjwOzgRZZeyiPL) | 3:10 | 2023-12-20 |  |
 | [Rain Puddles](https://open.spotify.com/track/44h5mvTeasof8sPZdCNQVS) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Rain Retreat](https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl) | 2:50 | 2022-10-27 |  |
 | [Rain Shower Escape](https://open.spotify.com/track/5WQDRWTEKnV0Ir7sxtScuE) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:20 | 2024-03-21 |  |

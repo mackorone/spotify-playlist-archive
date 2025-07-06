@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,536 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,622 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 |
-| 2 | [Zamaana Lage \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/76ec1a1bkFfOqoVf6e7nae) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Qaisar\-Ul\-Jafri](https://open.spotify.com/artist/5SMMGwEnXqIWXvhfBfV6BD), [Sandeep Srivastava](https://open.spotify.com/artist/4dCok2LKf2hwVPxQt65a95) | [Zamaana Lage \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/7BpW3kwzoeLX4RFWJVvjGx) | 3:16 |
+| 2 | [Zamaana Lage \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/76ec1a1bkFfOqoVf6e7nae) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Qaisar\-Ul\-Jafri](https://open.spotify.com/artist/5SMMGwEnXqIWXvhfBfV6BD), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Zamaana Lage \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/7BpW3kwzoeLX4RFWJVvjGx) | 3:16 |
 | 3 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 |
 | 4 | [Laal Pari \(From "Housefull 5"\)](https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Alfaaz](https://open.spotify.com/artist/1xHIVVHhwnuYe0uCAip33C) | [Laal Pari \(From "Housefull 5"\)](https://open.spotify.com/album/3Z3pyPT3n8DtJyEtvAnm8L) | 4:16 |
 | 5 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 |

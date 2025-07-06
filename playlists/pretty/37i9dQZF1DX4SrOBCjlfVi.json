@@ -1,13 +1,29 @@
 {
   "description": "All the New Joints featuring JID, Youngboy Never Broke Again, Chance the Rapper and more!",
-  "num_followers": 339768,
+  "num_followers": 339960,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR4gAAAAAPuyDoSHF6SVWpGrSo+hw3",
+  "snapshot_id": "aGijVgAAAAD6CfbVGH5m3X7CD7thOcXw",
   "tracks": [
+    {
+      "added_at": "2025-07-05 04:00:22",
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+    },
     {
       "added_at": "2025-07-04 04:00:34",
       "album": {

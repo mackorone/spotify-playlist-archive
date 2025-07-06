@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Brito
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,788 likes - 49 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,782 likes - 49 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 3 | [Continuar](https://open.spotify.com/track/6UfjCEmJ9SyldMXYSlFvH1) | [Cassio Petronilo](https://open.spotify.com/artist/4xow4BOa01hpUUsPS99lsd), [Salluz Collection](https://open.spotify.com/artist/3C6CIrpyiIrVL9pHjcdhpv) | [Continuar](https://open.spotify.com/album/2uktcfX2jXFc0DXO5M70dV) | 3:49 |
 | 4 | [Passa por Aqui](https://open.spotify.com/track/1Vc6qEzkm0KjLFOOKCDXyi) | [Tawany Camargo](https://open.spotify.com/artist/3IgDqk256tRHrCZuColkjN), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Passa por Aqui](https://open.spotify.com/album/6KNBMFvxCn0cikWBGL2maU) | 5:21 |
 | 5 | [Pardal \- Ao Vivo](https://open.spotify.com/track/3iWIDtctilGANywZXvgM7s) | [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh) | [Pardal \(Ao Vivo\)](https://open.spotify.com/album/2om6qCv7EV9A6k9Vauyhj8) | 7:51 |
-| 6 | [Palavras e palavras \- Ao Vivo](https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Palavras e palavras \(Ao Vivo\)](https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8) | 5:26 |
+| 6 | [Palavras e Palavras \- Ao Vivo](https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Palavras e Palavras \(Ao Vivo\)](https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8) | 5:26 |
 | 7 | [Bom Futuro](https://open.spotify.com/track/7efZlOuOd624oD8oDNj7jg) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Avenida do Arrependimento Vol\. 2](https://open.spotify.com/album/4ZtxmuiMBFi5hrE3L06dAy) | 3:59 |
 | 8 | [Rei dos Reis \- Ao Vivo em Salvador](https://open.spotify.com/track/2zzxzkd9RjGtzo4GRMJ78e) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Cura \| EP 02 \(Ao Vivo em Salvador\)](https://open.spotify.com/album/06HjPUgSeUcjbkoxg9DvTL) | 2:51 |
 | 9 | [Rio \- Acústico](https://open.spotify.com/track/5z93dC3jC49owwoP8QMx9i) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Rio \(Acústico\)](https://open.spotify.com/album/7gVz5lXKSWol1ij8l397Zm) | 3:39 |

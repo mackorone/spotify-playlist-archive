@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-142 songs - 7 hr 29 min
+143 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Allergy](https://open.spotify.com/track/38MKW2tQHtyO8djIOKlEFF) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:42 | 2023-05-17 | 2024-04-19 |
 | [Allergy](https://open.spotify.com/track/0afnaAYZk1IPQSFDd2MGw0) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt) | 2:42 | 2024-04-05 |  |
 | [ALREADY](https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:21 | 2022-05-22 |  |
+| [ARISE](https://open.spotify.com/track/1Zpi3A3zcSIPTGt4mhJsNo) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | ['Solo Leveling:ARISE' \(Original Soundtrack\)](https://open.spotify.com/album/3ZRA0BXTwO2ydgjXblwrEb) | 2:57 | 2025-07-06 |  |
 | [BEAM BEAM](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:47 | 2022-05-22 |  |
 | [Bloom](https://open.spotify.com/track/6VMWKUfMM8l0Toddh1Lqto) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 3:14 | 2024-07-09 |  |
 | [Blow Your Mind](https://open.spotify.com/track/5QIWUtgYCSrulzyixMLgbM) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 2:49 | 2022-05-22 |  |

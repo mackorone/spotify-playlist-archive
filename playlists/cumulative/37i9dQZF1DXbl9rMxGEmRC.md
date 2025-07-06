@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics\. Cover: Behemoth
 
-716 songs - 2 day 13 hr 25 min
+717 songs - 2 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [For A New God](https://open.spotify.com/track/04t8WfipD4SrZI6gRstbNS) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [For A New God](https://open.spotify.com/album/7auc6DmRLsJaYg0igD9JJ7) | 5:58 | 2023-11-17 | 2023-12-26 |
 | [Forest Whispers My Name](https://open.spotify.com/track/39KAA4qcUwhb9KZliy0nYC) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [The Principle Of Evil Made Flesh](https://open.spotify.com/album/15usnPSpMX62IcvbG2PrDN) | 5:06 | 2022-07-13 | 2022-07-29 |
 | [Forført Av Kulden](https://open.spotify.com/track/6HS4agidoOvDkRGKiY6Jt3) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Dypet](https://open.spotify.com/album/2dPuve2VirTp81dO4gwHIO) | 5:20 | 2023-03-31 | 2023-04-19 |
+| [Forgive Me for What I Haven't Done](https://open.spotify.com/track/5UGkzfxiDryTQVUoQN8T6c) | [Sorry...](https://open.spotify.com/artist/7tHcWwUTkiKP3ohRo4ArWq) | [Fragile](https://open.spotify.com/album/4e0b5EofzbbEwJ5Ays837C) | 5:29 | 2025-07-04 |  |
 | [Fortress of Solitude](https://open.spotify.com/track/2twxjWRMdh6fJUnUkRwJsN) | [Thy Kingdom Will Burn](https://open.spotify.com/artist/3NF3YgS5HwEFVfGoAnoWoR) | [Fortress of Solitude](https://open.spotify.com/album/2FiGydND74LKbKzzC5oKMc) | 5:29 | 2022-04-29 | 2022-05-21 |
 | [Forward Into the Light!](https://open.spotify.com/track/5KeK0E61THcUMj2OlXfdDn) | [Trespasser](https://open.spotify.com/artist/2h6nQnzpUndFlaEA6wKOJ5) | [Ἀποκάλυψις](https://open.spotify.com/album/2M2E44j4Ja8pYbK06P0YHa) | 4:59 | 2023-02-15 | 2023-03-18 |
 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 | 2022-07-13 | 2023-08-19 |
@@ -367,7 +368,7 @@
 | [Ksar Al\-Kufar](https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx) | [Necrowretch](https://open.spotify.com/artist/0cIx910hgtpgvicBJv3ybq) | [Ksar Al\-Kufar](https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm) | 4:21 | 2023-12-15 | 2025-03-08 |
 | [L'Envol](https://open.spotify.com/track/49y4jrXiUxJ1XqzUmtcQje) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Chants de l'Aurore](https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy) | 8:02 | 2024-07-03 |  |
 | [Labyrinth of Stone](https://open.spotify.com/track/0sIT4kW3fa9jgDOEsIVJJo) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Labyrinth of Stone](https://open.spotify.com/album/17qNRU2LfnOuZUFmD4LRPY) | 5:45 | 2025-07-04 |  |
-| [Latrodectus](https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Latrodectus](https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH) | 4:22 | 2023-03-03 |  |
+| [Latrodectus](https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Latrodectus](https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH) | 4:22 | 2023-03-03 | 2025-07-06 |
 | [Le cœur noir charbon](https://open.spotify.com/track/6SkVNR0kwbHBbBqNHRkhno) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Le cœur noir charbon](https://open.spotify.com/album/1iEQyb7x4RuWNpQfbjGNo3) | 7:18 | 2022-01-14 | 2022-01-29 |
 | [Legion](https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Rapture](https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G) | 3:30 | 2022-05-27 |  |
 | [Let the Devil In](https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Let the Devil In](https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B) | 4:40 | 2022-01-07 | 2022-02-11 |

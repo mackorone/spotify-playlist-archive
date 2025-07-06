@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 34235,
+  "num_followers": 34248,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
-        "name": "Macarena",
-        "url": "https://open.spotify.com/album/1uKLZaJkX4E5G757MNRyKN"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        },
-        {
-          "name": "Cristina Pucean",
-          "url": "https://open.spotify.com/artist/2KqNGJVeLw5RqpyHEw7lGZ"
-        }
-      ],
-      "duration_ms": 161513,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/3U7EsmefcBOb33o1pWVuOT"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
         "name": "Nebunia lui Babasha",
         "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 145026,
       "name": "Nebunia lui Babasha",
       "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "Macarena",
+        "url": "https://open.spotify.com/album/1uKLZaJkX4E5G757MNRyKN"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "Cristina Pucean",
+          "url": "https://open.spotify.com/artist/2KqNGJVeLw5RqpyHEw7lGZ"
+        }
+      ],
+      "duration_ms": 161513,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/3U7EsmefcBOb33o1pWVuOT"
     },
     {
       "added_at": "2025-06-30 15:57:58",
@@ -1731,42 +1731,6 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
-        "name": "SELFWASH",
-        "url": "https://open.spotify.com/album/6HT52mdjH6W85Ops4jxy5r"
-      },
-      "artists": [
-        {
-          "name": "AdelinMM",
-          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 159011,
-      "name": "SELFWASH",
-      "url": "https://open.spotify.com/track/61GJk5rl09EB2I0emL23Op"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
         "name": "A\u0219a Ceva",
         "url": "https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7"
       },
@@ -1787,6 +1751,42 @@
       "duration_ms": 204705,
       "name": "A\u0219a Ceva",
       "url": "https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
+        "name": "SELFWASH",
+        "url": "https://open.spotify.com/album/6HT52mdjH6W85Ops4jxy5r"
+      },
+      "artists": [
+        {
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 159011,
+      "name": "SELFWASH",
+      "url": "https://open.spotify.com/track/61GJk5rl09EB2I0emL23Op"
     },
     {
       "added_at": "2025-06-30 15:57:58",

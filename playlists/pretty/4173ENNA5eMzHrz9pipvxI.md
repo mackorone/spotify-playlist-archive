@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Avi Snow &amp; Zeeba
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,255 likes - 31 songs - 1 hr 33 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,233 likes - 31 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Starlight](https://open.spotify.com/track/3lA9DHLUN1iyw0UEu6SML9) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Starlight](https://open.spotify.com/album/71LDaF3s8cCLg4iWyEHu7V) | 3:00 |
-| 2 | [Come Undone](https://open.spotify.com/track/4CbTrY0U3h9SL11nGvl95R) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Come Undone](https://open.spotify.com/album/5mXxmNCowyfaUmxVssO0un) | 2:51 |
+| 2 | [Come Undone](https://open.spotify.com/track/4CbTrY0U3h9SL11nGvl95R) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Luna Isa](https://open.spotify.com/artist/48rIZslea3sq2nxBfiEPpb) | [Come Undone](https://open.spotify.com/album/5mXxmNCowyfaUmxVssO0un) | 2:51 |
 | 3 | [Paradoxx](https://open.spotify.com/track/311Qd187nocyXg2WcNRW1y) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx](https://open.spotify.com/album/6WQ196juQmaFmzWEOmfU4X) | 2:06 |
 | 4 | [Can't Stop](https://open.spotify.com/track/5K65SPhZHgLUUppBv6pi0b) | [MOR3L](https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc) | [Can't Stop](https://open.spotify.com/album/4wvy94jnnYwdIEDbM3eE6r) | 3:08 |
 | 5 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 |

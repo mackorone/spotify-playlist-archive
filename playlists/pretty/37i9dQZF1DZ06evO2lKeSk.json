@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 357936,
+  "num_followers": 357982,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGXIAAAAAADPNrgmcibnjfCu/2EiT+9A",
+  "snapshot_id": "aGcZgAAAAACJHZEeiKqljO7cbYmGl/Nc",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Y Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 269440,
       "name": "Luna",
       "url": "https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Y Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Es el Amor Quien Llega",
-      "url": "https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Como Soy",
         "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 205933,
       "name": "Soy Como Quise Ser",
       "url": "https://open.spotify.com/track/4fbkYivlblH2hmA4ezlscp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Es el Amor Quien Llega",
+      "url": "https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 200718,
+  "num_followers": 200733,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGXIAAAAAABjptrnZxSl7EFENxnBV0GU",
+  "snapshot_id": "aGcZgAAAAABzzEB1p5KQ7QcZEqHEM8W2",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "No Le Hago Falta",
-      "url": "https://open.spotify.com/track/2bpmteM9wnfynV1MNkI898"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 180146,
       "name": "Me Est\u00e1 Gustando",
       "url": "https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/2bpmteM9wnfynV1MNkI898"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ti Solita",
-        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 155973,
-      "name": "En Resumen",
-      "url": "https://open.spotify.com/track/7DbS4AzvjmJPeJP3Uwovs6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 144613,
       "name": "Pistear\u00e9",
       "url": "https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Ti Solita",
+        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "En Resumen",
+      "url": "https://open.spotify.com/track/7DbS4AzvjmJPeJP3Uwovs6"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Pronostican Borracheras",
-        "url": "https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW"
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 141900,
-      "name": "Se Pronostican Borracheras",
-      "url": "https://open.spotify.com/track/2uODDcbfNeRYZ5iftW2iNy"
+      "duration_ms": 208293,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Bien Pedo",
-        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+        "name": "Se Pronostican Borracheras",
+        "url": "https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 208293,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
+      "duration_ms": 141900,
+      "name": "Se Pronostican Borracheras",
+      "url": "https://open.spotify.com/track/2uODDcbfNeRYZ5iftW2iNy"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Abandono, Vol. 4",
-        "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 192179,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY"
+      "duration_ms": 200800,
+      "name": "Esta Va Por Ti",
+      "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+        "name": "Tu Abandono, Vol. 4",
+        "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Esta Va Por Ti",
-      "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
+      "duration_ms": 192179,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY"
     },
     {
       "added_at": null,

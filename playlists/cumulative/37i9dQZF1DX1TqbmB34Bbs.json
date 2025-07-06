@@ -2683,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "YAHO",
+        "url": "https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        },
+        {
+          "name": "Jeremy Que$t",
+          "url": "https://open.spotify.com/artist/33gA8ycF2yf6GpiJuqO5Fd"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Back In The Building (feat. Jeremy Que$t)",
+      "url": "https://open.spotify.com/track/3WO5JxekfIPCqgQ1aQLaAi"
+    },
+    {
+      "album": {
         "name": "12 Years Of Digscvry",
         "url": "https://open.spotify.com/album/0yFUU0X7SKtBBBF0bHkrF3"
       },
@@ -8680,7 +8702,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 147400,
       "name": "First Step",
       "url": "https://open.spotify.com/track/2CwoQbjMZDOyzihiVEczrR"

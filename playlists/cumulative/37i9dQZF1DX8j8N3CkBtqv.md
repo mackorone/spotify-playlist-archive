@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Twin Strings and other exciting artists.
 
-1,097 songs - 2 day 11 hr 54 min
+1,098 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,7 +832,7 @@
 | [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL), [Basudhara Roy Munshi](https://open.spotify.com/artist/2qpcBqB6sjBqr2YNaAufRd), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 | 2024-09-06 | 2024-10-26 |
 | [Saadho](https://open.spotify.com/track/2Q82mCCsgJPqNH8ceuCc9P) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Sabr](https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ) | 5:10 | 2025-04-11 | 2025-04-19 |
 | [Saahiba](https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Saahiba](https://open.spotify.com/album/7mlb1stM6vE1g4vtHn0GBG) | 3:15 | 2024-01-12 | 2024-06-15 |
-| [Saaiyaan Ve](https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saaiyaan Ve](https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR) | 3:00 | 2025-06-27 |  |
+| [Saaiyaan Ve](https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saaiyaan Ve](https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR) | 3:00 | 2025-06-27 | 2025-07-06 |
 | [Saalo Se](https://open.spotify.com/track/5V4BoefaIDvg3m3V6g9Cpf) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Saalo Se](https://open.spotify.com/album/4ngEajgZgykMDA11vydy0p) | 2:41 | 2024-09-13 | 2024-10-04 |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-15 | 2023-10-21 |
 | [Saath De](https://open.spotify.com/track/24gFEjMDxYFn24SUFz2pvH) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sukrit Srivastava](https://open.spotify.com/artist/4fL2GzLhtLrapqKaYaRDj5) | [Saath De](https://open.spotify.com/album/49EiJmrABQSl4MjQwQnwYI) | 3:12 | 2025-06-13 | 2025-06-21 |
@@ -1063,6 +1063,7 @@
 | [Visions](https://open.spotify.com/track/3DvXWSw1RsdRYOutyqMZ7n) | [Soham](https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78) | [Visions](https://open.spotify.com/album/6L9UmJraKH1b9AU2eE03sD) | 3:04 | 2023-09-01 | 2023-09-30 |
 | [Waiting On](https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Waiting On](https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O) | 2:35 | 2024-11-15 | 2025-02-01 |
 | [Watch Out](https://open.spotify.com/track/16H86xNadfBh4Iyt7u3idn) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1), [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Watch Out](https://open.spotify.com/album/2uG4yn7ol8ohmFJfLBWIpf) | 4:02 | 2023-08-18 | 2023-09-16 |
+| [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 | 2025-07-04 |  |
 | [We Made Us](https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2) | [Vaani Bhasin](https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS) | [We Made Us](https://open.spotify.com/album/5xc7upsqYIw2yjyJ03h1ka) | 3:36 | 2023-04-14 | 2023-05-20 |
 | [What Sets Us Free](https://open.spotify.com/track/7AwzT0d2EC7KDeACKSHKSH) | [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [What Sets Us Free](https://open.spotify.com/album/4KjF2Qr2QOD93cC6jKXG4v) | 2:55 | 2024-11-08 | 2024-12-21 |
 | [What To do](https://open.spotify.com/track/0mrh7hdwT3Ro6lk2WhsEe2) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w), [Aarushi Tiwari](https://open.spotify.com/artist/2rrOnGJP6uq1I54RsDyvXn) | [What To Do](https://open.spotify.com/album/0hG1JnmOReNDz5y8syprXu) | 3:03 | 2024-11-08 | 2024-11-30 |

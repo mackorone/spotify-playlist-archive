@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from DJ Snake & J Balvin, Jokke, Kendji Girac and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,877 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,891 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

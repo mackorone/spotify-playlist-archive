@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > my alter ego \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,149 likes - 11 songs - 48 min 53 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 23,150 likes - 12 songs - 52 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,5 +19,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 9 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 |
 | 10 | [U.F.O](https://open.spotify.com/track/1N6oLheDDCvbDIEjwcR8S4) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [You're No Good](https://open.spotify.com/album/7hlRtKmx13ObPK4OL0UE6C) | 2:55 |
 | 11 | [June Guitar](https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [June Guitar](https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC) | 3:52 |
+| 12 | [SINCERELY](https://open.spotify.com/track/4CRCH72z1sK1GDysXFpoc8) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [4 REAL](https://open.spotify.com/album/3v54qzNPUdfcV0W2WEFcRA) | 3:08 |
 
-Snapshot ID: `AAAMscSjP4+zHM5VrBODIpXZxY4AGdow`
+Snapshot ID: `AAAMsqcvs1DbtNEeiGU2NxbM8e2cuamg`

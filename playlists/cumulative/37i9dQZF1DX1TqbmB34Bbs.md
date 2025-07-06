@@ -4,7 +4,7 @@
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: Loopy\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,266 songs - 2 day 21 hr 57 min
+1,267 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [BACK](https://open.spotify.com/track/1wNQyLr8PuBcWDXfyI71BK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Demon Youth](https://open.spotify.com/album/4YPACcqstZ7TVAsuTB8yIF) | 2:45 | 2022-05-28 | 2022-07-19 |
 | [Back In My AREA \(Feat\. GGM LIL DRAGON, LIL GIMCHI, Skinny Brown, June One\)](https://open.spotify.com/track/6gdGqeQRDgmibHU9RH5ohZ) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 3:35 | 2022-05-31 | 2022-07-26 |
 | [Back in my block \(feat\. Gwangil Jo\)](https://open.spotify.com/track/1hT7XTrcccEE7wELGcSqaL) | [Walo](https://open.spotify.com/artist/0pVr6piInuPIThw585LsJy), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [ROOM RAPPER Part.3 Final](https://open.spotify.com/album/2pdcwHsziBZobQDSgufgRr) | 3:08 | 2022-06-09 | 2022-07-26 |
+| [Back In The Building \(feat\. Jeremy Que$t\)](https://open.spotify.com/track/3WO5JxekfIPCqgQ1aQLaAi) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Jeremy Que$t](https://open.spotify.com/artist/33gA8ycF2yf6GpiJuqO5Fd) | [YAHO](https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8) | 1:53 | 2025-07-06 |  |
 | [Back In The Day \(HipHop Version\) Feat\. Don Malik, Paloalto](https://open.spotify.com/track/5MEVEzmCN567LPdQSl6KM0) | [TOMNIg](https://open.spotify.com/artist/4QoS6NeKIfGcy60aUbaHmp), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [12 Years Of Digscvry](https://open.spotify.com/album/0yFUU0X7SKtBBBF0bHkrF3) | 4:02 | 2022-05-28 | 2022-07-02 |
 | [Back To The S₩AG \(Feat\. tendo\)](https://open.spotify.com/track/00luw2BDYAQ5ZTTIKpWJwG) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [tendo](https://open.spotify.com/artist/2iZ9QJdHI20cVR8KYFgjeH) | [Back To The S₩AG](https://open.spotify.com/album/0CsSx7lxNOyRCt5lggStTb) | 3:25 | 2022-05-28 | 2022-07-18 |
 | [Backseat \(feat\. Nucksal\)](https://open.spotify.com/track/4hB9VjK7vPtzfalKV8c8GH) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [MONEY BREATH](https://open.spotify.com/album/6Yhynoz0adjSekgJunlYSG) | 2:41 | 2023-02-16 | 2023-03-14 |
@@ -370,7 +371,7 @@
 | [Finish Line \(feat\. SUPERBEE & Jvcki Wai\)](https://open.spotify.com/track/40rRulLNB13Pwq1Br6pH6u) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Finish Line \(feat\. SUPERBEE & Jvcki Wai\)](https://open.spotify.com/album/6iufUFvsynEdAkpwZrK3as) | 4:16 | 2022-05-31 | 2022-07-22 |
 | [Fire Power](https://open.spotify.com/track/1FBj1JEf0hE57bfIDwDYDO) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Endless Summer](https://open.spotify.com/album/5VvtULvZkqDY7stRfnXLn1) | 3:34 | 2022-07-04 | 2022-07-06 |
 | [First Class](https://open.spotify.com/track/2tvnAzyoULMLYd9sMv9Lc3) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:31 | 2022-06-13 | 2022-07-28 |
-| [First Step](https://open.spotify.com/track/2CwoQbjMZDOyzihiVEczrR) | [빅선](https://open.spotify.com/artist/6dHi2MD6sC6yfuuORMamMK) | [RISE ABOVE](https://open.spotify.com/album/4HEwRyWp6Boo6tFWgIRQg7) | 2:27 | 2025-06-27 |  |
+| [First Step](https://open.spotify.com/track/2CwoQbjMZDOyzihiVEczrR) | [빅선](https://open.spotify.com/artist/6dHi2MD6sC6yfuuORMamMK) | [RISE ABOVE](https://open.spotify.com/album/4HEwRyWp6Boo6tFWgIRQg7) | 2:27 | 2025-06-27 | 2025-07-06 |
 | [FLEX](https://open.spotify.com/track/5Sr6n27QEzwczXotjeJLVj) | [Loopy & nafla](https://open.spotify.com/artist/0Th5ZPrSTxpMyNsMAAvajp) | [FLEX](https://open.spotify.com/album/0Oeb49v3LGf9oKWqewUAOc) | 3:26 | 2022-05-28 | 2022-07-27 |
 | [Flex Forever](https://open.spotify.com/track/6jvr4hLUk5sDSuC5hyWZEq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Flex Forever](https://open.spotify.com/album/3ZkvR9Ma1eAh8E9IuVPsQm) | 3:19 | 2022-05-31 | 2022-06-09 |
 | [Flexin](https://open.spotify.com/track/1neuHOjOCQCgz8fKQtAcF3) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/0q4gS2Vkxf4lHw8PVrxSiW) | 4:17 | 2022-06-03 | 2022-06-06 |

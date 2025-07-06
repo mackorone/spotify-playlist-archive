@@ -4,7 +4,7 @@
 
 > 
 
-7,416 songs - 19 day 6 hr 12 min
+7,417 songs - 19 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4437,6 +4437,7 @@
 | [Pray 4 Love \(feat\. The Weeknd\)](https://open.spotify.com/track/2dJ4rGtsOHOgvTQawsCRtg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:07 | 2025-01-15 |  |
 | [Pray For Me](https://open.spotify.com/track/6huNf4dutXRjJyGn7f5BPS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 3:31 | 2025-01-15 |  |
 | [Pray For Me \(with Kendrick Lamar\)](https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:31 | 2025-01-15 |  |
+| [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 | 2025-07-05 |  |
 | [Prayer X](https://open.spotify.com/track/6FMelWDNGnYBva29R4d0tq) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sympa](https://open.spotify.com/album/0JkzNXV5Iq6B6ojAGvYAIn) | 3:15 | 2025-01-03 |  |
 | [Praying](https://open.spotify.com/track/28FSGvQfafhr7oq5vbJOon) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:05 | 2025-04-19 |  |
 | [President Carter](https://open.spotify.com/track/15WOWZpw9YnE4RQQnXHQqW) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:15 | 2025-03-07 |  |
@@ -6816,7 +6817,7 @@
 | [六等星の夜](https://open.spotify.com/track/04K2brFrPGggc1EMHxOwOb) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Best Selection Blanc](https://open.spotify.com/album/1ls4Al4Eqzpocfe9Xb9kgJ) | 5:37 | 2024-12-05 |  |
 | [冬の影は哀しみ](https://open.spotify.com/track/3KEh7kUTfPQ7oceOyadDFZ) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:12 | 2025-01-03 |  |
 | [冬眠](https://open.spotify.com/track/28QP3jpaBPGgKKH4x3y5Dg) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 5:01 | 2025-01-15 |  |
-| [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 | 2025-01-15 |  |
+| [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [SHIGEO SEKITO](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 | 2025-01-15 |  |
 | [別の人の彼女になったよ](https://open.spotify.com/track/666wLEFj1AtTNBEcErygLz) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [群青リフレイン](https://open.spotify.com/album/7ibkOnS6ApxvZ3R79cualG) | 5:04 | 2025-01-15 |  |
 | [刹那の人魚姫～Heart break mermaid～ \- Full Spec Edition](https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn) | [千佳](https://open.spotify.com/artist/0EbN9AvLinWeyEFXHLcv6y), [彩也香](https://open.spotify.com/artist/23oYiC3mc5S0FCBTDeq1BY) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side B\)](https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u) | 4:35 | 2025-06-11 |  |
 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 | 2025-01-15 |  |

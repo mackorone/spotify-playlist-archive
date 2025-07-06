@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Pośnik
 
-507 songs - 1 day 0 hr 34 min
+508 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-23 | 2025-02-07 |
 | [BLUZA](https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BLUZA](https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc) | 2:50 | 2024-08-22 | 2025-01-24 |
 | [boeira](https://open.spotify.com/track/0rMlErDSq2KTWQquy1tFPG) | [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn), [Kaki](https://open.spotify.com/artist/3wePHjo31t64qRMHBj7NnU), [Json](https://open.spotify.com/artist/5OTHI5apGJ4Zs2eloBI5Hz) | [boeira](https://open.spotify.com/album/3jQq4MhMRvNCIGJHOX9X9q) | 2:36 | 2025-07-03 |  |
+| [BOOM](https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BOOM](https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ) | 2:44 | 2025-07-03 |  |
 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 | 2024-11-07 | 2025-01-24 |
 | [boss](https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [boss](https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe) | 2:11 | 2025-01-23 | 2025-02-07 |
 | [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 | 2024-08-01 | 2024-10-12 |
@@ -435,7 +436,7 @@
 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 | 2024-11-07 | 2025-01-24 |
 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 | 2024-09-06 | 2024-09-20 |
 | [Tchórz](https://open.spotify.com/track/3IWmtaAgIywmurEdfBcMVh) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tchórz](https://open.spotify.com/album/3rHS5Om5ZqZGpvwpQneCU2) | 2:51 | 2024-06-28 | 2024-07-19 |
-| [tchórz](https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [tchórz](https://open.spotify.com/album/4ivdL6LJbfphxkRMO78bYv) | 3:29 | 2025-05-22 |  |
+| [tchórz](https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [tchórz](https://open.spotify.com/album/4ivdL6LJbfphxkRMO78bYv) | 3:29 | 2025-05-22 | 2025-07-06 |
 | [teleranek](https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Teleranek](https://open.spotify.com/album/61C2QQjGxZioq1gyenC2GM) | 3:07 | 2024-06-28 | 2024-07-27 |
 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 | 2025-03-06 | 2025-05-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-01-23 | 2025-04-25 |

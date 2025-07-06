@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Needle In The Hay \- 25th Anniversary Mix](https://open.spotify.com/track/3KQEQrJS844KzcuI1ZHa33) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith: Expanded 25th Anniversary Edition](https://open.spotify.com/album/1DFjIou93GJ4iIysdUfOV3) | 4:16 |
 | 30 | [Terrible Lie](https://open.spotify.com/track/3o1nX61oecxnqXieA2ma0U) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:38 |
 
-Snapshot ID: `aGILwAAAAABqlng3TsVosz1Du49EtdM4`
+Snapshot ID: `aGILwAAAAAAl4Wh9aV1NgQaPen8r27Wq`

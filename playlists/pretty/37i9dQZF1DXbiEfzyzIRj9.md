@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > Big Animal Theoryが冒頭の20曲を選曲 / <br/>国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.  Top 20 tracks curated by Big Animal Theory
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,189 likes - 114 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,197 likes - 114 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

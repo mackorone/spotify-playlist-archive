@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > It’s pop punk, it’s the best \. Pride edition 🌈
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,516 likes - 41 songs - 2 hr 6 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,511 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 29 | [You Were The One](https://open.spotify.com/track/6d7YfqK5hqbPVZV9I51nba) | [Mario Jose](https://open.spotify.com/artist/7jnbFTMmtEZPT4ywFrvaMa) | [You Were The One](https://open.spotify.com/album/00eZwPwwIFy4M8OqiCjdW0) | 3:19 |
 | 30 | [stay](https://open.spotify.com/track/5ngYwONxvf3bVaiwr2Ch7p) | [MVSSIE](https://open.spotify.com/artist/3rAXSOA2wehiCbxIcX7o2V) | [stay](https://open.spotify.com/album/19dbGbe274dQFxba0CMUuz) | 3:23 |
 | 31 | [Climax](https://open.spotify.com/track/3rDs0Pr5vxnekL0zoTAkOL) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Hot Singles In Your Area](https://open.spotify.com/album/44bMy39zfe5g8aoobC6cjq) | 2:55 |
-| 32 | [GIRL$](https://open.spotify.com/track/2M0ryHpvIcoMUNd5wm0eTB) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [WAS HERE](https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG) | 2:12 |
+| 32 | [GIRL$](https://open.spotify.com/track/2M0ryHpvIcoMUNd5wm0eTB) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [WAS HERE](https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG) | 2:12 |
 | 33 | [Locker Room Bully](https://open.spotify.com/track/3Kdu2bo7HxXO6PGOs8jiyl) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 2:17 |
 | 34 | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/track/5PLmlMi5vvoL9pvR8E8UOo) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Wreck My Life \(feat\. PUP\)](https://open.spotify.com/album/7D634spauV9sF64ndg5NgF) | 1:58 |
 | 35 | [But I'm a Quarterback](https://open.spotify.com/track/4rgGq0MtNAPGcStquC7iIz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [But I'm a Quarterback](https://open.spotify.com/album/3qQLmW9AhwN2DDkLlcMMYc) | 2:52 |

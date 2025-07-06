@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 109979,
       "name": "Build a Fire",
       "url": "https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 472333,
       "name": "Put It On - Osunlade Club Mix",
       "url": "https://open.spotify.com/track/1SpdnBjTgVNmtjdmAHMR9K"
@@ -1017,6 +1017,36 @@
     },
     {
       "album": {
+        "name": "Unity In Diversity (Yoruba Soul remix)",
+        "url": "https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v"
+      },
+      "artists": [
+        {
+          "name": "Han Litz Group",
+          "url": "https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX"
+        },
+        {
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Yoruba Soul",
+          "url": "https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303902,
+      "name": "Unity In Diversity - Yoruba Soul remix",
+      "url": "https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh"
+    },
+    {
+      "album": {
         "name": "The Drawing Board",
         "url": "https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL"
       },
@@ -1062,7 +1092,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 426226,
       "name": "We Can Change This World - Yoruba Soul Mix",
       "url": "https://open.spotify.com/track/7peX22FQZymDyGq2a7e1ZR"

@@ -2,9 +2,9 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Smiley & Drake
+> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🧊
 
-1,918 songs - 3 day 16 hr 48 min
+1,919 songs - 3 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,7 +670,7 @@
 | [Ghost](https://open.spotify.com/track/0z4BHcC6dCovVW9kqOt6D5) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [Ghost](https://open.spotify.com/album/1cKwQOrG9K7tQSzfUMCe7u) | 2:16 | 2023-11-10 | 2023-11-18 |
 | [GHOSTS IN MY ROOM](https://open.spotify.com/track/56NeQMRoZnqzLNz7naX0kz) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [GHOSTS IN MY ROOM](https://open.spotify.com/album/4dIppxd4cpY5jutYjGhRIC) | 3:29 | 2025-02-21 | 2025-04-05 |
 | [Gilbert Arenas](https://open.spotify.com/track/4LWXlzK2h8jbgYi4QNxFO0) | [Speng Squire](https://open.spotify.com/artist/1xtxdFPGw2IVa9BMxWtiUa) | [Gilbert Arenas](https://open.spotify.com/album/5mniIACONWFGNsfyFRjSLU) | 2:07 | 2022-01-07 | 2022-06-18 |
-| [GIMME A HUG](https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:13 | 2025-02-14 |  |
+| [GIMME A HUG](https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:13 | 2025-02-14 | 2025-07-06 |
 | [Gin and Tonic](https://open.spotify.com/track/3qR4YcjjAUzFOTmkghhEPE) | [No Tourists](https://open.spotify.com/artist/0uBsS9dLSDqjW04F66Q6uI) | [Gin and Tonic](https://open.spotify.com/album/5QBACdrdqgeYZ39iPLLUt2) | 3:32 | 2023-08-11 | 2023-09-09 |
 | [Girls Wanna Have Fun](https://open.spotify.com/track/0CAoC5v4ACbffXKaOp6VcE) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Girls Wanna Have Fun](https://open.spotify.com/album/36ZGNEPY9qChtjXw4a713p) | 2:04 | 2024-03-01 | 2024-05-03 |
 | [GLEE](https://open.spotify.com/track/02sSQjG0CFVM829FuGURB0) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [GLEE](https://open.spotify.com/album/0jHIEkjsFrLmbf444udXio) | 2:05 | 2024-02-23 | 2024-03-09 |
@@ -1838,6 +1838,7 @@
 | [We Getting Rich](https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [We Getting Rich](https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG) | 2:33 | 2022-04-08 | 2022-05-20 |
 | [Welcome Back Freestyle](https://open.spotify.com/track/0knVZZi4TCmdRVAvZdi1Ng) | [Blitzkrieg](https://open.spotify.com/artist/13qmbtWUvLnO5nwsavIupI), [Humble the Poet](https://open.spotify.com/artist/5cz1L6LgkBPnIJmQcjIfHA) | [Welcome Back Freestyle](https://open.spotify.com/album/2hrBoFw5HxYq9Ru1l5I55y) | 1:36 | 2023-06-16 | 2023-08-12 |
 | [Western Conference](https://open.spotify.com/track/4zfwmxOtfEec7Ct9qQ67mU) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Western Conference](https://open.spotify.com/album/5wynBL7bR3Y1BEtXXnBgAA) | 2:45 | 2022-02-04 | 2022-03-12 |
+| [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-05 |  |
 | [What I Might Say Next...](https://open.spotify.com/track/1ZET57CP96mEbJCt819OOb) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Patio Season](https://open.spotify.com/album/7MIBpn1fx9271xk70OtSRk) | 2:54 | 2025-06-13 |  |
 | [WHAT NOW](https://open.spotify.com/track/4bTI0UF71ma665vPMtssMs) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [WHAT NOW](https://open.spotify.com/album/0aJ1HTYuGtwa9AJXBKXR5d) | 3:10 | 2025-02-28 | 2025-03-22 |
 | [what the funk](https://open.spotify.com/track/1vGS1oeykk8jntKLxH2cPp) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [what the funk](https://open.spotify.com/album/5wSJZp1RmnYVhQrBaHoBp0) | 2:28 | 2023-09-01 | 2023-10-28 |

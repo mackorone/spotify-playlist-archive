@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ezhel ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,066 likes - 95 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,129 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 70 | [İyi Bilirsin](https://open.spotify.com/track/6DGN33TDClN9geoathxgmF) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [İyi Bilirsin](https://open.spotify.com/album/3eHPNIDQnb5DVfsLMFSUJF) | 3:04 |
 | 71 | [karanlıktan korkarsan dinle](https://open.spotify.com/track/7MMWEYvEESVGhARZBSx3yb) | [ARKADAŞ](https://open.spotify.com/artist/2acae8AE80hjsa8PICuc2V) | [karanlıktan korkarsan dinle](https://open.spotify.com/album/592bysACuqS6z7SqhWsSuH) | 2:51 |
 | 72 | [EL İNSAF](https://open.spotify.com/track/7nexgKlwOvLkQCKmHN8676) | [Yung Şimşek](https://open.spotify.com/artist/4ReTB5nAVuJFlTRkA0aakm) | [EL İNSAF](https://open.spotify.com/album/5iyORxDjifNaKeBm8GlqYX) | 2:48 |
-| 73 | [Tek Başımayım](https://open.spotify.com/track/1akRBuk9CjMQVDtIqm4svQ) | [Serin Karataş](https://open.spotify.com/artist/1DnJe8ZCd6ERC8M0Fy0PvE), [Göz](https://open.spotify.com/artist/20w6isb5mVP600OgN2NGyb), [Prod.By\_Mcd](https://open.spotify.com/artist/11NkQTMGyi99UiPVNHJ8WZ) | [Tek Başımayım](https://open.spotify.com/album/4aWRQljwhOSREVlU0CWIY6) | 2:09 |
+| 73 | [Tek Başımayım](https://open.spotify.com/track/1akRBuk9CjMQVDtIqm4svQ) | [Serin Karataş](https://open.spotify.com/artist/1DnJe8ZCd6ERC8M0Fy0PvE), [Göz](https://open.spotify.com/artist/20w6isb5mVP600OgN2NGyb), [Prod\. By\_MCD](https://open.spotify.com/artist/4vxKSjddco6SXKrBsnc6Vt) | [Tek Başımayım](https://open.spotify.com/album/4aWRQljwhOSREVlU0CWIY6) | 2:09 |
 | 74 | [ERKEN ÖLEMEM](https://open.spotify.com/track/45pUlfCHiVVBaUOCEbQ1mp) | [Merve Demirci](https://open.spotify.com/artist/1Ky2PiE9IMwMQ9pfs5SbFp) | [ERKEN ÖLEMEM](https://open.spotify.com/album/0U8v9PTl2eRIGSKi00kzNi) | 2:57 |
 | 75 | [Derdini Bul](https://open.spotify.com/track/0MTZ0XcJjpVHzR8QFbsn0Y) | [Beliz](https://open.spotify.com/artist/12QL4EXEXsPTOVjXBc8BD4) | [Derdini Bul](https://open.spotify.com/album/6wh33sEXT5HKxaDgP2k8Px) | 4:54 |
 | 76 | [siyah](https://open.spotify.com/track/0Crl1yrkoBcdF9WVgjqF1N) | [Özeren](https://open.spotify.com/artist/4xKQyuqhyyDy6yTQdGk8qz), [Yeed](https://open.spotify.com/artist/18AQ2FrKXAghzNZVjOcBuJ) | [siyah](https://open.spotify.com/album/3FumXW2o0Gciwohh4BDLH6) | 2:09 |

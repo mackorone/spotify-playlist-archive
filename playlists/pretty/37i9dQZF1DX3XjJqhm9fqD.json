@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier",
-  "num_followers": 96424,
+  "num_followers": 96437,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "IDANTITE'N",
         "url": "https://open.spotify.com/album/7dxoacw7mdk3aT7CvQZXCC"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 320248,
       "name": "Ban'm Tout Afe'm",
       "url": "https://open.spotify.com/track/0YQHr8rlZwmcGx8Z7xiM7t"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "SIWO",
-        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 229491,
-      "name": "SIWO",
-      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "Magic Gouyad #6",
         "url": "https://open.spotify.com/album/2wP33sB9KypBSi5V0Bw5Ll"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 230647,
       "name": "Magic Gouyad #6",
       "url": "https://open.spotify.com/track/3hf1hsNVQoOV674dVguPYz"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "SIWO",
+        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 229491,
+      "name": "SIWO",
+      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "Mal",
         "url": "https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 258790,
       "name": "Mal",
       "url": "https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1175,26 +1175,18 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Gimme The Night",
-        "url": "https://open.spotify.com/album/5M0QSl8ypFamgZArk34Svr"
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
       "artists": [
         {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        },
-        {
-          "name": "Massiv3",
-          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
-        },
-        {
-          "name": "Zina Eve",
-          "url": "https://open.spotify.com/artist/6jrrAuBgAfP9W2HVscZYPw"
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
         }
       ],
-      "duration_ms": 236965,
-      "name": "Gimme The Night",
-      "url": "https://open.spotify.com/track/7wsFUegBzDBaKMVosSprNN"
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1215,18 +1207,26 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+        "name": "Gimme The Night",
+        "url": "https://open.spotify.com/album/5M0QSl8ypFamgZArk34Svr"
       },
       "artists": [
         {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        },
+        {
+          "name": "Massiv3",
+          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
+        },
+        {
+          "name": "Zina Eve",
+          "url": "https://open.spotify.com/artist/6jrrAuBgAfP9W2HVscZYPw"
         }
       ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+      "duration_ms": 236965,
+      "name": "Gimme The Night",
+      "url": "https://open.spotify.com/track/7wsFUegBzDBaKMVosSprNN"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Kelly Krow",
-        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
       "artists": [
         {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        },
-        {
-          "name": "Mozart Louis",
-          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
         }
       ],
-      "duration_ms": 270315,
-      "name": "Sal Vle",
-      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
+      "duration_ms": 286840,
+      "name": "Flanm",
+      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+        "name": "Kelly Krow",
+        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
       },
       "artists": [
         {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        },
+        {
+          "name": "Mozart Louis",
+          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
         }
       ],
-      "duration_ms": 286840,
-      "name": "Flanm",
-      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
+      "duration_ms": 270315,
+      "name": "Sal Vle",
+      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 211000,
       "name": "Destine",
       "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1731,6 +1731,30 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
+        "name": "Trip Tropikal",
+        "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
+      },
+      "artists": [
+        {
+          "name": "ManitoNation",
+          "url": "https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3"
+        },
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot"
+        },
+        {
+          "name": "Kabysh",
+          "url": "https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Na Va W\u00e8 Yo",
+      "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1759,30 +1783,6 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
-        "name": "Trip Tropikal",
-        "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
-      },
-      "artists": [
-        {
-          "name": "ManitoNation",
-          "url": "https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3"
-        },
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot"
-        },
-        {
-          "name": "Kabysh",
-          "url": "https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Na Va W\u00e8 Yo",
-      "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
     },
     {
       "added_at": "2025-04-04 14:00:39",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
     }
   ],
   "unique_name": "Haitian Heat",

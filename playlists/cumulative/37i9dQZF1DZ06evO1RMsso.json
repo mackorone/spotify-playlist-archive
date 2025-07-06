@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532706,
+      "name": "Journey To The Island",
+      "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
+    },
+    {
+      "album": {
         "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
       },

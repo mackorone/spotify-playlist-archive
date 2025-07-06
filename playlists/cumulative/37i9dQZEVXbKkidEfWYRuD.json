@@ -8686,7 +8686,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 216101,
       "name": "HURT",
       "url": "https://open.spotify.com/track/5ne515mhuyE54lSIwPC2IJ"
@@ -15812,7 +15812,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -15830,7 +15830,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -18758,7 +18758,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 230880,
       "name": "The Sun, The Wine and You",
       "url": "https://open.spotify.com/track/6rYfWhx94NEPTxeaGQbHIx"
@@ -25502,7 +25502,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 152725,
       "name": "\u0415\u043d\u0434\u043e\u0440\u0444\u0456\u043d",
       "url": "https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO"
@@ -26964,7 +26964,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 77037,
       "name": "\u041a\u0430\u0442\u044e\u0445\u0430",
       "url": "https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV"
@@ -27304,7 +27304,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -27736,7 +27736,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 140800,
       "name": "\u041a\u0443\u0445\u043d\u0438",
       "url": "https://open.spotify.com/track/69zCrlRTLn4sLeU4fJOzmE"
@@ -27754,7 +27754,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 122033,
       "name": "\u043a\u0445\u043c-\u043a\u0445\u043c",
       "url": "https://open.spotify.com/track/2Br49Z6ckGKdcnDGLj2L8q"
@@ -28698,7 +28698,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 150384,
       "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK"
@@ -31899,6 +31899,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u043e\u043d\u0438\u043a\u043b\u0430\u0441\u044c \u043c\u043d\u043e\u0439",
+        "url": "https://open.spotify.com/album/6BvDEWNBJ1jbnRV8cv4PjG"
+      },
+      "artists": [
+        {
+          "name": "T-Fest",
+          "url": "https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173958,
+      "name": "\u041f\u0440\u043e\u043d\u0438\u043a\u043b\u0430\u0441\u044c \u043c\u043d\u043e\u0439",
+      "url": "https://open.spotify.com/track/5qC3bVpPy0yTIh3R7xhzEI"
+    },
+    {
+      "album": {
         "name": "\u041f\u0440\u043e\u0441\u0438 \u043f\u0440\u043e\u0431\u0430\u0447\u0435\u043d\u043d\u044f",
         "url": "https://open.spotify.com/album/0sjQEBt9tH2U16lappOvUy"
       },
@@ -33140,7 +33158,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 143294,
       "name": "\u0421\u043b\u043e\u043c\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4OjB6FkYwCeWqsSpTFF7O9"
@@ -35458,7 +35476,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 187353,
       "name": "\u0425\u0430\u0440\u0442\u0431\u0456\u0442",
       "url": "https://open.spotify.com/track/7DJHeuuTpNjXLu25zCADhQ"
@@ -35834,7 +35852,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 98029,
       "name": "\u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv"

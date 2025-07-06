@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 203093,
       "name": "Cool Breeze",
       "url": "https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd"
@@ -3088,6 +3088,24 @@
       "duration_ms": 196226,
       "name": "Good Thing Going",
       "url": "https://open.spotify.com/track/1LsTLPEplOVImv6xU7BXnr"
+    },
+    {
+      "album": {
+        "name": "Good Thing Going",
+        "url": "https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR"
+      },
+      "artists": [
+        {
+          "name": "Sugar Minott",
+          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Good Thing Going",
+      "url": "https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N"
     },
     {
       "album": {

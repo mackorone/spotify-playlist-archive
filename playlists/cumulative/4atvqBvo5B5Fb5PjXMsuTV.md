@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Jul 22:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Jul 18:04 UTC.
 
-5,068 songs - 11 day 18 hr 9 min
+5,070 songs - 11 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 | 2024-08-23 | 2024-08-29 |
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-16 | 2024-07-18 |
 | [ALL IN VEIN](https://open.spotify.com/track/3nucWhjnxUPoGAVzXwQ0dm) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [ALL IN VEIN](https://open.spotify.com/album/7D7zpHtUfmqecSWPes3B1D) | 3:07 | 2025-02-14 | 2025-02-23 |
+| [All Inclusive Türkiye](https://open.spotify.com/track/0BShIllxmWwP0a1H3vbbAn) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [All Inclusive Türkiye](https://open.spotify.com/album/0dXoWacTGmGOScorV7ezSE) | 1:12 | 2025-07-05 |  |
 | [All Kind Of Ideas](https://open.spotify.com/track/5HyTW0c0Op3NspGNNYmSO3) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [All Kind Of Ideas](https://open.spotify.com/album/38j3GcuiblVAwz5ugH8Nh1) | 3:48 | 2024-06-27 | 2024-06-29 |
 | [All Mine](https://open.spotify.com/track/03e6ATyNO3OTDDPjElXQWF) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [All Mine](https://open.spotify.com/album/62dxP5Rds4BGwzjbJlMvgI) | 2:20 | 2024-10-18 | 2024-10-23 |
 | [All My Freaks](https://open.spotify.com/track/0zuMZmRQBp65CNS6WfzEYl) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [All My Freaks](https://open.spotify.com/album/5nKeAjFQwW4os6jxKOkv1E) | 3:01 | 2024-09-23 | 2024-09-26 |
@@ -1937,7 +1938,7 @@
 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-16 | 2025-03-23 |
 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 | 2024-11-30 | 2024-12-05 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-24 | 2024-09-27 |
-| [helix](https://open.spotify.com/track/4kQ9vp1V2Jj6Cdqx3bu00b) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [helix](https://open.spotify.com/album/7p4qDyU5g2cuiMCnai3jAK) | 4:15 | 2025-06-28 |  |
+| [helix](https://open.spotify.com/track/4kQ9vp1V2Jj6Cdqx3bu00b) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [helix](https://open.spotify.com/album/7p4qDyU5g2cuiMCnai3jAK) | 4:15 | 2025-06-28 | 2025-07-06 |
 | [Hell 99](https://open.spotify.com/track/1ohADSbCmwMEuA3xSHu3Eh) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Hell 99](https://open.spotify.com/album/1IO7HBfOhZJrQZQpEeWP8O) | 4:27 | 2024-08-21 | 2024-08-24 |
 | [Hell Is Empty](https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Hell Is Empty](https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11) | 2:57 | 2024-10-09 | 2024-10-12 |
 | [Hell of a Show](https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hell of a Show](https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn) | 1:47 | 2024-07-10 | 2024-07-13 |
@@ -2426,7 +2427,7 @@
 | [KING OF CALIFORNIA](https://open.spotify.com/track/5A6e0rRHhLkmgP4bj8LB7R) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [KING OF CALIFORNIA](https://open.spotify.com/album/3mK6APzuCJiLAIaq8O8Mq5) | 2:42 | 2025-03-24 | 2025-04-03 |
 | [King tonka](https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 2:05 | 2024-05-03 | 2024-05-07 |
 | [Kisapmata](https://open.spotify.com/track/1Xs9mIQdHSy6XG7ZtCx40b) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Kisapmata](https://open.spotify.com/album/3BXUesZKgsCPPIUM7t1ChU) | 4:53 | 2024-07-19 | 2024-07-21 |
-| [Kiss It](https://open.spotify.com/track/0crf7XPp15LSQ82AId28aK) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Kiss It](https://open.spotify.com/album/3EctO1Kw0CZ5FFQzETQLDw) | 3:11 | 2025-06-29 |  |
+| [Kiss It](https://open.spotify.com/track/0crf7XPp15LSQ82AId28aK) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Kiss It](https://open.spotify.com/album/3EctO1Kw0CZ5FFQzETQLDw) | 3:11 | 2025-06-29 | 2025-07-06 |
 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-09 | 2025-03-17 |
 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 | 2024-09-25 | 2024-09-28 |
 | [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 | 2025-05-06 | 2025-05-17 |
@@ -4792,6 +4793,7 @@
 | [What a Day](https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [What a Day](https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU) | 3:18 | 2024-08-01 | 2024-08-03 |
 | [What Are You \(Wow\)](https://open.spotify.com/track/7adBoIUp1r4G7m5ZElCqYy) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [What Are You \(Wow\)](https://open.spotify.com/album/31LdRx7FcPJmhh5uo22NVf) | 4:19 | 2025-06-14 | 2025-06-22 |
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-03-28 | 2025-04-05 |
+| [What Did I Miss?](https://open.spotify.com/track/1IeAHTFukgidXjoMi95uf2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/3JuECBOogQ2QOIYStKCrqv) | 3:14 | 2025-07-05 |  |
 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-09 | 2024-08-13 |
 | [What Girls Do](https://open.spotify.com/track/7D3xPNBJRaGB7XBFYF1By4) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Girls Do](https://open.spotify.com/album/6JMfi3fZWlTORb7RK9odSj) | 2:16 | 2024-06-28 | 2024-07-03 |
 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 | 2024-11-01 | 2024-11-07 |

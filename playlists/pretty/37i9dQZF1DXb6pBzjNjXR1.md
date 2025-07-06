@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9?si=RvirRjnkTbmHpN0xKXsVAA">Vanco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,718 likes - 64 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,744 likes - 64 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

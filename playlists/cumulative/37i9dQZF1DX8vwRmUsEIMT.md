@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: KETTAMA
 
-3,057 songs - 6 day 21 hr 6 min
+3,058 songs - 6 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2927,6 +2927,7 @@
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-10 | 2023-12-08 |
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-03-28 | 2025-05-02 |
 | [What Can I Say After I'm Sorry?](https://open.spotify.com/track/4f3pP4ir4uCCrgDA18os4D) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [What Can I Say After I'm Sorry?](https://open.spotify.com/album/2NKJWDaqHEgKWFXiNBc6TU) | 2:48 | 2024-05-02 | 2024-06-01 |
+| [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-05 |  |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-23 | 2024-06-21 |
 | [What Do You Do?](https://open.spotify.com/track/2ZkYZj1DhaCbudwQf7eP3k) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [What Do You Do?](https://open.spotify.com/album/4QpZ6gFWGrDuPwByOcL6eU) | 3:10 | 2023-07-13 | 2023-08-18 |
 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 | 2024-03-15 | 2024-04-12 |

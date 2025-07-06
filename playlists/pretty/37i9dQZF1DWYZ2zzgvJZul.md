@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Dillom, Airbag, Marilina Bertoldi y Juliana Gattas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,716 likes - 86 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,726 likes - 86 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 51 | [Miénteme, Prométeme \- Acústico En Vivo](https://open.spotify.com/track/0jv7ynZbGDceCGEzkwn8GF) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Don Tetto \(Acústico En Vivo\)](https://open.spotify.com/album/2am0ZRRuzhiEESL6VcOgCK) | 5:01 |
 | 52 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |
 | 53 | [De La Luz](https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ) | 5:07 |
-| 54 | [Eutanasia](https://open.spotify.com/track/25BJFkN0hSzlwDfVphh6rV) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/4hNCyXh4Bd1V9gzKskIK15) | 2:34 |
+| 54 | [Eutanasia](https://open.spotify.com/track/25BJFkN0hSzlwDfVphh6rV) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/4hNCyXh4Bd1V9gzKskIK15) | 2:34 |
 | 55 | [Ismael](https://open.spotify.com/track/05ITcFpFos4chRgKwHLnOg) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Plata](https://open.spotify.com/album/1gWy8gYPwVWlzX5JhTWetC) | 4:58 |
 | 56 | [Algo Cursi?](https://open.spotify.com/track/4U97DkLsvj3K90PGsXyJfM) | [Jadeh](https://open.spotify.com/artist/7cchpo6al4P5rXqiwr3rFI) | [Algo Cursi?](https://open.spotify.com/album/7s7xJWbtBHvJmq05tfSTfX) | 3:43 |
 | 57 | [Canciones de amor](https://open.spotify.com/track/25Zk0XfW51saVwcH7bBOV4) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Canciones de amor](https://open.spotify.com/album/657L4NaNNPqNQYbpZmDHX8) | 3:23 |

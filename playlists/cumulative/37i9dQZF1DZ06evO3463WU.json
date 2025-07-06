@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/4v2QzDrW0QdnXCMGGd2mbw"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/6MSizT4E3V6hP0f1eRSd8R"
+    },
+    {
+      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
       },
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 218012,
       "name": "Pasi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/5BLrIi9fP7phVlzVe4LeTJ"

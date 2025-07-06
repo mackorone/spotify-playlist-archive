@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7jITZJikDeNMTfdDXjon9K.md) - [plain]
 
 > 
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 14 likes - 3,123 songs - 7 day 16 hr 16 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 14 likes - 3,124 songs - 7 day 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2490,7 +2490,7 @@ pretty - [cumulative](/playlists/cumulative/7jITZJikDeNMTfdDXjon9K.md) - [plain]
 | 2480 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 |
 | 2481 | [Up There](https://open.spotify.com/track/2rKmNEYrQxaOPZrOWKZpOc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:14 |
 | 2482 | [Hit This Hard](https://open.spotify.com/track/61jnrkPHpLumBf1kqGpRRt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:09 |
-| 2483 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [泰葉](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 |
+| 2483 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [Yasuha](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 |
 | 2484 | [スカイレストラン](https://open.spotify.com/track/1QpybTT7CadO6tsUBnoukv) | [Hi\-Fi Set](https://open.spotify.com/artist/5WXIodDr8Cl8sQv5a9E0nm) | [Hi\-Fi Blend Pt\. 1](https://open.spotify.com/album/6EOrKPVERnBrdSYrpSfgTJ) | 3:13 |
 | 2485 | [CAT'S EYE \- \(NEW TAKE\)](https://open.spotify.com/track/6igMq65qc3o0CUhSoHf9yD) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 3:09 |
 | 2486 | [검은 고양이 네로](https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [280KM SPEED](https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI) | 3:13 |
@@ -3131,5 +3131,6 @@ pretty - [cumulative](/playlists/cumulative/7jITZJikDeNMTfdDXjon9K.md) - [plain]
 | 3121 | [HOTBOX](https://open.spotify.com/track/2UcHKgT00bLP7Cjkni3Itg) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:02 |
 | 3122 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:21 |
 | 3123 | [BOY CRAZY.](https://open.spotify.com/track/4SVlgCR8RCbdrbzIgln1Un) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 2:28 |
+| 3124 | [NIAMOS! \(Chandrilian Club Mix\) \- From "Andor \(Season 2\)"](https://open.spotify.com/track/2JaWrIAAugnQwuG1OQAB0F) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [NIAMOS! \(Chandrilian Club Mix\) \[From "Andor \(Season 2\)"\]](https://open.spotify.com/album/6KJMLlCBWkB1gSq0cSYnjd) | 4:14 |
 
-Snapshot ID: `AAAQInju57bYutcp1Z0nkVGCnkZ7FBn2`
+Snapshot ID: `AAAQI+ECUAhAoU1muU+Kcjcg8zPQXw35`

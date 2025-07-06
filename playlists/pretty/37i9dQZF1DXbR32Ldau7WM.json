@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Billyrrom",
-  "num_followers": 297945,
+  "num_followers": 297971,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-07-01 16:27:47",
       "album": {
-        "name": "\u5e7e\u5104\u5149\u5e74",
-        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
-      },
-      "artists": [
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 276918,
-      "name": "\u5e7e\u5104\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
-    },
-    {
-      "added_at": "2025-07-01 16:27:47",
-      "album": {
         "name": "MESSAGE",
         "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 222640,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
+    },
+    {
+      "added_at": "2025-07-01 16:27:47",
+      "album": {
+        "name": "\u5e7e\u5104\u5149\u5e74",
+        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "duration_ms": 276918,
+      "name": "\u5e7e\u5104\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
     },
     {
       "added_at": "2025-07-01 16:27:47",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-07-01 16:27:47",
       "album": {
-        "name": "\u5f37\u706b",
-        "url": "https://open.spotify.com/album/4KrIjV9nRPuWrHuO69xWzw"
-      },
-      "artists": [
-        {
-          "name": "QUEEN BEE",
-          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "\u5f37\u706b",
-      "url": "https://open.spotify.com/track/0mh1ueH9o75o0mt6bqk4Sp"
-    },
-    {
-      "added_at": "2025-07-01 16:27:47",
-      "album": {
         "name": "\u7f8e\u3057\u3044\u9c2d",
         "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 209777,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
+    },
+    {
+      "added_at": "2025-07-01 16:27:47",
+      "album": {
+        "name": "\u5f37\u706b",
+        "url": "https://open.spotify.com/album/4KrIjV9nRPuWrHuO69xWzw"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "\u5f37\u706b",
+      "url": "https://open.spotify.com/track/0mh1ueH9o75o0mt6bqk4Sp"
     },
     {
       "added_at": "2025-07-01 16:27:47",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-07-01 16:27:47",
       "album": {
-        "name": "NO MAP",
-        "url": "https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "NO MAP",
-      "url": "https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR"
-    },
-    {
-      "added_at": "2025-07-01 16:27:47",
-      "album": {
         "name": "FIXION",
         "url": "https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 235659,
       "name": "Sleep Walking Orchestra",
       "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
+    },
+    {
+      "added_at": "2025-07-01 16:27:47",
+      "album": {
+        "name": "NO MAP",
+        "url": "https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR"
     },
     {
       "added_at": "2025-07-01 16:27:47",

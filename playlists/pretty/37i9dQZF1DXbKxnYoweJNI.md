@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 呂允 \(Lu Yun\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,933 likes - 134 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,937 likes - 134 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 73 | [足夠的失落](https://open.spotify.com/track/3UbGYr5LCtLUNDpHjjvdg5) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [允許萬物破碎](https://open.spotify.com/album/2McePly2UXoLik1dObrnPr) | 4:18 |
 | 74 | [On Call 365](https://open.spotify.com/track/5HNbymVh7dOIEkf9wIU48b) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [On Call 365](https://open.spotify.com/album/5q843v8bHnoLcc7OCmpUdQ) | 3:31 |
 | 75 | [Don't Ask](https://open.spotify.com/track/1AujVhAK0hULDuiMNj9GLo) | [回环 RingAgain](https://open.spotify.com/artist/6yZizKMxiMqmi9hclZ7IB3) | [松一口气！](https://open.spotify.com/album/0pV7ChVoff2LV1MWm7VC5K) | 4:05 |
-| 76 | [You’ll never know \(feat\. CED\)](https://open.spotify.com/track/46xCsQ2NTGvWz1USemEuzU) | [Jumbo 江柏翰](https://open.spotify.com/artist/1M56cc6rUn4p1mzHdkJMEp), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [You’ll never know \(feat\. CED\)](https://open.spotify.com/album/6vAQVxlXYmFVzkedb1rDsW) | 3:04 |
+| 76 | [You’ll never know](https://open.spotify.com/track/46xCsQ2NTGvWz1USemEuzU) | [Jumbo 江柏翰](https://open.spotify.com/artist/1M56cc6rUn4p1mzHdkJMEp), [CED](https://open.spotify.com/artist/6L6M3IaeEW7e4nohM3Toek) | [You’ll never know](https://open.spotify.com/album/6vAQVxlXYmFVzkedb1rDsW) | 3:04 |
 | 77 | [葡萄眼淚](https://open.spotify.com/track/2nolany48u38ynjvQmKNqL) | [詹雯如](https://open.spotify.com/artist/0FPOrFIygnCMClFTzRysHP) | [快樂旅社](https://open.spotify.com/album/01wtvbyk51x128s26faatl) | 3:00 |
 | 78 | [Someday](https://open.spotify.com/track/3RyyfIz7ffBiiUWb5NQQQk) | [李晉瑋\(G.WeiLee\)](https://open.spotify.com/artist/5USwlHFW8l5fLMXELJrNbf) | [Someday](https://open.spotify.com/album/4D7YXWs7432WtWGJQVMyef) | 4:04 |
 | 79 | [BBG](https://open.spotify.com/track/1UOgqXukIUhnZ4XPXKSDsH) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [BBG](https://open.spotify.com/album/6VZgA9NqQW28U9x9c4ri7h) | 3:03 |

@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 105161,
+  "num_followers": 105228,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Roberto Roena Y Su Apollo Sound",
+        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 199049,
+      "name": "Tu Loco Loco Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Roberto Roena Y Su Apollo Sound",
-        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 199049,
-      "name": "Tu Loco Loco Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Fe, Esperanza y Caridad",
-        "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
-      },
-      "artists": [
-        {
-          "name": "Henry Fiol",
-          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
-        }
-      ],
-      "duration_ms": 469840,
-      "name": "La juma de ayer",
-      "url": "https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
         "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Fe, Esperanza y Caridad",
+        "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
+      },
+      "artists": [
+        {
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+        }
+      ],
+      "duration_ms": 469840,
+      "name": "La juma de ayer",
+      "url": "https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4"
     },
     {
       "added_at": "2024-06-24 22:23:31",

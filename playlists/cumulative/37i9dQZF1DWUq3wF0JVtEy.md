@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-541 songs - 1 day 2 hr 21 min
+542 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Sickness](https://open.spotify.com/track/0BwEzkVtELJI3suZINw6Yb) | [AdamDarling](https://open.spotify.com/artist/3ymgkFheVJc8RE98s1yMM6), [Ruta](https://open.spotify.com/artist/7mL413dtjZt1cIHhEkgm4D) | [Sickness](https://open.spotify.com/album/4VeM580tSutZmK3cLH7lZ8) | 2:36 | 2021-10-29 | 2022-07-29 |
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-08-05 |  |
 | [Sinnerman Riddim](https://open.spotify.com/track/1DppIKxWwxHlAqe2NbFHiW) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG) | [Sinnerman Riddim](https://open.spotify.com/album/6BvS770hMdIWKzMJLYxBPv) | 2:16 | 2024-05-31 | 2024-11-14 |
+| [Sirens](https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Sirens](https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH) | 2:30 | 2025-07-04 |  |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-10-29 | 2022-11-12 |
 | [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 | 2023-04-21 |  |
 | [So We Go \- Martin Jensen Edit](https://open.spotify.com/track/0cWDechbo7Tmf6nk0QRLhI) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [So We Go \(Martin Jensen Edit\)](https://open.spotify.com/album/1Dh413qT2GcFUGdcRqJZB6) | 2:24 | 2021-10-29 | 2022-08-06 |
@@ -514,7 +515,7 @@
 | [Too Soon](https://open.spotify.com/track/0ybwuh7d9YF7dVWBqDgpzd) | [Benwah](https://open.spotify.com/artist/5MDZ4Vx0HejqeFJXMDBYIG) | [Too Soon](https://open.spotify.com/album/72lIoWchPeGzLPUZXhgZHs) | 4:09 | 2021-10-29 | 2022-07-29 |
 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 | 2021-10-29 | 2022-12-17 |
 | [Trigger](https://open.spotify.com/track/76IBjqYohp5r2ff5hvbXqg) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Trigger](https://open.spotify.com/album/37zquxYvzsXCvhO8whITBM) | 2:46 | 2022-05-27 | 2022-07-29 |
-| [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 | 2023-06-16 |  |
+| [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Turn It Up! \(The Crew Motorfest Official Trailer\)](https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7) | 2:56 | 2023-06-16 | 2025-07-06 |
 | [Turn Off The Lights](https://open.spotify.com/track/1hBWTDB4WVPTN6zaFcCftG) | [Rich Furniss](https://open.spotify.com/artist/6hEshD9iO0iolNdqjuQcyG), [Jesse Jonez](https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i) | [Turn Off The Lights](https://open.spotify.com/album/6kEV76ip7yyQjuOFOO48fg) | 3:35 | 2024-10-04 | 2024-12-06 |
 | [Turn Off The Lights \- Cloonee Remix](https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn Off The Lights \(Cloonee Remix\)](https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc) | 3:18 | 2022-02-11 | 2023-09-23 |
 | [Turn On The Lights](https://open.spotify.com/track/6SlQUgtyfJeTxkqA8Qrx7D) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Turn On The Lights](https://open.spotify.com/album/1WUgSshj5xxozOYU2CF1xE) | 2:21 | 2024-03-29 | 2024-04-19 |

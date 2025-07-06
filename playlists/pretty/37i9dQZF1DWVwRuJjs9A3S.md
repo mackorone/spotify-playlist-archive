@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Harrison Storm & Winona Oak
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,570 likes - 143 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,572 likes - 143 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

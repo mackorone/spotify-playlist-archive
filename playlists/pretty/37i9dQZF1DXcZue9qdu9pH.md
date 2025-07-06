@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,268 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,269 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 16 | [The Lost Kingdom](https://open.spotify.com/track/0IaPSABMW2y34G13CfZIxo) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR), [Rachel Flowers](https://open.spotify.com/artist/4grHJyvpWRMC9cSDzohYaf) | [The Lost Kingdom](https://open.spotify.com/album/3IbagRYu8lk2Z1jyamvSne) | 4:19 |
 | 17 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
 | 18 | [Surrender](https://open.spotify.com/track/0D3SNWVC7KAzCy8jnBwqln) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Surrender](https://open.spotify.com/album/4UU3AuDsnhCk6QDwNZci6p) | 3:43 |
-| 19 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Angarita](https://open.spotify.com/artist/4LJ2sIQkmuImXIky255TH2) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 |
+| 19 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ANGARITA](https://open.spotify.com/artist/3i4OsTUD79iYLEVlXJavgS) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 |
 | 20 | [TESLA](https://open.spotify.com/track/3r5RMIwKMHVLI9lm7YmDds) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [TESLA](https://open.spotify.com/album/527vCzOGMQd4AN3K5VpS6S) | 2:00 |
 | 21 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 |
 | 22 | [Fever](https://open.spotify.com/track/2rI2lBqcWoHXKx1bZRxFT6) | [Soul Mannik](https://open.spotify.com/artist/31zOFFnpYOyCDdmJR4XAUd) | [Fever](https://open.spotify.com/album/6dc7UWyltNv3eeE3XTDISJ) | 2:38 |

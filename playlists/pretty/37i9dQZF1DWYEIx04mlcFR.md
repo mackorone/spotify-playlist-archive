@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Sous\-Sol en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,795 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,794 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 18 | [2016](https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [2016](https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN) | 1:56 |
 | 19 | [114](https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [114](https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ) | 3:12 |
 | 20 | [Nocturna \- Remix](https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Nocturna \(Remix\)](https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH) | 3:55 |
-| 21 | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 |
+| 21 | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 |
 | 22 | [Memorias](https://open.spotify.com/track/7xU7ApnDHCvSGyJO1RUq9U) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Memorias](https://open.spotify.com/album/63bU9OBrh67z7rWPQPcbUm) | 3:52 |
 | 23 | [UN DÍA INOLVIDABLE](https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [UN DÍA INOLVIDABLE](https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK) | 3:11 |
 | 24 | [Sheep en la Gran Ciudad](https://open.spotify.com/track/2cauNqML2K1EBYPWSzw9Fd) | [PERRA BRAVA](https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE) | [Sheep en la Gran Ciudad](https://open.spotify.com/album/0UYRaktu51aS6p7s2G6ej8) | 3:33 |

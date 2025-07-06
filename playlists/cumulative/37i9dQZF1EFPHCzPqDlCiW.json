@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Get It Done",
+        "url": "https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182110,
+      "name": "Get It Done",
+      "url": "https://open.spotify.com/track/6qJ8Il5OThFcrOFj32xR32"
+    },
+    {
+      "album": {
         "name": "Only Ticket Home",
         "url": "https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX"
       },

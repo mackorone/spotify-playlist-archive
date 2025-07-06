@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: JP THE WAVY
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,711 likes - 111 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,739 likes - 111 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

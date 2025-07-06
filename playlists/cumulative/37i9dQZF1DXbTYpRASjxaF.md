@@ -4,7 +4,7 @@
 
 > todos pro alto, cada um com o seu\. Foto: Druhh e Drehh
 
-520 songs - 1 day 2 hr 47 min
+520 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [CPX Ta Tega](https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [CPX Ta Tega](https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG) | 2:22 | 2022-03-18 | 2022-10-15 |
 | [Cria da BXD](https://open.spotify.com/track/1eA0BSAtKGOOyjddOLBigX) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Cria da BXD](https://open.spotify.com/album/4wY4YlF9tkcXNHuTV5M6n2) | 2:01 | 2023-05-26 | 2023-06-24 |
 | [Cria da Cruzada](https://open.spotify.com/track/1HOV6y7jyNc38PKCcEBDit) | [Robinho Duó](https://open.spotify.com/artist/1vaHLFercdMoZQrDZupT0B) | [Cria da Cruzada](https://open.spotify.com/album/4ixaPn9K2eeTDGfUfqny8x) | 2:35 | 2023-08-04 | 2023-08-26 |
-| [Cria das ruas](https://open.spotify.com/track/02LSyOIhNOV9NZkuvBlxg9) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC JSP](https://open.spotify.com/artist/0lRhmQvg5nTo85aoHeDWNE), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Cria das ruas](https://open.spotify.com/album/3jDh9zY7sPxAY630A5pADv) | 3:45 | 2025-07-04 |  |
+| [Cria das ruas](https://open.spotify.com/track/02LSyOIhNOV9NZkuvBlxg9) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC JSP](https://open.spotify.com/artist/0lRhmQvg5nTo85aoHeDWNE), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Cria das ruas](https://open.spotify.com/album/3jDh9zY7sPxAY630A5pADv) | 3:07 | 2025-07-04 |  |
 | [Crossover](https://open.spotify.com/track/5rWiq2Q0rOwWUfqOkUqgo8) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Maisnerd](https://open.spotify.com/artist/3JIQZVKKbsEDD7cS89IS7H), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 3:02 | 2024-06-21 | 2024-07-13 |
 | [Cruel](https://open.spotify.com/track/7ekzDnDXofXkeJHTcSi6uP) | [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr) | [Cruel](https://open.spotify.com/album/3SnU28sYDOXSnw7tG4r8wZ) | 1:40 | 2023-06-02 | 2023-06-24 |
 | [Cruzeiro do Ney](https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:55 | 2023-09-15 | 2023-12-09 |

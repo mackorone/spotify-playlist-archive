@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 El Club Audiovisual.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,956 likes - 102 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,959 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

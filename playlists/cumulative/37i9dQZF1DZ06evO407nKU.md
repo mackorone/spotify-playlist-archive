@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-137 songs - 7 hr 45 min
+138 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [El Amigazo \(En Vivo\)](https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Amigazo \(En Vivo\)](https://open.spotify.com/album/6B0HeqQznYY6f7WEfQUjOJ) | 3:13 | 2022-09-03 | 2022-12-27 |
 | [El De La Mochila](https://open.spotify.com/track/5jEtP3pBbWthzCzhO0kCyC) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El De La Mochila](https://open.spotify.com/album/6aZFylXVOis3BvUbUAoHum) | 3:56 | 2023-11-10 | 2023-12-16 |
 | [El Día Que Me Fui \(En Vivo\)](https://open.spotify.com/track/20k6zFGYcY0xQ51hLDrx7r) | [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Día Que Me Fui \(En Vivo\)](https://open.spotify.com/album/3o4AMtRkJGieVeQwmgTair) | 3:34 | 2024-03-04 | 2024-04-02 |
-| [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 | 2022-06-01 |  |
+| [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 | 2022-06-01 | 2025-07-06 |
 | [El Viejón](https://open.spotify.com/track/34GAoi7sp1UWnY94buABzg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Viejón](https://open.spotify.com/album/2P7d2DZU9Po5AnCzjEIybA) | 3:24 | 2024-08-06 | 2024-09-30 |
 | [En Tu Sonrisa](https://open.spotify.com/track/6hzawDp9DjbaRlDsR12R0K) | [Grupo Doble S](https://open.spotify.com/artist/0iGURLngDC4AjEKaAmF1LF), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Tu Sonrisa](https://open.spotify.com/album/7a2CkvPQeStjenYvF2Ozzp) | 3:01 | 2025-04-15 |  |
 | [Enamorado](https://open.spotify.com/track/65Li8S1PcoLMy7dilqQrYh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:38 | 2022-06-01 | 2022-10-11 |
@@ -109,6 +109,7 @@
 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 | 2022-10-16 | 2024-09-15 |
 | [Santa Llegara](https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Santa Llegara](https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu) | 2:50 | 2023-12-21 | 2025-01-03 |
 | [Se Me Acabó El Tequila](https://open.spotify.com/track/6rFV17L3bx4ER3Q4epyDgz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Se Me Acabó El Tequila](https://open.spotify.com/album/3ZRpDk7M14JJf6OaLW70Ig) | 3:02 | 2022-09-08 | 2023-03-10 |
+| [Se Me Agüitó](https://open.spotify.com/track/26ejebTudwx94xrQxrdNgh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Se Me Agüitó](https://open.spotify.com/album/51YMAnkG9rMuNXXejqCFNB) | 3:23 | 2025-07-06 |  |
 | [Se Supone](https://open.spotify.com/track/37q02Zyig7z2kjkzfO9O3P) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:57 | 2022-06-08 | 2022-10-13 |
 | [Si Dios Me Lleva Con Él](https://open.spotify.com/track/27RJfBNvmvodPkBEaX454r) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Si Dios Me Lleva Con Él](https://open.spotify.com/album/377nvU42pVOG4MJUH36GSY) | 4:10 | 2023-11-10 | 2024-02-01 |
 | [Si Tu Quieres](https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:57 | 2022-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Kapo, Eladio Carrión, Morad, Paulo Londra & Rvfv, DJ Snake & J Balvin, Emilia & Six Sex y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,251 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,330 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 38 | [Mi desastre](https://open.spotify.com/track/3KUhjcqzJZ9FYB0650dJFl) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [Mi desastre](https://open.spotify.com/album/1RcxtnqWbtTfFVjNiF8738) | 2:46 |
 | 39 | [Cantares](https://open.spotify.com/track/5wk3dEuH2gtScVkGoskfjt) | [Lin Cortés](https://open.spotify.com/artist/3SBsCnbQ5q8bOW0uBcwG54) | [Cantares](https://open.spotify.com/album/37Lq74TLRlEAwcCRifvdAI) | 3:49 |
 | 40 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
-| 41 | [Aceite de coconut](https://open.spotify.com/track/1akGHgBSv87d5UutQpgt4M) | [La Beba](https://open.spotify.com/artist/3VrdQuBgabaPZXXuNBVWXJ) | [Aceite de coconut](https://open.spotify.com/album/4WTdEKxj6oZIXog0B9t76R) | 2:57 |
+| 41 | [Aceite de Coconut](https://open.spotify.com/track/1akGHgBSv87d5UutQpgt4M) | [La Beba](https://open.spotify.com/artist/3VrdQuBgabaPZXXuNBVWXJ) | [Aceite de Coconut](https://open.spotify.com/album/4WTdEKxj6oZIXog0B9t76R) | 2:57 |
 | 42 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 |
 | 43 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 |
 | 44 | [Castigo](https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Castigo](https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A) | 3:02 |

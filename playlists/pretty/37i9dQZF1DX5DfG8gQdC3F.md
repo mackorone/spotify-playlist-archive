@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kesha, Zach Bryan, JID, ThxSoMuch, Diljit Dosanjh and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,043 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,136 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 75 | [HURTS](https://open.spotify.com/track/1MHILK2QPFJtOA5O0bRZYN) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [HURTS](https://open.spotify.com/album/7iGXbRdDe5xDcDfFgZCWv9) | 2:25 |
 | 76 | [Everblue](https://open.spotify.com/track/749p6fK8jkNFEk2QQNuWOX) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everblue](https://open.spotify.com/album/5dz9kN0STuNF0L65IBMPcp) | 2:56 |
 | 77 | [Summer '25](https://open.spotify.com/track/75YrOesTP7LR2NxNrKDH7h) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Summer '25](https://open.spotify.com/album/4Z5Q79bhK7ViROrUyrhZgk) | 2:19 |
-| 78 | [Give Your All](https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Give Your All](https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr) | 2:18 |
+| 78 | [Give Your All](https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Nulo](https://open.spotify.com/artist/62CWOZ6M3S4ropjgWlUoWm) | [Give Your All](https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr) | 2:18 |
 | 79 | [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:35 |
 | 80 | [TBH](https://open.spotify.com/track/78UENIHzoxWF75JO1R5xRu) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [TBH](https://open.spotify.com/album/6JQJHr8cvixFtuTNJ3IhwP) | 2:01 |
 | 81 | [Philanthropist \(feat\. Billy Strings\)](https://open.spotify.com/track/2tKpqpBkhnvZa0EwfSXnIG) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Pilgrim](https://open.spotify.com/album/3e5ebpECrk8VZYxkTL2FA8) | 1:55 |

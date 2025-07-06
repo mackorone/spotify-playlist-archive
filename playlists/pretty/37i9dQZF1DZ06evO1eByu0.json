@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162225,
+  "num_followers": 162233,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGXIAAAAAABsiA9WMShKIxxiQ21nErPg",
+  "snapshot_id": "aGcZgAAAAABw2QEUIXC3A9jmPlIbHtGB",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brilha Tua Luz",
-        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 295997,
-      "name": "Brilha Tua Luz",
-      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
         "url": "https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW"
       },
@@ -495,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brilha Tua Luz",
+        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 295997,
+      "name": "Brilha Tua Luz",
+      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caminho de Milagres",
         "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
@@ -507,30 +507,6 @@
       "duration_ms": 359166,
       "name": "Poder Pra Salvar (Mighty to Save)",
       "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Se Move",
-        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 341717,
-      "name": "Ele Se Move",
-      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
     },
     {
       "added_at": null,
@@ -563,6 +539,30 @@
       "duration_ms": 250662,
       "name": "Lugar Seguro",
       "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
     },
     {
       "added_at": null,

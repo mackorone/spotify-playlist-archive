@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: CIVO",
-  "num_followers": 584346,
+  "num_followers": 584348,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "SPIEGLEIN SPIEGLEIN",
-        "url": "https://open.spotify.com/album/2Zjc2eUja92RZG6f7dKfYT"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        }
-      ],
-      "duration_ms": 189886,
-      "name": "SPIEGLEIN SPIEGLEIN",
-      "url": "https://open.spotify.com/track/1qHhr8GD9YOMpuMz37nal8"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "Wunder",
         "url": "https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 176492,
       "name": "Wunder",
       "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "SPIEGLEIN SPIEGLEIN",
+        "url": "https://open.spotify.com/album/2Zjc2eUja92RZG6f7dKfYT"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 189886,
+      "name": "SPIEGLEIN SPIEGLEIN",
+      "url": "https://open.spotify.com/track/1qHhr8GD9YOMpuMz37nal8"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
+        "name": "Junimond",
+        "url": "https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Junimond",
+      "url": "https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 122241,
       "name": "Keine Homies",
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "Junimond",
-        "url": "https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Junimond",
-      "url": "https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 216201,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "LOVE & DRAMA",
         "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 150146,
       "name": "LOVE & DRAMA",
       "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 216201,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -599,6 +599,62 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 221535,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "WENN DU MICH SIEHST",
+        "url": "https://open.spotify.com/album/0t2cctF8dF0vWFLd6HKex2"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "duration_ms": 159259,
+      "name": "WENN DU MICH SIEHST",
+      "url": "https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
         "name": "Ich will",
         "url": "https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg"
       },
@@ -623,22 +679,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
         "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
       },
@@ -655,22 +695,18 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+        "name": "Lautlos",
+        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
       },
       "artists": [
         {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
         }
       ],
-      "duration_ms": 221535,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
+      "duration_ms": 173000,
+      "name": "Lautlos",
+      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -687,22 +723,6 @@
       "duration_ms": 217800,
       "name": "Frieden",
       "url": "https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "Lautlos",
-        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Lautlos",
-      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -759,6 +779,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
+        "name": "2 Meter tiefer",
+        "url": "https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 234426,
+      "name": "2 Meter tiefer",
+      "url": "https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
         "name": "3 Sekunden (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
@@ -779,18 +815,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "2 Meter tiefer",
-        "url": "https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu"
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 234426,
-      "name": "2 Meter tiefer",
-      "url": "https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK"
+      "duration_ms": 185540,
+      "name": "Yay",
+      "url": "https://open.spotify.com/track/51OiYIROicWw15V5Pcbj5g"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -811,26 +851,6 @@
       "duration_ms": 182823,
       "name": "Himmel Leer",
       "url": "https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 185540,
-      "name": "Yay",
-      "url": "https://open.spotify.com/track/51OiYIROicWw15V5Pcbj5g"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -859,6 +879,26 @@
       "duration_ms": 236533,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "RED CUPS (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 206259,
+      "name": "RED CUPS (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -899,38 +939,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "RED CUPS (feat. Paula Hartmann)",
-        "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 206259,
-      "name": "RED CUPS (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+        "name": "Ma Baby 2",
+        "url": "https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY"
       },
       "artists": [
         {
           "name": "Jazeek",
           "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
         }
       ],
-      "duration_ms": 140235,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
+      "duration_ms": 150870,
+      "name": "Ma Baby 2",
+      "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -959,22 +983,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "Universum regelt",
-        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        }
-      ],
-      "duration_ms": 147852,
-      "name": "H\u00f6henangst",
-      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1011,6 +1019,38 @@
       "duration_ms": 114705,
       "name": "Garten vorm Haus",
       "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "Universum regelt",
+        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "duration_ms": 147852,
+      "name": "H\u00f6henangst",
+      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 140235,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1071,22 +1111,34 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Ma Baby 2",
-        "url": "https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY"
+        "name": "Langweilig",
+        "url": "https://open.spotify.com/album/4zgYsk2xg8UrEUPA4VXNNP"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 125546,
+      "name": "Langweilig",
+      "url": "https://open.spotify.com/track/2xi78SPNsrUSB5vXXCapx3"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
       },
       "artists": [
         {
           "name": "Jazeek",
           "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
         }
       ],
-      "duration_ms": 150870,
-      "name": "Ma Baby 2",
-      "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"
+      "duration_ms": 149752,
+      "name": "Leben",
+      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1107,22 +1159,6 @@
       "duration_ms": 154679,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "Langweilig",
-        "url": "https://open.spotify.com/album/4zgYsk2xg8UrEUPA4VXNNP"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 125546,
-      "name": "Langweilig",
-      "url": "https://open.spotify.com/track/2xi78SPNsrUSB5vXXCapx3"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1163,42 +1199,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Was du nicht siehst (feat. ela.)",
-        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "ela.",
-          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "Was du nicht siehst (feat. ela.)",
-      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 149752,
-      "name": "Leben",
-      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "Bilder",
         "url": "https://open.spotify.com/album/2UaAIF911R7TVY8Xlf2R4E"
       },
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Siehst du's auch so",
-        "url": "https://open.spotify.com/album/4GSPITkPHjJjEMVmHZWjGW"
+        "name": "Was du nicht siehst (feat. ela.)",
+        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
       },
       "artists": [
         {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Siehst du's auch so",
-      "url": "https://open.spotify.com/track/6GFGIBvEfBama5eAcjvfyi"
+      "duration_ms": 151704,
+      "name": "Was du nicht siehst (feat. ela.)",
+      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1251,6 +1255,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
+        "name": "Siehst du's auch so",
+        "url": "https://open.spotify.com/album/4GSPITkPHjJjEMVmHZWjGW"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Siehst du's auch so",
+      "url": "https://open.spotify.com/track/6GFGIBvEfBama5eAcjvfyi"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
         "name": "Weisse Orchideen",
         "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
       },
@@ -1267,22 +1287,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "Meine Augen",
         "url": "https://open.spotify.com/album/4aM7Vsa3PIsMm2qarPJ4Is"
       },
@@ -1295,6 +1299,22 @@
       "duration_ms": 136914,
       "name": "Meine Augen",
       "url": "https://open.spotify.com/track/5MnpPgnUEiJMMa5WzbLOWe"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1319,6 +1339,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
+        "name": "Breaking your heart",
+        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Breaking your heart",
+      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
         "name": "Nur die Nacht",
         "url": "https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV"
       },
@@ -1335,18 +1371,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Breaking your heart",
-        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
+        "name": "Ich Liebe Dich",
+        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
       },
       "artists": [
         {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 170579,
-      "name": "Breaking your heart",
-      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+      "duration_ms": 155152,
+      "name": "Ich Liebe Dich",
+      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1387,22 +1427,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Nicht Perfekt",
-        "url": "https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 179411,
-      "name": "Nicht Perfekt",
-      "url": "https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "Pole Dance",
         "url": "https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8"
       },
@@ -1419,38 +1443,18 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Ich Liebe Dich",
-        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
+        "name": "Nicht Perfekt",
+        "url": "https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0"
       },
       "artists": [
         {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
         }
       ],
-      "duration_ms": 155152,
-      "name": "Ich Liebe Dich",
-      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "Warum ich?",
-        "url": "https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp"
-      },
-      "artists": [
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 144671,
-      "name": "Warum ich?",
-      "url": "https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH"
+      "duration_ms": 179411,
+      "name": "Nicht Perfekt",
+      "url": "https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1483,6 +1487,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
+        "name": "Ungebrochen",
+        "url": "https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "Ungebrochen",
+      "url": "https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
         "name": "Pusteblume",
         "url": "https://open.spotify.com/album/5vDviDx5Q5pgQpR7NpIAT9"
       },
@@ -1499,22 +1519,18 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "WINTERALBUM",
-        "url": "https://open.spotify.com/album/0aCmXX2zKcQQ0JY6YBhvlh"
+        "name": "Warum ich?",
+        "url": "https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp"
       },
       "artists": [
         {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
-        },
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
         }
       ],
-      "duration_ms": 145000,
-      "name": "LEERER MAGEN",
-      "url": "https://open.spotify.com/track/00XmE56Q9wZ6ztUrCRYW4D"
+      "duration_ms": 144671,
+      "name": "Warum ich?",
+      "url": "https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1563,8 +1579,28 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Ungebrochen",
-        "url": "https://open.spotify.com/album/3HAxEBZaaJojs1kELX9vqa"
+        "name": "WINTERALBUM",
+        "url": "https://open.spotify.com/album/0aCmXX2zKcQQ0JY6YBhvlh"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "LEERER MAGEN",
+      "url": "https://open.spotify.com/track/00XmE56Q9wZ6ztUrCRYW4D"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
       "artists": [
         {
@@ -1572,9 +1608,33 @@
           "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
         }
       ],
-      "duration_ms": 231520,
-      "name": "Ungebrochen",
-      "url": "https://open.spotify.com/track/2WmYtjrOsvlBr7am7k0bAS"
+      "duration_ms": 166748,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
+    },
+    {
+      "added_at": "2025-07-03 22:00:24",
+      "album": {
+        "name": "Edamame",
+        "url": "https://open.spotify.com/album/6z3Mi8dg1ffRpomYxQSHv2"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Elly",
+          "url": "https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt"
+        },
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Edamame",
+      "url": "https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1627,26 +1687,22 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Edamame",
-        "url": "https://open.spotify.com/album/6z3Mi8dg1ffRpomYxQSHv2"
+        "name": "Akhirah",
+        "url": "https://open.spotify.com/album/03FgDDOodv6plMesbVdF2c"
       },
       "artists": [
         {
-          "name": "Rap La Rue",
-          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+          "name": "NAVACHA",
+          "url": "https://open.spotify.com/artist/3CzTaj0KPnnjizkzxRNJym"
         },
         {
-          "name": "Elly",
-          "url": "https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt"
-        },
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
         }
       ],
-      "duration_ms": 115500,
-      "name": "Edamame",
-      "url": "https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j"
+      "duration_ms": 172800,
+      "name": "Akhirah",
+      "url": "https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1667,22 +1723,18 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Akhirah",
-        "url": "https://open.spotify.com/album/03FgDDOodv6plMesbVdF2c"
+        "name": "Elbe",
+        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
       "artists": [
         {
-          "name": "NAVACHA",
-          "url": "https://open.spotify.com/artist/3CzTaj0KPnnjizkzxRNJym"
-        },
-        {
-          "name": "Mucco",
-          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Akhirah",
-      "url": "https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS"
+      "duration_ms": 195653,
+      "name": "Elbe",
+      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1707,22 +1759,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Elbe",
-        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
-      },
-      "artists": [
-        {
-          "name": "Bozza",
-          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Elbe",
-      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "NuR Du :/",
         "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
       },
@@ -1739,22 +1775,6 @@
       "duration_ms": 206085,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 166748,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2025-07-03 22:00:24",
@@ -1799,22 +1819,6 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Wegen dir",
-        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Wegen dir",
-      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
-    },
-    {
-      "added_at": "2025-07-03 22:00:24",
-      "album": {
         "name": "Wo willst du hin",
         "url": "https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9"
       },
@@ -1831,18 +1835,18 @@
     {
       "added_at": "2025-07-03 22:00:24",
       "album": {
-        "name": "Ohne dich",
-        "url": "https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2"
+        "name": "Wegen dir",
+        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 137779,
-      "name": "Ohne dich",
-      "url": "https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS"
+      "duration_ms": 150880,
+      "name": "Wegen dir",
+      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
     }
   ],
   "unique_name": "Rap in deep",

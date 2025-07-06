@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,363 songs - 19 day 3 hr 17 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,364 songs - 19 day 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5961,7 +5961,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5951 | [命に嫌われている](https://open.spotify.com/track/1hl2HnJJUVIB1yDSEkQaJs) | [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6) | [不器用な男](https://open.spotify.com/album/7qopS2FD6YvyIXoBG7FDJU) | 4:27 |
 | 5952 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 |
 | 5953 | [The Loneliest Girl](https://open.spotify.com/track/03JAxK9FmaSXnIZ6GxEcej) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 3:10 |
-| 5954 | [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 |
+| 5954 | [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [SHIGEO SEKITO](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 |
 | 5955 | [nero](https://open.spotify.com/track/5JrjlQdiSIbhiviLl5U4PF) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [キュプラ](https://open.spotify.com/album/758SQhbduGjDqXcWrbIDuM) | 4:11 |
 | 5956 | [COLORS](https://open.spotify.com/track/7nhEKlLldF7AFxkeCwXIfz) | [フロウ](https://open.spotify.com/artist/6MfYt5ENS3ibojRVzdEP4g) | [COLORS](https://open.spotify.com/album/0YyiSMLotXIp6WlREBD4iU) | 3:41 |
 | 5957 | [好きだから。](https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [好きだから。](https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS) | 4:58 |
@@ -7371,5 +7371,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7361 | [Songweaver of the Night](https://open.spotify.com/track/6ChbKsq9WPYTUE0pwZrfmS) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [jixwang](https://open.spotify.com/artist/4TTQTwzQJgtCLjMrIBXhEZ) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 2:19 |
 | 7362 | [Pimple](https://open.spotify.com/track/1ZPwN2BYeKssfv4avkzyKI) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:40 |
 | 7363 | [MAGO](https://open.spotify.com/track/49EywdY1mHFj27OY7U8Y2d) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6kfPGWOSabPMdO2AoSDeXY) | 3:19 |
+| 7364 | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 |
 
-Snapshot ID: `AAAHejiyvHA/R/rEMphM9ST+CBXGRK/7`
+Snapshot ID: `AAAHe7s/xC5RglS0M9vhQvO5X/BgAJKu`

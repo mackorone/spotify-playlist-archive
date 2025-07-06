@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > lista di cose buone: 1\. l'anguria 2\. l'anguria sulla cover del singolo di fulminacci
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,692 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,684 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

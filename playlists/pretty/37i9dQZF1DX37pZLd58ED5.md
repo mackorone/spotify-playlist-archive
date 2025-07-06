@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,599 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,659 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 18 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:20 |
 | 19 | [Isolato](https://open.spotify.com/track/05vRH5YbsadNUv5XKj9uvI) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Isolato](https://open.spotify.com/album/0lKxCCxW6PqTJWocq47qdD) | 2:40 |
 | 20 | [Segnali di fumo](https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:20 |
-| 21 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 |
+| 21 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 |
 | 22 | [MOLECOLE SPRITE](https://open.spotify.com/track/0bhreLyBJhKKtiGOZuKAYx) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 2:54 |
 | 23 | [FENTANYL feat\. Sfera Ebbasta \(Opera\)](https://open.spotify.com/track/5W7ztEbkvPndldZOZK8PYe) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA \(Opera\)](https://open.spotify.com/album/71zp4v15vupqfXHXYC9E43) | 3:09 |
 | 24 | [LITORALE \(feat\. Guè\)](https://open.spotify.com/track/24nrhZIVZFCjiRfmY44YKe) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 3:52 |

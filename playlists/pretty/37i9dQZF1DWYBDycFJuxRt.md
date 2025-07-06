@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: アイナ・ジ・エンド\*👉 <a href="https://spice.eplus.jp/articles/338996">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,911 likes - 91 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,929 likes - 91 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

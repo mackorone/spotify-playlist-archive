@@ -2,7 +2,7 @@
 
 ### [Beautiful Day](https://open.spotify.com/playlist/37i9dQZF1DWUxUko6rcfsK)
 
-> Het leven is prachtig en dat verdient goede muziek
+> Het leven is 'beautiful' en dat verdient fijne muziek!
 
 156 songs - 8 hr 48 min
 

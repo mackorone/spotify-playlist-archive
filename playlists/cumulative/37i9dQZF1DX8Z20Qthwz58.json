@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "One Last Day",
+        "url": "https://open.spotify.com/album/2YApgTwrbo0nig3GyQvPbF"
+      },
+      "artists": [
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Night Runner (Shooting Star)",
+      "url": "https://open.spotify.com/track/1b3r8lsK8BJSsOUoIpRTLG"
+    },
+    {
+      "album": {
         "name": "Non sweet song",
         "url": "https://open.spotify.com/album/51ZuKOoWVjHAB2qWvzm05X"
       },

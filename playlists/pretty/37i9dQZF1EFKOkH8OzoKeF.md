@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | 4 | [Clavos](https://open.spotify.com/track/1ZyqjQNO25bMMt6DTqsesE) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 3:13 |
 | 5 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 |
 | 6 | [Me Voy Contigo](https://open.spotify.com/track/7elfchBbUE8EEF2DQRzupW) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Me Voy Contigo](https://open.spotify.com/album/6veZ0xh4Tb2X4BpkhGshBp) | 2:45 |
-| 7 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
+| 7 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 8 | [Te Acostumbraste](https://open.spotify.com/track/6naboeDcjnrAwy0E3JKZdB) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Vulnerable](https://open.spotify.com/album/5S5dZ1YxS2JLDHDxjH3ZVD) | 2:37 |
 | 9 | [Sad Happy Ending](https://open.spotify.com/track/3Gz3geFaUtKSYOR1d7i5zF) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [Sad Happy Ending](https://open.spotify.com/album/6HVG1Kh7hNgRIqNl9LJwLF) | 2:03 |
 | 10 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | 77 | [Sálvese Quien Pueda](https://open.spotify.com/track/63cyzAm47XoWmI80RapQ9B) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv), [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47) | [Sálvese Quien Pueda](https://open.spotify.com/album/0wGSBnHW3QjMmuJotJNXxV) | 2:42 |
 | 78 | [Metamorfosis](https://open.spotify.com/track/2cdcT3GVdDJoRNf4xZ1Kd5) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Sexto Sentido](https://open.spotify.com/album/2i1KFGoNAsZCNmCvZBEGzw) | 0:15 |
 
-Snapshot ID: `Ab159AAAAADovW1YAnKRsFOfdy+AOVEP`
+Snapshot ID: `Ab1/igAAAACUqCUe58mQtNIDgSWJY/D/`

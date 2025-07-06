@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 333 Mob, Shablo, Icy Subzero, Morad e Baby Gang, Melon, MamboLosco e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,713 likes - 147 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,721 likes - 147 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AMICI COME PRIMA](https://open.spotify.com/track/0adrbI6meVUfb7BLAYuIg0) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [AMICI COME PRIMA](https://open.spotify.com/album/3ZsMXYg498oH28Jx7KkZUN) | 3:21 |
 | 2 | [Puoi Toccarmi \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/0Rgf6lKDVDjg3ZuaYCeN4F) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Manifesto](https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF) | 4:08 |
 | 3 | [DONNA VERA \(feat\. Artie 5ive\)](https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:37 |
-| 4 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 |
+| 4 | [Vita Divertida \(feat\. Sayf\)](https://open.spotify.com/track/5dzh4l8tuALclkDatoZS98) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Una Vita Non Basta](https://open.spotify.com/album/1WQ5jKFJ2vnvURzDKTA7yI) | 2:35 |
 | 5 | [Sentir](https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:21 |
 | 6 | [Non Andare Via \(feat\. Artie 5ive\)](https://open.spotify.com/track/5RLXn5wMo137SOunM2BxIw) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Osama 3 \(La Morte Di Osama\)](https://open.spotify.com/album/0HCrnHn0WU7ZSN2SEZe8hY) | 3:00 |
 | 7 | [OUTFIT CHECK \(feat\. Diss Gacha\)](https://open.spotify.com/track/0BXiYptkOotydwlsOGlfpe) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [OUTFIT CHECK \(feat\. Diss Gacha\)](https://open.spotify.com/album/6JTmmgKhDgSfMFbM3O7lMG) | 2:11 |

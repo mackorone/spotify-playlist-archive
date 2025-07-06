@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3V8LF8CaRSAiDkt1yjMlyS.md) - [plain]
 
 > 
 
-[ada](https://open.spotify.com/user/adadoro) - 46,382 likes - 189 songs - 9 hr 54 min
+[ada](https://open.spotify.com/user/adadoro) - 46,380 likes - 189 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/3V8LF8CaRSAiDkt1yjMlyS.md) - [plain]
 | 59 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
 | 60 | [Velvet Alibi](https://open.spotify.com/track/7syPTABWrO1KnnVtistjmt) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Fracturas](https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE) | 3:13 |
 | 61 | [Walk Through Fire](https://open.spotify.com/track/0Y3jN7vqr3BXEXd4LO3Foc) | [Edon](https://open.spotify.com/artist/1s1yRLPxetOg08tr0XJfYD) | [Development Year](https://open.spotify.com/album/7pJaLXUfnoE3j8kOtNEaUm) | 2:54 |
-| 62 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [泰葉](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 |
+| 62 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [Yasuha](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 |
 | 63 | [Fractures of Glass](https://open.spotify.com/track/3YRFdoQeGRFI4uC1hNtpA0) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Fracturas](https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE) | 3:13 |
 | 64 | [Slow Burn](https://open.spotify.com/track/1iYkXST6VK7fF4OPdsZL9x) | [Jaden Rivers](https://open.spotify.com/artist/1dFOsKx4P9gg22CZ9Co2Ts) | [Slow Burn](https://open.spotify.com/album/22h5UFnm575l3TvpPREPp8) | 3:55 |
 | 65 | [Mayonaka no Door / Stay With Me](https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 5:12 |

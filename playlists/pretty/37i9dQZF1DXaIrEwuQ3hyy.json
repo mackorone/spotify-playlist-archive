@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1074173,
+  "num_followers": 1074436,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,42 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
         "name": "Livin Alright",
         "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
       },
@@ -899,22 +935,6 @@
       "duration_ms": 176543,
       "name": "Livin Alright",
       "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
     },
     {
       "added_at": "2025-06-20 13:57:21",
@@ -947,26 +967,6 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
     },
     {
       "added_at": "2025-06-20 13:57:21",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
         "name": "Iman",
         "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 240853,
       "name": "Iman",
       "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-06-20 13:57:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
-        "name": "Swedish Girl",
-        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 153937,
-      "name": "Swedish Girl",
-      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 216093,
       "name": "Bau mich auseinander (Piano Version)",
       "url": "https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
+        "name": "Swedish Girl",
+        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 153937,
+      "name": "Swedish Girl",
+      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
     },
     {
       "added_at": "2025-06-20 13:57:21",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
         "name": "Oceanside",
         "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 167826,
       "name": "Oceanside",
       "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
     },
     {
       "added_at": "2025-06-20 13:57:21",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
+        "name": "when words fail",
+        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
+      },
+      "artists": [
+        {
+          "name": "Lara Samira",
+          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "when words fail",
+      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 183986,
       "name": "Closure (feat. BIRDY and Mishaal)",
       "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
-        "name": "when words fail",
-        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
-      },
-      "artists": [
-        {
-          "name": "Lara Samira",
-          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "when words fail",
-      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
     },
     {
       "added_at": "2025-06-20 13:57:21",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
-        "name": "born in the teens",
-        "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 193017,
-      "name": "heartache in july",
-      "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
         "name": "Barefoot",
         "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
+        "name": "born in the teens",
+        "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "duration_ms": 193017,
+      "name": "heartache in july",
+      "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 187795,
       "name": "maybe",
       "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
-        "name": "Someone Special",
-        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 256670,
-      "name": "Someone Special",
-      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
     },
     {
       "added_at": "2025-06-20 13:57:21",
@@ -1595,38 +1579,6 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
-        "name": "Make me think of you",
-        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
-      },
-      "artists": [
-        {
-          "name": "ELIS NOA",
-          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "Make me think of you",
-      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
-        "name": "future",
-        "url": "https://open.spotify.com/album/5mEsxOJpitn5zVnsTGDB3S"
-      },
-      "artists": [
-        {
-          "name": "WRABEL",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "future",
-      "url": "https://open.spotify.com/track/4dCPi1XNwDPNZ00UlapM8D"
-    },
-    {
-      "added_at": "2025-06-20 13:57:21",
-      "album": {
         "name": "Lonely Island",
         "url": "https://open.spotify.com/album/0csQ5xD4LaQ7Zw2qOWis6L"
       },
@@ -1647,6 +1599,38 @@
     {
       "added_at": "2025-06-20 13:57:21",
       "album": {
+        "name": "Someone Special",
+        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 256670,
+      "name": "Someone Special",
+      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
+        "name": "Make me think of you",
+        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
+      },
+      "artists": [
+        {
+          "name": "ELIS NOA",
+          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "Make me think of you",
+      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
         "name": "Like a Song",
         "url": "https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 207036,
       "name": "Like a Song",
       "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
+    },
+    {
+      "added_at": "2025-06-20 13:57:21",
+      "album": {
+        "name": "future",
+        "url": "https://open.spotify.com/album/5mEsxOJpitn5zVnsTGDB3S"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "future",
+      "url": "https://open.spotify.com/track/4dCPi1XNwDPNZ00UlapM8D"
     },
     {
       "added_at": "2025-06-20 13:57:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Randy & Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,054 likes - 200 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,029 likes - 200 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

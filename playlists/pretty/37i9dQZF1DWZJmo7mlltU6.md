@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Min Taka
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,501 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,504 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 32 | [It's Alright](https://open.spotify.com/track/27PxQOwtRXA4ofj1Y0QXPD) | [Cinnamon Gum](https://open.spotify.com/artist/7IHYKEfIucsNRkp6ge657X) | [The Cinnamon Show](https://open.spotify.com/album/4wNTx3n951dp4FZtCk7CVP) | 3:04 |
 | 33 | [WE COULD BE](https://open.spotify.com/track/5GkPPp1nBA28G4LSrj1DVe) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [WE COULD BE](https://open.spotify.com/album/1HdQD8XuoZx6JeJLRnV3c5) | 3:15 |
 | 34 | [Porsche](https://open.spotify.com/track/0RS3rznmPFbWe0rebtjnQ4) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Porsche](https://open.spotify.com/album/2101DOYOCxa63jUh1f6mvf) | 3:17 |
-| 35 | [Fetiche Fonético](https://open.spotify.com/track/7wwrbIzbPcFLFi2tv454bV) | [GANSO](https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Fetiche Fonético](https://open.spotify.com/album/5I36uX3qzwV2KOanXPFUWy) | 4:28 |
+| 35 | [Fetiche Fonético \(feat\. Le Feste Antonacci\)](https://open.spotify.com/track/7wwrbIzbPcFLFi2tv454bV) | [GANSO](https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Fetiche Fonético \(feat\. Le Feste Antonacci\)](https://open.spotify.com/album/5I36uX3qzwV2KOanXPFUWy) | 4:28 |
 | 36 | [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 |
 | 37 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 |
 | 38 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 |

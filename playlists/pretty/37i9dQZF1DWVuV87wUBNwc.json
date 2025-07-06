@@ -1,6 +1,6 @@
 {
   "description": "Alex Warren au sommet de la premi\u00e8re playlist de France.",
-  "num_followers": 2366826,
+  "num_followers": 2366941,
   "original_name": "Hits du Moment",
   "owner": {
     "name": "Spotify",
@@ -180,12 +180,12 @@
       },
       "artists": [
         {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
-        },
-        {
           "name": "Bleu Soleil",
           "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
         }
       ],
       "duration_ms": 246000,

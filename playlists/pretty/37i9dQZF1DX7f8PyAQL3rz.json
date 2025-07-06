@@ -1,6 +1,6 @@
 {
   "description": "MC N\u00c3O \u00c9 BANDIDO enfim, ta ligado",
-  "num_followers": 1408349,
+  "num_followers": 1408407,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-07-04 03:01:26",
       "album": {
-        "name": "MAIOR QUE O TEMPO",
-        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "YES OR NO",
-      "url": "https://open.spotify.com/track/7BGhllQfISbfkwYSkp5nRC"
-    },
-    {
-      "added_at": "2025-07-04 03:01:26",
-      "album": {
         "name": "A Danada Me Ligando",
         "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 283636,
       "name": "A Danada Me Ligando",
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
+    },
+    {
+      "added_at": "2025-07-04 03:01:26",
+      "album": {
+        "name": "MAIOR QUE O TEMPO",
+        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "YES OR NO",
+      "url": "https://open.spotify.com/track/7BGhllQfISbfkwYSkp5nRC"
     },
     {
       "added_at": "2025-07-04 03:01:26",
@@ -411,42 +411,6 @@
     {
       "added_at": "2025-07-04 03:01:26",
       "album": {
-        "name": "QUASE QUE FALEI TE AMO",
-        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 166058,
-      "name": "QUASE QUE FALEI TE AMO",
-      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
-    },
-    {
-      "added_at": "2025-07-04 03:01:26",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2025-07-04 03:01:26",
-      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -479,6 +443,42 @@
       "duration_ms": 240000,
       "name": "Veterano",
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
+    },
+    {
+      "added_at": "2025-07-04 03:01:26",
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2025-07-04 03:01:26",
+      "album": {
+        "name": "QUASE QUE FALEI TE AMO",
+        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 166058,
+      "name": "QUASE QUE FALEI TE AMO",
+      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
     },
     {
       "added_at": "2025-07-04 03:01:26",
@@ -1387,26 +1387,30 @@
     {
       "added_at": "2025-07-04 03:01:26",
       "album": {
-        "name": "Maior Sonho",
-        "url": "https://open.spotify.com/album/4t1HG3xApLlhIGLPcb7QPX"
+        "name": "M\u00d3 CASTIGO",
+        "url": "https://open.spotify.com/album/1AZwt72me6GhRLGN2tY0aN"
       },
       "artists": [
         {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
         },
         {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+          "name": "DJ Yago",
+          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
         }
       ],
-      "duration_ms": 147112,
-      "name": "Maior Sonho",
-      "url": "https://open.spotify.com/track/7hwYkCjxq2uwPXuuXSD089"
+      "duration_ms": 160000,
+      "name": "M\u00d3 CASTIGO",
+      "url": "https://open.spotify.com/track/6pBWbU4PABU5JmxwWMbpbR"
     },
     {
       "added_at": "2025-07-04 03:01:26",
@@ -1451,30 +1455,26 @@
     {
       "added_at": "2025-07-04 03:01:26",
       "album": {
-        "name": "M\u00d3 CASTIGO",
-        "url": "https://open.spotify.com/album/1AZwt72me6GhRLGN2tY0aN"
+        "name": "Maior Sonho",
+        "url": "https://open.spotify.com/album/4t1HG3xApLlhIGLPcb7QPX"
       },
       "artists": [
         {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
         },
         {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
-          "name": "DJ Yago",
-          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
-        },
-        {
-          "name": "Thiago Sub",
-          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
         }
       ],
-      "duration_ms": 160000,
-      "name": "M\u00d3 CASTIGO",
-      "url": "https://open.spotify.com/track/6pBWbU4PABU5JmxwWMbpbR"
+      "duration_ms": 147112,
+      "name": "Maior Sonho",
+      "url": "https://open.spotify.com/track/7hwYkCjxq2uwPXuuXSD089"
     },
     {
       "added_at": "2025-07-04 03:01:26",
@@ -1547,30 +1547,30 @@
     {
       "added_at": "2025-07-04 03:01:26",
       "album": {
-        "name": "Sempre Quis",
-        "url": "https://open.spotify.com/album/0CBw3opnAJptXVV2J75kqy"
+        "name": "M\u00f3 Boqueta",
+        "url": "https://open.spotify.com/album/3uGZxlrQ91t4dCXvgcCbsk"
       },
       "artists": [
         {
-          "name": "Mc Rodson",
-          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
         },
         {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
         },
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
         },
         {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Sempre Quis",
-      "url": "https://open.spotify.com/track/24aKf8CIcdE3XEkjXrKy7i"
+      "duration_ms": 141395,
+      "name": "M\u00f3 Boqueta",
+      "url": "https://open.spotify.com/track/4GI7Y3pkXdTvwjqecVSZJg"
     },
     {
       "added_at": "2025-07-04 03:01:26",
@@ -1619,30 +1619,30 @@
     {
       "added_at": "2025-07-04 03:01:26",
       "album": {
-        "name": "M\u00f3 Boqueta",
-        "url": "https://open.spotify.com/album/3uGZxlrQ91t4dCXvgcCbsk"
+        "name": "Sempre Quis",
+        "url": "https://open.spotify.com/album/0CBw3opnAJptXVV2J75kqy"
       },
       "artists": [
         {
-          "name": "Druhh e Drehh",
-          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+          "name": "Mc Rodson",
+          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
         },
         {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
         },
         {
-          "name": "prodmelo!",
-          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
-          "name": "GDM",
-          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
         }
       ],
-      "duration_ms": 141395,
-      "name": "M\u00f3 Boqueta",
-      "url": "https://open.spotify.com/track/4GI7Y3pkXdTvwjqecVSZJg"
+      "duration_ms": 184500,
+      "name": "Sempre Quis",
+      "url": "https://open.spotify.com/track/24aKf8CIcdE3XEkjXrKy7i"
     },
     {
       "added_at": "2025-07-04 03:01:26",

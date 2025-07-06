@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,326 songs - 7 day 12 hr 48 min
+3,327 songs - 7 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Aluminium](https://open.spotify.com/track/4IZJMZRC8xVOoosOlZQir8) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Aluminium](https://open.spotify.com/album/0e6L5FIX261tG8AiIVanso) | 3:52 | 2024-10-11 | 2024-10-22 |
 | [Always Chase The Sun](https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj) | [Always Chase The Sun](https://open.spotify.com/album/3rbz9OH2hUmkTChW5Kc5eL) | 4:48 | 2024-10-04 | 2024-10-12 |
 | [Always Watching \- Radio Edit](https://open.spotify.com/track/4UVqiDxKA7lUTmba4R8i19) | [Amo&Koall](https://open.spotify.com/artist/35mLT04Wn9HsBVGleLQWrH) | [Always Watching](https://open.spotify.com/album/732ZXAiLAgSorI9rec0nxt) | 2:55 | 2025-04-21 | 2025-04-25 |
+| [Am I Dreaming \(Radio Edit\)](https://open.spotify.com/track/6jPReMQPslWqKnciiH1DeT) | [Damian Elloway](https://open.spotify.com/artist/36jTgEoBrINLZsO6i2tMI9) | [Am I Dreaming](https://open.spotify.com/album/1SXVQj1a8g0hHd0op68Sfm) | 3:16 | 2025-07-05 |  |
 | [Amnesia](https://open.spotify.com/track/1ZZSulrZ85ShHil6cBPjHb) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Amnesia](https://open.spotify.com/album/7Dr7dARAUvsjjiO0rz8dMJ) | 2:41 | 2025-06-20 | 2025-06-28 |
 | [Amnesia \- HOL! Remix](https://open.spotify.com/track/3Eao1qm5hHfL2YplGHeI1N) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Amnesia \(HOL! Remix\)](https://open.spotify.com/album/6aQxn6cMSQOsD4ty1Xx6HR) | 3:02 | 2024-12-13 | 2024-12-20 |
 | [Amore Para Debiles](https://open.spotify.com/track/6g93Zz0nFhpybfIYdfN64n) | [Heeken](https://open.spotify.com/artist/681wESfdymbodomTXV20QY) | [Amore Para Debiles](https://open.spotify.com/album/121GxpF7J9CTemomfwNHWA) | 2:42 | 2024-11-08 | 2024-11-16 |

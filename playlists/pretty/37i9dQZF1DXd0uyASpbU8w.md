@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Samthing Soweto, Clean Bandit & Lloyiso, Mlindo The Vocalist and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,838 likes - 90 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,950 likes - 90 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 50 | [IMALI](https://open.spotify.com/track/0rT3ywilNzktqkgvinTiOT) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Beekay Monalayzzar](https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR) | [IMALI](https://open.spotify.com/album/7Bz4Sk8XNETTdnHuRsOMDL) | 5:00 |
 | 51 | [Gutsinda II](https://open.spotify.com/track/0BTTePkbnZ1GqZs5EN6Vs3) | [Ish Kevin](https://open.spotify.com/artist/27rjDVGfZG4eorQwrZt2ZD) | [Gutsinda II](https://open.spotify.com/album/3nPYaRQazfqoYspN2DcKzJ) | 3:17 |
 | 52 | [Ladies](https://open.spotify.com/track/3mXRxKuMj8DoSVR3G3Zyi4) | [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [The Majeekcian \(Vol\. 1\)](https://open.spotify.com/album/05LIPfZE7G6FPGvMGU1H12) | 2:21 |
-| 53 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Angarita](https://open.spotify.com/artist/4LJ2sIQkmuImXIky255TH2) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 |
+| 53 | [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ANGARITA](https://open.spotify.com/artist/3i4OsTUD79iYLEVlXJavgS) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 |
 | 54 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
 | 55 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 |
 | 56 | [Back2Kasi](https://open.spotify.com/track/2rnlDshq0H2lZJOADu0LXT) | [ScoobySteeze](https://open.spotify.com/artist/5aaWQnxRZVIFseMTjNBgTW), [Dlala Regal](https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK) | [Back2Kasi](https://open.spotify.com/album/3dlUdNVmdtcHJJ5POlEX1n) | 6:29 |

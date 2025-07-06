@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Kae Tempest, KETTAMA, Foo Fighters and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,496 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,511 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 66 | [Entertainer](https://open.spotify.com/track/7FptOddFAj1Dgh2gpuTYNu) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Entertainer](https://open.spotify.com/album/5uF620KNdMp405xRnDNwZr) | 3:47 |
 | 67 | [Worlds Apart](https://open.spotify.com/track/720lysDWZ9Qp9HBgU7dH5S) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Worlds Apart](https://open.spotify.com/album/28nZaZMw6yOxDXbZqTGZhB) | 4:41 |
 | 68 | [Hate Goodbyes](https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Hate Goodbyes](https://open.spotify.com/album/07w74aZOr10AawZOJND2BY) | 3:47 |
-| 69 | [Meeting Edit \(feat\. Nathan Ball & Amelia Fox\)](https://open.spotify.com/track/5cSoxTqE8F43GrzrVknKfH) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [Meeting Edit \(feat\. Nathan Ball & Amelia Fox\)](https://open.spotify.com/album/7l5UbrbC84HHZyuRmO8SCz) | 3:02 |
+| 69 | [Phone Number Edit \(feat\. Nathan Ball & Amelia Fox\)](https://open.spotify.com/track/5cSoxTqE8F43GrzrVknKfH) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [Phone Number Edit \(feat\. Nathan Ball & Amelia Fox\)](https://open.spotify.com/album/7l5UbrbC84HHZyuRmO8SCz) | 3:02 |
 | 70 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 |
 | 71 | [Luther](https://open.spotify.com/track/4CNSZaO2oRMnpKygQWm9XG) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [TomInTheChamber](https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3) | [Luther](https://open.spotify.com/album/3Bw5gi09rXgeHg9yzJvPPQ) | 2:37 |
 | 72 | [Slow](https://open.spotify.com/track/5cgavvXYEt36Rjzk2ROhbB) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Slow](https://open.spotify.com/album/6U2JHrmwAGRIpVze766Mba) | 3:52 |

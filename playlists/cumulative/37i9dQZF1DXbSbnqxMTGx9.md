@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-641 songs - 1 day 11 hr 37 min
+642 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Come We Go Moonwalk](https://open.spotify.com/track/7KGxXt2w2MPLZmcfAQrGKq) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Sufferer \(Expanded Edition\)](https://open.spotify.com/album/0MfTzGSkU8lLNotQZ2Z4IA) | 2:52 | 2022-09-22 | 2023-11-11 |
 | [Come We Go Moonwalk](https://open.spotify.com/track/10K4PY9KClshvydqdNUNTH) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Sufferer](https://open.spotify.com/album/7ehpPYN8eVWgvn4ezalkkm) | 2:56 | 2022-09-22 | 2024-01-30 |
 | [Coming Again](https://open.spotify.com/track/3Zm42u5pi7fZVT8IZlUBjk) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:30 | 2022-09-22 | 2024-01-30 |
-| [Cool Breeze](https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB) | 3:23 | 2021-03-02 |  |
+| [Cool Breeze](https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB) | 3:23 | 2021-03-02 | 2025-07-06 |
 | [Cool Breeze](https://open.spotify.com/track/2zOtovzvUDmLziEnXYtXZg) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/1Mv5W0xVXErq07JDQRzB1Q) | 3:23 | 2022-09-22 | 2024-04-19 |
 | [Cool Down The Pace](https://open.spotify.com/track/069XwdkglfN94CvwUZvBxv) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 5:15 | 2021-03-02 | 2022-07-11 |
 | [Cool Down The Pace](https://open.spotify.com/track/3k500iLZuXM8eIi8TItl15) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Reggae for Kids](https://open.spotify.com/album/5sy93LSn5k1SxHnu8Toxlf) | 5:17 | 2022-09-22 | 2022-11-13 |
@@ -173,6 +173,7 @@
 | [Gold and Silver](https://open.spotify.com/track/6qDLGV4JSQ2vwjdBNjxoHX) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [From the Roots](https://open.spotify.com/album/4P97dg5Yaa7ek9tHdBsOaB) | 2:36 | 2022-09-22 | 2023-11-11 |
 | [Good Girl Gone Bad \(feat\. Konshens\)](https://open.spotify.com/track/6pIhN2XWqNhc6o1YS6ZHVH) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Contagious](https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx) | 4:17 | 2022-08-18 | 2022-09-23 |
 | [Good Thing Going](https://open.spotify.com/track/1LsTLPEplOVImv6xU7BXnr) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Romantic Evening With Reggae](https://open.spotify.com/album/66XVe1Mc7hpfRF2Jck59Nv) | 3:16 | 2022-09-22 | 2022-11-13 |
+| [Good Thing Going](https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Good Thing Going](https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR) | 3:17 | 2024-01-29 |  |
 | [Good Thing Going](https://open.spotify.com/track/6KzgJOPbXMMBG5af1Sf5QB) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Reggae Anthology: Sugar Minott \- Hard Time Pressure](https://open.spotify.com/album/28ljHM8DfJjbGW1zEWbJWm) | 3:40 | 2022-08-18 | 2022-09-23 |
 | [Good Thing Going](https://open.spotify.com/track/2YmuRtJSxhPRdslwoqBgE1) | [The Rastafarians](https://open.spotify.com/artist/5CQpUobQ3pLGYGa1vKjwyD) | [Reggae for Lovers, Vol\. 2](https://open.spotify.com/album/5ElPM2TkGRdy52VCU3CKwZ) | 3:16 | 2022-09-22 | 2024-01-30 |
 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 | 2022-09-22 |  |

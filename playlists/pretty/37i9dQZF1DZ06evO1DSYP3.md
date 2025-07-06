@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,626 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,627 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 13 | [Too Faded](https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold](https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f) | 3:22 |
 | 14 | [Sneeze](https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:35 |
 | 15 | [YANKIN!](https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:58 |
-| 16 | [Feel Me?](https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl) | 2:19 |
-| 17 | [Get Me Lit](https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Get Me Lit](https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW) | 2:11 |
+| 16 | [Get Me Lit](https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Get Me Lit](https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW) | 2:11 |
+| 17 | [Feel Me?](https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl) | 2:19 |
 | 18 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 |
 | 19 | [GIVE ME A BEAT!](https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:18 |
 | 20 | [Stunna Anthem](https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Extra](https://open.spotify.com/track/3rkMh0mKXqyFbK2WtiizU5) | [Clyde Carson](https://open.spotify.com/artist/0FJpfR5Bq5EBl2xi0LAp1v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Extra](https://open.spotify.com/album/7iaqS5zgcPJsL5L0mLZ3uA) | 2:06 |
 | 50 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
 
-Snapshot ID: `aGXIAAAAAACB56yd6zDTeMOLfTPF2aue`
+Snapshot ID: `aGcZgAAAAADbBd82Yw46oxuGT4nipfQN`

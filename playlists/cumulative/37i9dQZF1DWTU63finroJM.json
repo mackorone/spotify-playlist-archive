@@ -19507,6 +19507,28 @@
     },
     {
       "album": {
+        "name": "Me Perdi",
+        "url": "https://open.spotify.com/album/0dXKFJxIx8YHwc9GMYggyA"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Me Perdi",
+      "url": "https://open.spotify.com/track/4FaoxGpwXMyahuOsb0mowj"
+    },
+    {
+      "album": {
         "name": "Pensando mucho y mal",
         "url": "https://open.spotify.com/album/7aFyrmo4IRKqAknpJ1jFd3"
       },
@@ -30578,7 +30600,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 200000,
       "name": "THEY!",
       "url": "https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA"
@@ -31380,6 +31402,24 @@
       "duration_ms": 206785,
       "name": "Trapped in the rain",
       "url": "https://open.spotify.com/track/7hWkpX57FVw6VfpWG6VucC"
+    },
+    {
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203615,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
     },
     {
       "album": {
@@ -37568,7 +37608,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 155874,
       "name": "\u6c89\u8239\u4ed4 - \u539f\u5531\u7248",
       "url": "https://open.spotify.com/track/1HLHN1jFgT0LZ22l3uVzOg"

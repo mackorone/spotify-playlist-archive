@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 233746,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
@@ -8386,7 +8386,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 158927,
       "name": "Golfista",
       "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
@@ -12556,7 +12556,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -12666,7 +12666,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 166794,
       "name": "MEJOR QUE VOS",
       "url": "https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG"
@@ -14286,7 +14286,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 272733,
       "name": "No Podr\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3X8jKI7kHrbhqgLboG14tw"
@@ -15765,6 +15765,28 @@
     },
     {
       "album": {
+        "name": "pasarella \ud83d\udc60",
+        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162245,
+      "name": "pasarella \ud83d\udc60",
+      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
+    },
+    {
+      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -17122,7 +17144,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 206093,
       "name": "Puesto",
       "url": "https://open.spotify.com/track/0cOoWbqupIz03ZUHi8NRq6"
@@ -22590,6 +22612,28 @@
       "duration_ms": 183500,
       "name": "Verte De Cerca",
       "url": "https://open.spotify.com/track/4AlJ5mw4wLocwpbtSwLLUH"
+    },
+    {
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo",
+        "url": "https://open.spotify.com/album/71UB9ZahcDvZeDijkCKUuI"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173647,
+      "name": "VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo",
+      "url": "https://open.spotify.com/track/6il9B9hrZPNpXei57XM1Sv"
     },
     {
       "album": {

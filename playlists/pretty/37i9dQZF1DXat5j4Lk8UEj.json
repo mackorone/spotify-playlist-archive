@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 487264,
+  "num_followers": 487250,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Wish I Knew",
-        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 192607,
-      "name": "Wish I Knew",
-      "url": "https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 244506,
       "name": "Shattered & Hollow",
       "url": "https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Wish I Knew",
+        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 192607,
+      "name": "Wish I Knew",
+      "url": "https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Looking for Love",
-      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Set the World on Fire",
         "url": "https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 165531,
       "name": "Set the World on Fire",
       "url": "https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Looking for Love",
+      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 169933,
       "name": "99.9%",
       "url": "https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC"
     }
   ],
   "unique_name": "Folk Rock Favorites",

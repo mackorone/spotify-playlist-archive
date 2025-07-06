@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,046 songs - 4 day 14 hr 31 min
+2,048 songs - 4 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,6 +1041,7 @@
 | [ME DUELE QUERERTE](https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [ME DUELE QUERERTE](https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ) | 2:26 | 2024-02-09 | 2024-06-08 |
 | [Me Encanta\(s\)](https://open.spotify.com/track/3S1lg0ytmvtPRV4qv4iWL4) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Hensito](https://open.spotify.com/album/3cheBjM6yhQedJyjGMBGcN) | 2:35 | 2022-08-04 | 2023-05-31 |
 | [Me Enseñaste](https://open.spotify.com/track/5C8kcTmoswivovtqO0D3RN) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Me Enseñaste](https://open.spotify.com/album/7eAEFmFW99w1Z8ttzXTCcn) | 2:35 | 2022-03-24 | 2022-04-16 |
+| [Me Perdi](https://open.spotify.com/track/4FaoxGpwXMyahuOsb0mowj) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Me Perdi](https://open.spotify.com/album/0dXKFJxIx8YHwc9GMYggyA) | 2:31 | 2025-07-04 |  |
 | [Me quiero ir](https://open.spotify.com/track/6AXaVsTKOpbtVhjjk7QfH3) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/7aFyrmo4IRKqAknpJ1jFd3) | 3:05 | 2025-03-28 |  |
 | [Me Ter](https://open.spotify.com/track/3wSOnJ6XtkOGlJcKR2vDIw) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH) | [Língua](https://open.spotify.com/album/1G2WJnStYm1BbmCSRuriUN) | 3:07 | 2024-05-10 | 2024-06-04 |
 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 | 2022-03-24 | 2022-08-02 |
@@ -1623,7 +1624,7 @@
 | [Thelma et Louise](https://open.spotify.com/track/2ucpHT28Nud8Uv1ylt3MyX) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Thelma et Louise](https://open.spotify.com/album/2eE2mkOfbSPkikRJnelvgD) | 2:50 | 2022-03-24 | 2022-08-02 |
 | [Then Morning Breaks](https://open.spotify.com/track/3tQvNpYYctZNnx5nJ36BmN) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Then Morning Breaks](https://open.spotify.com/album/0wA7iEeunmloxXju0b8GTR) | 3:02 | 2022-06-17 | 2022-08-02 |
 | [There She Goes](https://open.spotify.com/track/6IlOjEQb1xHx4GUAaoFI7H) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2022-03-24 | 2022-04-21 |
-| [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 |  |
+| [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 | 2025-07-06 |
 | [Things](https://open.spotify.com/track/3dm5Ce7vQ3JEpSVnqyjGPR) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:19 | 2022-03-24 | 2022-12-15 |
 | [Things Unsaid](https://open.spotify.com/track/304ESYskFpIQ8rdMsMu7WV) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Things Unsaid](https://open.spotify.com/album/471kPnkksxhX5FdLkXFmXb) | 2:17 | 2025-04-04 |  |
 | [Things We Can’t Change](https://open.spotify.com/track/5ye69m9BT1uKBxmrI4tg3O) | [LENNY](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Things We Can’t Change](https://open.spotify.com/album/0r1WIueboWxL9xiWuavKtH) | 2:42 | 2025-01-10 | 2025-02-10 |
@@ -1667,6 +1668,7 @@
 | [Toute la vie](https://open.spotify.com/track/7I8MDzoGI7GVB4bFUwg1hG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Toute la vie](https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ) | 3:29 | 2022-03-24 | 2022-04-17 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-10 | 2025-06-14 |
 | [Trapped in the rain](https://open.spotify.com/track/7hWkpX57FVw6VfpWG6VucC) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [Trapped in the rain](https://open.spotify.com/album/5JZhwyUHYwSVKV5I6sM6c1) | 3:26 | 2022-03-24 | 2022-08-02 |
+| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-04 |  |
 | [TRIPPIN](https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [TRIPPIN](https://open.spotify.com/album/0r9CWKeNllgadGS079yej4) | 3:17 | 2023-10-13 | 2024-03-16 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 | 2024-05-04 |
 | [Tsunami](https://open.spotify.com/track/5iRYgPCd8JyI0EiBxYKUyN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Tsunami](https://open.spotify.com/album/4bPksqNkTRThMVUpD1bl5u) | 3:02 | 2025-05-02 | 2025-07-01 |
@@ -1996,7 +1998,7 @@
 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 | 2022-02-03 | 2022-03-18 |
 | [残響](https://open.spotify.com/track/7MLSslPjNnlclco2Gbtaev) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [第壱楽章](https://open.spotify.com/album/5o1fkdM8Yr8Mj0l5qrqfCp) | 4:14 | 2022-02-03 | 2022-08-02 |
 | [毛線球少女 Yarn](https://open.spotify.com/track/3V8mZv6oG5a6KzU8KUS8rW) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:33 | 2025-04-04 |  |
-| [沉船仔 \- 原唱版](https://open.spotify.com/track/1HLHN1jFgT0LZ22l3uVzOg) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [沉船仔 \(原唱版\)](https://open.spotify.com/album/71iugvQ9xVcmKGthc9NvMZ) | 2:35 | 2025-04-04 |  |
+| [沉船仔 \- 原唱版](https://open.spotify.com/track/1HLHN1jFgT0LZ22l3uVzOg) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [沉船仔 \(原唱版\)](https://open.spotify.com/album/71iugvQ9xVcmKGthc9NvMZ) | 2:35 | 2025-04-04 | 2025-07-06 |
 | [泡沫](https://open.spotify.com/track/7KC34sQVSeBg6TknhoAh7h) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [泡沫](https://open.spotify.com/album/4n6T1B13KYgQZz80hYer1o) | 3:02 | 2024-11-15 | 2025-05-17 |
 | [溫室狂花](https://open.spotify.com/track/00aJoSrsoDIzFznPDkBUFP) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:30 | 2022-02-03 | 2022-08-02 |
 | [火柴 \- Acoustic / Spotify Singles](https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [火柴 \(Acoustic / Spotify Singles\)](https://open.spotify.com/album/0Rw8xSIqO7KCXwMXZDLXtO) | 2:52 | 2024-10-18 | 2025-01-26 |

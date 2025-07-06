@@ -4,7 +4,7 @@
 
 > my alter ego \(what i&\#x27;m listening to july\-aug 2025\)
 
-637 songs - 1 day 12 hr 59 min
+638 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Silly Girl](https://open.spotify.com/track/4s8rwUpjO2RT0AiKhS827c) | [Scribble](https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8) | [Scribble](https://open.spotify.com/album/4cOGsGT3sE4PDiejAHrfai) | 3:43 | 2025-01-27 | 2025-03-02 |
 | [Silver](https://open.spotify.com/track/6zJu9qqwSxx1aPnqQmdAlv) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Silver](https://open.spotify.com/album/1HLmtzoF0ZGdY2iSiCvP3y) | 2:39 | 2024-01-05 | 2024-03-10 |
 | [Silver & Ice](https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [Cafe Tom Tom](https://open.spotify.com/album/3QYiKVuV0VrOhh2iJavzjN) | 1:50 | 2024-12-09 | 2025-01-12 |
+| [SINCERELY](https://open.spotify.com/track/4CRCH72z1sK1GDysXFpoc8) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [4 REAL](https://open.spotify.com/album/3v54qzNPUdfcV0W2WEFcRA) | 3:08 | 2025-07-06 |  |
 | [Single](https://open.spotify.com/track/3ApFIzLLV6Gkgu6zWh9dcn) | [Brittason](https://open.spotify.com/artist/0yoG2QCHyddnk7H4UB06iX) | [Single](https://open.spotify.com/album/4bw8kjkCJtpx1YGNpaj16q) | 1:30 | 2025-06-14 | 2025-06-19 |
 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 | 2024-12-27 | 2025-01-12 |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |

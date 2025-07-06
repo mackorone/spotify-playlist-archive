@@ -4,7 +4,7 @@
 
 > All the New Joints featuring JID, Youngboy Never Broke Again, Chance the Rapper and more!
 
-7,875 songs - 15 day 2 hr 45 min
+7,876 songs - 15 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7507,6 +7507,7 @@
 | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/album/7oiCF1Nw8pNFHkA8TS2bwV) | 2:41 | 2022-06-03 | 2022-06-11 |
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-03-31 | 2023-04-09 |
 | [What Da Fuk](https://open.spotify.com/track/46e5RkqWEBRLebmdCK9t7o) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [What Da Fuk](https://open.spotify.com/album/3Eo36Xhm9j4KjYdG72TTVU) | 2:36 | 2025-04-25 | 2025-05-03 |
+| [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-05 |  |
 | [what do you do?](https://open.spotify.com/track/7y8ZXIMaBez6PJeqAclC3b) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [what do you do?](https://open.spotify.com/album/27EmlQfu8kP6pQWDkNbjMs) | 2:16 | 2023-07-14 | 2023-07-22 |
 | [What Goes Next](https://open.spotify.com/track/3dfotIG0lfPxg1CBVjrmaQ) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [What Goes Next](https://open.spotify.com/album/0FnzVFf7gRlLxVoHyPkRMS) | 2:30 | 2023-11-17 | 2023-11-25 |
 | [What Happened 2 Me?](https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [What Happened 2 Me?](https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x) | 1:39 | 2023-11-24 | 2023-12-02 |

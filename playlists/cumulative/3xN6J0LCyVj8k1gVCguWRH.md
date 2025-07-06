@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,097 songs - 11 day 21 hr 20 min
+5,100 songs - 11 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Coffee](https://open.spotify.com/track/2Xded3sjNJmRuXNeQ7TxzB) | [Samantha Shen](https://open.spotify.com/artist/4JbcVHeKRUddfNWjGiwwDl) | [Coffee](https://open.spotify.com/album/47UBAOsUZIgXU1ikOHsquc) | 3:16 | 2019-11-03 | 2019-11-24 |
 | [Coincide](https://open.spotify.com/track/0HOGA0XMC5E33f3SdybLba) | [Hunter Heflin](https://open.spotify.com/artist/78EOY1PZClscOyrP0StpoN) | [Coincide](https://open.spotify.com/album/454kioQrP4t8ChiFD3YgnK) | 2:49 | 2022-10-14 | 2022-11-05 |
 | [Cold](https://open.spotify.com/track/1ag9F6nXZEpHzuqah54NtZ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Cold](https://open.spotify.com/album/2iDomBfr8tDrI4tSG3BaSG) | 3:04 | 2022-01-15 | 2022-01-31 |
+| [Cold Feet](https://open.spotify.com/track/0wwIPdelOGqyUTBkH2lxyO) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [The Cure IV](https://open.spotify.com/album/6ILTV5r76HNNXOhxXXJOX9) | 3:30 | 2025-07-05 |  |
 | [Cold Hearted](https://open.spotify.com/track/7cB40VKCyeR4IZ90r0sVhN) | [SNJÜ](https://open.spotify.com/artist/4FZ3Wx6Mitb6txV51DqasS) | [Cold Hearted](https://open.spotify.com/album/6eMdFiAtpOGDNb868GgtGU) | 3:47 | 2022-05-06 | 2022-05-22 |
 | [Cold Night](https://open.spotify.com/track/6cRgIzBjxvgpKfN98ymj1H) | [Jennifer Coy](https://open.spotify.com/artist/3UxqYtZanTu5eWI9Jjs9Vt) | [Cold Night](https://open.spotify.com/album/6qvtXwev2YzZJg1OtrmOkN) | 3:13 | 2022-12-21 | 2023-01-13 |
 | [Cold Shoulders](https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R) | [Arlo Indigo](https://open.spotify.com/artist/55gevsKWJFm3llYjMJu0t5) | [All We Can Do Is Nothing](https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU) | 2:51 | 2022-08-05 | 2022-11-05 |
@@ -3597,6 +3598,7 @@
 | [Reckoner](https://open.spotify.com/track/78N4rnLLCmWFHGzb9kXMdi) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Summing Up: Loose Ends](https://open.spotify.com/album/2kvIfzU6fJYNAFyCLORzKm) | 3:58 | 2024-07-19 | 2024-08-13 |
 | [Reckoning](https://open.spotify.com/track/63fQAhgOzcVWwi4wyDixaK) | [Slstrss](https://open.spotify.com/artist/3I2THwf2FsgtggwlhGrube) | [Reckoning](https://open.spotify.com/album/3qCaXBFLoz6xJVWbgFn5zy) | 3:22 | 2024-06-14 | 2024-06-26 |
 | [Red](https://open.spotify.com/track/0hqg215pTzIbUAa85NaZPt) | [Jeppus](https://open.spotify.com/artist/03aG4hxDazTGch3cv4sZn3) | [Red](https://open.spotify.com/album/1aQJYi9rCi9JmjC42fhCsO) | 1:27 | 2021-04-30 | 2021-05-16 |
+| [Red Light](https://open.spotify.com/track/0jRa1MXycYoAVl0eKORz40) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [The Cure IV](https://open.spotify.com/album/6ILTV5r76HNNXOhxXXJOX9) | 3:19 | 2025-07-05 |  |
 | [Red Sun](https://open.spotify.com/track/6FRNLOR5qom0JPAeQlzu5U) | [VVG ACE](https://open.spotify.com/artist/5m2I4HERXfgEjdzXXlszja) | [Red Sun](https://open.spotify.com/album/4OsYmPBQc9ogFOD4GNDojX) | 3:25 | 2024-06-22 | 2024-07-03 |
 | [Red Wine](https://open.spotify.com/track/42KRv8T0cZCmT6btJOs4OH) | [Floral Couches](https://open.spotify.com/artist/3HiT8riBEhEKIuP2fyUOr6) | [Red Wine](https://open.spotify.com/album/6rPzPg9nPQ6gejou5VMtHT) | 2:45 | 2025-03-27 | 2025-04-19 |
 | [Redbone \(Cover\)](https://open.spotify.com/track/2KEt5L1bTaO319HB6xFfeu) | [Payton Moore](https://open.spotify.com/artist/0fpvePRZytTAtkNCIFasva) | [Redbone \(Cover\)](https://open.spotify.com/album/2py6c9kDc98goosXHmHCam) | 3:09 | 2023-01-13 | 2023-02-04 |
@@ -4570,6 +4572,7 @@
 | [Travel](https://open.spotify.com/track/7uoqCg03levMntncQq8ru4) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Travel](https://open.spotify.com/album/13LKBMMdUtEo8vhEWBIEb3) | 4:20 | 2020-06-07 | 2020-07-02 |
 | [Traversée du désert et sa tempête](https://open.spotify.com/track/5x2RPstDoNypaPE04LizMY) | [Orchid Big Band](https://open.spotify.com/artist/0CFOJppNQ8VUADgdzsQQKY) | [Traversée du désert et sa tempête](https://open.spotify.com/album/3ZSQZFII8AQRkXH13TCatz) | 7:02 | 2023-02-17 | 2023-03-18 |
 | [Treading Water](https://open.spotify.com/track/5mjcasctAnzukkWQmzJH7V) | [Joint Stability](https://open.spotify.com/artist/1w8GfHhJI3ij3wQZMYOb4p), [Lola Sola](https://open.spotify.com/artist/660fHawLCEw8jDK5VHQIhX) | [Everything For A Little While](https://open.spotify.com/album/37j5SsnLBmIMFUeSVbH4Og) | 3:43 | 2023-02-03 | 2023-02-25 |
+| [Treat Me Like Fire](https://open.spotify.com/track/0kVpBFWUMLPCujNTgpxW9c) | [Amoin](https://open.spotify.com/artist/1BI3P3KS5cQBojJMNpXUIT) | [Treat Me Like Fire](https://open.spotify.com/album/49FbP66AuXCE58G1e2s0Uh) | 2:51 | 2025-07-05 |  |
 | [Treated Like Grass](https://open.spotify.com/track/61qpbdjUDiGifoTytJIBMU) | [Johnny Franco](https://open.spotify.com/artist/4JrSPyzLVPKQlEHHpqt4c3) | [Treated Like Grass](https://open.spotify.com/album/6JY6azHizPC0MU39QNQX4z) | 3:34 | 2019-12-04 | 2019-12-17 |
 | [Triangle](https://open.spotify.com/track/6YPBn9891Gdk9m9pny2n1e) | [Kristii](https://open.spotify.com/artist/4zs9TM0fX4iHk9ZcV71ftL) | [Triangle](https://open.spotify.com/album/5ywDAyJXRg6xmQm8rfB1mb) | 3:12 | 2024-09-04 | 2024-09-13 |
 | [Tribalistars](https://open.spotify.com/track/6wl3eQdLqkzDeSmWxZH7xk) | [Knowhat](https://open.spotify.com/artist/1OsXtWOIFVX9lAvc0AJHdr) | [Tribalistars](https://open.spotify.com/album/6NUWanovwhvj9J93nzA20F) | 7:24 | 2021-04-24 | 2021-05-09 |
@@ -5076,7 +5079,7 @@
 | [You're the reason I believe in Love](https://open.spotify.com/track/3wxfeePnlTvF9EA4zOQN1Y) | [Henri Cross](https://open.spotify.com/artist/4rFe71nJHZ3EBevcMW6Mew) | [En Trance](https://open.spotify.com/album/5K8VhNmHGfglsEjMv7cHh3) | 5:24 | 2021-04-24 | 2021-05-09 |
 | [You're the Star](https://open.spotify.com/track/5w96vi5Kt3OC9F5MoEkzwP) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [You're the Star](https://open.spotify.com/album/1uxWuzwQr37wlMEz6KKRUY) | 3:38 | 2021-01-23 | 2021-02-09 |
 | [Youmna, Didn't it All End So Soon?](https://open.spotify.com/track/0MBqrq1eajzcB08ITCiwWQ) | [New Seven](https://open.spotify.com/artist/1wm2Qetez0IELnv1B0hjwJ) | [The Colossus of Uptown](https://open.spotify.com/album/6viH20D6GZhtZMMhsCJ494) | 2:40 | 2023-06-23 | 2023-07-14 |
-| [Young & Alive](https://open.spotify.com/track/1DWHHgKxNUp2KnYdgSIgzc) | [Zoe Twist](https://open.spotify.com/artist/7LtIxPeQZrddTnGK136L0C) | [Young & Alive](https://open.spotify.com/album/2Rc1Dhlih58hs6fhHsyvEs) | 3:12 | 2025-06-19 |  |
+| [Young & Alive](https://open.spotify.com/track/1DWHHgKxNUp2KnYdgSIgzc) | [Zoe Twist](https://open.spotify.com/artist/7LtIxPeQZrddTnGK136L0C) | [Young & Alive](https://open.spotify.com/album/2Rc1Dhlih58hs6fhHsyvEs) | 3:12 | 2025-06-19 | 2025-07-06 |
 | [Young Forever](https://open.spotify.com/track/5SiI25910PKfqOib9joLN3) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye) | [Young Forever](https://open.spotify.com/album/5R3AOmZVDsb5d7TUaL63BY) | 2:58 | 2023-04-21 | 2023-05-09 |
 | [Young Lovers Do](https://open.spotify.com/track/3IaeH7TCOAZ2wpfyLxiqZv) | [Juan Carlos Hernandez](https://open.spotify.com/artist/7agrlJjYJ8ffKT8UeVMug2), [Luke Cuerden](https://open.spotify.com/artist/0YsSAhGTEK9bPNup7XKZPZ) | [Young Lovers Do](https://open.spotify.com/album/3sHJNZzVXajd8g9amljh2Y) | 4:09 | 2025-03-29 | 2025-04-10 |
 | [Younger](https://open.spotify.com/track/7rTjUTMjFfhf4d6YfwXXwr) | [Justin Frech](https://open.spotify.com/artist/2uYe2yo7VRjf6qgBp1Zrkh), [Eliza Radyko](https://open.spotify.com/artist/47GiE02r0mVikCEmiWixbQ) | [Younger](https://open.spotify.com/album/5pl5wOhWwAqUMh7a70UdDr) | 3:14 | 2022-10-07 | 2022-10-29 |

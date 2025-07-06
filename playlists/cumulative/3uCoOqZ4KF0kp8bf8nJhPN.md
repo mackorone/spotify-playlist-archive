@@ -4,7 +4,7 @@
 
 > 
 
-214 songs - 8 hr 27 min
+215 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [PURGATORY!](https://open.spotify.com/track/0HnXMMxuVBhB8Ydl4fIGHy) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [PURGATORY!](https://open.spotify.com/album/0H9Mr3nLo9fKHGbMpBDDXh) | 1:00 | 2025-04-10 |  |
 | [PUSH UR T3MPRR](https://open.spotify.com/track/5NO5HPCDG8Y0ErpAISWQOJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [PUSH UR T3MPRR](https://open.spotify.com/album/5Bv6r4jizZcUdJbHUHm3Og) | 2:28 | 2025-03-06 |  |
 | [RAIN IN PARADISE](https://open.spotify.com/track/6raZ3qmcEbnQH1B45dCbnt) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:27 | 2025-04-30 |  |
+| [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2025-07-05 |  |
 | [rap music](https://open.spotify.com/track/3Zz4BKWJamsN9Cq8NekyfM) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [THIS DOES NOT EXIST](https://open.spotify.com/album/7E20ajEl0ijvnZOunpjbCd) | 3:17 | 2025-05-06 | 2025-05-22 |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2025-03-21 |  |
 | [Reaching For You](https://open.spotify.com/track/1PDDQglBZhCGfMA4TYxYKB) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Reaching For You](https://open.spotify.com/album/3kuz0ZtZguMNGCvHAGRLFA) | 3:23 | 2025-05-20 |  |

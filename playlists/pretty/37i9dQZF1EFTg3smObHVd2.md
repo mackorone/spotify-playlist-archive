@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 82 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 82 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 42 | [I Still Believe](https://open.spotify.com/track/5ij14NvXSzabsmGSNFgrTe) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:38 |
 | 43 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
 | 44 | [I Own It](https://open.spotify.com/track/0STgrGCTnpcIourTZwnN2y) | [Nacey](https://open.spotify.com/artist/4Cxyy6FNXakqJeo0hW3l7b), [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [I Own It](https://open.spotify.com/album/0qaykGr8StZ8bAtnpuXRU9) | 3:09 |
-| 45 | [Best Day](https://open.spotify.com/track/6wzIKvMIsOYStLxDsPlwAB) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Extra\-lucide](https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP) | 3:37 |
+| 45 | [Best Day](https://open.spotify.com/track/6wzIKvMIsOYStLxDsPlwAB) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Extra\-lucide](https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP) | 3:37 |
 | 46 | [Iron Heart](https://open.spotify.com/track/4T0cHbcxGzEGzUki89NFp9) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 3:47 |
 | 47 | [If I Don't Have You \- Radio Edit](https://open.spotify.com/track/4qVnjAOLFDbCNLAewTQsSU) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [If I Don't Have You \(Radio Edit\)](https://open.spotify.com/album/2B0d3NShrpfLiXTwhshWSS) | 4:13 |
 | 48 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/6OHkEMiSDoJ8PWaD5uzA3p) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Heavenbound](https://open.spotify.com/album/5vNJ0VAIYS5Na10nzHkbaY) | 3:21 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 81 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 82 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Ab156gAAAAAzrHjmwFQ75/m1yxLLe4i8`
+Snapshot ID: `Ab1/igAAAABr/J/0Y21pwdseEtKihqRq`

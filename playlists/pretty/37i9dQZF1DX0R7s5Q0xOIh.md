@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,362 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,361 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 190 | [DILSINHO \- Carona Podpah \#13](https://open.spotify.com/episode/6xBGuARB1SBJrd8EsQb33B) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 43:09 |
 | 191 | [Quando Você Passa \(Turu Turu\)](https://open.spotify.com/track/1LNroGH4W4RsUVjIFUsrUA) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 3:41 |
 | 192 | [Natasha \- Ao Vivo](https://open.spotify.com/track/7KdRrzenHoirvrvp6KHZxh) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Acústico Capital Inicial](https://open.spotify.com/album/2mt6segSup7hVNxC12Pji0) | 3:13 |
-| 193 | [Boate Azul \(Ao Vivo\)](https://open.spotify.com/track/4Z20Nlp53CuArdsy0VbeTb) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Acústico \- Ao Vivo](https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy) | 5:46 |
+| 193 | [Boate Azul \- Ao Vivo](https://open.spotify.com/track/4Z20Nlp53CuArdsy0VbeTb) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Acústico \- Ao Vivo](https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy) | 5:46 |
 | 194 | [Primeiros Erros \(Chove\) \- Ao Vivo](https://open.spotify.com/track/4oZr3pfUrZtjJzxr0UIPb9) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 5:32 |
 | 195 | [All Star](https://open.spotify.com/track/74lPucESMXF7QAYNbSFdJa) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Para Quando o Arco Íris Encontrar o Pote de Ouro](https://open.spotify.com/album/1ekTkGq8lPde7WybgmGD1U) | 3:01 |
 | 196 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:00 |

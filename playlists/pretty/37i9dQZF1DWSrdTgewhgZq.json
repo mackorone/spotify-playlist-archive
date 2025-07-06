@@ -1,6 +1,6 @@
 {
   "description": "Hey, A$AP Rocky \nthat's DOPE!",
-  "num_followers": 1088788,
+  "num_followers": 1088694,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "aGdt7QAAAACAXF4jM55CJVfADwrraAYK",
   "tracks": [
+    {
+      "added_at": "2025-07-04 06:00:13",
+      "album": {
+        "name": "pray4dagang (feat. KayCyy)",
+        "url": "https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 202867,
+      "name": "pray4dagang (feat. KayCyy)",
+      "url": "https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw"
+    },
     {
       "added_at": "2025-07-04 06:00:13",
       "album": {

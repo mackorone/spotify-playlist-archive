@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lowa盧華
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,256 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,258 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 9 | [蓬萊 penglai](https://open.spotify.com/track/3822MdjXUaPytPhS3ooIoN) | [王和平](https://open.spotify.com/artist/0QZFObHsPNvgQzKquyuVvt) | [怪咖啡因 blame it on the caffeine](https://open.spotify.com/album/5Gmq6pkXrngE8BVnEWEqOZ) | 5:51 |
 | 10 | [虛擬說唱部落 \(feat\. Chefwest & ZODI\)](https://open.spotify.com/track/3EfnsYGvQBrqxwXucOrTBl) | [Slept Kid](https://open.spotify.com/artist/411AHO70iqEDqL3ezTF7PP), [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [ZODI](https://open.spotify.com/artist/0RVLAAfjPbd7PADAu886hv) | [虛擬說唱部落 \(feat\. Chefwest & ZODI\)](https://open.spotify.com/album/1LkT36CU0GWn7Q4IVaKtlP) | 2:42 |
 | 11 | [似乎又明白了一些事](https://open.spotify.com/track/1J0SrGzCOVvtgPZDIpwISf) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [似乎又明白了一些事](https://open.spotify.com/album/18ujp6HqNic7iOay1gSiMQ) | 4:18 |
-| 12 | [漪 {Ripple ver.}](https://open.spotify.com/track/2W346APeNn2vYyrPGsSp2m) | [Just a broken machine](https://open.spotify.com/artist/1DLbiQXsesKp5HMktwfC64) | [《漪》](https://open.spotify.com/album/0cuVA3cYepTiSirlWus68L) | 4:39 |
+| 12 | [漪](https://open.spotify.com/track/2W346APeNn2vYyrPGsSp2m) | [Just a broken machine](https://open.spotify.com/artist/1DLbiQXsesKp5HMktwfC64) | [《漪》](https://open.spotify.com/album/0cuVA3cYepTiSirlWus68L) | 4:39 |
 | 13 | [迷宮內在 inner maze](https://open.spotify.com/track/4DtMGsa2QTLJ74HHLdubVM) | [王和平](https://open.spotify.com/artist/0QZFObHsPNvgQzKquyuVvt), [bright](https://open.spotify.com/artist/74Ul6MwHluMULyDRZMxcUu) | [迷宮內在 inner maze](https://open.spotify.com/album/7qDuXLeJ3tLReHW8fICsP2) | 3:38 |
 | 14 | [名為自然的告別](https://open.spotify.com/track/5qlCDx2eZXGnWxAtbxeSzW) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [名為自然的告別](https://open.spotify.com/album/2pAw8PCv8qwKhU8NSZQaIG) | 5:40 |
 | 15 | [Pacific Ocean 太平洋](https://open.spotify.com/track/2Sszm6AzRIs1tDLJFpHk7u) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz) | [Pacific Ocean 太平洋](https://open.spotify.com/album/3Zh1ixYqJvCVbmoKr48Pue) | 2:53 |

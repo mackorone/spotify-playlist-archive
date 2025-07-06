@@ -1,12 +1,12 @@
 {
   "description": "my alter ego (what i&#x27;m listening to july-aug 2025)",
-  "num_followers": 23149,
+  "num_followers": 23150,
   "original_name": "the return of cookie",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMscSjP4+zHM5VrBODIpXZxY4AGdow",
+  "snapshot_id": "AAAMsqcvs1DbtNEeiGU2NxbM8e2cuamg",
   "tracks": [
     {
       "added_at": "2025-07-03 23:45:51",
@@ -191,6 +191,22 @@
       "duration_ms": 232213,
       "name": "June Guitar",
       "url": "https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5"
+    },
+    {
+      "added_at": "2025-07-06 00:27:51",
+      "album": {
+        "name": "4 REAL",
+        "url": "https://open.spotify.com/album/3v54qzNPUdfcV0W2WEFcRA"
+      },
+      "artists": [
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "SINCERELY",
+      "url": "https://open.spotify.com/track/4CRCH72z1sK1GDysXFpoc8"
     }
   ],
   "unique_name": "the return of cookie",

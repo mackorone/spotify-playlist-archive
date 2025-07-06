@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan talenta segar dalam negeri\. Cover: Adrian Sant
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,251 likes - 88 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,246 likes - 88 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

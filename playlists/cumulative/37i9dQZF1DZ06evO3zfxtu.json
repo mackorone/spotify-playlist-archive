@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 130978,
       "name": "Dat Girl",
       "url": "https://open.spotify.com/track/5R3yCbROZKow1PHrXI4UP8"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 162600,
       "name": "I Been Doing Great (You Can Stop MFing Asking)",
       "url": "https://open.spotify.com/track/3MQFwwFy7Wua20rsN4DzbI"
@@ -1278,10 +1278,32 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 230600,
       "name": "no excuses.",
       "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
+    },
+    {
+      "album": {
+        "name": "Not Local (with Eva Shaw)",
+        "url": "https://open.spotify.com/album/0T7I9jx3kYN2NJJgGCoz4O"
+      },
+      "artists": [
+        {
+          "name": "BTK Villeion",
+          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Not Local (with Eva Shaw)",
+      "url": "https://open.spotify.com/track/4mDwhFVqeLzz2NSAckm8ne"
     },
     {
       "album": {

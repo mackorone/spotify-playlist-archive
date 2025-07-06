@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 207005,
       "name": "Beside Of Me",
       "url": "https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"
@@ -7960,7 +7960,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 165000,
       "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
       "url": "https://open.spotify.com/track/7sgc6ahX3IQwSzFzdQnA5p"
@@ -16164,6 +16164,24 @@
     {
       "album": {
         "name": "Just What I Said (Everything In Its Right Place)",
+        "url": "https://open.spotify.com/album/74oGQ6WbH59pCuxcN6om5m"
+      },
+      "artists": [
+        {
+          "name": "High Beam",
+          "url": "https://open.spotify.com/artist/6JlpA7oDmgLFpyEuwpX9Sr"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196088,
+      "name": "Just What I Said (Everything In Its Right Place)",
+      "url": "https://open.spotify.com/track/1ImBKMKY6kr26rNTZ7dEKx"
+    },
+    {
+      "album": {
+        "name": "Just What I Said (Everything In Its Right Place)",
         "url": "https://open.spotify.com/album/1qa7N3wXybS8WpM4Dr6O9y"
       },
       "artists": [
@@ -16174,7 +16192,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 196088,
       "name": "Just What I Said (Everything In Its Right Place)",
       "url": "https://open.spotify.com/track/2wGRIasMJFkp2NLAISSZov"
@@ -18266,7 +18284,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -20910,7 +20928,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 483692,
       "name": "Nettles",
       "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
@@ -28616,7 +28634,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 170322,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
@@ -34446,6 +34464,24 @@
       "duration_ms": 241776,
       "name": "You'll Be in My Heart",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
+    },
+    {
+      "album": {
+        "name": "Young Black & Rich",
+        "url": "https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV"
+      },
+      "artists": [
+        {
+          "name": "Melly Mike",
+          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155040,
+      "name": "Young Black & Rich",
+      "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
     },
     {
       "album": {

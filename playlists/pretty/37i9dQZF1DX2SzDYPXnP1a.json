@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 98388,
+  "num_followers": 98517,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,18 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+      "duration_ms": 216800,
+      "name": "It Ain't My Fault",
+      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -235,18 +235,18 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 216800,
-      "name": "It Ain't My Fault",
-      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
+        "name": "Southernality",
+        "url": "https://open.spotify.com/album/24EQqsQ13TxKqeNaYanG1e"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Trailer Trashed",
+      "url": "https://open.spotify.com/track/3QOOiLL3pqzxEyCpT6FEoE"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
         "name": "Target Practice",
         "url": "https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L"
       },
@@ -855,26 +871,6 @@
       "duration_ms": 179878,
       "name": "Match For My Memory",
       "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
-        "name": "Trap Still Bumpin",
-        "url": "https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 164448,
-      "name": "Trap Still Bumpin",
-      "url": "https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G"
     }
   ],
   "unique_name": "Beast Mode Country",

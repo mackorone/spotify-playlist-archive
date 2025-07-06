@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Baby I Love You",
+        "url": "https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7"
+    },
+    {
+      "album": {
         "name": "Baby I'm Yours (Acoustic)",
         "url": "https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g"
       },

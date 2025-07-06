@@ -3536,7 +3536,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 188425,
       "name": "beholder mit t\u00f8j p\u00e5",
       "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
@@ -13516,7 +13516,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/1MriMVVs0upyrXtArsWep5"
@@ -13538,7 +13538,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/7sUvmhKZF9VVZLKXqTIp0x"
@@ -13724,6 +13724,36 @@
       "duration_ms": 142886,
       "name": "Gemmeleg",
       "url": "https://open.spotify.com/track/2M6Rc5O34wf6GpxJ9Z6sh6"
+    },
+    {
+      "album": {
+        "name": "GENERATION GAZA",
+        "url": "https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD"
+      },
+      "artists": [
+        {
+          "name": "Generationgaza",
+          "url": "https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Miklo",
+          "url": "https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8"
+        },
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201822,
+      "name": "GENERATION GAZA",
+      "url": "https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx"
     },
     {
       "album": {
@@ -19328,7 +19358,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 168783,
       "name": "Interesseret (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/00yXYRKC6isUGHRvdpQodo"
@@ -23513,6 +23543,24 @@
     },
     {
       "album": {
+        "name": "N1YA",
+        "url": "https://open.spotify.com/album/27ZMLT8E1wGSckvEHqBoZO"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "LOSSES",
+      "url": "https://open.spotify.com/track/60BnXs3mupC56IxVJYysEK"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
       },
@@ -23654,7 +23702,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -26618,6 +26666,24 @@
       "duration_ms": 207919,
       "name": "Nattehimlen",
       "url": "https://open.spotify.com/track/5VXfqxPXhDhPU8YrG7SSrG"
+    },
+    {
+      "album": {
+        "name": "N1YA",
+        "url": "https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217374,
+      "name": "NATTEN BLIVER MORGEN",
+      "url": "https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk"
     },
     {
       "album": {

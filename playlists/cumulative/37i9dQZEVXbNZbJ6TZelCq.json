@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
@@ -6360,7 +6360,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 139354,
       "name": "CALIFORNIA",
       "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
@@ -9474,6 +9474,24 @@
       "duration_ms": 200412,
       "name": "Days Before Rodeo: The Prayer",
       "url": "https://open.spotify.com/track/6TQwgRWmnovDECDrHVOxlY"
+    },
+    {
+      "album": {
+        "name": "dcdcdc",
+        "url": "https://open.spotify.com/album/7AG7vMJ62XIdY4I1IBijQE"
+      },
+      "artists": [
+        {
+          "name": "candyboii",
+          "url": "https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "dcdcdc",
+      "url": "https://open.spotify.com/track/5L4bCVchT2YL4Sg4Re0biu"
     },
     {
       "album": {
@@ -15074,7 +15092,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -25046,7 +25064,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 128591,
       "name": "M\u0103 rupe r\u0103u",
       "url": "https://open.spotify.com/track/5kFawu0YBiZNktW7Fa2rQO"
@@ -26672,7 +26690,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 139234,
       "name": "Ochii astia verzi",
       "url": "https://open.spotify.com/track/7Isb8NSK7ILGDWYJr9mFZq"
@@ -29557,6 +29575,32 @@
     },
     {
       "album": {
+        "name": "VARA BRAZIL",
+        "url": "https://open.spotify.com/album/66V6JjhgUiN9iJchsWjsP4"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "Dj Nattan",
+          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202220,
+      "name": "PRIETENA TA",
+      "url": "https://open.spotify.com/track/6lu7h9TW9L94lAevaJbyvy"
+    },
+    {
+      "album": {
         "name": "8 Culcat",
         "url": "https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss"
       },
@@ -29598,7 +29642,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 202220,
       "name": "PRIETENA TA",
       "url": "https://open.spotify.com/track/65s5E9OK3p1fER8OCdJjWO"

@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 453795,
+  "num_followers": 453827,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGXIAAAAAACHq5TIrkXD+D/N2Yl0mTZD",
+  "snapshot_id": "aGcZgAAAAABctddqsO3xfD06wCMcZR87",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lobo Domesticado",
         "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
       },
@@ -423,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy As\u00ed",
-        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
       "artists": [
         {
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 173106,
-      "name": "La Gallina Ponedora",
-      "url": "https://open.spotify.com/track/7sWpr279lr6tDK5w0js3pC"
+      "duration_ms": 179000,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
       "duration_ms": 208106,
       "name": "La Papa",
       "url": "https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "La Gallina Ponedora",
+      "url": "https://open.spotify.com/track/7sWpr279lr6tDK5w0js3pC"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 127400,
-      "name": "El Sauce Y La Palma - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/40vKoQ20GrIVle81a35iR4"
+      "duration_ms": 403493,
+      "name": "Clave Privada - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 403493,
-      "name": "Clave Privada - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF"
+      "duration_ms": 127400,
+      "name": "El Sauce Y La Palma - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/40vKoQ20GrIVle81a35iR4"
     },
     {
       "added_at": null,

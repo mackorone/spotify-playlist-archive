@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with RUSSELL! from Brampton, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,945 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,975 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 3 | [Deserve](https://open.spotify.com/track/3PcAs60k0pJlmpeGjWb5OK) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Deserve](https://open.spotify.com/album/2l5yiJNpmXYcZQu3qg4gCb) | 2:21 |
 | 4 | [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 |
 | 5 | [Love This Pain Away](https://open.spotify.com/track/4eKLPRValz4g6ys9HIJe72) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Love This Pain Away](https://open.spotify.com/album/4i4OSrF8Fp7i3J0pllAJ9c) | 3:10 |
-| 6 | [Give Your All](https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Give Your All](https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr) | 2:18 |
+| 6 | [Give Your All](https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Nulo](https://open.spotify.com/artist/62CWOZ6M3S4ropjgWlUoWm) | [Give Your All](https://open.spotify.com/album/2sxBAduBWz9cfJ9uLcpKRr) | 2:18 |
 | 7 | [Everflow](https://open.spotify.com/track/26OlLnwiOsoqNxkb3IJaN9) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Everflow](https://open.spotify.com/album/4kmCVAATKXGVsyeGt6sgYs) | 3:56 |
 | 8 | [\*\*CUDN’T B ME\*\*](https://open.spotify.com/track/2MEwzbnd94ru6DkUR9pxA7) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 3:02 |
 | 9 | [Falling Off](https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Falling Off](https://open.spotify.com/album/3wQcw5o7ZAiCQiE2Xs22Sp) | 2:40 |

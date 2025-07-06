@@ -4,7 +4,7 @@
 
 > Interplanetary Criminal with the tune of the summer!!
 
-1,275 songs - 3 day 23 hr 1 min
+1,277 songs - 3 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Heaven](https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Heaven EP](https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr) | 3:20 | 2023-09-07 | 2023-10-22 |
 | [Heaven, Wait \(Joplyn Remix\)](https://open.spotify.com/track/4OFUyGiyOphh0WjTCEjjGc) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Heaven, Wait \(Joplyn Remix\)](https://open.spotify.com/album/66Hz3v2kSBF4yjKc7QnU7d) | 4:37 | 2023-02-23 | 2023-03-03 |
 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 | 2024-11-28 |  |
+| [Helium](https://open.spotify.com/track/3vXvMLfSdO25gYkZRfYqQW) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Helium](https://open.spotify.com/album/6F3K2Gw1rsuNIjgvXQI9tg) | 3:27 | 2025-07-05 |  |
 | [Hella Good](https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Hella Good](https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn) | 2:55 | 2024-02-01 | 2024-02-23 |
 | [Hellraiser](https://open.spotify.com/track/1LrO7orroMDMJzhPpN3a0D) | [Osmosis Jones](https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n) | [POP DA MOLLY](https://open.spotify.com/album/1TXvsTyMh2T2ByKf8qflvA) | 5:26 | 2025-06-19 |  |
 | [Her \(Unafraid\)](https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Her \(Unafraid\)](https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC) | 3:33 | 2024-03-07 | 2024-04-05 |
@@ -1204,6 +1205,7 @@
 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 | 2023-11-09 | 2024-02-07 |
 | [Wanna Get High](https://open.spotify.com/track/6xcBMOmgBFFCPIV1TC4Yhc) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Wanna Get High](https://open.spotify.com/album/2fZUz8LgVh5VwvVGIYRIdA) | 3:35 | 2024-09-13 |  |
 | [Wanna Miami](https://open.spotify.com/track/4UWzmW5oWfICJdhypYNQ54) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB), [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Wanna Miami](https://open.spotify.com/album/1BrLFKO4SUaazL4MFKYxC2) | 2:41 | 2025-02-27 |  |
+| [Wanna Wou](https://open.spotify.com/track/7CIlustqP30AQsM2Guy6o7) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Wanna Wou](https://open.spotify.com/album/7nbpWFhcFh3OON70jPubHD) | 4:23 | 2025-07-05 |  |
 | [Warm It Up](https://open.spotify.com/track/288LdOEhUwAFYRyqz0zvAO) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Warm It Up](https://open.spotify.com/album/33KpVhYPk8aLDjh2EvTnuw) | 6:30 | 2024-04-04 |  |
 | [Watch Out](https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Watch Out](https://open.spotify.com/album/4uWCyY8Q9giKJd01bb9w73) | 2:22 | 2025-01-09 |  |
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-06 | 2023-03-10 |

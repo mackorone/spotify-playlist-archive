@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Lewis Capaldi is so back, better than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,190 likes - 83 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,160 likes - 83 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

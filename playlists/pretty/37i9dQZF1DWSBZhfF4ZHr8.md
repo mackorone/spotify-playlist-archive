@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo: Kendji Girac
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,960 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,963 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 4 | [Puzzle](https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [PAULISE + PUZZLE](https://open.spotify.com/album/0NVSvL5BYQwQsoAZ3vOB8h) | 2:35 |
 | 5 | [Song for You](https://open.spotify.com/track/3DvIo6x1dNhznOzvoO0dfh) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Song for You](https://open.spotify.com/album/5t7mqCakaB2KmhWVoeAbD4) | 2:56 |
 | 6 | [N'importe quoi](https://open.spotify.com/track/79bwfSoWwwKWjYpsP9nhC4) | [Charles](https://open.spotify.com/artist/3RdJWjyqcoybdcVZLsKkUE), [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [N'importe quoi \(Duo avec Joyce Jonathan\)](https://open.spotify.com/album/2BmEMP5uFyPNiYfn91s5f2) | 3:14 |
-| 7 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 |
+| 7 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 |
 | 8 | [Viens on essaie](https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Viens on essaie](https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY) | 2:49 |
 | 9 | [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL) | 3:18 |
 | 10 | [Nous](https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Nous](https://open.spotify.com/album/1is67cSsBtCg203117l5QH) | 2:35 |

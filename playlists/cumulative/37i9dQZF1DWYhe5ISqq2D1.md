@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: TOMOO
 
-714 songs - 1 day 20 hr 59 min
+715 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 | 2024-07-26 | 2024-09-04 |
 | [Funny](https://open.spotify.com/track/0WzICKUgMJxdQbrTupsVTK) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Funny](https://open.spotify.com/album/0qZqHPQr5x7svWAMLMaqVH) | 3:45 | 2025-01-07 | 2025-01-15 |
 | [Furase!](https://open.spotify.com/track/61ipDffoEASVKPJSTHleTw) | [kei](https://open.spotify.com/artist/1xp6W3tUbDNPOZRm35KeNq) | [Furase!](https://open.spotify.com/album/7sP1NP9i9JLPAnmvSQjpvI) | 3:59 | 2025-06-03 | 2025-06-12 |
-| [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 | 2024-11-13 |  |
+| [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 | 2024-11-13 | 2025-07-06 |
 | [Getting Over You](https://open.spotify.com/track/4CR99ei6mCtcoiBdJ4c7oK) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [Getting Over You](https://open.spotify.com/album/3KQgRx8ZfFWQhvBgvUINUY) | 3:06 | 2025-06-03 | 2025-06-18 |
 | [GHOST](https://open.spotify.com/track/35o3WMFCxU73xrS95rFjhi) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [GHOST](https://open.spotify.com/album/5oede8TqUcdeuKX7cBbK5y) | 2:38 | 2024-07-30 | 2024-08-07 |
 | [Gift](https://open.spotify.com/track/5msGVbwscuWoNk8eyHkudH) | [TAON](https://open.spotify.com/artist/3eUvIs2HFht2ZoTtzW21Bu), [WINZ](https://open.spotify.com/artist/5L2lSjQuBPWRPzwQP3FRBn) | [Follow Your Dreams／Gift](https://open.spotify.com/album/0rWtoLmJwxvMyB7DUblLUT) | 4:07 | 2025-04-08 | 2025-04-16 |
@@ -576,6 +576,7 @@
 | [孤独と海](https://open.spotify.com/track/2DErHJwf8vLOk0k240XQxi) | [ヤスエでんじゃらすおじさん](https://open.spotify.com/artist/6lp8w0tjywJNjT6GUWf7m1) | [孤独と海](https://open.spotify.com/album/7krLTOXFlOEmoFEUYK8B3u) | 3:38 | 2025-06-24 | 2025-07-02 |
 | [完璧な二人。](https://open.spotify.com/track/6TGma0ABg2gHXDxMzovlwt) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [完璧な二人。](https://open.spotify.com/album/0sb9NUT39xYPQqJyqXBSmt) | 3:11 | 2025-04-29 | 2025-06-27 |
 | [宝者](https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝者](https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2) | 4:17 | 2024-07-02 | 2024-09-18 |
+| [宵祭り \- Yoimatsuri](https://open.spotify.com/track/1L4TyLYs0cP5wgaMEGtLeG) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [宵祭り \- Yoimatsuri](https://open.spotify.com/album/1hUjBCokqHvkouvYJrDiOF) | 3:28 | 2025-07-01 |  |
 | [寵愛族](https://open.spotify.com/track/6OZ8w9AASDDRdLVJwqSEId) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [寵愛族](https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa) | 3:18 | 2024-10-08 | 2025-01-22 |
 | [小市民イーア](https://open.spotify.com/track/2hyGHwdUhrCEvVUqrONRIN) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [小市民イーア](https://open.spotify.com/album/77DueOvyt3iXD8I0Rzu1Ts) | 3:41 | 2025-04-01 | 2025-05-13 |
 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 | 2024-07-02 | 2024-12-25 |

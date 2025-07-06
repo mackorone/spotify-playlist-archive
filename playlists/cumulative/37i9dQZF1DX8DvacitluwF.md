@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Nanette
 
-577 songs - 1 day 6 hr 58 min
+578 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Infrared](https://open.spotify.com/track/3xxi5TsXAXbUolqCVzJZnz) | [VtheVowel](https://open.spotify.com/artist/1Bas48Gj8Q0nKgrx4Dm25X), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [Infrared](https://open.spotify.com/album/0ZyahY5BHdxVILmfEULG9O) | 3:35 | 2024-04-12 | 2024-06-14 |
 | [INSIDE YOUR HEAD](https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [WAVES: Vol\. 1](https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn) | 3:45 | 2024-10-11 | 2025-04-25 |
 | [INTENTIONS](https://open.spotify.com/track/7EYKq8pLfgrd8hFzFRnrkd) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 3:58 | 2025-02-13 | 2025-03-01 |
+| [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 |  |
 | [Involved](https://open.spotify.com/track/4oVUImT0hkgyjH989I1U4u) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [THJ Radio Vol\. 1](https://open.spotify.com/album/11ZhB00zBhxQkxJOHJ4Q2a) | 2:30 | 2024-09-11 | 2024-10-25 |
 | [IQINISO](https://open.spotify.com/track/03wM9MDUWJT6D901sRFvcT) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [OHLAZA](https://open.spotify.com/album/4Ly6AteRRNVC3fcPyqkoag) | 2:43 | 2024-09-26 | 2025-06-20 |
 | [Is It Mine \(feat\. Lady London\)](https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 2:52 | 2025-05-01 |  |
@@ -473,7 +474,7 @@
 | [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 | 2024-08-02 |
 | [Stay The Night](https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Stay The Night](https://open.spotify.com/album/5NPVk3MNx4FiE0airIqmb1) | 3:06 | 2024-04-25 | 2024-07-27 |
 | [Stay the Night](https://open.spotify.com/track/0JADBJ42q1ab92VOULBh9V) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:21 | 2025-02-13 | 2025-03-01 |
-| [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2024-09-02 |  |
+| [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2024-09-02 | 2025-07-06 |
 | [STEADY \(feat\. SaveMilli & Mzizi\)](https://open.spotify.com/track/7L2diwSFqfR6XcOGqasCJR) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [SaveMilli](https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme), [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9) | [STEADY \(feat\. SaveMilli & Mzizi\)](https://open.spotify.com/album/3NOddMI2rgOUKZDrniiSC3) | 3:28 | 2024-07-25 | 2024-09-03 |
 | [Stick With You \(feat\. Nana Atta & Rhea Blek\)](https://open.spotify.com/track/2U3qc1MebhRjkXu2mmaAFF) | [Jazzy June](https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI), [TeabagCC](https://open.spotify.com/artist/6sW4QFrM1ffIRAQRHC4wZy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Rhea Blek](https://open.spotify.com/artist/58yGlR6nBYMqbJUypZD5E4) | [Starting V](https://open.spotify.com/album/6mrRJOqPqptakFX2UOICAs) | 3:15 | 2025-04-03 | 2025-04-25 |
 | [Sticky](https://open.spotify.com/track/7uVUoTvxC1nOAuZBr72DWS) | [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4) | [LOSE CTRL](https://open.spotify.com/album/4sfRXbUnks97MCW5LqtfkI) | 3:47 | 2023-10-12 | 2023-10-20 |

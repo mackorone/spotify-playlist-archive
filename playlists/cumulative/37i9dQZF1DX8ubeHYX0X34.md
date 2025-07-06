@@ -167,7 +167,7 @@
 | [Preeto](https://open.spotify.com/track/77r5p33xjbCAJrS9rQ6z20) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4) | 5:09 | 2021-08-16 | 2024-04-19 |
 | [Preeto](https://open.spotify.com/track/6SWm9qvEfNYKPHWbU9bL8l) | [Ibrar\-Ul\-Haq](https://open.spotify.com/artist/391X9u4uNdXQy9pp0aVVaS), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/1Ug4Zb8FCtDriacXAnxSmT) | 5:09 | 2021-08-16 | 2022-07-28 |
 | [Pukaar](https://open.spotify.com/track/4bSoSLQqvn36IineC7syUE) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/5ZCgLCP9jpoCxsYrqUPiCS) | 4:14 | 2021-08-16 | 2022-07-28 |
-| [Pyaar Bina](https://open.spotify.com/track/33lDINCEHJM5jeVhcnJfdE) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Parvaaz](https://open.spotify.com/album/5HGX0AsoyUQNhG9lC1i6Z7) | 4:21 | 2021-08-16 |  |
+| [Pyaar Bina](https://open.spotify.com/track/33lDINCEHJM5jeVhcnJfdE) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Parvaaz](https://open.spotify.com/album/5HGX0AsoyUQNhG9lC1i6Z7) | 4:21 | 2021-08-16 | 2025-07-06 |
 | [Pyareya](https://open.spotify.com/track/79cLz6xNrqZjPFShXirTun) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ki Awaz](https://open.spotify.com/album/4eyWYh9SUzBnIt2sWEH49I) | 4:31 | 2021-08-16 | 2022-07-27 |
 | [Raag Neela](https://open.spotify.com/track/3yR06OToULFMvC8AIapM2j) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Raag Neela](https://open.spotify.com/album/6jxi9QkkeaykE0tcoATEjk) | 3:58 | 2021-08-16 | 2022-07-28 |
 | [Raba](https://open.spotify.com/track/6frplKFuESveHMvu3GAVN0) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl) | 6:55 | 2021-08-16 | 2022-07-22 |
@@ -224,6 +224,6 @@
 | [Yeh Hai Meri Kahani \(Version I\)](https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Zinda](https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M) | 5:16 | 2021-08-16 |  |
 | [Yeh Pal](https://open.spotify.com/track/2GQ2v7N9nsn7s6VtXEiqA6) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/57UJIr0RMO9VejwwJbGcog) | 5:26 | 2021-08-16 | 2022-07-28 |
 | [Yeh Pal](https://open.spotify.com/track/2dUv1tJPc8jTKBpf2JoBuJ) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/2UzCtYWLoRffW5x1Vg1B15) | 5:29 | 2021-08-16 | 2022-08-09 |
-| [Yeh Sham](https://open.spotify.com/track/4h68L4SwrbU9WLiRBLEoQs) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [Very Best Of Vital Signs Vol \-1](https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm) | 7:18 | 2021-08-16 | 2025-07-04 |
+| [Yeh Sham](https://open.spotify.com/track/4h68L4SwrbU9WLiRBLEoQs) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [Very Best Of Vital Signs Vol \-1](https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm) | 7:18 | 2021-08-16 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

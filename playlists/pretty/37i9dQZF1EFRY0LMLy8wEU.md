@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 38 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 55 likes - 38 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 27 | [Look At What The Blood Has Done](https://open.spotify.com/track/1OOdR0H1l7fC1ynap0I42m) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 5:50 |
 | 28 | [Marvelous \(Lion Of Judah\)](https://open.spotify.com/track/1xIACUXOMUSmg9n5PN147G) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Ethan Mizell](https://open.spotify.com/artist/0Z3GyEO2HxFkopxTnzmPfX) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 9:13 |
 | 29 | [Name Above All Names](https://open.spotify.com/track/5HBJZ3m9HX1aAwAlI2CZQD) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 4:59 |
-| 30 | [The Kind of God You Are](https://open.spotify.com/track/6Ia1eFYLxJxXMlS36WCdFr) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6SCImSTo63Wk8Apr8IC9ku) | 3:38 |
-| 31 | [Tear Down The Idols](https://open.spotify.com/track/39nSFsVafS3EonrhrJ7aLQ) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 5:01 |
+| 30 | [Tear Down The Idols](https://open.spotify.com/track/39nSFsVafS3EonrhrJ7aLQ) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 5:01 |
+| 31 | [The Kind of God You Are](https://open.spotify.com/track/6Ia1eFYLxJxXMlS36WCdFr) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6SCImSTo63Wk8Apr8IC9ku) | 3:38 |
 | 32 | [Stand Here](https://open.spotify.com/track/78j9UsXJxngPs5bcrLJj9A) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Joshua Brennt](https://open.spotify.com/artist/5t40yB32RGnzTLYiAOzYHp) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 7:50 |
 | 33 | [The Fields Are Ready](https://open.spotify.com/track/0zy9NI36IhHEG1pyAla2Ed) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/2pmRUtYaB8fHdZEjIA3X15) | 5:10 |
 | 34 | [No One Like the Lord / King of Glory \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 37 | [I Say Yes](https://open.spotify.com/track/30ylLpVlXV3rQ9Tk3PuKEg) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/1Y389ylGEmvWM3eSeEEWnu) | 7:43 |
 | 38 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `Ab15/gAAAACaSepqkqQNnoSrisadCiWw`
+Snapshot ID: `Ab1/igAAAADglIrEDJhegH1BNMyVFDID`

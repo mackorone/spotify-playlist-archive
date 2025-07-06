@@ -5227,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "BAD BOi",
+        "url": "https://open.spotify.com/album/3HQOgIXxFzlKBAD4R695g7"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201086,
+      "name": "BAD BOi",
+      "url": "https://open.spotify.com/track/2fN9wVTYfmolytugbdg568"
+    },
+    {
+      "album": {
         "name": "bad bunnies",
         "url": "https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN"
       },
@@ -7216,7 +7234,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8600,7 +8618,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc"
@@ -8622,7 +8640,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
@@ -10014,7 +10032,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 192312,
       "name": "Camilla",
       "url": "https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5"
@@ -11154,6 +11172,24 @@
       "duration_ms": 147500,
       "name": "CLOUD 7",
       "url": "https://open.spotify.com/track/7ksQkf6p0rF9CoDhxoePKn"
+    },
+    {
+      "album": {
+        "name": "CLS",
+        "url": "https://open.spotify.com/album/2b8nL0Wd5CwJrujP9F58yr"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155113,
+      "name": "CLS",
+      "url": "https://open.spotify.com/track/5j3HKajYBpwZXJjbR4Abn6"
     },
     {
       "album": {
@@ -16406,7 +16442,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -16424,7 +16460,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -22676,7 +22712,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 131336,
       "name": "HILTON HOTEL BAR\u00c7A",
       "url": "https://open.spotify.com/track/5swfNnxLjxbX1KKU6SlpC1"
@@ -22724,6 +22760,24 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
+    },
+    {
+      "album": {
+        "name": "Hit One",
+        "url": "https://open.spotify.com/album/3z6CXw7UiNQKZ2ZRSN6wfi"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Hit One",
+      "url": "https://open.spotify.com/track/5OeScOAa7LAx2jN11RRVJe"
     },
     {
       "album": {
@@ -26382,6 +26436,28 @@
       "duration_ms": 147668,
       "name": "Junya",
       "url": "https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK"
+    },
+    {
+      "album": {
+        "name": "JUPITER",
+        "url": "https://open.spotify.com/album/55Zn5Nevfx1a3OrEnjzdBE"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164426,
+      "name": "JUPITER",
+      "url": "https://open.spotify.com/track/7ecko4ieGpsWtj4h0rBAaJ"
     },
     {
       "album": {
@@ -30467,6 +30543,24 @@
     },
     {
       "album": {
+        "name": "Luje",
+        "url": "https://open.spotify.com/album/7lnODIBeqPRodH4fD8nTSy"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Luje",
+      "url": "https://open.spotify.com/track/093CvEm5wkS7yerDDDxZkR"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -31392,7 +31486,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -39609,6 +39703,32 @@
     },
     {
       "album": {
+        "name": "PIZZA SALAMI",
+        "url": "https://open.spotify.com/album/26P7HZHwiKKl0KTSdcWhWC"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        },
+        {
+          "name": "DeeVoe",
+          "url": "https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138974,
+      "name": "PIZZA SALAMI",
+      "url": "https://open.spotify.com/track/2DtFedk6oLzme54zUP09uU"
+    },
+    {
+      "album": {
         "name": "Plapper nicht",
         "url": "https://open.spotify.com/album/7wmtNZZ4DYyAjp168hz6U4"
       },
@@ -40870,7 +40990,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 145000,
       "name": "RAGE GIRL",
       "url": "https://open.spotify.com/track/2ghPrJZ7sn1MlyCAUja1C6"
@@ -42094,7 +42214,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -42112,7 +42232,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -46275,6 +46395,24 @@
     },
     {
       "album": {
+        "name": "Sport & Di\u00e4t",
+        "url": "https://open.spotify.com/album/69Cbb47OZnHENnY2oOdYQt"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143141,
+      "name": "Sport & Di\u00e4t",
+      "url": "https://open.spotify.com/track/2fRGQe9e03laEhkfN9Dj2l"
+    },
+    {
+      "album": {
         "name": "Sports car",
         "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
       },
@@ -49036,7 +49174,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -49538,7 +49676,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -49556,7 +49694,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -52124,7 +52262,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 138032,
       "name": "Unsicher",
       "url": "https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ"
@@ -53203,6 +53341,28 @@
     },
     {
       "album": {
+        "name": "Von vorn",
+        "url": "https://open.spotify.com/album/3gaUmAg4wUA7znwsVLyWEl"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        },
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137342,
+      "name": "Von vorn",
+      "url": "https://open.spotify.com/track/1HFXlVDXuU5kCVgk2EccP7"
+    },
+    {
+      "album": {
         "name": "Vorbei",
         "url": "https://open.spotify.com/album/7mNWwwJd19DgjwtXKtzX1g"
       },
@@ -53590,7 +53750,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"

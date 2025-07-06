@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-681 songs - 1 day 20 hr 2 min
+682 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Chimerical Reality](https://open.spotify.com/track/6sWKMPDGVA0sMS8ARy6OHL) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Chimerical Reality](https://open.spotify.com/album/06E6v6odTc637pyGiIHYAO) | 4:33 | 2021-12-17 | 2022-07-29 |
 | [Chin Check](https://open.spotify.com/track/5Jt2ErhCamGbwwuYyWCjxm) | [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Chin Check](https://open.spotify.com/album/0ueCnEnaRHDzvQkZqiUdDJ) | 2:40 | 2024-06-25 |  |
 | [Choky](https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Choky](https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl) | 2:59 | 2023-04-14 | 2025-03-15 |
-| [Chrome Moon](https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Starfire](https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0) | 4:04 | 2024-06-25 |  |
+| [Chrome Moon](https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Starfire](https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0) | 4:04 | 2024-06-25 | 2025-07-06 |
 | [Cicada](https://open.spotify.com/track/09XcghmEqtPUmGsXHy1VA7) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Cicada](https://open.spotify.com/album/1gJQH2yB80CLagucfP6sze) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [Civic Assault](https://open.spotify.com/track/1XHcJ9I73gB6uwKtryfC9B) | [Waking the Cadaver](https://open.spotify.com/artist/0Y7lDsDZc8qYny9MTq8xG2) | [Authority Through Intimidation](https://open.spotify.com/album/4vfoJ5Ixw4Ae8zQrKIPWWW) | 3:19 | 2021-12-17 | 2022-07-24 |
 | [Claustrophobic](https://open.spotify.com/track/0RlDBgXlhYVqatgogKYo1F) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Alan Grnja](https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L) | [Claustrophobic](https://open.spotify.com/album/1AHEHHN7GwDnbAeU3pM5aJ) | 4:01 | 2022-04-08 | 2022-04-20 |
@@ -526,6 +526,7 @@
 | [Scumprophet](https://open.spotify.com/track/4RmEemZjQl0BVZbWDcPoYu) | [Hollow Prophet](https://open.spotify.com/artist/6ogDfDc9YxecJUrpm9etXZ), [SCUMFUCK](https://open.spotify.com/artist/3rZszyIElLNiSPWPemCEWQ) | [Scumprophet](https://open.spotify.com/album/6EAWBs3FxAEsy1cawufZFS) | 4:44 | 2021-12-17 | 2022-04-07 |
 | [Seed](https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Seed](https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK) | 4:49 | 2025-06-06 |  |
 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/74Kl9WSj63K7MJOZssDwAF) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [D](https://open.spotify.com/album/795u6k1CCuttNnhsDTM1ij) | 2:48 | 2021-12-17 | 2022-06-27 |
+| [Seeking Through The Vacant Vessel](https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Seeking Through The Vacant Vessel](https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l) | 2:45 | 2025-07-04 |  |
 | [Sentenced](https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Sentenced](https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand) | 4:16 | 2024-06-25 | 2025-03-15 |
 | [Set the World on Fire](https://open.spotify.com/track/6UzntVyCu5wfJkjb5ddczQ) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Set the World on Fire](https://open.spotify.com/album/3EWHosgZgHFx7SI2iTI2ZW) | 2:49 | 2025-04-25 |  |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2021-12-17 | 2025-03-15 |

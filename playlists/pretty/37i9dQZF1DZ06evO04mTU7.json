@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8718,
+  "num_followers": 8728,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGXIAAAAAAB5YcgcG7i7H2SV3oIa4tlx",
+  "snapshot_id": "aGcZgAAAAADT8aLFQZc98FJY0WK2jNAF",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Tipo de Garota",
-        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 203352,
-      "name": "O Tipo de Garota",
-      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Tipo de Garota",
+        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 203352,
+      "name": "O Tipo de Garota",
+      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
     },
     {
       "added_at": null,
@@ -515,6 +515,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "O Suficiente",
+      "url": "https://open.spotify.com/track/7qZClco5dd6Hzxg2ISaEdk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -551,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174254,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -587,26 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
       },
       "artists": [
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1"
         }
       ],
-      "duration_ms": 204000,
-      "name": "O Suficiente",
-      "url": "https://open.spotify.com/track/7qZClco5dd6Hzxg2ISaEdk"
+      "duration_ms": 174254,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Queen Chavosa (Remix)",
+        "url": "https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv"
+      },
+      "artists": [
+        {
+          "name": "DJ LOBA BOSS",
+          "url": "https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 101090,
+      "name": "Queen Chavosa - Remix",
+      "url": "https://open.spotify.com/track/2898k850lyu9U35V7zzSDY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EU VIM DE GR",
         "url": "https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 165333,
       "name": "F\u00e1brica de J\u00f3ia",
       "url": "https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen Chavosa (Remix)",
-        "url": "https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv"
-      },
-      "artists": [
-        {
-          "name": "DJ LOBA BOSS",
-          "url": "https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 101090,
-      "name": "Queen Chavosa - Remix",
-      "url": "https://open.spotify.com/track/2898k850lyu9U35V7zzSDY"
     }
   ],
   "unique_name": "This Is AJULIACOSTA",

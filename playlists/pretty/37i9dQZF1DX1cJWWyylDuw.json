@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Paleface Swiss",
-  "num_followers": 260760,
+  "num_followers": 260920,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -1275,74 +1275,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Dead Eyes Replete",
-        "url": "https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7"
-      },
-      "artists": [
-        {
-          "name": "Cryptopsy",
-          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Dead Eyes Replete",
-      "url": "https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Zwielicht",
-        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
-      },
-      "artists": [
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 356917,
-      "name": "Forgotten Kings",
-      "url": "https://open.spotify.com/track/4Rkmv5Ev1PhtLjL07rZhOY"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Righteous Man",
-        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 228444,
-      "name": "Righteous Man",
-      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
-      },
-      "artists": [
-        {
-          "name": "LARC\u0246NIA RO\u0246",
-          "url": "https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4"
-        },
-        {
-          "name": "Alex Koehler",
-          "url": "https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI"
-        }
-      ],
-      "duration_ms": 264463,
-      "name": "Calcium Closet",
-      "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Leap of Death",
         "url": "https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6"
       },
@@ -1363,6 +1295,74 @@
       "duration_ms": 283097,
       "name": "The Medicine",
       "url": "https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Zwielicht",
+        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 356917,
+      "name": "Forgotten Kings",
+      "url": "https://open.spotify.com/track/4Rkmv5Ev1PhtLjL07rZhOY"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/1OMNFu0sje9qn7Nz4hy8t0"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "1983",
+      "url": "https://open.spotify.com/track/2MO3DZjBECnLnd7wBgCi0Y"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Dead Eyes Replete",
+        "url": "https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7"
+      },
+      "artists": [
+        {
+          "name": "Cryptopsy",
+          "url": "https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Dead Eyes Replete",
+      "url": "https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
+      },
+      "artists": [
+        {
+          "name": "LARC\u0246NIA RO\u0246",
+          "url": "https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4"
+        },
+        {
+          "name": "Alex Koehler",
+          "url": "https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI"
+        }
+      ],
+      "duration_ms": 264463,
+      "name": "Calcium Closet",
+      "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1451,8 +1451,8 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "1983",
-        "url": "https://open.spotify.com/album/1OMNFu0sje9qn7Nz4hy8t0"
+        "name": "Righteous Man",
+        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 186000,
-      "name": "1983",
-      "url": "https://open.spotify.com/track/2MO3DZjBECnLnd7wBgCi0Y"
+      "duration_ms": 228444,
+      "name": "Righteous Man",
+      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "Been There, Mutilated That",
+        "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "duration_ms": 158635,
+      "name": "Been There, Mutilated That",
+      "url": "https://open.spotify.com/track/3I58ZL3BbnwNsPgV9gpMQZ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "Malicious Needs",
         "url": "https://open.spotify.com/album/20bGDowkvLLlZesQgxKm9K"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Been There, Mutilated That",
-        "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
-      },
-      "artists": [
-        {
-          "name": "Rev3rent",
-          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
-        }
-      ],
-      "duration_ms": 158635,
-      "name": "Been There, Mutilated That",
-      "url": "https://open.spotify.com/track/3I58ZL3BbnwNsPgV9gpMQZ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Alter of Self",
         "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
       },
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "In Gloom II: True Violence and All the Terror That Comes With It",
-        "url": "https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X"
-      },
-      "artists": [
-        {
-          "name": "In Gloom",
-          "url": "https://open.spotify.com/artist/3jp1hk4EYTFMZfPD1Dn3A2"
-        }
-      ],
-      "duration_ms": 219004,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 275807,
       "name": "Chainbreaker",
       "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "In Gloom II: True Violence and All the Terror That Comes With It",
+        "url": "https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X"
+      },
+      "artists": [
+        {
+          "name": "In Gloom",
+          "url": "https://open.spotify.com/artist/3jp1hk4EYTFMZfPD1Dn3A2"
+        }
+      ],
+      "duration_ms": 219004,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Bunny Suit",
         "url": "https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo"
       },
@@ -1895,18 +1879,18 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/68KYlx6wFIMGwkgyRcEQdB"
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
       },
       "artists": [
         {
-          "name": "Nylist",
-          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
         }
       ],
-      "duration_ms": 167868,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/0D03PmKOwfqK1QB9lWKwVs"
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1963,6 +1947,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/68KYlx6wFIMGwkgyRcEQdB"
+      },
+      "artists": [
+        {
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        }
+      ],
+      "duration_ms": 167868,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/0D03PmKOwfqK1QB9lWKwVs"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2KhJHoqOjdylN8vCMyMEqr"
       },
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "Seeking Through The Vacant Vessel",
+        "url": "https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l"
+      },
+      "artists": [
+        {
+          "name": "CELL",
+          "url": "https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ"
+        }
+      ],
+      "duration_ms": 165988,
+      "name": "Seeking Through The Vacant Vessel",
+      "url": "https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/5eLijWKg89vlalIFzQQOyY"
       },
@@ -2047,22 +2063,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Troll Named Scrot",
-        "url": "https://open.spotify.com/album/7viyRERARKCHp8v90EWVG2"
-      },
-      "artists": [
-        {
-          "name": "Cumbeast",
-          "url": "https://open.spotify.com/artist/5mfM7MCEU0ZEMCCJqYp92e"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Troll Named Scrot",
-      "url": "https://open.spotify.com/track/4vpBQ8xfXzTgm1SruowHc5"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
       },
@@ -2099,6 +2099,38 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "Troll Named Scrot",
+        "url": "https://open.spotify.com/album/7viyRERARKCHp8v90EWVG2"
+      },
+      "artists": [
+        {
+          "name": "Cumbeast",
+          "url": "https://open.spotify.com/artist/5mfM7MCEU0ZEMCCJqYp92e"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Troll Named Scrot",
+      "url": "https://open.spotify.com/track/4vpBQ8xfXzTgm1SruowHc5"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "The Isnis",
+        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "The Isnis",
+      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "Cut Off The Head",
         "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
@@ -2127,22 +2159,6 @@
       "duration_ms": 225432,
       "name": "SPECTER",
       "url": "https://open.spotify.com/track/3IJT9IkrnCcRVEQRFXlwOl"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "The Isnis",
-        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "The Isnis",
-      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2263,22 +2279,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "ANGST",
-        "url": "https://open.spotify.com/album/4VtvpHr3oMlHYiNHVIc0x9"
-      },
-      "artists": [
-        {
-          "name": "Gutrectomy",
-          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
-        }
-      ],
-      "duration_ms": 78807,
-      "name": "Trapped in Angst",
-      "url": "https://open.spotify.com/track/4kyVaQWQd9880V919n6mQW"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Befouler (feat. Alex Terrible)",
         "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
       },
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "ANGST",
+        "url": "https://open.spotify.com/album/4VtvpHr3oMlHYiNHVIc0x9"
+      },
+      "artists": [
+        {
+          "name": "Gutrectomy",
+          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
+        }
+      ],
+      "duration_ms": 78807,
+      "name": "Trapped in Angst",
+      "url": "https://open.spotify.com/track/4kyVaQWQd9880V919n6mQW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "Wounds Never Healed",
         "url": "https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4"
       },
@@ -2311,6 +2327,22 @@
       "duration_ms": 262000,
       "name": "Wounds Never Healed",
       "url": "https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2335,22 +2367,6 @@
       "duration_ms": 266240,
       "name": "MEXICO OSCURO",
       "url": "https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2471,18 +2487,18 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "No Name Graves",
-        "url": "https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7"
+        "name": "Axe Of Kindness",
+        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
       },
       "artists": [
         {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 170956,
-      "name": "Feel My Fangs in You",
-      "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"
+      "duration_ms": 248600,
+      "name": "Axe of Kindness",
+      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2503,18 +2519,18 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Axe Of Kindness",
-        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
+        "name": "No Name Graves",
+        "url": "https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7"
       },
       "artists": [
         {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
         }
       ],
-      "duration_ms": 248600,
-      "name": "Axe of Kindness",
-      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
+      "duration_ms": 170956,
+      "name": "Feel My Fangs in You",
+      "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2547,22 +2563,6 @@
       "duration_ms": 231989,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
-      },
-      "artists": [
-        {
-          "name": "Darko US",
-          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
-        }
-      ],
-      "duration_ms": 244088,
-      "name": "Chrome Moon",
-      "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
     }
   ],
   "unique_name": "Deathcore",

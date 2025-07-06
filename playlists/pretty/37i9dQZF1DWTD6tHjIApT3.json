@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: 7co",
-  "num_followers": 128157,
+  "num_followers": 128176,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "Message",
-        "url": "https://open.spotify.com/album/46CtRn5cgpV5xkTQ7xIb5u"
-      },
-      "artists": [
-        {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/7zcxUs7fDG2YPyYmbVDQlO"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
         "name": "Episode X",
         "url": "https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 202962,
       "name": "Episode X",
       "url": "https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
+        "name": "Message",
+        "url": "https://open.spotify.com/album/46CtRn5cgpV5xkTQ7xIb5u"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/7zcxUs7fDG2YPyYmbVDQlO"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -783,6 +783,38 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
+        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7 - SAKURA KIMI WATASHI",
+        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7 - SAKURA KIMI WATASHI",
+      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "duration_ms": 169208,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
         "name": "Here, Tomorrow",
         "url": "https://open.spotify.com/album/0OGterMTRluPdOfPvCRxWf"
       },
@@ -807,38 +839,6 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
-      },
-      "artists": [
-        {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
-        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7 - SAKURA KIMI WATASHI",
-        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7 - SAKURA KIMI WATASHI",
-      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
         "name": "\u30e8\u30ed\u30e8\u30ed",
         "url": "https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
-        "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
+        "name": "\u65b0\u661f\u76ee\u9332",
+        "url": "https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z"
       },
       "artists": [
         {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
         }
       ],
-      "duration_ms": 248613,
-      "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
-      "url": "https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn"
+      "duration_ms": 169886,
+      "name": "\u30d3\u30fc\u30ca\u30b9\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/3f8zEj3BQlGAVtJtErWLqF"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -891,18 +891,18 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "\u65b0\u661f\u76ee\u9332",
-        "url": "https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z"
+        "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
+        "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
       },
       "artists": [
         {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
         }
       ],
-      "duration_ms": 169886,
-      "name": "\u30d3\u30fc\u30ca\u30b9\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/3f8zEj3BQlGAVtJtErWLqF"
+      "duration_ms": 248613,
+      "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
+      "url": "https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
-        "url": "https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB"
+        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
       },
       "artists": [
         {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 179117,
-      "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
-      "url": "https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H"
+      "duration_ms": 314473,
+      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -1183,34 +1183,18 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
+        "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
+        "url": "https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB"
       },
       "artists": [
         {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 314473,
-      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
-        "name": "EYES ON YOU",
-        "url": "https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 216892,
-      "name": "EYES ON YOU",
-      "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
+      "duration_ms": 179117,
+      "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
+      "url": "https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -1227,6 +1211,22 @@
       "duration_ms": 254280,
       "name": "\u516d\u7b49\u661f",
       "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
+        "name": "EYES ON YOU",
+        "url": "https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 216892,
+      "name": "EYES ON YOU",
+      "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0gbSiA7hYk7tATT0QQylMe"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 146785,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/4XAJ8tB30T2BPqzAMOuxLK"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
         "name": "\u5922\u3058\u3083\u306a\u3044\u306a\u3089\u306a\u3093\u306a\u306e\u3055",
         "url": "https://open.spotify.com/album/49IBsIQFfmpZGDgaxaaNu9"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 186433,
       "name": "\u5922\u3058\u3083\u306a\u3044\u306a\u3089\u306a\u3093\u306a\u306e\u3055",
       "url": "https://open.spotify.com/track/17fJfBzsjOCGCtYPoyO5ke"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0gbSiA7hYk7tATT0QQylMe"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 146785,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4XAJ8tB30T2BPqzAMOuxLK"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
-        "name": "\u304a\u304f\u3059\u308a",
-        "url": "https://open.spotify.com/album/5ECXkzYGgaN9L70Hehi02Q"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "\u304a\u304f\u3059\u308a",
-      "url": "https://open.spotify.com/track/6hx93BC7f14bffbKr82cOq"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4nFGHGYOaZxK3BoYU50xXa"
-      },
-      "artists": [
-        {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 246542,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/2F6nzFUtzy3mUhZlPfbRdb"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
         "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
         "url": "https://open.spotify.com/album/3Zem34Fu282zthdTKWHkCQ"
       },
@@ -1475,6 +1443,38 @@
     {
       "added_at": "2025-07-02 02:52:45",
       "album": {
+        "name": "\u304a\u304f\u3059\u308a",
+        "url": "https://open.spotify.com/album/5ECXkzYGgaN9L70Hehi02Q"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "\u304a\u304f\u3059\u308a",
+      "url": "https://open.spotify.com/track/6hx93BC7f14bffbKr82cOq"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4nFGHGYOaZxK3BoYU50xXa"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 246542,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/2F6nzFUtzy3mUhZlPfbRdb"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
         "name": "SCOPE",
         "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 175022,
       "name": "SCOPE",
       "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
-    },
-    {
-      "added_at": "2025-07-02 02:52:45",
-      "album": {
-        "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
-        "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
-      "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
     },
     {
       "added_at": "2025-07-02 02:52:45",
@@ -1535,6 +1519,22 @@
       "duration_ms": 175786,
       "name": "\u3054\u3081\u3093\u306d",
       "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
+    },
+    {
+      "added_at": "2025-07-02 02:52:45",
+      "album": {
+        "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+        "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+      "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
     },
     {
       "added_at": "2025-07-02 02:52:45",

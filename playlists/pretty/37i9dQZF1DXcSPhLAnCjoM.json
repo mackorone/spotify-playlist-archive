@@ -1,6 +1,6 @@
 {
   "description": "\"Coeur maladroit\" de Marine est le Grand Hit de la semaine.",
-  "num_followers": 1025068,
+  "num_followers": 1025056,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
@@ -184,12 +184,12 @@
       },
       "artists": [
         {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
-        },
-        {
           "name": "Bleu Soleil",
           "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
         }
       ],
       "duration_ms": 246000,

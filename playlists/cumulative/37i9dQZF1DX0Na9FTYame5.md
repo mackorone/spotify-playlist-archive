@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-236 songs - 10 hr 40 min
+237 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Nur die Nacht](https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Nur die Nacht](https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV) | 3:07 | 2025-02-03 |  |
 | [Nur Du](https://open.spotify.com/track/4O8cfDg1j2N0RnHkePORhM) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Nur Du](https://open.spotify.com/album/4oFnxFvcUhYzJCz2pQkvDk) | 2:16 | 2025-05-15 |  |
 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 |  |
-| [Ohne dich](https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ohne dich](https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2) | 2:17 | 2025-04-17 |  |
+| [Ohne dich](https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ohne dich](https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2) | 2:17 | 2025-04-17 | 2025-07-06 |
 | [OMG](https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [OMG](https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM) | 2:41 | 2024-08-12 | 2025-01-21 |
 | [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 | 2025-06-10 |
 | [Panikweiß](https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Panikweiß](https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5) | 2:50 | 2024-06-28 | 2025-02-12 |
@@ -230,6 +230,7 @@
 | [Weisse Orchideen](https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Weisse Orchideen](https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2) | 2:57 | 2024-06-28 |  |
 | [Wellness am Scherbenmeer](https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wellness am Scherbenmeer](https://open.spotify.com/album/27XEKmEg5kok4QosVdsH95) | 3:04 | 2024-06-28 | 2024-07-27 |
 | [Wenn der Himmel weint](https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Wenn der Himmel weint](https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ) | 2:08 | 2025-02-24 |  |
+| [WENN DU MICH SIEHST](https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [WENN DU MICH SIEHST](https://open.spotify.com/album/0t2cctF8dF0vWFLd6HKex2) | 2:39 | 2025-07-03 |  |
 | [Wer liebt dich jetzt ?](https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Wer liebt dich jetzt ?](https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp) | 2:43 | 2025-05-15 |  |
 | [Why Does My Heart Feel So Bad? \(feat\. Moby\)](https://open.spotify.com/track/1SU8huXD15iemDITwALHb3) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Why Does My Heart Feel So Bad? \(feat\. Moby\)](https://open.spotify.com/album/2Ys0R5iCqnva2gZegSJdtw) | 2:51 | 2024-12-16 | 2025-03-25 |
 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-06-28 |  |

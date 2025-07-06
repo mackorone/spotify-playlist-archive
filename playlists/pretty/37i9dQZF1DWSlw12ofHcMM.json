@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1375171,
+  "num_followers": 1375104,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Raise The Roof (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 273954,
-      "name": "High and Lonesome",
-      "url": "https://open.spotify.com/track/4zDNTiMEuHCIzodoJQ2Sie"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "The Major Minor Collective (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
       },
@@ -695,22 +675,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
+        "name": "Raise The Roof (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
       "artists": [
         {
-          "name": "Torus",
-          "url": "https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
         },
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 204121,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
+      "duration_ms": 273954,
+      "name": "High and Lonesome",
+      "url": "https://open.spotify.com/track/4zDNTiMEuHCIzodoJQ2Sie"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -727,6 +707,26 @@
       "duration_ms": 215560,
       "name": "Trouble Finds You",
       "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
+      },
+      "artists": [
+        {
+          "name": "Torus",
+          "url": "https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM"
+        },
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 204121,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
     },
     {
       "added_at": "2024-08-23 15:39:31",

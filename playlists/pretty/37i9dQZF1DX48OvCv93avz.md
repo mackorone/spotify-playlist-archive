@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 
 > Music from "Demon Slayer"\. © 吾峠呼世晴／集英社・アニプレックス・ufotable
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,558 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,055 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 | 9 | [炎](https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/2SUuio93gdAHC9BCZPr7bm) | 4:34 |
 | 10 | [煉獄と猗窩座の戦い](https://open.spotify.com/track/19XwEQeVwyeXrNsaETN0bx) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:19 |
 | 11 | [霹靂一閃 六連～鬼殺隊として](https://open.spotify.com/track/2cjjbCTYCRbkyiHtU8u2T8) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 2:06 |
-| 12 | [竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/track/368lNWCxahPu7knjKiFiPT) | [アニメ『鬼滅の刃』](https://open.spotify.com/artist/676pVWYrnO5W0OswIifHH3) | [アニメ『鬼滅の刃』竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/album/3K4xydXnttfKb9IVRh1upw) | 0:25 |
+| 12 | [竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/track/368lNWCxahPu7knjKiFiPT) | [鬼滅の刃](https://open.spotify.com/artist/7BBuPCKtEkrrjtUVVuKlOY) | [『鬼滅の刃』竈門炭治郎からのスペシャルメッセージ！](https://open.spotify.com/album/3K4xydXnttfKb9IVRh1upw) | 0:25 |
 | 13 | [甘露寺対憎珀天](https://open.spotify.com/track/1I621rkd45JUzPqr0lCbtm) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 1:38 |
 | 14 | [妓夫太郎の猛攻～譜面の完成](https://open.spotify.com/track/0POXT5xS0X7GzhfrRtGZT0) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 2:15 |
 | 15 | [鬼殺隊 \-OST ver.\-](https://open.spotify.com/track/7fJebzUToymhjQ4P6E6bo0) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/7wN7HLAWdOTtPBGUHxP3tv) | 3:24 |

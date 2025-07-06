@@ -4,7 +4,7 @@
 
 > 100% indie floorfillers.
 
-644 songs - 1 day 16 hr 14 min
+645 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 | 2022-11-27 |  |
 | [Cinematic Youth](https://open.spotify.com/track/34mZZrTTdBG3AiMmhGPWpH) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Cinematic Youth](https://open.spotify.com/album/2wBpM9PabheEQVUFWgh6Zo) | 3:38 | 2023-07-21 | 2024-12-20 |
 | [Class Historian](https://open.spotify.com/track/73i6MgP5CKhhnZ69Go6u2X) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Just Enough Hip to Be Woman](https://open.spotify.com/album/1YZo1LnGe8GoT0mCbQ5R8J) | 3:32 | 2023-07-21 | 2024-11-08 |
-| [Clearest Blue](https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX) | 3:53 | 2024-12-30 |  |
+| [Clearest Blue](https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX) | 3:53 | 2024-12-30 | 2025-07-06 |
 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 | 2022-11-27 |  |
 | [Cocoa Beach](https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage to Mars](https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP) | 3:58 | 2023-07-21 | 2024-12-03 |
 | [Cold Reactor](https://open.spotify.com/track/0WprcCQhZuJBU2KR1h8tRh) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Mountainhead](https://open.spotify.com/album/1s3ypfinSBGQl36cJSRjOv) | 3:51 | 2024-12-20 |  |
@@ -574,6 +574,7 @@
 | [To Lose My Life](https://open.spotify.com/track/2Z3TDzs6Jf7oCahXUkWapq) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/2NpF4D6d4jkCGE2Zp4JIcr) | 3:11 | 2024-12-20 | 2024-12-31 |
 | [To Lose My Life](https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 3:11 | 2022-11-27 | 2023-05-13 |
 | [Toi Et Moi](https://open.spotify.com/track/3AVyKOmMgvRjsC576xWw78) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Recto Verso](https://open.spotify.com/album/4DtD9M009rhD0Q9QtBZvUP) | 3:40 | 2022-11-27 | 2024-12-20 |
+| [Tokyo](https://open.spotify.com/track/57PuRFQ41OhhWAFxLh7zXz) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [FIVE V2](https://open.spotify.com/album/2O7YDHrrrnef6wU4efch5v) | 4:52 | 2024-12-30 |  |
 | [Tokyo \(Vampires & Wolves\)](https://open.spotify.com/track/0dt2bECwIUEzWppQLeUqG6) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [The Wombats Proudly Present..\. This Modern Glitch \(10th Anniversary Edition\)](https://open.spotify.com/album/5ZXnAXE8WtRP4LvFUQHIu6) | 3:45 | 2022-11-27 | 2024-04-19 |
 | [Tokyo \(Vampires & Wolves\)](https://open.spotify.com/track/5o2UsVpnpQcDDRcuEPzGIm) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [The Wombats Proudly Present..\. This Modern Glitch](https://open.spotify.com/album/1hKNgyPKnkCjWtH5GtusTq) | 3:45 | 2023-07-21 | 2024-12-20 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-11-27 |  |

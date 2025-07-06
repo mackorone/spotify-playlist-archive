@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 179203,
       "name": "Anna armoo",
       "url": "https://open.spotify.com/track/639MLWuV3iPulpKiOmkabk"
@@ -7140,7 +7140,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 151500,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy"
@@ -8449,6 +8449,32 @@
     },
     {
       "album": {
+        "name": "Ei taas",
+        "url": "https://open.spotify.com/album/36xwZG98W4hhxdR9BwuE8S"
+      },
+      "artists": [
+        {
+          "name": "remynotagain",
+          "url": "https://open.spotify.com/artist/0EJmMsog45db72sHJI4Ga4"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187448,
+      "name": "Ei taas",
+      "url": "https://open.spotify.com/track/4SNRIDk1FcJKeCo3OfFDJh"
+    },
+    {
+      "album": {
         "name": "Ei vaikene rakkaus (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
         "url": "https://open.spotify.com/album/5nnWIHaAHIAdkaZeWHSS2G"
       },
@@ -9629,6 +9655,28 @@
     },
     {
       "album": {
+        "name": "Ep\u00e4reilu maailma",
+        "url": "https://open.spotify.com/album/1X5AFKgpaJdTWMjAEd7O7e"
+      },
+      "artists": [
+        {
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+        },
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205354,
+      "name": "Ep\u00e4reilu maailma",
+      "url": "https://open.spotify.com/track/3bjBf94QpKfOnXjc6a1tZx"
+    },
+    {
+      "album": {
         "name": "EK2",
         "url": "https://open.spotify.com/album/6vKEXHMM0rHkasYJUt4nos"
       },
@@ -9850,7 +9898,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -9868,7 +9916,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -12562,7 +12610,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 171747,
       "name": "Haaveissa Vainko Oot Mun",
       "url": "https://open.spotify.com/track/4GKP3ZIE6dBeZzhaPI6jGy"
@@ -16074,6 +16122,24 @@
       "duration_ms": 234093,
       "name": "Ikuinen elokuu",
       "url": "https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY"
+    },
+    {
+      "album": {
+        "name": "Ikuinen el\u00e4m\u00e4",
+        "url": "https://open.spotify.com/album/5jdIM4SbXAwbJIZnV1SQHA"
+      },
+      "artists": [
+        {
+          "name": "Keko Salata",
+          "url": "https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Ikuinen el\u00e4m\u00e4",
+      "url": "https://open.spotify.com/track/2GaMylDgbCiHCKoEsXgQqp"
     },
     {
       "album": {
@@ -19740,6 +19806,28 @@
       "duration_ms": 156290,
       "name": "Kello k\u00e4y",
       "url": "https://open.spotify.com/track/3ygDDuygFzGu4ncIqpOaBM"
+    },
+    {
+      "album": {
+        "name": "Kellon suuntaa (feat. JVG)",
+        "url": "https://open.spotify.com/album/5TB2VuFmGALE6GXp3L7vmS"
+      },
+      "artists": [
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168798,
+      "name": "Kellon suuntaa (feat. JVG)",
+      "url": "https://open.spotify.com/track/0kK2tWDGg7XFnPKV4YZSIO"
     },
     {
       "album": {
@@ -29157,6 +29245,24 @@
     },
     {
       "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/37pxUdSwqMJt2ZdeTmk0T0"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144461,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T"
+    },
+    {
+      "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
@@ -29942,7 +30048,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 185605,
       "name": "MVP (feat. ibe & Elastinen)",
       "url": "https://open.spotify.com/track/0sEyktdaOL7Oe3Hstucmgc"
@@ -32247,6 +32353,28 @@
     },
     {
       "album": {
+        "name": "Olla ku m\u00e4 (feat. Sara Bee)",
+        "url": "https://open.spotify.com/album/7DS822E6LEyHdPIeyj2Ens"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162324,
+      "name": "Olla ku m\u00e4 (feat. Sara Bee)",
+      "url": "https://open.spotify.com/track/57pzlmYbXGWawWwNkFKavK"
+    },
+    {
+      "album": {
         "name": "Ikuiset lapset",
         "url": "https://open.spotify.com/album/06d2wF12THMtOee4tagK7K"
       },
@@ -32860,7 +32988,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -42189,6 +42317,24 @@
     },
     {
       "album": {
+        "name": "Sun tytt\u00f6",
+        "url": "https://open.spotify.com/album/3sn0vIRq13oKCgdz6WaPJ9"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230048,
+      "name": "Sun tytt\u00f6",
+      "url": "https://open.spotify.com/track/2jdzwygTOKriMLTilBhhcB"
+    },
+    {
+      "album": {
         "name": "Sunkaa aina",
         "url": "https://open.spotify.com/album/6VpCRM4PkQ6p3p2AJKUPlN"
       },
@@ -42488,7 +42634,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 181931,
       "name": "Supermalli",
       "url": "https://open.spotify.com/track/0aLV2IaAn79c588GyX2udS"
@@ -43624,7 +43770,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 154728,
       "name": "T-paita (feat. Bizi)",
       "url": "https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG"
@@ -47336,6 +47482,24 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "Unelmav\u00e4vy",
+        "url": "https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2025-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153918,
+      "name": "Unelmav\u00e4vy",
+      "url": "https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm"
     },
     {
       "album": {
@@ -51782,7 +51946,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-06",
       "duration_ms": 169237,
       "name": "Ylibuukattu",
       "url": "https://open.spotify.com/track/2EWr723Hah4EUGjPU5kDXf"

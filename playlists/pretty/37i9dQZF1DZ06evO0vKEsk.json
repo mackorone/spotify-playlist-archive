@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133111,
+  "num_followers": 133117,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGXIAAAAAAD4f9PSc1fEE8qWRNwAyNKr",
+  "snapshot_id": "aGcZgAAAAADQPlnntP68CoI1QrQ/c6z6",
   "tracks": [
     {
       "added_at": null,
@@ -547,30 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aba Pai",
-        "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Nova Jerusal\u00e9m",
-          "url": "https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 483485,
-      "name": "Tua Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alegria Real",
         "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
@@ -583,6 +559,22 @@
       "duration_ms": 308964,
       "name": "Deus Tremendo",
       "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,
@@ -619,18 +611,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+        "name": "Aba Pai",
+        "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
       },
       "artists": [
+        {
+          "name": "Minist\u00e9rio Nova Jerusal\u00e9m",
+          "url": "https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+      "duration_ms": 483485,
+      "name": "Tua Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
-        "url": "https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 268887,
-      "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
-      "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 244680,
       "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
+        "url": "https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 268887,
+      "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
+      "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
     },
     {
       "added_at": null,
