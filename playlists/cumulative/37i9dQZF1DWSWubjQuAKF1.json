@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Ciarki",
+        "url": "https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232409,
+      "name": "Ciarki",
+      "url": "https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk"
+    },
+    {
+      "album": {
         "name": "ciut za bardzo",
         "url": "https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG"
       },
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 157660,
       "name": "Fa\u0142szywy Alarm",
       "url": "https://open.spotify.com/track/3LD6yLhUAuuL5blEvO3CAz"

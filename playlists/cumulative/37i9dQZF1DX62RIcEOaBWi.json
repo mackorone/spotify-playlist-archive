@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "BAI-LALA",
+        "url": "https://open.spotify.com/album/72iBprQcMjpvvC7op8Zk68"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "BAI-LALA",
+      "url": "https://open.spotify.com/track/2uaKfM2eY5AsomhPWMh7lP"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 202129,
       "name": "Desde cero (con Melendi)",
       "url": "https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9"

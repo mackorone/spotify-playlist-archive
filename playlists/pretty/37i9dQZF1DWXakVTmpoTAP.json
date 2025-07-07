@@ -1,6 +1,6 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 21001,
+  "num_followers": 21006,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "I'm Her Daddy",
+      "url": "https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
         "name": "The Essential Paul Simon",
         "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 198026,
-      "name": "I'm Her Daddy",
-      "url": "https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej"
+      "duration_ms": 298333,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2"
     },
     {
       "added_at": "2025-06-13 17:51:35",
@@ -491,22 +507,6 @@
       "duration_ms": 179500,
       "name": "Eighteen",
       "url": "https://open.spotify.com/track/1JLeJoguGKO9HKxEIDzABJ"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2"
     },
     {
       "added_at": "2024-06-16 15:20:38",

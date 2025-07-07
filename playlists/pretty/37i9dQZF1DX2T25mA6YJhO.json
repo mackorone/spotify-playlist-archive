@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Las Petunias.",
-  "num_followers": 28347,
+  "num_followers": 28364,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,22 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "Alcal\u00e1 Norte",
-        "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
+        "name": "Perd\u00ed los Galeones",
+        "url": "https://open.spotify.com/album/7miU2Pq1UdOCofZdftORYV"
       },
       "artists": [
         {
-          "name": "Alcal\u00e1 Norte",
-          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        },
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
         }
       ],
-      "duration_ms": 208018,
-      "name": "Los Chavales",
-      "url": "https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO"
+      "duration_ms": 167120,
+      "name": "Perd\u00ed los Galeones",
+      "url": "https://open.spotify.com/track/2ZNQgbErHYNYUvMKyDAWyS"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -519,6 +523,22 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
+        "name": "Alcal\u00e1 Norte",
+        "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "duration_ms": 208018,
+      "name": "Los Chavales",
+      "url": "https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
         "name": "D\u00edas de Mierda",
         "url": "https://open.spotify.com/album/3jIgaXquTKKxqakXLhubAO"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 181508,
       "name": "D\u00edas de Mierda",
       "url": "https://open.spotify.com/track/2Stwhp9r7OnAQeNOx5Hfej"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
-        "name": "Perd\u00ed los Galeones",
-        "url": "https://open.spotify.com/album/7miU2Pq1UdOCofZdftORYV"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        },
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Perd\u00ed los Galeones",
-      "url": "https://open.spotify.com/track/2ZNQgbErHYNYUvMKyDAWyS"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -619,38 +619,6 @@
       "duration_ms": 165838,
       "name": "Joderse La Vida",
       "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
-        "name": "Flores a la Guerra",
-        "url": "https://open.spotify.com/album/2gaEAA8H24C9yst7jH3KiO"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 232143,
-      "name": "Flores a la Guerra",
-      "url": "https://open.spotify.com/track/1egWhb5waRWLWKegCYnpMY"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
-        "name": "S\u00e9 Lo Que Quiero",
-        "url": "https://open.spotify.com/album/7pWL1LAJaW1TZnH2VJFvMD"
-      },
-      "artists": [
-        {
-          "name": "La Paloma",
-          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
-        }
-      ],
-      "duration_ms": 155403,
-      "name": "S\u00e9 Lo Que Quiero",
-      "url": "https://open.spotify.com/track/0hjmqetCUhd1EQBnVEulLI"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -751,6 +719,38 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
+        "name": "Flores a la Guerra",
+        "url": "https://open.spotify.com/album/2gaEAA8H24C9yst7jH3KiO"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 232143,
+      "name": "Flores a la Guerra",
+      "url": "https://open.spotify.com/track/1egWhb5waRWLWKegCYnpMY"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "S\u00e9 Lo Que Quiero",
+        "url": "https://open.spotify.com/album/7pWL1LAJaW1TZnH2VJFvMD"
+      },
+      "artists": [
+        {
+          "name": "La Paloma",
+          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
+        }
+      ],
+      "duration_ms": 155403,
+      "name": "S\u00e9 Lo Que Quiero",
+      "url": "https://open.spotify.com/track/0hjmqetCUhd1EQBnVEulLI"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
         "name": "Ya no me duele mal",
         "url": "https://open.spotify.com/album/2cPrx0zF9cy34OWngW5Mqf"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 230011,
       "name": "Hacernos viejos",
       "url": "https://open.spotify.com/track/16bipYCYbPVVMzoVGkN5HU"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
-        "name": "Ma\u00f1ana No Existe",
-        "url": "https://open.spotify.com/album/305845acU1v7ITS0sLiP2g"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 182568,
-      "name": "Ma\u00f1ana No Existe",
-      "url": "https://open.spotify.com/track/777fBnjDxkxeQCM9pOkTBd"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -903,6 +887,22 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
+        "name": "Ma\u00f1ana No Existe",
+        "url": "https://open.spotify.com/album/305845acU1v7ITS0sLiP2g"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 182568,
+      "name": "Ma\u00f1ana No Existe",
+      "url": "https://open.spotify.com/track/777fBnjDxkxeQCM9pOkTBd"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
         "name": "Patrick",
         "url": "https://open.spotify.com/album/22V7fTKasT2FHivfo7QSIB"
       },
@@ -939,34 +939,22 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "Pogo",
-        "url": "https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN"
+        "name": "Qu\u00e9 hay de ti? con Cora Yako",
+        "url": "https://open.spotify.com/album/7oM21zceAHpG7pWF8ma13q"
       },
       "artists": [
         {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 184112,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
-        "name": "Un poco de cari\u00f1o",
-        "url": "https://open.spotify.com/album/1mZ5r1KWBFdIxABNoOh9aD"
-      },
-      "artists": [
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        },
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Cora Yako",
+          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
         }
       ],
-      "duration_ms": 200999,
-      "name": "Un poco de cari\u00f1o",
-      "url": "https://open.spotify.com/track/60RGc6MtwwTYMNp6A3CS2D"
+      "duration_ms": 184172,
+      "name": "Qu\u00e9 hay de ti? con Cora Yako",
+      "url": "https://open.spotify.com/track/6FvEi1KYQx1woTCaYcw4Om"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -987,6 +975,38 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
+        "name": "Un poco de cari\u00f1o",
+        "url": "https://open.spotify.com/album/1mZ5r1KWBFdIxABNoOh9aD"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 200999,
+      "name": "Un poco de cari\u00f1o",
+      "url": "https://open.spotify.com/track/60RGc6MtwwTYMNp6A3CS2D"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "Pogo",
+        "url": "https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 184112,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
         "name": "Me cago en el amor",
         "url": "https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 188842,
       "name": "Me cago en el amor",
       "url": "https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
-        "name": "Qu\u00e9 hay de ti? con Cora Yako",
-        "url": "https://open.spotify.com/album/7oM21zceAHpG7pWF8ma13q"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        },
-        {
-          "name": "Cora Yako",
-          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
-        }
-      ],
-      "duration_ms": 184172,
-      "name": "Qu\u00e9 hay de ti? con Cora Yako",
-      "url": "https://open.spotify.com/track/6FvEi1KYQx1woTCaYcw4Om"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
+        "name": "Los Managers",
+        "url": "https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 223621,
+      "name": "Los Managers",
+      "url": "https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
         "name": "Tron",
         "url": "https://open.spotify.com/album/19YLMUuKRMIbgPl5VkyMm2"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "Los Managers",
-        "url": "https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 223621,
-      "name": "Los Managers",
-      "url": "https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
         "name": "MIS AMIGAS TE ODIAN",
         "url": "https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "De aqu\u00ed a un mes",
-        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
-      },
-      "artists": [
-        {
-          "name": "Error 97",
-          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
-        }
-      ],
-      "duration_ms": 141023,
-      "name": "De aqu\u00ed a un mes",
-      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 147529,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "De aqu\u00ed a un mes",
+        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
+      },
+      "artists": [
+        {
+          "name": "Error 97",
+          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
+        }
+      ],
+      "duration_ms": 141023,
+      "name": "De aqu\u00ed a un mes",
+      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "La Bruja",
-        "url": "https://open.spotify.com/album/0ABG3FedrS2GGGPWspOjPg"
-      },
-      "artists": [
-        {
-          "name": "Nudozurdo",
-          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4oPJd7R1qoxT0C1cs7ZTZK"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
         "name": "Nuevos Vicios",
         "url": "https://open.spotify.com/album/7rnomERGT6cv20ShngwwjR"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 293982,
       "name": "Gravedad Zero",
       "url": "https://open.spotify.com/track/2wV9vXj68Fq1QsKjyKDrXs"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "La Bruja",
+        "url": "https://open.spotify.com/album/0ABG3FedrS2GGGPWspOjPg"
+      },
+      "artists": [
+        {
+          "name": "Nudozurdo",
+          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4oPJd7R1qoxT0C1cs7ZTZK"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
-    },
-    {
-      "added_at": "2025-07-03 22:00:29",
-      "album": {
         "name": "Eres Un Regalo",
         "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 178118,
       "name": "Ese no era yo",
       "url": "https://open.spotify.com/track/7bwxRbbKoJz17AYmprNFzc"
+    },
+    {
+      "added_at": "2025-07-03 22:00:29",
+      "album": {
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2025-07-03 22:00:29",
@@ -1607,18 +1607,22 @@
     {
       "added_at": "2025-07-03 22:00:29",
       "album": {
-        "name": "El sue\u00f1o de Dios",
-        "url": "https://open.spotify.com/album/56bHXsaNf0RgFtnB3bDd7d"
+        "name": "Himno de las flores",
+        "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
       },
       "artists": [
         {
           "name": "Vicente Calder\u00f3n",
           "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        },
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
         }
       ],
-      "duration_ms": 199700,
-      "name": "El sue\u00f1o de Dios",
-      "url": "https://open.spotify.com/track/13jUfFSW21PY88QfBLdxuc"
+      "duration_ms": 228995,
+      "name": "Himno de las flores",
+      "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
     },
     {
       "added_at": "2025-07-03 22:00:29",

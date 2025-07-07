@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,168 likes - 60 songs - 2 hr 45 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,165 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 40 | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/0KNn2UfxqGqm04GBfJdNiF) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/1B1fjQjc90urSVmpVkeGtQ) | 2:36 |
 | 41 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
 | 42 | [SHOWDOWN](https://open.spotify.com/track/2vOEUa63nnMOtpejCBTmJy) | [Civ](https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT) | [SHOWDOWN](https://open.spotify.com/album/0uwOueAQo5ubxvYkqTAIvd) | 2:22 |
-| 43 | [trip](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [trip](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
+| 43 | [trip \(feat\. Jaasu\)](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [Jaasu](https://open.spotify.com/artist/3JKWVk2gRDw1YLWw9z0EEO) | [trip](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
 | 44 | [Going Ghost](https://open.spotify.com/track/4wgR82L889SQURRNs9fQOB) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Going Ghost](https://open.spotify.com/album/7pHoF370JYMvRyRf1LTHm1) | 3:30 |
 | 45 | [IF](https://open.spotify.com/track/0hI3mK4VgcsjmtYrGIM5y5) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [IF](https://open.spotify.com/album/2oPWmrwa9UU0jasSyc9hap) | 3:04 |
 | 46 | [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 |

@@ -4,7 +4,7 @@
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-64 songs - 4 hr 19 min
+65 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Sunflowers](https://open.spotify.com/track/4tIlwEbabXRCWQn8wWejyc) | [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5) | [A3! SUNNY SUMMER EP](https://open.spotify.com/album/4zBbv6frA49tPQkuw7D2fV) | 4:03 | 2024-07-10 | 2024-08-23 |
 | [Thawing](https://open.spotify.com/track/1y9OHb03KYcWBll2iAKNC5) | [冬組](https://open.spotify.com/artist/22TokuezpjqIqb51lUUjah) | [ZERO LIMIT/Thawing](https://open.spotify.com/album/1Kq3KIRdvhxMW6cXmtPO47) | 4:30 | 2024-07-10 |  |
 | [The Contract](https://open.spotify.com/track/5IcQkN0mvtQSl8Txoky4WI) | [ルキフェル&マルク](https://open.spotify.com/artist/4uH0qemDJMBCm8XBC0h5fq), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt), [七尾太一\(CV:濱健人\)](https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 3:40 | 2024-07-10 |  |
+| [The Pride Of The Knights](https://open.spotify.com/track/6sOEAU7CXh3UkTrh8T6xx4) | [ランスロット\[茅ヶ崎至\(CV:浅沼晋太郎\)\]](https://open.spotify.com/artist/0geAtmre359jUVwss0ULdT), [ガウェイン\[卯木千景\(CV:羽多野渉\)\]](https://open.spotify.com/artist/0ZfTMW0bcID5P59q9uGXvX) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 5:45 | 2025-04-22 |  |
 | [Third Impact](https://open.spotify.com/track/2u0jlZh5L0FCEDXK7CaHHb) | [秋組](https://open.spotify.com/artist/3PbIyfeqZWJx0GNsU9wrgX) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 4:00 | 2025-04-22 |  |
 | [Ticket](https://open.spotify.com/track/1Yfm2ZNCEXlscOapvW7dvq) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [A3! ACT4! \-Spring\-](https://open.spotify.com/album/4QHVUfCjUPWB0KmylHDreo) | 3:58 | 2024-07-10 | 2025-04-23 |
 | [Ticket](https://open.spotify.com/track/4JKyqlViFlkDyQ95Br8EGM) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:58 | 2025-04-22 |  |
@@ -56,7 +57,7 @@
 | [ゲキ夏☆Go My Way!](https://open.spotify.com/track/3Au4alj3n6RDNMrKCWXTik) | [夏組](https://open.spotify.com/artist/7wLIjyiaTCF6Cl72GzZuKk) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:51 | 2025-04-22 |  |
 | [スーパーウルトライージーモード](https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m) | [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:58 | 2024-07-10 | 2025-06-04 |
 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 | 2024-07-10 |  |
-| [ナハトムジクと白月](https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 4:31 | 2024-07-10 |  |
+| [ナハトムジクと白月](https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 4:31 | 2024-07-10 | 2025-07-07 |
 | [ペテン師の憂鬱](https://open.spotify.com/track/7a7EQgcJT9sJkRuKgQXDXf) | [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:07 | 2024-07-10 |  |
 | [モノローグ](https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV) | [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 5:17 | 2024-08-27 |  |
 | [ロードトゥ饅頭マスター!](https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH) | [チャン\[七尾太一\(CV:濱健人\)\]](https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI), [ユン\[泉田莇\(CV:小西成弥\)\]](https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:01 | 2024-07-10 |  |

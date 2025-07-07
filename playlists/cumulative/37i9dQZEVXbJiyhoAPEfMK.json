@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "19 Uhr",
+        "url": "https://open.spotify.com/album/2ZBfYWLip5x04HhYr8nrA9"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Ghetto Geasy",
+          "url": "https://open.spotify.com/artist/2oemnVL2uc5GiNj9NNH4pz"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150986,
+      "name": "19 Uhr",
+      "url": "https://open.spotify.com/track/7tRbwyHX0TzlQhVJzgK1xL"
+    },
+    {
+      "album": {
         "name": "1976",
         "url": "https://open.spotify.com/album/6Zi3ddIocKjhG7Kef8YIAY"
       },
@@ -5456,7 +5478,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
@@ -11526,7 +11548,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 173520,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB"
@@ -12630,7 +12652,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 155113,
       "name": "CLS",
       "url": "https://open.spotify.com/track/5j3HKajYBpwZXJjbR4Abn6"
@@ -18592,7 +18614,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -32276,7 +32298,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 110400,
       "name": "Lema",
       "url": "https://open.spotify.com/track/0GDixaMNTgTVFF0o3vqJbq"
@@ -39674,7 +39696,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
@@ -47966,7 +47988,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -48100,7 +48122,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -48118,7 +48140,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -52844,7 +52866,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 143141,
       "name": "Sport & Di\u00e4t",
       "url": "https://open.spotify.com/track/2fRGQe9e03laEhkfN9Dj2l"
@@ -58626,7 +58648,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 219733,
       "name": "Tutto Bene",
       "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"

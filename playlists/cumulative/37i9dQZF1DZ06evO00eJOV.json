@@ -341,6 +341,32 @@
     },
     {
       "album": {
+        "name": "Maturo",
+        "url": "https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H"
+      },
+      "artists": [
+        {
+          "name": "Andy Keys",
+          "url": "https://open.spotify.com/artist/5DrHquZcRH9wEDNPCXmCt7"
+        },
+        {
+          "name": "KingTouch",
+          "url": "https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416288,
+      "name": "Indabi' Straight - Club Mix",
+      "url": "https://open.spotify.com/track/0jZjdVT0caV7BKX8290DdA"
+    },
+    {
+      "album": {
         "name": "Greatest Hits 1964-2004",
         "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
@@ -392,7 +418,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 285160,
       "name": "Kellela Moya",
       "url": "https://open.spotify.com/track/3lOFXc1T0MxWWCjtjtkiaG"

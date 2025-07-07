@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 17 hr 55 min
+175 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [love is in the air](https://open.spotify.com/track/6o8x1CRoW3vTVFjaMMtA2N) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 4:06 | 2024-06-11 | 2024-07-13 |
 | [Love Made Me](https://open.spotify.com/track/1NJkQ6638sTlgS6drDS1YW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:14 | 2024-06-11 |  |
 | [Make It Right \(feat\. Dante Bowe, Todd Dulaney, Jekalyn Carr & Mav City Gospel Choir\)](https://open.spotify.com/track/2hKrNvjSpqiOs7QhcNmJZI) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 8:42 | 2024-06-11 |  |
-| [Make Yourself at Home](https://open.spotify.com/track/6hqztSytdfNun2qhpK2B2X) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje) | [Make Yourself at Home](https://open.spotify.com/album/6enPmyaAZOYjCNYfg7Pull) | 9:10 | 2024-06-11 |  |
+| [Make Yourself at Home](https://open.spotify.com/track/6hqztSytdfNun2qhpK2B2X) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje) | [Make Yourself at Home](https://open.spotify.com/album/6enPmyaAZOYjCNYfg7Pull) | 9:10 | 2024-06-11 | 2025-07-07 |
+| [Make Yourself At Home \- Live](https://open.spotify.com/track/0SVfUqbRiALorkKC31FjOQ) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Make Yourself At Home \(Live\)](https://open.spotify.com/album/09HD7twYmait1nRQ4QwOBq) | 9:10 | 2025-07-06 |  |
 | [Mary’s Song \- Live](https://open.spotify.com/track/7DzqNeU96i94uSQ46hSnFk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:33 | 2024-06-11 |  |
 | [Mercy \(feat\. Chris Brown\)](https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 8:35 | 2024-06-11 |  |
 | [Mercy / Tremble](https://open.spotify.com/track/1Ul65pE6ynBJMowHg4YEAe) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:42 | 2024-06-11 |  |

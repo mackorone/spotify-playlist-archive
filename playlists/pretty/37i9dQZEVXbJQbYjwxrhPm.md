@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [AMG Isteria](https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Silver](https://open.spotify.com/artist/2xZOjY3LYFt8mfHuBUOBwF) | [AMG Isteria](https://open.spotify.com/album/4ebshulAd9ZBuGeTaqk3ZL) | 4:00 |
 | 50 | [Кокона](https://open.spotify.com/track/7qr5mzv5mvJjgeNorhxcEm) | [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Кокона](https://open.spotify.com/album/2IBQQsxgEwv8XB6TzkXCvg) | 3:12 |
 
-Snapshot ID: `L/ycKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/3rUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

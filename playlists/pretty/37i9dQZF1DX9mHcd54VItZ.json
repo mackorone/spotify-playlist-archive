@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Die Heuwels Fantasties",
-  "num_followers": 23814,
+  "num_followers": 23822,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-06-27 04:46:38",
       "album": {
-        "name": "Mint",
-        "url": "https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6"
-      },
-      "artists": [
-        {
-          "name": "Drumfish",
-          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
-        }
-      ],
-      "duration_ms": 257157,
-      "name": "Mint",
-      "url": "https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi"
-    },
-    {
-      "added_at": "2025-06-27 04:46:38",
-      "album": {
         "name": "By Jou",
         "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 200625,
       "name": "By Jou",
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
+    },
+    {
+      "added_at": "2025-06-27 04:46:38",
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6"
+      },
+      "artists": [
+        {
+          "name": "Drumfish",
+          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
+        }
+      ],
+      "duration_ms": 257157,
+      "name": "Mint",
+      "url": "https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi"
     },
     {
       "added_at": "2025-07-03 22:00:45",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-06-27 04:46:38",
       "album": {
+        "name": "Victor Ludorum",
+        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 189895,
+      "name": "Victor Ludorum",
+      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
+    },
+    {
+      "added_at": "2025-06-27 04:46:38",
+      "album": {
         "name": "Black Book",
         "url": "https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg"
       },
@@ -759,34 +775,18 @@
     {
       "added_at": "2025-06-27 04:46:38",
       "album": {
-        "name": "Fantasy Factory",
-        "url": "https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce"
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
       "artists": [
         {
-          "name": "The Tazers",
-          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 172813,
-      "name": "Fantasy Factory",
-      "url": "https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6"
-    },
-    {
-      "added_at": "2025-06-27 04:46:38",
-      "album": {
-        "name": "Victor Ludorum",
-        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 189895,
-      "name": "Victor Ludorum",
-      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2025-06-27 04:46:38",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-06-27 04:46:38",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+        "name": "Fantasy Factory",
+        "url": "https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce"
       },
       "artists": [
         {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+      "duration_ms": 172813,
+      "name": "Fantasy Factory",
+      "url": "https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6"
     },
     {
       "added_at": "2025-06-27 04:46:38",

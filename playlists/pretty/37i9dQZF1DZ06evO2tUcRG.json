@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 268532,
+  "num_followers": 268534,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZgAAAAACi3Ptw9E9UrDFcD591s8iA",
+  "snapshot_id": "aGhrAAAAAABqS31i7ujQzsnMLcIlDFwa",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fernandinho Em Casa (ao Vivo)",
-        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 367380,
-      "name": "Me Leva - Ao Vivo",
-      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fernandinho Em Casa (ao Vivo)",
+        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 367380,
+      "name": "Me Leva - Ao Vivo",
+      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
     },
     {
       "added_at": null,

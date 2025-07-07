@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,172 songs - 4 day 20 hr 21 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,173 songs - 4 day 20 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2180,5 +2180,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2170 | [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 |
 | 2171 | [Megatone Saxon \(Manchester Massive\)](https://open.spotify.com/track/7DFHG0gyFX5mq6e3hUXKOF) | [Mattik](https://open.spotify.com/artist/776NwCgoVkuhQziHlYoDqb) | [Bubble](https://open.spotify.com/album/246bHEdhkEeKGupdPxNxpP) | 4:49 |
 | 2172 | [Deep Lake](https://open.spotify.com/track/4yKQnfdhb8m5vwcTo2WuE8) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 3:08 |
+| 2173 | [Wifey Riddim \- George Daniel Remix](https://open.spotify.com/track/6aG0JW87HgZcYF7XZDBb6w) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Room 2 RMX](https://open.spotify.com/album/1GwsBdB1RtOwYtE5rbrEkg) | 2:48 |
 
-Snapshot ID: `AAAEYegShJud2BQO0UOT3o6chXQX2PsX`
+Snapshot ID: `AAAEYhG5EsycZYLF5uLO8884BzcfByjZ`

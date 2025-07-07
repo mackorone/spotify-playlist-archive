@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc815\uc6a9\ud654) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 244519,
+  "num_followers": 244485,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 307750,
-      "name": "love.",
-      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
-    },
-    {
-      "added_at": "2025-07-03 09:39:52",
-      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 307750,
+      "name": "love.",
+      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
+    },
+    {
+      "added_at": "2025-07-03 09:39:52",
+      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 158680,
       "name": "To Reach You",
       "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
+    },
+    {
+      "added_at": "2025-07-03 09:39:52",
+      "album": {
+        "name": "1st Mini Album 'MANITO'",
+        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "T.B.H",
+      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
       "added_at": "2025-07-03 09:39:52",
@@ -479,38 +495,6 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
-    },
-    {
-      "added_at": "2025-07-03 09:39:52",
-      "album": {
-        "name": "1st Mini Album 'MANITO'",
-        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "T.B.H",
-      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
-    },
-    {
-      "added_at": "2025-07-03 09:39:52",
-      "album": {
         "name": "Really Like You",
         "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 178133,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
+    },
+    {
+      "added_at": "2025-07-03 09:39:52",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
     },
     {
       "added_at": "2025-07-03 09:39:52",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
-    },
-    {
-      "added_at": "2025-07-03 09:39:52",
-      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
       },
       "artists": [
         {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 241692,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
     },
     {
       "added_at": "2025-07-03 09:39:52",
@@ -675,6 +659,22 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
+        "name": "ASTERUM : 134-1",
+        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "WAY 4 LUV",
+      "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+    },
+    {
+      "added_at": "2025-07-03 09:39:52",
+      "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
-        "name": "ASTERUM : 134-1",
-        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 219453,
-      "name": "WAY 4 LUV",
-      "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+      "duration_ms": 241692,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
     },
     {
       "added_at": "2025-07-03 09:39:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
-        "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "D-DAY",
-      "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
-    },
-    {
-      "added_at": "2025-07-03 09:39:52",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
       },
@@ -791,22 +775,6 @@
     {
       "added_at": "2025-07-03 09:39:52",
       "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 217067,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
-    },
-    {
-      "added_at": "2025-07-03 09:39:52",
-      "album": {
         "name": "Pump Up The Volume!",
         "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 179386,
       "name": "Pump Up The Volume!",
       "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
+    },
+    {
+      "added_at": "2025-07-03 09:39:52",
+      "album": {
+        "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "D-DAY",
+      "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
+    },
+    {
+      "added_at": "2025-07-03 09:39:52",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Kaestrings
 
-551 songs - 2 day 3 hr 25 min
+552 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Prayer](https://open.spotify.com/track/6kESTNY3rhbE5yDFQJ0kEh) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Prayer](https://open.spotify.com/album/6RsJ8zdUYTTUZ2OVavjxpb) | 2:26 | 2025-06-13 | 2025-07-04 |
 | [Prepare the Way](https://open.spotify.com/track/7uW9MM84wg65ODHwMTL5Fc) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Prepare the Way](https://open.spotify.com/album/3DZGhQN7bHZeQ62egNvQST) | 2:27 | 2025-06-27 | 2025-07-04 |
 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 | 2023-06-09 |  |
-| [Promise Keeper](https://open.spotify.com/track/24DLQbUsCuHfQ6QeAy3aQX) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Promise Keeper](https://open.spotify.com/album/1LzQO3qndwCYQ5SwvBkc2U) | 8:30 | 2025-05-09 |  |
+| [Promise Keeper](https://open.spotify.com/track/24DLQbUsCuHfQ6QeAy3aQX) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Promise Keeper](https://open.spotify.com/album/1LzQO3qndwCYQ5SwvBkc2U) | 8:30 | 2025-05-09 | 2025-07-07 |
 | [Promises](https://open.spotify.com/track/0oKhLmoWD4qnlbSeqvGVmq) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Good News \(feat\. Todd Galberth\)](https://open.spotify.com/album/7wXs3tGbYj2qzaLLT26DgB) | 9:06 | 2024-12-31 | 2025-01-07 |
 | [Prophetic Chant \(Live\)](https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 6:22 | 2023-02-20 | 2025-05-31 |
 | [Protocol breaker](https://open.spotify.com/track/2qAcPHYYGiKpIsxdyTxtxB) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Protocol breaker](https://open.spotify.com/album/4y3f3Sjb3QPlX5v0sUj5u3) | 6:36 | 2023-06-02 | 2023-07-07 |
@@ -503,6 +503,7 @@
 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2022-10-14 | 2022-11-05 |
 | [We Receive](https://open.spotify.com/track/4kGAazr7iKd4ZXOtbR1mW7) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 15:13 | 2022-10-14 | 2022-11-05 |
 | [We the Forgiven](https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [We the Forgiven](https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5) | 5:54 | 2023-06-16 | 2023-07-28 |
+| [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 |  |
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-25 | 2023-09-08 |
 | [What the Lord Has Done](https://open.spotify.com/track/0uBrewYuraJdPVVla0kaSP) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [What the Lord Has Done](https://open.spotify.com/album/5qjmj4ORlNrBKjRvlYdILX) | 8:23 | 2024-05-03 | 2024-05-24 |
 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 | 2022-10-14 | 2022-11-05 |

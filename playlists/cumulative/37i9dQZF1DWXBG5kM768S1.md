@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-258 songs - 16 hr 28 min
+259 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 | 2021-12-16 |  |
 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 | 2022-02-17 |  |
 | [Måneskinnsmøyane](https://open.spotify.com/track/4nycvJuvgOsWihHd6S3815) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Elverhøy](https://open.spotify.com/album/3HguT8PpDjz4e8gEhS1zpy) | 4:06 | 2022-03-23 | 2022-04-21 |
+| [Nordlandslefse](https://open.spotify.com/track/1vqgABBkvcpEg4v0ol8fn1) | [Tønes](https://open.spotify.com/artist/5A4ovj9I91UgF79mLirtz6) | [Nordlandslefse](https://open.spotify.com/album/0k1WDGvdIJmkh2DJdygRdB) | 4:45 | 2025-07-03 |  |
 | [Nordlandsnetter](https://open.spotify.com/track/0Lli0anlVb2OgRMgrIEHpr) | [Kirsti Sparboe](https://open.spotify.com/artist/2sIuZYabYsCOevwupstDNr) | [Et Vennlig Ord](https://open.spotify.com/album/0vBJEktE1gYiq6LEZ13zxT) | 3:29 | 2022-01-06 | 2022-07-05 |
 | [Novemberdag novembernatt](https://open.spotify.com/track/2pnrk0bjGIhgsklVVrKz1v) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Sanger du skal få med KORK](https://open.spotify.com/album/5ss1h2s0lkcXkydRUzIqeA) | 5:22 | 2022-11-10 | 2022-12-29 |
 | [Nå er jeg inspirert av Veronica Maggio](https://open.spotify.com/track/6aeoCU2Ub7S82JJ152ROUz) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N) | [Nå er jeg inspirert av Veronica Maggio](https://open.spotify.com/album/0u0bXmYCu6kuGzuZnKN8TZ) | 3:33 | 2022-10-13 | 2023-01-19 |
@@ -221,7 +222,7 @@
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2025-02-28 |
 | [Syng sang](https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Syng sang](https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI) | 2:44 | 2023-02-02 | 2023-08-02 |
-| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 |  |
+| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 | 2025-07-07 |
 | [Så godt at det gjør vondt](https://open.spotify.com/track/04bIOgwqaOlu6Vwqn35RX0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Så godt at det gjør vondt](https://open.spotify.com/album/3Lh1JnSMYRjPqMHcWpkdlF) | 4:37 | 2022-03-23 | 2022-04-20 |
 | [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 | 2022-06-02 | 2022-11-06 |
 | [Så syng eg da ein song for deg](https://open.spotify.com/track/5JNfXFtBW50P3OftyAhNnr) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Så syng eg da ein song for deg](https://open.spotify.com/album/6Prh2JMSdlVuPUUKADBujR) | 4:02 | 2021-12-16 | 2022-01-06 |

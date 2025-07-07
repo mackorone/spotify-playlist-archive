@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 32305,
+  "num_followers": 32317,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZgAAAAAAA9JJanQ39vR4AF9LC38RL",
+  "snapshot_id": "aGhrAAAAAACvETD3+ThMCtIyyY1aw0oL",
   "tracks": [
     {
       "added_at": null,
@@ -262,15 +262,11 @@
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 231466,
-      "name": "Good Time Charlie's Got The Blues",
-      "url": "https://open.spotify.com/track/1LOFK4zdpDABD2mmT5wRKH"
+      "duration_ms": 311666,
+      "name": "My Blue",
+      "url": "https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM"
     },
     {
       "added_at": null,
@@ -330,11 +326,15 @@
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 311666,
-      "name": "My Blue",
-      "url": "https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM"
+      "duration_ms": 231466,
+      "name": "Good Time Charlie's Got The Blues",
+      "url": "https://open.spotify.com/track/1LOFK4zdpDABD2mmT5wRKH"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 270022,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Between: The Collection",
         "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 207746,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 270022,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi"
     },
     {
       "added_at": null,

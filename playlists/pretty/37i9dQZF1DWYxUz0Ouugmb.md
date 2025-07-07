@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Aftershine
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,706 likes - 38 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,707 likes - 38 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-120 songs - 8 hr 12 min
+121 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Diam Diam Jatuh Cinta](https://open.spotify.com/track/2dTuI3gIUrxuLp7D1lGszE) | [Ramlah Ram](https://open.spotify.com/artist/4MHFCJ8NF67BZ2jl8gF7FX) | [Diam Diam Jatuh Cinta](https://open.spotify.com/album/1BdhJAyPNNk3G4oTreX9Gk) | 3:30 | 2024-10-31 | 2024-11-08 |
 | [Disebut Jangan Dikenang Jangan](https://open.spotify.com/track/4nuUpXxTPDvqJmKEb69oEW) | [Aishah](https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb) | [Disebut Jangan Dikenang Jangan](https://open.spotify.com/album/049BoEvbGWb4fXDQAhgha7) | 3:44 | 2024-11-14 | 2024-11-30 |
 | [Dusta](https://open.spotify.com/track/7hI9NbjM8MK3ZegrTCpLgt) | [Ukays](https://open.spotify.com/artist/7y3tizrdDAAfh7BWCYLXcI) | [Dusta](https://open.spotify.com/album/0L2BSiF3Zq82ayk5Yt08pE) | 4:15 | 2024-09-27 | 2024-10-18 |
+| [Firasat](https://open.spotify.com/track/3cHjFfvxo7ZIz9Px32V9aA) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Marcell](https://open.spotify.com/album/5hSfmtI2yqt541RTjuC8TU) | 4:07 | 2024-11-29 |  |
 | [Gila Kuasa](https://open.spotify.com/track/238lp3Oabvp5UxygKfP8cw) | [Pop Shuvit](https://open.spotify.com/artist/0iQ4UvqTfRPoNioVeQLa0W), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [GILA KUASA](https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI) | 3:40 | 2024-08-15 | 2024-08-24 |
 | [Hanya Aku](https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Impian](https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt) | 3:20 | 2024-08-15 |  |
 | [Hanya Kau Yang Mampu](https://open.spotify.com/track/4HFP0A7i6NIOscKVdilus2) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 4:13 | 2024-06-21 | 2024-07-06 |
@@ -86,7 +87,7 @@
 | [Palung Terdalam \(feat\. Adi Priyo\)](https://open.spotify.com/track/0skPhb4o5nFziq3P55Q6VK) | [Meet Uncle Hussain](https://open.spotify.com/artist/6DsEf5tVXFxGqG3on83Bm3), [Adi Priyo](https://open.spotify.com/artist/6en0fgNdzRrJ22yM7Hl1zi) | [Palung Terdalam \(feat\. Adi Priyo\)](https://open.spotify.com/album/2gfaMDX5gB2YZ3ERSxfchi) | 3:36 | 2024-11-29 |  |
 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 | 2024-01-12 |  |
 | [Panasea](https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Panasea](https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp) | 4:31 | 2024-01-12 | 2024-12-26 |
-| [Penantian](https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:09 | 2024-01-12 |  |
+| [Penantian](https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:09 | 2024-01-12 | 2025-07-07 |
 | [Pencinta Wanita](https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:13 | 2024-01-12 |  |
 | [Perasaanku](https://open.spotify.com/track/0F9MgsXvr3oLfGX8bodXZW) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Perasaanku](https://open.spotify.com/album/1Aep3n7K9j0m1ech4wRXFD) | 3:58 | 2024-06-21 | 2024-07-06 |
 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 | 2024-11-29 | 2025-05-19 |

@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8"
+    },
+    {
+      "album": {
         "name": "B With Me (Bump & Flex Mix Radio Edit)",
         "url": "https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC"
       },
@@ -4652,7 +4670,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 217391,
       "name": "Speedy Sax",
       "url": "https://open.spotify.com/track/5iwr0fsr4BV2sDep67lMaT"

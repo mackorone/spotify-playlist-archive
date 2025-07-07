@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: OurR (\uc544\uc6d4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ud55c\ub85c\ub85c) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 181395,
       "name": "Baby Step (feat. siso)",
       "url": "https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP"
@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Can I Be Me?",
+        "url": "https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Can I Be Me?",
+      "url": "https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy"
+    },
+    {
+      "album": {
         "name": "Pulp",
         "url": "https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2"
       },
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 231594,
       "name": "Cry or Sway",
       "url": "https://open.spotify.com/track/2ziVXEkhQdzQFSB0w8078k"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 228613,
       "name": "Dream Hacker (feat. Park Soeun)",
       "url": "https://open.spotify.com/track/0sVoT3puMSO5d4ZImGo3XG"
@@ -10749,6 +10767,24 @@
     },
     {
       "album": {
+        "name": "no love to love",
+        "url": "https://open.spotify.com/album/4D9OCFrGfPGBghK5kU4D7r"
+      },
+      "artists": [
+        {
+          "name": "yawn",
+          "url": "https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219371,
+      "name": "no love to love",
+      "url": "https://open.spotify.com/track/41n6rXEGR6d95mc0M7rBDa"
+    },
+    {
+      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/2uv3GEXDIyG4LQXdpjaeby"
       },
@@ -12374,7 +12410,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6"
@@ -14808,7 +14844,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 217026,
       "name": "summer youth",
       "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
@@ -15054,6 +15090,24 @@
       "duration_ms": 228580,
       "name": "Swing Slam",
       "url": "https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW"
+    },
+    {
+      "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263962,
+      "name": "Syringe",
+      "url": "https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB"
     },
     {
       "album": {
@@ -17004,7 +17058,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 174461,
       "name": "When we were young",
       "url": "https://open.spotify.com/track/7KT7nJM98mzPpl4ETuLA2o"

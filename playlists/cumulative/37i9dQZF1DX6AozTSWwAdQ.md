@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-454 songs - 23 hr 50 min
+455 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2022-06-06 | 2022-07-29 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-12 | 2022-10-06 |
 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-21 | 2023-12-11 |
+| [dance around it](https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [dance around it](https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H) | 2:25 | 2025-07-06 |  |
 | [Dance For The Hell Of It](https://open.spotify.com/track/4dogRj7ByfvFBgVsYJcwA4) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/6xpbC5OEQZxIt922KKd12q) | 3:15 | 2022-06-06 | 2022-07-29 |
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-09 | 2023-11-16 |
 | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/track/6J9DuvcPLzivD98KsXSJHu) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/album/2t9BAAn4EeMEkwRbxsP1Ou) | 2:03 | 2023-02-14 | 2023-02-21 |
@@ -141,7 +142,7 @@
 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 | 2024-11-11 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-16 | 2023-10-31 |
 | [Fifty Years](https://open.spotify.com/track/4IHR3GgI4GReqyCqaAhTE5) | [NERiMA](https://open.spotify.com/artist/4E3AxQBE3y9bADshviqPns) | [Fifty Years](https://open.spotify.com/album/4WjLU6vfqPlC6WhhPDnOub) | 3:28 | 2025-03-24 | 2025-03-31 |
-| [Five More Seconds](https://open.spotify.com/track/3k4bu6jrWBQjzxJL0GUo2k) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Five More Seconds](https://open.spotify.com/album/5dScjnelB84gPAcNj9UX5J) | 2:37 | 2025-06-29 |  |
+| [Five More Seconds](https://open.spotify.com/track/3k4bu6jrWBQjzxJL0GUo2k) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Five More Seconds](https://open.spotify.com/album/5dScjnelB84gPAcNj9UX5J) | 2:37 | 2025-06-29 | 2025-07-07 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2024-07-01 |  |
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-21 | 2022-11-29 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-15 | 2024-10-28 |

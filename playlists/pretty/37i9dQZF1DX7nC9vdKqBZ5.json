@@ -375,22 +375,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 219728,
       "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "penhasco. (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "penhasco. - (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 169472,
       "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "penhasco. (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "penhasco. - (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Aluga-se",
-        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
-        }
-      ],
-      "duration_ms": 125955,
-      "name": "Aluga-se",
-      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Espera a Primavera (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 254878,
       "name": "Espera a Primavera - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Aluga-se",
+        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+        }
+      ],
+      "duration_ms": 125955,
+      "name": "Aluga-se",
+      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
-      "duration_ms": 196347,
-      "name": "C\u00e9u Azul (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
       "artists": [
         {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
     },
     {
       "added_at": "2024-08-02 18:37:00",

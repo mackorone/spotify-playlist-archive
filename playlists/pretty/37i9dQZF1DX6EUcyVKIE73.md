@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,490 likes - 50 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,517 likes - 50 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 13 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 |
 | 14 | [Raga Kirwani \- Alap Gat \- Teental](https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj) | [Iqubal Huein](https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA), [Brij Narayan](https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs) | [Brij Narayan](https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw) | 10:13 |
 | 15 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
-| 16 | [Raga Tilak Kamod](https://open.spotify.com/track/0xyEZc2ntQg5ss0i8vJ8PF) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 15:05 |
-| 17 | [Jaagun Main Saari Raina / Maru Bihaag \- Live](https://open.spotify.com/track/4vzYYv84aa1NWM8tqGOzey) | [Prabha Atre](https://open.spotify.com/artist/4ijLHam3SGHSpOWtyUEwCg), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Jaagun Main Saari Raina / Maru Bihaag \(Live\)](https://open.spotify.com/album/6bnTpxj48Ml7fzBo9EwRb8) | 10:02 |
+| 16 | [Jaagun Main Saari Raina / Maru Bihaag \- Live](https://open.spotify.com/track/4vzYYv84aa1NWM8tqGOzey) | [Prabha Atre](https://open.spotify.com/artist/4ijLHam3SGHSpOWtyUEwCg), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Jaagun Main Saari Raina / Maru Bihaag \(Live\)](https://open.spotify.com/album/6bnTpxj48Ml7fzBo9EwRb8) | 10:02 |
+| 17 | [Raga Tilak Kamod](https://open.spotify.com/track/0xyEZc2ntQg5ss0i8vJ8PF) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 15:05 |
 | 18 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 |
 | 19 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 20 | [Tarana Yaman](https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Tarana Yaman](https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J) | 10:08 |

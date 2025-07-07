@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Because It's Raining",
+        "url": "https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO"
+      },
+      "artists": [
+        {
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "Because It's Raining",
+      "url": "https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu"
+    },
+    {
+      "album": {
         "name": "Being an Adult",
         "url": "https://open.spotify.com/album/5IZLxyvyNpEAr6PV5bOLHd"
       },
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 185859,
       "name": "Gone Things",
       "url": "https://open.spotify.com/track/5cNodS0xil5e6ckMNf6TdH"
@@ -1602,6 +1620,24 @@
       "duration_ms": 236776,
       "name": "Good to love",
       "url": "https://open.spotify.com/track/2gEgyhriipvqBJYR9ha68i"
+    },
+    {
+      "album": {
+        "name": "Head over Heels, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5"
+      },
+      "artists": [
+        {
+          "name": "Choo young woo",
+          "url": "https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I"
     },
     {
       "album": {
@@ -2628,7 +2664,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 221040,
       "name": "last night",
       "url": "https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo"
@@ -3689,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "Practice forgetting you",
+        "url": "https://open.spotify.com/album/0dvHirphDYob23luQ2IM1q"
+      },
+      "artists": [
+        {
+          "name": "Ginibini",
+          "url": "https://open.spotify.com/artist/3rZsqCWycjeGJnK3zueMTA"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227920,
+      "name": "Practice forgetting you",
+      "url": "https://open.spotify.com/track/5EXBCsgC64s2aTWKay4viR"
+    },
+    {
+      "album": {
         "name": "Hierarchy (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
       },
@@ -4050,7 +4104,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 218360,
       "name": "something",
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"

@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: Nanette",
-  "num_followers": 22780,
+  "num_followers": 22970,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -711,38 +711,6 @@
     {
       "added_at": "2025-07-04 02:22:28",
       "album": {
-        "name": "Reflection Station",
-        "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 165431,
-      "name": "Reflection Station",
-      "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
-    },
-    {
-      "added_at": "2025-07-04 02:22:28",
-      "album": {
-        "name": "WHEN",
-        "url": "https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/6Y3nFQzEuEZwRvD497QRXn"
-    },
-    {
-      "added_at": "2025-07-04 02:22:28",
-      "album": {
         "name": "Intentions - A COLORS SHOW",
         "url": "https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9"
       },
@@ -763,6 +731,22 @@
     {
       "added_at": "2025-07-04 02:22:28",
       "album": {
+        "name": "Reflection Station",
+        "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 165431,
+      "name": "Reflection Station",
+      "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
+    },
+    {
+      "added_at": "2025-07-04 02:22:28",
+      "album": {
         "name": "Imimangaliso",
         "url": "https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 171857,
       "name": "Imimangaliso",
       "url": "https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN"
+    },
+    {
+      "added_at": "2025-07-04 02:22:28",
+      "album": {
+        "name": "WHEN",
+        "url": "https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/6Y3nFQzEuEZwRvD497QRXn"
     },
     {
       "added_at": "2025-07-04 02:22:28",
@@ -843,22 +843,18 @@
     {
       "added_at": "2025-07-04 02:22:28",
       "album": {
-        "name": "Love Deep",
-        "url": "https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF"
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
       },
       "artists": [
         {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
         }
       ],
-      "duration_ms": 220125,
-      "name": "Love Deep",
-      "url": "https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi"
+      "duration_ms": 224002,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
     }
   ],
   "unique_name": "R&Beats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Nivel
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,271 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,316 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 3 | [PUES QUE LE HAGO ?](https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [PUES QUE LE HAGO ?](https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT) | 2:21 |
 | 4 | [Formula One](https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Formula One](https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI) | 3:05 |
 | 5 | [Cuadros Peruanos](https://open.spotify.com/track/0ftuMFz4r1rHgXBclU18yE) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 2:41 |
-| 6 | [Plática Con Cupido](https://open.spotify.com/track/48PzmwnVp7aWPyAoZPvpn7) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMARTE DUELE / Plática con Cupido / ALV Cupido](https://open.spotify.com/album/45qBWz1LmpbQ1ZaHdD3hRC) | 3:24 |
+| 6 | [PLÁTICA CON CUPIDO](https://open.spotify.com/track/48PzmwnVp7aWPyAoZPvpn7) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMARTE DUELE / Plática con Cupido / ALV Cupido](https://open.spotify.com/album/45qBWz1LmpbQ1ZaHdD3hRC) | 3:24 |
 | 7 | [Cayenne](https://open.spotify.com/track/146J2us6wxdOxZUOK2LPXj) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [CICLOTIMIA](https://open.spotify.com/album/4J3byXw5l2J8BlU0eFmydd) | 2:12 |
 | 8 | [CONMIGO](https://open.spotify.com/track/4tqTjLWSw4Tw8cMDeZ7f8t) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CONMIGO](https://open.spotify.com/album/13JzpgNLqea7qVEGRoSiDh) | 2:55 |
 | 9 | [Costumbres](https://open.spotify.com/track/2wEHpXdFjkxlv6pHhSqMiQ) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Costumbres](https://open.spotify.com/album/0I874dPuRdrdZuhPh8VrLt) | 2:55 |

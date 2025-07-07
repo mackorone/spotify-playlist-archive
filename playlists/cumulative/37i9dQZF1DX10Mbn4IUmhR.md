@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks, via the South of Africa\. Cover: <a href="https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C?si=\_wJdxiurQaiZ\_EeDaHWa9w">Keanan Eksteen</a>
 
-539 songs - 1 day 4 hr 54 min
+540 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-20 |  |
 | [Cocaine Kisses](https://open.spotify.com/track/2eIvCJ0Fe47ihAq8FQy6cd) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Cocaine Kisses](https://open.spotify.com/album/0Rt3EXbUHOvhD26EnoYwEo) | 3:13 | 2024-11-21 | 2024-11-29 |
 | [come over](https://open.spotify.com/track/23G0Q5CFkkilmq70XRBKZe) | [Zoë Cupido](https://open.spotify.com/artist/06QBpd9kLcrz7NHPYr3UkA) | [come over](https://open.spotify.com/album/1o5oIJttHdJyqvaZKS5myh) | 2:24 | 2025-05-01 | 2025-05-31 |
-| [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-06-12 |  |
+| [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-06-12 | 2025-07-07 |
 | [Coming Home](https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Coming Home](https://open.spotify.com/album/2iD2kdwipf2zMCTjzN2fgS) | 4:25 | 2025-01-09 | 2025-01-24 |
 | [Common Things](https://open.spotify.com/track/2h6cKVFurOfEBB4GewcGOI) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Common Things](https://open.spotify.com/album/2xuJei4z9I237JoWuR9gbE) | 5:36 | 2024-07-18 | 2024-10-11 |
 | [COMMUNION](https://open.spotify.com/track/6MjkMyEG79nsgBFCfZCUmC) | [cooogi](https://open.spotify.com/artist/4zEjmKFibpJouP3yVumP3d) | [COMMUNION](https://open.spotify.com/album/3hbvNmZmxQbqVCQo2jaJ1H) | 1:20 | 2024-08-02 | 2024-08-16 |
@@ -226,6 +226,7 @@
 | [How is Summer Over?](https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK) | [Nasrene](https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB) | [How is Summer Over?](https://open.spotify.com/album/7L1LfkPke0zvF5gRRJAzB1) | 2:59 | 2024-07-18 | 2024-08-16 |
 | [Hurricane](https://open.spotify.com/track/46NJWAiuNPijihxZbgkJ8A) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Hurricane](https://open.spotify.com/album/0UEd6eNlfFIdQNbXWrvTd0) | 3:27 | 2025-04-04 | 2025-04-18 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2025-03-27 | 2025-04-04 |
+| [I Alone](https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:27 | 2025-07-03 |  |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-07-11 | 2024-10-11 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-11 | 2024-09-13 |
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-29 | 2025-06-09 |

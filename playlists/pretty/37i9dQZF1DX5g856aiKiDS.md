@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,650 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,674 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sweet Tricks](https://open.spotify.com/track/3lyHGRigP5FRzWUo50FZqd) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [Sweet Tricks](https://open.spotify.com/album/7Ld8lnNhB0ACTCPvig8YVO) | 2:22 |
-| 2 | [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 |
-| 3 | [What I want to say](https://open.spotify.com/track/1228Lo3MdhN679xaHiQrYa) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 3:05 |
-| 4 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
-| 5 | [Next Door](https://open.spotify.com/track/5wqPCOdRrcTitxgPP23G9o) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Next Door](https://open.spotify.com/album/0TaAh5f5eAFwJDsxRCpuBW) | 3:28 |
+| 1 | [Time Lapse](https://open.spotify.com/track/54XrNRY4jPnzAVamPvuA7o) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0a0LC99zZ0UArr1fFrt49U) | 3:22 |
+| 2 | [Moonlight dancer](https://open.spotify.com/track/3swMzIF5uXobKiuo7XbJyk) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [Moonlight dancer](https://open.spotify.com/album/783pDN25MWBe3Di4O3ILsZ) | 2:39 |
+| 3 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
+| 4 | [That Summer \(Feat\. Chan\)](https://open.spotify.com/track/1sukacbrYvTaFmUE62a3e5) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [That Summer \(Feat\. Chan\)](https://open.spotify.com/album/6Sei0BrNGT6B9oozZY6HjZ) | 2:34 |
+| 5 | [Sweet Tricks](https://open.spotify.com/track/3lyHGRigP5FRzWUo50FZqd) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [Sweet Tricks](https://open.spotify.com/album/7Ld8lnNhB0ACTCPvig8YVO) | 2:22 |
 | 6 | [Love Is You \(Jazz ver.\)](https://open.spotify.com/track/53REELTU15wO9sJmFzhwF2) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST \(Soundtrack\)](https://open.spotify.com/album/2O0JgQ9w3fwiCDD1qVELNw) | 2:59 |
 | 7 | [Coffee With Me](https://open.spotify.com/track/63VetiCw415FzFcEvXakz2) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Try](https://open.spotify.com/album/5GuLXmeNcMGpsnp8JaHkkx) | 4:09 |
-| 8 | [Back Then](https://open.spotify.com/track/0NTjX9EQxyRd6srGWvS9qO) | [재아 \(Jaea\)](https://open.spotify.com/artist/6RpI5ztQgNjGfk7hiHgsJ0), [Blen](https://open.spotify.com/artist/0glNCwVGFdE1bCD8IOg3JG) | [From The Polaroid\(2019\)](https://open.spotify.com/album/5Ml1gqgN3uombwVzB6wGlq) | 3:14 |
+| 8 | [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 |
 | 9 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
 | 10 | [Nothing](https://open.spotify.com/track/2fQs0LYtNRfgONYIVxXLgi) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Nothing](https://open.spotify.com/album/3ivmmbuqS2UYEYpdMUTADL) | 2:55 |
-| 11 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 |
+| 11 | [What I want to say](https://open.spotify.com/track/1228Lo3MdhN679xaHiQrYa) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 3:05 |
 | 12 | [Selfish](https://open.spotify.com/track/30YISPDrtL9xKLbDRFUkzd) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Selfish](https://open.spotify.com/album/0isgsltrKdElJbFS6Fj1LF) | 3:03 |
 | 13 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 14 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [It's You \(Feat\. ZICO\)](https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:17 |
 | 50 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 |
 
-Snapshot ID: `aGI7yQAAAADG2m6QX4pTC2LhFNWsUvlD`
+Snapshot ID: `aGsy0gAAAABHD4e73kGvwtgrA34+8XV0`

@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-337 songs - 17 hr 53 min
+338 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 | 2022-06-24 |  |
 | [DO ME JEJE](https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:00 | 2022-03-21 | 2022-05-06 |
 | [Do The Most](https://open.spotify.com/track/6ZBqCuo8fUGSZJGYR9LNwL) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Do The Most](https://open.spotify.com/album/1l0LngTiAHc8RvL3nqZ9Z4) | 2:24 | 2022-04-15 | 2022-04-18 |
-| [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2021-12-20 |  |
+| [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2021-12-20 | 2025-07-07 |
 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 | 2023-07-21 | 2023-08-25 |
 | [Don't Rush \(feat\. DaBaby\)](https://open.spotify.com/track/3AMxuq6id3YGB57eWeheZQ) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Don't Rush \(feat\. DaBaby\)](https://open.spotify.com/album/5kjL5qfhBmKHjnnjSfhkBp) | 3:21 | 2021-12-20 | 2022-04-19 |
 | [Double Tap](https://open.spotify.com/track/1kzJ786jktCryP59bq4wij) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Double Tap](https://open.spotify.com/album/31t5ON8FfP5TEbmcQA2lMS) | 3:12 | 2022-04-15 | 2022-04-17 |
@@ -199,6 +199,7 @@
 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2021-12-20 | 2024-10-21 |
 | [Money Man](https://open.spotify.com/track/75HIeZbCIzYTh2UPYo5BTe) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV) | [Money Man](https://open.spotify.com/album/2Asiv6L2YmufzOStGtB9uX) | 2:50 | 2022-04-15 | 2022-04-20 |
 | [Money Talks \(feat\. Dave\)](https://open.spotify.com/track/31gzwBma4iEppvk8um5ZGx) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/4QonFDxUcxM49sCR7g8ns1) | 4:33 | 2022-04-15 | 2022-04-17 |
+| [Monster](https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:18 | 2024-05-22 |  |
 | [Moshpit](https://open.spotify.com/track/2YFt8W2iIZJ7ggoUUiIkrn) | [Evans Junior](https://open.spotify.com/artist/4cWQPBUFPUbuFCkYLGF8eC) | [Moshpit](https://open.spotify.com/album/4G1gJTqw1PnsK0PsotduhB) | 2:00 | 2022-04-15 | 2022-04-18 |
 | [Naah Done](https://open.spotify.com/track/2569kuV4cvCN9Q0jQBgWlk) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Naah Done](https://open.spotify.com/album/3YILBKYE3k9kLTi3iFVFx2) | 3:19 | 2022-04-15 | 2022-04-19 |
 | [Nack](https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2) | [Nack](https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d) | 2:49 | 2023-01-27 | 2023-05-15 |

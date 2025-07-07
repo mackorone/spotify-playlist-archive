@@ -739,20 +739,24 @@
     },
     {
       "album": {
-        "name": "Arabella",
+        "name": "Arabella (featuring Kristyn Hope)",
         "url": "https://open.spotify.com/album/4hxavFm1178TFitlCMV3qi"
       },
       "artists": [
         {
           "name": "Tulip",
           "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        },
+        {
+          "name": "Kristyn Hope",
+          "url": "https://open.spotify.com/artist/1Vu72do80syYy67HTxXPpc"
         }
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 293913,
-      "name": "Arabella",
+      "name": "Arabella - featuring Kristyn Hope",
       "url": "https://open.spotify.com/track/5p7LGKUTjHcFrZ78kjJauw"
     },
     {
@@ -2621,20 +2625,24 @@
     },
     {
       "album": {
-        "name": "Devourer",
+        "name": "Devourer (featuring Kristin Starkey)",
         "url": "https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH"
       },
       "artists": [
         {
           "name": "Tulip",
           "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        },
+        {
+          "name": "Kristin Starkey",
+          "url": "https://open.spotify.com/artist/4rtF23eX80Lfnp6Ws0a27d"
         }
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200760,
-      "name": "Devourer",
+      "name": "Devourer - featuring Kristin Starkey",
       "url": "https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv"
     },
     {

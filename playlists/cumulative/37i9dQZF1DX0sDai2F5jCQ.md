@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Nemzzz, Latto
 
-612 songs - 1 day 5 hr 51 min
+613 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Cashed Out \- feat\. Larry June](https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Kush + Orange Juice 2](https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ) | 3:43 | 2025-04-17 | 2025-05-16 |
 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-11 | 2024-07-19 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-02-06 | 2025-05-09 |
-| [Cautionary Tales](https://open.spotify.com/track/5sx0Pp7jnHnQhejHvaho5J) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Can't Decide 3P](https://open.spotify.com/album/5fodg3Betf8H5oQv85k6a9) | 2:40 | 2024-12-12 |  |
+| [Cautionary Tales](https://open.spotify.com/track/5sx0Pp7jnHnQhejHvaho5J) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Can't Decide 3P](https://open.spotify.com/album/5fodg3Betf8H5oQv85k6a9) | 2:40 | 2024-12-12 | 2025-07-07 |
 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 | 2023-09-22 | 2024-02-09 |
 | [CFB](https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [CFB](https://open.spotify.com/album/57GpJDPLmbaTDaDBAU48Bo) | 2:30 | 2023-09-22 | 2023-12-08 |
 | [Champagne Moments](https://open.spotify.com/track/3pD67h2Hd1Jd1pMZFYVXHC) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Champagne Moments](https://open.spotify.com/album/2Nu6FUe5OFNFVDBtGPoR8E) | 3:25 | 2024-04-16 | 2024-06-22 |
@@ -593,6 +593,7 @@
 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 | 2024-08-01 | 2024-11-29 |
 | [Welcome to Tha Carter](https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:35 | 2025-06-06 |  |
 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 | 2025-06-12 |  |
+| [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-07 |  |
 | [WHAT DO](https://open.spotify.com/track/6k5rWswrLNxNwMyFkC3Na2) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Souths Most Wanted](https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR) | 2:56 | 2024-04-11 | 2024-06-14 |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-08 | 2024-03-15 |
 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-17 | 2025-04-04 |

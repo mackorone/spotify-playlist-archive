@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,447 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,456 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 49 | [Cdn](https://open.spotify.com/track/6iqpSPGP41lwP9MJFkJTYz) | [7EVEN STARS](https://open.spotify.com/artist/3ajnDvWXLGNVmRy3I7M6m7), [4x4TRO](https://open.spotify.com/artist/11JKRp2mLOF7Y4rpiBbYTX) | [Cdn](https://open.spotify.com/album/27OV9IvYxY1hX4K8gmfnGk) | 2:57 |
 | 50 | [Bella](https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Los Galácticos](https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3) | 2:21 |
 
-Snapshot ID: `L/ycKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/3rUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

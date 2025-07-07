@@ -4,7 +4,7 @@
 
 > 
 
-217 songs - 11 hr 20 min
+221 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Breaking Chains](https://open.spotify.com/track/3AyOqcaikAJbbhXj70s9VS) | [Menout](https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r) | [NoWay](https://open.spotify.com/album/7iwvfwhAMQWAUFVsUyIvJH) | 2:23 | 2024-12-11 |  |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 | 2023-09-17 |  |
 | [Broken \(Are Little Victories by the Ship of Life\)](https://open.spotify.com/track/0l0evVvEb9e06LOB4gk84U) | [Krobak](https://open.spotify.com/artist/3NSPUQNQB8sZ4dUdHSGa0Z) | [Little Victories](https://open.spotify.com/album/7CbeLrrlWnIOBH4MjuZFlR) | 4:40 | 2023-09-26 |  |
+| [Broken Walls](https://open.spotify.com/track/2wMzpCsDOJSG1EAFM37fcM) | [Living Room Estate](https://open.spotify.com/artist/1VlLvSGcex3MRir2kK0mKu) | [Broken Walls](https://open.spotify.com/album/39tTtml4nkOUcEJaCveZXO) | 4:06 | 2025-07-06 |  |
 | [Bu Partide Yalnızsın](https://open.spotify.com/track/2jNMF2yRaKenJ6Yn0FLMI3) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo) | [SON](https://open.spotify.com/album/6mtl5HTLK6lK9V5Jzu4g1b) | 3:46 | 2023-01-14 | 2025-03-12 |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-05-26 |  |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2023-01-13 |  |
@@ -101,6 +102,7 @@
 | [In My Head](https://open.spotify.com/track/2nr9WZdKntw9a5muEC3gOk) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/6Jtk9BCHUN8FICezPZghEJ) | 5:54 | 2023-08-01 |  |
 | [In My Head Till I'm Dead](https://open.spotify.com/track/1oAGRIR83SsyjQQ2DOt283) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/0D9034elnnZF9AOWeVT6vN) | 3:28 | 2023-09-05 |  |
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-09-25 |  |
+| [In Time](https://open.spotify.com/track/6PqtEi5ckFttEiiBDZu3Vi) | [My Pet Rhino](https://open.spotify.com/artist/05AZdKSQNgDpUJ4ZLqyk97), [Lee\-Loo](https://open.spotify.com/artist/683Df2Rf2PNCQRv5vOMDpD) | [Arrows](https://open.spotify.com/album/4rwBCjfUirRQTxqlsNnirG) | 3:40 | 2025-07-06 |  |
 | [Infinite Cloud](https://open.spotify.com/track/1iyeCgNmyLz6Ghip1VVarW) | [azzz](https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh) | [Infinite Cloud](https://open.spotify.com/album/6uQrwva2QnqUhGeg47t6DK) | 1:47 | 2023-09-25 | 2025-02-28 |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2023-07-24 |  |
 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 | 2023-09-25 |  |
@@ -116,6 +118,7 @@
 | [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 | 2024-09-11 |  |
 | [Let Me In](https://open.spotify.com/track/4iTf7a7I4EuT9rI243cpRb) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [Let Me In](https://open.spotify.com/album/56rKMnro11Zj4FzHV8T5BB) | 2:11 | 2025-06-06 |  |
 | [Librium](https://open.spotify.com/track/6kdGrUX5g9DoFaGYlQWifz) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 1:21 | 2023-05-26 |  |
+| [Limerence](https://open.spotify.com/track/5l6BtTryf4Kq7dW9uhVxi7) | [Laramka](https://open.spotify.com/artist/6U6cRPPnfTlme9kG2xoCYJ) | [Limerence](https://open.spotify.com/album/5ibWPM8RyLEmJSaAY6W4md) | 3:25 | 2025-07-06 |  |
 | [Little Things](https://open.spotify.com/track/0awKSn8GziBuAXDeHp2Bm8) | [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [Immaterial](https://open.spotify.com/album/3zhCB9rhuT1Gd68NT0IKIZ) | 3:04 | 2023-08-14 |  |
 | [Lonely Day](https://open.spotify.com/track/4xBHZ2Mr0gCdFYXrPZuYXO) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/1UeOoLhpWzpuM5cWQsbCXg) | 2:47 | 2023-04-08 |  |
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2023-06-19 |  |
@@ -132,11 +135,12 @@
 | [monster in my bed](https://open.spotify.com/track/3ssOLK4ySOUscNI1dT3RXu) | [lilaash](https://open.spotify.com/artist/729vgKeCJUtP8bNXc8v9Rl), [alter ego](https://open.spotify.com/artist/3PwUaGKrKAoCYaqgi4YlP6) | [monster in my bed](https://open.spotify.com/album/4UnF0PDDYzipCnnOzdrQIq) | 1:50 | 2025-04-17 |  |
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2023-09-21 |  |
 | [Must I Die Alone](https://open.spotify.com/track/5ep2yEklcNmthqmCByaZUD) | [Steady Rollin](https://open.spotify.com/artist/2f7imcAJGFFABC2Y7dHtK2) | [Stories](https://open.spotify.com/album/05j9IHFwDZzciV90kl10F6) | 3:38 | 2025-02-24 | 2025-03-04 |
+| [My Lover Girl](https://open.spotify.com/track/7EHdVJpV1rki1jFCepVp75) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [My Lover Girl](https://open.spotify.com/album/6nIIhmCRGxOLB5sncLW7oa) | 2:40 | 2025-07-06 |  |
 | [My Whole Life](https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Learning to Live](https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs) | 3:05 | 2025-04-03 | 2025-05-10 |
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2023-09-07 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-09-08 |  |
 | [Nice Knowing You](https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Nice Knowing You](https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF) | 3:35 | 2025-03-18 | 2025-04-18 |
-| [Night Time Lover \(NTL\)](https://open.spotify.com/track/1DETyIa65IiEPejhCjCcB7) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Night Time Lover \(NTL\)](https://open.spotify.com/album/6ZeZio1f4vYUDKclguuToN) | 3:22 | 2025-03-04 |  |
+| [Night Time Lover \(NTL\)](https://open.spotify.com/track/1DETyIa65IiEPejhCjCcB7) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Night Time Lover \(NTL\)](https://open.spotify.com/album/6ZeZio1f4vYUDKclguuToN) | 3:22 | 2025-03-04 | 2025-07-07 |
 | [no way out](https://open.spotify.com/track/7D3VAPd2nvxzPxZNKworii) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [no way out](https://open.spotify.com/album/4tKoOYBp5XfyPp5H3Yo3RF) | 2:10 | 2025-02-26 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2024-02-01 |  |
 | [Ode to Vivian](https://open.spotify.com/track/5fqYqPWlfQhIkcUY3XAJlm) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 1:29 | 2024-01-22 |  |
@@ -212,7 +216,7 @@
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2024-03-04 |  |
 | [What would you know?](https://open.spotify.com/track/7kqLCoGIFAgAWwr612LsXC) | [Enzo Gray](https://open.spotify.com/artist/59oy58P2lR0q2fvVVuTFp8) | [What would you know?](https://open.spotify.com/album/1AK9ltITW5vCZRq05GxcB5) | 3:17 | 2025-06-19 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2023-08-08 |  |
-| [Whine For Me](https://open.spotify.com/track/2OlideyYZKnQkHSIpwiPUC) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Whine For Me](https://open.spotify.com/album/3cW6oddMAkPG2EKl3MegzP) | 2:06 | 2025-03-04 |  |
+| [Whine For Me](https://open.spotify.com/track/2OlideyYZKnQkHSIpwiPUC) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Whine For Me](https://open.spotify.com/album/3cW6oddMAkPG2EKl3MegzP) | 2:06 | 2025-03-04 | 2025-07-07 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-01 |  |
 | [Without You](https://open.spotify.com/track/1NbBkAsDMiXPZulDTKKdPu) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Without You](https://open.spotify.com/album/4FpGkWwRqX2Mj5GmrukiRp) | 2:11 | 2025-06-06 |  |
 | [Witness Reprise](https://open.spotify.com/track/27CDPbGNgkMaKxYKbAAZMM) | [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Witness](https://open.spotify.com/album/4Za0P7gc45f8ABtjBbNA69) | 3:13 | 2024-12-05 |  |

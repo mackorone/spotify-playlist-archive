@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 98517,
+  "num_followers": 98593,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
+        "name": "Southernality",
+        "url": "https://open.spotify.com/album/24EQqsQ13TxKqeNaYanG1e"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Trailer Trashed",
+      "url": "https://open.spotify.com/track/3QOOiLL3pqzxEyCpT6FEoE"
+    },
+    {
+      "added_at": "2025-04-25 04:00:44",
+      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 208240,
       "name": "Blacked Out",
       "url": "https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc"
-    },
-    {
-      "added_at": "2025-04-25 04:00:44",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 310306,
-      "name": "Single For The Summer",
-      "url": "https://open.spotify.com/track/4nrtux8xl5lYegU8II5rAQ"
     },
     {
       "added_at": "2025-04-25 04:00:44",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-04-25 04:00:44",
       "album": {
-        "name": "Southernality",
-        "url": "https://open.spotify.com/album/24EQqsQ13TxKqeNaYanG1e"
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
         {
-          "name": "A Thousand Horses",
-          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 163120,
-      "name": "Trailer Trashed",
-      "url": "https://open.spotify.com/track/3QOOiLL3pqzxEyCpT6FEoE"
+      "duration_ms": 310306,
+      "name": "Single For The Summer",
+      "url": "https://open.spotify.com/track/4nrtux8xl5lYegU8II5rAQ"
     },
     {
       "added_at": "2025-04-25 04:00:44",

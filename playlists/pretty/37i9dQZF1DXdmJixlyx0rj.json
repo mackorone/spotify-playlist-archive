@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: KONA)",
-  "num_followers": 29532,
+  "num_followers": 29541,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,30 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
+        "name": "3D (feat. Jack Harlow) (MK Remix)",
+        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 186241,
+      "name": "3D (feat. Jack Harlow) (MK Remix)",
+      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+    },
+    {
+      "added_at": "2025-07-01 04:49:51",
+      "album": {
         "name": "E",
         "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
       },
@@ -675,30 +699,6 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "3D (feat. Jack Harlow) (MK Remix)",
-        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 186241,
-      "name": "3D (feat. Jack Harlow) (MK Remix)",
-      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
-    },
-    {
-      "added_at": "2025-07-01 04:49:51",
-      "album": {
         "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
         "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
       },
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 227677,
-      "name": "Supernova (Grimes Remix)",
-      "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
-    },
-    {
-      "added_at": "2025-07-01 04:49:51",
-      "album": {
         "name": "Pondeggi",
         "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 279400,
       "name": "Pondeggi",
       "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
+    },
+    {
+      "added_at": "2025-07-01 04:49:51",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 227677,
+      "name": "Supernova (Grimes Remix)",
+      "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "added_at": "2025-07-01 04:49:51",
+      "album": {
         "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
         "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 188000,
       "name": "Armageddon (2Spade Remix)",
       "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
-    },
-    {
-      "added_at": "2025-07-01 04:49:51",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+    },
+    {
+      "added_at": "2025-07-01 04:49:51",
+      "album": {
         "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
         "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 247641,
       "name": "Armageddon (Flava D Remix)",
       "url": "https://open.spotify.com/track/79YRHM4e97AF4s4xo60p4y"
-    },
-    {
-      "added_at": "2025-07-01 04:49:51",
-      "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -1147,18 +1147,26 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+        "name": "Late Night Feels (\u00d6wnboss Remix)",
+        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
       "artists": [
         {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
         }
       ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+      "duration_ms": 190800,
+      "name": "Late Night Feels (\u00d6wnboss Remix)",
+      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -1183,26 +1191,18 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "Late Night Feels (\u00d6wnboss Remix)",
-        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Late Night Feels (\u00d6wnboss Remix)",
-      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "Useless",
-        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+        "name": "iScreaM Vol.32 : Impossible Remix",
+        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
       },
       "artists": [
         {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         },
         {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Useless",
-      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+      "duration_ms": 211818,
+      "name": "Impossible - Darius Remix",
+      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "iScreaM Vol.32 : Impossible Remix",
-        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
         },
         {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
         }
       ],
-      "duration_ms": 211818,
-      "name": "Impossible - Darius Remix",
-      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
+      "duration_ms": 161904,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -1419,42 +1419,6 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "Pirate (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Pirate (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
-    },
-    {
-      "added_at": "2025-07-01 04:49:51",
-      "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2025-07-01 04:49:51",
-      "album": {
         "name": "Good Night Good Morning (GNGM) [minlee Remix]",
         "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
       },
@@ -1475,6 +1439,42 @@
       "duration_ms": 125629,
       "name": "Good Night Good Morning (GNGM) - minlee Remix",
       "url": "https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS"
+    },
+    {
+      "added_at": "2025-07-01 04:49:51",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+    },
+    {
+      "added_at": "2025-07-01 04:49:51",
+      "album": {
+        "name": "Pirate (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Pirate (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Power - R3HAB Remix",
+      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
+    },
+    {
+      "added_at": "2025-07-01 04:49:51",
+      "album": {
         "name": "4study4work4inst Vol.2",
         "url": "https://open.spotify.com/album/5bLmEt6fMUTRAZGfZDtmzu"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
-    },
-    {
-      "added_at": "2025-07-01 04:49:51",
-      "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Power - R3HAB Remix",
-      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
     },
     {
       "added_at": "2025-07-01 04:49:51",
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2025-07-01 04:49:51",
       "album": {
-        "name": "??? (ODD)",
-        "url": "https://open.spotify.com/album/4RXMT404HKJnWvOFI7CP4k"
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
       "artists": [
         {
-          "name": "Ki:X\u00c9",
-          "url": "https://open.spotify.com/artist/5iMLnfFHa26dIkW6KGiq3v"
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 160436,
-      "name": "??? (ODD)",
-      "url": "https://open.spotify.com/track/6fb41FxP9E93L2hBB3UYPB"
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     },
     {
       "added_at": "2025-07-01 04:49:51",

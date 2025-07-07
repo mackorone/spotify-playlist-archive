@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 643483,
+  "num_followers": 643497,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZgAAAAABWcMXKUEFLbkJEIWWqfJtj",
+  "snapshot_id": "aGhrAAAAAADd+Q4SDu87uAye+GVstz26",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,22 @@
       "duration_ms": 131087,
       "name": "LA KILI\u00c9",
       "url": "https://open.spotify.com/track/1xtfUae857RhiCclSlAOIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 34918,
+      "name": "Thank Yu :)",
+      "url": "https://open.spotify.com/track/1nsHEIMiqiPzlwaZu5ykZG"
     }
   ],
   "unique_name": "This Is ROSAL\u00cdA",

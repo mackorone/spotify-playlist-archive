@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10938,
+  "num_followers": 10937,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZgAAAAADtmPOoRWZP3qJjR6M7KgH/",
+  "snapshot_id": "aGhrAAAAAAC/JoEnShJPEV3rhE2xddjF",
   "tracks": [
     {
       "added_at": null,
@@ -255,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
+        "name": "Meditation 66",
+        "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
       "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 295706,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
+      "duration_ms": 144725,
+      "name": "Habibi (Love)",
+      "url": "https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp"
     },
     {
       "added_at": null,
@@ -319,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
       },
       "artists": [
         {
@@ -328,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
+      "duration_ms": 295706,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
     },
     {
       "added_at": null,
@@ -367,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 66",
-        "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
-      },
-      "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 144725,
-      "name": "Habibi (Love)",
-      "url": "https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[extended] BLISS",
         "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 170346,
-      "name": "La Vernatelle",
-      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
+      "duration_ms": 197573,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
     },
     {
       "added_at": null,
@@ -460,25 +444,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 77999,
-      "name": "Changing Times",
-      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
+      "duration_ms": 170346,
+      "name": "La Vernatelle",
+      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
     },
     {
       "added_at": null,
@@ -495,6 +463,22 @@
       "duration_ms": 206760,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/62ffNyWwzneLiD96UC4ycT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 77999,
+      "name": "Changing Times",
+      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
     },
     {
       "added_at": null,
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Human Compassion",
-      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
     },
     {
       "added_at": null,
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 155946,
-      "name": "Sweet awakening",
-      "url": "https://open.spotify.com/track/4OMHYzumgLL8hqugPLf5dw"
+      "duration_ms": 202105,
+      "name": "Human Compassion",
+      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
     },
     {
       "added_at": null,
@@ -627,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 153137,
-      "name": "Evolving Memories",
-      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le R\u00eave d'une note",
         "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 1354080,
       "name": "Meditation 22",
       "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 155946,
+      "name": "Sweet awakening",
+      "url": "https://open.spotify.com/track/4OMHYzumgLL8hqugPLf5dw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 153137,
+      "name": "Evolving Memories",
+      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
     },
     {
       "added_at": null,

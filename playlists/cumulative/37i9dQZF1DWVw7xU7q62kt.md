@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-565 songs - 1 day 1 hr 32 min
+566 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 | 2025-05-17 |
 | [Déjà vu](https://open.spotify.com/track/0KJZkIvbHYRmZhP6NGsP6n) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Chameleon](https://open.spotify.com/album/2INZD6kTNVO54IqhcMHvIt) | 2:28 | 2025-04-18 |  |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
-| [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 |  |
+| [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 | 2025-07-07 |
 | [Eldstaden](https://open.spotify.com/track/0RJaXClmRBz77vnVGjw0lL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Eldstaden](https://open.spotify.com/album/5nCJ4HB1xhdQTZA73JotEr) | 2:36 | 2025-02-07 |  |
 | [Elements](https://open.spotify.com/track/5jLagdhjTqE0tx8U1dZGiq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Elements](https://open.spotify.com/album/7eNFkCGeXCtLAaHG7XTVlL) | 2:03 | 2024-10-18 | 2025-05-10 |
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 | 2024-12-23 |
@@ -478,6 +478,7 @@
 | [Superglue](https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Tool Box](https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh) | 2:32 | 2023-08-22 | 2025-04-06 |
 | [Surf](https://open.spotify.com/track/4UfwdU3IjjV3rLJwp2jMUz) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Waves](https://open.spotify.com/album/2cJ2yIgwJe6RdHsnfWHRqc) | 1:57 | 2024-08-23 | 2025-05-17 |
 | [Sweet And Salty](https://open.spotify.com/track/6KnLY0PTypoSufZRyuvA1Z) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A) | [Sweet And Salty](https://open.spotify.com/album/1aLV0XW6mfd1e7VgAtxKmA) | 2:08 | 2025-07-04 |  |
+| [Sweet Breeze](https://open.spotify.com/track/1egTe45Cnl8MsW5kAOUPTj) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Sweet Breeze](https://open.spotify.com/album/3EBvRUlQFuEhbLF4sMpnra) | 2:00 | 2025-07-04 |  |
 | [Sweet Move](https://open.spotify.com/track/5XOZyGohPJf6V7bpw0SmyH) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Sweet Move](https://open.spotify.com/album/11lMsLLHINuGwdV4udtWJe) | 1:52 | 2025-05-23 |  |
 | [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-08-25 | 2024-09-07 |
 | [swing side](https://open.spotify.com/track/4PO8A3EPanNbkx7Q3Wi2a3) | [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX), [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [swing side](https://open.spotify.com/album/2TDburFMSfxZB2wGzfaHSZ) | 2:03 | 2024-12-13 |  |

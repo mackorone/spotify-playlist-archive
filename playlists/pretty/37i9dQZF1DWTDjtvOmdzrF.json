@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 559911,
+  "num_followers": 559940,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
+        "name": "Tolong",
+        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 250322,
+      "name": "Tolong",
+      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
         "name": "I Just Couldn't Save You Tonight (Story of Kale - Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 219600,
       "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "Tolong",
-        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 250322,
-      "name": "Tolong",
-      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Sedang Sayang Sayangnya",
-        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
       "artists": [
         {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        {
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
         }
       ],
-      "duration_ms": 261030,
-      "name": "Sedang Sayang Sayangnya",
-      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
+      "duration_ms": 236394,
+      "name": "Bicara (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
+        "name": "Sedang Sayang Sayangnya",
+        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
       },
       "artists": [
         {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+      "duration_ms": 261030,
+      "name": "Sedang Sayang Sayangnya",
+      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
     },
     {
       "added_at": "2025-05-05 23:09:10",

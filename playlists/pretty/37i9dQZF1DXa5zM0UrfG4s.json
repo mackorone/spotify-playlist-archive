@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 115098,
+  "num_followers": 115126,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-07-03 22:00:32",
       "album": {
+        "name": "Pickup truck",
+        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Pickup truck",
+      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
+    },
+    {
+      "added_at": "2025-07-03 22:00:32",
+      "album": {
         "name": "Jentekveld",
         "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 138568,
       "name": "Jentekveld",
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
-    },
-    {
-      "added_at": "2025-07-03 22:00:32",
-      "album": {
-        "name": "Pickup truck",
-        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Pickup truck",
-      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
     },
     {
       "added_at": "2025-07-03 22:00:32",
@@ -575,22 +575,18 @@
     {
       "added_at": "2025-07-03 22:00:32",
       "album": {
-        "name": "Hopp inn i kjerra",
-        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
       },
       "artists": [
         {
           "name": "Hagle",
           "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         }
       ],
-      "duration_ms": 140940,
-      "name": "Hopp inn i kjerra",
-      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
       "added_at": "2025-07-03 22:00:32",
@@ -667,18 +663,22 @@
     {
       "added_at": "2025-07-03 22:00:32",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+        "name": "Hopp inn i kjerra",
+        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
       },
       "artists": [
         {
           "name": "Hagle",
           "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+      "duration_ms": 140940,
+      "name": "Hopp inn i kjerra",
+      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
     },
     {
       "added_at": "2025-07-03 22:00:32",
@@ -1043,6 +1043,42 @@
     {
       "added_at": "2025-07-03 22:00:32",
       "album": {
+        "name": "GUT OG KAR",
+        "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
+      },
+      "artists": [
+        {
+          "name": "Skei & PT",
+          "url": "https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV"
+        },
+        {
+          "name": "BEIST",
+          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "GUT OG KAR",
+      "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
+    },
+    {
+      "added_at": "2025-07-03 22:00:32",
+      "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 167980,
+      "name": "Zetor\u2019n",
+      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
+    },
+    {
+      "added_at": "2025-07-03 22:00:32",
+      "album": {
         "name": "Dagsfylla",
         "url": "https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt"
       },
@@ -1067,22 +1103,6 @@
     {
       "added_at": "2025-07-03 22:00:32",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 167980,
-      "name": "Zetor\u2019n",
-      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
-    },
-    {
-      "added_at": "2025-07-03 22:00:32",
-      "album": {
         "name": "Sol, snaps & skandaler",
         "url": "https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 184199,
       "name": "Sol, snaps & skandaler",
       "url": "https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E"
-    },
-    {
-      "added_at": "2025-07-03 22:00:32",
-      "album": {
-        "name": "GUT OG KAR",
-        "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
-      },
-      "artists": [
-        {
-          "name": "Skei & PT",
-          "url": "https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV"
-        },
-        {
-          "name": "BEIST",
-          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "GUT OG KAR",
-      "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
     },
     {
       "added_at": "2025-07-03 22:00:32",

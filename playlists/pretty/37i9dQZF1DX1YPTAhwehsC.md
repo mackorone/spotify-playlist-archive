@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: B Jack$
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,964 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,921 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 39 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 40 | [WASSUP \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/695BJdWZwhvuws1HSrvU4e) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [WASSUP \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/0D7SdJZbjFdPhDSH7EnFnx) | 3:00 |
 | 41 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 |
-| 42 | [trip](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [trip](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
+| 42 | [trip \(feat\. Jaasu\)](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [Jaasu](https://open.spotify.com/artist/3JKWVk2gRDw1YLWw9z0EEO) | [trip](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
 | 43 | [NO CHILL](https://open.spotify.com/track/3ZIx2pdhLDs7rmFhk6eVD0) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [NO CHILL](https://open.spotify.com/album/40usVcieQVYvm7d1VNO0v4) | 2:26 |
 | 44 | [Brat Doll](https://open.spotify.com/track/2KlKpQXFn1hUtU0Le3Ius8) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [DonnyC](https://open.spotify.com/artist/30uMT9on5GgknR4vSyGNiw) | [Rookie of the Year](https://open.spotify.com/album/4GSlPYadgWlrjUjtWoPC9P) | 1:51 |
 | 45 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 |

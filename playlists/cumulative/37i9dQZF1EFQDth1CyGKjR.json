@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Black Panther",
+        "url": "https://open.spotify.com/album/48trKY0QNU4d9YtmxMd3Mp"
+      },
+      "artists": [
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Black Panther",
+      "url": "https://open.spotify.com/track/6u5ABizn3h4viCcg2AD7Cl"
+    },
+    {
+      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },

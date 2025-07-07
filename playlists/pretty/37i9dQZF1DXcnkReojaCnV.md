@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:1aTDTChWWyiJH3SEnYrdVp">Taj Mahal</a> and <a href="spotify:artist:6iDaoPZVgxrTkndDCisX8F">Keb' Mo'</a> are taking over to share their blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,445 likes - 29 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,506 likes - 29 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/0wIEjvBgrm2C14XXohUv8H?si=73788076240f4162">El Grupito de Atrás</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,984 likes - 6 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,985 likes - 6 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

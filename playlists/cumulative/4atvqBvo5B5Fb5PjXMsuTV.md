@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Jul 18:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Jul 03:03 UTC.
 
-5,070 songs - 11 day 18 hr 13 min
+5,071 songs - 11 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2851,6 +2851,7 @@
 | [Mink](https://open.spotify.com/track/5x6ufTZrcowzAQXq97MIQu) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Mink](https://open.spotify.com/album/7wM4xWUZjUsaUEF0xAsfgZ) | 2:46 | 2024-06-14 | 2024-06-19 |
 | [Mint Ice Cream Hater](https://open.spotify.com/track/7fRBGaPwclNaWqeUlxMUIW) | [ox33n](https://open.spotify.com/artist/6REEq0BuL0Ocr83DM7bbPT) | [Mint Ice Cream Hater](https://open.spotify.com/album/0LWmTjIqcvPaeaDlGmSx4R) | 2:30 | 2024-04-29 | 2024-05-01 |
 | [MIRAGE](https://open.spotify.com/track/0aqAr8UI596cxfGt6mnqaj) | [Takanashi Kiara](https://open.spotify.com/artist/6UCFRdg4ySMWj6O4QRKyZs) | [MIRAGE](https://open.spotify.com/album/7ioehSC2RnKeHr9w9lpW6T) | 3:27 | 2024-10-07 | 2024-10-11 |
+| [Mirage \(OP Theme to Call of the Night Season 2\)](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Mirage](https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G) | 2:18 | 2025-07-07 |  |
 | [MIRAME REMIX](https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MIRAME REMIX](https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK) | 3:58 | 2024-12-11 | 2024-12-14 |
 | [Mirror](https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y) | 4:56 | 2025-01-18 | 2025-01-23 |
 | [Mis Amigas \- Remix](https://open.spotify.com/track/2i2bZmeljN5Ok9LZ0hp9UG) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [Mis Amigas \(Remix\)](https://open.spotify.com/album/6uWwH71DsVz53ivsbkbcrZ) | 6:03 | 2024-12-06 | 2024-12-12 |
@@ -4107,7 +4108,7 @@
 | [Suckin Up](https://open.spotify.com/track/2tgWfeFgrEbFrtAF6ymROm) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Suckin Up](https://open.spotify.com/album/3Qx8acQMNWDsXY6noSMuXZ) | 2:17 | 2024-08-16 | 2024-08-20 |
 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 | 2025-05-10 | 2025-05-18 |
 | [Sugabby](https://open.spotify.com/track/58IuYAWUpmXJh9YGPFQhCt) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sugabby](https://open.spotify.com/album/2JY5Q0RP6c2mlUrML3k4ec) | 2:27 | 2024-06-12 | 2024-06-14 |
-| [Sugar Free Venom feat\. Kesha \(Finn Keane Remix\)](https://open.spotify.com/track/6QtQa8o9bCq9NOGHOubNkF) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Sugar Free Venom feat\. Kesha \(Finn Keane Remix\)](https://open.spotify.com/album/2nVdVxKpTXX98WqOSvv3AI) | 3:59 | 2025-06-28 |  |
+| [Sugar Free Venom feat\. Kesha \(Finn Keane Remix\)](https://open.spotify.com/track/6QtQa8o9bCq9NOGHOubNkF) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Sugar Free Venom feat\. Kesha \(Finn Keane Remix\)](https://open.spotify.com/album/2nVdVxKpTXX98WqOSvv3AI) | 3:59 | 2025-06-28 | 2025-07-07 |
 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 | 2024-12-13 | 2024-12-20 |
 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 | 2024-12-05 | 2024-12-07 |
 | [Sugarcoated](https://open.spotify.com/track/3EdGkRv8PkxVAoqkFcJR9L) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Sugarcoated](https://open.spotify.com/album/4dv356EKWiXo9Z9HZ1BPGa) | 4:11 | 2024-06-20 | 2024-06-22 |

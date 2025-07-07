@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-780 songs - 2 day 2 hr 47 min
+781 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Brand new diary](https://open.spotify.com/track/1NDpxm2rXBs9xCuKjcrknw) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Brand new diary / まほうのかぜ](https://open.spotify.com/album/3amd7Ciz9s1KIksBdoGXZB) | 4:08 | 2022-06-14 | 2022-07-26 |
 | [Break](https://open.spotify.com/track/4hWhNL4cLfhLrt4Un3pdMG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Break](https://open.spotify.com/album/7heQ4Bz4LxGNSln7Z7uoPp) | 4:53 | 2022-06-21 | 2022-07-18 |
 | [Break out](https://open.spotify.com/track/7k4JoDf9XakuFA0S2xb10C) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Break out](https://open.spotify.com/album/6VVWb5rO9rST4OR4tvKml1) | 3:56 | 2022-06-14 | 2022-07-28 |
-| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2024-01-18 |  |
+| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2024-01-18 | 2025-07-07 |
 | [Broken Sky \(TVアニメ「無能なナナ」オープニングテーマ\)](https://open.spotify.com/track/4FW8KupupiKGSBRKdXJYgu) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Broken Sky \(TVアニメ「無能なナナ」オープニングテーマ\)](https://open.spotify.com/album/1gpVVTBYOuE4Aw5YXfKKGu) | 3:54 | 2022-06-03 | 2022-07-29 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-07-07 | 2022-10-19 |
 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 | 2025-04-18 | 2025-05-10 |
@@ -273,6 +273,7 @@
 | [Paradise](https://open.spotify.com/track/3yBeQAxk5Jb6bzvUpqu5qX) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Paradise](https://open.spotify.com/album/4c1Fq2QlSHxUxKlNrmtpjO) | 2:53 | 2022-06-03 | 2024-06-26 |
 | [PARADOX](https://open.spotify.com/track/6kKlQzWkGCiNE6Z0jmgypy) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [PARADOX](https://open.spotify.com/album/3L1uuhzZvZcgS2sk1fQTYL) | 4:13 | 2022-07-26 | 2022-07-29 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2024-01-09 | 2024-03-25 |
+| [PARAGON](https://open.spotify.com/track/5XbhCs9IBWBRJwsJoU3BeD) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [PARAGON](https://open.spotify.com/album/31mNUa6zQ3dAbW6xl0VP4Y) | 2:45 | 2025-07-06 |  |
 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 | 2022-07-14 | 2022-07-27 |
 | [PHOENIX](https://open.spotify.com/track/1BKZVtjSkZvZpVvtaiulw1) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [PHOENIX](https://open.spotify.com/album/4Ay9Oj3jvOZnS52HhTf6VY) | 4:06 | 2022-06-24 | 2022-07-08 |
 | [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 | 2022-07-28 | 2024-04-19 |

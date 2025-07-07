@@ -4353,6 +4353,28 @@
     },
     {
       "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/2Joy3B6X3ez01C8OJDM5bI"
+      },
+      "artists": [
+        {
+          "name": "London Elektricity",
+          "url": "https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal"
+        },
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233211,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/1xUWipjmghSmsX4XunDdre"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z"
       },
@@ -5502,7 +5524,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 240100,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6X4VJwhPhAbpgEMqCuHcl9"

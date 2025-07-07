@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 27, 28, 29 y 30\. Foto: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,349 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,347 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 103 | [Ronca \(Carta para una mija\)](https://open.spotify.com/track/4mrMJOIEADfaiKA4JGOxGI) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Ronca \(Carta para una mija\)](https://open.spotify.com/album/0ZMTvuqQsratPmmf2v4hva) | 3:42 |
 | 104 | [Aunque No Estés](https://open.spotify.com/track/0N258TTgaufqYDGCtBEYZX) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Me Hizo un Amarre](https://open.spotify.com/album/0KMp7IvuciTWlK9D0o0is2) | 3:20 |
 | 105 | [Helado y Oscuro](https://open.spotify.com/track/1SCLJm3Pf7IxlfKjzSHd1z) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edac Selectah](https://open.spotify.com/artist/7EICglBUtJwFr3CR72JWka), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Cine Negro](https://open.spotify.com/album/5XtXkmfrHgEL2MJyJf6yIl) | 3:55 |
-| 106 | [Testarossa Nightdrive](https://open.spotify.com/track/39ZvG3rdUhZFccoWnmejNu) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Teddy Boy](https://open.spotify.com/album/1SbguC3zYCsklaIGThmoMt) | 3:28 |
-| 107 | [Llorando En La Limo](https://open.spotify.com/track/67FhuBvtSAij3rAB3nRs4F) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Llorando En La Limo](https://open.spotify.com/album/641HF5Dke7iDKWLWIeKhir) | 2:17 |
+| 106 | [Llorando En La Limo](https://open.spotify.com/track/67FhuBvtSAij3rAB3nRs4F) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Llorando En La Limo](https://open.spotify.com/album/641HF5Dke7iDKWLWIeKhir) | 2:17 |
+| 107 | [Testarossa Nightdrive](https://open.spotify.com/track/39ZvG3rdUhZFccoWnmejNu) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Teddy Boy](https://open.spotify.com/album/1SbguC3zYCsklaIGThmoMt) | 3:28 |
 | 108 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
 | 109 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 |
 | 110 | [Good Times \(feat\. Triciq\)](https://open.spotify.com/track/3oSYwASkN2eAt0uGYanNP2) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Triciq](https://open.spotify.com/artist/6GqIDfk0pUJ5RT55F9um6o) | [Good Times \(feat\. Triciq\)](https://open.spotify.com/album/5KVoDkDSQBHEcNEWwVkuLE) | 3:51 |

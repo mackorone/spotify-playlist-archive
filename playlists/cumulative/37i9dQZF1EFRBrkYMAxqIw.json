@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "MILK",
+        "url": "https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210588,
+      "name": "MILK",
+      "url": "https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5"
+    },
+    {
+      "album": {
         "name": "Miss You Everyday",
         "url": "https://open.spotify.com/album/6A2G528TCQNZMH2VaY0RUS"
       },

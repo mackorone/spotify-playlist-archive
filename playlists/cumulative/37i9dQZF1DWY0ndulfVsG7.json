@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Marcell",
+        "url": "https://open.spotify.com/album/5hSfmtI2yqt541RTjuC8TU"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247853,
+      "name": "Firasat",
+      "url": "https://open.spotify.com/track/3cHjFfvxo7ZIz9Px32V9aA"
+    },
+    {
+      "album": {
         "name": "GILA KUASA",
         "url": "https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 249146,
       "name": "Penantian",
       "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"

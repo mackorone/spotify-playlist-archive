@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Yumdda\(염따\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,607 likes - 101 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,508 likes - 101 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

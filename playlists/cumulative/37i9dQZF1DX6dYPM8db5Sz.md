@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V?si=uFFw4lUmR6CQkAL4St3cxg">tan sholto</a>
 
-1,264 songs - 3 day 0 hr 5 min
+1,265 songs - 3 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-02 | 2023-05-19 |
 | [Karma Arcade](https://open.spotify.com/track/0J9bAWjeOafeNtKO6DqeXx) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Karma Arcade](https://open.spotify.com/album/6LpMhbgNRNHVlon4bkHakM) | 4:00 | 2023-03-02 | 2023-05-05 |
 | [Keep On Calling](https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Heavyweight Champion](https://open.spotify.com/album/4lwGU1857xh1ukKDey2zJl) | 2:23 | 2024-10-17 | 2025-01-25 |
-| [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-12 |  |
+| [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-12 | 2025-07-07 |
 | [Keep On Rollin'](https://open.spotify.com/track/06IJd0vms8dzPpYqWEnB7Q) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Keep On Rollin'](https://open.spotify.com/album/5gVwKSOlH9LvdB9fPCUMEJ) | 2:46 | 2024-07-26 | 2024-08-24 |
 | [Keep Running](https://open.spotify.com/track/4b02GNdHU9C7bwOfAYDorE) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Keep Running](https://open.spotify.com/album/1gcgL4kcrkKmwGZ7vCM3s0) | 3:28 | 2025-06-05 |  |
 | [Keep you here](https://open.spotify.com/track/05qFXEqMQcfktikZlWIqye) | [Phil Higgins](https://open.spotify.com/artist/1qStsFr93Vdc1UhLWhwXFq) | [Keep you here](https://open.spotify.com/album/35vJcTu8WqS3A4Uie8Vfsr) | 3:09 | 2025-04-03 | 2025-04-19 |
@@ -968,6 +968,7 @@
 | [Sodom](https://open.spotify.com/track/7tDdvAB0aeK852ghUkda2o) | [Arc the Forest](https://open.spotify.com/artist/4vGVtxTVcJXEOl2uOYKG4I) | [Sodom](https://open.spotify.com/album/38KTJyfLwpc1Sp2P5KUnEz) | 5:53 | 2024-06-27 | 2024-08-16 |
 | [Some Kind of Angel](https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Some Kind of Angel / Split Lip](https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw) | 4:34 | 2024-08-09 | 2024-10-18 |
 | [SOMEBODY](https://open.spotify.com/track/5he6ljlzMhvh5MFfulFy7D) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [SOMEBODY](https://open.spotify.com/album/4iKuvdY3iTdf7pdpYCvAuC) | 2:54 | 2025-02-06 | 2025-04-19 |
+| [Someone Else](https://open.spotify.com/track/40chr05A8qJGEOrTSGi2qL) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Someone Else](https://open.spotify.com/album/1eRQmS5J3hTsgnHsqFYRER) | 3:19 | 2025-07-03 |  |
 | [Something Better](https://open.spotify.com/track/4Sbc1jkrr7IvRwyiYGt5Pe) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Something Better](https://open.spotify.com/album/4KC9bLQnXIPOHEu050i5gA) | 3:17 | 2024-10-25 | 2025-01-31 |
 | [Something On My Mind](https://open.spotify.com/track/77Ezus1n5ldeQxMQVaWvqU) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Something On My Mind](https://open.spotify.com/album/4HUqTiWORCV5sFzOqJhGhi) | 3:42 | 2025-02-27 | 2025-04-19 |
 | [Something Somewhere](https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Something Somewhere](https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f) | 3:34 | 2022-10-20 | 2023-01-20 |

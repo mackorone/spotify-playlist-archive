@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "AIST",
       "url": "https://open.spotify.com/track/3VieScqwrczxcSVTsH20gu"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -6584,7 +6584,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 184075,
       "name": "Who (Acoustic Remix)",
       "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
@@ -6838,7 +6838,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 178296,
       "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
@@ -7274,7 +7274,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 148071,
       "name": "\u0411\u0440\u0430\u0433\u0438 \u0434\u0432\u0430 \u0431\u0438\u0434\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/0dUSYynpQkugfJ6Ic4LVKU"
@@ -7748,7 +7748,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 104026,
       "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
       "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
@@ -8092,7 +8092,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 153595,
       "name": "\u0414\u041e\u041c (\u041b\u043e\u043d\u0434\u043e\u043d, \u041f\u0440\u0430\u0433\u0430, \u041d\u0438\u0446\u0446\u0430)",
       "url": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
@@ -9136,7 +9136,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 246073,
       "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR"
@@ -10224,6 +10224,32 @@
       "duration_ms": 207321,
       "name": "\u041e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/1yrQI5Ycgi7xU9P4i98NXL"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0410\u041f\u0410",
+        "url": "https://open.spotify.com/album/1bIRpktyLvf7jvPZyfmEFP"
+      },
+      "artists": [
+        {
+          "name": "\u0442\u0451\u043c\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446",
+          "url": "https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV"
+        },
+        {
+          "name": "tewiq",
+          "url": "https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L"
+        },
+        {
+          "name": "FORTUNA 812",
+          "url": "https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102923,
+      "name": "\u041f\u0410\u041f\u0410",
+      "url": "https://open.spotify.com/track/5b6awK2tOZ6thRJIkE9Pbh"
     },
     {
       "album": {

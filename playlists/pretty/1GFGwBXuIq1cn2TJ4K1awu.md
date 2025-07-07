@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 23 likes - 11 songs - 44 min 13 sec
+[royva06](https://open.spotify.com/user/royva06) - 23 likes - 11 songs - 49 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Brass Bell](https://open.spotify.com/track/0mDUdCM6oFig4WfhZIcivS) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Desire Pathway](https://open.spotify.com/album/1YhzVctJR6aIwbkigCS6fu) | 4:23 |
-| 2 | [Crosshairs](https://open.spotify.com/track/3T2LUDcZRrOnYzV1FprZTy) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 2:26 |
-| 3 | [Old to Begin](https://open.spotify.com/track/0MYGfvHJ1DWZCOTc79V8dh) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners](https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h) | 3:22 |
-| 4 | [Final Phase \- Live AF Version](https://open.spotify.com/track/1SVVF03iLEw1HzkrtqkLwA) | [Clayton Nile Young](https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm), [Western AF](https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK) | [Clayton Nile Young Live AF Session \(Live AF Version\)](https://open.spotify.com/album/5oOt5kqd9waKLHbnJKQmZT) | 4:08 |
-| 5 | [Act Natural](https://open.spotify.com/track/3urh371tmIWyKiK5D7emx1) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 4:19 |
-| 6 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
-| 7 | [Arcanum](https://open.spotify.com/track/7MDSptyhpzjuErXQV9T6BD) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dog Whistle](https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy) | 3:00 |
-| 8 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
-| 9 | [Alternate Reality](https://open.spotify.com/track/2sbeog2Zj3ygYqDglyA4J8) | [Weep Wave](https://open.spotify.com/artist/5JeSvYuWh9NmdgykwMUQfE) | [Alternate Reality](https://open.spotify.com/album/5WlDRJvuNmyWBD7uP19Fac) | 3:21 |
-| 10 | [American Spirits](https://open.spotify.com/track/0blDo5PD8DJTQVI5ATvqhW) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [American Spirits](https://open.spotify.com/album/5DUvm3JSyKM7Oe1bht1vZF) | 4:04 |
-| 11 | [Snow Is Gone](https://open.spotify.com/track/5mLTOwoE6LNS34RtotMEso) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:03 |
+| 1 | [Pick Up Your Feelings](https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:49 |
+| 2 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 |
+| 3 | [Police Station](https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 5:35 |
+| 4 | [Street Talkin'](https://open.spotify.com/track/4TGHOWSNAwUXn5onDQr0P1) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Art Of Storytelling](https://open.spotify.com/album/4cZL0gsOEIOPLXdhc18vex) | 3:41 |
+| 5 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
+| 6 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 |
+| 7 | [A Tear for Eddie](https://open.spotify.com/track/0Zfh0ooSSvLLQkk3NQ1kHP) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Chocolate and Cheese](https://open.spotify.com/album/5Ci3qdm3m5wnkK9ORy2hU5) | 4:49 |
+| 8 | [Come Back Jonee](https://open.spotify.com/track/2gtceWbPOZYvLK5nj02Kci) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:49 |
+| 9 | [Amour dans le motu](https://open.spotify.com/track/3YUC6sdWjRHqBmD48Bb3ya) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Psycho Tropical Berlin](https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp) | 4:39 |
+| 10 | [Valleys Of The Young](https://open.spotify.com/track/6OKOwqVfeZ8cb6bicdjkzT) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Are You Serious](https://open.spotify.com/album/6TqAnRWjGY3ztfajmS0HSG) | 5:33 |
+| 11 | [Marion](https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:21 |
 
-Snapshot ID: `AAAGqXdMb03jimbglPHaoXi0bGL6lvc1`
+Snapshot ID: `AAAGv3EOqzTyjVRbY0qYYZjWiTwqZYEI`

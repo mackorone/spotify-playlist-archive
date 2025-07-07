@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2046,
+  "num_followers": 2047,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZgAAAAABRL60XmQZyx8xj0oQPh6eb",
+  "snapshot_id": "aGhrAAAAAAD8Lz6BLs5R95ttFSNsNzXD",
   "tracks": [
     {
       "added_at": null,
@@ -139,34 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Inter\u00e9s Se Destap\u00f3",
-        "url": "https://open.spotify.com/album/25jWazZXlVqCPIYdPDAMfc"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 150740,
-      "name": "El Inter\u00e9s Se Destap\u00f3",
-      "url": "https://open.spotify.com/track/4eyp2tuPsQsUru7oywxAAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mafioso Americano",
         "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
       },
@@ -191,6 +163,34 @@
       "duration_ms": 142501,
       "name": "Mafioso Americano",
       "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Inter\u00e9s Se Destap\u00f3",
+        "url": "https://open.spotify.com/album/25jWazZXlVqCPIYdPDAMfc"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 150740,
+      "name": "El Inter\u00e9s Se Destap\u00f3",
+      "url": "https://open.spotify.com/track/4eyp2tuPsQsUru7oywxAAL"
     },
     {
       "added_at": null,

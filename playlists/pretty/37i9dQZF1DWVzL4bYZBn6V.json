@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 26030,
+  "num_followers": 26055,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE"
+      },
+      "artists": [
+        {
+          "name": "Oxide & Neutrino",
+          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
+        },
+        {
+          "name": "Leo The Lion",
+          "url": "https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL"
+        }
+      ],
+      "duration_ms": 194290,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "Hey You (Love Comes First)",
         "url": "https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I"
       },
@@ -663,42 +683,18 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE"
+        "name": "Dance and Chant",
+        "url": "https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq"
       },
       "artists": [
         {
-          "name": "Oxide & Neutrino",
-          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
-        },
-        {
-          "name": "Leo The Lion",
-          "url": "https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL"
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
         }
       ],
-      "duration_ms": 194290,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB"
-      },
-      "artists": [
-        {
-          "name": "Cytrax",
-          "url": "https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U"
-        },
-        {
-          "name": "Sebastian Mateo",
-          "url": "https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus"
-        }
-      ],
-      "duration_ms": 142612,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto"
+      "duration_ms": 189677,
+      "name": "Dance and Chant",
+      "url": "https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -719,18 +715,22 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Dance and Chant",
-        "url": "https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq"
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB"
       },
       "artists": [
         {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+          "name": "Cytrax",
+          "url": "https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U"
+        },
+        {
+          "name": "Sebastian Mateo",
+          "url": "https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Dance and Chant",
-      "url": "https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1"
+      "duration_ms": 142612,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto"
     },
     {
       "added_at": "2024-03-28 01:32:56",

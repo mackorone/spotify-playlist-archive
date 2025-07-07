@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 984,
+  "num_followers": 985,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZgAAAAABSIC/ZRjyl+0FK9OGyql3u",
+  "snapshot_id": "aGhrAAAAAADOD8uqX/GYV60jO4e/g6LH",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Kings Highway",
-      "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
         "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 358461,
       "name": "Call Me the Breeze - Live at the Fillmore, 1997",
       "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Kings Highway",
+      "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"
     },
     {
       "added_at": null,
@@ -536,9 +536,25 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 189266,
-      "name": "Two Gunslingers",
-      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
+      "duration_ms": 202973,
+      "name": "The Dark Of The Sun",
+      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Up (I've Had Enough)",
+        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "It'll All Work Out",
+      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 260972,
       "name": "Insider",
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Me Up (I've Had Enough)",
-        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "It'll All Work Out",
-      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
     },
     {
       "added_at": null,
@@ -604,25 +604,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 202973,
-      "name": "The Dark Of The Sun",
-      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Something Big",
-      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
+      "duration_ms": 225293,
+      "name": "All The Wrong Reasons",
+      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 145201,
       "name": "Needles And Pins - Live At The The Forum/1981",
       "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Something Big",
+      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 225293,
-      "name": "All The Wrong Reasons",
-      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
+      "duration_ms": 189266,
+      "name": "Two Gunslingers",
+      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "The Wild One, Forever",
-      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Concert For George (Live)",
         "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "The Wild One, Forever",
+      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Mystery Man",
-      "url": "https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Won't Back Down (Live at the Fillmore, 1997)",
         "url": "https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 222436,
       "name": "I Won't Back Down - Live at the Fillmore, 1997",
       "url": "https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 341680,
+      "name": "Friend of the Devil - Live",
+      "url": "https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

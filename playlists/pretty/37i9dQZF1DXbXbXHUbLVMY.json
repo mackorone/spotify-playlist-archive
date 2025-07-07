@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 149,
+  "num_followers": 155,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "TT2",
-        "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        }
-      ],
-      "duration_ms": 221350,
-      "name": "Aldebaran (feat. vinni)",
-      "url": "https://open.spotify.com/track/7fx9OH8lBckr9n1rciaIYM"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Brunette & Blondine (feat. Tyr)",
         "url": "https://open.spotify.com/album/2GaBMPzaLkAgr59lCKyTAd"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 131603,
       "name": "Brunette & Blondine (feat. Tyr)",
       "url": "https://open.spotify.com/track/6Veqegam37sgXeKNaKSXly"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "TT2",
+        "url": "https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "duration_ms": 221350,
+      "name": "Aldebaran (feat. vinni)",
+      "url": "https://open.spotify.com/track/7fx9OH8lBckr9n1rciaIYM"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Storby Psykose",
-        "url": "https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP"
-      },
-      "artists": [
-        {
-          "name": "Kode.59",
-          "url": "https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Storby Psykose",
-      "url": "https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Plz",
         "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 142118,
       "name": "Plz",
       "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Storby Psykose",
+        "url": "https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP"
+      },
+      "artists": [
+        {
+          "name": "Kode.59",
+          "url": "https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Storby Psykose",
+      "url": "https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Fem p\u00e5",
-        "url": "https://open.spotify.com/album/1GvOJMcNr3HFbN7YRcrVZe"
-      },
-      "artists": [
-        {
-          "name": "Nossan",
-          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
-        }
-      ],
-      "duration_ms": 127578,
-      "name": "Fem p\u00e5",
-      "url": "https://open.spotify.com/track/4fFVXD0wGWz1uvQvXXt8Mt"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Boys I D Bl\u00e5",
         "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Fem p\u00e5",
+        "url": "https://open.spotify.com/album/1GvOJMcNr3HFbN7YRcrVZe"
+      },
+      "artists": [
+        {
+          "name": "Nossan",
+          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
+        }
+      ],
+      "duration_ms": 127578,
+      "name": "Fem p\u00e5",
+      "url": "https://open.spotify.com/track/4fFVXD0wGWz1uvQvXXt8Mt"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "ROSA BLOMST",
-        "url": "https://open.spotify.com/album/2rSLPuHbKJ21KIMHiie3s7"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        },
-        {
-          "name": "FRAM",
-          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
-        }
-      ],
-      "duration_ms": 202145,
-      "name": "ROSA BLOMST",
-      "url": "https://open.spotify.com/track/7gW0MBMwTtOfwGmpd4njBr"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Natalie",
         "url": "https://open.spotify.com/album/5lWzTiBVNoylShsjwMu7Tz"
       },
@@ -1359,22 +1339,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Geek'd",
-        "url": "https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT"
+        "name": "ROSA BLOMST",
+        "url": "https://open.spotify.com/album/2rSLPuHbKJ21KIMHiie3s7"
       },
       "artists": [
         {
-          "name": "LAY",
-          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
         },
         {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+          "name": "FRAM",
+          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
         }
       ],
-      "duration_ms": 154112,
-      "name": "Geek'd",
-      "url": "https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi"
+      "duration_ms": 202145,
+      "name": "ROSA BLOMST",
+      "url": "https://open.spotify.com/track/7gW0MBMwTtOfwGmpd4njBr"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1395,6 +1375,26 @@
       "duration_ms": 167315,
       "name": "I DAG",
       "url": "https://open.spotify.com/track/28Dz9bnFa5iKkubc51TCml"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Geek'd",
+        "url": "https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 154112,
+      "name": "Geek'd",
+      "url": "https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi"
     },
     {
       "added_at": "2025-05-22 22:00:39",

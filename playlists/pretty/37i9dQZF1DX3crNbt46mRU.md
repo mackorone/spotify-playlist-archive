@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including WizTheMc, Zoë Më, Mike Candys, CRO and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,932 likes - 87 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,934 likes - 87 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

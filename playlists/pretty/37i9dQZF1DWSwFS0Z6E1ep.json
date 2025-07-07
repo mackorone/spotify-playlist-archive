@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 284795,
+  "num_followers": 284945,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Saga All Stars: Be Bop a Lula / 1956",
         "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 156493,
       "name": "Be Bop a Lula",
       "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Mr Sandman - All the Hits",
-        "url": "https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
         }
       ],
-      "duration_ms": 144039,
-      "name": "Mister Sandman",
-      "url": "https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw"
+      "duration_ms": 129000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf"
+        "name": "Mr Sandman - All the Hits",
+        "url": "https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X"
+      "duration_ms": 144039,
+      "name": "Mister Sandman",
+      "url": "https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw"
     },
     {
       "added_at": "2022-06-07 05:25:13",

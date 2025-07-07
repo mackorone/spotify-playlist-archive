@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-123 songs - 9 hr 9 min
+124 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cañaveral](https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cañaveral](https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB) | 2:58 | 2024-03-29 |  |
 | [Chilenitas \(Orozco / Barrientos\) \[Remix\]](https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ) | [Vol\. 1](https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8) | 6:19 | 2023-08-11 |  |
 | [Cometa](https://open.spotify.com/track/57579JMa428PUzNyRHRtsm) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 4:56 | 2023-08-11 | 2024-04-19 |
-| [Cometa](https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Cometa](https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP) | 4:56 | 2024-03-29 |  |
+| [Cometa](https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Cometa](https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP) | 4:56 | 2024-03-29 | 2025-07-07 |
 | [Como la Cigarra](https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como la Cigarra](https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH) | 4:09 | 2023-11-10 | 2025-01-08 |
 | [Coplita](https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:49 | 2023-08-11 | 2024-04-19 |
 | [Coplita](https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 3:49 | 2024-03-29 |  |
@@ -109,6 +109,7 @@
 | [Sirenita](https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:28 | 2023-08-11 |  |
 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 | 2023-08-11 |  |
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-08-11 | 2024-04-19 |
+| [Sueño en Paraguay](https://open.spotify.com/track/4ftvb265vdOHzBQyyM0BrY) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2X5Nk2XusVqGqtaYAU5QnO) | 3:53 | 2025-04-25 |  |
 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 | 2023-08-11 |  |
 | [Suéltalo](https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:11 | 2023-08-11 |  |
 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 | 2024-03-08 |  |

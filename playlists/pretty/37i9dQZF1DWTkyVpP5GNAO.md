@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Un Corazón
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,173 likes - 75 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,242 likes - 75 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

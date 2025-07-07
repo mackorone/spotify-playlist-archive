@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 74360,
+  "num_followers": 74374,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 191920,
-      "name": "Sufriendo por Tu Amor",
-      "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"
+      "duration_ms": 202400,
+      "name": "Mar\u00eda Elena",
+      "url": "https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Mar\u00eda Elena",
-      "url": "https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv"
+      "duration_ms": 191920,
+      "name": "Sufriendo por Tu Amor",
+      "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Mil Cantinas",
-      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
         "name": "Me Quisiste Jugar a La Mala",
         "url": "https://open.spotify.com/album/1EX91QM9Yuy4uI3q0MfR8x"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 303349,
       "name": "Tus Maletas Ya Est\u00e1s en la Puerta",
       "url": "https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Mil Cantinas",
+      "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
-      },
-      "artists": [
-        {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
-        }
-      ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
         "name": "12 A\u00f1os de Historia",
         "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 178586,
       "name": "La Rumbera",
       "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
+      },
+      "artists": [
+        {
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
+        }
+      ],
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1471,18 +1487,22 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+        "name": "Cumbias",
+        "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
       "artists": [
         {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        },
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
         }
       ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+      "duration_ms": 235994,
+      "name": "El Chorito de Violeta",
+      "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1503,22 +1523,18 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "Cumbias",
-        "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        },
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
         }
       ],
-      "duration_ms": 235994,
-      "name": "El Chorito de Violeta",
-      "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1551,22 +1567,6 @@
       "duration_ms": 268324,
       "name": "Golero Emparamao",
       "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2025-06-13 11:46:14",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-06-13 11:46:14",
       "album": {
-        "name": "Aqu\u00ed Hay Para Llevar",
-        "url": "https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Aqu\u00ed Hay Para Llevar",
-      "url": "https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk"
-    },
-    {
-      "added_at": "2025-06-13 11:46:14",
-      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 224328,
       "name": "Tarjetita de Invitacion",
       "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
+    },
+    {
+      "added_at": "2025-06-13 11:46:14",
+      "album": {
+        "name": "Aqu\u00ed Hay Para Llevar",
+        "url": "https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Aqu\u00ed Hay Para Llevar",
+      "url": "https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk"
     }
   ],
   "unique_name": "Ranchera Chilena",

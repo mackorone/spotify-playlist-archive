@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 140741,
       "name": "everything has changed",
       "url": "https://open.spotify.com/track/6e99GMMcdhA7B73qMK3zK5"
@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/6aOFvbkNJUbutdkF7mQP31"
+      },
+      "artists": [
+        {
+          "name": " SHIN SOOHYUN",
+          "url": "https://open.spotify.com/artist/4cYFhgAfVfdeAy40A7pyO8"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/4SaKKiDTgFIJvoeG1mjlgf"
+    },
+    {
+      "album": {
         "name": "Stairs",
         "url": "https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k"
       },
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
@@ -2840,6 +2858,24 @@
       "duration_ms": 239866,
       "name": "Saying Hello",
       "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
+    },
+    {
+      "album": {
+        "name": "Seesaw",
+        "url": "https://open.spotify.com/album/0sqUVkNYhIvfiC37x1MxHl"
+      },
+      "artists": [
+        {
+          "name": "onthedal",
+          "url": "https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173081,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/2QmCEHRbRyl1OjqBC0lmoS"
     },
     {
       "album": {
@@ -3978,10 +4014,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "album": {
+        "name": "Big Baby Driver",
+        "url": "https://open.spotify.com/album/0K3kITcUWB1iM35W2KLJpQ"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Driver",
+          "url": "https://open.spotify.com/artist/4JgbccOQwDGx8VDrmJsxMI"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "Your Sun Is Stupid",
+      "url": "https://open.spotify.com/track/0dSzOuc6GcCz4IYUgyTAie"
     },
     {
       "album": {

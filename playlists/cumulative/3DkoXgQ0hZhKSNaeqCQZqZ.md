@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-361 songs - 18 hr 58 min
+362 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [GOING TO PUNCH YOU](https://open.spotify.com/track/3iPdFhPWzJAlyGpafXmnjN) | [Labirhin](https://open.spotify.com/artist/2rYGNtQDYXTIbFHWYUCFqJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [GOING TO PUNCH YOU](https://open.spotify.com/album/597BsHHMigrZANoHToGSCo) | 4:26 | 2024-11-20 |  |
 | [goodbyeee](https://open.spotify.com/track/2w4Ur3dJ5JxkaUploGOhvc) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:45 | 2025-02-03 |  |
 | [Gorveve](https://open.spotify.com/track/2golnpSgmVjIgUjvlz4CWk) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:09 | 2025-01-25 |  |
+| [Gospel for Triumph](https://open.spotify.com/track/0HqHMuxRCndUaivcYjUBqR) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 3:23 | 2025-07-06 |  |
 | [GOTH BITCH DUB \- 5p4M Remix](https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z) | [621 gecs](https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG), [5p4M](https://open.spotify.com/artist/5tXGRStVIEvCT3bncuaYyf) | [GOTH BITCH DUB: DARK MODE ACTIVATED](https://open.spotify.com/album/5LCXcFfKxBXdqzGrKoB9MN) | 3:03 | 2025-01-27 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 |  |

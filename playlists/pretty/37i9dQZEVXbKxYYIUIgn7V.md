@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,536 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,535 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 28 | [Lasso](https://open.spotify.com/track/7vLreMnsAOaGEYIu9t2O2B) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Lasso](https://open.spotify.com/album/76ZnVlWJkvJtRPIzsTWTXE) | 2:09 |
 | 29 | [Bodybag](https://open.spotify.com/track/2AYXKzmP96hKY0wlfUb4Ab) | [AngelofAnarchy](https://open.spotify.com/artist/5dt8gRLDwIgSS0uwxvxqqJ) | [The Reckoning](https://open.spotify.com/album/5VbZJjZrvdA5su0k4kqoXi) | 3:48 |
 | 30 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
-| 31 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
+| 31 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
 | 32 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 |
 | 33 | [Montagem Bandido](https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK) | [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [Itamar Mc](https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ) | [Montagem Bandido](https://open.spotify.com/album/6uB5gLHk5SnUN9oDP0ADBy) | 1:26 |
 | 34 | [Airplane Mode](https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [Als du gingst \- edit](https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ) | [Contec](https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX), [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Als du gingst \(edit\)](https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F) | 3:59 |
 | 50 | [Just What I Said \(Everything In Its Right Place\)](https://open.spotify.com/track/1ImBKMKY6kr26rNTZ7dEKx) | [High Beam](https://open.spotify.com/artist/6JlpA7oDmgLFpyEuwpX9Sr) | [Just What I Said \(Everything In Its Right Place\)](https://open.spotify.com/album/74oGQ6WbH59pCuxcN6om5m) | 3:16 |
 
-Snapshot ID: `L/ycKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L/3rUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

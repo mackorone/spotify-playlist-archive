@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Pośnik
 
-508 songs - 1 day 0 hr 37 min
+509 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 | 2024-06-28 | 2024-07-12 |
 | [chłodniejsze noce](https://open.spotify.com/track/2MI9NuIHwCn6aLf90erAtQ) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [chłodniejsze noce](https://open.spotify.com/album/1WJlceX1m1d2Qp4MigRlZZ) | 2:10 | 2024-07-25 | 2024-08-31 |
 | [chłopcy](https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4) | [RYSIA](https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp) | [chłopcy](https://open.spotify.com/album/0HyxlVOaa4Cf7KTSdDGzWN) | 2:24 | 2024-06-28 | 2024-07-19 |
+| [Ciarki](https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ciarki](https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy) | 3:52 | 2025-07-03 |  |
 | [ciut za bardzo](https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [ciut za bardzo](https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG) | 2:27 | 2025-04-24 | 2025-06-06 |
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 | 2024-10-19 |
 | [co ty na to?](https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu), [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [co ty na to?](https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC) | 2:31 | 2025-05-01 |  |
@@ -134,7 +135,7 @@
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-23 | 2025-03-21 |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-10-05 |
 | [falochron](https://open.spotify.com/track/5o0OlsASevD0ArIop32BSf) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Serce](https://open.spotify.com/album/2DS7nuqs28amXxGagoQ6fh) | 2:40 | 2025-02-20 | 2025-03-28 |
-| [Fałszywy Alarm](https://open.spotify.com/track/3LD6yLhUAuuL5blEvO3CAz) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Fałszywy Alarm](https://open.spotify.com/album/60P2rzRXJzgHhwDBTfo55l) | 2:37 | 2025-06-19 |  |
+| [Fałszywy Alarm](https://open.spotify.com/track/3LD6yLhUAuuL5blEvO3CAz) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Fałszywy Alarm](https://open.spotify.com/album/60P2rzRXJzgHhwDBTfo55l) | 2:37 | 2025-06-19 | 2025-07-07 |
 | [Fikcje](https://open.spotify.com/track/4ohdSHxQPdFsXBUueLetd7) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3) | [Fikcje](https://open.spotify.com/album/30272fiEqUNicMf5MoTo26) | 2:18 | 2024-06-28 | 2024-08-31 |
 | [Filozof](https://open.spotify.com/track/62FnWjof4qPzSVCUmmACaD) | [Zofie](https://open.spotify.com/artist/0OO46T770SxOKPhS7oVAze) | [Filozof](https://open.spotify.com/album/5suovL7M8Qg0HH5CH2OD0x) | 3:20 | 2024-09-13 | 2025-01-17 |
 | [FIXER](https://open.spotify.com/track/2mFIc7ofw7PMEu9jFduGih) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [FIXER](https://open.spotify.com/album/4B94tHapJFnI2OdjJ3Gc0h) | 2:49 | 2024-06-28 | 2024-07-12 |

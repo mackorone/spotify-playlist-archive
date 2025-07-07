@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. mvrk
+> Si está pegao, está aquí\. Feat\. Quevedo
 
-805 songs - 1 day 20 hr 23 min
+806 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -733,6 +733,7 @@
 | [Tu Silueta](https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [Tu Silueta](https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ) | 2:50 | 2024-07-15 | 2024-08-09 |
 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 | 2025-07-03 |  |
 | [TU$$I \(with Dei V\)](https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TU$$I \(with Dei V\)](https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo) | 2:43 | 2024-03-04 | 2024-08-24 |
+| [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 | 2025-07-06 |  |
 | [Tuenti \- Remix](https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Tuenti \(Remix\)](https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd) | 3:04 | 2023-03-06 | 2023-09-19 |
 | [Tus Labios](https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tus Labios](https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD) | 2:55 | 2023-08-21 | 2023-09-22 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-21 | 2023-02-11 |
@@ -782,7 +783,7 @@
 | [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-01-19 | 2023-05-26 |
 | [WAOH](https://open.spotify.com/track/392RMn7DKpoufH8drqqPwT) | [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [WAOH](https://open.spotify.com/album/02FyUStIS7iSdmEgVbLyR9) | 3:18 | 2022-06-13 | 2023-03-18 |
 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 | 2025-04-29 | 2025-05-27 |
-| [WEKEWEKE](https://open.spotify.com/track/2CkCVfu5PvE9lpNKFwhvDy) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [NATSUKASHII YORU](https://open.spotify.com/album/2kqsyJgOp61wugJ9VvmgNY) | 2:26 | 2025-06-20 |  |
+| [WEKEWEKE](https://open.spotify.com/track/2CkCVfu5PvE9lpNKFwhvDy) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [NATSUKASHII YORU](https://open.spotify.com/album/2kqsyJgOp61wugJ9VvmgNY) | 2:26 | 2025-06-20 | 2025-07-07 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-19 | 2023-08-29 |
 | [Whiskey y Coco](https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Whiskey y Coco](https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP) | 3:06 | 2023-01-17 | 2023-08-25 |
 | [Whisky](https://open.spotify.com/track/3FuDnj8GeuIDPyFsLOmyck) | [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15) | [Whisky](https://open.spotify.com/album/5aJsTrpQM8yPrW8FQiWOjk) | 5:05 | 2024-07-01 | 2024-08-10 |

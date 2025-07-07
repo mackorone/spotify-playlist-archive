@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Olivier Dion
 
-3,392 songs - 7 day 11 hr 24 min
+3,393 songs - 7 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Bando](https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Bando](https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv) | 3:12 | 2023-10-13 | 2023-10-21 |
 | [Bang](https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Bang](https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV) | 3:47 | 2024-05-31 | 2024-06-15 |
 | [Bang Bang Bang](https://open.spotify.com/track/2GCo6tiqduhpuaY0qL7Hl1) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Bang Bang Bang](https://open.spotify.com/album/6n927dm48RWFEEYQStM5IK) | 2:44 | 2023-01-06 | 2023-01-21 |
+| [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 | 2025-07-04 |  |
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-06-24 |
 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 | 2022-07-22 | 2022-08-20 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-08-20 |
@@ -1301,7 +1302,7 @@
 | [Inconfortable](https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT) | [Les Hôtesses D' Hilaire](https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx) | [Pas l'temps d'niaiser](https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz) | 3:09 | 2022-05-20 | 2022-05-28 |
 | [Inconnue](https://open.spotify.com/track/6aTQOwzD5uo3XG8gl2hfad) | [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Inconnue](https://open.spotify.com/album/6DapncaJGdKm4Hji5Za5D0) | 4:00 | 2022-07-29 | 2022-08-27 |
 | [INDIGESTE](https://open.spotify.com/track/3ZDi3WHqcMnKmzkURhullh) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [INDIGESTE](https://open.spotify.com/album/2M6g0osfsD5esMvkZUX5JX) | 4:19 | 2022-11-25 | 2022-12-17 |
-| [Insensé](https://open.spotify.com/track/1doknjXvcjJZMWVepbMFgV) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Insensé](https://open.spotify.com/album/0FBPNEXIWNHywPOjV2jw6e) | 2:04 | 2025-05-15 |  |
+| [Insensé](https://open.spotify.com/track/1doknjXvcjJZMWVepbMFgV) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Insensé](https://open.spotify.com/album/0FBPNEXIWNHywPOjV2jw6e) | 2:04 | 2025-05-15 | 2025-07-07 |
 | [Insolente](https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP) | [Les Chiens De Ruelles](https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG) | [BTDT](https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF) | 3:44 | 2024-08-16 | 2024-08-24 |
 | [Insomnie](https://open.spotify.com/track/796wDfpMVf6AclNfs8w5gm) | [Rainmen](https://open.spotify.com/artist/6jO6wTP1F8pJ6XEUBYTs7z) | [Insomnie](https://open.spotify.com/album/5qGeFK5yQOW0a28H8YnnVf) | 3:12 | 2022-04-15 | 2022-04-23 |
 | [Instable](https://open.spotify.com/track/0qU0zMPwr74UR5eKtGrIaT) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Instable](https://open.spotify.com/album/1NGUzRGlK6MXt1BAhVRdEy) | 4:02 | 2024-03-01 | 2024-03-09 |

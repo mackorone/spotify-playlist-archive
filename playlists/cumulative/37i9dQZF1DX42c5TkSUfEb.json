@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 167000,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX"
@@ -6851,6 +6851,24 @@
     },
     {
       "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203615,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
+    },
+    {
+      "album": {
         "name": "Two in This Story",
         "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
       },
@@ -7389,6 +7407,24 @@
     },
     {
       "album": {
+        "name": "\u00e0 deux",
+        "url": "https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205808,
+      "name": "\u00e0 deux",
+      "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"
+    },
+    {
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7"
       },
@@ -7400,7 +7436,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 204013,
       "name": "\u00c0 quoi pensait-elle",
       "url": "https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH"

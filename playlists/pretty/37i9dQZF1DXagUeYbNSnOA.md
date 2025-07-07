@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels, featuring KORDELYA\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,329 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,336 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

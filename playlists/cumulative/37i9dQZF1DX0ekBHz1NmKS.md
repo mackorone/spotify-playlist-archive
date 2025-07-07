@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,935 songs - 4 day 4 hr 16 min
+1,936 songs - 4 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1536,7 +1536,7 @@
 | [SOVA ME NÅN ANNAN](https://open.spotify.com/track/7nXfkFG6fNIPwE8DcAw5PT) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [SOVA ME NÅN ANNAN](https://open.spotify.com/album/6MUzMkt675hx5r08JPuqpx) | 2:17 | 2024-04-19 | 2024-05-24 |
 | [Sover du själv?](https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Sover du själv?](https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP) | 3:03 | 2023-01-19 | 2023-10-06 |
 | [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 | 2022-12-25 |
-| [SPACEBOY](https://open.spotify.com/track/0340AFk1HE5Za7urTUwk18) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [SPACEBOY](https://open.spotify.com/album/0klNLXWxb8FA4wknzVRr2J) | 3:07 | 2025-04-03 |  |
+| [SPACEBOY](https://open.spotify.com/track/0340AFk1HE5Za7urTUwk18) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [SPACEBOY](https://open.spotify.com/album/0klNLXWxb8FA4wknzVRr2J) | 3:07 | 2025-04-03 | 2025-07-07 |
 | [Sparks](https://open.spotify.com/track/2pk58ypvSyuuZXYd3TRfwA) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Sparks](https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ) | 3:34 | 2024-08-29 | 2024-09-29 |
 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-23 |
@@ -1644,6 +1644,7 @@
 | [Take My Breath Away](https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Take My Breath Away](https://open.spotify.com/album/08W5cB0Uv3QNij1Lqqo8mk) | 3:00 | 2024-02-22 | 2024-04-12 |
 | [Talk](https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Talk](https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ) | 3:44 | 2024-09-19 | 2024-10-05 |
 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 | 2024-06-27 | 2025-03-14 |
+| [Tappar det](https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Tappar det](https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C) | 2:35 | 2025-07-05 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 | 2023-10-06 |
 | [Tappat Sina Blad](https://open.spotify.com/track/4Kuu57ri5Bw9RkypofKili) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Tappat Sina Blad](https://open.spotify.com/album/6HmQDEmDgdQDOYCLDNM5FZ) | 2:28 | 2024-08-29 | 2024-10-11 |
 | [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 | 2022-11-08 |

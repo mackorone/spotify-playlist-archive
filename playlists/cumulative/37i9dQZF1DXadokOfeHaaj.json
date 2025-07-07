@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Hey Hi Hello",
+        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Hey Hi Hello",
+      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
+    },
+    {
+      "album": {
         "name": "Higher Ground (feat. Roosevelt)",
         "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 181921,
       "name": "It Feels Much Better",
       "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
@@ -4600,7 +4618,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 199718,
       "name": "Put Your Love On Me (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/3vgDmz3zXSanBA52SeTmtD"
@@ -6176,6 +6194,28 @@
       "duration_ms": 236973,
       "name": "Turn It Into Love",
       "url": "https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Love",
+        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186728,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
     },
     {
       "album": {

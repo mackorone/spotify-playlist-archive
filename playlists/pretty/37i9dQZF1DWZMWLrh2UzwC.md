@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from 3P, BABYMONSTER, Kesha, Sydney Rose, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,593 likes - 81 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,599 likes - 81 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

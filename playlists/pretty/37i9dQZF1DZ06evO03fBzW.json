@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 116035,
+  "num_followers": 116033,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGcZgAAAAAA6ZTTExLnlEMtPycBGneqt",
+  "snapshot_id": "aGhrAAAAAABxEl5IcAvjeJDZnAbneW0v",
   "tracks": [
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN"
+        "name": "Tastes Like Gold",
+        "url": "https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW"
       },
       "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        },
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY"
+      "duration_ms": 161911,
+      "name": "Mouth Shut (feat. Adrian Young of No Doubt)",
+      "url": "https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH"
     },
     {
       "added_at": null,
@@ -667,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tastes Like Gold",
-        "url": "https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW"
+        "name": "Push And Shove (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN"
       },
       "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        },
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 161911,
-      "name": "Mouth Shut (feat. Adrian Young of No Doubt)",
-      "url": "https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH"
+      "duration_ms": 246400,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY"
     },
     {
       "added_at": null,

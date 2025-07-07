@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenes que esuchar  📸 Yami Safdie & Emilia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,049 likes - 107 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,152 likes - 107 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

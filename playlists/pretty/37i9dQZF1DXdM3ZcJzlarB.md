@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,975 likes - 107 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,991 likes - 107 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

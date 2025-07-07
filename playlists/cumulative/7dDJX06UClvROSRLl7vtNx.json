@@ -4016,7 +4016,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 138260,
       "name": "Don't Waste My Time",
       "url": "https://open.spotify.com/track/2Mpbc0ciNa7nFIctbJJDRX"
@@ -8550,7 +8550,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 141428,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/7pPte6HEi00pcjkm3JoTMs"
@@ -12639,6 +12639,24 @@
     },
     {
       "album": {
+        "name": "Never Say Goodbye",
+        "url": "https://open.spotify.com/album/5Mj9xW75Kh49AvTC2fsS9H"
+      },
+      "artists": [
+        {
+          "name": "Namic",
+          "url": "https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155810,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/5hCod6lx9NNAxS1MfZrsAl"
+    },
+    {
+      "album": {
         "name": "Never Tell You",
         "url": "https://open.spotify.com/album/1vkY2zDAMJZloanPD1xNRo"
       },
@@ -12720,6 +12738,24 @@
       "duration_ms": 150280,
       "name": "New Day",
       "url": "https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M"
+    },
+    {
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/6I1Lr576NkgZNlulnoN8dm"
+      },
+      "artists": [
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/1EEW8moUPpF7POgp6ZQTmL"
     },
     {
       "album": {
@@ -13356,7 +13392,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 124324,
       "name": "On The Phone",
       "url": "https://open.spotify.com/track/7yqQzz7dv2KsEVEg2MZTBb"
@@ -14620,6 +14656,32 @@
       "duration_ms": 135104,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/5NcM2opc4PrK3q9V8EDa6c"
+    },
+    {
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4btQD4BOEd3oVFbSJxA2RF"
+      },
+      "artists": [
+        {
+          "name": "James Lacey",
+          "url": "https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG"
+        },
+        {
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        },
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4WxSgt9RE9Ym1ClRJu57Zk"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138387,
+      "name": "Remind Me Tomorrow",
+      "url": "https://open.spotify.com/track/0HPNSm3OSeTuGYEyQUXOto"
     },
     {
       "album": {

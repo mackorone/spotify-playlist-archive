@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 120000,
       "name": "El Palo",
       "url": "https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj"
@@ -9922,6 +9922,28 @@
       "duration_ms": 128000,
       "name": "Sweet And Salty",
       "url": "https://open.spotify.com/track/6KnLY0PTypoSufZRyuvA1Z"
+    },
+    {
+      "album": {
+        "name": "Sweet Breeze",
+        "url": "https://open.spotify.com/album/3EBvRUlQFuEhbLF4sMpnra"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sweet Breeze",
+      "url": "https://open.spotify.com/track/1egTe45Cnl8MsW5kAOUPTj"
     },
     {
       "album": {

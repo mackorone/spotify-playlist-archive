@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: The Warning",
-  "num_followers": 770229,
+  "num_followers": 770255,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Hand in My Pocket - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Hand in My Pocket - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "Soprano",
-        "url": "https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 133853,
-      "name": "Soprano",
-      "url": "https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
         "url": "https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 234000,
       "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
       "url": "https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "Soprano",
+        "url": "https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 133853,
+      "name": "Soprano",
+      "url": "https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "Afraid of Tomorrows",
-        "url": "https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 207652,
-      "name": "Sink Ya Teeth",
-      "url": "https://open.spotify.com/track/0ABr9J6PURfUMOGwP8LI3h"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 206667,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "Afraid of Tomorrows",
+        "url": "https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "Sink Ya Teeth",
+      "url": "https://open.spotify.com/track/0ABr9J6PURfUMOGwP8LI3h"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "Champagne Taste",
-        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Champagne Taste",
-      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 224444,
       "name": "Spiralling Out",
       "url": "https://open.spotify.com/track/5tWICzeSFemBoXJdvFyaDh"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "Champagne Taste",
+        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Champagne Taste",
+      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
     },
     {
       "added_at": "2025-04-25 15:04:55",

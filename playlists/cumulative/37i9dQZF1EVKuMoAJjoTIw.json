@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYH59m0ZULkV>Rod Wave</a>, <a href=spotify:playlist:37i9dQZF1EIUGhY4EVrFX5>The Goo Goo Dolls</a>, <a href=spotify:playlist:37i9dQZF1EIVcS7TfQj88P>Pink Floyd</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYeXf7KFjWla>Andr\u00e9s Cepeda</a>, <a href=spotify:playlist:37i9dQZF1EIWl3d96ljyrC>Rochak Kohli</a>, <a href=spotify:playlist:37i9dQZF1EIXW0ikFdIymC>Reik</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 205714,
       "name": "2019",
       "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 213266,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2hiB8QxWic092OablwpoVC"
@@ -5171,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "Un Dia Mas (Edicion Especial)",
+        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222986,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
+    },
+    {
+      "album": {
         "name": "Stratosphere",
         "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
       },
@@ -6093,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor Que Hay en Mi Vida",
+        "url": "https://open.spotify.com/album/70fwuEVXVtYVcuuaN6ph1Q"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Lo Mejor Que Hay en Mi Vida",
+      "url": "https://open.spotify.com/track/6fob9q29prHNuUkPlaOaEO"
+    },
+    {
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -6942,6 +6978,28 @@
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/5iu3rl4feYeRgR1DW0ydNU"
+    },
+    {
+      "album": {
+        "name": "Mitti Di Khushboo",
+        "url": "https://open.spotify.com/album/65ZeFMTmTH3JdvBmIP3X1U"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247222,
+      "name": "Mitti Di Khushboo",
+      "url": "https://open.spotify.com/track/7tp4iYvcZksGp1u7feUrrO"
     },
     {
       "album": {
@@ -9914,7 +9972,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 283872,
       "name": "The Great Gig in the Sky",
       "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"

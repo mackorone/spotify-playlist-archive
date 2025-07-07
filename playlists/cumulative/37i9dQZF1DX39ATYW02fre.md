@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-266 songs - 18 hr 58 min
+267 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Can't Do Without You](https://open.spotify.com/track/2f14cB0pXqhgQDeNmQDkXf) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/3JRPfW15UIAdRYuBvNxLkR) | 3:56 | 2020-06-08 | 2022-07-27 |
 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2022-05-30 | 2024-04-19 |
 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 | 2021-03-16 | 2021-10-12 |
+| [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 | 2025-07-03 |  |
 | [Ceremony](https://open.spotify.com/track/4yIV95FtWATRqSz4dXOqhZ) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh) | [Ceremonial](https://open.spotify.com/album/7kKD9ZFfor7pnWDpyhGC6v) | 4:04 | 2021-02-02 | 2022-07-27 |
 | [Citrus](https://open.spotify.com/track/4g10sqEm8v6qbe3LSb8wtK) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Beats & Pieces](https://open.spotify.com/album/4Gw6m1hSwHNKu08Jj6xpCy) | 2:09 | 2025-04-17 | 2025-04-25 |
 | [Colours](https://open.spotify.com/track/4QBu8f53xzuve3r7drIZsk) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J), [Jed Holland](https://open.spotify.com/artist/3jdKUAwJ3NA8f3UImRTBBl) | [Colours](https://open.spotify.com/album/0ciXiq1CALpmYJmFpjlXFR) | 2:45 | 2025-02-20 |  |
@@ -83,7 +84,7 @@
 | [Front Screen Projection](https://open.spotify.com/track/4AU1G2o8SL0znM8VQVWcMU) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Offworld](https://open.spotify.com/album/63mZzuEVYSZcf3aR0y1x9L) | 4:33 | 2021-02-04 | 2022-06-24 |
 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 | 2020-06-05\* | 2022-07-29 |
 | [Ghost](https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Ghost](https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn) | 3:15 | 2024-05-16 | 2024-09-25 |
-| [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 | 2020-06-05\* |  |
+| [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 | 2020-06-05\* | 2025-07-07 |
 | [Gierporn](https://open.spotify.com/track/7EEl6SOViwAMoXIx6t5xGr) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Shifting Gier](https://open.spotify.com/album/1RX9jafNy6tDgtQiGumsgS) | 5:29 | 2020-06-07 | 2022-05-02 |
 | [Glass Shards](https://open.spotify.com/track/1Yhkq1TUW3d1WYyhS7Vt9g) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:08 | 2020-06-05\* | 2022-07-21 |
 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 | 2024-03-01 |  |

@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-377 songs - 21 hr 33 min
+378 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Arrival of the Birds](https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery of the Flamingos \(Original Soundtrack\)](https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW) | 2:37 | 2022-11-11 | 2024-04-19 |
 | [Arrival of the Birds](https://open.spotify.com/track/1xRCmlU2GyzGem2vw4glxK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery Of The Flamingos](https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u) | 2:38 | 2024-04-11 |  |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2024-04-12 |
+| [Así me va](https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Así me va](https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj) | 2:35 | 2025-07-04 |  |
 | [Aunque no quiera te amaré](https://open.spotify.com/track/07oIpKa4ecuirknaJezKXi) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Aunque no quiera te amaré](https://open.spotify.com/album/3NEwvrKd0nfGRbyelNUscz) | 2:05 | 2024-09-24 | 2024-10-04 |
 | [Azul](https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf) | [kenai white](https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ) | [Azul](https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z) | 3:26 | 2024-10-24 | 2025-01-11 |
 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 | 2022-11-11 |  |
@@ -222,7 +223,7 @@
 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 | 2022-11-11 | 2024-03-05 |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-18 | 2023-09-02 |
 | [Mudanza](https://open.spotify.com/track/2p607VlsD6tMuYukIxolRw) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 2:16 | 2022-11-11 | 2023-03-18 |
-| [Mudança](https://open.spotify.com/track/0wNwUuJNpnT8bVJcHhgh5z) | [Cercle](https://open.spotify.com/artist/2YfyysVLvptddc1efwPYFo) | [Capricis](https://open.spotify.com/album/4vozSr48FR8oZAkGNBm9Z8) | 5:17 | 2025-07-03 |  |
+| [Mudança](https://open.spotify.com/track/0wNwUuJNpnT8bVJcHhgh5z) | [Cercle](https://open.spotify.com/artist/2YfyysVLvptddc1efwPYFo) | [Capricis](https://open.spotify.com/album/4vozSr48FR8oZAkGNBm9Z8) | 5:17 | 2025-07-03 | 2025-07-07 |
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-02-08 | 2024-03-05 |
 | [Mándame una señal](https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Mándame una señal](https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r) | 4:20 | 2025-06-02 |  |
 | [Naranja Paraíso](https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Naranja Paraíso](https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI) | 4:18 | 2023-06-09 |  |

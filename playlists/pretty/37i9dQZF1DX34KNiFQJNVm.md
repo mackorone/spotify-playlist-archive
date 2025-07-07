@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ryu, The Runner com Rincon Sapiência e Tasha & Tracie, Matheus & Kauan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,114,826 likes - 54 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114,873 likes - 54 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

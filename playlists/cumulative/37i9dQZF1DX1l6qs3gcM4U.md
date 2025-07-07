@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Jennifer Dias
 
-538 songs - 1 day 7 hr 10 min
+539 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Break of Dawn](https://open.spotify.com/track/0fFYQpXcySoP1aTAesmNTO) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Four](https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5) | 3:34 | 2021-12-10 | 2022-05-24 |
 | [Bu Ka Speraba](https://open.spotify.com/track/7eVclayVLOT5NOyDYLZNhJ) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Bu Ka Speraba](https://open.spotify.com/album/4upXh4NnYwvnsVby7e1WwY) | 3:15 | 2023-05-18 | 2025-03-28 |
 | [Bu Panco](https://open.spotify.com/track/6Yxwi70FH2DatDVdfa1oDT) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Bu Panco](https://open.spotify.com/album/5S080CzxSqLIIdVrFJHjJO) | 3:55 | 2021-12-10 | 2022-07-22 |
-| [Buena Vista](https://open.spotify.com/track/2zdt7imZNmvv1kSTpRdVIA) | [Luka Oramas](https://open.spotify.com/artist/3B9vtJM32oVlx0O2nNModG), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Buena Vista](https://open.spotify.com/album/7gfnmS1ZSdLbqHHh1lAJQg) | 2:22 | 2025-06-05 |  |
+| [Buena Vista](https://open.spotify.com/track/2zdt7imZNmvv1kSTpRdVIA) | [Luka Oramas](https://open.spotify.com/artist/3B9vtJM32oVlx0O2nNModG), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Buena Vista](https://open.spotify.com/album/7gfnmS1ZSdLbqHHh1lAJQg) | 2:22 | 2025-06-05 | 2025-07-07 |
 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 | 2024-06-20 |  |
 | [Bypass](https://open.spotify.com/track/2mQ3Z8eMnQ1JMuAvwlEG3S) | [Deusânia Celma](https://open.spotify.com/artist/0830PftfyzdiCm5RdM9U11) | [Bypass](https://open.spotify.com/album/56AgOmRUllPIKtXR56YeLv) | 3:26 | 2022-07-07 | 2022-07-15 |
 | [Cabo Verde](https://open.spotify.com/track/4ZaJIFetJil7VcxS6v4acb) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Museu](https://open.spotify.com/album/1aMmsWFPsp3xmSoOS6a1LH) | 3:04 | 2023-12-01 | 2024-04-26 |
@@ -225,6 +225,7 @@
 | [Juliana](https://open.spotify.com/track/2ujbkemDmWlKttKOnAHliq) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Elements](https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm) | 2:42 | 2024-05-16 | 2024-12-06 |
 | [Jungle Fever](https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Jungle Fever](https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh) | 3:15 | 2025-02-14 |  |
 | [Jurei Bandeira](https://open.spotify.com/track/77AZu2ZFHZPlWqhxfz4gnW) | [Lurhany](https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi) | [Jurei Bandeira](https://open.spotify.com/album/0iWwqOHzB8gbKjjH2zMCKR) | 3:12 | 2024-08-01 | 2024-08-16 |
+| [Just Say It](https://open.spotify.com/track/5n4mIpNk7VdcL7clsJagLc) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Ky Sheny](https://open.spotify.com/artist/3hIVigdc02Rm0CGvBja8fn) | [Just Say It](https://open.spotify.com/album/581AVN3sgnJvhFuIKGjZNW) | 3:02 | 2025-07-03 |  |
 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 | 2021-12-10 | 2025-03-28 |
 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 | 2021-12-10 | 2024-03-16 |
 | [Já Não Sei](https://open.spotify.com/track/59FhY6j1jchU3WGZ2BxuGx) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/2iXz4njIp9glteqBnOHNnv) | 4:25 | 2024-03-29 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Elodie e Sfera Ebbasta in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,310 likes - 71 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,364 likes - 71 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

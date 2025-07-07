@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Gurur",
+        "url": "https://open.spotify.com/album/2Vomlp6CD77khLhazqOJ8F"
+      },
+      "artists": [
+        {
+          "name": "Bertzo",
+          "url": "https://open.spotify.com/artist/1PlejC9Ved1LVVUnFwD91z"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189781,
+      "name": "Gurur",
+      "url": "https://open.spotify.com/track/69NzIQSkhn9lE4xRq23SEi"
+    },
+    {
+      "album": {
         "name": "g\u00f6kku\u015fa\u011f\u0131nda / o",
         "url": "https://open.spotify.com/album/55dOgerQHGU2ZuTpzVQ285"
       },
@@ -2060,6 +2078,24 @@
       "duration_ms": 131517,
       "name": "Kalbimden Bi' Par\u00e7ayd\u0131n",
       "url": "https://open.spotify.com/track/06YTnPqciwB921z8Ks0RBo"
+    },
+    {
+      "album": {
+        "name": "Kalbimi \u00d6p (Akustik)",
+        "url": "https://open.spotify.com/album/18YFTdMxHw3ypTftjGIx7N"
+      },
+      "artists": [
+        {
+          "name": "Brek",
+          "url": "https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Kalbimi \u00d6p - Akustik",
+      "url": "https://open.spotify.com/track/6vPTotkA9b6nUB2LvgFFPx"
     },
     {
       "album": {
@@ -2673,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "Sab\u0131r",
+        "url": "https://open.spotify.com/album/6ndTtBiYODlt02KtQ0y7UF"
+      },
+      "artists": [
+        {
+          "name": "Konuya Frans\u0131z",
+          "url": "https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx"
+        },
+        {
+          "name": "EFE",
+          "url": "https://open.spotify.com/artist/7cToz5qpJ36piEZpiRqQsJ"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190105,
+      "name": "Sab\u0131r",
+      "url": "https://open.spotify.com/track/0ilAt8QU3ve1v3nZgGUDX6"
+    },
+    {
+      "album": {
         "name": "Sal",
         "url": "https://open.spotify.com/album/0SkOqSQaogpiYuUm5hwhre"
       },
@@ -2872,7 +2930,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 176250,
       "name": "Senin Y\u00fcz\u00fcnden",
       "url": "https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG"
@@ -3464,7 +3522,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 194160,
       "name": "Vah Benim Halime",
       "url": "https://open.spotify.com/track/3dnN5XUK6g8Pbry58cGhFt"
@@ -3716,7 +3774,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 164379,
       "name": "Yand\u0131m",
       "url": "https://open.spotify.com/track/1sJYCf9SzSPkC4WeyB826O"

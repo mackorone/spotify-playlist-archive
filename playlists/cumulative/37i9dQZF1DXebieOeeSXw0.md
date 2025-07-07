@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-536 songs - 1 day 20 hr 6 min
+537 songs - 1 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Lamento Guajiro](https://open.spotify.com/track/2XnocWCMXJIIDfflt6BF47) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Estampas](https://open.spotify.com/album/24zTOTUIDw672Wl6Y4vfpn) | 3:38 | 2021-12-24 |  |
 | [Lamento Guajiro](https://open.spotify.com/track/6nUDRN8GKk06UAMe7r2xio) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Estampas](https://open.spotify.com/album/0K3tio5xqDWLIvCr9v5Xz0) | 3:38 | 2021-12-24 | 2024-04-19 |
 | [Laser Beam](https://open.spotify.com/track/3Aa4iKk2cTXUfHU1Soh5w9) | [Don Carlos](https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc) | [Ready When You Ready \- Three](https://open.spotify.com/album/3wMLS30dbE58Xk6iyUwFOK) | 3:04 | 2021-12-24 | 2024-04-19 |
-| [Laser Beam](https://open.spotify.com/track/4P3ArPlszaXhGmZXsuBUvW) | [Don Carlos](https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc) | [Ready When You Ready \- Three](https://open.spotify.com/album/0ThiMVRvldFG47GyQ7GXOy) | 3:04 | 2021-12-24 |  |
+| [Laser Beam](https://open.spotify.com/track/4P3ArPlszaXhGmZXsuBUvW) | [Don Carlos](https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc) | [Ready When You Ready \- Three](https://open.spotify.com/album/0ThiMVRvldFG47GyQ7GXOy) | 3:04 | 2021-12-24 | 2025-07-07 |
 | [Lebanese Blonde](https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 4:48 | 2023-04-12 |  |
 | [Limb By Limb](https://open.spotify.com/track/3D8RvJGzyzgYcOWWRfoyFV) | [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Reggae Gold 1993](https://open.spotify.com/album/1QcbOa92SpKoErkRk9vikO) | 3:16 | 2021-12-24 |  |
 | [Limb By Limb](https://open.spotify.com/track/6lZpBmEGZDVTpxjJZ5slAN) | [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Dancehall 101 Vol\. 1](https://open.spotify.com/album/79DLMn2qA5nEpU6gxjZQqY) | 3:17 | 2021-12-24 | 2024-04-19 |
@@ -487,6 +487,7 @@
 | [Table ronde](https://open.spotify.com/track/1ay3McnLpgCJnvprftw7M8) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [Congo Zaïre \(Les maîtres de la Rumba\)](https://open.spotify.com/album/0qaDPW4r5zO6laR42GC2K2) | 3:01 | 2021-12-24 | 2025-01-04 |
 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 | 2021-12-24 |  |
 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 | 2021-12-24 | 2024-04-19 |
+| [Take It Easy My Brother Charles](https://open.spotify.com/track/6YSl0Gv2NhPUtORNHiirVy) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben \(1969\)](https://open.spotify.com/album/3kwNSg7PelBGAopiwX64yW) | 2:35 | 2021-12-24 |  |
 | [Talkin' Talkin'](https://open.spotify.com/track/5HJtrcm1ey4vR1KacKE1bx) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 4:37 | 2021-12-24 |  |
 | [Tamacún](https://open.spotify.com/track/0nNwfRyw0eY323NMkBM0y8) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/3iqyQHFVWrmx4rjWRJXCNg) | 3:25 | 2023-04-12 |  |
 | [Tantina](https://open.spotify.com/track/2tVTGpCIvd1IxLhTaJtZn4) | [Soukous Stars](https://open.spotify.com/artist/7wcl2LtA0w6O3KveN0Nico) | [Gozando](https://open.spotify.com/album/5M93Uol0fkkVXb1ynVOJoA) | 7:53 | 2021-12-24 |  |

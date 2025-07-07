@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,100 songs - 11 day 21 hr 30 min
+5,101 songs - 11 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2090,6 +2090,7 @@
 | [i hear angels](https://open.spotify.com/track/69wZl1eztlUY7Si7yXmf3G) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [i hear angels](https://open.spotify.com/album/32B5dpZiQyCnC2yIYCWfVc) | 3:35 | 2020-08-03 | 2020-12-04 |
 | [i hear angels](https://open.spotify.com/track/5T0ED0s2J71p8XS9Qfklhw) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [i hear angels](https://open.spotify.com/album/3hBHSMXXhMVUXIN9tAJj5W) | 3:39 | 2020-08-07 | 2020-08-20 |
 | [I Hope You Find Whatever You Are Looking For](https://open.spotify.com/track/149i2TjDuCrcC9gyFABY3l) | [Future Someone](https://open.spotify.com/artist/1ZcEKvq5UBx8vbuO99aokI) | [I Hope You Find Whatever You Are Looking For](https://open.spotify.com/album/3XS2cFBWDOuNTo6Aw3b2yp) | 3:28 | 2023-03-10 | 2023-04-02 |
+| [I Just Can't Help Feeling Curious](https://open.spotify.com/track/0Nti9y7C4AkkFf88d4dN9P) | [Skinny Dippers](https://open.spotify.com/artist/0Dob2W5r4Uxwa1WIJRt67Y) | [I Just Can't Help Feeling Curious](https://open.spotify.com/album/7xv3NglGSVNkHcKHnMAm9y) | 3:15 | 2025-07-06 |  |
 | [I Just Want to Thank You](https://open.spotify.com/track/2SIYttGoWnQ2FRlq6rTmkc) | [Big John Hamilton](https://open.spotify.com/artist/7c8hc2J2n5YQj6pmzs9RO9) | [The South Side of Soul Street: The Minaret Soul Singles 1967\-1976](https://open.spotify.com/album/5Lk0i4EVwVtAuOmQUPTcFO) | 2:32 | 2022-07-26 | 2024-04-30 |
 | [I Just Wish](https://open.spotify.com/track/4L5SAcyv6nl2AQYLGP5FcS) | [Victoria Sorensen](https://open.spotify.com/artist/1ezhiaH3xp6eMO7L7HO4bh) | [I Just Wish](https://open.spotify.com/album/2WP0D3mEt7ieRvV5ypzOEX) | 3:25 | 2024-08-06 | 2024-08-17 |
 | [I Keep Changing](https://open.spotify.com/track/3MnUJTogsVxeSkYHX2cIdc) | [Tessa Dalton](https://open.spotify.com/artist/7etJFhazXNIjnJZWAfn1WA) | [I Keep Changing](https://open.spotify.com/album/4yc4vFhNWAeBgFAL7kokFL) | 4:11 | 2024-07-12 | 2024-07-24 |

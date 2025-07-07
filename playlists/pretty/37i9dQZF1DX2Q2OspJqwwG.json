@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 34248,
+  "num_followers": 34268,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-06-30 15:57:58",
       "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
+      },
+      "artists": [
+        {
+          "name": "The Urs",
+          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
+    },
+    {
+      "added_at": "2025-06-30 15:57:58",
+      "album": {
         "name": "Vorba Francezului (From \"Buzz House\" The Movie)",
         "url": "https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 159350,
       "name": "Vorba Francezului - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
-    },
-    {
-      "added_at": "2025-06-30 15:57:58",
-      "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
-      },
-      "artists": [
-        {
-          "name": "The Urs",
-          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
     },
     {
       "added_at": "2025-06-30 15:57:58",

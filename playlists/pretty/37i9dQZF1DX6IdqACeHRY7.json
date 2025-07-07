@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156163,
+  "num_followers": 156190,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "beholder mit t\u00f8j p\u00e5",
+        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 188425,
+      "name": "beholder mit t\u00f8j p\u00e5",
+      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Hvor Var Jeg Endt",
         "url": "https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 179157,
       "name": "Hvor Var Jeg Endt",
       "url": "https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "beholder mit t\u00f8j p\u00e5",
-        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 188425,
-      "name": "beholder mit t\u00f8j p\u00e5",
-      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Out of My Hands",
-        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 203089,
-      "name": "Out of My Hands",
-      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Frihed",
         "url": "https://open.spotify.com/album/5ClTuqAp8Vt8RY6rydROD0"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 163560,
       "name": "Frihed",
       "url": "https://open.spotify.com/track/0lAUEdKbTXmqYDyzAhgS9X"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Out of My Hands",
+        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 203089,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Still the Same (feat. Boy In Space)",
-        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        },
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Still the Same (feat. Boy In Space)",
-      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 214689,
       "name": "Hey Ya! - Acoustic",
       "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Still the Same (feat. Boy In Space)",
+        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        },
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Still the Same (feat. Boy In Space)",
+      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Roundabout",
-        "url": "https://open.spotify.com/album/3CtIxfmh27lAY5OfGm4cKy"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 232461,
-      "name": "Roundabout",
-      "url": "https://open.spotify.com/track/4FImnScSpSwubijPj5bUgA"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "The Things I Can't Take With Me",
         "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 74303,
       "name": "you up?",
       "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/3CtIxfmh27lAY5OfGm4cKy"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 232461,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/4FImnScSpSwubijPj5bUgA"
     },
     {
       "added_at": "2025-06-19 22:00:52",

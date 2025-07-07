@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Jota.p\u00ea",
-  "num_followers": 350394,
+  "num_followers": 350452,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
+        "name": "Disritmia / Ex-Amor",
+        "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "duration_ms": 299724,
+      "name": "Disritmia / Ex-Amor",
+      "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
+    },
+    {
+      "added_at": "2025-07-04 21:35:57",
+      "album": {
         "name": "Todo carnaval tem seu fim",
         "url": "https://open.spotify.com/album/1hpYnot4DYD0jace4qsKnL"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 140100,
       "name": "Todo carnaval tem seu fim",
       "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
-    },
-    {
-      "added_at": "2025-07-04 21:35:57",
-      "album": {
-        "name": "Disritmia / Ex-Amor",
-        "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "duration_ms": 299724,
-      "name": "Disritmia / Ex-Amor",
-      "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
     },
     {
       "added_at": "2025-07-04 21:35:57",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
-        "name": "Bahia Com H",
-        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 264729,
-      "name": "Bahia Com H",
-      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
-    },
-    {
-      "added_at": "2025-07-04 21:35:57",
-      "album": {
         "name": "Volta Por Cima",
         "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 139907,
       "name": "Volta Por Cima",
       "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
+    },
+    {
+      "added_at": "2025-07-04 21:35:57",
+      "album": {
+        "name": "Bahia Com H",
+        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 264729,
+      "name": "Bahia Com H",
+      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
     },
     {
       "added_at": "2025-07-04 21:35:57",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
-        "name": "Quase Um Segundo",
-        "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 252436,
-      "name": "Quase Um Segundo",
-      "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
-    },
-    {
-      "added_at": "2025-07-04 21:35:57",
-      "album": {
         "name": "Pagode da Mart'n\u00e1lia",
         "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 180982,
       "name": "Cheia de Manias",
       "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+    },
+    {
+      "added_at": "2025-07-04 21:35:57",
+      "album": {
+        "name": "Quase Um Segundo",
+        "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 252436,
+      "name": "Quase Um Segundo",
+      "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
     },
     {
       "added_at": "2025-07-04 21:35:57",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/5QpuwSU3qtOvEdxcSVsllt"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/1rEi13xiygTnnysYpVmOGR"
+    },
+    {
+      "added_at": "2025-07-04 21:35:57",
+      "album": {
         "name": "Tanto Faz",
         "url": "https://open.spotify.com/album/7qLmZppbaxct0KbH48p49T"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2025-07-04 21:35:57",
-      "album": {
         "name": "Uma Estrela Misteriosa",
         "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "added_at": "2025-07-04 21:35:57",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2025-07-04 21:35:57",
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
+        "name": "Pra Sempre por Enquanto",
+        "url": "https://open.spotify.com/album/6lTdpYVjoAcrmzDXqOszSL"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 233938,
+      "name": "Pra Sempre por Enquanto",
+      "url": "https://open.spotify.com/track/0Y4kVZh2xI8gxRLdnrObZa"
+    },
+    {
+      "added_at": "2025-07-04 21:35:57",
+      "album": {
         "name": "O Sino Da Igrejinha",
         "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
       },
@@ -1223,22 +1255,6 @@
       "duration_ms": 155055,
       "name": "O Sino Da Igrejinha",
       "url": "https://open.spotify.com/track/5sPhCtEsMSFIw01ThGM1ps"
-    },
-    {
-      "added_at": "2025-07-04 21:35:57",
-      "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/5QpuwSU3qtOvEdxcSVsllt"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/1rEi13xiygTnnysYpVmOGR"
     },
     {
       "added_at": "2025-07-04 21:35:57",
@@ -1343,38 +1359,6 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
-        "name": "50 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 263014,
-      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
-    },
-    {
-      "added_at": "2025-07-04 21:35:57",
-      "album": {
-        "name": "Pra Sempre por Enquanto",
-        "url": "https://open.spotify.com/album/6lTdpYVjoAcrmzDXqOszSL"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 233938,
-      "name": "Pra Sempre por Enquanto",
-      "url": "https://open.spotify.com/track/0Y4kVZh2xI8gxRLdnrObZa"
-    },
-    {
-      "added_at": "2025-07-04 21:35:57",
-      "album": {
         "name": "Um Sinal",
         "url": "https://open.spotify.com/album/2dDNEbNThrkko248M1ynXb"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2025-07-04 21:35:57",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Quatro",
-        "url": "https://open.spotify.com/album/0sgQLK5M6xDNYSqnDGRfNd"
+        "name": "50 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
       },
       "artists": [
         {
-          "name": "T\u00e1ssia Holsbach",
-          "url": "https://open.spotify.com/artist/1OPCTYHZi4JWhxKa4QsxRA"
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
         }
       ],
-      "duration_ms": 232933,
-      "name": "Cora\u00e7\u00e3o de Quatro",
-      "url": "https://open.spotify.com/track/12rRUN0U4wMYJG3d0ZN6pT"
+      "duration_ms": 263014,
+      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
     },
     {
       "added_at": "2025-07-04 21:35:57",
@@ -1431,6 +1415,22 @@
       "duration_ms": 245605,
       "name": "Cicatriz - Ao Vivo",
       "url": "https://open.spotify.com/track/42ZAJOfrht8ET5ap66n7rG"
+    },
+    {
+      "added_at": "2025-07-04 21:35:57",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Quatro",
+        "url": "https://open.spotify.com/album/0sgQLK5M6xDNYSqnDGRfNd"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1ssia Holsbach",
+          "url": "https://open.spotify.com/artist/1OPCTYHZi4JWhxKa4QsxRA"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Cora\u00e7\u00e3o de Quatro",
+      "url": "https://open.spotify.com/track/12rRUN0U4wMYJG3d0ZN6pT"
     },
     {
       "added_at": "2025-07-04 21:35:57",

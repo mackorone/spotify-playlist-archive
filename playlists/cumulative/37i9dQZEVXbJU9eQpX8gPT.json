@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 159661,
       "name": "Belbala",
       "url": "https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855"
@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 190922,
       "name": "CC",
       "url": "https://open.spotify.com/track/5D2r6DCdklIfxA1fgUvwQ0"
@@ -7528,6 +7528,24 @@
       "duration_ms": 85714,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/00RNbgdVedLwwP9kXKc6Vh"
+    },
+    {
+      "album": {
+        "name": "Darba",
+        "url": "https://open.spotify.com/album/2sl6Jt00DxT8HhnC4rIefn"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "date_added": "2025-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Darba",
+      "url": "https://open.spotify.com/track/3A0sNJCdWTX6Lev83LI9eE"
     },
     {
       "album": {
@@ -19260,7 +19278,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 254800,
       "name": "MAGHRIBI",
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
@@ -19394,7 +19412,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Mahboul Ana",
       "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
@@ -22632,7 +22650,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
@@ -22912,7 +22930,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 167340,
       "name": "No Seu Tempo",
       "url": "https://open.spotify.com/track/2O3TBo7MBvgZaO7VujgrTQ"
@@ -34792,7 +34810,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 171809,
       "name": "Zorro",
       "url": "https://open.spotify.com/track/6FFZbpO7EEjz1LfMQfpq1s"

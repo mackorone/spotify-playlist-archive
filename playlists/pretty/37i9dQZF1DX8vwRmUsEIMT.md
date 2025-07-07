@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: KETTAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,448 likes - 81 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,427 likes - 81 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

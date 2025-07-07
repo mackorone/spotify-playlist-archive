@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 129738,
       "name": "Corda Bamba",
       "url": "https://open.spotify.com/track/16WhhH6fvy1NEKN93iy0aw"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 260245,
       "name": "Cypher Sello BH",
       "url": "https://open.spotify.com/track/32Ddc1EYOLtvo4IR2Evg68"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 141500,
       "name": "Esquinas",
       "url": "https://open.spotify.com/track/1kY7c0pcnSX05MlMUb3eqS"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 276425,
       "name": "Mente Engatilhada",
       "url": "https://open.spotify.com/track/71p3WUGRSiztUpOeAzVWTe"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 205923,
       "name": "Talvez Bem Mais",
       "url": "https://open.spotify.com/track/6VKcdqumtvLbTf7t3X3pmS"
@@ -2996,6 +2996,36 @@
       "duration_ms": 153376,
       "name": "Tulipa",
       "url": "https://open.spotify.com/track/35zut0yIY9eER3QAAa11Rr"
+    },
+    {
+      "album": {
+        "name": "As Ruas Sabem",
+        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "TEAGA",
+          "url": "https://open.spotify.com/artist/0eyVbJ5IrLvHUpFQSkmZnS"
+        },
+        {
+          "name": "Eloy Polemico",
+          "url": "https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc"
+        },
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131900,
+      "name": "Um Brinde Aos Reais",
+      "url": "https://open.spotify.com/track/1CxYPghcKOKyT1XTDtHO7x"
     },
     {
       "album": {

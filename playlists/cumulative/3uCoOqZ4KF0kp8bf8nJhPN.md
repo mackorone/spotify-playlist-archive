@@ -4,7 +4,7 @@
 
 > 
 
-215 songs - 8 hr 29 min
+217 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Caroline](https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:32 | 2025-03-14 |  |
 | [COME GET UR MANZ!](https://open.spotify.com/track/7FLjMlLRCwhMGXfSqxXKes) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [COME GET UR MANZ!](https://open.spotify.com/album/5jLOkfL9CXuI7qalnW1gDD) | 2:25 | 2025-01-16 |  |
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2025-05-20 |  |
+| [could you care less?](https://open.spotify.com/track/1G4YZUPeJ4qpPcUbggoPeE) | [threedimensionsapart](https://open.spotify.com/artist/70NihY4U5ZPHsbgeD1EJoE) | [bliss](https://open.spotify.com/album/6I9fLhZ7IUK5uO63pSAWqH) | 1:55 | 2025-07-06 |  |
 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 | 2025-01-16 |  |
 | [CRYSTALS](https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS](https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc) | 1:08 | 2024-12-31 |  |
 | [CUNT!](https://open.spotify.com/track/7q93z8CgPNFePxuOaLlO8l) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [CUNT!](https://open.spotify.com/album/7noIIWXmY1tYiJITkL1ULL) | 1:50 | 2025-05-23 |  |
@@ -88,6 +89,7 @@
 | [I DO DIS DAILY!](https://open.spotify.com/track/32vbVchotHNA3pYM8wwCn3) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I DO DIS DAILY!](https://open.spotify.com/album/7DQy6rQjj42AeJPCloq2Ue) | 2:09 | 2025-03-02 |  |
 | [I FEEL LIKE TAYLOR IN 2010!](https://open.spotify.com/track/4F4HIZK3aHf8AiPEVtF9Xd) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-24 |  |
 | [i got hit by a range rover in fursuit](https://open.spotify.com/track/274BfQneEoCPmjV53sUc8s) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [i got hit by a range rover in fursuit](https://open.spotify.com/album/26yVWGp7zBhD5he1C8Wz8z) | 2:15 | 2025-02-15 | 2025-04-11 |
+| [i got hit by a range rover in fursuit](https://open.spotify.com/track/6fZYnr9HmUtxPIGCctbdYD) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [i got hit by a range rover in fursuit](https://open.spotify.com/album/6VPdOqNTNJhHXgdl0qvZRU) | 2:15 | 2025-07-06 |  |
 | [i hate you, leave me alone.](https://open.spotify.com/track/6DJ9ZCwfXvP8ZSzhdUjxmJ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [i hate you, leave me alone.](https://open.spotify.com/album/0KJ79P4oys85ELzqSFwf4f) | 2:29 | 2025-01-16 |  |
 | [i hope u fear me.](https://open.spotify.com/track/0HqcwbplDetVGvMxJgJQ9X) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [i hope u fear me.](https://open.spotify.com/album/5ofkGrEBohfY7wGNse2yqO) | 2:55 | 2025-01-16 |  |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/5YF8uBmCTW4HXsI13tsQAO) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 2:06 | 2025-04-12 |  |

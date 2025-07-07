@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,105 likes - 93 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,105 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 88 | [Break Free](https://open.spotify.com/track/6QGVDr7pqFuq4ZNDG95sD8) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [NEW GRAVITY](https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA) | 3:03 |
 | 89 | [One More Night](https://open.spotify.com/track/6DEaWJ1GGVcOPg1nYLkyoG) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Jersey](https://open.spotify.com/album/04Gl2rT689sltrYqspcG2w) | 3:24 |
 | 90 | [Problem Child](https://open.spotify.com/track/0N4Tx3DNSgX6k3Xx67z5Bc) | [Blind Justice](https://open.spotify.com/artist/2D48K1FwcFnYjLY7UInAua) | [Undertow](https://open.spotify.com/album/3pXxQsBnSYOWApiafJfumV) | 1:28 |
-| 91 | [Frozen](https://open.spotify.com/track/5KXRfA3MGcTMRF4FxYR2g5) | [Wolf](https://open.spotify.com/artist/5RoqynWCL6FbO5LdipoFU1) | [Devil Seed](https://open.spotify.com/album/06pf2lr09OGMHaXQUt72Nk) | 4:14 |
-| 92 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
-| 93 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
+| 91 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
+| 92 | [Frozen](https://open.spotify.com/track/5KXRfA3MGcTMRF4FxYR2g5) | [Wolf](https://open.spotify.com/artist/5RoqynWCL6FbO5LdipoFU1) | [Devil Seed](https://open.spotify.com/album/06pf2lr09OGMHaXQUt72Nk) | 4:14 |
+| 93 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
+| 94 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `Ab1/igAAAAAh24jBTjVLmwCCrSfVQuEK`
+Snapshot ID: `Ab2FKgAAAADw3mQF+/0r3mLJNwlDLLv1`

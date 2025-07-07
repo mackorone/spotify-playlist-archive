@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-607 songs - 1 day 6 hr 57 min
+608 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [PACMAN](https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [PACMAN](https://open.spotify.com/album/78smiyLXB1YjwnTSZ2U6jB) | 3:52 | 2022-06-09 | 2023-01-03 |
 | [Papi](https://open.spotify.com/track/5ltzvIUheVQB3CHRsoaIVm) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Papi](https://open.spotify.com/album/4ksL2XSIkPmhPBdLDL2vLP) | 3:15 | 2025-05-29 |  |
 | [Paradise](https://open.spotify.com/track/2InkR3RbQnVc9EMHP9VRqY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Paradise](https://open.spotify.com/album/6tGXsBn9Oqo2uYcmILI6fb) | 3:16 | 2022-08-18 | 2022-09-23 |
+| [Paradoxx](https://open.spotify.com/track/311Qd187nocyXg2WcNRW1y) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx](https://open.spotify.com/album/6WQ196juQmaFmzWEOmfU4X) | 2:06 | 2025-07-03 |  |
 | [Paralyzed](https://open.spotify.com/track/3LPtsTvGpHtVgwja5VZFRb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Paralyzed](https://open.spotify.com/album/4zulq5cIRvTXUZRsaFXdlz) | 3:01 | 2022-04-14 | 2022-09-16 |
 | [Party Everyday](https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Party Everyday](https://open.spotify.com/album/5dmTMnwiRqi6r4bsPwlus6) | 2:52 | 2023-12-20 | 2024-05-16 |
 | [Party So Hard](https://open.spotify.com/track/4cVy5JeJst4DxracwylORB) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Party So Hard](https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa) | 2:55 | 2025-04-25 |  |
@@ -523,7 +524,7 @@
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2023-02-16 | 2023-09-15 |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-10-06 | 2024-07-05 |
 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 | 2025-06-26 |  |
-| [The 6th Gate \(Dance With the Devil\) \- Erik Hubo Metro Edit](https://open.spotify.com/track/6H9mdGcXhIrYiOkHEyEyFy) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Erik Hubo](https://open.spotify.com/artist/1imbx6HxQr0PkQtA5LHB9b) | [The 6th Gate \(Dance With the Devil\) \[Erik Hubo Metro Edit\]](https://open.spotify.com/album/6ZiD54KoE7RntL77jFtSIK) | 2:13 | 2025-07-03 |  |
+| [The 6th Gate \(Dance With the Devil\) \- Erik Hubo Metro Edit](https://open.spotify.com/track/6H9mdGcXhIrYiOkHEyEyFy) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Erik Hubo](https://open.spotify.com/artist/1imbx6HxQr0PkQtA5LHB9b) | [The 6th Gate \(Dance With the Devil\) \[Erik Hubo Metro Edit\]](https://open.spotify.com/album/6ZiD54KoE7RntL77jFtSIK) | 2:13 | 2025-07-03 | 2025-07-07 |
 | [The 6th Gate Is Open \(Dance With The Devil\)](https://open.spotify.com/track/5wjpX0CpORQZ32GBlxaAhL) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [The 6th Gate Is Open \(Dance With The Devil\)](https://open.spotify.com/album/6l6tzcwsTPAzmn0HY5la2g) | 2:21 | 2023-03-23 | 2023-05-07 |
 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 | 2022-10-14 | 2024-06-07 |
 | [The Age Of Rave](https://open.spotify.com/track/0MJrPeuSXdHBPfsoaaFEIG) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Age Of Rave](https://open.spotify.com/album/5Xb58SF94wdSAJd5iaA5KP) | 3:04 | 2022-05-26 | 2023-04-14 |

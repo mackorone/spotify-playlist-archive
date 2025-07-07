@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Childlike CiCi
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,961 likes - 280 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,977 likes - 280 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

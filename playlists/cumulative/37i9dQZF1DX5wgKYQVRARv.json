@@ -2783,20 +2783,24 @@
     },
     {
       "album": {
-        "name": "Devourer",
+        "name": "Devourer (featuring Kristin Starkey)",
         "url": "https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH"
       },
       "artists": [
         {
           "name": "Tulip",
           "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        },
+        {
+          "name": "Kristin Starkey",
+          "url": "https://open.spotify.com/artist/4rtF23eX80Lfnp6Ws0a27d"
         }
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200760,
-      "name": "Devourer",
+      "name": "Devourer - featuring Kristin Starkey",
       "url": "https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv"
     },
     {
@@ -6288,7 +6292,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 295866,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t"
@@ -12350,7 +12354,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-07",
       "duration_ms": 245174,
       "name": "The Magician",
       "url": "https://open.spotify.com/track/57mFAT7bXcqM5ydcdMDSVX"

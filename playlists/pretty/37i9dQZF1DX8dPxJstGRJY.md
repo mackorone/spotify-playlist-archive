@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,215 likes - 73 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,354 likes - 73 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 13 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages](https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ) | 3:59 |
 | 14 | [Canto della Buranella \(Vocal Version\)](https://open.spotify.com/track/7xGFyslQDDZwsufD1nVexL) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Canto della Buranella \(Vocal Version\)](https://open.spotify.com/album/32Lz5SNy7910aPJgHlPYIz) | 1:13 |
 | 15 | [Across the Stars](https://open.spotify.com/track/0hFAV2aMp79a8ew4O5sv2X) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT), [Michel Tirabosco](https://open.spotify.com/artist/3krpKIjqQEDwS3HhirVijg) | [The Sound of Heaven](https://open.spotify.com/album/5al1TnP3jdoRnRHmQ1BU16) | 5:07 |
-| 16 | [Amazing Grace \(feat\. Pretty Yende\)](https://open.spotify.com/track/3wwrixlWMswqhRKrkDDHcL) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Pretty Yende](https://open.spotify.com/artist/2s7dm9RxxQaLtAXbWjQeco) | [Ad Astra \(International Edition\)](https://open.spotify.com/album/3IrKmuGH6mXhceZSiPabMW) | 4:03 |
+| 16 | [Amazing Grace \(feat\. Pretty Yende\) \- Live at the Valley of the Temples](https://open.spotify.com/track/3wwrixlWMswqhRKrkDDHcL) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Pretty Yende](https://open.spotify.com/artist/2s7dm9RxxQaLtAXbWjQeco) | [Ad Astra \(International Edition\)](https://open.spotify.com/album/3IrKmuGH6mXhceZSiPabMW) | 4:03 |
 | 17 | [Runaway \- Orchestral](https://open.spotify.com/track/1RFSBDlPnpnzOHQnjm8178) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Runaway \(Orchestral\)](https://open.spotify.com/album/5q1rY3Fzu9uTHUYEnRQmiJ) | 4:08 |
 | 18 | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/album/0D2Hgi2CrM24wn1pdBN1sp) | 4:25 |
 | 19 | [Crazy](https://open.spotify.com/track/3tqtR1LaMZBjGn1cpnEU31) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [I Feel Misunderstood / Crazy](https://open.spotify.com/album/3oMSMNkUr4RDZMpvuVvERd) | 3:27 |

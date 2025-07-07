@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Lord Of The Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,341 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,388 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 13 | [Seeking Through The Vacant Vessel](https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Seeking Through The Vacant Vessel](https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l) | 2:45 |
 | 14 | [Slicing](https://open.spotify.com/track/0Pei4FA0idnWLHBqj4cCgx) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw) | [Slicing](https://open.spotify.com/album/2OicRwIsUxEfspFwDsM2on) | 2:47 |
 | 15 | [The Dying Breath of a Sacred Stag](https://open.spotify.com/track/2QmY7VFt60PR7U7OIl7twZ) | [Blackbraid](https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY) | [The Dying Breath of a Sacred Stag](https://open.spotify.com/album/1gJaCOAb78Dcfs3lrBu5lt) | 7:44 |
-| 16 | [Devourer](https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Devourer](https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH) | 3:20 |
+| 16 | [Devourer \- featuring Kristin Starkey](https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY), [Kristin Starkey](https://open.spotify.com/artist/4rtF23eX80Lfnp6Ws0a27d) | [Devourer \(featuring Kristin Starkey\)](https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH) | 3:20 |
 | 17 | [No Less Than Death](https://open.spotify.com/track/6W65pru3ixPre7Nz9rgUMO) | [Abigail Williams](https://open.spotify.com/artist/4VkWISgUF5AccCSs92mauh) | [No Less Than Death](https://open.spotify.com/album/6t1aGTf7yFYnVq3jUaj4Cz) | 9:24 |
 | 18 | [WE CARE A LOT](https://open.spotify.com/track/46pnz2spVeybL2Visu8nNk) | [The Android Meme](https://open.spotify.com/artist/34JXXtjjjuR78Z9ElQ9ycZ) | [WE CARE A LOT](https://open.spotify.com/album/5mzYvRpC19ub2fq5rmNMjY) | 4:10 |
 | 19 | [Burn Me Alive](https://open.spotify.com/track/2Vb3XaXLupB0geakpHrxpc) | [Gone Cold](https://open.spotify.com/artist/5dMqfdmilb6colsGrmYYmo) | [Burn Me Alive](https://open.spotify.com/album/7DXkRmaYbFoNCZnqOlSTDx) | 4:26 |

@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 42173,
+  "num_followers": 42172,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 259920,
-      "name": "FROG MAN",
-      "url": "https://open.spotify.com/track/26KL0IASrWq7D3tsf3mYVO"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
         "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/5MBXtk3exQrlbR0n8jsuec"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 244186,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/2v4wmPnKa2OEXhOeWdNJV2"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "FROG MAN",
+      "url": "https://open.spotify.com/track/26KL0IASrWq7D3tsf3mYVO"
     },
     {
       "added_at": "2025-06-13 08:46:52",
