@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,273 likes - 74 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,302 likes - 74 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Southern African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ?si=hjrsvkP8TLO9Cs-gba5VNQ\">Oliver Mtukudzi</a> ",
-  "num_followers": 89406,
+  "num_followers": 89460,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
-        "name": "Nkalakatha",
-        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
-      },
-      "artists": [
-        {
-          "name": "Mandoza",
-          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Nkalakatha",
-      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
         "name": "Sondelani",
         "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 330573,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
+        "name": "Nkalakatha",
+        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
+      },
+      "artists": [
+        {
+          "name": "Mandoza",
+          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Nkalakatha",
+      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
     },
     {
       "added_at": "2025-06-27 07:22:38",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
-        "name": "M'du Or Die",
-        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Siya Jola (Ok'Salayo)",
-      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
         "name": "Ntumba",
         "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 356706,
       "name": "Kum Nakum",
       "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
+        "name": "M'du Or Die",
+        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Siya Jola (Ok'Salayo)",
+      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
     },
     {
       "added_at": "2025-06-27 07:22:38",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
-        "name": "Ibutho",
-        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Lwandle",
-      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 279306,
       "name": "Weekend Special",
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
+        "name": "Ibutho",
+        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Lwandle",
+      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
     },
     {
       "added_at": "2025-06-27 07:22:38",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (Thats The Way Love Is)",
-      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 320613,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2025-06-27 07:22:38",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404600,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
         "name": "Bhambatha (Remastered 2024)",
         "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 217560,
       "name": "Don't Cry - Remastered 2024",
       "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 404600,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
     },
     {
       "added_at": "2025-06-27 07:22:38",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
-        "name": "Heads and Tales",
-        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
-      },
-      "artists": [
-        {
-          "name": "Pro Kid",
-          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Ungaphel' Umoya Son",
-      "url": "https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
         "name": "Vintage Sounds of Johannesburg",
         "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 292034,
       "name": "Fester",
       "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
+        "name": "Heads and Tales",
+        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
+      },
+      "artists": [
+        {
+          "name": "Pro Kid",
+          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Ungaphel' Umoya Son",
+      "url": "https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt"
     },
     {
       "added_at": "2025-06-27 07:22:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
-        "name": "Heads and Tales",
-        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
-      },
-      "artists": [
-        {
-          "name": "Pro Kid",
-          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "Wozobona",
-      "url": "https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN"
-    },
-    {
-      "added_at": "2025-06-27 07:22:38",
-      "album": {
         "name": "Evo Mix",
         "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
+    },
+    {
+      "added_at": "2025-06-27 07:22:38",
+      "album": {
+        "name": "Heads and Tales",
+        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
+      },
+      "artists": [
+        {
+          "name": "Pro Kid",
+          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Wozobona",
+      "url": "https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN"
     },
     {
       "added_at": "2025-06-27 07:22:38",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-06-27 07:22:38",
       "album": {
-        "name": "Heads and Tales",
-        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
       "artists": [
         {
-          "name": "Pro Kid",
-          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
         }
       ],
-      "duration_ms": 256239,
-      "name": "Soweto",
-      "url": "https://open.spotify.com/track/3mwHZLSAxPrj4SwCKvfxQA"
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
     }
   ],
   "unique_name": "SA Gold",

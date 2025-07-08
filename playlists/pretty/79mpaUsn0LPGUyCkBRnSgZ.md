@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 556 songs - 1 day 12 hr 59 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 557 songs - 1 day 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -564,5 +564,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 554 | [went to meet her \(intro\)](https://open.spotify.com/track/2RLKAk5EDhM4gXxIfpE58c) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 2:31 |
 | 555 | [Every Painting Has a Price \(feat\. BJ The Chicago Kid and Eryn Allen Kane\)](https://open.spotify.com/track/3q6QW9k7uqeQJOSvhNwrUQ) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 3:33 |
 | 556 | [BUSY/SIRENS](https://open.spotify.com/track/5grLxdzdEocGbwXhYLohqy) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/1crhG7YecAj6ZN0AAYMYsb) | 5:29 |
+| 557 | [Overflow](https://open.spotify.com/track/5kgCqrcWdh2ENYrEBpKzqr) | [Pat and the Pissers](https://open.spotify.com/artist/6Djxo4G9K55aRE1Nd2d62K) | [How It's Done](https://open.spotify.com/album/7J9T5PCqq9HzcgnuT5szHG) | 1:48 |
 
-Snapshot ID: `AAAHRnO8SH8j/OlFMm4LYKRh1qF8MOyr`
+Snapshot ID: `AAAHRwmmS9GyLVLeGBEIk50XMAg8uIbU`

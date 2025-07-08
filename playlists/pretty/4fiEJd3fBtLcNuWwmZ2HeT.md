@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 306 songs - 17 hr 19 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 310 songs - 17 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,5 +314,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 304 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 |
 | 305 | [人生は夢だらけ](https://open.spotify.com/track/0z2xgbxkLvrpzBZDtYIIXS) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:14 |
 | 306 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
+| 307 | [pa!](https://open.spotify.com/track/23Xv6xyVdvYRbNGhKWYfe7) | [SEE](https://open.spotify.com/artist/2hJ5WKq9RUpQyzNJZqlzPM) | [Kakeashi](https://open.spotify.com/album/6hQhnhaRaTVh2N5832ghFL) | 3:17 |
+| 308 | [far,far,far](https://open.spotify.com/track/6rDLIrDt0xoJ96HWMHeCRv) | [中瀬ミル](https://open.spotify.com/artist/2ex6VXn9KNqoAZJEBBrDIF) | [i m u](https://open.spotify.com/album/0JMMMAPIGznddf3Iv3a6e5) | 3:33 |
+| 309 | [Wine Red Night](https://open.spotify.com/track/5ODlBOueVnoq2WXbPFV85G) | [Vivanz Eden](https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I) | [Wine Red Night](https://open.spotify.com/album/30Eg5Z9eLHIVpQ2FySN9DU) | 2:56 |
+| 310 | [witch trial](https://open.spotify.com/track/5v9f1ZftJVVWV6Hg2FwYov) | [Len](https://open.spotify.com/artist/6oMfS8fHX0CyDwRptywVjr), [否](https://open.spotify.com/artist/57Rl65o9Q40FfEWqgc05tx) | [witch trial](https://open.spotify.com/album/5F8hbFbQ6gLDkhwYaoGI4t) | 2:36 |
 
-Snapshot ID: `AAAJGRS5r/b+SzIBQ7CkMZLgw5BmDjqF`
+Snapshot ID: `AAAJHQcJi0eTSX7nWOzIKE3inT4of6U8`

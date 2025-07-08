@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Ethel Cain
 
-9,009 songs - 21 day 21 hr 40 min
+9,010 songs - 21 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Alabama](https://open.spotify.com/track/0X3uitVppwidFzK2GUDehH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Alabama](https://open.spotify.com/album/56xF0FLJgE20AhapFNXs6f) | 2:38 | 2024-08-02 | 2024-09-07 |
 | [Alameda](https://open.spotify.com/track/7h5VAXxxAm8lYi7vrTHRo6) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Alameda](https://open.spotify.com/album/7LgkvNyeL12xJmTVW6rfTX) | 2:41 | 2021-02-26 | 2021-04-10 |
 | [Alapathy](https://open.spotify.com/track/3UUjYLkGzItgoyEwdEtq9e) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Alapathy](https://open.spotify.com/album/7hZE46AUtKrkuTjlJVAWf5) | 3:14 | 2020-06-29 | 2020-07-24 |
+| [alarm bells in central plaza](https://open.spotify.com/track/7xXP4jcVrbtiWNyAgZ7P22) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [Shakedown](https://open.spotify.com/album/1VMd1Kp9pH34iI6sfgynBG) | 4:21 | 2025-07-07 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-19 | 2022-01-08 |
 | [Albatross](https://open.spotify.com/track/6IpolXK6gnVn0c6ilWI2QX) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Albatross](https://open.spotify.com/album/4w4oqNyTpCFFZOQ92mbGn5) | 3:26 | 2024-05-10 | 2024-06-15 |
 | [Albion](https://open.spotify.com/track/4xw3CqdYLZIncseekii4Kq) | [Gus Harvey](https://open.spotify.com/artist/1cxAeZbDhf2S8t544RIVIf) | [Albion](https://open.spotify.com/album/1vGy4ML1gT6NieDKU8tT1t) | 4:50 | 2020-06-05 | 2020-07-24 |
@@ -1581,7 +1582,7 @@
 | [Cold Waters](https://open.spotify.com/track/13SnOkOo4NBFmdNLPcfmx7) | [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [Cold Waters](https://open.spotify.com/album/0bgkKWGxGhWRgtV4cnoNwF) | 2:55 | 2020-08-30 | 2020-10-16 |
 | [Colder & Closer](https://open.spotify.com/track/7m4csN8E9qu6UyPAWfqyyZ) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Colder & Closer](https://open.spotify.com/album/11klpI9y9EyGZcPyr23eaC) | 3:04 | 2020-03-06 | 2020-04-10 |
 | [Coldplay cover](https://open.spotify.com/track/5NUFWIfrVVDl8max4A9Oc8) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Coldplay cover](https://open.spotify.com/album/3VblKLR0BXs2em5j30wKlo) | 4:16 | 2025-05-30 |  |
-| [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 | 2025-05-23 |  |
+| [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 | 2025-05-23 | 2025-07-08 |
 | [Colin](https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Colin](https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7) | 3:39 | 2022-11-25 | 2023-01-21 |
 | [Collapse](https://open.spotify.com/track/6J52z2Gwb3Y6esogXd82dR) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Collapse](https://open.spotify.com/album/6vb35qXfBQeop321QPpfYU) | 4:31 | 2019-11-15 | 2020-01-24 |
 | [Collect Sadness](https://open.spotify.com/track/1515TA6wXAx8C8eYdJUvTt) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Raw Blue](https://open.spotify.com/album/7sjPkabCV2TmmnlitookOK) | 5:20 | 2025-01-24 | 2025-03-01 |
@@ -5105,7 +5106,7 @@
 | [Midnight Train](https://open.spotify.com/track/1AWvfGBiJQ6GV5Va0dS0es) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:26 | 2023-07-07 | 2023-08-12 |
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-09 | 2023-07-15 |
 | [Might as Well](https://open.spotify.com/track/7sgFIERLa5s8K4DnXlKStc) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [Might as Well](https://open.spotify.com/album/1K3ZdHD2DDxLyq3SZj41vO) | 3:27 | 2022-04-29 | 2022-05-28 |
-| [migration patterns](https://open.spotify.com/track/3oEEFMm9zcTyjhvKWMGoxz) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [migration patterns](https://open.spotify.com/album/3EoHlEOAFafYIHY1fGLYLF) | 3:35 | 2025-05-23 |  |
+| [migration patterns](https://open.spotify.com/track/3oEEFMm9zcTyjhvKWMGoxz) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [migration patterns](https://open.spotify.com/album/3EoHlEOAFafYIHY1fGLYLF) | 3:35 | 2025-05-23 | 2025-07-08 |
 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 | 2025-05-16 | 2025-06-28 |
 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 | 2024-08-23 | 2024-09-28 |
 | [Milk](https://open.spotify.com/track/1NBRpCH5bimvOtHJWiESAz) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Milk](https://open.spotify.com/album/3z9Xw6ileT4lHlb4AXtCcI) | 3:13 | 2023-10-06 | 2023-11-11 |

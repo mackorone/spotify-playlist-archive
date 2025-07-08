@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-310 songs - 17 hr 36 min
+314 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Envy Cat Walk](https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j) | [RIB](https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY) | [Rib On](https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD) | 3:43 | 2025-01-06 |  |
 | [FACT](https://open.spotify.com/track/4jYHYJFTi1QkBobUMC7kf7) | [常闇トワ](https://open.spotify.com/artist/0XZGQi9wNsE1z9L0AWhC82) | [FACT](https://open.spotify.com/album/6rftPCSznoXjxmJxsHk5zM) | 3:15 | 2024-04-08 |  |
 | [FAILURE GIRL \- MARETU Remix](https://open.spotify.com/track/1ggbMRzwjDZQC0kvdjD97A) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [MARETU](https://open.spotify.com/artist/5xyAdpFAdfuMpS3uRXKPpB) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:04 | 2024-09-12 |  |
+| [far,far,far](https://open.spotify.com/track/6rDLIrDt0xoJ96HWMHeCRv) | [中瀬ミル](https://open.spotify.com/artist/2ex6VXn9KNqoAZJEBBrDIF) | [i m u](https://open.spotify.com/album/0JMMMAPIGznddf3Iv3a6e5) | 3:33 | 2025-07-07 |  |
 | [Fibber](https://open.spotify.com/track/1QuRsBr1YF54MkQqVudKef) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:02 | 2025-05-20 |  |
 | [Flashback](https://open.spotify.com/track/3xgWtkf7PUlIS7e2B7823x) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Ken Ken](https://open.spotify.com/artist/37q3VtYOmP8b94tbw8HiPI) | [SAMURAI SESSIONS vol.2](https://open.spotify.com/album/25q33Q6yrlWEeUd3FYfAXg) | 3:00 | 2024-03-30 | 2025-04-09 |
 | [Flicker](https://open.spotify.com/track/2xkfXjYKy3IIh2jy42SHMC) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [Flicker](https://open.spotify.com/album/0zbiEqttHyOelGd2SkUUAA) | 3:14 | 2024-04-08 |  |
@@ -135,6 +136,7 @@
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-06-25 |  |
 | [p.h.](https://open.spotify.com/track/3WxlfdEj9jL5PQiyFfQvcM) | [SEVENTHLINKS](https://open.spotify.com/artist/7GLKth0GUYwTRUDm217DHO) | [p.h.](https://open.spotify.com/album/7LwBnfRTz070DrRlVXiQwj) | 2:35 | 2024-09-09 |  |
 | [P3 fes \-Reload\-](https://open.spotify.com/track/6cyVHSgEiEebYQXrm7Sr2p) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload: Episode Aigis Original Soundtrack](https://open.spotify.com/album/7Ic5fXfxRtYiRgyqNj1iyN) | 1:28 | 2024-09-21 |  |
+| [pa!](https://open.spotify.com/track/23Xv6xyVdvYRbNGhKWYfe7) | [SEE](https://open.spotify.com/artist/2hJ5WKq9RUpQyzNJZqlzPM) | [Kakeashi](https://open.spotify.com/album/6hQhnhaRaTVh2N5832ghFL) | 3:17 | 2025-07-07 |  |
 | [Paradisus\-Paradoxum](https://open.spotify.com/track/3CrYQaVrFUppSElxRwNHJK) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:51 | 2023-11-08 |  |
 | [Petrichor \(feat\. 9Lana\)](https://open.spotify.com/track/6MESRIHFSpI37ox8qSKX06) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [404 NOT FOUND](https://open.spotify.com/album/3yMOVTrwwXgi7ozbX51uMg) | 2:04 | 2024-11-20 |  |
 | [Phony](https://open.spotify.com/track/0easKsHTKz3x4OayMKoZET) | [Xiulan Long](https://open.spotify.com/artist/4rUM4AisHJilVENH56wqCY) | [Phony](https://open.spotify.com/album/1ndZLzQ1XDrFz2Lq4S2TCV) | 3:09 | 2024-03-25 |  |
@@ -184,6 +186,8 @@
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-08-04 |  |
 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 | 2024-12-07 |  |
 | [Wild Side \(From "Beastars"\)](https://open.spotify.com/track/2OppMWpVJYpd7aRFabrknT) | [MrLopez2112](https://open.spotify.com/artist/4r0pewWwxxqoq4KVrj897v) | [Wild Side \(From "Beastars"\)](https://open.spotify.com/album/7Fb3tJESZBCCA7bBWU2YQ1) | 2:43 | 2021-07-06 |  |
+| [Wine Red Night](https://open.spotify.com/track/5ODlBOueVnoq2WXbPFV85G) | [Vivanz Eden](https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I) | [Wine Red Night](https://open.spotify.com/album/30Eg5Z9eLHIVpQ2FySN9DU) | 2:56 | 2025-07-07 |  |
+| [witch trial](https://open.spotify.com/track/5v9f1ZftJVVWV6Hg2FwYov) | [Len](https://open.spotify.com/artist/6oMfS8fHX0CyDwRptywVjr), [否](https://open.spotify.com/artist/57Rl65o9Q40FfEWqgc05tx) | [witch trial](https://open.spotify.com/album/5F8hbFbQ6gLDkhwYaoGI4t) | 2:36 | 2025-07-07 |  |
 | [You will never forget me](https://open.spotify.com/track/452ASKVqm4i7fvHevyBgF3) | [Awa Dobuno](https://open.spotify.com/artist/4s9gPwB69I2H9rEwKgrWoZ) | [You will never forget me](https://open.spotify.com/album/7L8TFycwRIW9yGYsiC065k) | 3:54 | 2024-06-08 |  |
 | [You're Not Special](https://open.spotify.com/track/2assykTcw0YvTyZD7XSGMd) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [JIGOKU 6](https://open.spotify.com/album/60EiDxjoQ7L059GbEOeQEs) | 3:29 | 2023-08-27 |  |
 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2022-03-16 |  |

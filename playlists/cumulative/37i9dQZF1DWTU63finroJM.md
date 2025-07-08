@@ -4,14 +4,14 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,048 songs - 4 day 14 hr 37 min
+2,049 songs - 4 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/track/3xCgPTnLgOYoGoRbnH7zxv) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5), [kny](https://open.spotify.com/artist/2K0m61hiNInpCGF4eat1t7), [Ox The Moron](https://open.spotify.com/artist/1ZShGZFqI0vv1dXum6C72j) | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/album/3ZE3pusHOfUT2oDtBYXhzA) | 4:07 | 2022-02-03 | 2022-12-15 |
 | [\#sexy](https://open.spotify.com/track/0o657Agp57aIJX64yOFMVr) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [\#sexy](https://open.spotify.com/album/5qiSHRg4ipJODavlKOgdYp) | 2:14 | 2025-06-20 | 2025-06-28 |
 | [\#sxysmmr](https://open.spotify.com/track/4esup4xb7u8LFaDzN5gF5g) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [\#sxysmmr](https://open.spotify.com/album/07v66XjE2d8dPeV9nQXqXi) | 2:31 | 2025-06-27 |  |
-| ['Sapababy](https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | ['Sapababy](https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ) | 3:58 | 2025-04-04 |  |
+| ['Sapababy](https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | ['Sapababy](https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ) | 3:58 | 2025-04-04 | 2025-07-08 |
 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 | 2023-05-22 | 2023-09-02 |
 | [\(if\) only](https://open.spotify.com/track/15BLMoHLOBy9XDc5iDc0ax) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [amber's playlist](https://open.spotify.com/album/10dLMvINSliOIpydkbpUPY) | 3:12 | 2023-10-13 | 2024-03-16 |
 | [\*67](https://open.spotify.com/track/4vsG4nLNSzgArBYj2jimM6) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [\*67](https://open.spotify.com/album/5l10Hgkpbx7V3TpLkFE3Nw) | 4:10 | 2022-03-24 | 2022-04-20 |
@@ -2008,6 +2008,7 @@
 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 | 2022-03-21 | 2023-04-18 |
 | [無源之愛](https://open.spotify.com/track/4geP6KQzst4ETo3SPMaCiV) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Jason Yu](https://open.spotify.com/artist/0bFyd1ptUSFAfhQOpLt9g1) | [無源之愛](https://open.spotify.com/album/757bdTm0Z5I2oNNLLCXPuw) | 2:41 | 2022-03-24 | 2022-05-20 |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-12-19 | 2024-05-11 |
+| [現在幾點](https://open.spotify.com/track/56Cqh5tLTB3Fm8SFxx6nkN) | [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [現在幾點](https://open.spotify.com/album/3cb5HhawyeMGcFtamIp6AG) | 2:29 | 2025-07-04 |  |
 | [現在的事我說不出口](https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [現在的事我說不出口](https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ) | 3:58 | 2023-12-15 | 2024-03-19 |
 | [生活復常](https://open.spotify.com/track/3cMG9t7dzGwcFs4vnU5Xa0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [生活復常](https://open.spotify.com/album/0kjVZySk9kDsn9nhybF8cL) | 3:49 | 2023-05-30 | 2023-10-06 |
 | [男孩子不要流淚](https://open.spotify.com/track/49JnTU209Y3NCNMzOIdxaB) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [男孩子不要流淚](https://open.spotify.com/album/1jOVX6H4BIZaVTDq95b1ML) | 4:39 | 2025-04-04 |  |

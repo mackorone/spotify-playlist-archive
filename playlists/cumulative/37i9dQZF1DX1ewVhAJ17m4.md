@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Good Charlotte
 
-507 songs - 1 day 1 hr 20 min
+508 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [aftermath/afterthought](https://open.spotify.com/track/6MrfKGnxHAcWhIta38sliG) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 2:26 | 2024-08-14 | 2025-02-22 |
 | [againagainagain](https://open.spotify.com/track/1KJao1U5lALGcswmhJLzV2) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [againagainagain](https://open.spotify.com/album/3cxnAcVLZaW3tAnIl5pfJB) | 2:35 | 2023-06-20 | 2023-07-07 |
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-06 | 2025-02-22 |
+| [All My Friends](https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 3:01 | 2025-07-07 |  |
 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 | 2024-05-10 | 2025-05-14 |
 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 | 2024-02-05 | 2024-02-24 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-14 | 2024-11-19 |
@@ -273,7 +274,7 @@
 | [Life's a Brittany](https://open.spotify.com/track/71LUSp3iOUP66Cv3V8S75B) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Life's a Brittany](https://open.spotify.com/album/3MdcvaLP5rnjGunuwkOATO) | 2:42 | 2023-04-21 | 2023-09-15 |
 | [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-15 | 2024-02-09 |
 | [Light Blue](https://open.spotify.com/track/7jsx6taYSIBP0Oy5mBXPqh) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Light Blue](https://open.spotify.com/album/2aVOJTBuaBYiw6D81TPnQr) | 3:08 | 2024-11-18 | 2025-02-22 |
-| [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-14 |  |
+| [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-14 | 2025-07-08 |
 | [Light Switch](https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Light Switch](https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35) | 3:08 | 2022-07-04 | 2023-07-07 |
 | [Like I'm Okay](https://open.spotify.com/track/4z7m5fHKANtRtr8CGnckLd) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Like I'm Okay](https://open.spotify.com/album/1wYkIgcLpMG9DggdMQw62n) | 2:49 | 2022-09-29 | 2022-11-13 |
 | [Lost in The Moment](https://open.spotify.com/track/3luVbWbFdZ0MCddvdRtU1I) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Been Here Before \(Side A\)](https://open.spotify.com/album/63rdxeNhfAmNo0w35rppQt) | 2:49 | 2025-05-15 |  |

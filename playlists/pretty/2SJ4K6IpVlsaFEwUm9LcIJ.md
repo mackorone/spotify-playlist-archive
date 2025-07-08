@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 ### [the return of cookie](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-> my alter ego \(what i&\#x27;m listening to july\-aug 2025\)
+> she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
 [margeaux](https://open.spotify.com/user/1220511975) - 23,152 likes - 12 songs - 52 min 1 sec
 
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 11 | [June Guitar](https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [June Guitar](https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC) | 3:52 |
 | 12 | [SINCERELY](https://open.spotify.com/track/4CRCH72z1sK1GDysXFpoc8) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [4 REAL](https://open.spotify.com/album/3v54qzNPUdfcV0W2WEFcRA) | 3:08 |
 
-Snapshot ID: `AAAMsqcvs1DbtNEeiGU2NxbM8e2cuamg`
+Snapshot ID: `AAAMsyU2i27tcWvJOmV5342HfgiSpf6j`

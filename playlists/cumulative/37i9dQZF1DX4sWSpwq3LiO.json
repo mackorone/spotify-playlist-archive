@@ -4857,6 +4857,24 @@
     },
     {
       "album": {
+        "name": "chanson de bateau",
+        "url": "https://open.spotify.com/album/1iW2MkGnizDSj6pfy9zzeZ"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "chanson de bateau",
+      "url": "https://open.spotify.com/track/2SwptMOjnExmwFIrx1prEw"
+    },
+    {
+      "album": {
         "name": "Chanson d\u2019\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
       },
@@ -11174,7 +11192,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 162430,
       "name": "Hivon",
       "url": "https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs"
@@ -24220,6 +24238,24 @@
       "duration_ms": 135466,
       "name": "Silent Agreement",
       "url": "https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK"
+    },
+    {
+      "album": {
+        "name": "Silent Bloom",
+        "url": "https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130181,
+      "name": "Silent Bloom",
+      "url": "https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T"
     },
     {
       "album": {

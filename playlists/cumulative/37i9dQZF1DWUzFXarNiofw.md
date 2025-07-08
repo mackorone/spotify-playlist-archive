@@ -2,9 +2,9 @@
 
 ### [R&B Weekly](https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw)
 
-> The newest r&b drops, every week\. Cover: Tink & Bryson Tiller
+> The newest r&b drops, every week\. Cover: Syd
 
-4,096 songs - 8 day 22 hr 28 min
+4,097 songs - 8 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [did you mean it ?](https://open.spotify.com/track/3crlsGG2XuwWIeSYYneyhg) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ) | [did you mean it ?](https://open.spotify.com/album/1fkU262XlkuMzCBZLoneRV) | 2:28 | 2024-11-01 | 2024-12-01 |
 | [did you think of us?](https://open.spotify.com/track/4NZ2WAwOv0em9omoH1Lqjt) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [did you think of us?](https://open.spotify.com/album/1O11MaFp7to2F4fyjEz33C) | 2:29 | 2022-12-09 | 2023-01-21 |
 | [diddy crop](https://open.spotify.com/track/7zHAj0PJoJY1yd9dmc0zwJ) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [diddy crop](https://open.spotify.com/album/4TomYKjwhITcPeygcdqWbX) | 1:53 | 2023-07-28 | 2023-08-26 |
+| [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 | 2025-07-07 |  |
 | [Die Young](https://open.spotify.com/track/5CltNqbB9fsOCzgUQTLkl8) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Die Young](https://open.spotify.com/album/3f70zg9qFwcrxBVdiZtrs9) | 3:17 | 2025-05-23 |  |
 | [Difference Now \(feat\. Stacy Barthe & Runkus\)](https://open.spotify.com/track/6d0wUxO6RIuulgesLeEM7x) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ) | [Difference Now \(feat\. Stacy Barthe & Runkus\)](https://open.spotify.com/album/4Q0rOlhiJNbiu2VnERnO9f) | 2:58 | 2024-09-06 | 2024-10-26 |
 | [Difference Now \(feat\. Stacy Barthe & Runkus\) \- Acoustic Version](https://open.spotify.com/track/0PChgprS3mVj9QJXYwbSGK) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ) | [Difference Now \(feat\. Stacy Barthe & Runkus\) \[Acoustic Version\]](https://open.spotify.com/album/4WYkm3TBUueZd8iOEHhHf9) | 3:10 | 2024-09-20 | 2024-12-07 |
@@ -2437,7 +2438,7 @@
 | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9) | 5:02 | 2022-07-29 | 2022-08-20 |
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-05-19 | 2023-06-17 |
 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 | 2024-05-31 | 2024-07-06 |
-| [NEXT LEVEL](https://open.spotify.com/track/39wLDFtKusnjjqHFXJ8gAD) | [bbyblu](https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz), [Norah's World](https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [NEXT LEVEL](https://open.spotify.com/album/3P6J0omNwZfPbPtnyb9haO) | 2:26 | 2025-07-04 |  |
+| [NEXT LEVEL](https://open.spotify.com/track/39wLDFtKusnjjqHFXJ8gAD) | [bbyblu](https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz) | [NEXT LEVEL](https://open.spotify.com/album/3P6J0omNwZfPbPtnyb9haO) | 2:26 | 2025-07-04 |  |
 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 | 2025-06-20 |  |
 | [Niagara Falls](https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:37 | 2025-01-31 | 2025-03-08 |
 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 | 2022-09-16 | 2022-10-08 |

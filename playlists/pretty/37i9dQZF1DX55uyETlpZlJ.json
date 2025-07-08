@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Chandan Shetty",
-  "num_followers": 24849,
+  "num_followers": 24881,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGeJtQAAAABH/b6/G5iBs2m011G3Q2VB",
+  "snapshot_id": "aGu2kwAAAABIKP16nuGR+JD5r/jNR4+I",
   "tracks": [
     {
       "added_at": "2025-06-24 04:48:26",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/2xHINJevzhsDPd8tK9ZUGq"
     },
     {
+      "added_at": "2025-07-07 11:58:46",
+      "album": {
+        "name": "Chill Madu Maga",
+        "url": "https://open.spotify.com/album/4aHx6I6Kp3Y2U1788IxFQ8"
+      },
+      "artists": [
+        {
+          "name": "Suprith Nayak Official",
+          "url": "https://open.spotify.com/artist/03zw6bTAA8lSfj1wJR8PMn"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Chill Madu Maga",
+      "url": "https://open.spotify.com/track/7JncE2mHoMdPipbAVGTeXZ"
+    },
+    {
       "added_at": "2025-06-30 09:55:25",
       "album": {
         "name": "Chill Madale",
@@ -59,6 +75,26 @@
       "duration_ms": 194823,
       "name": "Saak Maadu",
       "url": "https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy"
+    },
+    {
+      "added_at": "2025-07-07 11:59:15",
+      "album": {
+        "name": "Thusu Preethi",
+        "url": "https://open.spotify.com/album/0rL2sVQ7WPPdhHRHXJkKrj"
+      },
+      "artists": [
+        {
+          "name": "AKSH",
+          "url": "https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137"
+        },
+        {
+          "name": "Asha Bhat",
+          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Thusu Preethi",
+      "url": "https://open.spotify.com/track/6RotzBUUJzdwbg8iUUqGAm"
     },
     {
       "added_at": "2025-05-09 08:48:16",
@@ -1387,46 +1423,6 @@
       "duration_ms": 171827,
       "name": "Manase Relax",
       "url": "https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/6GQDke7RJSemiACQQyiKWy"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/2LjbQqa8DW8Zw1NSOMbIQ5"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Mayavi (From \"Bhoomi 2024\")",
-        "url": "https://open.spotify.com/album/12WRdvgLyCdAZJXOw1xQxs"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Mayavi (From \"Bhoomi 2024\")",
-      "url": "https://open.spotify.com/track/5FpUYrZWcFcuQMX4lDQqrf"
     }
   ],
   "unique_name": "Kannada Indie",

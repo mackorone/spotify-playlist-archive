@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49148,
+  "num_followers": 49151,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAADbBx0Rp3TES8po2wl/yOBX",
+  "snapshot_id": "aGm8gAAAAAC30HqNGksCJSxAEzD8VVED",
   "tracks": [
     {
       "added_at": null,
@@ -664,15 +664,15 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 96680,
-      "name": "You Want It, You Got It",
-      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
+      "duration_ms": 120480,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 132026,
-      "name": "Back Where I Belong",
-      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
+      "duration_ms": 238840,
+      "name": "Corazon De Oro",
+      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
     },
     {
       "added_at": null,
@@ -728,15 +728,15 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 120480,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
+      "duration_ms": 96680,
+      "name": "You Want It, You Got It",
+      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 238840,
-      "name": "Corazon De Oro",
-      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
+      "duration_ms": 132026,
+      "name": "Back Where I Belong",
+      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
     },
     {
       "added_at": null,

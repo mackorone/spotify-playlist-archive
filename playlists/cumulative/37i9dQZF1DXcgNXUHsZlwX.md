@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-495 songs - 1 day 5 hr 30 min
+496 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2022-07-08 | 2023-06-08 |
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 |  |
 | [Feu sacré](https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [Antoine Lachance](https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP) | 3:38 | 2021-01-15 | 2022-07-27 |
+| [Fever Dream](https://open.spotify.com/track/0HOg1ZVNtEUUZAmJQ1wCjQ) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:39 | 2025-07-07 |  |
 | [File d'attente](https://open.spotify.com/track/5bKR5u7anmLED2AmivuVsR) | [David Marin](https://open.spotify.com/artist/4uzgr1qYBaIRZVCilj6vcU) | [File d'attente](https://open.spotify.com/album/6Gl0JODD6VE3Ubgs1ZZu8f) | 3:38 | 2021-07-19 | 2021-09-20 |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2021-10-03 |  |
 | [FLATTE!](https://open.spotify.com/track/0q9SpxJXi5uLhxKQNsJflG) | [Fred Tremblay](https://open.spotify.com/artist/4MpruP4drFjBWNU64Ipd6n) | [Au pire, j'vendrai du gaz...](https://open.spotify.com/album/5LFv3Rp4aBp2WQbtJzBlDa) | 3:07 | 2021-02-23 | 2021-05-27 |
@@ -234,7 +235,7 @@
 | [Lac miroir](https://open.spotify.com/track/6cMjdLFH2xlLi6Yya62FzM) | [Joli\-Bois](https://open.spotify.com/artist/1hYaIQ0aeDjFM7nDP6hxcl) | [Lac miroir](https://open.spotify.com/album/2voRn55rWwSBUOOBv5zb2a) | 3:55 | 2021-01-03\* | 2021-01-23 |
 | [Laisse tomber](https://open.spotify.com/track/708gV8gsUkKJh6YeNubcZR) | [Cédric Vieno](https://open.spotify.com/artist/3BlVrNmJQj2ZfgFYDs3iNv) | [Maltempête](https://open.spotify.com/album/07L0z3wBeykMe72aSurnci) | 3:09 | 2021-01-03\* | 2021-05-07 |
 | [Laissez\-Moi](https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Rosier](https://open.spotify.com/album/0vQeuOk0tohIHflikV8jWg) | 3:35 | 2021-01-03\* | 2022-07-26 |
-| [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 |  |
+| [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 | 2025-07-08 |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 |  |

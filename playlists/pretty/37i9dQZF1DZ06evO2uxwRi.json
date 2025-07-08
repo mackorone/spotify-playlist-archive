@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42146,
+  "num_followers": 42153,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAAANhZ1FEbKKJOUZsF5p5JOo",
+  "snapshot_id": "aGm8gAAAAACupFdDr5Uc3pTtfSX+BbvA",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204972,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 204400,
       "name": "nothing matters (with Jordan Pundik of New Found Glory)",
       "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204972,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 192599,
-      "name": "Anthem for the Unwanted",
-      "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
+      "duration_ms": 177461,
+      "name": "Summer Fling, Don't Mean a Thing",
+      "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 177461,
-      "name": "Summer Fling, Don't Mean a Thing",
-      "url": "https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq"
+      "duration_ms": 192599,
+      "name": "Anthem for the Unwanted",
+      "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
     },
     {
       "added_at": null,

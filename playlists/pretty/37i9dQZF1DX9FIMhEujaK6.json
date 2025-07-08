@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 593257,
+  "num_followers": 595380,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-07-03 18:04:21",
       "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA"
+    },
+    {
+      "added_at": "2025-07-03 18:04:21",
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 222534,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
-    },
-    {
-      "added_at": "2025-07-03 18:04:21",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA"
     },
     {
       "added_at": "2025-07-03 18:04:21",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-07-03 18:04:21",
       "album": {
-        "name": "Expander",
-        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Expander",
-      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
-    },
-    {
-      "added_at": "2025-07-03 18:04:21",
-      "album": {
         "name": "GLY",
         "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 197619,
       "name": "Howl - Chill Mix",
       "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
+    },
+    {
+      "added_at": "2025-07-03 18:04:21",
+      "album": {
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
     },
     {
       "added_at": "2025-07-03 18:04:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-07-03 18:04:21",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 344593,
-      "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
-    },
-    {
-      "added_at": "2025-07-03 18:04:21",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2025-07-03 18:04:21",
       "album": {
-        "name": "I'll miss you",
-        "url": "https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4"
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
       },
       "artists": [
         {
-          "name": "Bassi Fox",
-          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 166451,
-      "name": "I'll miss you",
-      "url": "https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe"
+      "duration_ms": 344593,
+      "name": "Pressure Makes Diamonds",
+      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
     },
     {
       "added_at": "2025-07-03 18:04:21",
@@ -851,6 +835,22 @@
     {
       "added_at": "2025-07-03 18:04:21",
       "album": {
+        "name": "I'll miss you",
+        "url": "https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4"
+      },
+      "artists": [
+        {
+          "name": "Bassi Fox",
+          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "I'll miss you",
+      "url": "https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe"
+    },
+    {
+      "added_at": "2025-07-03 18:04:21",
+      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 220630,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2025-07-03 18:04:21",
-      "album": {
-        "name": "Have U",
-        "url": "https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 161614,
-      "name": "Have U",
-      "url": "https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B"
     },
     {
       "added_at": "2025-07-03 18:04:21",
@@ -903,6 +887,22 @@
     {
       "added_at": "2025-07-03 18:04:21",
       "album": {
+        "name": "Have U",
+        "url": "https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 161614,
+      "name": "Have U",
+      "url": "https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B"
+    },
+    {
+      "added_at": "2025-07-03 18:04:21",
+      "album": {
         "name": "Pasarla",
         "url": "https://open.spotify.com/album/0wHgRHuGgrowONsvu0gERk"
       },
@@ -915,6 +915,26 @@
       "duration_ms": 176528,
       "name": "Pasarla",
       "url": "https://open.spotify.com/track/1iPlvNB8uJyKrUfTDaeku4"
+    },
+    {
+      "added_at": "2025-07-03 18:04:21",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp"
+      },
+      "artists": [
+        {
+          "name": "Iorie",
+          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
+        },
+        {
+          "name": "Cesar B.",
+          "url": "https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2"
+        }
+      ],
+      "duration_ms": 470896,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a"
     },
     {
       "added_at": "2025-07-03 18:04:21",
@@ -951,26 +971,6 @@
       "duration_ms": 252000,
       "name": "Naarm's Sunset",
       "url": "https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr"
-    },
-    {
-      "added_at": "2025-07-03 18:04:21",
-      "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp"
-      },
-      "artists": [
-        {
-          "name": "Iorie",
-          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
-        },
-        {
-          "name": "Cesar B.",
-          "url": "https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2"
-        }
-      ],
-      "duration_ms": 470896,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a"
     }
   ],
   "unique_name": "Ibiza Sunset",

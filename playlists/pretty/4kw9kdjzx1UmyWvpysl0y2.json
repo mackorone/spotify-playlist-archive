@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125213,
+  "num_followers": 125209,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUSmq1EfiT8V6mvr3wIGe/n+UfZC8d",
+  "snapshot_id": "AAAUSwH9Wgr7qsyegrDsC0u1ibixWFTn",
   "tracks": [
+    {
+      "added_at": "2025-07-07 14:29:04",
+      "album": {
+        "name": "LEFT2RIGHT",
+        "url": "https://open.spotify.com/album/4lDHMmcOTAHQosQSRFWHVM"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        },
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "LEFT2RIGHT",
+      "url": "https://open.spotify.com/track/6IniZB57i0kx3rmxMYU1k7"
+    },
     {
       "added_at": "2025-07-04 14:16:14",
       "album": {

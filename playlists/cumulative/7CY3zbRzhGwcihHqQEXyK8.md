@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-674 songs - 1 day 11 hr 4 min
+675 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Moved On](https://open.spotify.com/track/6LzWAoXpGeLMOrnlXRlVuH) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Vol\. 3 Dispersed Thinking](https://open.spotify.com/album/57K4XaNkJo4LschM3ufPXd) | 3:32 | 2024-12-15 |  |
 | [Mr\. Diddle](https://open.spotify.com/track/748wXN0ZiM8X0Gt1CkNcBb) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Mr\. Diddle](https://open.spotify.com/album/5zO7TMFzvJLEtBPAFIrSOB) | 2:25 | 2024-12-15 |  |
 | [MR\. KNOWITALL](https://open.spotify.com/track/01E6JiJ3wLEVLy90TDeYLz) | [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn) | [KNOWITALL](https://open.spotify.com/album/3taqQGM1QEr2Mb5zKdfFHI) | 2:37 | 2024-12-15 |  |
+| [MURDER EVERY 1 U KNOW! \- SALVIA'S VERSION](https://open.spotify.com/track/6iCNGXd4dIkVj7oofcRomz) | [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [MURDER EVERY 1 U KNOW! \(SALVIA'S VERSION\)](https://open.spotify.com/album/1CDHqGeMoQ4sKJWBeWwVAV) | 2:07 | 2025-07-08 |  |
 | [Museum](https://open.spotify.com/track/7qhJlJzwmWRUJ4Go3nmE0b) | [television archives](https://open.spotify.com/artist/52Nc32sj7qMGMa7pHJjj5W) | [TA\_1](https://open.spotify.com/album/1fv1Cgww2KOucMB9nEdW8w) | 2:23 | 2024-12-15 |  |
 | [MUSHROOM ISLAND!](https://open.spotify.com/track/4Ta1cuHsB5RPVppXIUVKXT) | [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [MUSHROOM ISLAND!](https://open.spotify.com/album/5rINKUuEpFNsBaJyGBOvuV) | 2:45 | 2024-12-15 |  |
 | [My Best Friend](https://open.spotify.com/track/1Jm8NcQznEVoaJKTo55lWu) | [Blurain](https://open.spotify.com/artist/1qoYHtGe1GYUzFpoRIse8y), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [What Life Really Means](https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv) | 4:32 | 2024-12-15 |  |

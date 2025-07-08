@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,478 likes - 80 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,512 likes - 80 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 74 | [Grace Story](https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Grace Story](https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ) | 7:03 |
 | 75 | [Light](https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Light](https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A) | 6:08 |
 | 76 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 |
-| 77 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 |
-| 78 | [Calvary](https://open.spotify.com/track/4OCtJ6Jm4TATGTU6tnMKHi) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [METANOIA](https://open.spotify.com/album/6DZgMfVrDgyAKdvTHsMEUH) | 2:53 |
-| 79 | [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 |
-| 80 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 |
+| 77 | [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 |
+| 78 | [Desire \- Live](https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Desire \(Live\)](https://open.spotify.com/album/2jdNxHWLRdhZg3cer80eOu) | 9:11 |
+| 79 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 |
+| 80 | [Calvary](https://open.spotify.com/track/4OCtJ6Jm4TATGTU6tnMKHi) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [METANOIA](https://open.spotify.com/album/6DZgMfVrDgyAKdvTHsMEUH) | 2:53 |
 
 Snapshot ID: `aGfugQAAAAB5fakXn4AFILvgT0VkzHev`

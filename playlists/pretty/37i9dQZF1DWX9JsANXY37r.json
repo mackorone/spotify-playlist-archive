@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 122548,
+  "num_followers": 122560,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-06-06 03:52:01",
       "album": {
-        "name": "Late Nights & Heartbreak",
-        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
-      },
-      "artists": [
-        {
-          "name": "Hannah Williams",
-          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
-        },
-        {
-          "name": "The Affirmations",
-          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Late Nights & Heartbreak",
-      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
-    },
-    {
-      "added_at": "2025-06-06 03:52:01",
-      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -439,18 +419,22 @@
     {
       "added_at": "2025-06-06 03:52:01",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Late Nights & Heartbreak",
+        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Hannah Williams",
+          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
+        },
+        {
+          "name": "The Affirmations",
+          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
         }
       ],
-      "duration_ms": 255278,
-      "name": "Cry Your Heart Out",
-      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
+      "duration_ms": 255066,
+      "name": "Late Nights & Heartbreak",
+      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
     },
     {
       "added_at": "2025-06-06 03:52:01",
@@ -471,6 +455,22 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2025-06-06 03:52:01",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 255278,
+      "name": "Cry Your Heart Out",
+      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
     },
     {
       "added_at": "2025-06-06 03:52:01",

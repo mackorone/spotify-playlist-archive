@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: G1nter
 
-137 songs - 6 hr 45 min
+138 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-11 |
 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 | 2024-12-09 |  |
 | [Další kapitola](https://open.spotify.com/track/1oubd2VIVeurm35QkG03X7) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Další kapitola](https://open.spotify.com/album/2rnrJ3KKF1VKgwspYXS2oI) | 2:30 | 2024-07-01 | 2024-07-23 |
-| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-23 |  |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-23 | 2025-07-08 |
 | [DISTANC](https://open.spotify.com/track/7dg2q93qomkGaLINDWjOiO) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 3:12 | 2024-09-16 | 2024-10-15 |
 | [Dlouhá Noc](https://open.spotify.com/track/012j2O6GP7Au0NZDDkgU2g) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [KHAOSAN](https://open.spotify.com/album/6MEheNIi6APYSpavv3ABAl) | 2:52 | 2025-06-23 |  |
 | [dole](https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [brat](https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp) | 2:59 | 2025-06-16 |  |
@@ -66,6 +66,7 @@
 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 | 2024-12-16 |  |
 | [Jazda](https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [SWAG SIDE STORY](https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt) | 2:35 | 2024-10-28 | 2024-12-17 |
 | [Jenom ať nesním.\. \(feat\. Calin\)](https://open.spotify.com/track/1xqRQAe2Gic8HJgg6uGKO2) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [blue.](https://open.spotify.com/album/21WNqI8VHCWS5vA8cJg7YU) | 2:32 | 2025-03-31 |  |
+| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-07 |  |
 | [KARTÁČEK](https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SPEKTRUM](https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv) | 2:15 | 2024-10-14 | 2025-05-13 |
 | [KICKIN’ DOORS](https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [KICKIN’ DOORS](https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb) | 2:57 | 2024-07-01 | 2024-12-31 |
 | [Kiki](https://open.spotify.com/track/4zBNmCPinwFF4mGgN8WqfN) | [Trabo](https://open.spotify.com/artist/19HPN1TcUQ4L5gPdRIELlr) | [Kiki](https://open.spotify.com/album/6jnEQrCjjByCACb1Q7Gx7y) | 2:53 | 2024-11-12 | 2025-02-11 |

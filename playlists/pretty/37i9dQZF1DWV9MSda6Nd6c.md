@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9MSda6Nd6c.md) - [plain]
 
 > Suomen suosituimmat bilebiisit vuodelta 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

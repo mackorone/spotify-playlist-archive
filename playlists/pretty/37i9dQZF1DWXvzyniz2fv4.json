@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158768,
+  "num_followers": 158772,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,30 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
+      },
+      "artists": [
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
         "name": "Modo Avi\u00e3o",
         "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
@@ -443,30 +467,6 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
-      },
-      "artists": [
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "Ka\u00ea",
-          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Mapa Astral",
         "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00ea",
+          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Maverick Black",
-        "url": "https://open.spotify.com/album/41XfI4q0l4QGjOtI24BfyG"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        }
-      ],
-      "duration_ms": 159117,
-      "name": "Maverick Black",
-      "url": "https://open.spotify.com/track/7MEgMOAYMG0vgSSr7ZZUBC"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Nossas M\u00eddias",
         "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Maverick Black",
+        "url": "https://open.spotify.com/album/41XfI4q0l4QGjOtI24BfyG"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "duration_ms": 159117,
+      "name": "Maverick Black",
+      "url": "https://open.spotify.com/track/7MEgMOAYMG0vgSSr7ZZUBC"
     },
     {
       "added_at": "2025-06-06 21:28:50",

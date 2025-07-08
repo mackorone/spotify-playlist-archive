@@ -1,13 +1,29 @@
 {
-  "description": "The newest r&b drops, every week. Cover: Tink & Bryson Tiller",
-  "num_followers": 1092563,
+  "description": "The newest r&b drops, every week. Cover: Syd",
+  "num_followers": 1092636,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGdR4wAAAACVlXoPr5CKEtLyOYOJREcu",
+  "snapshot_id": "aGwTQQAAAAAjd+g6W9S2BDMReQkiiHRq",
   "tracks": [
+    {
+      "added_at": "2025-07-07 18:34:41",
+      "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
     {
       "added_at": "2025-07-04 04:00:35",
       "album": {
@@ -282,18 +298,6 @@
         {
           "name": "bbyblu",
           "url": "https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz"
-        },
-        {
-          "name": "Norah's World",
-          "url": "https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh"
-        },
-        {
-          "name": "3ee",
-          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
         }
       ],
       "duration_ms": 146218,

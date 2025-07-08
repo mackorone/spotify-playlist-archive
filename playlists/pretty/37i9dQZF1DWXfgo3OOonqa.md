@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,361 likes - 116 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,364 likes - 110 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
-| 2 | [Gumman](https://open.spotify.com/track/5KkwHivX5EOicl4CW7bIhC) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gumman](https://open.spotify.com/album/3wFkbw6btwXm22Twkmj8YD) | 2:39 |
-| 3 | [SANTORINI](https://open.spotify.com/track/60m76b2KtiQfbc3iIqOOoi) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SANTORINI](https://open.spotify.com/album/7LYspAMESaqeSiy9pHXtH7) | 2:20 |
-| 4 | [Jealousy](https://open.spotify.com/track/4X96ldR3otbbjtuTGgp1Fo) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Jealousy](https://open.spotify.com/album/5sWftiBrgMfkkNO0lnyl0j) | 2:24 |
-| 5 | [Ay Ay](https://open.spotify.com/track/1qlad6gBZhkhmKd7atFusg) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Ay Ay](https://open.spotify.com/album/6oZzJqin2VPwNydQyZiF4s) | 2:25 |
+| 1 | [Gumman](https://open.spotify.com/track/5KkwHivX5EOicl4CW7bIhC) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gumman](https://open.spotify.com/album/3wFkbw6btwXm22Twkmj8YD) | 2:39 |
+| 2 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
+| 3 | [Ay Ay](https://open.spotify.com/track/1qlad6gBZhkhmKd7atFusg) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Ay Ay](https://open.spotify.com/album/6oZzJqin2VPwNydQyZiF4s) | 2:25 |
+| 4 | [SANTORINI](https://open.spotify.com/track/60m76b2KtiQfbc3iIqOOoi) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SANTORINI](https://open.spotify.com/album/7LYspAMESaqeSiy9pHXtH7) | 2:20 |
+| 5 | [Jealousy](https://open.spotify.com/track/4X96ldR3otbbjtuTGgp1Fo) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Jealousy](https://open.spotify.com/album/5sWftiBrgMfkkNO0lnyl0j) | 2:24 |
 | 6 | [Déjà vu](https://open.spotify.com/track/5IfmDyNY5E6icqVPcWlR19) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Déjà vu](https://open.spotify.com/album/10nP5xolUoRzTBhKnSG2n4) | 2:52 |
 | 7 | [Wahala](https://open.spotify.com/track/5PrtZSMj0U4PeRrDm4mPys) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Wahala](https://open.spotify.com/album/1eNQleILFY7Y6DQWHhYJkq) | 2:11 |
 | 8 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 16 | [Faller](https://open.spotify.com/track/7qU6aPdvrWYRI1Y5zsP2RP) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Faller](https://open.spotify.com/album/0U0zXxtd9OOM4e2CMnP3Vu) | 2:03 |
 | 17 | [TOUR DE FRANCE](https://open.spotify.com/track/7nGVisEkaTD2muUkfVVbVJ) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [TOUR DE FRANCE](https://open.spotify.com/album/2vCqGqdsEoGKDrHWTIn6Cu) | 2:00 |
 | 18 | [Pinocchio](https://open.spotify.com/track/0NvdqkFGbvPiH1CcHxx1Q9) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [Pinocchio](https://open.spotify.com/album/0pqDgDEzkxCGqU8h0tBP5V) | 1:58 |
-| 19 | [NAYO](https://open.spotify.com/track/5qwm534JejTHrzfbwjq9Va) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [44Drumz](https://open.spotify.com/artist/6xm2KDrJUgHEBvASo7OuHY) | [NAYO](https://open.spotify.com/album/6Q5qKyTjw5pbTq8Tn0bvOt) | 2:26 |
+| 19 | [Shukorina](https://open.spotify.com/track/6d4KD8PwZ9xVWGjg6yaNM2) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [The World Is Yours](https://open.spotify.com/album/49PNgwc80ySfgoXZy0mpil) | 2:33 |
 | 20 | [Tranquilo](https://open.spotify.com/track/7dQkgXwSvmWb4GTEZClfwQ) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Tranquilo](https://open.spotify.com/album/6ZENxlF3En6RRs8gIqqzmD) | 2:07 |
 | 21 | [Blockstar](https://open.spotify.com/track/3vhyGWYdI5sQ9X2W9b5JGO) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Blockstar](https://open.spotify.com/album/5eNV7eE2UUh97gzwemO1pZ) | 2:20 |
 | 22 | [PIMPIN](https://open.spotify.com/track/3M2C3j5l4w85oVQWjbhpkp) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [PIMPIN](https://open.spotify.com/album/4m5WQV2hDW3cwxAwF52DkB) | 2:15 |
-| 23 | [Shukorina](https://open.spotify.com/track/6d4KD8PwZ9xVWGjg6yaNM2) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [The World Is Yours](https://open.spotify.com/album/49PNgwc80ySfgoXZy0mpil) | 2:33 |
+| 23 | [NAYO](https://open.spotify.com/track/5qwm534JejTHrzfbwjq9Va) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [44Drumz](https://open.spotify.com/artist/6xm2KDrJUgHEBvASo7OuHY) | [NAYO](https://open.spotify.com/album/6Q5qKyTjw5pbTq8Tn0bvOt) | 2:26 |
 | 24 | [Trending](https://open.spotify.com/track/4MqORzpXRRURPAKTlbc8Rb) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Trending](https://open.spotify.com/album/7y9tdy1bzfZR7R87pcZg8B) | 1:57 |
 | 25 | [Tingeling](https://open.spotify.com/track/2WftLIWYe35av99uPQKwqr) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Tingeling](https://open.spotify.com/album/1jPVEAzVxMetxRkwJwXr2I) | 2:20 |
 | 26 | [SIMPEL MAN](https://open.spotify.com/track/7Ill3U0CkZHmbsmLXzMKiO) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:34 |
@@ -118,11 +118,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 108 | [2 STICKS](https://open.spotify.com/track/19USkbUSQOfW0E2WHsEnGj) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [2 STICKS](https://open.spotify.com/album/5Y8ZGwmmi6QDVL9iknnir0) | 2:15 |
 | 109 | [ÄNGLAR & DEMONER](https://open.spotify.com/track/3ad340IgxWc1dnHnbZjEDx) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [ÄNGLAR & DEMONER](https://open.spotify.com/album/5XBX1DDu4Lbipvhn6mM0Xk) | 2:40 |
 | 110 | [Låter Dig Gå](https://open.spotify.com/track/6nS8ssWeodzcBic4L3ILtF) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Låter Dig Gå](https://open.spotify.com/album/1zbCtimxs5Ar5Aot3jh9Re) | 2:31 |
-| 111 | [Röntgen \(feat\. B.Baby\)](https://open.spotify.com/track/72NFdzj9EKOQXJg15Frqfk) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Röntgen \(feat\. B.Baby\)](https://open.spotify.com/album/5x00ErGXtucvRQrJNgBpwq) | 2:34 |
-| 112 | [JOGA BONITO](https://open.spotify.com/track/0DJwsDqrZumtJufEvcQiX9) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [JOGA BONITO](https://open.spotify.com/album/6fOU4twss3S4m9wW1C7mCl) | 1:45 |
-| 113 | [MAMA](https://open.spotify.com/track/7qCpmvYY5q7AiQtYoyQb9N) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [MAMA](https://open.spotify.com/album/5tTZeNTXoHd4LXRvr4BvM3) | 2:28 |
-| 114 | [Du Va Min](https://open.spotify.com/track/4yfMUDPf33Kyt2ZLzDSlTh) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Du Va Min](https://open.spotify.com/album/1LBSvlZt6VHkxIqRLUYon4) | 2:45 |
-| 115 | [VEM E DU?](https://open.spotify.com/track/7a0sAadzyZfGC9s3Il2PPw) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [VEM E DU?](https://open.spotify.com/album/4pMwbEtyuwQcQtx19m9VpK) | 1:59 |
-| 116 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 |
 
-Snapshot ID: `aGb9hgAAAABP+0JeJr69eSPh81lJWPyC`
+Snapshot ID: `aGt2qwAAAACyyDVpOY3IWIwU82SmKZQG`

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 34851,
+  "num_followers": 34858,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAACu3eoX4LH6EDp2RASJr8Rb",
+  "snapshot_id": "aGm8gAAAAACTx74H+KACsEmFsVfPQI12",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "STOP & GO",
-        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
+        "name": "Compare Myself",
+        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
       },
       "artists": [
-        {
-          "name": "MIME",
-          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171130,
-      "name": "STOP & GO",
-      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
+      "duration_ms": 211948,
+      "name": "Compare Myself",
+      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
     },
     {
       "added_at": null,
@@ -747,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compare Myself",
-        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
+        "name": "STOP & GO",
+        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
       },
       "artists": [
+        {
+          "name": "MIME",
+          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 211948,
-      "name": "Compare Myself",
-      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
+      "duration_ms": 171130,
+      "name": "STOP & GO",
+      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
     },
     {
       "added_at": null,

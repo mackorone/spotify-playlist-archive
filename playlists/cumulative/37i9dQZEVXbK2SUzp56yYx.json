@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 144043,
       "name": "Always",
       "url": "https://open.spotify.com/track/5mQck4v2xyAo1BIbBXE1kS"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 201640,
       "name": "Big And Chunky",
       "url": "https://open.spotify.com/track/5wA5mA9v9lPxAaSg1FagG6"
@@ -7576,7 +7576,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 311773,
       "name": "Hass Und Liebe",
       "url": "https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux"
@@ -9774,7 +9774,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 179395,
       "name": "Lemon Drop",
       "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 75302,
       "name": "MENTE M\u00c1",
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
@@ -17976,7 +17976,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
@@ -20327,6 +20327,24 @@
     },
     {
       "album": {
+        "name": "Young Black & Rich",
+        "url": "https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV"
+      },
+      "artists": [
+        {
+          "name": "Melly Mike",
+          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155040,
+      "name": "Young Black & Rich",
+      "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -21558,7 +21576,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 132873,
       "name": "\u0411\u041e\u041b\u042c\u0428\u0418\u0415 \u0414\u0418\u0421\u041a\u0418 (\u25ce-\u25ce\uff1b)",
       "url": "https://open.spotify.com/track/1FwN5NYldq3lmSAPflwJfI"
@@ -22856,7 +22874,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 88476,
       "name": "\u0433\u043d\u043e\u0439",
       "url": "https://open.spotify.com/track/133swGINGpGZ6fPe8RRQCd"
@@ -24584,7 +24602,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 92903,
       "name": "\u041a\u0410\u041f\u0418\u0411\u0410\u0420\u0410",
       "url": "https://open.spotify.com/track/7mH12bCOjADhOzGxfYp9te"
@@ -25997,6 +26015,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u041e\u0419 \u0411\u0410\u0422\u042f",
+        "url": "https://open.spotify.com/album/5v1oEFtCURBCkqmlu32qz4"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043e\u043b\u0430\u0440\u043e\u0439\u0434",
+          "url": "https://open.spotify.com/artist/6M2uHjapPD451LrC4rNjwb"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118365,
+      "name": "\u041c\u041e\u0419 \u0411\u0410\u0422\u042f",
+      "url": "https://open.spotify.com/track/2NZeI6euWtyWiHI5uG2uj8"
+    },
+    {
+      "album": {
         "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a",
         "url": "https://open.spotify.com/album/2pAWGNp6wTrNEmxxIfr594"
       },
@@ -26902,7 +26938,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 196935,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6hCZqjIrd68aT1Ce9lpF8e"

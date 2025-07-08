@@ -5049,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/1VMd1Kp9pH34iI6sfgynBG"
+      },
+      "artists": [
+        {
+          "name": "Double Virgo",
+          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261305,
+      "name": "alarm bells in central plaza",
+      "url": "https://open.spotify.com/track/7xXP4jcVrbtiWNyAgZ7P22"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy"
       },
@@ -29398,7 +29416,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 128985,
       "name": "Cole's Response",
       "url": "https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5"
@@ -95178,7 +95196,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 215630,
       "name": "migration patterns",
       "url": "https://open.spotify.com/track/3oEEFMm9zcTyjhvKWMGoxz"

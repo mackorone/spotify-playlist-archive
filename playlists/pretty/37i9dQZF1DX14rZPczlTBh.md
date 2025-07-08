@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,799 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,843 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 11 | [Sita Ramam Theme \(Telugu\)](https://open.spotify.com/track/1YxoeF51bofo4ODO9XQkTV) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:34 |
 | 12 | [Saaho \- Theme](https://open.spotify.com/track/4nspb1LG1ABlQ6eTAO4udo) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Saaho, Vol\. 2 \(Original Background Score\)](https://open.spotify.com/album/6xRw7gpSUzP3Elh22G13Bv) | 1:26 |
 | 13 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |
-| 14 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
-| 15 | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/640ga7jK6YDPomC5rzmmwx) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/3PPd4ij0aGjshDKmm3MIWd) | 3:10 |
+| 14 | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/640ga7jK6YDPomC5rzmmwx) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/3PPd4ij0aGjshDKmm3MIWd) | 3:10 |
+| 15 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
 | 16 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 |
 | 17 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 |
 | 18 | [Train Station Scene](https://open.spotify.com/track/5HhXKkr32mR7zWqSDlajGy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:52 |

@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-378 songs - 21 hr 35 min
+379 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [EL DÍA QUE PERDÍ MI JUVENTUD](https://open.spotify.com/track/5gFRjeeZ32L9KnWyFxPncv) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:48 | 2024-06-21 | 2024-07-13 |
 | [El Espejo](https://open.spotify.com/track/4fHpriV14mig4esLm2CQea) | [Naked Family](https://open.spotify.com/artist/2XuDkWSGwLfIMsAii8xBt3) | [La Vuelta](https://open.spotify.com/album/7HELda0VxRW8VEDN5QGJZC) | 5:14 | 2024-08-02 | 2024-10-13 |
 | [El Noi de la Mare](https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [El Noi de la Mare](https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG) | 4:03 | 2024-12-23 | 2025-01-27 |
-| [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 | 2025-06-26 |  |
+| [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 | 2025-06-26 | 2025-07-08 |
 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-06-02 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-10-01 | 2024-12-24 |
 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 | 2022-11-11 | 2024-04-19 |
@@ -275,6 +275,7 @@
 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 | 2022-11-11 | 2024-04-19 |
 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 | 2022-11-11 | 2023-03-28 |
 | [podría ser peor](https://open.spotify.com/track/0qoh3liuosnhbSW4kXeuCt) | [BETTO](https://open.spotify.com/artist/46DWAlMe8Lb5IvUkvyLNHO) | [podría ser peor](https://open.spotify.com/album/4RxERCRdu06M7oZGpXtjGc) | 3:14 | 2024-08-02 | 2024-08-14 |
+| [Polvo de hadas](https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Polvo de hadas](https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF) | 4:28 | 2025-07-04 |  |
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-22 | 2024-06-22 |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-09-24 | 2025-06-27 |
 | [Pudo haber sido](https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ) | [Lucas Marcos](https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO) | [Pudo haber sido](https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK) | 3:04 | 2024-10-24 | 2025-01-10 |

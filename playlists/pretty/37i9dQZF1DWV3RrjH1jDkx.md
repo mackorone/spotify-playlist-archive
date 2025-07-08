@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Roc Boyz, Ida\-Lova, Matoma og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,380 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,384 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 48 | [Hold fast](https://open.spotify.com/track/476m03lRnptvnnRXxumjLs) | [Charlotte Qvale](https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Hold fast](https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW) | 4:18 |
 | 49 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
 | 50 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
-| 51 | [Sunset](https://open.spotify.com/track/6lFQL7wcWMEKlmLY352af5) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Sunset](https://open.spotify.com/album/0QVbopKTwgjj6sqG7bLHls) | 2:24 |
+| 51 | [Sunset \(feat\. Ima Sobé\)](https://open.spotify.com/track/6lFQL7wcWMEKlmLY352af5) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Sunset \(feat\. Ima Sobé\)](https://open.spotify.com/album/0QVbopKTwgjj6sqG7bLHls) | 2:24 |
 | 52 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 |
 | 53 | [2019](https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [2019](https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM) | 3:15 |
 | 54 | [Someone Else](https://open.spotify.com/track/40chr05A8qJGEOrTSGi2qL) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Someone Else](https://open.spotify.com/album/1eRQmS5J3hTsgnHsqFYRER) | 3:19 |

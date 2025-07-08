@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> Det er fredag! Ny musik fra D1MA, Tyla, WizTheMc og mange flere 👀
+> Det er fredag! Ny musik fra D1MA, Ava Max, WizTheMc og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,335 likes - 77 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,346 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 76 | [Fake ID](https://open.spotify.com/track/0LwCO6CtZxBDmHYZucgbSI) | [MNTL](https://open.spotify.com/artist/1aR7odDtLBCCVue0bRFDhO), [E.V Palmer](https://open.spotify.com/artist/5Gaofd13RY8uhtBPktY9dv) | [Fake ID](https://open.spotify.com/album/5RckLG34L4tZqG1eASOkYQ) | 2:07 |
 | 77 | [I Like To Dream](https://open.spotify.com/track/7w4zrb3H4NUKWjjoqEWKMA) | [Solkim](https://open.spotify.com/artist/2gVSd8DxU404yhbncF0QnF) | [I Like To Dream](https://open.spotify.com/album/2qTXa2phboDMGw5M8nejNV) | 2:56 |
 
-Snapshot ID: `aGb9eQAAAAAWlmCwUbg/xOfStACUwIE2`
+Snapshot ID: `aGt0GAAAAAD/9VMQG7ZKrST4O932frad`

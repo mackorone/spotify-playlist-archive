@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-217 songs - 9 hr 19 min
+218 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Trail of Stars](https://open.spotify.com/track/2jTEuhduObukmP95BmqVzz) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/7dcPn4IdB0lC5Wd54kA8l5) | 2:33 | 2024-01-05 |  |
 | [TVA \- From "Loki"/Score](https://open.spotify.com/track/6YnoM7vjNoilLxWRslJ1d4) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [TVA \(From "Loki"\)](https://open.spotify.com/album/685u0IYysvl0qWJumxvCnj) | 2:28 | 2024-01-05 |  |
 | [United Nations / End Titles](https://open.spotify.com/track/1vIXp4rlWChyPTSA3ZgsXa) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 7:32 | 2024-01-05 |  |
+| [Villains \(Parker's Theme\)](https://open.spotify.com/track/28OBgyWJ61jAVnimykSE97) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Marvel's Ironheart: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/24inU2LD2pRjCVJ6J9hdJM) | 1:57 | 2025-07-07 |  |
 | [W\-V 2000 \- Instrumental](https://open.spotify.com/track/1Vm5FUNmEFwIEtrAak5RkS) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB), [The Math Club](https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN) | [WandaVision: Episode 7 \(Original Soundtrack\)](https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza) | 0:34 | 2024-01-05 |  |
 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 | 2024-01-05 |  |
 | [Wakanda \- DJ Dahi Remix](https://open.spotify.com/track/1u6PWhxFTHs0OuTfh5Mh79) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Black Panther: Wakanda Remixed](https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX) | 2:48 | 2024-01-05 |  |

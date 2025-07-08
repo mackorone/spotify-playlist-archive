@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-456 songs - 1 day 2 hr 27 min
+457 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 | 2023-09-01 | 2024-07-27 |
 | [Block & Delete \(Edit\)](https://open.spotify.com/track/4kTina9NiDbq9uFNQnRyOZ) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Block & Delete \(Edit\)](https://open.spotify.com/album/0l8t431pUG4ZHMqn7aFn6S) | 2:55 | 2024-01-26 | 2024-02-23 |
 | [Body](https://open.spotify.com/track/67k9vsfLokbNrOWXLIOxPh) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Body](https://open.spotify.com/album/1tsHo3JZ2AQrHdQczM812B) | 2:17 | 2025-05-08 | 2025-06-23 |
+| [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 | 2025-07-03 |  |
 | [Bodybag](https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Bodybag](https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB) | 3:35 | 2025-05-22 |  |
 | [Bombalaya \- Blooom Remix](https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Bombalaya \(Blooom Remix\)](https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE) | 4:08 | 2024-07-13 | 2025-05-09 |
 | [Boozy](https://open.spotify.com/track/1gmlkortUXcobzlQ6qX6Bz) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Boozy](https://open.spotify.com/album/1cT6efIFKOycty0LVw6ciU) | 3:24 | 2022-09-30 | 2023-01-28 |
@@ -418,7 +419,7 @@
 | [The Energiser](https://open.spotify.com/track/5pnQtywOCWO5yVG0ijAzt3) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [The Energiser](https://open.spotify.com/album/6iDMk2c4HkGc5hS93bCtSx) | 3:29 | 2024-11-22 |  |
 | [The Message](https://open.spotify.com/track/0dvS1sGglBYuyITICGnRkn) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [The Message](https://open.spotify.com/album/0Op5yfCn79QH6VBJU00qxX) | 3:00 | 2024-03-01 | 2024-06-28 |
 | [THE WAY I ROLL](https://open.spotify.com/track/4Hiddy4c4DbTR0HyBycuQQ) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [THE WAY I ROLL](https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC) | 3:08 | 2025-04-03 |  |
-| [This Is Goodbye](https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [This Is Goodbye](https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq) | 3:39 | 2025-01-31 |  |
+| [This Is Goodbye](https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [This Is Goodbye](https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq) | 3:39 | 2025-01-31 | 2025-07-08 |
 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 | 2022-09-30 | 2024-02-23 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-05-19 | 2024-07-27 |
 | [To The Limit](https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [To The Limit](https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1) | 2:41 | 2025-02-07 |  |

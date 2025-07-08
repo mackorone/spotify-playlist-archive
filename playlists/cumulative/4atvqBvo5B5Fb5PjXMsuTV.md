@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Jul 03:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Jul 03:04 UTC.
 
-5,071 songs - 11 day 18 hr 16 min
+5,074 songs - 11 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,6 +957,7 @@
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-22 | 2024-05-24 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-28 | 2025-06-05 |
 | [CPU](https://open.spotify.com/track/1OXORNmklNNEuJgyNHRfRZ) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [CPU](https://open.spotify.com/album/5OTsMu3WWQMNMzWJHZYPeu) | 3:11 | 2024-09-03 | 2024-09-06 |
+| [Cracc at 15](https://open.spotify.com/track/7lT55VQx6iDOyjeBUtOgn2) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Cracc at 15](https://open.spotify.com/album/29CItd12cIaW1aXHTKeYca) | 2:58 | 2025-07-08 |  |
 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:58 | 2024-09-25 | 2024-09-28 |
 | [Crack Flow](https://open.spotify.com/track/1C9uphD5kDgBy5JkWv8qg3) | [Acid Souljah](https://open.spotify.com/artist/2grkafhEWV2QfpX4ooErud), [tenkay](https://open.spotify.com/artist/1dgw19LcubBMAN192H9Bes) | [Crack Flow](https://open.spotify.com/album/1gqhYE5hJOvEYgbLpnrTm5) | 1:53 | 2024-12-05 | 2024-12-07 |
 | [CRACK THE CODE](https://open.spotify.com/track/0E7GAVPuZKcoL1gWtQ9Egt) | [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [CRACK THE CODE](https://open.spotify.com/album/4Iq0bO46YaB53PwDoSJ4aB) | 2:26 | 2024-08-28 | 2024-08-30 |
@@ -980,6 +981,7 @@
 | [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2024-10-29 | 2024-11-01 |
 | [crooked the road.](https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [crooked the road.](https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL) | 2:55 | 2024-08-23 | 2024-08-27 |
 | [Cross The Street](https://open.spotify.com/track/2q7ayA58xy4MfsSV1Au7Uw) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cross The Street](https://open.spotify.com/album/6Dca4zL73vfGNmlVJnMFdH) | 2:47 | 2024-09-04 | 2024-09-07 |
+| [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 | 2025-07-07 |  |
 | [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-02-20 | 2025-03-01 |
 | [CRUSH](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [CRUSH](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) | 3:29 | 2024-08-07 | 2024-08-10 |
 | [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 | 2024-06-08 | 2024-06-12 |
@@ -1280,7 +1282,7 @@
 | [Drive Way](https://open.spotify.com/track/1ac8tZhmlgqMBYHJCDEQKs) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Drive Way](https://open.spotify.com/album/28slbEZ7aOJctxhEi98WE0) | 2:18 | 2024-05-22 | 2024-05-25 |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-09-10 | 2024-09-13 |
 | [Drivin'](https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Drivin'](https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX) | 3:17 | 2024-07-15 | 2024-07-18 |
-| [Drone](https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Drone](https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID) | 4:59 | 2025-06-28 |  |
+| [Drone](https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Drone](https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID) | 4:59 | 2025-06-28 | 2025-07-08 |
 | [Drones \- Black Box Sessions](https://open.spotify.com/track/6xOuD0Xu5b7sPV6fsrbVnm) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Black Box Sessions](https://open.spotify.com/album/3gdb7McWJ3WQV4v6HGi6MP) | 2:53 | 2024-05-02 | 2024-05-04 |
 | [drop candy](https://open.spotify.com/track/4u0WOFGss8cJsvO43PcNN2) | [ラプラス・ダークネス](https://open.spotify.com/artist/6bqjeuZSue05I1koJvEl0d) | [drop candy](https://open.spotify.com/album/2n1W1gFIkzSqpp4cZGgkXb) | 2:22 | 2024-05-26 | 2024-05-29 |
 | [Drop into the Pit](https://open.spotify.com/track/5Q8EkzRgRX2GdLRSwcxsqG) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG) | [Drop into the Pit](https://open.spotify.com/album/4ufGSaD4rIfIj3uESxuUOW) | 3:14 | 2024-08-08 | 2024-08-10 |
@@ -1418,6 +1420,7 @@
 | [EXIT 9 \- with Blxst and Offset](https://open.spotify.com/track/542Yp18797lywr3zZTG2sC) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [EXIT 9 \(with Blxst and Offset\)](https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl) | 3:30 | 2024-04-26 | 2024-04-27 |
 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 | 2024-08-15 | 2024-08-17 |
 | [Expensive Taste](https://open.spotify.com/track/6lKtgN9JBHHJYQZ0BBeD6z) | [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Expensive Taste](https://open.spotify.com/album/2LGpo5SEolXlBGmK39SZwE) | 2:16 | 2025-07-03 |  |
+| [EXTRA](https://open.spotify.com/track/5ZuF7Gfj4f1IBta90LWrxI) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [EXTRA](https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1) | 2:30 | 2025-07-07 |  |
 | [Extra Raccs](https://open.spotify.com/track/5dcQz6UbOEIvAilWyDuNnx) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Extra Raccs](https://open.spotify.com/album/1qqLQhMHUFGJNRj5ZLBlat) | 3:00 | 2024-08-30 | 2024-09-05 |
 | [Eye Know](https://open.spotify.com/track/1EKOslsEZTqm7iAdzu06d5) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Eye Know](https://open.spotify.com/album/3wSZdqiKzgyYIVfgGAomaf) | 1:49 | 2024-07-19 | 2024-07-21 |
 | [Eye of Mars](https://open.spotify.com/track/7E7IYQLquvQjc8rqNM4xhe) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Eye of Mars](https://open.spotify.com/album/406L4BEWyB4zKZGBx2w3Go) | 5:07 | 2024-09-19 | 2024-09-21 |
@@ -2899,7 +2902,7 @@
 | [Moonlit Floor \(Kiss Me\) \- Santa Baby Remix](https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\) \(Santa Baby Remix\)](https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl) | 2:35 | 2024-11-29 | 2024-12-06 |
 | [MORAL DEATH SENTENCE](https://open.spotify.com/track/7B3KeKnFNOu95tjmaUjpJu) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [MORAL DEATH SENTENCE](https://open.spotify.com/album/2rLzTSEc5n5tpHdgZ5rb9r) | 1:14 | 2024-09-03 | 2024-09-06 |
 | [More Than Enough!](https://open.spotify.com/track/5jZVfj6yo04nalCTGfrPdV) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [More Than Enough!](https://open.spotify.com/album/0akoyjpqsi3cuokE8ygYwk) | 2:33 | 2024-09-11 | 2024-09-13 |
-| [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 | 2025-06-27 |  |
+| [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 | 2025-06-27 | 2025-07-08 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-09 | 2025-05-22 |
 | [Morning Light](https://open.spotify.com/track/34DvhOtOSlEmphKGMFjWnF) | [Pencil Legs](https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4) | [Morning Light](https://open.spotify.com/album/4YfuytD8MyY1VvNpezlbZT) | 3:31 | 2024-07-04 | 2024-07-06 |
 | [Morning Piece](https://open.spotify.com/track/5XFsgqe8OpRpXdE8zQDSbG) | [Devonté Hynes](https://open.spotify.com/artist/0M1ImWN3uInxUCZVIE9uxa), [Adam Tendler](https://open.spotify.com/artist/6vxBMBXy5hzAW7xO8kDTG5) | [Morning Piece](https://open.spotify.com/album/3FPWdcmWMOMbBC6KMhamYu) | 11:25 | 2024-10-09 | 2024-10-12 |
@@ -2944,7 +2947,7 @@
 | [Mum](https://open.spotify.com/track/1a5gMGqtnZ6IbtGqcDnQ4A) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Mum](https://open.spotify.com/album/45M6qIt9hro1rXMpnRhkQA) | 4:21 | 2024-06-26 | 2024-06-28 |
 | [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 | 2025-06-20 |
 | [Muse](https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Muse](https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF) | 2:24 | 2024-10-18 | 2024-10-23 |
-| [Music](https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Music](https://open.spotify.com/album/44EyhJ1FgMrPqWBfXESlZg) | 3:27 | 2025-06-27 |  |
+| [Music](https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Music](https://open.spotify.com/album/44EyhJ1FgMrPqWBfXESlZg) | 3:27 | 2025-06-27 | 2025-07-08 |
 | [Music and Me](https://open.spotify.com/track/2ffyyQ7Wq0LNcFZW1d52AG) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Music and Me](https://open.spotify.com/album/3nz3HnYxUnco2Urz7FgO0e) | 2:06 | 2025-04-01 | 2025-04-09 |
 | [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 | 2024-06-21 | 2024-06-26 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 | 2024-05-19 |

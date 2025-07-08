@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-952 songs - 1 day 23 hr 45 min
+953 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2022-07-30 |
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-29 | 2022-08-19 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-23 | 2022-08-02 |
-| [Bullerbyn är död](https://open.spotify.com/track/50tyzSlh6cGO2WIMilA6Y3) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bullerbyn är död](https://open.spotify.com/album/1O6p1ZEHM8cCQYv3cZfYdq) | 2:37 | 2025-02-06 |  |
+| [Bullerbyn är död](https://open.spotify.com/track/50tyzSlh6cGO2WIMilA6Y3) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bullerbyn är död](https://open.spotify.com/album/1O6p1ZEHM8cCQYv3cZfYdq) | 2:37 | 2025-02-06 | 2025-07-08 |
 | [Bullet](https://open.spotify.com/track/3DMq9xe5H8TTwi1FQfvcDF) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 3:23 | 2022-06-16 | 2022-08-26 |
 | [Burna Boy](https://open.spotify.com/track/0BSUPnydTkUctGwgpsl20B) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [YEMAYA](https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx) | 2:33 | 2024-11-15 | 2024-11-19 |
 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-10-02 | 2025-04-25 |
@@ -566,6 +566,7 @@
 | [Mitt hjärta slår](https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mitt hjärta slår](https://open.spotify.com/album/73G3wgTSioJbkJae7PGA9V) | 3:02 | 2023-04-13 | 2023-08-04 |
 | [Mitt i juni](https://open.spotify.com/track/19sBWLGTeiYSFYJeOmI2RN) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ) | [Mitt i juni](https://open.spotify.com/album/4rG6lspUIBAHRuKElGNzj3) | 2:55 | 2022-10-21 | 2022-11-11 |
 | [Moonlight](https://open.spotify.com/track/6x6x2FPY76CMmHSaRrimfO) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Moonlight](https://open.spotify.com/album/0Ew00sWkcmYmO7SUkaJrsL) | 2:36 | 2024-05-23 | 2024-09-13 |
+| [Mosquito](https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Mosquito](https://open.spotify.com/album/37pxUdSwqMJt2ZdeTmk0T0) | 2:24 | 2025-07-07 |  |
 | [Most People](https://open.spotify.com/track/1KCon9P4bPjLGFBGyTLt6f) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Most People](https://open.spotify.com/album/2XQR2HRnaF8F7NnTGVpWTt) | 2:21 | 2021-12-16 | 2022-01-08 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-12-16 | 2022-05-20 |
 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 | 2023-03-09 | 2023-04-14 |

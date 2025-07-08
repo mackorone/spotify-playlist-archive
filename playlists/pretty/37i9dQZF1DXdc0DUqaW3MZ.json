@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 369169,
+  "num_followers": 369243,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/4zFb62qreYJmVmlWoIp3jm"
-      },
-      "artists": [
-        {
-          "name": "Max Sin\u00e0l",
-          "url": "https://open.spotify.com/artist/73AmQVzqgasqThOhwesMOb"
-        },
-        {
-          "name": "KingCrowney",
-          "url": "https://open.spotify.com/artist/3IcwVSp1QaAwTkcmJMt1CE"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 235538,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/523CzjsdLOkOnS0DftgxVt"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "touch",
         "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 183053,
       "name": "ILLUSIONS Pt. II",
       "url": "https://open.spotify.com/track/6ro3scqAcujWPUd13k590j"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/4zFb62qreYJmVmlWoIp3jm"
+      },
+      "artists": [
+        {
+          "name": "Max Sin\u00e0l",
+          "url": "https://open.spotify.com/artist/73AmQVzqgasqThOhwesMOb"
+        },
+        {
+          "name": "KingCrowney",
+          "url": "https://open.spotify.com/artist/3IcwVSp1QaAwTkcmJMt1CE"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 235538,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/523CzjsdLOkOnS0DftgxVt"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1387,18 +1387,26 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Earcandy",
-        "url": "https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0"
+        "name": "Daydreaming (Sgt Slick Remix)",
+        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
       },
       "artists": [
         {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
         }
       ],
-      "duration_ms": 155546,
-      "name": "Done.",
-      "url": "https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj"
+      "duration_ms": 184497,
+      "name": "Daydreaming - Sgt Slick Remix",
+      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
     }
   ],
   "unique_name": "Soultronic",

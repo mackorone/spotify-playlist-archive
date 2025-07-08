@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 227485,
+  "num_followers": 227624,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L/3rUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L/86eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "En dr\u00f8m om et menneske",
         "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Smelter Under M\u00e5nen",
         "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "Et sted hvor vi de f\u00f8rste",
+        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 207639,
+      "name": "Et sted hvor vi de f\u00f8rste",
+      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/4fnTUUw8cxDHm1u58Z3JRM"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/1ZtTGHFQwhltWz9jNVPBxp"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "Et sted hvor vi de f\u00f8rste",
-        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 207639,
-      "name": "Et sted hvor vi de f\u00f8rste",
-      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Hele Vejen (feat. Mumle)",
         "url": "https://open.spotify.com/album/6J5rEQ4d7paiJZF2WpI4p3"
@@ -129,7 +129,23 @@
       "url": "https://open.spotify.com/track/2p4cYfKQbg8xHXNG4eQaGo"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "N1YA",
+        "url": "https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 217374,
+      "name": "NATTEN BLIVER MORGEN",
+      "url": "https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -161,7 +177,23 @@
       "url": "https://open.spotify.com/track/2MOH9hDRMYCpNzmHzCRjPh"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "10 ud af 10",
+        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 150705,
+      "name": "10 ud af 10",
+      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -181,39 +213,7 @@
       "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "10 ud af 10",
-        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
-      },
-      "artists": [
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
-        }
-      ],
-      "duration_ms": 150705,
-      "name": "10 ud af 10",
-      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "N1YA",
-        "url": "https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 217374,
-      "name": "NATTEN BLIVER MORGEN",
-      "url": "https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -229,35 +229,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "GENERATION GAZA",
-        "url": "https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD"
-      },
-      "artists": [
-        {
-          "name": "Generationgaza",
-          "url": "https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        },
-        {
-          "name": "Miklo",
-          "url": "https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8"
-        },
-        {
-          "name": "GULEED",
-          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
-        }
-      ],
-      "duration_ms": 201822,
-      "name": "GENERATION GAZA",
-      "url": "https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -277,27 +249,7 @@
       "url": "https://open.spotify.com/track/65KKHRycAHzSGkwsLX87gu"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "Guld & Gr\u00f8nne",
-        "url": "https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "Pogba (feat. Gilli)",
-      "url": "https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Hjertet P\u00e5 Gaden",
         "url": "https://open.spotify.com/album/1C6wKGnTdXN5yzDIxllZsR"
@@ -313,47 +265,7 @@
       "url": "https://open.spotify.com/track/62EPQ5REuZwGqWoRsPP5Bx"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "T\u00c6T P\u00c5 (feat. Delara)",
-        "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "T\u00c6T P\u00c5 (feat. Delara)",
-      "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "KENNY",
-        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
-      },
-      "artists": [
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 161241,
-      "name": "Reposado",
-      "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -381,7 +293,7 @@
       "url": "https://open.spotify.com/track/1hiYxHW3uKBmKm1ByvHeZd"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Til Solen Er Sort",
         "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
@@ -397,39 +309,55 @@
       "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "Luk Mig Ind",
-        "url": "https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA"
+        "name": "GENERATION GAZA",
+        "url": "https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD"
       },
       "artists": [
         {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "Generationgaza",
+          "url": "https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Miklo",
+          "url": "https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8"
+        },
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Luk Mig Ind",
-      "url": "https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu"
+      "duration_ms": 201822,
+      "name": "GENERATION GAZA",
+      "url": "https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "kendt mig en uge",
-        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+        "name": "Guld & Gr\u00f8nne",
+        "url": "https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
         }
       ],
-      "duration_ms": 186843,
-      "name": "kendt mig en uge",
-      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
+      "duration_ms": 167251,
+      "name": "Pogba (feat. Gilli)",
+      "url": "https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -449,27 +377,59 @@
       "url": "https://open.spotify.com/track/7b2TKqfooo8peK9WTE5JeG"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
-        "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
+        "name": "T\u00c6T P\u00c5 (feat. Delara)",
+        "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
       "artists": [
         {
-          "name": "Benjamin Hav",
-          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         },
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
         }
       ],
-      "duration_ms": 187078,
-      "name": "Du ligner din mor",
-      "url": "https://open.spotify.com/track/2v5RxyOtY5uSH2EAtz94SL"
+      "duration_ms": 137400,
+      "name": "T\u00c6T P\u00c5 (feat. Delara)",
+      "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "kendt mig en uge",
+        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "kendt mig en uge",
+      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "Luk Mig Ind",
+        "url": "https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Luk Mig Ind",
+      "url": "https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Det Modsatte",
         "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
@@ -485,7 +445,27 @@
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "KENNY",
+        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 161241,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Hvor Solen Ik' Skinner",
         "url": "https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m"
@@ -505,23 +485,27 @@
       "url": "https://open.spotify.com/track/6EfIo8vxfIBT2IZrzGHbpP"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "De Her Timer",
-        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
+        "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
+        "url": "https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        },
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 208934,
-      "name": "De Her Timer",
-      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
+      "duration_ms": 187078,
+      "name": "Du ligner din mor",
+      "url": "https://open.spotify.com/track/2v5RxyOtY5uSH2EAtz94SL"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "I DAG, I MORGEN, 4 EVIGT",
         "url": "https://open.spotify.com/album/3cJdloIAE28uh9R4uLgwiV"
@@ -541,7 +525,23 @@
       "url": "https://open.spotify.com/track/2Ikfha5EGyRU9TML7oi8zz"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "De Her Timer",
+        "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "De Her Timer",
+      "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -561,23 +561,23 @@
       "url": "https://open.spotify.com/track/1RJCPTYYFNfu4lUoVawG3y"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "S\u00e5 l\u00e6nge jeg er sexy.",
-        "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
+        "name": "Kan Du M\u00e6rke Suset?",
+        "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
       },
       "artists": [
         {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 150190,
-      "name": "S\u00e5 l\u00e6nge jeg er sexy.",
-      "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
+      "duration_ms": 240917,
+      "name": "Klip Klap Sandaler",
+      "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Knuser Hjerter",
         "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
@@ -593,27 +593,7 @@
       "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "De Her Timer",
-        "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Hva Du P\u00e5 (feat. Gilli)",
-      "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Kun Os",
         "url": "https://open.spotify.com/album/63DY4bmIG6gBTwK4zELvBj"
@@ -629,7 +609,7 @@
       "url": "https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
@@ -645,7 +625,23 @@
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+        "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 150190,
+      "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+      "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -669,23 +665,7 @@
       "url": "https://open.spotify.com/track/2SIn4GfX7nAEQZ9abmHWbr"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "Kan Du M\u00e6rke Suset?",
-        "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 240917,
-      "name": "Klip Klap Sandaler",
-      "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
@@ -701,39 +681,27 @@
       "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "Dine Venner",
-        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
+        "name": "De Her Timer",
+        "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
       },
       "artists": [
         {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Elsker Dig S\u00e5 Meget",
-      "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "\u00c5boulevarden",
-        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
-      },
-      "artists": [
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
         {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
         }
       ],
-      "duration_ms": 162585,
-      "name": "\u00c5boulevarden",
-      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
+      "duration_ms": 158666,
+      "name": "Hva Du P\u00e5 (feat. Gilli)",
+      "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Rene Hjerter Vinder Altid",
         "url": "https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM"
@@ -749,39 +717,39 @@
       "url": "https://open.spotify.com/track/1A90dHXPAXFRrUJWdID0jJ"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+        "name": "\u00c5boulevarden",
+        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
         }
       ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+      "duration_ms": 162585,
+      "name": "\u00c5boulevarden",
+      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "AW",
-        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
+        "name": "Dine Venner",
+        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
       },
       "artists": [
         {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
         }
       ],
-      "duration_ms": 184283,
-      "name": "Der s\u00e5 meget jeg ikke fort\u00e6ller",
-      "url": "https://open.spotify.com/track/0RMqPnXgdZoP6dmvFUZfEP"
+      "duration_ms": 202453,
+      "name": "Elsker Dig S\u00e5 Meget",
+      "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "\u00c6TEREN",
         "url": "https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4"
@@ -797,7 +765,23 @@
       "url": "https://open.spotify.com/track/0W3xaNPnpTHr6qDcGrPM1i"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Go Masala (feat. Klamfyr, USSEL & NIKLAS)",
         "url": "https://open.spotify.com/album/2MakWMmtxOss5xGFoahraL"
@@ -825,7 +809,23 @@
       "url": "https://open.spotify.com/track/6ugWrKsKjxSiKmbkTVQD8c"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 184283,
+      "name": "Der s\u00e5 meget jeg ikke fort\u00e6ller",
+      "url": "https://open.spotify.com/track/0RMqPnXgdZoP6dmvFUZfEP"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Jeg vil bare gerne v\u00e6re et godt menneske, men det er ikke let.",
         "url": "https://open.spotify.com/album/4oaV9slOWKL10WdBb8C7Oc"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/7sUvmhKZF9VVZLKXqTIp0x"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
@@ -865,23 +865,23 @@
       "url": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "v\u00e5gner",
-        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
+        "name": "EV1GT&ALT1D",
+        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
         }
       ],
-      "duration_ms": 150938,
-      "name": "drikker med mig selv",
-      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
+      "duration_ms": 197043,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Rene Hjerter Vinder Altid",
         "url": "https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM"
@@ -897,23 +897,39 @@
       "url": "https://open.spotify.com/track/4lz8ERSWJrnjb8T2lscsBb"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
       "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+        "name": "v\u00e5gner",
+        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
         }
       ],
-      "duration_ms": 266040,
-      "name": "Under Din Sne",
-      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
+      "duration_ms": 150938,
+      "name": "drikker med mig selv",
+      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
     },
     {
-      "added_at": "2025-07-06 13:15:22",
+      "added_at": "2025-07-07 13:07:20",
+      "album": {
+        "name": "N1YA",
+        "url": "https://open.spotify.com/album/27ZMLT8E1wGSckvEHqBoZO"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "LOSSES",
+      "url": "https://open.spotify.com/track/60BnXs3mupC56IxVJYysEK"
+    },
+    {
+      "added_at": "2025-07-07 13:07:20",
       "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/21Xr4muAVzOvBUnjZxhUMZ"
@@ -931,22 +947,6 @@
       "duration_ms": 177142,
       "name": "Aura",
       "url": "https://open.spotify.com/track/6vDsO1Ug0fvFXtRETzBR5s"
-    },
-    {
-      "added_at": "2025-07-06 13:15:22",
-      "album": {
-        "name": "Nye Tider",
-        "url": "https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 163638,
-      "name": "Tilbage",
-      "url": "https://open.spotify.com/track/0oCtlIqcU9Y4RzZCfjb4J5"
     }
   ],
   "unique_name": "Top 50 - Denmark",

@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-497 songs - 21 hr 6 min
+499 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [After All](https://open.spotify.com/track/1NNxb9HgLDdGvrq4aIfaH0) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [After All](https://open.spotify.com/album/0LjEawGHQt8fln9x6FkG4b) | 2:20 | 2022-10-14 |  |
 | [After The Rain](https://open.spotify.com/track/1lRBerZ343b4uokzIzyMYY) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [After the Rain](https://open.spotify.com/album/4JH0SDLuwtuy6JFuwvAniJ) | 2:26 | 2023-04-04 |  |
 | [Aftontimma](https://open.spotify.com/track/1svRACx5V80ifZCa1xC6DJ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Aftontimma](https://open.spotify.com/album/0GUcfgnAq4LSrBPAUG92qC) | 2:40 | 2022-04-04 | 2022-12-24 |
-| [Aged](https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Aged](https://open.spotify.com/album/1lqvHDfvRd5oZIYRELq5d5) | 2:27 | 2025-06-10 |  |
+| [Aged](https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Aged](https://open.spotify.com/album/1lqvHDfvRd5oZIYRELq5d5) | 2:27 | 2025-06-10 | 2025-07-08 |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-04 | 2024-02-03 |
 | [All I Know](https://open.spotify.com/track/0uyLuw53EGon6rU894LnDV) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Times Gone By](https://open.spotify.com/album/58MF4lru4Nm7MQq7ctCym8) | 1:51 | 2022-11-18 | 2023-07-19 |
 | [Altar](https://open.spotify.com/track/4GBWvw48RFr6WQDSvFJ5yh) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Altar](https://open.spotify.com/album/7gmheB2m41ayIEe5yPWFPj) | 2:17 | 2023-02-21 |  |
@@ -53,7 +53,7 @@
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-07 |  |
 | [Before](https://open.spotify.com/track/2QEAwvG61BZ0w3ivNFrhq3) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Before](https://open.spotify.com/album/4dIMtBWCADKOaD1F4uD3Eg) | 2:32 | 2025-03-07 | 2025-05-14 |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-04-04 | 2024-07-30 |
-| [Before Sunset](https://open.spotify.com/track/26licdts7EZ9dLaKd8NNh4) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Before Sunset](https://open.spotify.com/album/27HI1XKXwpZWZSRIDXKTHe) | 2:11 | 2025-06-04 |  |
+| [Before Sunset](https://open.spotify.com/track/26licdts7EZ9dLaKd8NNh4) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Before Sunset](https://open.spotify.com/album/27HI1XKXwpZWZSRIDXKTHe) | 2:11 | 2025-06-04 | 2025-07-08 |
 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-03-04 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-04 |  |
 | [Behind an Ethereal Veil](https://open.spotify.com/track/0TdAAwbQJyQKBdiDQBY5xa) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [Behind An Ethereal Veil](https://open.spotify.com/album/5dMXMcck2Dn1fRchPDD9M0) | 2:24 | 2024-02-14 |  |
@@ -92,7 +92,7 @@
 | [Coming Closer](https://open.spotify.com/track/14mdXvg5LTzl4gp0ALbGOe) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:53 | 2022-11-18 | 2023-07-19 |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-10 | 2024-03-05 |
 | [Como Nights](https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc) | [Marcello Fiorenza](https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G) | [Como Nights](https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F) | 2:30 | 2024-05-07 |  |
-| [Con Brio](https://open.spotify.com/track/7nhMqSjHvWR1FZE4bGIIbI) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Con Brio](https://open.spotify.com/album/0qkTYxC8DcexB49k41ysWn) | 2:45 | 2025-02-28 |  |
+| [Con Brio](https://open.spotify.com/track/7nhMqSjHvWR1FZE4bGIIbI) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Con Brio](https://open.spotify.com/album/0qkTYxC8DcexB49k41ysWn) | 2:45 | 2025-02-28 | 2025-07-08 |
 | [Conscious](https://open.spotify.com/track/0NpvwAPp3lxlBxy72gXAuK) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Conscious](https://open.spotify.com/album/3wp7uBll4dmd2U8Qd7LuLD) | 2:56 | 2023-06-20 |  |
 | [Consilium](https://open.spotify.com/track/5Yd5eQlc2x0ve3JCFSgoAQ) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Consilium](https://open.spotify.com/album/7pS00vJKlwX2kFPlTx51kJ) | 2:16 | 2023-06-20 | 2024-03-20 |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2022-04-04 | 2024-04-10 |
@@ -158,6 +158,7 @@
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-04-04 | 2024-03-20 |
 | [Frühlingsmorgen](https://open.spotify.com/track/4DS4TRvAEwnpi5A1Qm2oCb) | [Marcel Kaestner](https://open.spotify.com/artist/1pf4PEw1mtKsExJGa3gBdG) | [Frühlingsmorgen](https://open.spotify.com/album/6TQ6200VasnalwEkCgN9oq) | 2:19 | 2022-05-20 | 2025-04-10 |
 | [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 | 2025-03-21 |  |
+| [Fur](https://open.spotify.com/track/4u6VHTugQwlimolV5MDoru) | [Arvid Holst](https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl) | [Fur](https://open.spotify.com/album/5uO7gNTMSt9PbUeKnhukmn) | 2:00 | 2025-07-07 |  |
 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-04-04 | 2024-04-04 |
 | [Garden Of Dreams](https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Garden Of Dreams](https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B) | 2:49 | 2023-07-03 |  |
 | [Garden of mine](https://open.spotify.com/track/0x0brgn1K22WQoqiexeLX9) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Garden of mine](https://open.spotify.com/album/0KddFugeznttIbjcdM2wZZ) | 2:41 | 2022-04-04 | 2024-04-04 |
@@ -231,7 +232,7 @@
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-04-04 | 2024-04-10 |
 | [Liebevoll](https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Liebevoll](https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8) | 2:24 | 2023-10-23 |  |
 | [Liegende](https://open.spotify.com/track/6HEdLZYxdEUeAJTYdsqjND) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Liegende](https://open.spotify.com/album/25qCxo5QzY8UjJxq2SJHwY) | 2:02 | 2023-03-07 | 2024-08-13 |
-| [Lighthouse](https://open.spotify.com/track/5VAxwsxCF8W1B0i4SB3YR5) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [Lighthouse](https://open.spotify.com/album/4Ene5PO26lDN4xJXvgiKnf) | 2:25 | 2025-01-15 |  |
+| [Lighthouse](https://open.spotify.com/track/5VAxwsxCF8W1B0i4SB3YR5) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [Lighthouse](https://open.spotify.com/album/4Ene5PO26lDN4xJXvgiKnf) | 2:25 | 2025-01-15 | 2025-07-08 |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-04-04 | 2022-05-21 |
 | [Little Boy](https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Little Boy](https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT) | 2:02 | 2024-03-19 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-02 |  |
@@ -321,6 +322,7 @@
 | [Primrose](https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Primrose](https://open.spotify.com/album/7GEFN88vNtaOkNvgM1h207) | 2:23 | 2024-09-24 |  |
 | [Profound poetry](https://open.spotify.com/track/6e1PioC0uJFwSq48cveCoQ) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Profound poetry](https://open.spotify.com/album/1FCxAp8C0V1R7ccSJxhAVO) | 2:01 | 2023-08-01 |  |
 | [Pure Joy](https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Pure Joy](https://open.spotify.com/album/2PCZzOR3EMGI7m6yXLceZN) | 2:49 | 2022-07-07 |  |
+| [Pure Love](https://open.spotify.com/track/6TPWm0d1lTbyMdOmIQh6Qy) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Pure Love](https://open.spotify.com/album/3cCppxZTGLi7r6ChTcVUUU) | 2:45 | 2025-07-07 |  |
 | [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 | 2022-12-22 | 2023-07-19 |
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-04-04 |  |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2022-04-04 | 2024-02-03 |

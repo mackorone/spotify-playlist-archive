@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "London Pilla",
+        "url": "https://open.spotify.com/album/0zqkzhdB3ZRqZDLvSavTpy"
+      },
+      "artists": [
+        {
+          "name": "Afroz Ali",
+          "url": "https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231012,
+      "name": "London Pilla",
+      "url": "https://open.spotify.com/track/3yVXVL58qnSYpbBh4Ai5bk"
+    },
+    {
+      "album": {
         "name": "Love Bomb",
         "url": "https://open.spotify.com/album/3UbURQIeb5W509prgJYV8Q"
       },

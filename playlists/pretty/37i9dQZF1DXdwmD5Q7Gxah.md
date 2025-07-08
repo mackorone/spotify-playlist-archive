@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/which\-\_\_\_\_\_\_\-summer\-are\-you\-having">Check out our June newsletter!</a> Cover: Shelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,918 likes - 165 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,307 likes - 165 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

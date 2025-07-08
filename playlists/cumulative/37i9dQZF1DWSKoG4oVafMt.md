@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,092 songs - 2 day 10 hr 47 min
+1,093 songs - 2 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Last Love](https://open.spotify.com/track/5VfiTJFLB1wNrVy7bXhiso) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Last Love](https://open.spotify.com/album/5RdGabhTm8Q4X2FNRaLKCg) | 0:59 | 2023-02-16 | 2023-05-06 |
 | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1) | [Simran Bhardwaj](https://open.spotify.com/artist/6A64CMEoGKDcGx0EdjjNol) | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE) | 2:40 | 2022-08-12 | 2023-08-01 |
 | [Laung Laachi Title Track](https://open.spotify.com/track/4x2aq8zGk5bNMGApkjC4VT) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Laung Laachi](https://open.spotify.com/album/0Vtwe7OKZbZCY35ZyN4nVw) | 2:40 | 2025-03-05 |  |
-| [Legit](https://open.spotify.com/track/4dknxBy90uoFMTjwmRi6Lz) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Legit](https://open.spotify.com/album/0zWK65ZEwbURLEoUvHG8uS) | 3:32 | 2025-06-26 |  |
+| [Legit](https://open.spotify.com/track/4dknxBy90uoFMTjwmRi6Lz) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Legit](https://open.spotify.com/album/0zWK65ZEwbURLEoUvHG8uS) | 3:32 | 2025-06-26 | 2025-07-08 |
 | [LEMME KNOW](https://open.spotify.com/track/6Rkq8ZUFSOVy69fOmNpIuY) | [Yuvraj](https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw), [Juhi Rai](https://open.spotify.com/artist/2ZHEt5pbr89WP6P2Jar9al) | [LEMME KNOW](https://open.spotify.com/album/5tlZVcgrL8J0zqCDsslyr8) | 2:44 | 2025-01-21 | 2025-02-07 |
 | [Lemme See](https://open.spotify.com/track/1HuS5LXJT6IitmeQrNPXlc) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [XOXO](https://open.spotify.com/album/4aOb3SgSUeMdF9TZndCZAM) | 3:20 | 2022-11-24 | 2022-11-26 |
 | [Lemme See](https://open.spotify.com/track/4dOUwxwiA3Bp2SQTjBPV1K) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [Xoxo](https://open.spotify.com/album/3fnfvNoPqcVvxYW98vFgJo) | 3:20 | 2022-11-25 | 2022-12-16 |
@@ -563,6 +563,7 @@
 | [Love Song](https://open.spotify.com/track/7k5eHoBu50hK6s4WVFQk66) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Love Song](https://open.spotify.com/album/6LLECbzIC2P2maPYpyVyG0) | 3:07 | 2024-04-05 | 2024-04-19 |
 | [Love Struck](https://open.spotify.com/track/26zjRTwnEBH6rrMi6oyzWY) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love Struck](https://open.spotify.com/album/6MsTVbEpX61E0AN8fWBTjC) | 2:41 | 2025-05-21 | 2025-06-12 |
 | [Love War](https://open.spotify.com/track/2D6mhQD1MUVf7vDQGySwtg) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:54 | 2022-03-16 | 2022-04-29 |
+| [Lover Boy](https://open.spotify.com/track/3ZIzUE6MAQGuAPvPc7ZCOf) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Lover Boy](https://open.spotify.com/album/0rWSXr04dWeGS734TamIOF) | 3:09 | 2025-07-07 |  |
 | [Lucky](https://open.spotify.com/track/2JW5AjQUZg69oqM8bt6SJA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Ryan Sandhu](https://open.spotify.com/artist/4DZwIJffAv7FZMKYxnoP1H), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Lucky](https://open.spotify.com/album/3Z7v66nO09B9NMl3qaAhgN) | 2:56 | 2024-10-25 |  |
 | [Lutt Lai Giya](https://open.spotify.com/track/5Ie8W0D6tjjOard1MGdtjk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Lutt Lai Giya](https://open.spotify.com/album/3n8u8bL9vBVro2Yd0SovJc) | 2:45 | 2022-07-29 | 2023-02-02 |
 | [Lv](https://open.spotify.com/track/4XvN6Ft0qGBbtRpsQ7ifdY) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:56 | 2022-02-01 | 2022-02-12 |

@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "The Coral",
-        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
-      },
-      "artists": [
-        {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Dreaming of You",
-      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Fulkultur",
         "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 211360,
       "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "The Coral",
+        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Broder Daniel",
-        "url": "https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk"
-      },
-      "artists": [
-        {
-          "name": "Broder Daniel",
-          "url": "https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "S\u00e4kert!",
         "url": "https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179586,
       "name": "Vi kommer att d\u00f6 samtidigt",
       "url": "https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Broder Daniel",
+        "url": "https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk"
+      },
+      "artists": [
+        {
+          "name": "Broder Daniel",
+          "url": "https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Vapnet",
-        "url": "https://open.spotify.com/album/2ODz1zg6tqTedTWhuL8kOJ"
+        "name": "Facit",
+        "url": "https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo"
       },
       "artists": [
         {
-          "name": "Vapnet",
-          "url": "https://open.spotify.com/artist/6Kn2gxWalcQLBXJzuUXN0a"
+          "name": "S\u00e4kert!",
+          "url": "https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx"
         }
       ],
-      "duration_ms": 279200,
-      "name": "Kalla mig",
-      "url": "https://open.spotify.com/track/2nGgvKTQd3NwhWrsVVVC5n"
+      "duration_ms": 167973,
+      "name": "Dansa, fast\u00e4n",
+      "url": "https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn"
     }
   ],
   "unique_name": "Spela Shoreline!",

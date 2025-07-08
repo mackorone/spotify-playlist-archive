@@ -4109,6 +4109,24 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/3PJgFEqbNBVECfcTvgtD5B"
+      },
+      "artists": [
+        {
+          "name": "Nebula Somni",
+          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/6WSBhGwkN8DHJeE0RD2XUt"
+    },
+    {
+      "album": {
         "name": "Eternal mirage",
         "url": "https://open.spotify.com/album/4krCr357O9G5m7we7yB98O"
       },
@@ -4894,7 +4912,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 211200,
       "name": "Fragile Voices",
       "url": "https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO"
@@ -5009,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "Galaxy Dream",
+        "url": "https://open.spotify.com/album/3201S4iC4hthfy6I18VQcI"
+      },
+      "artists": [
+        {
+          "name": "Manuel Wall",
+          "url": "https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Galaxy Dream",
+      "url": "https://open.spotify.com/track/4rt2bY3DXBxrYVIWnXdQ1I"
+    },
+    {
+      "album": {
         "name": "Ganymede",
         "url": "https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89"
       },
@@ -5114,6 +5150,24 @@
       "duration_ms": 144000,
       "name": "Gentle Eclipse",
       "url": "https://open.spotify.com/track/49W8j7bgx9fOSBZEdnYFHP"
+    },
+    {
+      "album": {
+        "name": "Gentle Stillness",
+        "url": "https://open.spotify.com/album/3xQHvUvxrvCAzLzJieWclN"
+      },
+      "artists": [
+        {
+          "name": "Chasing Storms",
+          "url": "https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux"
+        }
+      ],
+      "date_added": "2025-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156124,
+      "name": "Gentle Stillness",
+      "url": "https://open.spotify.com/track/4FOSbfL1sThoUEkHKCPuud"
     },
     {
       "album": {
@@ -6712,7 +6766,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 141700,
       "name": "Manitoba",
       "url": "https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh"
@@ -11638,7 +11692,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 212824,
       "name": "Timeless Glow",
       "url": "https://open.spotify.com/track/1PtbVTP8BooABy9eQ0wymQ"

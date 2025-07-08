@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Haile",
-  "num_followers": 1128278,
+  "num_followers": 1128179,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-05-29 23:00:15",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/7p1wIiqqKWwDE5bCqYiBY7"
-      },
-      "artists": [
-        {
-          "name": "Khalia",
-          "url": "https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/7CaUMmshDkXdIc4JR8w1nT"
-    },
-    {
-      "added_at": "2025-05-29 23:00:15",
-      "album": {
         "name": "Set up Shop, Vol. 4",
         "url": "https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 176000,
       "name": "40 Days & 40 Nights (Pt. 2)",
       "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
+    },
+    {
+      "added_at": "2025-05-29 23:00:15",
+      "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/7p1wIiqqKWwDE5bCqYiBY7"
+      },
+      "artists": [
+        {
+          "name": "Khalia",
+          "url": "https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/7CaUMmshDkXdIc4JR8w1nT"
     },
     {
       "added_at": "2025-05-29 23:00:15",
@@ -1199,30 +1199,6 @@
     {
       "added_at": "2025-05-29 23:00:15",
       "album": {
-        "name": "If Not Today",
-        "url": "https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP"
-      },
-      "artists": [
-        {
-          "name": "JR Kenna",
-          "url": "https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN"
-        },
-        {
-          "name": "Governor Tiggy",
-          "url": "https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u"
-        },
-        {
-          "name": "DJ Jeren",
-          "url": "https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ"
-        }
-      ],
-      "duration_ms": 256638,
-      "name": "If Not Today",
-      "url": "https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923"
-    },
-    {
-      "added_at": "2025-05-29 23:00:15",
-      "album": {
         "name": "Born A Rebel",
         "url": "https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 253297,
       "name": "Try",
       "url": "https://open.spotify.com/track/1VnH7JLH0WqmoB4hY6xj6p"
+    },
+    {
+      "added_at": "2025-05-29 23:00:15",
+      "album": {
+        "name": "If Not Today",
+        "url": "https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP"
+      },
+      "artists": [
+        {
+          "name": "JR Kenna",
+          "url": "https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN"
+        },
+        {
+          "name": "Governor Tiggy",
+          "url": "https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u"
+        },
+        {
+          "name": "DJ Jeren",
+          "url": "https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ"
+        }
+      ],
+      "duration_ms": 256638,
+      "name": "If Not Today",
+      "url": "https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923"
     },
     {
       "added_at": "2025-05-29 23:00:15",

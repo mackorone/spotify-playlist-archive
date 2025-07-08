@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Varun Jain, Abhijeet Srivastava, Kushagra  and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,098 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,122 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 8 | [Dilnasheen](https://open.spotify.com/track/5PEpNGJNBbnaPGusdbMSKB) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY) | [Dilnasheen](https://open.spotify.com/album/7vGhsJdLLyevYqYVgs14RS) | 3:46 |
 | 9 | [Pehli Baarish](https://open.spotify.com/track/3tsZhGyF3SxUP93Y73LeoR) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Pehli Baarish](https://open.spotify.com/album/1Ronq7mySjX9ewnckbJ5AE) | 3:28 |
 | 10 | [Jhim Jhim](https://open.spotify.com/track/4UOieQcEQaHTDp2BBWxXq3) | [Ekdev Limbu](https://open.spotify.com/artist/1jJGnkMQFNsCoDimuhJgIf), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Jhim Jhim](https://open.spotify.com/album/0tJcVhHlsBW5kRhacGeJ51) | 3:54 |
-| 11 | [Chale Jao](https://open.spotify.com/track/4O631eiqqkSGEDtk7R6GuQ) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY) | [Chale Jao](https://open.spotify.com/album/0z2CA9Q2mgcDT4iyBuLSeX) | 4:33 |
+| 11 | [Chale Jao](https://open.spotify.com/track/4O631eiqqkSGEDtk7R6GuQ) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Chale Jao](https://open.spotify.com/album/0z2CA9Q2mgcDT4iyBuLSeX) | 4:33 |
 | 12 | [Baari Baari](https://open.spotify.com/track/3JzOgUOqUKgkWwlb7rpg1J) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Baari Baari](https://open.spotify.com/album/1O4Niv4qNjk0c5nAvklHQb) | 2:31 |
 | 13 | [Saiyyan Na Maane](https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Saiyyan Na Maane](https://open.spotify.com/album/1vL10WzZmWzUi2Ez5QfpEn) | 2:47 |
 | 14 | [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 |

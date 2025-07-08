@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 149406,
       "name": "akl\u0131na ben gelicem",
       "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
@@ -3342,7 +3342,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 147123,
       "name": "BELLYDANCE",
       "url": "https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN"
@@ -8326,7 +8326,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 174762,
       "name": "E\u011eME BOYUN",
       "url": "https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS"
@@ -12057,6 +12057,28 @@
     },
     {
       "album": {
+        "name": "\u0130lahi(Cover)",
+        "url": "https://open.spotify.com/album/4kGRXX8ZFJs29E2PGkMnvm"
+      },
+      "artists": [
+        {
+          "name": "BGR",
+          "url": "https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi"
+        },
+        {
+          "name": "Nazryn",
+          "url": "https://open.spotify.com/artist/2L3obBOk34JgeWlmmT3Nwg"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "\u0130lahi(Cover)",
+      "url": "https://open.spotify.com/track/1paLcP0eKiKjp3OuQo8MJQ"
+    },
+    {
+      "album": {
         "name": "\u0130la\u00e7 Ol Yaralar\u0131ma",
         "url": "https://open.spotify.com/album/6gAZdkl3yuYOLg6t6GDvNW"
       },
@@ -12206,7 +12228,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 250312,
       "name": "\u0130ltimas",
       "url": "https://open.spotify.com/track/4ytg8WEmLmHa0QebKOthGv"
@@ -12942,7 +12964,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 177733,
       "name": "Kafa",
       "url": "https://open.spotify.com/track/5tM5kDTxYKCFJzlfyXiTpF"
@@ -14070,7 +14092,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 256060,
       "name": "Korkma Kalbim",
       "url": "https://open.spotify.com/track/5hdoDcWAZ4Ov6cntAR5MKN"
@@ -16534,6 +16556,24 @@
       "duration_ms": 270000,
       "name": "Nas\u0131r",
       "url": "https://open.spotify.com/track/7bmM7cfI8KVgDfksAKWolL"
+    },
+    {
+      "album": {
+        "name": "Rakipsiz",
+        "url": "https://open.spotify.com/album/0AXvgW1Yww84mdhDAne3wc"
+      },
+      "artists": [
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196833,
+      "name": "Nazar",
+      "url": "https://open.spotify.com/track/2hc7C6Iy69sVb8JjZQRBij"
     },
     {
       "album": {
@@ -19654,7 +19694,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 106875,
       "name": "SA\u011eDAN SOLA",
       "url": "https://open.spotify.com/track/6LZxx8NT2Tj7UZO8eiW9ql"
@@ -23964,7 +24004,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 184615,
       "name": "Zehir",
       "url": "https://open.spotify.com/track/1bV9ZIvvlsv68FFX5pBNk7"

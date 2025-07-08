@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 6575,
+  "num_followers": 6590,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Light Poles And Pine Trees",
-        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
-      },
-      "artists": [
-        {
-          "name": "Field Mob",
-          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Art And Life",
         "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 257893,
       "name": "Girls Dem Sugar",
       "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "Light Poles And Pine Trees",
+        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
+      },
+      "artists": [
+        {
+          "name": "Field Mob",
+          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
     },
     {
       "added_at": "2023-06-19 01:52:12",

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545361,
+  "num_followers": 545369,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "In Her Garden",
-        "url": "https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G"
-      },
-      "artists": [
-        {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
-        }
-      ],
-      "duration_ms": 408373,
-      "name": "Black Lilly",
-      "url": "https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "In Her Garden",
+        "url": "https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G"
+      },
+      "artists": [
+        {
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+        }
+      ],
+      "duration_ms": 408373,
+      "name": "Black Lilly",
+      "url": "https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Diablerie",
         "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 320988,
       "name": "Diablerie",
       "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
-      },
-      "artists": [
-        {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
-        }
-      ],
-      "duration_ms": 233599,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1079,6 +1063,22 @@
       "duration_ms": 229866,
       "name": "Cosmic Ride Of The Crystal Skull",
       "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "duration_ms": 233599,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Saved by Magic",
-        "url": "https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD"
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
       },
       "artists": [
         {
-          "name": "Brant Bjork",
-          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
         }
       ],
-      "duration_ms": 334720,
-      "name": "Kiss Away",
-      "url": "https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ"
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+        "name": "Saved by Magic",
+        "url": "https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD"
       },
       "artists": [
         {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+          "name": "Brant Bjork",
+          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
         }
       ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
+      "duration_ms": 334720,
+      "name": "Kiss Away",
+      "url": "https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1527,6 +1527,22 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1579,34 +1595,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z"
+        "name": "Blast Tyrant (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
       },
       "artists": [
         {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Deconstruction",
-      "url": "https://open.spotify.com/track/5sLrsgPP8bGWfz1g332qnE"
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
     }
   ],
   "unique_name": "Stoner Rock",

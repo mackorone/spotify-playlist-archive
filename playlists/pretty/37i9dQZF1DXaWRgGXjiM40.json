@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 955638,
+  "num_followers": 955657,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-06-13 07:53:49",
       "album": {
+        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
+    },
+    {
+      "added_at": "2025-06-13 07:53:49",
+      "album": {
         "name": "Dois Carentes",
         "url": "https://open.spotify.com/album/2HbdCYON9BgNbsiLsWQHm8"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 156836,
       "name": "Dois Carentes",
       "url": "https://open.spotify.com/track/5sHN3t3NnoC2wbLigX3YWI"
-    },
-    {
-      "added_at": "2025-06-13 07:53:49",
-      "album": {
-        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
-      },
-      "artists": [
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
-      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

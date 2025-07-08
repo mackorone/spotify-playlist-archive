@@ -7061,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "Cow Song",
+        "url": "https://open.spotify.com/album/42CkWCbOfwaVsTk5TrWsTv"
+      },
+      "artists": [
+        {
+          "name": "The New Eves",
+          "url": "https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Rivers Run Red",
+      "url": "https://open.spotify.com/track/1Wcny0prfuTcuJVj5etom7"
+    },
+    {
+      "album": {
         "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
       },

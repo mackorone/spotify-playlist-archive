@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-580 songs - 1 day 8 hr 29 min
+581 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Call Your Girlfriend](https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:47 | 2022-03-25 |  |
 | [Can We Work It Out \- RAC Mix](https://open.spotify.com/track/4mF7d3fldbIDI1gTiqAjsv) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Can We Work It Out \(Reworks\)](https://open.spotify.com/album/1nq78hMXF6HzLDUt4kin4W) | 4:09 | 2019-05-26\* | 2021-05-28 |
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-06-23 |  |
+| [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 | 2025-07-07 |  |
 | [Cheating on You](https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Cheating on You](https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L) | 3:16 | 2021-06-11 | 2021-10-02 |
 | [Cigarettes In The Dark](https://open.spotify.com/track/2YQlk3PPrJKXKpJYCXUD0E) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Cigarettes In The Dark](https://open.spotify.com/album/3T1Enym3lGotejtAoh1a0A) | 1:59 | 2025-01-24 | 2025-06-21 |
 | [Close](https://open.spotify.com/track/3lSDIJ2abCrOdDJ6pshUap) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:54 | 2019-05-26\* | 2021-07-29 |
@@ -436,7 +437,7 @@
 | [Say You Love Me \- Shura Remix](https://open.spotify.com/track/2s2lBXFmlUgB7Shmi2ZgGr) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Say You Love Me \(Remixes\)](https://open.spotify.com/album/2iHpwDCnvcoItzxYa8RCGc) | 4:12 | 2019-07-27 | 2019-08-10 |
 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 | 2021-10-23 | 2022-07-26 |
 | [Secret](https://open.spotify.com/track/77Gfhrr1Uh9Pv57MUUmVuY) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 3:12 | 2021-12-08 | 2021-12-11 |
-| [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-30 |  |
+| [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-30 | 2025-07-08 |
 | [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 | 2024-08-23 |  |
 | [She Gets the Flowers](https://open.spotify.com/track/19AiJfAtRiccvSU1EWcttT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She Gets the Flowers](https://open.spotify.com/album/6TbdDx8Y1shssfaSAtEt1o) | 3:39 | 2021-04-06 | 2021-10-02 |
 | [Shimmering Light](https://open.spotify.com/track/5yQWWCxnqpcUbo8ZWs6zBG) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Shimmering Light](https://open.spotify.com/album/3ConlAUtJ0XsJs44WxqkxY) | 2:35 | 2024-03-29 | 2024-04-16 |

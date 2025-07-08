@@ -1,13 +1,189 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: <a href=\"spotify:artist:4KH3T3jZJtfFtNyfBqwUuu\">Madeline Merlo</a>",
-  "num_followers": 83845,
+  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: <a href=\"spotify:artist:2cK7VkFt8I3C9hUfexNCIX\"> Natania </a>",
+  "num_followers": 83862,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEBAugAAAADvInoBOgmULJ0kj7RAv8EX",
+  "snapshot_id": "aGvdCgAAAACRgDkJsA+SHaRNnQdSXz2n",
   "tracks": [
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "I Will Not Take It Anymore (From the \"Lilly\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6TMhPGe4uA58356uPeC8vn"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Daniels",
+          "url": "https://open.spotify.com/artist/7tkuLHX8bn8WkTZtJ5AqiM"
+        }
+      ],
+      "duration_ms": 254992,
+      "name": "I Will Not Take It Anymore - From the \"Lilly\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/4bJxYmdPUTUDH4qw2hICLz"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 196456,
+      "name": "Pillow In My Arms",
+      "url": "https://open.spotify.com/track/0ZS8Ls8x5DZlePoOUbsOML"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "The Mirror Talk EP",
+        "url": "https://open.spotify.com/album/5iVjJgRq6O9s0VguOtHFox"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182988,
+      "name": "Sound of Your Voice",
+      "url": "https://open.spotify.com/track/79EPrcuYKoky4lG3BvmzCy"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "Never See Me",
+        "url": "https://open.spotify.com/album/7FrcjipfmCwaHOJ3BaqKg6"
+      },
+      "artists": [
+        {
+          "name": "Kat Kennedy",
+          "url": "https://open.spotify.com/artist/08xYUuniSTJtOwpC1lATSX"
+        }
+      ],
+      "duration_ms": 161677,
+      "name": "Never See Me",
+      "url": "https://open.spotify.com/track/4FArCktkbF6cxzeAJd7grb"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 263480,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 304560,
+      "name": "Crazier Things",
+      "url": "https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "dream of us",
+        "url": "https://open.spotify.com/album/6t6ErqxYEVxfvDKWdGjVJU"
+      },
+      "artists": [
+        {
+          "name": "Ramya Pothuri",
+          "url": "https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "dream of us",
+      "url": "https://open.spotify.com/track/0l7VNbhj3a6scNGsJROtV1"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "complex (demo)",
+        "url": "https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 256107,
+      "name": "complex (demo)",
+      "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
+    },
     {
       "added_at": "2025-06-04 12:48:58",
       "album": {
@@ -87,6 +263,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2025-07-07 14:43:22",
+      "album": {
+        "name": "Uppercut",
+        "url": "https://open.spotify.com/album/4XIXmvA8AvYKiSTL5QIEDW"
+      },
+      "artists": [
+        {
+          "name": "Idarose",
+          "url": "https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Uppercut",
+      "url": "https://open.spotify.com/track/2ALRbzce7d1oMTh8eHNosy"
     },
     {
       "added_at": "2025-06-04 12:48:58",
@@ -651,198 +843,6 @@
       "duration_ms": 228310,
       "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
       "url": "https://open.spotify.com/track/72AeIPJXQxYgtOIcmSnvQo"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 178562,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/422CiQ73fOUAlKFpn2dayo"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "To Myself",
-        "url": "https://open.spotify.com/album/3Lj3XBolVUh6hnHoyRgFIN"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/4gd6cpTJEyW8M5YoSil18B"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "Summertime Chi.",
-        "url": "https://open.spotify.com/album/4aEZeQvX1Thj1SVLJJsVUq"
-      },
-      "artists": [
-        {
-          "name": "Micki Miller",
-          "url": "https://open.spotify.com/artist/4xIV1dlxRzKzdtbLTvgCau"
-        }
-      ],
-      "duration_ms": 298678,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/5SDxJ0auysoWZnNTIyOCi1"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "PHASE",
-        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
-      },
-      "artists": [
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "TALK TO ME - TOO LATE",
-      "url": "https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
-        "name": "VWETO II",
-        "url": "https://open.spotify.com/album/2ICg00ncvA7RTDn5aWmRcR"
-      },
-      "artists": [
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 236296,
-      "name": "Wu Punk",
-      "url": "https://open.spotify.com/track/3kM2A5cfd7D8sXrpEoAB5Y"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "19 MASTERS",
-        "url": "https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 206374,
-      "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
-      "url": "https://open.spotify.com/track/7HZBcgvSFZ7A6nYxM5ygvF"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 125927,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/7c592vVY2He0tFX1QnaWc3"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
-        "name": "empathogen",
-        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 90533,
-      "name": "ancient girl",
-      "url": "https://open.spotify.com/track/5VIymAkkUiYm2F1Xey3iME"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 53442,
-      "name": "MY ROSE",
-      "url": "https://open.spotify.com/track/486YUqcmF9IWPkreU0THcQ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Doncha Know (Sky Is Blue)",
-      "url": "https://open.spotify.com/track/5YAWeJWnS3cbpb7sR3m1tN"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "FINDING JOY IN GREY SKIES: PART TWO",
-        "url": "https://open.spotify.com/album/7hltHXLUrAImGEqdNw5OGL"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "duration_ms": 169321,
-      "name": "LOS ANGELES IN SUMMA",
-      "url": "https://open.spotify.com/track/5KZzcz5SFhDaXJR1WtRNfr"
-    },
-    {
-      "added_at": "2024-11-12 17:48:45",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     }
   ],
   "unique_name": "Created by Women",

@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 121626,
+  "num_followers": 121665,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2025-07-01 10:03:56",
       "album": {
+        "name": "Brahms: Waltzes / Cadenzas / Die Sch\u00f6ne Magelone",
+        "url": "https://open.spotify.com/album/4iQVazSNR6sXJg51b9Vpm7"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 52200,
+      "name": "16 Waltzes, Op. 39 (Version for Solo Piano): No. 3 in G-Sharp Minor",
+      "url": "https://open.spotify.com/track/1uglW1nOWySXp1z4F13aMJ"
+    },
+    {
+      "added_at": "2025-07-01 10:03:56",
+      "album": {
         "name": "Brahms: Lerchengesang",
         "url": "https://open.spotify.com/album/7hMuUUoRQf63z6oOaX5HLf"
       },
@@ -483,38 +503,6 @@
       "duration_ms": 190906,
       "name": "21 Hungarian Dances, WoO 1: No. 6 in D-Flat Major - Arr. for Piano by Gy\u00f6rgy Cziffra",
       "url": "https://open.spotify.com/track/2x9qXWCbP3fDiCry6LwtDi"
-    },
-    {
-      "added_at": "2025-07-01 10:03:56",
-      "album": {
-        "name": "Brahms: Piano Quartet No. 3 in C Minor, Op. 60: II. Scherzo. Allegro",
-        "url": "https://open.spotify.com/album/4gMjUFSQo1tOdp407UL93m"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Krystian Zimerman",
-          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
-        },
-        {
-          "name": "Maria Nowak",
-          "url": "https://open.spotify.com/artist/2vGdv9lnsvIys3kugUnNSN"
-        },
-        {
-          "name": "Katarzyna Budnik",
-          "url": "https://open.spotify.com/artist/2fu8UOTIjthoLNJHDUKrFC"
-        },
-        {
-          "name": "Yuya Okamoto",
-          "url": "https://open.spotify.com/artist/4gr3MH7eNV7tQ3nQXvHzxP"
-        }
-      ],
-      "duration_ms": 220786,
-      "name": "Piano Quartet No. 3 in C Minor, Op. 60: II. Scherzo. Allegro",
-      "url": "https://open.spotify.com/track/0q0qHlzWUuUmmr88DPlbuW"
     },
     {
       "added_at": "2025-07-01 10:03:56",
@@ -575,6 +563,38 @@
       "duration_ms": 809333,
       "name": "Rhapsody for Alto, Chorus, and Orchestra, Op. 53",
       "url": "https://open.spotify.com/track/4tjIbkMKbXPtXiBPlhqGft"
+    },
+    {
+      "added_at": "2025-07-01 10:03:56",
+      "album": {
+        "name": "Brahms: Piano Quartet No. 3 in C Minor, Op. 60: II. Scherzo. Allegro",
+        "url": "https://open.spotify.com/album/4gMjUFSQo1tOdp407UL93m"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Krystian Zimerman",
+          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+        },
+        {
+          "name": "Maria Nowak",
+          "url": "https://open.spotify.com/artist/2vGdv9lnsvIys3kugUnNSN"
+        },
+        {
+          "name": "Katarzyna Budnik",
+          "url": "https://open.spotify.com/artist/2fu8UOTIjthoLNJHDUKrFC"
+        },
+        {
+          "name": "Yuya Okamoto",
+          "url": "https://open.spotify.com/artist/4gr3MH7eNV7tQ3nQXvHzxP"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Piano Quartet No. 3 in C Minor, Op. 60: II. Scherzo. Allegro",
+      "url": "https://open.spotify.com/track/0q0qHlzWUuUmmr88DPlbuW"
     },
     {
       "added_at": "2025-07-01 10:03:56",
@@ -1423,34 +1443,6 @@
       "duration_ms": 534666,
       "name": "Violin Concerto in D Major, Op. 77: II. Adagio",
       "url": "https://open.spotify.com/track/68kVIdztYpDlOmhjhgY14u"
-    },
-    {
-      "added_at": "2025-07-01 10:03:56",
-      "album": {
-        "name": "Brahms: Motets",
-        "url": "https://open.spotify.com/album/2K7vvR28Q92HsMArAQ3rHw"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Matthew Morley",
-          "url": "https://open.spotify.com/artist/7Gx0lRtgJ94IA5y0oMfGPm"
-        },
-        {
-          "name": "St. Bride's Church Choir, Fleet Street",
-          "url": "https://open.spotify.com/artist/3UWDC3o8WGKn8mE1tbacMC"
-        },
-        {
-          "name": "Robert Jones",
-          "url": "https://open.spotify.com/artist/7eMMRGqgtvBvvlnLgD7U5L"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Geistliches Lied, Op. 30",
-      "url": "https://open.spotify.com/track/3a9rwEwEzo19D22HxWL0UI"
     }
   ],
   "unique_name": "This Is Brahms",

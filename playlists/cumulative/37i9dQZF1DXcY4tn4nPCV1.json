@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 147000,
       "name": "Aged",
       "url": "https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 131756,
       "name": "Before Sunset",
       "url": "https://open.spotify.com/track/26licdts7EZ9dLaKd8NNh4"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 165626,
       "name": "Con Brio",
       "url": "https://open.spotify.com/track/7nhMqSjHvWR1FZE4bGIIbI"
@@ -2706,6 +2706,24 @@
       "duration_ms": 132697,
       "name": "Full Of Hope",
       "url": "https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC"
+    },
+    {
+      "album": {
+        "name": "Fur",
+        "url": "https://open.spotify.com/album/5uO7gNTMSt9PbUeKnhukmn"
+      },
+      "artists": [
+        {
+          "name": "Arvid Holst",
+          "url": "https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120217,
+      "name": "Fur",
+      "url": "https://open.spotify.com/track/4u6VHTugQwlimolV5MDoru"
     },
     {
       "album": {
@@ -4038,7 +4056,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 145275,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/5VAxwsxCF8W1B0i4SB3YR5"
@@ -5648,6 +5666,24 @@
       "duration_ms": 169500,
       "name": "Pure Joy",
       "url": "https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa"
+    },
+    {
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3cCppxZTGLi7r6ChTcVUUU"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165669,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/6TPWm0d1lTbyMdOmIQh6Qy"
     },
     {
       "album": {

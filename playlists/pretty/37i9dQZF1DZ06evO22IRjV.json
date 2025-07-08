@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30413,
+  "num_followers": 30419,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAAA8D0F2qN58cz7PbFpQ/AmT",
+  "snapshot_id": "aGm8gAAAAAD1inqTCZ7vP7ZgfZBe3X9c",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30e2\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 250440,
       "name": "\u70c8\u706b",
       "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u97f3\u8272 / Break it down",
+        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "\u97f3\u8272",
+      "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 91906,
       "name": "Howling -TV Size-",
       "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u97f3\u8272 / Break it down",
-        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "\u97f3\u8272",
-      "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
     },
     {
       "added_at": null,

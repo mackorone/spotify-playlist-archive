@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2070,
+  "num_followers": 2071,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAACB3o3Gc9u4hhvY8inaiVpU",
+  "snapshot_id": "aGm8gAAAAABUIibK8SRdAEwCiThI6H4l",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
+        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
+      },
+      "artists": [
+        {
+          "name": "Jared Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 163370,
+      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
+      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobra y Falta",
         "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 190161,
       "name": "Sobra y Falta",
       "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
-        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
-      },
-      "artists": [
-        {
-          "name": "Jared Fl\u00f3rez",
-          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 163370,
-      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
-      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
     },
     {
       "added_at": null,

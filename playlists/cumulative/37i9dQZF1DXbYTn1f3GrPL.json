@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Ashfall",
+        "url": "https://open.spotify.com/album/5xQ0f2SQpsoHHLGDGypcWB"
+      },
+      "artists": [
+        {
+          "name": "Eigil Leuc",
+          "url": "https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169805,
+      "name": "Ashfall",
+      "url": "https://open.spotify.com/track/6ftwSPoxBAoAk41eQeen4w"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },

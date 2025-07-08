@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Sudan Archives
 
-579 songs - 1 day 9 hr 27 min
+580 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-14 | 2025-05-23 |
 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 | 2024-08-08 | 2024-11-01 |
 | [Higher](https://open.spotify.com/track/6cNWUbbPkDIx37YeUZae3X) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Higher](https://open.spotify.com/album/0vtaoXqcGsvJ1pulQ3UDoO) | 4:06 | 2025-07-03 |  |
+| [Higher](https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Higher](https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD) | 2:29 | 2025-07-07 |  |
 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-29 |  |
 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 | 2024-08-23 | 2024-10-04 |
 | [Home](https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Home](https://open.spotify.com/album/2Ol1BUBqVyX0e20HgocWp8) | 3:22 | 2025-02-14 | 2025-05-23 |

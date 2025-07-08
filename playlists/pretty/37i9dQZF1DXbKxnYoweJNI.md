@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 呂允 \(Lu Yun\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,936 likes - 134 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,942 likes - 134 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 9 | [穿西裝的敗類](https://open.spotify.com/track/42mOeGdB9Mr3wlMwc5jEDE) | [齒科護衛隊](https://open.spotify.com/artist/7244wV6j1dppiUIgXBKNmd) | [穿西裝的敗類](https://open.spotify.com/album/5ywULtSwFOpJ96k5GRFvyY) | 2:57 |
 | 10 | [感動](https://open.spotify.com/track/4ppRH2Mw6tzOs3cRMe3S0O) | [魚條](https://open.spotify.com/artist/5NpkBOIMi2iJocLhi5MTde) | [感動](https://open.spotify.com/album/3Az5a2Xq5LdtyUw0kVhzi7) | 3:02 |
 | 11 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 2:57 |
-| 12 | [雨夜落花](https://open.spotify.com/track/4S2XlrDzPIWUqcu8Y9zjPx) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8) | [雨夜落花](https://open.spotify.com/album/5shLxNRt4bOtuVE9OGBJjQ) | 4:19 |
+| 12 | [雨夜落花 \- OT:雨夜花](https://open.spotify.com/track/4S2XlrDzPIWUqcu8Y9zjPx) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8) | [雨夜落花 \(OT:雨夜花\)](https://open.spotify.com/album/5shLxNRt4bOtuVE9OGBJjQ) | 4:19 |
 | 13 | [大地主](https://open.spotify.com/track/4zciua8e8eWf8ZeqxIG7XD) | [MonkEy](https://open.spotify.com/artist/3V6Wwhue0yPJqlr91w5xWN), [c8ight](https://open.spotify.com/artist/7z0u0u76z4ddysGR3YD2rt) | [GO BIG or GO HOME](https://open.spotify.com/album/0A3JQyYMKdxKQ3qCpcPMFM) | 2:51 |
 | 14 | [Trainslate](https://open.spotify.com/track/3dkhRzJpCFkF53fyASugK7) | [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y) | [火車晚了 Trainslate](https://open.spotify.com/album/1AOWY2kfNhPxmErGd0iMWA) | 2:03 |
 | 15 | [If I Lost You](https://open.spotify.com/track/4KTVrqsBXL7aTF2lrv6Yci) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [If I Lost You](https://open.spotify.com/album/1RSJtZ6UxG0ikJANZq7q6K) | 3:09 |

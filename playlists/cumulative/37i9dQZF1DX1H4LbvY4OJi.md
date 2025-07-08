@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-997 songs - 2 day 8 hr 12 min
+998 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 | 2021-02-28 | 2022-04-21 |
 | [Heaven](https://open.spotify.com/track/6GJk65Bxh1lTntJQEOBHIQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Heaven](https://open.spotify.com/album/1qzuto3MuUGnW8hvnQn7qL) | 3:27 | 2020-06-29 | 2022-04-14 |
 | [Heaven \(Must Be There\) \- 2007 Remastered](https://open.spotify.com/track/3xYJgyDaDaTEetvC0IAee5) | [Eurogliders](https://open.spotify.com/artist/48kXmrNGCBMAz7N8x1J2na) | [The Essential](https://open.spotify.com/album/0KAv7K0ZTcXPAbwoUneSbK) | 3:40 | 2019-08-01 | 2022-04-21 |
-| [Heaven Is A Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2021-02-28 |  |
+| [Heaven Is A Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2021-02-28 | 2025-07-08 |
 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm) | 3:12 | 2020-07-03 | 2022-06-07 |
 | [Hella Good](https://open.spotify.com/track/2Yd464ldxdOVmjiRFC1sbh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \[UK Version \(Ltd.\)\]](https://open.spotify.com/album/5WlbY14UMg8LXybSB1q57G) | 4:02 | 2019-08-05 | 2019-08-06 |
 | [Her Touch](https://open.spotify.com/track/3Swu7AElUpW4sNVVxkdqYb) | [SŸDE](https://open.spotify.com/artist/2AgbDbAVnc4y7oB2QxISmJ) | [Her Touch](https://open.spotify.com/album/1gmUAmPZf5XTlZeozWuR86) | 3:05 | 2021-02-27 | 2022-04-21 |
@@ -622,6 +622,7 @@
 | [No Other High](https://open.spotify.com/track/1wWzywDn8s4yOi7Nwo7DEd) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Visions](https://open.spotify.com/album/2mB7TffgfeJx5ROgKqImq7) | 4:37 | 2019-10-25 | 2019-10-26 |
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-10-20 | 2022-07-26 |
 | [no tears left to cry](https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [no tears left to cry](https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ) | 3:25 | 2019-08-09 | 2019-08-10 |
+| [No Time To Talk](https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [No Time To Talk](https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk) | 2:35 | 2025-06-26 |  |
 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 | 2019-08-10 | 2022-04-13 |
 | [Nobody Like You \(with Vera Blue\)](https://open.spotify.com/track/6ZGO8DVU5ZrpEAzNjTO0Kc) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Nobody Like You \(with Vera Blue\)](https://open.spotify.com/album/5yeQTgXN5oPf4QkHLINNct) | 2:56 | 2020-06-12 | 2022-04-13 |
 | [Not About You](https://open.spotify.com/track/3z9vFcaMAFQy17E8o2A9wR) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Not About You](https://open.spotify.com/album/42PTADHUjVaCyLb7ig8MXc) | 3:10 | 2019-08-06 | 2019-10-29 |

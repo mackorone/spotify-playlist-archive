@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Zia \(지아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,511 songs - 4 day 1 hr 58 min
+1,512 songs - 4 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 | 2021-12-20 | 2022-07-08 |
 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 | 2023-09-14 | 2025-05-19 |
 | [Because I love you](https://open.spotify.com/track/6woYtxbk3DWDbNz5sLLafG) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Because I love you \(Payback X PL\)](https://open.spotify.com/album/6NjmoJUKJqt3Y0Hj5Qqotp) | 3:51 | 2023-01-20 | 2023-02-25 |
+| [Because It's Raining](https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Because It's Raining](https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO) | 4:25 | 2025-07-07 |  |
 | [Because of love](https://open.spotify.com/track/7u8cKCV0mrXirJcHhhFFz6) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because of love](https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X) | 3:40 | 2024-05-17 | 2024-09-14 |
 | [Because There Is Love](https://open.spotify.com/track/70oz4lCNYc3v3p1prvisYO) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Because There Is Love](https://open.spotify.com/album/1YFEA7tMipoZp6C2kFWBwq) | 4:35 | 2024-03-12 | 2024-08-01 |
 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 | 2022-09-26 | 2023-01-21 |
@@ -955,7 +956,7 @@
 | [ordinary farewell](https://open.spotify.com/track/5nm7Wbp1gXSqEFu1v54zdA) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [ordinary farewell](https://open.spotify.com/album/20BErIiY911MKyHgfx1Mne) | 3:50 | 2022-07-07 | 2022-09-06 |
 | [Our Days](https://open.spotify.com/track/70AnBuAJhAFDAlHA4ILXjW) | [Kim Yong Jun](https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7) | [Our Days](https://open.spotify.com/album/1sPFkBCyZ9eqnXaDWgdC5h) | 3:53 | 2022-07-07 | 2022-08-02 |
 | [Our Memories](https://open.spotify.com/track/28o99oVARf9l6KxQch2iji) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [FlexxCop OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/2J4x0PXLsk30EiHQGtIuBW) | 3:06 | 2024-03-15 | 2024-08-01 |
-| [Our Memories \(with JONGHO\)](https://open.spotify.com/track/0vIYoCVXGfuZX0xTo4w0jG) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [Our Memories \(with JONGHO\)](https://open.spotify.com/album/7JOkn4AF2p8e5V0tD6tjmU) | 4:09 | 2025-04-08 |  |
+| [Our Memories \(with JONGHO\)](https://open.spotify.com/track/0vIYoCVXGfuZX0xTo4w0jG) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [Our Memories \(with JONGHO\)](https://open.spotify.com/album/7JOkn4AF2p8e5V0tD6tjmU) | 4:09 | 2025-04-08 | 2025-07-08 |
 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 | 2023-08-07 | 2023-11-03 |
 | [Our Past Time](https://open.spotify.com/track/1mWv0FjmPif2MaTn9DOqTx) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 26](https://open.spotify.com/album/1vzEYEf662HwKw3aVEcfiw) | 3:46 | 2023-10-20 | 2023-12-14 |
 | [Our Season](https://open.spotify.com/track/3yA7377j20H03qiukcBkjU) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [Our Season](https://open.spotify.com/album/5BwR3SR5PxOBdMG0kWUdjR) | 3:36 | 2022-12-16 | 2023-02-25 |

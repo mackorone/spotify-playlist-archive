@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Valence
 
-603 songs - 1 day 10 hr 26 min
+604 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-04-22 | 2022-08-27 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 | 2023-06-15 |
 | [Feu intérieur](https://open.spotify.com/track/7wvj31idTR8xISawcFTobQ) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/2dYTTaU4SALFxt6MFOgdZ9) | 3:33 | 2023-06-11 | 2023-07-08 |
+| [Fever Dream](https://open.spotify.com/track/0HOg1ZVNtEUUZAmJQ1wCjQ) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:39 | 2025-07-07 |  |
 | [figure me out](https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [figure me out](https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO) | 3:18 | 2022-09-02 | 2023-03-25 |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-03-25 | 2023-09-09 |
 | [Fiou](https://open.spotify.com/track/27IRQ055RStNgQshuVR7yx) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Fiou \- Chronique d'une vie de merde](https://open.spotify.com/album/37hElmGl09vwW226nnA97R) | 2:49 | 2025-03-21 |  |
@@ -369,7 +370,7 @@
 | [Moonlight](https://open.spotify.com/track/5dxEhB44z5XTb0joVixdiT) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Speed of Life](https://open.spotify.com/album/3S53ToWucIjjYRfJoIEKaO) | 3:14 | 2022-03-25 | 2022-05-14 |
 | [Moonroad](https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Moonroad](https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ) | 3:26 | 2023-03-31 | 2024-05-04 |
 | [Mort de peur](https://open.spotify.com/track/5BrSdlZO7iZygt6og7ZRoS) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Mort de peur](https://open.spotify.com/album/3p3yaxFzVEgprptHO9qwu7) | 3:21 | 2023-04-07 | 2023-10-14 |
-| [Mort de rire](https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Mort de rire](https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7) | 4:06 | 2024-01-19 |  |
+| [Mort de rire](https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Mort de rire](https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7) | 4:06 | 2024-01-19 | 2025-07-08 |
 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 | 2024-01-23 | 2024-03-09 |
 | [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 | 2022-07-15 | 2023-04-22 |
 | [Mélodie](https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Mélodie / Rodeo](https://open.spotify.com/album/5y4jwPzUYpj75kbgcBt00j) | 2:30 | 2022-03-25 | 2022-05-28 |

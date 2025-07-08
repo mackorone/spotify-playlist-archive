@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-671 songs - 1 day 15 hr 25 min
+672 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,6 +657,7 @@
 | [Vilagaadhey](https://open.spotify.com/track/5V6qDweSwZsUjZJ1OEeIwD) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Vilagaadhey](https://open.spotify.com/album/5dlSNXdJMoIxe9TogHAzR2) | 1:43 | 2022-09-21 | 2023-02-07 |
 | [Vithai](https://open.spotify.com/track/7gVRbTMwyNzwNlOduoCkew) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Navin B](https://open.spotify.com/artist/6TDQaaAsnv51t1kss39h5I) | [Vithai](https://open.spotify.com/album/1JmydMwPlNTgBmY2NW4fjg) | 4:07 | 2025-03-07 |  |
 | [Vizha](https://open.spotify.com/track/3nhlWORU1Zn9j9rNzFO9e2) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Vizha](https://open.spotify.com/album/4WnsKl21JeKrzpsnuQCLNV) | 2:50 | 2022-08-09 | 2023-01-28 |
+| [Vizhi Veekura \- From "Think Indie"](https://open.spotify.com/track/6OEY4EgyHxwJ8IhanTnvEL) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Vizhi Veekura \(From "Think Indie"\)](https://open.spotify.com/album/4aOc2bNoPDxTLrU5WG59zL) | 3:39 | 2025-07-07 |  |
 | [Vizhithiraiyile](https://open.spotify.com/track/5STDPvcvF3dqoKO09DBo2s) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Chandramouli Sundar](https://open.spotify.com/artist/39x0OeqEJXdSFSsRBvhoHi) | [Vizhithiraiyile](https://open.spotify.com/album/1Q7mzZZFORxNQlKgPmuqA1) | 3:43 | 2022-11-11 | 2023-02-22 |
 | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/track/5TdCEMpU2BFdnwI3SrSiP7) | [Barath Veeraraghavan](https://open.spotify.com/artist/4ETiJc9RAbA86dY1xqbCcS), [Aishwerya Radhakrishnan](https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD) | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/album/0gwQFZ5QUyfFVnLhN1Y8qa) | 2:34 | 2022-07-27 | 2023-02-07 |
 | [VUTTALE](https://open.spotify.com/track/1Eg03DYnqqtIKfhTGmKnE8) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2) | [VUTTALE](https://open.spotify.com/album/2gxnP09GC4MmjX4DtXBZY5) | 1:01 | 2023-01-13 | 2023-03-22 |

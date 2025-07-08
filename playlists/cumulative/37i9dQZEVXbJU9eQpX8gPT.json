@@ -788,7 +788,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "7ali Ya 7ali",
       "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
@@ -4933,6 +4933,24 @@
     },
     {
       "album": {
+        "name": "Btmanna Ansak",
+        "url": "https://open.spotify.com/album/5VSaFCbLM1mxocW2NADEiy"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Btmanna Ansak",
+      "url": "https://open.spotify.com/track/0yXKYYBPxOuakAOshy1cah"
+    },
+    {
+      "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
@@ -7542,7 +7560,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 174545,
       "name": "Darba",
       "url": "https://open.spotify.com/track/3A0sNJCdWTX6Lev83LI9eE"
@@ -28170,7 +28188,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 192340,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"

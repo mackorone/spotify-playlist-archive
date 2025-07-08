@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/5cxaftDAyQHs0aJSPFpZar"
+      },
+      "artists": [
+        {
+          "name": "Kohi Sekai",
+          "url": "https://open.spotify.com/artist/2bt858ji7ugrpjuNUEChED"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273473,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0Rmx4lwrpcKw1P65ol1Wdq"
+    },
+    {
+      "album": {
         "name": "Nikmati Perjalanannya",
         "url": "https://open.spotify.com/album/5oAaVT1eCNMDDDECL2dxHd"
       },
@@ -2784,7 +2802,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 208112,
       "name": "Rindu Lukisan",
       "url": "https://open.spotify.com/track/31c6ehd7yeLmT5OmjqUJJP"
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
@@ -3528,6 +3546,28 @@
       "duration_ms": 219352,
       "name": "Tunggu Apa Lagi",
       "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
+    },
+    {
+      "album": {
+        "name": "For All",
+        "url": "https://open.spotify.com/album/0LTNM8p3hEvAPbidxNtg7Q"
+      },
+      "artists": [
+        {
+          "name": "Bondan Prakoso",
+          "url": "https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6"
+        },
+        {
+          "name": "Fade2Black",
+          "url": "https://open.spotify.com/artist/6gvA9QkTBrrVgC61J4YaA8"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254293,
+      "name": "Ya Sudahlah",
+      "url": "https://open.spotify.com/track/0OjiV7FpVCrOIq53ZSH1EM"
     },
     {
       "album": {

@@ -2293,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "There\u2019s a Shadow in My Room and It Isn\u2019t Mine",
+        "url": "https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6"
+      },
+      "artists": [
+        {
+          "name": "Apacalda",
+          "url": "https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1"
+        },
+        {
+          "name": "Kandle",
+          "url": "https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/0HOg1ZVNtEUUZAmJQ1wCjQ"
+    },
+    {
+      "album": {
         "name": "File d'attente",
         "url": "https://open.spotify.com/album/6Gl0JODD6VE3Ubgs1ZZu8f"
       },
@@ -4180,7 +4202,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 179833,
       "name": "Le bois",
       "url": "https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP"

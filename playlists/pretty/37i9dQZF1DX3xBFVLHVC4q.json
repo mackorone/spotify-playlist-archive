@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Sunshine!!\" \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
-  "num_followers": 55759,
+  "num_followers": 55768,
   "original_name": "Love Live! Sunshine!!",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \u301cRED GEM WINK\u301c",
-        "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
-      },
-      "artists": [
-        {
-          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b) from Aqours",
-          "url": "https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "RED GEM WINK",
-      "url": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
         "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 277133,
       "name": "\u771f\u590f\u306f\u8ab0\u306e\u30e2\u30ce?",
       "url": "https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \u301cRED GEM WINK\u301c",
+        "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b) from Aqours",
+          "url": "https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "RED GEM WINK",
+      "url": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -747,18 +747,22 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
-        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
       },
       "artists": [
         {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
         }
       ],
-      "duration_ms": 291240,
-      "name": "\u3068\u304d\u3081\u304d\u5206\u985e\u5b66",
-      "url": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x"
+      "duration_ms": 263146,
+      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
+      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -787,22 +791,18 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
-        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
       },
       "artists": [
         {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
-          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
-        },
-        {
-          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
-          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
         }
       ],
-      "duration_ms": 263146,
-      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
-      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
+      "duration_ms": 291240,
+      "name": "\u3068\u304d\u3081\u304d\u5206\u985e\u5b66",
+      "url": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -835,22 +835,6 @@
       "duration_ms": 310293,
       "name": "PURE PHRASE",
       "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "Amazing Travel DNA",
-        "url": "https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2"
-      },
-      "artists": [
-        {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
-        }
-      ],
-      "duration_ms": 255813,
-      "name": "Amazing Travel DNA",
-      "url": "https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "Braveheart Coaster",
-        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
+        "name": "Amazing Travel DNA",
+        "url": "https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2"
       },
       "artists": [
         {
-          "name": "CYaRon!",
-          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
         }
       ],
-      "duration_ms": 266093,
-      "name": "Braveheart Coaster",
-      "url": "https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6"
+      "duration_ms": 255813,
+      "name": "Amazing Travel DNA",
+      "url": "https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "Amazing Travel DNA",
-        "url": "https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2"
+        "name": "Braveheart Coaster",
+        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
       },
       "artists": [
         {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
         }
       ],
-      "duration_ms": 272213,
-      "name": "\u30e1\u30a4\u30ba\u30bb\u30ab\u30a4",
-      "url": "https://open.spotify.com/track/6sfCZBZbomvxfp2l15eumu"
+      "duration_ms": 266093,
+      "name": "Braveheart Coaster",
+      "url": "https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -951,6 +935,26 @@
       "duration_ms": 234746,
       "name": "Never giving up!",
       "url": "https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "duration_ms": 283520,
+      "name": "\u30ad\u30e2\u30c1\u3082\u30e6\u30e1\u3082\u4e00\u7dd2\u3060\u306d!",
+      "url": "https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS"
     }
   ],
   "unique_name": "Love Live! Sunshine!!",

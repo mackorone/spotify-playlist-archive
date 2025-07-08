@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Lorena \u00c1lvarez.",
-  "num_followers": 130480,
+  "num_followers": 130499,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
+        "name": "7000 Momentos",
+        "url": "https://open.spotify.com/album/7ldGfBmU6MT0g0K4xvVpAS"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 204562,
+      "name": "7000 Momentos",
+      "url": "https://open.spotify.com/track/3Z1Xz62OjzKOc0HZOPX2lZ"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
         "name": "Ojos De Ajonjol\u00ed",
         "url": "https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 158181,
       "name": "Ojos De Ajonjol\u00ed",
       "url": "https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "7000 Momentos",
-        "url": "https://open.spotify.com/album/7ldGfBmU6MT0g0K4xvVpAS"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 204562,
-      "name": "7000 Momentos",
-      "url": "https://open.spotify.com/track/3Z1Xz62OjzKOc0HZOPX2lZ"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -783,6 +783,26 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
+        "name": "Esta Piel (10 a\u00f1os de Canciones)",
+        "url": "https://open.spotify.com/album/1PNfW1oIDILG6rTWz71UmQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "ESTA PIEL - 10 a\u00f1os de Canciones",
+      "url": "https://open.spotify.com/track/2Ik8Xmx3YmY4glsrGAQS4E"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
         "name": "Tan solo una se\u00f1al",
         "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 218106,
       "name": "Tan solo una se\u00f1al",
       "url": "https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "Esta Piel (10 a\u00f1os de Canciones)",
-        "url": "https://open.spotify.com/album/1PNfW1oIDILG6rTWz71UmQ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "ESTA PIEL - 10 a\u00f1os de Canciones",
-      "url": "https://open.spotify.com/track/2Ik8Xmx3YmY4glsrGAQS4E"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -919,6 +919,26 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
-        }
-      ],
-      "duration_ms": 231877,
-      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
-      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1083,22 +1063,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Tan delicada",
-        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
+        "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+        "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
       "artists": [
         {
-          "name": "Nadia Alvarez",
-          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
         },
         {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
         }
       ],
-      "duration_ms": 199096,
-      "name": "Tan delicada",
-      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
+      "duration_ms": 231877,
+      "name": "Tres Oto\u00f1os (feat. alberto.vela)",
+      "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1115,6 +1095,26 @@
       "duration_ms": 227457,
       "name": "El pa\u00f1uel\u00edn",
       "url": "https://open.spotify.com/track/7uAkA1LoJYnkB0tk4lEZGE"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Tan delicada",
+        "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
+      },
+      "artists": [
+        {
+          "name": "Nadia Alvarez",
+          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
+        },
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 199096,
+      "name": "Tan delicada",
+      "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
+        "name": "PRIEGO M\u00cdO",
+        "url": "https://open.spotify.com/album/17SFHbLeUi0rLUfW2g6bWs"
+      },
+      "artists": [
+        {
+          "name": "Raquel Vega",
+          "url": "https://open.spotify.com/artist/3fUZwaxrlEZgiwMDuwx5yx"
+        }
+      ],
+      "duration_ms": 285560,
+      "name": "PRIEGO M\u00cdO",
+      "url": "https://open.spotify.com/track/62L8xzFC8mlq8PZ2HPmNCV"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
         "name": "Un Hogar",
         "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "PRIEGO M\u00cdO",
-        "url": "https://open.spotify.com/album/17SFHbLeUi0rLUfW2g6bWs"
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
       "artists": [
         {
-          "name": "Raquel Vega",
-          "url": "https://open.spotify.com/artist/3fUZwaxrlEZgiwMDuwx5yx"
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
         }
       ],
-      "duration_ms": 285560,
-      "name": "PRIEGO M\u00cdO",
-      "url": "https://open.spotify.com/track/62L8xzFC8mlq8PZ2HPmNCV"
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
-      },
-      "artists": [
-        {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
-        }
-      ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Traigo un canto guardado",
         "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 228555,
       "name": "Traigo un canto guardado",
       "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "Ver o mar",
-        "url": "https://open.spotify.com/album/3byeOf8Va0wvjbUSFYsYxi"
-      },
-      "artists": [
-        {
-          "name": "Guadi Galego",
-          "url": "https://open.spotify.com/artist/4qiV7esJIt796GLcTRO0a4"
-        }
-      ],
-      "duration_ms": 202692,
-      "name": "Ver o mar",
-      "url": "https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+        "name": "Ver o mar",
+        "url": "https://open.spotify.com/album/3byeOf8Va0wvjbUSFYsYxi"
       },
       "artists": [
         {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+          "name": "Guadi Galego",
+          "url": "https://open.spotify.com/artist/4qiV7esJIt796GLcTRO0a4"
         }
       ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+      "duration_ms": 202692,
+      "name": "Ver o mar",
+      "url": "https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "DARUMA",
+        "url": "https://open.spotify.com/album/07OLdFOyCXqxkJasNcro4r"
+      },
+      "artists": [
+        {
+          "name": "Ove",
+          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
+        }
+      ],
+      "duration_ms": 180252,
+      "name": "Nuestro Movimiento",
+      "url": "https://open.spotify.com/track/157eN70HyJsu0lB0SEtKhH"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "DARUMA",
-        "url": "https://open.spotify.com/album/07OLdFOyCXqxkJasNcro4r"
-      },
-      "artists": [
-        {
-          "name": "Ove",
-          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
-        }
-      ],
-      "duration_ms": 180252,
-      "name": "Nuestro Movimiento",
-      "url": "https://open.spotify.com/track/157eN70HyJsu0lB0SEtKhH"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1491,38 +1507,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 186181,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
-        "name": "Lady Luck",
-        "url": "https://open.spotify.com/album/4R8gTrFpIhFwbLVIXuL8wi"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Jimenez",
-          "url": "https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/5IvdvMaPmqHQ55V9GQR5Od"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Herba de Namorar",
         "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
       },
@@ -1539,22 +1523,18 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Siembro",
-        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
+        "name": "Lady Luck",
+        "url": "https://open.spotify.com/album/4R8gTrFpIhFwbLVIXuL8wi"
       },
       "artists": [
         {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Raquel Riba Rossy",
-          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
+          "name": "Rebeca Jimenez",
+          "url": "https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3"
         }
       ],
-      "duration_ms": 231373,
-      "name": "Siembro",
-      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
+      "duration_ms": 208360,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/5IvdvMaPmqHQ55V9GQR5Od"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1579,22 +1559,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "El Jard\u00edn",
-        "url": "https://open.spotify.com/album/34HApAl8gu7dlyBvNSPpJ3"
+        "name": "Siembro",
+        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
       "artists": [
         {
-          "name": "Alper Tuzcu",
-          "url": "https://open.spotify.com/artist/72tBt5KEcYJGREBhTKBSmd"
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
         },
         {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+          "name": "Raquel Riba Rossy",
+          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
         }
       ],
-      "duration_ms": 170535,
-      "name": "Con Gracia Tanta",
-      "url": "https://open.spotify.com/track/310u68JBL9ldMqsWnxxCLj"
+      "duration_ms": 231373,
+      "name": "Siembro",
+      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1615,26 +1595,22 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Palomita de Mar",
-        "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
+        "name": "El Jard\u00edn",
+        "url": "https://open.spotify.com/album/34HApAl8gu7dlyBvNSPpJ3"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+          "name": "Alper Tuzcu",
+          "url": "https://open.spotify.com/artist/72tBt5KEcYJGREBhTKBSmd"
         },
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
         }
       ],
-      "duration_ms": 257586,
-      "name": "Palomita de Mar",
-      "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
+      "duration_ms": 170535,
+      "name": "Con Gracia Tanta",
+      "url": "https://open.spotify.com/track/310u68JBL9ldMqsWnxxCLj"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1663,6 +1639,30 @@
       "duration_ms": 182594,
       "name": "P\u00e1jaros negros",
       "url": "https://open.spotify.com/track/01JCLmwvcZpulwdEkhfJiT"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Palomita de Mar",
+        "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Palomita de Mar",
+      "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
     },
     {
       "added_at": "2025-07-04 09:40:31",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-07-04 09:40:31",
       "album": {
-        "name": "Kas Lim\u00f3n",
-        "url": "https://open.spotify.com/album/355zeg7QQyAkEzuKYwFs05"
-      },
-      "artists": [
-        {
-          "name": "Javi Robles",
-          "url": "https://open.spotify.com/artist/2uqV8YA6CmhS3Wz41S4rP4"
-        }
-      ],
-      "duration_ms": 164952,
-      "name": "Kas Lim\u00f3n",
-      "url": "https://open.spotify.com/track/4Rg7K8XnKU3WskpEi28HQL"
-    },
-    {
-      "added_at": "2025-07-04 09:40:31",
-      "album": {
         "name": "Donde se para el reloj",
         "url": "https://open.spotify.com/album/1N26h4hMwgZ1DPbwhVReJI"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 311761,
       "name": "Donde se para el reloj",
       "url": "https://open.spotify.com/track/2JKMA0wcbxTjgsCT1Oc8pS"
+    },
+    {
+      "added_at": "2025-07-04 09:40:31",
+      "album": {
+        "name": "Kas Lim\u00f3n",
+        "url": "https://open.spotify.com/album/355zeg7QQyAkEzuKYwFs05"
+      },
+      "artists": [
+        {
+          "name": "Javi Robles",
+          "url": "https://open.spotify.com/artist/2uqV8YA6CmhS3Wz41S4rP4"
+        }
+      ],
+      "duration_ms": 164952,
+      "name": "Kas Lim\u00f3n",
+      "url": "https://open.spotify.com/track/4Rg7K8XnKU3WskpEi28HQL"
     },
     {
       "added_at": "2025-07-04 09:40:31",

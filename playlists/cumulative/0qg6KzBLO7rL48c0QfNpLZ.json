@@ -4821,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/6KWjv3K3QFAml66P31zSNn"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188947,
+      "name": "Delirium",
+      "url": "https://open.spotify.com/track/3MLInL0BVj4VL4DmXIlSlm"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/4YRmbge5hoO1aJfasvFgQ5"
       },
@@ -18924,6 +18942,28 @@
       "duration_ms": 125000,
       "name": "Show U",
       "url": "https://open.spotify.com/track/6xSWdxVYlsKWgksGySoOoY"
+    },
+    {
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/3JlHbhYEpLGb1bGl9jLo9h"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        },
+        {
+          "name": "Avondzy",
+          "url": "https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/49GN8iC5IFrWQdRZlGX1R2"
     },
     {
       "album": {

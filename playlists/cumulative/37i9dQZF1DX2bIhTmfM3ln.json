@@ -1929,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Best Couple (feat. Rudeboy)",
+        "url": "https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "Best Couple (feat. Rudeboy)",
+      "url": "https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2"
+    },
+    {
+      "album": {
         "name": "Bezos",
         "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
       },
@@ -3110,7 +3132,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 135576,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/7d918PzAZdGEIlaENCH9SE"
@@ -11078,7 +11100,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 161400,
       "name": "Omo Temi",
       "url": "https://open.spotify.com/track/3x3HRVZjM1Mv3Bfd1UMIhZ"
@@ -12552,7 +12574,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 165517,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"

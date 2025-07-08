@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
 
-374 songs - 22 hr 25 min
+375 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Lokulu Kakulu](https://open.spotify.com/track/6ROzWTFZMRjzFwQrf19bmA) | [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ) | [Lokulu Kakulu](https://open.spotify.com/album/05yU1IGH4XqBzwNSFgdep8) | 2:14 | 2025-02-10 | 2025-04-18 |
 | [Lollipop](https://open.spotify.com/track/5ZtrYdXOsYCRLXuGKR7nt6) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Lollipop](https://open.spotify.com/album/40SOtgPjx3Ic3fI6wig7Qs) | 5:29 | 2022-07-18 | 2023-05-23 |
 | [London Bridge](https://open.spotify.com/track/1BI8mlQUJIEivinIuLKPkt) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX) | [London Bridge](https://open.spotify.com/album/5XOL1zvVGNrsQsIPmtZWUL) | 2:05 | 2023-05-18 | 2023-07-04 |
+| [London Pilla](https://open.spotify.com/track/3yVXVL58qnSYpbBh4Ai5bk) | [Afroz Ali](https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW) | [London Pilla](https://open.spotify.com/album/0zqkzhdB3ZRqZDLvSavTpy) | 3:51 | 2025-07-07 |  |
 | [Love Bomb](https://open.spotify.com/track/7FWVeRGfC518qKs2ZFUq59) | [Kavin Lavari](https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe) | [Love Bomb](https://open.spotify.com/album/3UbURQIeb5W509prgJYV8Q) | 2:24 | 2025-02-12 | 2025-03-08 |
 | [Love Letter](https://open.spotify.com/track/2SxtMJPmfsYCVGbb6LNUhH) | [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Love Letter](https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm) | 2:22 | 2023-11-16 | 2023-12-02 |
 | [Love Pill](https://open.spotify.com/track/5xOVz87ylswUTTX6vlCPYU) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Love Pill](https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub) | 2:40 | 2023-10-06 | 2025-04-05 |

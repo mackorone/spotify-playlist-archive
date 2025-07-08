@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-358 songs - 22 hr 43 min
+359 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 | 2023-08-30 | 2025-01-14 |
 | [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 | 2023-09-29 | 2024-02-19 |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
+| [Gulab Jamun](https://open.spotify.com/track/2zlllmweB5NqNGv06OEguE) | [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Gulab Jamun](https://open.spotify.com/album/0y82u4WJxCP9qrZbcCK4wB) | 2:06 | 2025-07-07 |  |
 | [Guru Meets Mastan](https://open.spotify.com/track/2WEp8R52IgXTf7zYVjMZJc) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan](https://open.spotify.com/album/0CQ6xO6ATp0215Eg2OgLHl) | 4:49 | 2024-05-24 | 2024-07-24 |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 | 2024-08-17 |
 | [Hridayam](https://open.spotify.com/track/3dP8bympjd6bjXnvDp1mVr) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Hridayam](https://open.spotify.com/album/0BNMDoYVh5kJhlD0YeFrqI) | 4:22 | 2025-03-01 |  |
@@ -180,7 +181,7 @@
 | [Maharani \- From "AYAKTIHIS"](https://open.spotify.com/track/5I3WoDYvFcMZez2et3DhA5) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX), [T\. M\. Krishna](https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM) | [Maharani \(From "AYAKTIHIS"\)](https://open.spotify.com/album/5V7Cqi80blyOQV1U8MZhCh) | 6:36 | 2025-02-20 | 2025-06-30 |
 | [Malhaar](https://open.spotify.com/track/5M4kAcCGMmfmYPMpW1BqiA) | [Arun Kamath](https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN), [Vineeth Jayan](https://open.spotify.com/artist/0PzqycEyy9XO1Hziogna7S), [ZIA](https://open.spotify.com/artist/7553AusOIq9ylsYMZ1KO5y) | [Malhaar](https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI) | 3:55 | 2022-06-23 | 2023-07-28 |
 | [Malkauns](https://open.spotify.com/track/4hSOA3MAsYiqWwf121Q5yC) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Medha Ashok](https://open.spotify.com/artist/7DSF3lg512Jkqaq8IOhXNA) | [Malkauns](https://open.spotify.com/album/5PIRwMD9PPIYRmiXAV0UlX) | 1:52 | 2025-06-13 |  |
-| [Manamaake Nee](https://open.spotify.com/track/7AKVLaSWcxqymgWcBoZymF) | [Maneesh Madhusudhan](https://open.spotify.com/artist/2dPPSQfDQW440IQQUe1212) | [Manamaake Nee](https://open.spotify.com/album/7MGejeCUntcWxRrTpKPBue) | 1:45 | 2025-03-20 |  |
+| [Manamaake Nee](https://open.spotify.com/track/7AKVLaSWcxqymgWcBoZymF) | [Maneesh Madhusudhan](https://open.spotify.com/artist/2dPPSQfDQW440IQQUe1212) | [Manamaake Nee](https://open.spotify.com/album/7MGejeCUntcWxRrTpKPBue) | 1:45 | 2025-03-20 | 2025-07-08 |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj) | 5:49 | 2023-10-06 | 2024-04-19 |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2022-06-23 | 2025-02-07 |
 | [MANGALAM](https://open.spotify.com/track/3vncUpj0365hkip0iGZRJl) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [MANGALAM](https://open.spotify.com/album/5EUCfEjwcEvqjsHjPWlJ3q) | 3:20 | 2025-01-10 | 2025-06-17 |

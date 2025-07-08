@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 176842,
       "name": "2 MISI",
       "url": "https://open.spotify.com/track/1PV4XKfJzsK0MsKQmDGXQ2"
@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "HA MEGHALOK SE",
+        "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "HA MEGHALOK SE",
+      "url": "https://open.spotify.com/track/2b9g8kDDwYi21E89n88BQO"
+    },
+    {
+      "album": {
         "name": "Ha re\u00e1m s\u00fct",
         "url": "https://open.spotify.com/album/2wS3rrXMfrrAZ96cZBOMYk"
       },
@@ -3083,6 +3101,32 @@
     },
     {
       "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/3dBxIm63bMFJfX2GUGkSRO"
+      },
+      "artists": [
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "Feh\u00e9r Kriszti\u00e1n",
+          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/44EzVjXRzoEVmGW6FKHskI"
+    },
+    {
+      "album": {
         "name": "J\u00e1ratlan",
         "url": "https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY"
       },
@@ -3098,7 +3142,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 196235,
       "name": "J\u00e1ratlan",
       "url": "https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW"
@@ -3638,7 +3682,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 170434,
       "name": "LOMBKORON\u00c1K",
       "url": "https://open.spotify.com/track/20NIEH3lWXTxGbJ54YvMIT"
@@ -4334,7 +4378,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 131386,
       "name": "M\u00e1s lesz",
       "url": "https://open.spotify.com/track/26fIMPqlNEI2Z7hKQAvioH"
@@ -4484,7 +4528,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 176333,
       "name": "Nem b\u00facs\u00faztam el",
       "url": "https://open.spotify.com/track/7vxd0D1Xt4RzTRU2EUHDO2"
@@ -5564,7 +5608,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 204444,
       "name": "R\u00e9szeg",
       "url": "https://open.spotify.com/track/4GqBdPMrSH4CPC1uukaLHV"
@@ -6005,6 +6049,32 @@
     },
     {
       "album": {
+        "name": "SZAR AZ \u00c9LET",
+        "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "BALKAN VIP",
+          "url": "https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191707,
+      "name": "SZAR AZ \u00c9LET",
+      "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
+    },
+    {
+      "album": {
         "name": "Szerelmes leszek a ny\u00e1ron",
         "url": "https://open.spotify.com/album/5WeVILnK0jgGZeXYMC09uF"
       },
@@ -6277,6 +6347,28 @@
     },
     {
       "album": {
+        "name": "S\u00edr a sz\u00edv...",
+        "url": "https://open.spotify.com/album/1hykGE3ebitDGlU8gB806I"
+      },
+      "artists": [
+        {
+          "name": "Radics Gigi",
+          "url": "https://open.spotify.com/artist/4KfniEyQkNqVrH21GA1PlP"
+        },
+        {
+          "name": "Impro-Rom",
+          "url": "https://open.spotify.com/artist/0hoGnUBX2iSeSfjfbbHV1X"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "S\u00edr a sz\u00edv...",
+      "url": "https://open.spotify.com/track/2JKsMVKNN3tsxPiRqVYeAz"
+    },
+    {
+      "album": {
         "name": "S\u00d6T\u00c9T",
         "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
       },
@@ -6310,7 +6402,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 181384,
       "name": "Tagadod",
       "url": "https://open.spotify.com/track/0XYq3M0vzRmM7ZCmjKyxYq"
@@ -6999,6 +7091,28 @@
     },
     {
       "album": {
+        "name": "V\u00e1lassz",
+        "url": "https://open.spotify.com/album/4FGhH14izXz2teyOZMTwfS"
+      },
+      "artists": [
+        {
+          "name": "Szabikeyz",
+          "url": "https://open.spotify.com/artist/7cyFxt9SpkC7aQb8yULboZ"
+        },
+        {
+          "name": "Juh\u00e1sz Zoli",
+          "url": "https://open.spotify.com/artist/07aNeZApbFflKJYHiRZLGS"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "V\u00e1lassz",
+      "url": "https://open.spotify.com/track/14nvfnRd79NHxt8cdMhJeM"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -7134,7 +7248,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 156595,
       "name": "\u00c9des vagy Keser\u0171",
       "url": "https://open.spotify.com/track/562yE8mM6O7vw28zG5gIOX"
@@ -7192,7 +7306,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 209999,
       "name": "\u00c9lni is Elviszem",
       "url": "https://open.spotify.com/track/3IitnHGVnAnNs132iL54ON"

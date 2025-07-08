@@ -1,12 +1,12 @@
 {
   "description": "Jadi lebih produktif ditemani musik terkini",
-  "num_followers": 148600,
+  "num_followers": 148631,
   "original_name": "Lebih Produktif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGIztQAAAABPxB2J9/rZUXO9UpR12tPl",
+  "snapshot_id": "aGt6mQAAAACYAv+ODr1eJ873XVOEVUhh",
   "tracks": [
     {
       "added_at": "2025-06-30 06:50:29",
@@ -291,6 +291,42 @@
       "duration_ms": 233916,
       "name": "Kita Usahakan Lagi",
       "url": "https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF"
+    },
+    {
+      "added_at": "2025-07-07 02:57:45",
+      "album": {
+        "name": "MAPA (Indonesian Ver.)",
+        "url": "https://open.spotify.com/album/0jVk4hqUcFogF1NcK3ZQ0a"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        },
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "MAPA (Indonesian Ver.)",
+      "url": "https://open.spotify.com/track/23FJNFAeNLzAuFORNvyBFf"
+    },
+    {
+      "added_at": "2025-07-07 07:43:21",
+      "album": {
+        "name": "MENACE",
+        "url": "https://open.spotify.com/album/1myy2Uyu72ydZYlXydekjN"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "duration_ms": 154577,
+      "name": "MENACE",
+      "url": "https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb"
     },
     {
       "added_at": "2025-04-21 07:26:37",

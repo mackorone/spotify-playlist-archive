@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Susana Zabaleta en portada.",
-  "num_followers": 547226,
+  "num_followers": 547279,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-06-20 14:33:48",
       "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2025-06-20 14:33:48",
+      "album": {
         "name": "Serenatas Frente al Mar",
         "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 197850,
       "name": "Serenatas Frente al Mar",
       "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
-    },
-    {
-      "added_at": "2025-06-20 14:33:48",
-      "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2025-06-20 14:33:48",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-06-20 14:33:48",
       "album": {
-        "name": "UNDESASTRE delux: CERODRAMA",
-        "url": "https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "NOstas",
-      "url": "https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA"
-    },
-    {
-      "added_at": "2025-06-20 14:33:48",
-      "album": {
         "name": "Hola Perdido",
         "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 185338,
       "name": "Hola Perdido",
       "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
+    },
+    {
+      "added_at": "2025-06-20 14:33:48",
+      "album": {
+        "name": "UNDESASTRE delux: CERODRAMA",
+        "url": "https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "NOstas",
+      "url": "https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA"
     },
     {
       "added_at": "2025-06-20 14:33:48",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2025-06-20 14:33:48",
       "album": {
-        "name": "BOLERo LIBRA",
-        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 172687,
-      "name": "BOLERo LIBRA",
-      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
-    },
-    {
-      "added_at": "2025-06-20 14:33:48",
-      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
+    },
+    {
+      "added_at": "2025-06-20 14:33:48",
+      "album": {
+        "name": "BOLERo LIBRA",
+        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 172687,
+      "name": "BOLERo LIBRA",
+      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
     },
     {
       "added_at": "2025-06-20 14:33:48",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-06-20 14:33:48",
       "album": {
-        "name": "Pecado Mortal",
-        "url": "https://open.spotify.com/album/05VKz27OjRtcTGw1QtW2MP"
-      },
-      "artists": [
-        {
-          "name": "Susana Zabaleta",
-          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
-        }
-      ],
-      "duration_ms": 187264,
-      "name": "Pecado Mortal",
-      "url": "https://open.spotify.com/track/4r0gvUdP6KabudCSirhxj5"
-    },
-    {
-      "added_at": "2025-06-20 14:33:48",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 207296,
       "name": "La Apuesta",
       "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2025-06-20 14:33:48",
+      "album": {
+        "name": "Pecado Mortal",
+        "url": "https://open.spotify.com/album/05VKz27OjRtcTGw1QtW2MP"
+      },
+      "artists": [
+        {
+          "name": "Susana Zabaleta",
+          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
+        }
+      ],
+      "duration_ms": 187264,
+      "name": "Pecado Mortal",
+      "url": "https://open.spotify.com/track/4r0gvUdP6KabudCSirhxj5"
     },
     {
       "added_at": "2025-06-20 14:33:48",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-06-20 14:33:48",
       "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
-    },
-    {
-      "added_at": "2025-06-20 14:33:48",
-      "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2025-06-20 14:33:48",
       "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 207997,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
+    },
+    {
+      "added_at": "2025-06-20 14:33:48",
+      "album": {
         "name": "Palabras",
         "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
       },
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-06-20 14:33:48",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ponce",
-          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
-        }
-      ],
-      "duration_ms": 197553,
-      "name": "Por Debajo de la Mesa",
-      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
-    },
-    {
-      "added_at": "2025-06-20 14:33:48",
-      "album": {
         "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
         "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 328320,
       "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
       "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
+    },
+    {
+      "added_at": "2025-06-20 14:33:48",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        }
+      ],
+      "duration_ms": 197553,
+      "name": "Por Debajo de la Mesa",
+      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
     },
     {
       "added_at": "2025-06-20 14:33:48",

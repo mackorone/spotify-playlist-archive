@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 57 min
+56 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,13 +54,14 @@
 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
 | [Sistagurl](https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Prism EP](https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby) | 5:40 | 2025-06-28 |  |
 | [Syrundipetty](https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 3:42 | 2025-07-03 |  |
+| [Tailor Made \(feat\. Ziyon\) \- Yoruba Soul Mix](https://open.spotify.com/track/7LHRfkAwPA03d3szjedeIj) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy), [Oupa Joseph Makwela](https://open.spotify.com/artist/7woR57CQwbHK44u90T6Cfv), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Tailor Made \(feat\. Ziyon\) \[Yoruba Soul Mix\]](https://open.spotify.com/album/39lvxaQs2ThEN927h7Xars) | 5:14 | 2025-07-08 |  |
 | [Tech This Out Pt.1 \- Yoruba Soul Mix](https://open.spotify.com/track/2Kbdo2TT9vQ0lUAu8RC27E) | [Karizma](https://open.spotify.com/artist/7bccAT6TPXO9MPsj6Ky1oe), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 10:34 | 2025-06-28 | 2025-07-02 |
 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 | 2025-06-28 |  |
 | [The Sickness](https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j) | [Rich Medina](https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade presents Racially Charged](https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX) | 4:03 | 2025-06-28 |  |
 | [Tom's Bar](https://open.spotify.com/track/6etoe7269ZeOzKzVrVeJkL) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:10 | 2025-06-28 |  |
 | [Unity In Diversity \- Yoruba Soul remix](https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh) | [Han Litz Group](https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Yoruba Soul](https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC) | [Unity In Diversity \(Yoruba Soul remix\)](https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v) | 5:03 | 2025-07-06 |  |
 | [We Call Love](https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [The Drawing Board](https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL) | 6:19 | 2025-06-28 |  |
-| [We Can Change This World \- Yoruba Soul Mix](https://open.spotify.com/track/7peX22FQZymDyGq2a7e1ZR) | [Dj Spinna](https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2), [Heavy](https://open.spotify.com/artist/4k504xMp2InbnaJP0qyFX0), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:06 | 2025-06-28 |  |
+| [We Can Change This World \- Yoruba Soul Mix](https://open.spotify.com/track/7peX22FQZymDyGq2a7e1ZR) | [Dj Spinna](https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2), [Heavy](https://open.spotify.com/artist/4k504xMp2InbnaJP0qyFX0), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:06 | 2025-06-28 | 2025-07-08 |
 | [What Gets You High?](https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dionne / What Gets You High?](https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H) | 3:59 | 2025-06-28 |  |
 | [Wut IZ Style?](https://open.spotify.com/track/1mwMaWjLGCRehwM1f6FZdn) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 9:27 | 2025-06-28 |  |
 

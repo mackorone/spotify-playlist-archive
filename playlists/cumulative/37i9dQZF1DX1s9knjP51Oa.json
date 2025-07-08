@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Gentle Unveiling",
+        "url": "https://open.spotify.com/album/4Ihvh7Jjjbejkxw6CACar8"
+      },
+      "artists": [
+        {
+          "name": "Elias Gianni",
+          "url": "https://open.spotify.com/artist/3EfwobKa9Zi0V1aciFv95m"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164428,
+      "name": "A Gentle Unveiling",
+      "url": "https://open.spotify.com/track/4aqoweh2VMAN97l1D4bou2"
+    },
+    {
+      "album": {
         "name": "A Moment Remembered",
         "url": "https://open.spotify.com/album/1F8KdJXJoSgozXKUdwm4YT"
       },
@@ -1140,6 +1158,24 @@
       "duration_ms": 170250,
       "name": "As We Fall In Love Again",
       "url": "https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R"
+    },
+    {
+      "album": {
+        "name": "Ashfall",
+        "url": "https://open.spotify.com/album/5xQ0f2SQpsoHHLGDGypcWB"
+      },
+      "artists": [
+        {
+          "name": "Eigil Leuc",
+          "url": "https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169805,
+      "name": "Ashfall",
+      "url": "https://open.spotify.com/track/6ftwSPoxBAoAk41eQeen4w"
     },
     {
       "album": {
@@ -5237,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "Frozen Flower",
+        "url": "https://open.spotify.com/album/3gSPyAbHzv4UkOFHdkgKH9"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201842,
+      "name": "Frozen Flower",
+      "url": "https://open.spotify.com/track/4WfY4hp9fBxqw4pVbiYoYb"
+    },
+    {
+      "album": {
         "name": "Fr\u00fch",
         "url": "https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL"
       },
@@ -5284,7 +5338,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 196556,
       "name": "Future \u672a\u6765",
       "url": "https://open.spotify.com/track/7l9kf2CXBDtvOMIRB23H5N"
@@ -9822,7 +9876,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 149482,
       "name": "Petal Drift",
       "url": "https://open.spotify.com/track/0qFkEaASYYsIIQoYlN9SF9"

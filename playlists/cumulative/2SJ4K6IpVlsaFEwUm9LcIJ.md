@@ -2,7 +2,7 @@
 
 ### [the return of cookie](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-> my alter ego \(what i&\#x27;m listening to july\-aug 2025\)
+> she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
 638 songs - 1 day 13 hr 2 min
 

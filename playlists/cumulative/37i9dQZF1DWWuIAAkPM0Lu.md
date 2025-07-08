@@ -2,7 +2,7 @@
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> Det er fredag! Ny musik fra D1MA, Tyla, WizTheMc og mange flere 👀
+> Det er fredag! Ny musik fra D1MA, Ava Max, WizTheMc og mange flere 👀
 
 6,207 songs - 13 day 8 hr 6 min
 

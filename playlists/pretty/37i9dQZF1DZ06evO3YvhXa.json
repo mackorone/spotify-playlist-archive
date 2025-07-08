@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 416595,
+  "num_followers": 416657,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAADkygmMl4lEWrCjPodSQM7n",
+  "snapshot_id": "aGm8gAAAAAABoXGvQh45605t1Uz0Wizk",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Club Future Nostalgia (DJ Mix)",
+        "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
+        }
+      ],
+      "duration_ms": 180040,
+      "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
+      "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High Times: Singles 1992-2006",
         "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
       },
@@ -459,34 +487,6 @@
       "duration_ms": 301733,
       "name": "Time Won't Wait",
       "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Club Future Nostalgia (DJ Mix)",
-        "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Dimitri From Paris",
-          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
-      "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
     },
     {
       "added_at": null,

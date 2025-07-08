@@ -4787,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "Summer Season",
+        "url": "https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT"
+      },
+      "artists": [
+        {
+          "name": "PS.",
+          "url": "https://open.spotify.com/artist/0nHLaX2ZYKfNOtkASkDk48"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162315,
+      "name": "Summer Season",
+      "url": "https://open.spotify.com/track/3TvRQLowsGNEMXMMHB30KK"
+    },
+    {
+      "album": {
         "name": "Sun, Moon, Stars",
         "url": "https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9"
       },
@@ -5244,7 +5262,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 201480,
       "name": "The One to Leave",
       "url": "https://open.spotify.com/track/3tvfy9kXXUnYlDWe364mLo"

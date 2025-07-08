@@ -4,7 +4,7 @@
 
 > Music from the street racing manga series, “INITIAL D”! （C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-43 songs - 3 hr 26 min
+45 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [BURNING UP FOR YOU](https://open.spotify.com/track/71rGEpOqD1jKIl7hp9Lq12) | [Sara](https://open.spotify.com/artist/1ApMxbInC1s0ynRxzbNyy8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:49 | 2022-05-24 |  |
 | [Crazy For Love](https://open.spotify.com/track/558oj1bbmSjG4vFOPoFL9l) | [Dusty](https://open.spotify.com/artist/0kpfYS6tpGQ5CBvJDBGV8t) | [Super Eurobeat Vol.181](https://open.spotify.com/album/3UIA9tSR07zPn3sKytQxLI) | 4:54 | 2022-05-24 |  |
 | [DANCING](https://open.spotify.com/track/2VECIM9EpMojxBj0sCG9ii) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:46 | 2022-05-24 |  |
+| [Dancing \(My Initials 8D\) \- 8D Version](https://open.spotify.com/track/6w68lQhWleUpXPoBg7vgiV) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr), [Bratt Sinclaire](https://open.spotify.com/artist/6fGfILwz3C9CSjnMxdWVkO) | [My Initials 8D, Vol\. 1](https://open.spotify.com/album/4AWWjgan3GFZtltp5y6GbX) | 3:26 | 2025-07-07 |  |
 | [DEJA VU](https://open.spotify.com/track/6CRtIYDga4VKW5sV5rfAL3) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION](https://open.spotify.com/album/5IWYS5uU24ol0NotfK8XqV) | 4:20 | 2022-05-24 |  |
 | [DEJA VU \- Yuta Imai Remix](https://open.spotify.com/track/7xGdck3GbTSk7b3uSFQ91w) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [DEJA VU \(Yuta Imai Remix\)](https://open.spotify.com/album/24aoHrgiGdSC6JSwxR55rM) | 3:02 | 2023-07-11 |  |
 | [DON'T STOP THE MUSIC](https://open.spotify.com/track/1Pd1zzDTp8G32vnSLWIlbI) | [Lou Grant](https://open.spotify.com/artist/35hyeD723SqEPzvWTZyeyU) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:48 | 2022-05-24 |  |
@@ -34,6 +35,7 @@
 | [Mikado \- Extended Version](https://open.spotify.com/track/0kx5ysEDdlWT37R2uLPFfG) | [Dave MC Loud](https://open.spotify.com/artist/1CFcGw5BNYY6IeGrnQJnp5) | [Initial Beat, Vol\. 1](https://open.spotify.com/album/7jZYBIcsA5L8Nhullurmbw) | 6:03 | 2022-05-24 | 2022-11-13 |
 | [Mikado \- Extended Version](https://open.spotify.com/track/54NEJSOTHGKN7YIeA7Co6f) | [Dave MC Loud](https://open.spotify.com/artist/1CFcGw5BNYY6IeGrnQJnp5) | [Eurobeat Kudos 11](https://open.spotify.com/album/41qwgG9ANvVk3I2sxiv2df) | 6:03 | 2022-05-24 | 2024-04-19 |
 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 | 2022-05-24 |  |
+| [Night of Fire \- Extended mix](https://open.spotify.com/track/1c7IRPoWNIMLGrFgit8QXk) | [Niko](https://open.spotify.com/artist/1Lbe0aOyGPpQEwAGJzXPdI), [Bratt Sinclaire](https://open.spotify.com/artist/6fGfILwz3C9CSjnMxdWVkO) | [Bratt Sinclaire Eurobeat Style, Vol.7](https://open.spotify.com/album/74RvRonDKJST69IhQAZ7IS) | 5:18 | 2025-07-07 |  |
 | [NO ONE SLEEP IN TOKYO](https://open.spotify.com/track/6tinyeimCbUv1CPuPBBQOH) | [EDO BOYS](https://open.spotify.com/artist/2qlGGrGnWPs3oqIib0oTSf) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 5:02 | 2022-05-24 |  |
 | [Rage Your Dream](https://open.spotify.com/track/0dQtjOhjyMMAwyMZRAOKsU) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:31 | 2022-05-24 |  |
 | [Rage your dream](https://open.spotify.com/track/4n54JaXMZLwJ3qUPnLh8TC) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Rage your dream](https://open.spotify.com/album/6fdW8U59XKOZcHIAe1DWud) | 4:32 | 2022-05-24 | 2024-04-19 |

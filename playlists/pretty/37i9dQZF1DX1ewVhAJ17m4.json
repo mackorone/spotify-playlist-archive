@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Good Charlotte ",
-  "num_followers": 595612,
+  "num_followers": 595625,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGOqMwAAAAAh80LrFAtnp++G8LlBG+7t",
+  "snapshot_id": "aGvmfwAAAAC8NBBc5MXqFBtUepba8biO",
   "tracks": [
     {
       "added_at": "2025-07-01 09:28:19",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
     },
     {
+      "added_at": "2025-07-07 15:23:43",
+      "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
       "added_at": "2025-05-15 19:35:05",
       "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
@@ -147,6 +163,22 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/6JLyoujI6g58xSefLjpT64"
+      },
+      "artists": [
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "Intrepid",
+      "url": "https://open.spotify.com/track/4Z1oDdcxC0AXpQlRKsLMrd"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -171,18 +203,18 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Silk",
-        "url": "https://open.spotify.com/album/6JLyoujI6g58xSefLjpT64"
+        "name": "100%",
+        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
       },
       "artists": [
         {
-          "name": "LATE 90s",
-          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 173093,
-      "name": "Intrepid",
-      "url": "https://open.spotify.com/track/4Z1oDdcxC0AXpQlRKsLMrd"
+      "duration_ms": 208970,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -199,22 +231,6 @@
       "duration_ms": 203426,
       "name": "2005",
       "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208970,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
     },
     {
       "added_at": "2025-06-23 14:58:00",
@@ -235,22 +251,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "The Crucible Of Life",
-        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Brag",
-      "url": "https://open.spotify.com/track/1HSVmNmRkrAyKahBe6Szx2"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/1bhl6OKLF4J64oFQZ7pqFP"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 169855,
       "name": "Low",
       "url": "https://open.spotify.com/track/4641mOGXY28NtlxA6D71cV"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "The Crucible Of Life",
+        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/1HSVmNmRkrAyKahBe6Szx2"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -297,20 +313,36 @@
       "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
-      "added_at": "2025-06-23 14:58:00",
+      "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA"
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
       },
       "artists": [
         {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 173239,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN"
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "When I'm Feeling Down",
+        "url": "https://open.spotify.com/album/4cIjgy8xbxeDwnOLcFCdur"
+      },
+      "artists": [
+        {
+          "name": "Beauty School",
+          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
+        }
+      ],
+      "duration_ms": 200265,
+      "name": "When I'm Feeling Down",
+      "url": "https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -333,38 +365,6 @@
       "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "When I'm Feeling Down",
-        "url": "https://open.spotify.com/album/4cIjgy8xbxeDwnOLcFCdur"
-      },
-      "artists": [
-        {
-          "name": "Beauty School",
-          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
-        }
-      ],
-      "duration_ms": 200265,
-      "name": "When I'm Feeling Down",
-      "url": "https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "HOW 2 GET AWAY WITH MURDER",
-        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "HOW 2 GET AWAY WITH MURDER",
-      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
-    },
-    {
       "added_at": "2025-05-23 18:55:41",
       "album": {
         "name": "Worthy",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG"
     },
     {
+      "added_at": "2025-06-23 14:58:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN"
+    },
+    {
       "added_at": "2025-05-15 19:35:05",
       "album": {
         "name": "Why Would I Watch",
@@ -395,26 +411,6 @@
       "duration_ms": 200595,
       "name": "No Shoes in the Coffee Shop (Or Socks)",
       "url": "https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -513,20 +509,24 @@
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
     },
     {
-      "added_at": "2025-06-23 14:58:00",
+      "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Sinking Feeling",
-        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
       "artists": [
         {
-          "name": "LEAP",
-          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 227529,
-      "name": "Sinking Feeling",
-      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -547,6 +547,22 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+    },
+    {
+      "added_at": "2025-06-23 14:58:00",
+      "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "duration_ms": 227529,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -583,22 +599,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 145547,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "ONE MORE TIME...",
         "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 213191,
       "name": "ANTHEM PART 3",
       "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Sandbox",
+        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 145547,
+      "name": "Sandbox",
+      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -665,22 +681,6 @@
       "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
-      "added_at": "2025-06-23 14:58:00",
-      "album": {
-        "name": "Sense of Humor",
-        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 195865,
-      "name": "Sense of Humor",
-      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
-    },
-    {
       "added_at": "2025-05-15 19:35:05",
       "album": {
         "name": "ONE MORE TIME... PART-2",
@@ -711,6 +711,22 @@
       "duration_ms": 178837,
       "name": "WORLD vs PEACE",
       "url": "https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx"
+    },
+    {
+      "added_at": "2025-06-23 14:58:00",
+      "album": {
+        "name": "Sense of Humor",
+        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 195865,
+      "name": "Sense of Humor",
+      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -883,26 +899,18 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Burst & Decay (Volume III)",
-        "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
       },
       "artists": [
         {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        },
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        },
-        {
-          "name": "Little Kruta",
-          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 233040,
-      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
-      "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -931,22 +939,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 189897,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -959,6 +951,46 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Burst & Decay (Volume III)",
+        "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        },
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        },
+        {
+          "name": "Little Kruta",
+          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
+      "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5C915u7Dqs82VDnWrqr9cS"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -979,22 +1011,6 @@
       "duration_ms": 162281,
       "name": "I'M THE MAN (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/5C915u7Dqs82VDnWrqr9cS"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -1161,6 +1177,22 @@
       "url": "https://open.spotify.com/track/3luVbWbFdZ0MCddvdRtU1I"
     },
     {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 217235,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA"
+    },
+    {
       "added_at": "2025-06-23 14:58:00",
       "album": {
         "name": "LANDSLIDE",
@@ -1231,22 +1263,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "If I'm Honest",
-        "url": "https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 217235,
-      "name": "If I'm Honest",
-      "url": "https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "MOON",
         "url": "https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs"
-      },
-      "artists": [
-        {
-          "name": "Mattstagraham",
-          "url": "https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI"
-        }
-      ],
-      "duration_ms": 190199,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "diamonds on your dagger",
         "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/3P6BQLq4WpAZ5DH4sJ4GAs"
+      },
+      "artists": [
+        {
+          "name": "Mattstagraham",
+          "url": "https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI"
+        }
+      ],
+      "duration_ms": 190199,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/03g8UUClsnR55SzLYSqWHy"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -1339,22 +1355,6 @@
       "duration_ms": 144986,
       "name": "Big Blind",
       "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

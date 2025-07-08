@@ -4,7 +4,7 @@
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 46 min
+95 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Liquid Energy \- Underscore Version](https://open.spotify.com/track/12nkGYRuBT6ewgn1w7Ygxr) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:04 | 2022-09-20 |  |
 | [Lure of the Space Goddess \(Full Broadcast Version\)](https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Workshop](https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8) | 2:30 | 2023-05-07 | 2025-03-06 |
 | [Lure of the Space Goddess \- Full Broadcast Version](https://open.spotify.com/track/1wmf3EM0wug7WLdN1WrCZt) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife Anthology](https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ) | 2:30 | 2025-03-06 |  |
+| [Main Title \- From Doctor Who, 1963](https://open.spotify.com/track/5SfokOHKIaNOpy7XRVVZYW) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Best RON GRAINER Early Movie Themes](https://open.spotify.com/album/2sAqQFlZlqVMqrc8rddoVG) | 2:20 | 2025-07-08 |  |
 | [Moogies Bloogies](https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI) | [Moogies Bloogies](https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6) | 2:24 | 2022-05-29 |  |
 | [Nightwalker](https://open.spotify.com/track/0z3rbUCweRcD7g0i3Pbw4F) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:59 | 2022-05-31 |  |
 | [No Man's Land](https://open.spotify.com/track/0wfTZNLjGyWy6ugu1StZgB) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:50 | 2023-03-25 |  |

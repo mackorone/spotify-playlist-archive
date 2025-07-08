@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz",
-  "num_followers": 179534,
+  "num_followers": 179575,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 240522,
       "name": "Outono",
       "url": "https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -403,22 +403,22 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "Tempo Que N\u00e3o Volta",
-        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
+        "name": "Meraki Nina",
+        "url": "https://open.spotify.com/album/1DQMlqpLfEN5cZ8R2HnF6V"
       },
       "artists": [
         {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
         },
         {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Tempo Que N\u00e3o Volta",
-      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
+      "duration_ms": 216716,
+      "name": "Marfim",
+      "url": "https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -447,22 +447,22 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "Meraki Nina",
-        "url": "https://open.spotify.com/album/1DQMlqpLfEN5cZ8R2HnF6V"
+        "name": "Tempo Que N\u00e3o Volta",
+        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
         },
         {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 216716,
-      "name": "Marfim",
-      "url": "https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj"
+      "duration_ms": 172173,
+      "name": "Tempo Que N\u00e3o Volta",
+      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Klismman",
+          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
         "name": "REAL R&B, Vol. 2",
         "url": "https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 157408,
       "name": "SLOW DOWN",
       "url": "https://open.spotify.com/track/2oZrrzcXDbRb1IAvM6OwTF"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Klismman",
-          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
         "name": "Nossa M\u00fasica",
         "url": "https://open.spotify.com/album/1PvKNzwf78tHq50nNFEsmM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 147007,
       "name": "Nossa M\u00fasica",
       "url": "https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
         "name": "Localiza\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy"
       },
@@ -1035,22 +1055,6 @@
       "duration_ms": 171269,
       "name": "Localiza\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -1111,6 +1115,22 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
         "name": "Respostas",
         "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 194000,
       "name": "Respostas",
       "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "Motico Money",
-          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
         "name": "Assome",
         "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
       },
@@ -1191,26 +1175,6 @@
       "duration_ms": 179498,
       "name": "Assome",
       "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
-        "name": "Lambuza",
-        "url": "https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk"
-      },
-      "artists": [
-        {
-          "name": "Calena",
-          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Lambuza",
-      "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -1231,6 +1195,42 @@
       "duration_ms": 134476,
       "name": "Sobrenome",
       "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "Motico Money",
+          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
+        "name": "Lambuza",
+        "url": "https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk"
+      },
+      "artists": [
+        {
+          "name": "Calena",
+          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Lambuza",
+      "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
     },
     {
       "added_at": "2025-06-28 00:55:30",

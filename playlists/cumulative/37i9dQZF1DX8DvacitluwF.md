@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Nanette
 
-578 songs - 1 day 7 hr 0 min
+579 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-09-26 | 2025-04-25 |
 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 | 2024-05-09 | 2024-09-03 |
 | [Poster Child](https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Poster Child](https://open.spotify.com/album/0604mViR529HBNJmZr5IRW) | 2:48 | 2024-06-27 | 2024-09-03 |
+| [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-07-04 |  |
 | [Prada Le Balenciaga](https://open.spotify.com/track/25zQa5r9f21a4aZkw8UoTv) | [MfanaTouchLine](https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ) | [Lepara La Tipa](https://open.spotify.com/album/0AnwBDLWanpcszQWV7yTSO) | 1:43 | 2025-06-13 | 2025-06-20 |
 | [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 | 2025-06-20 | 2025-06-28 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-23 | 2024-03-22 |
@@ -474,7 +475,7 @@
 | [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 | 2024-08-02 |
 | [Stay The Night](https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Stay The Night](https://open.spotify.com/album/5NPVk3MNx4FiE0airIqmb1) | 3:06 | 2024-04-25 | 2024-07-27 |
 | [Stay the Night](https://open.spotify.com/track/0JADBJ42q1ab92VOULBh9V) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:21 | 2025-02-13 | 2025-03-01 |
-| [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2024-09-02 |  |
+| [Steady](https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Steady](https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM) | 3:44 | 2024-09-02 | 2025-07-08 |
 | [STEADY \(feat\. SaveMilli & Mzizi\)](https://open.spotify.com/track/7L2diwSFqfR6XcOGqasCJR) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [SaveMilli](https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme), [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9) | [STEADY \(feat\. SaveMilli & Mzizi\)](https://open.spotify.com/album/3NOddMI2rgOUKZDrniiSC3) | 3:28 | 2024-07-25 | 2024-09-03 |
 | [Stick With You \(feat\. Nana Atta & Rhea Blek\)](https://open.spotify.com/track/2U3qc1MebhRjkXu2mmaAFF) | [Jazzy June](https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI), [TeabagCC](https://open.spotify.com/artist/6sW4QFrM1ffIRAQRHC4wZy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Rhea Blek](https://open.spotify.com/artist/58yGlR6nBYMqbJUypZD5E4) | [Starting V](https://open.spotify.com/album/6mrRJOqPqptakFX2UOICAs) | 3:15 | 2025-04-03 | 2025-04-25 |
 | [Sticky](https://open.spotify.com/track/7uVUoTvxC1nOAuZBr72DWS) | [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4) | [LOSE CTRL](https://open.spotify.com/album/4sfRXbUnks97MCW5LqtfkI) | 3:47 | 2023-10-12 | 2023-10-20 |

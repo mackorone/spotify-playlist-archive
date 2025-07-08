@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 814286,
+  "num_followers": 814426,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAADRwmFwZTGPtQLjgWZ3Ucmw",
+  "snapshot_id": "aGm8gAAAAABm1cSz5V4oQC8d1+C1QDBN",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 227213,
-      "name": "The Dark Side",
-      "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
+      "duration_ms": 206106,
+      "name": "Thought Contagion",
+      "url": "https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Thought Contagion",
-      "url": "https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk"
+      "duration_ms": 227213,
+      "name": "The Dark Side",
+      "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 414960,
-      "name": "Unnatural Selection",
-      "url": "https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7"
+      "duration_ms": 233266,
+      "name": "Exo-Politics",
+      "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Exo-Politics",
-      "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
+      "duration_ms": 414960,
+      "name": "Unnatural Selection",
+      "url": "https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7"
     },
     {
       "added_at": null,

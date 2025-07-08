@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 35067,
+  "num_followers": 35068,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u65fa\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3"
-      },
-      "artists": [
-        {
-          "name": "WONFU",
-          "url": "https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy"
-        }
-      ],
-      "duration_ms": 283782,
-      "name": "\u7b49\u5f85\u96e8\u6563",
-      "url": "https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u611b\u60c5\u842c\u6b72",
         "url": "https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 222773,
       "name": "\u96e8\u7720",
       "url": "https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u65fa\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3"
+      },
+      "artists": [
+        {
+          "name": "WONFU",
+          "url": "https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy"
+        }
+      ],
+      "duration_ms": 283782,
+      "name": "\u7b49\u5f85\u96e8\u6563",
+      "url": "https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
-      },
-      "artists": [
-        {
-          "name": "\u767d\u983b\u7387 White Frequency",
-          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
-        }
-      ],
-      "duration_ms": 308170,
-      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u70ed\u5e26\u96e8 (\u300a\u70ed\u5e26\u96e8\u300b\u7535\u5f71\u540c\u540d\u4e3b\u9898\u66f2)",
         "url": "https://open.spotify.com/album/6JHeFZxMEsEbnTAqK8cK2O"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 246000,
       "name": "\u70ed\u5e26\u96e8 - \u300a\u70ed\u5e26\u96e8\u300b\u7535\u5f71\u540c\u540d\u4e3b\u9898\u66f2",
       "url": "https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u983b\u7387 White Frequency",
+          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
+        }
+      ],
+      "duration_ms": 308170,
+      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u95dc\u4e0d\u6389\u7684\u6708\u5149",
-        "url": "https://open.spotify.com/album/1SIixceUdO7ZqFvjoeGQqG"
-      },
-      "artists": [
-        {
-          "name": "Harlem Yu",
-          "url": "https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "\u4e0b\u500b\u96e8\u5b63",
-      "url": "https://open.spotify.com/track/4M6BOVx4dZVSRUXc8en1PR"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u6df3.\u4f73. (\u65b0\u6b4c+\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/6EAVkUzyCZmAxu1jETZLAt"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
-        "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
+        "name": "\u95dc\u4e0d\u6389\u7684\u6708\u5149",
+        "url": "https://open.spotify.com/album/1SIixceUdO7ZqFvjoeGQqG"
       },
       "artists": [
         {
-          "name": "\u812b\u62c9\u5eab",
-          "url": "https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx"
+          "name": "Harlem Yu",
+          "url": "https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY"
         }
       ],
-      "duration_ms": 258000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz"
+      "duration_ms": 258533,
+      "name": "\u4e0b\u500b\u96e8\u5b63",
+      "url": "https://open.spotify.com/track/4M6BOVx4dZVSRUXc8en1PR"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1011,18 +995,34 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u611b\u5728\u96e8\u5b63",
-        "url": "https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL"
+        "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
+        "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
       },
       "artists": [
         {
-          "name": "\u5433\u6620\u9999",
-          "url": "https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW"
+          "name": "\u812b\u62c9\u5eab",
+          "url": "https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx"
         }
       ],
-      "duration_ms": 166304,
-      "name": "\u611b\u5728\u96e8\u5b63",
-      "url": "https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU"
+      "duration_ms": 258000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ"
+      },
+      "artists": [
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
+        }
+      ],
+      "duration_ms": 256298,
+      "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ"
+        "name": "\u611b\u5728\u96e8\u5b63",
+        "url": "https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL"
       },
       "artists": [
         {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
+          "name": "\u5433\u6620\u9999",
+          "url": "https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW"
         }
       ],
-      "duration_ms": 256298,
-      "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S"
+      "duration_ms": 166304,
+      "name": "\u611b\u5728\u96e8\u5b63",
+      "url": "https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU"
     },
     {
       "added_at": "2024-11-21 17:08:53",

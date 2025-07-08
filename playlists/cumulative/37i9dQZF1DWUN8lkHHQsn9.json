@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+ wybranych przez <a href=\"spotify:artist:36rjKqx3uW0369RwfIbGj2\">Marcina Maciejczaka</a>.",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:2kMcRNBgbx6szpteePrGew\">vgtbl.pl</a>, Franek Warzywa, M\u0142ody Budda",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -400,10 +400,36 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 194880,
       "name": "bia\u0142y szum",
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
+    },
+    {
+      "album": {
+        "name": "Biegn\u0119",
+        "url": "https://open.spotify.com/album/51J98zaqTmcrQJbUJyXobQ"
+      },
+      "artists": [
+        {
+          "name": "Rozumy",
+          "url": "https://open.spotify.com/artist/4szZ9k0wAPepIiNa1Q3c6k"
+        },
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        },
+        {
+          "name": "Bartosz Kurtok",
+          "url": "https://open.spotify.com/artist/7snzujd7LxQbq8bXKbFd02"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147024,
+      "name": "Biegn\u0119",
+      "url": "https://open.spotify.com/track/4IHd0PONSdMbf4xN0Bleft"
     },
     {
       "album": {
@@ -1220,7 +1246,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 194250,
       "name": "Dok\u0105d biegn\u0119",
       "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
@@ -1850,6 +1876,24 @@
       "duration_ms": 200000,
       "name": "glorious",
       "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
+    },
+    {
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/6QgtFrSCqbd7wAa2Pxogf7"
+      },
+      "artists": [
+        {
+          "name": "Maura Margol",
+          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224862,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/6GhNpUwQXxptNjDrolk58j"
     },
     {
       "album": {
@@ -2651,6 +2695,32 @@
     },
     {
       "album": {
+        "name": "Krasnoludki",
+        "url": "https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3"
+      },
+      "artists": [
+        {
+          "name": "vgtbl.pl",
+          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
+        },
+        {
+          "name": "Franek Warzywa",
+          "url": "https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9"
+        },
+        {
+          "name": "M\u0142ody Budda",
+          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147391,
+      "name": "Krasnoludki",
+      "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
+    },
+    {
+      "album": {
         "name": "Kreski",
         "url": "https://open.spotify.com/album/7zkNpcdsUm0490h20JpjcL"
       },
@@ -3092,7 +3162,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 195001,
       "name": "milcz\u0119",
       "url": "https://open.spotify.com/track/4nCNsCZt14oI1GodbRKcRo"
@@ -3348,6 +3418,24 @@
       "duration_ms": 142975,
       "name": "Nawzajem",
       "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
+    },
+    {
+      "album": {
+        "name": "Nie",
+        "url": "https://open.spotify.com/album/199hvcH6xuvllSrgTu3wYE"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Nie",
+      "url": "https://open.spotify.com/track/2QffcGEpWlwtZXcZ1zPtGW"
     },
     {
       "album": {
@@ -4003,6 +4091,40 @@
     },
     {
       "album": {
+        "name": "Pani Baudelaire (Maryolkah Remix) (feat. Zgonia, ruskie kotki & Pati patusiara)",
+        "url": "https://open.spotify.com/album/6aFikjxl82uRazcDv6jJHr"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "Maryolkah",
+          "url": "https://open.spotify.com/artist/1bKlNqbreTApAqJCvR1ghu"
+        },
+        {
+          "name": "Zgonia",
+          "url": "https://open.spotify.com/artist/5YuN4yVeTlqRa09jX4X81W"
+        },
+        {
+          "name": "ruskie kotki",
+          "url": "https://open.spotify.com/artist/2sgqhCWYTfaOZ2TYOU6qco"
+        },
+        {
+          "name": "Pati patusiara",
+          "url": "https://open.spotify.com/artist/1UdlpCSA5tmgmvcU8adYbt"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Pani Baudelaire (Maryolkah Remix) (feat. Zgonia, ruskie kotki & Pati patusiara)",
+      "url": "https://open.spotify.com/track/7bc3WVMcv3C5yz1uTYfOd4"
+    },
+    {
+      "album": {
         "name": "Parlez Vous Francais",
         "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
       },
@@ -4101,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "o smutnych ludziach",
+        "url": "https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157621,
+      "name": "piosenka o smutnych ludziach",
+      "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
+    },
+    {
+      "album": {
         "name": "Piruet i salto",
         "url": "https://open.spotify.com/album/0cmFgkbiLxbNS6ujkTRvXY"
       },
@@ -4184,7 +4324,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 169090,
       "name": "Po Szkole",
       "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
@@ -4616,7 +4756,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 183178,
       "name": "Przed siebie",
       "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
@@ -5100,7 +5240,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 179791,
       "name": "smutna planeta",
       "url": "https://open.spotify.com/track/66l8hZa57KPWu86MtgfToD"
@@ -5170,7 +5310,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 213921,
       "name": "Spina",
       "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
@@ -5487,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "Take my hand",
+        "url": "https://open.spotify.com/album/6FHxImBU0aGrbnfTQLWE7S"
+      },
+      "artists": [
+        {
+          "name": "Kamil Krupicz",
+          "url": "https://open.spotify.com/artist/3QcfQdNQHtd7pOXzRNdauj"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183275,
+      "name": "Take my hand",
+      "url": "https://open.spotify.com/track/3ko9dvOzKRTxfAkj5ftwzl"
+    },
+    {
+      "album": {
         "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
         "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
       },
@@ -5610,7 +5768,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 209788,
       "name": "tch\u00f3rz",
       "url": "https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2"
@@ -5894,6 +6052,32 @@
       "duration_ms": 187445,
       "name": "Uwaga (Id\u0119 do ciebie) feat. DOROTA",
       "url": "https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE"
+    },
+    {
+      "album": {
+        "name": "VEGETABLES WORLDWIDE",
+        "url": "https://open.spotify.com/album/68OkMu64uBiyOfQPpk0VOk"
+      },
+      "artists": [
+        {
+          "name": "vgtbl.pl",
+          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
+        },
+        {
+          "name": "Franek Warzywa",
+          "url": "https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9"
+        },
+        {
+          "name": "M\u0142ody Budda",
+          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "VEGETABLES WORLDWIDE",
+      "url": "https://open.spotify.com/track/7Hh6JjLAgiOYtQGM9lITab"
     },
     {
       "album": {
@@ -6459,6 +6643,24 @@
     },
     {
       "album": {
+        "name": "zosta\u0107 czy odej\u015b\u0107",
+        "url": "https://open.spotify.com/album/6srpiYFy6SdH1fLeJBCfGz"
+      },
+      "artists": [
+        {
+          "name": "Maura Margol",
+          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159137,
+      "name": "zosta\u0107 czy odej\u015b\u0107",
+      "url": "https://open.spotify.com/track/2F5ZDCSwEBx7CnV2njYOgz"
+    },
+    {
+      "album": {
         "name": "Zrobi\u0142am bardzo",
         "url": "https://open.spotify.com/album/5Aaf3cDS2I74Vaccn8I1A0"
       },
@@ -6528,7 +6730,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 230000,
       "name": "\u015alady",
       "url": "https://open.spotify.com/track/6ghfzdhPDc8GIrOZjZrfpt"

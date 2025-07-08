@@ -4,7 +4,7 @@
 
 > 
 
-7,417 songs - 19 day 6 hr 15 min
+7,422 songs - 19 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2483,6 +2483,7 @@
 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 | 2025-01-03 |  |
 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2025-01-03 |  |
 | [homeless n\*gga pop music](https://open.spotify.com/track/2PMtNWHFRoTmFapS8j9pXi) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 1:29 | 2025-01-03 |  |
+| [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 | 2025-07-07 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2024-12-07 |  |
 | [Honest](https://open.spotify.com/track/5ik5nMy8vdS2rXe7SAGt2K) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:20 | 2025-01-03 |  |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2025-04-21 |  |
@@ -4455,6 +4456,7 @@
 | [Prices](https://open.spotify.com/track/4YcWzLSnGqLjSCycuSMHnn) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:53 | 2025-01-03 |  |
 | [Pride](https://open.spotify.com/track/2tFw4gAStEynyUxCovzlT3) | [Akil Omari](https://open.spotify.com/artist/5WReamrYHCZjlVpoIfHlCC) | [Food Therapy Vol\. I](https://open.spotify.com/album/5I4UsYNTCZZASN0YQBvo9b) | 2:52 | 2024-12-05 |  |
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2025-01-03 |  |
+| [PRISM](https://open.spotify.com/track/6zGqaIqHgvWTzzlOE72xp6) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [PRISM](https://open.spotify.com/album/3sRwFHf12dfXuxhq5FUpMh) | 3:18 | 2025-07-07 |  |
 | [Prison Labor](https://open.spotify.com/track/6g3CfpQKSDG2QFPStFme1l) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Persona 5 Royal: Original Soundtrack](https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I) | 5:34 | 2025-04-20 |  |
 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 | 2025-01-03 |  |
 | [Problem](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:13 | 2024-12-05 |  |
@@ -6038,6 +6040,7 @@
 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2025-01-03 |  |
 | [Venetia](https://open.spotify.com/track/3BYIzNZ3t9lRQCACXSMLrT) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:08 | 2025-01-03 |  |
 | [VENGEANCE \| VENGEANCE \[FEAT\. JPEGMAFIA & ZILLAKAMI \| JPEGMAF1A + Z1LLAKAM1\]](https://open.spotify.com/track/4d8BSdhx6WT5GtTOWpv4rh) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 4:00 | 2025-01-03 |  |
+| [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2025-07-07 |  |
 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 | 2024-12-14 |  |
 | [Vernon Family](https://open.spotify.com/track/0p3ALbsb1K4i3r78IINq8r) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:00 | 2025-01-04 |  |
 | [Versace](https://open.spotify.com/track/5ymeWF4xUaphxJz6KdvYkm) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Pray for Paris](https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY) | 2:04 | 2025-01-15 |  |
@@ -6854,6 +6857,7 @@
 | [夕恋](https://open.spotify.com/track/2tV4NIccyNFyvqfdOz90L9) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [冬夜のマジック](https://open.spotify.com/album/19mrSO2lXmuyCuVcQmgsy2) | 3:16 | 2025-01-03 |  |
 | [夜にダンス](https://open.spotify.com/track/0RffFIV29Yb7vjGokb0e6q) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [夜にダンス](https://open.spotify.com/album/4D8nEEn15KMksKhv2Q6LtN) | 4:16 | 2025-01-03 |  |
 | [夜に溺れる](https://open.spotify.com/track/7H6aFaaWBEfrla5mqer8ss) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [夜に溺れる](https://open.spotify.com/album/0pLuX8nkvxtuIvuoEEKERA) | 3:52 | 2025-01-04 |  |
+| [夜に溺れる ～Re:Re:～](https://open.spotify.com/track/6tgB4gsvLspaZwPHnrDuLX) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [CRYSTAL.](https://open.spotify.com/album/4YVShtpzBMkOUUWHbUfNXQ) | 3:50 | 2025-07-07 |  |
 | [夜に駆ける](https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [夜に駆ける](https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23) | 4:21 | 2025-01-15 |  |
 | [夜を越える足音](https://open.spotify.com/track/2qzyRmRuv0yEJIjkaAM4PJ) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [夜を越える足音](https://open.spotify.com/album/0eAda36lcD3khZ6HgsPlVL) | 3:29 | 2025-01-04 |  |
 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 | 2024-12-07 |  |
@@ -6909,6 +6913,7 @@
 | [感電](https://open.spotify.com/track/6n6dWS9oA9ImlFnXuWTXOC) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/4DBYRaB42DDZjxyjOfTkzC) | 4:24 | 2025-01-03 |  |
 | [憂い桜](https://open.spotify.com/track/4P4Ocx5koM1TT8RHQ0Ssgv) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 4:36 | 2025-05-29 |  |
 | [憂鬱、日々](https://open.spotify.com/track/2bStCRwGmtmwgGVNpjvM5t) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [憂鬱、日々](https://open.spotify.com/album/2WPZURR0bSoBf3eCKKkAUf) | 4:48 | 2025-01-04 |  |
+| [憂鬱、日々 ～Re:set～](https://open.spotify.com/track/15wwNskmEKp1MEIdoKOxL6) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [CRYSTAL.](https://open.spotify.com/album/4YVShtpzBMkOUUWHbUfNXQ) | 4:50 | 2025-07-07 |  |
 | [憧れのセーシェル諸島](https://open.spotify.com/track/7e3BbVSFHrB6aa96DI51B3) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [SEYCHELLES](https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g) | 6:08 | 2025-01-04 |  |
 | [我会等](https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [我会等](https://open.spotify.com/album/3113SgaBiac1ta3gtRnyYk) | 3:15 | 2025-04-10 |  |
 | [打上花火](https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [THANK YOU BLUE](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql) | 4:49 | 2024-12-27 |  |

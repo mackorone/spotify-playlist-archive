@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-499 songs - 21 hr 45 min
+502 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2023-03-10 | 2024-10-08 |
 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-08 |  |
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2023-03-10 |  |
+| [Highland](https://open.spotify.com/track/3LfTQeunHVYq4yatmvkuuC) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Highland](https://open.spotify.com/album/26aPY0RbEgpgaf8zMpPTHA) | 2:47 | 2025-07-07 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2023-03-10 |  |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2023-03-10 | 2024-03-26 |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2023-03-10 |  |
@@ -281,6 +282,7 @@
 | [Moment of Silence](https://open.spotify.com/track/6iJNQx3fdBJYnlzukRoTZU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 3:31 | 2023-03-10 | 2024-04-04 |
 | [Monégasque](https://open.spotify.com/track/19LoSwqPFLGk4zrHJwhCI8) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Monégasque](https://open.spotify.com/album/3yGq5BCzGcDIMNfQO0ijqV) | 3:03 | 2023-03-10 | 2024-11-13 |
 | [Mourning Tree](https://open.spotify.com/track/58eofCGvNsWcSMxnjYZot7) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Mourning Tree](https://open.spotify.com/album/4fR5a9kZrhK34CpVDFD3WC) | 2:14 | 2023-03-10 |  |
+| [Moving](https://open.spotify.com/track/4EKiAvYFtffr5BaRk7Uf49) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Moving](https://open.spotify.com/album/5mMbhQ1Ok2Y0NEcaACeT2t) | 2:11 | 2025-07-07 |  |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2023-03-10 | 2023-10-11 |
 | [Mullaghmore](https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Mullaghmore](https://open.spotify.com/album/1u70tWIRZIlF133Z83IXfr) | 2:02 | 2023-03-10 |  |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2023-03-10 | 2024-04-04 |
@@ -334,7 +336,7 @@
 | [Prenzlauer Berg](https://open.spotify.com/track/0e3y5hjse0J123DuRwJPbd) | [Patricia Aveline](https://open.spotify.com/artist/0yUDeJSQPp9jciPAg9yoFg) | [Prenzlauer Berg](https://open.spotify.com/album/31IU85yqqwUcmLtfXYx1jv) | 2:12 | 2023-03-10 | 2024-03-26 |
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2023-03-10 | 2024-03-26 |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2023-03-10 |  |
-| [Primrose](https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Primrose](https://open.spotify.com/album/7GEFN88vNtaOkNvgM1h207) | 2:23 | 2024-09-24 |  |
+| [Primrose](https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Primrose](https://open.spotify.com/album/7GEFN88vNtaOkNvgM1h207) | 2:23 | 2024-09-24 | 2025-07-08 |
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2023-03-10 |  |
 | [Primrose Season](https://open.spotify.com/track/7J30n95D8gL4YLiuQKQZ9d) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Primrose Season](https://open.spotify.com/album/2MHhCclPZcBT0Sxv9ho322) | 2:38 | 2023-10-10 |  |
 | [Promenade](https://open.spotify.com/track/5pNtFAPRtX6FWcTTJIgt7k) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [Promenade](https://open.spotify.com/album/2Aamlg8UdJK3C1rAs4cuWq) | 2:10 | 2023-03-10 |  |
@@ -428,6 +430,7 @@
 | [The Pond](https://open.spotify.com/track/2fJLNEDPFM38gcXeY58WNa) | [Mads Hellmuth](https://open.spotify.com/artist/4Msoax7rmMKTsCwJKtGUda) | [Glass](https://open.spotify.com/album/15EG8tQC79eJTpMLkZaZGz) | 3:14 | 2023-03-10 | 2024-03-26 |
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2023-03-10 | 2024-10-16 |
 | [The Reason Why](https://open.spotify.com/track/0C14i4tdhEb5mor8aia7ix) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [The Reason Why](https://open.spotify.com/album/47oAYFVTExyqWFPC3aW7ye) | 2:13 | 2023-03-10 | 2024-04-04 |
+| [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 | 2025-07-07 |  |
 | [The Right Time](https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ) | [Nick Vereshchak](https://open.spotify.com/artist/7u4DRtXXgLlr8Nf6b8vA56) | [Recollections Vol\. 8](https://open.spotify.com/album/6l7TZVCSf4RYOJM1YlslHD) | 1:48 | 2023-03-10 | 2023-10-09 |
 | [The Shades of Autumn](https://open.spotify.com/track/7blT4n9pSyxii6V21KIJBB) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [The Shades of Autumn](https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh) | 2:08 | 2024-11-05 |  |
 | [The Shadow Of The Wind](https://open.spotify.com/track/6FTgfZZTT8Z60nMoI5efst) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Helligvaer](https://open.spotify.com/album/29Xn4EC2TtRXPn9RYp58Ao) | 2:34 | 2023-03-10 |  |

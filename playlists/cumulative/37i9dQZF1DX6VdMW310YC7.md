@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,787 songs - 5 day 1 hr 48 min
+1,788 songs - 5 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-14 |  |
 | [Canopée des Cîmes](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Canopée des Cîmes](https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u) | 4:56 | 2022-07-01 | 2023-09-09 |
 | [Can’t Stop Loving You \- Poolside Mix](https://open.spotify.com/track/31jNPoOdc4AXUJRl4ABbfH) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [Can’t Stop Loving You \(Poolside Mix\)](https://open.spotify.com/album/10jta1EMIwQXiGbWFQ5yjW) | 3:01 | 2020-05-22 | 2021-03-06 |
+| [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 | 2025-07-04 |  |
 | [Carry Me Through](https://open.spotify.com/track/4nxcPHATXFnWWsurlkB91u) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [24, summer](https://open.spotify.com/album/3n4bScXJkjZLPeSAg4C1YU) | 3:27 | 2024-09-20 | 2024-11-16 |
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-07 | 2022-11-12 |
 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 | 2023-09-08 | 2023-12-02 |
@@ -680,7 +681,7 @@
 | [High On Life](https://open.spotify.com/track/7sPTC8zYAKiKAHUkJtq9YC) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [High On Life](https://open.spotify.com/album/1OfW4pkj3JPFUFbe2cH6Du) | 3:52 | 2020-05-22 | 2020-07-03 |
 | [High On You](https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [High On You](https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt) | 3:06 | 2023-02-17 | 2024-03-02 |
 | [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 | 2021-10-22 | 2023-08-21 |
-| [Higher \- Rinzen Remix](https://open.spotify.com/track/33zxsZ9LzcTMspBVI5i3vY) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Childish Remixes II](https://open.spotify.com/album/5kpUhgI9Ry6t29cwdvrTk5) | 5:55 | 2025-05-09 |  |
+| [Higher \- Rinzen Remix](https://open.spotify.com/track/33zxsZ9LzcTMspBVI5i3vY) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Childish Remixes II](https://open.spotify.com/album/5kpUhgI9Ry6t29cwdvrTk5) | 5:55 | 2025-05-09 | 2025-07-08 |
 | [Higher Than Nirvana](https://open.spotify.com/track/06IzQHbqze5gZNkpZdndg9) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Higher Than Nirvana](https://open.spotify.com/album/7wjc6spzbsEeF5VRQKuB25) | 3:19 | 2022-12-16 | 2022-12-29 |
 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 | 2024-02-16 | 2025-03-22 |
 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 | 2022-01-21 | 2022-02-12 |

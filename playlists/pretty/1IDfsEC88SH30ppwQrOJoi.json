@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14305,
+  "num_followers": 14304,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKZ6Bcebv8tBSi5gaZ0+yLNS9pQL06",
+  "snapshot_id": "AAAKa4qgjg0GIbnYa4sRsZd7NJP7vtWr",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -53,20 +53,24 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-11-13 15:00:08",
+      "added_at": "2025-06-27 15:20:03",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7eZtyBYCVpNAh6nRVqWqIu"
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/2uUkm6fqWs48lfnTxqimls"
       },
       "artists": [
         {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        },
+        {
+          "name": "Scott Forshaw",
+          "url": "https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy"
         }
       ],
-      "duration_ms": 177881,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3sfkfL1jjKMSWbPgDr4Bu1"
+      "duration_ms": 182769,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/4v6x9MA7KKWs1m3WXsjFey"
     },
     {
       "added_at": "2024-10-08 07:34:17",
@@ -131,6 +135,22 @@
       "duration_ms": 211120,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P"
+    },
+    {
+      "added_at": "2024-11-13 15:00:08",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7eZtyBYCVpNAh6nRVqWqIu"
+      },
+      "artists": [
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        }
+      ],
+      "duration_ms": 177881,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3sfkfL1jjKMSWbPgDr4Bu1"
     },
     {
       "added_at": "2024-04-26 12:30:02",
@@ -2861,24 +2881,44 @@
       "url": "https://open.spotify.com/track/7s5ARfWfo6oLj1fbA9q0dD"
     },
     {
-      "added_at": "2025-06-27 15:20:03",
+      "added_at": "2025-07-07 14:13:54",
       "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/2uUkm6fqWs48lfnTxqimls"
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/0FDd0q6toOWb70qbZmrndb"
       },
       "artists": [
         {
-          "name": "Hollaphonic",
-          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
-        },
-        {
-          "name": "Scott Forshaw",
-          "url": "https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 182769,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/4v6x9MA7KKWs1m3WXsjFey"
+      "duration_ms": 186904,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/3IKKcnWvlO5Ymj5p5Poo50"
+    },
+    {
+      "added_at": "2025-07-07 14:17:22",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V"
+      },
+      "artists": [
+        {
+          "name": "Revival House Project",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+        },
+        {
+          "name": "Bryan Chambers",
+          "url": "https://open.spotify.com/artist/4tBgSJGmUWLMpd5vUFHoUg"
+        },
+        {
+          "name": "GeO Gospel Choir",
+          "url": "https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/6Nx5hN5hAVLiz4es7RZh0C"
     }
   ],
   "unique_name": "Ultra Club Hits",

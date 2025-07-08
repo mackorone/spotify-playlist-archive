@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,363 songs - 19 day 3 hr 16 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,368 songs - 19 day 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7371,5 +7371,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7361 | [Pimple](https://open.spotify.com/track/1ZPwN2BYeKssfv4avkzyKI) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:40 |
 | 7362 | [MAGO](https://open.spotify.com/track/49EywdY1mHFj27OY7U8Y2d) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6kfPGWOSabPMdO2AoSDeXY) | 3:19 |
 | 7363 | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 |
+| 7364 | [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 |
+| 7365 | [PRISM](https://open.spotify.com/track/6zGqaIqHgvWTzzlOE72xp6) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [PRISM](https://open.spotify.com/album/3sRwFHf12dfXuxhq5FUpMh) | 3:18 |
+| 7366 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
+| 7367 | [夜に溺れる ～Re:Re:～](https://open.spotify.com/track/6tgB4gsvLspaZwPHnrDuLX) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [CRYSTAL.](https://open.spotify.com/album/4YVShtpzBMkOUUWHbUfNXQ) | 3:50 |
+| 7368 | [憂鬱、日々 ～Re:set～](https://open.spotify.com/track/15wwNskmEKp1MEIdoKOxL6) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [CRYSTAL.](https://open.spotify.com/album/4YVShtpzBMkOUUWHbUfNXQ) | 4:50 |
 
-Snapshot ID: `AAAHfK/mLfGj9i0/rasv+M6k84sBgq3J`
+Snapshot ID: `AAAHgZDEU/NdKhEnj8iLs/huqVwTijTk`

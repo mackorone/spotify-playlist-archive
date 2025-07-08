@@ -2,7 +2,7 @@
 
 ### [El Barrio MP3](https://open.spotify.com/playlist/37i9dQZF1DXbH5bzpmFWXy)
 
-> Dos estilos, dos sonidos, un mismo origen: El Barrio\. CHOCA en portada.
+> Dos estilos, dos sonidos, un mismo origen: El Barrio\. El Malilla en portada.
 
 569 songs - 1 day 6 hr 26 min
 

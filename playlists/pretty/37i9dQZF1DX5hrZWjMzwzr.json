@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10877,
+  "num_followers": 10876,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "DRUGI RAZ",
-        "url": "https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm"
-      },
-      "artists": [
-        {
-          "name": "Qry",
-          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
-        },
-        {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
-        }
-      ],
-      "duration_ms": 127692,
-      "name": "DRUGI RAZ",
-      "url": "https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "DresKot",
         "url": "https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 179200,
       "name": "DresKot",
       "url": "https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "DRUGI RAZ",
+        "url": "https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm"
+      },
+      "artists": [
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        },
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "duration_ms": 127692,
+      "name": "DRUGI RAZ",
+      "url": "https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "depeche_mood",
-        "url": "https://open.spotify.com/album/1qkhonUkoj7xUdTELEu2yi"
-      },
-      "artists": [
-        {
-          "name": "Slums Attack",
-          "url": "https://open.spotify.com/artist/5G2bin17kewcOvJbA5MHWx"
-        },
-        {
-          "name": "Peja",
-          "url": "https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59"
-        },
-        {
-          "name": "Dj Decks",
-          "url": "https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "depeche_mood",
-      "url": "https://open.spotify.com/track/2OyVBfYhZUFyUgGXl5xxCy"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "TREBUSZ",
         "url": "https://open.spotify.com/album/3AEVJWwT4m2TIzg6MjcsX4"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 200040,
       "name": "TREBUSZ: RZUCAM KAMIENIE",
       "url": "https://open.spotify.com/track/7802miaqccUHlUH659znra"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "depeche_mood",
+        "url": "https://open.spotify.com/album/1qkhonUkoj7xUdTELEu2yi"
+      },
+      "artists": [
+        {
+          "name": "Slums Attack",
+          "url": "https://open.spotify.com/artist/5G2bin17kewcOvJbA5MHWx"
+        },
+        {
+          "name": "Peja",
+          "url": "https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59"
+        },
+        {
+          "name": "Dj Decks",
+          "url": "https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "depeche_mood",
+      "url": "https://open.spotify.com/track/2OyVBfYhZUFyUgGXl5xxCy"
     },
     {
       "added_at": "2025-04-24 21:35:46",

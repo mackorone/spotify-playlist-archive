@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "Bay\u0131l\u0131yorum Sana",
+        "url": "https://open.spotify.com/album/32gq1d7gGgUIXPPj2WHICf"
+      },
+      "artists": [
+        {
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/5sR1YwTCIXPjYy8WoTv2jo"
+        },
+        {
+          "name": "Esin Kaya",
+          "url": "https://open.spotify.com/artist/1uX30MY8BahKmbqQGI4aLA"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179399,
+      "name": "Bay\u0131l\u0131yorum Sana",
+      "url": "https://open.spotify.com/track/3k2xuHNxGDtiuI6rEVd3CT"
+    },
+    {
+      "album": {
         "name": "Baz\u0131 Ger\u00e7ekler",
         "url": "https://open.spotify.com/album/5Z0phY1PHicvQPrAG0gpvD"
       },
@@ -960,7 +982,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 128640,
       "name": "bi kere \u00f6pse b\u00fck\u00fcl\u00fcr uzay",
       "url": "https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb"

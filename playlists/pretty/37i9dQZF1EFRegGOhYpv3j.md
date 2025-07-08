@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 72 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 |
 | 73 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 |
 | 74 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
-| 75 | [Turn It On](https://open.spotify.com/track/1pLV9JBBz6TEPKgs1QPO7p) | [Big Radio Lovers](https://open.spotify.com/artist/6ysaqb07lMZJ6Ti3Lon5Tn) | [Turn It On](https://open.spotify.com/album/2fCu44OszPLrhSa3AmZv16) | 5:36 |
-| 76 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
+| 75 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
+| 76 | [Turn It On](https://open.spotify.com/track/1pLV9JBBz6TEPKgs1QPO7p) | [Big Radio Lovers](https://open.spotify.com/artist/6ysaqb07lMZJ6Ti3Lon5Tn) | [Turn It On](https://open.spotify.com/album/2fCu44OszPLrhSa3AmZv16) | 5:36 |
 
-Snapshot ID: `Ab2FUgAAAABcVwURyg+BJ5bq7Oe6h1vQ`
+Snapshot ID: `Ab2K6AAAAABGdqKBKwaJHYk/TV++QSSQ`

@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 158720,
       "name": "All Over This World",
       "url": "https://open.spotify.com/track/41en8GGsFVRqSrqSGNJPqJ"
@@ -544,6 +544,24 @@
       "duration_ms": 160363,
       "name": "Family Prayer",
       "url": "https://open.spotify.com/track/4m1zv5LLT3fnSCdBsPHTBC"
+    },
+    {
+      "album": {
+        "name": "Four Classic Albums (Gospel Train / The Gospel Truth (1959) / Sister Rosetta Tharpe / The Gospel Truth - All New! Her Greatest Gospel Hits (1962))",
+        "url": "https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115733,
+      "name": "Family Prayer (Sister Rosetta Tharpe) - 2025 Digitally Remastered",
+      "url": "https://open.spotify.com/track/7HZylElnh1nm03L7QCPbtM"
     },
     {
       "album": {
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 160960,
       "name": "I Want Jesus To Walk Around My Bedside",
       "url": "https://open.spotify.com/track/2A1IQXAhJrmdbTTtvEGRoi"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 189426,
       "name": "The Lord's Prayer (The Gospel Truth (1959)) - 2025 Digitally Remastered",
       "url": "https://open.spotify.com/track/3XZNrTxpFdtAGh6C6Othp9"

@@ -2377,6 +2377,24 @@
     },
     {
       "album": {
+        "name": "Because It's Raining",
+        "url": "https://open.spotify.com/album/6XUJibvHZxh8N9YlAgK5YO"
+      },
+      "artists": [
+        {
+          "name": "LEE HONG GI",
+          "url": "https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "Because It's Raining",
+      "url": "https://open.spotify.com/track/45wtKqTsplQDFyBd7lNgpu"
+    },
+    {
+      "album": {
         "name": "Because of love",
         "url": "https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X"
       },
@@ -17530,7 +17548,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 249040,
       "name": "Our Memories (with JONGHO)",
       "url": "https://open.spotify.com/track/0vIYoCVXGfuZX0xTo4w0jG"

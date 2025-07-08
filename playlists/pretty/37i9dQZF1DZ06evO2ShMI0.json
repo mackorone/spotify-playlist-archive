@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 202190,
+  "num_followers": 202218,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAAB95GGupIBlwTt/yV7RVV2y",
+  "snapshot_id": "aGm8gAAAAABmKwxskORyaV6p/KyKjH4h",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Mejor No Hablemos De Amor",
-      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
+      "duration_ms": 215806,
+      "name": "Era Un Angel",
+      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Igual Que Ayer",
-        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 215806,
-      "name": "Era Un Angel",
-      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 189053,
       "name": "El Ataque de las Chicas Cocodrilo (En Vivo)",
       "url": "https://open.spotify.com/track/7qQTnO5dsxAn6iNDqC7w9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Mejor No Hablemos De Amor",
+      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
     },
     {
       "added_at": null,

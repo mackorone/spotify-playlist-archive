@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,328 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,743 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 5 | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/track/44O26Gv1wQrlUj14PpTolM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de) | 4:07 |
 | 6 | [Akhiyaan Gulaab](https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:51 |
 | 7 | [Jugraafiya \- From "Super 30"](https://open.spotify.com/track/2TYxwTH2HhL6OLVkZlsDLV) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jugraafiya \(From "Super 30"\)](https://open.spotify.com/album/3D4OuBfCaBO8FnY5RiZVIj) | 4:34 |
-| 8 | [Baari Baari](https://open.spotify.com/track/3JzOgUOqUKgkWwlb7rpg1J) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Baari Baari](https://open.spotify.com/album/1O4Niv4qNjk0c5nAvklHQb) | 2:31 |
+| 8 | [Pehla Tu Duja Tu \(From "Son Of Sardaar 2"\)](https://open.spotify.com/track/7ifZHMfYIE9yL5dBo8qqHF) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Pehla Tu Duja Tu \(From "Son Of Sardaar 2"\)](https://open.spotify.com/album/2RO8nGJAwEb07kdoMZIWl9) | 3:51 |
 | 9 | [Naina Da Kya Kasoor](https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h) | 3:30 |
 | 10 | [Dil Banjaara \- From "Kaalidhar Laapata"](https://open.spotify.com/track/7ef4CiVjsaAi6YKIQSrQhR) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Geet Sagar](https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce) | [Kaalidhar Laapata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/48IZ9vTK3JTOjZ5wZOMOpf) | 3:38 |
 | 11 | [Matargashti](https://open.spotify.com/track/5GeBgck1MU2tlIkMpsn8uT) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 74 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 75 | [Ek Main Aur Ekk Tu](https://open.spotify.com/track/4UDFr3P1lRS6seQfmzCjz7) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:21 |
 
-Snapshot ID: `aFt36QAAAACoW32hM2uiCgDw1NUn//m2`
+Snapshot ID: `aGtgOgAAAAB/lhH3N0xDf4/C78+xjfOM`

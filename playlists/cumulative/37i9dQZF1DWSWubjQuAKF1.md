@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Pośnik
 
-509 songs - 1 day 0 hr 41 min
+510 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [I tell everyone about you](https://open.spotify.com/track/7BmXvGEFDk8uPudvlJPCcB) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [I tell everyone about you](https://open.spotify.com/album/5OAjZsMKliYqXaKsTZZnXf) | 3:00 | 2024-06-28 | 2024-08-23 |
 | [I że czuje się sam](https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [I że czuje się sam](https://open.spotify.com/album/0q1hihxl4GD0e0vY9bext6) | 3:04 | 2024-06-28 | 2024-07-12 |
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-23 | 2025-03-21 |
+| [Idź z Nią](https://open.spotify.com/track/7gj5UXDNZnapnKlJKQrXjb) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Idź z Nią](https://open.spotify.com/album/75MkU3vckLtBdR4drRBqdM) | 2:41 | 2025-07-03 |  |
 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-02-20 | 2025-04-25 |
 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 | 2025-04-24 |  |
 | [IPhone 6s](https://open.spotify.com/track/1NT8bf6kXaGfwp0iz4A48d) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [IPhone 6s](https://open.spotify.com/album/5OR6o7nR3fT2peyT2uamY2) | 3:22 | 2025-05-01 | 2025-07-04 |
@@ -395,7 +396,7 @@
 | [SELFISH](https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [SELFISH](https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2) | 2:31 | 2024-07-04 | 2024-08-23 |
 | [Sen, który się powtarza](https://open.spotify.com/track/5TWLguF47GizHYaNGJVSCu) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Sen, który się powtarza](https://open.spotify.com/album/5pGlN5xkGn2rR2VV2h843W) | 2:31 | 2025-05-01 | 2025-05-11 |
 | [Sentymenty](https://open.spotify.com/track/3l2Ktx9BaFMpu5sKedn4ji) | [Martyna Rempała](https://open.spotify.com/artist/3iL4ECdi3TcAQXI08e4BUt) | [Droga do marzeń](https://open.spotify.com/album/6rRYbzotYUDzK5VAfuCT4m) | 2:30 | 2024-11-28 | 2025-01-24 |
-| [Serca na Straty](https://open.spotify.com/track/1IlxzbWGRXRgGcosunZHWc) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Serca na Straty](https://open.spotify.com/album/6RuEVj7XckAOSXRVFqUoZr) | 3:04 | 2025-07-03 |  |
+| [Serca na Straty](https://open.spotify.com/track/1IlxzbWGRXRgGcosunZHWc) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Serca na Straty](https://open.spotify.com/album/6RuEVj7XckAOSXRVFqUoZr) | 3:04 | 2025-07-03 | 2025-07-08 |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-23 | 2025-02-28 |
 | [side eye](https://open.spotify.com/track/2ZfmRSYUAbHE2twToeQgdV) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [side eye](https://open.spotify.com/album/5ZDhhwbT8AGih1jLwZzh9d) | 1:51 | 2024-06-28 | 2024-09-14 |
 | [SILVERMAN](https://open.spotify.com/track/6v4MFQKr4RmYQTcYxvFCvJ) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [BABYGIRL](https://open.spotify.com/album/3IfGQSWk5DllVaOHSggn1Q) | 2:39 | 2024-08-22 | 2024-11-08 |

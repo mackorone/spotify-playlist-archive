@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 155 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 42 | [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 |
 | 43 | [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 |
 | 44 | [Leve](https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Leve](https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER) | 2:44 |
-| 45 | [THANK GOD](https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb) | [Sa\_G](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [THANK GOD](https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM) | 2:42 |
+| 45 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
 | 46 | [Wine](https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Wine](https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n) | 2:43 |
-| 47 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
+| 47 | [THANK GOD](https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb) | [Sa\_G](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [THANK GOD](https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM) | 2:42 |
 | 48 | [Boo \(feat\. 2J\)](https://open.spotify.com/track/2pLA0Qflc1eNmQTR6DXnjv) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw) | [TT2](https://open.spotify.com/album/5fnfFKXZksovQGOYjiS51w) | 2:45 |
 | 49 | [Bad B\*\*\*\* \(feat\. Arif Murakami\)](https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Bad B\*\*\*\* \(feat\. Arif Murakami\)](https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q) | 2:44 |
 | 50 | [Beverly Hills](https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Beverly Hills](https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5) | 3:08 |

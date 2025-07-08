@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Blurred lights",
+        "url": "https://open.spotify.com/album/1W4YY6ZhrSKi3BBSTMYtta"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tears",
+          "url": "https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Blurred lights",
+      "url": "https://open.spotify.com/track/6HMzmDWbLeo39Jdr7aP1dV"
+    },
+    {
+      "album": {
         "name": "Sound of Silence",
         "url": "https://open.spotify.com/album/6VCKrEWH8rwIzOJdry7FRR"
       },

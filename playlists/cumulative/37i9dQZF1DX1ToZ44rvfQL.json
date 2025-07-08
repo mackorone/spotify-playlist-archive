@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398800,
+      "name": "El Arriero",
+      "url": "https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx"
+    },
+    {
+      "album": {
         "name": "En Vivo Gran Rex",
         "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
       },
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 192240,
       "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
       "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"

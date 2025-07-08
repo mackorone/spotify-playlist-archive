@@ -1903,6 +1903,28 @@
     },
     {
       "album": {
+        "name": "EXODUS",
+        "url": "https://open.spotify.com/album/7FsW7ddJp00smOK5adJH2E"
+      },
+      "artists": [
+        {
+          "name": "PH41",
+          "url": "https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU"
+        },
+        {
+          "name": "Clouchae",
+          "url": "https://open.spotify.com/artist/05VV7hjJM9ZDRtqwW5RoRt"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261928,
+      "name": "EXODUS",
+      "url": "https://open.spotify.com/track/2jfBDPEZ4zZRnm6u44chj0"
+    },
+    {
+      "album": {
         "name": "FAG2A",
         "url": "https://open.spotify.com/album/7tRGdl7s0qbaWAi47qeZjQ"
       },
@@ -2217,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "VISION INFINIE",
+        "url": "https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg"
+      },
+      "artists": [
+        {
+          "name": "LUCA MUS!C",
+          "url": "https://open.spotify.com/artist/1pmog6ubPtj97LYSJuwOIb"
+        },
+        {
+          "name": "yuubthegoat",
+          "url": "https://open.spotify.com/artist/0tcF4m3aeLFcdtwW5Vk5zI"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "God bless",
+      "url": "https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE"
+    },
+    {
+      "album": {
         "name": "GOLI KEEF",
         "url": "https://open.spotify.com/album/3hsD6eDgWKGNELPCekCl1f"
       },
@@ -2232,7 +2276,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 170270,
       "name": "GOLI KEEF",
       "url": "https://open.spotify.com/track/6ODpRk4WvS0BjprjMSrVkn"
@@ -4658,7 +4702,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 220216,
       "name": "Nafas",
       "url": "https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx"

@@ -4,12 +4,12 @@
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 4 min
+71 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Veces Quiero](https://open.spotify.com/track/3IDyqKsdCXBmQRuIF3UDyW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:21 | 2023-12-30 |  |
-| [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 | 2023-12-30 |  |
+| [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 | 2023-12-30 | 2025-07-08 |
 | [Ahora Que Puedo](https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:49 | 2023-12-30 |  |
 | [Amo](https://open.spotify.com/track/35tBKiHDshl2BmQvosIy9f) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nuff Ced 25](https://open.spotify.com/artist/6LMCEgXUcVY8nZDvZe7VHk) | [Amo](https://open.spotify.com/album/7plegPwMsILtWw0bbV602l) | 2:54 | 2023-12-30 | 2024-02-18 |
 | [Bife de Chorizo](https://open.spotify.com/track/6tiKzF6TGrImRyUhkdKM7J) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:02 | 2023-12-30 | 2024-09-20 |
@@ -39,6 +39,7 @@
 | [La Vida Es Solo Una](https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:04 | 2023-12-30 |  |
 | [Las Cinco Rosas](https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:52 | 2023-12-30 |  |
 | [Listen Up](https://open.spotify.com/track/7KAkj1lp5elDoWvENK7pcc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Listen Up](https://open.spotify.com/album/4PwTjGhgDJLfpTENMjxy76) | 2:29 | 2023-12-30 |  |
+| [Manjit 2](https://open.spotify.com/track/3uGjLmxCseITNPCd4pxnGy) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 1:04 | 2025-07-08 |  |
 | [Melancólicos](https://open.spotify.com/track/08oK0PA2snKyuURSJq8cnP) | [Abram](https://open.spotify.com/artist/77JcIMJmNJpBchsYdXyeae), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [SIRIAN](https://open.spotify.com/artist/2VdT0FWo6kAW0UdNGSB9eF) | [Melancólicos](https://open.spotify.com/album/4CkNFb3361xzBBnlCh6TY0) | 4:00 | 2023-12-30 | 2024-06-18 |
 | [Mestizo](https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 2:28 | 2023-12-30 |  |
 | [Mi Castigo](https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:01 | 2023-12-30 |  |

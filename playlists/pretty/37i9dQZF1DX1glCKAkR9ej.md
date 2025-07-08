@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1glCKAkR9ej.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Plaqueboymax
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,905 likes - 34 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,963 likes - 34 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 육성재\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-607 songs - 1 day 15 hr 41 min
+608 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Hey Steve](https://open.spotify.com/track/1OmD2liXaVZmE0Gqg1fSzg) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 1:31 | 2023-02-15 | 2023-03-28 |
 | [Hide And Seek](https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hide And Seek \(Full Version\)](https://open.spotify.com/album/0Twooiwlv1TjdY9Fe8VfsP) | 2:57 | 2021-12-20 | 2022-04-17 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-24 | 2022-04-19 |
-| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-04 |  |
+| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-04 | 2025-07-08 |
 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2024-02-08 | 2024-04-24 |
 | [Homesick](https://open.spotify.com/track/7bcfyB9jvnfkgLpIjZjL4Q) | [SOULSTAR](https://open.spotify.com/artist/354y0OnCO8WxPCaCMtbVSo) | [Who We Are \#3](https://open.spotify.com/album/2PrbCgHyAZi7h2sc6cNCWu) | 3:40 | 2021-12-27 | 2022-07-14 |
 | [Honest](https://open.spotify.com/track/6DzDRbPXIOajCimqmqSzfm) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:54 | 2022-03-24 | 2022-04-19 |
@@ -482,6 +482,7 @@
 | [The Moment](https://open.spotify.com/track/7JAtLgcpxB3wqAK2u9OAzO) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [The Moment](https://open.spotify.com/album/1Hbf8vmmYBJnE22paMisFy) | 3:51 | 2021-12-20 | 2022-04-14 |
 | [The Only Star](https://open.spotify.com/track/4fNzkjJzuV3By2FRrl38yE) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Myself](https://open.spotify.com/album/2Ew3wpXdMGdw5FYVNQvm6L) | 3:52 | 2022-03-29 | 2022-04-17 |
 | [The opposite side](https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Crash Course in Romance OST Part 3](https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH) | 4:10 | 2023-02-15 | 2023-05-13 |
+| [The Reason](https://open.spotify.com/track/5g2tSqR4UoX4jZKI1p1r9e) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [The Reason](https://open.spotify.com/album/7BRaMYu6sVXyxhS5vXMe54) | 4:56 | 2025-07-07 |  |
 | [The Snowman](https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg) | 3:56 | 2021-12-20 | 2022-07-27 |
 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 | 2022-07-25 | 2024-04-19 |
 | [The star](https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [Petra](https://open.spotify.com/artist/3VWH0jNShIR12uJ55lchbw) | [The star](https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg) | 4:03 | 2022-12-27 | 2023-01-11 |

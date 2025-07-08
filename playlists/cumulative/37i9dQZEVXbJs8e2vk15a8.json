@@ -22228,7 +22228,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
@@ -32932,7 +32932,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -37746,7 +37746,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 86953,
       "name": "Montagem Bandido",
       "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
@@ -43688,7 +43688,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 130460,
       "name": "Paquepu",
       "url": "https://open.spotify.com/track/2ASF63AyFBZLeULV783p7I"
@@ -55313,6 +55313,28 @@
     },
     {
       "album": {
+        "name": "Ta Ta Ta",
+        "url": "https://open.spotify.com/album/4OoOPmGSbMLkq1lT8K6gfn"
+      },
+      "artists": [
+        {
+          "name": "Santiago Avenda\u00f1o",
+          "url": "https://open.spotify.com/artist/1v7B3UBtMLIr9bPCtFONQc"
+        },
+        {
+          "name": "Dj Tati",
+          "url": "https://open.spotify.com/artist/4DEKMu4HqyX7lJxxRNzKJP"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Ta Ta Ta",
+      "url": "https://open.spotify.com/track/0DrBIUc9IfKGwUgJMi91ts"
+    },
+    {
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -56940,7 +56962,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"

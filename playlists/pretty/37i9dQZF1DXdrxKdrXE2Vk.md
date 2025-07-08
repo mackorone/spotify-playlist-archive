@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Sons of Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,872 likes - 75 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,925 likes - 75 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

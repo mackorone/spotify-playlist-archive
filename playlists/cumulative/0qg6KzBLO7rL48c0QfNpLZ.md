@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,131 songs - 2 day 2 hr 0 min
+1,133 songs - 2 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Deja Vu](https://open.spotify.com/track/4iokj4zfRh1xSUskfIxelx) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX) | [Deja Vu](https://open.spotify.com/album/501XsBMUAkb9i7rlMnwpSH) | 2:06 | 2025-01-17 | 2025-02-18 |
 | [Deja Vu](https://open.spotify.com/track/2rYmLVCRao7S4l3NQ5rPRT) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Deja Vu](https://open.spotify.com/album/43zqCD8k4E19ZvCW7cyIUh) | 2:13 | 2025-01-17 |  |
 | [Delilah](https://open.spotify.com/track/6BDyn04oAhaT9jof1FSITO) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Merzost](https://open.spotify.com/artist/3fqgA6t6v53Ni8BJNDyQd2), [Jon Nelson](https://open.spotify.com/artist/7xMCtIUuXgjNjccvaFotD4) | [Delilah](https://open.spotify.com/album/3sQoRiW52oeCysgH2bMk5M) | 2:54 | 2025-05-02 |  |
+| [Delirium](https://open.spotify.com/track/3MLInL0BVj4VL4DmXIlSlm) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Delirium](https://open.spotify.com/album/6KWjv3K3QFAml66P31zSNn) | 3:08 | 2025-07-08 |  |
 | [Demons](https://open.spotify.com/track/3XZgGibMl5eRDtiPF9NTat) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Demons](https://open.spotify.com/album/4YRmbge5hoO1aJfasvFgQ5) | 2:25 | 2024-04-12 | 2024-05-03 |
 | [depend on me](https://open.spotify.com/track/1FOkBMTXq8gwioTe1VuOMn) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [depend on me](https://open.spotify.com/album/4oliwdmuFy29ek13XsuORC) | 2:25 | 2024-11-01 | 2024-12-07 |
 | [Devoted](https://open.spotify.com/track/1o9cCQFqDoRtmqjkLvBQWH) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Devoted](https://open.spotify.com/album/2r7sEbr5I8VdTpV3q1zuRF) | 2:16 | 2024-10-25 | 2024-11-21 |
@@ -887,6 +888,7 @@
 | [Should Have Said](https://open.spotify.com/track/0Ukxvaj9T20dXSBSbiqVGH) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX), [Lazy Daze](https://open.spotify.com/artist/6bMxxRfNZzYjtbP8RiWPcq) | [Should Have Said](https://open.spotify.com/album/0jvcPC7qwqIgYKEDA9IDBm) | 2:19 | 2025-01-10 | 2025-06-07 |
 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 | 2023-12-22 | 2024-09-15 |
 | [Show U](https://open.spotify.com/track/6xSWdxVYlsKWgksGySoOoY) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Sanxez](https://open.spotify.com/artist/1p7AHcSoP4l1Y5njS41YrB), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Show U](https://open.spotify.com/album/3eX0OuajufResqWVSFJAU9) | 2:05 | 2024-11-01 | 2024-12-07 |
+| [Silent](https://open.spotify.com/track/49GN8iC5IFrWQdRZlGX1R2) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u) | [Silent](https://open.spotify.com/album/3JlHbhYEpLGb1bGl9jLo9h) | 2:26 | 2025-07-08 |  |
 | [Silver Linings](https://open.spotify.com/track/3AE5JftKbpmzjdxjxv78tc) | [MUNICH MONSTRS](https://open.spotify.com/artist/65JeCEZBSZlp9lJGDZov3f) | [Silver Linings](https://open.spotify.com/album/6PiD8w7QjlB1wqsjwdZNUR) | 2:37 | 2024-09-27 | 2024-11-21 |
 | [Since You Been Gone](https://open.spotify.com/track/0zNH3r9xCa4OHDz69bRur5) | [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Since You Been Gone](https://open.spotify.com/album/04wyJzbc4bNcnUzbR7hNh5) | 2:23 | 2024-06-14 | 2025-03-08 |
 | [Sing To You](https://open.spotify.com/track/3n8PdsOSOYbzYquEDDy3WB) | [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Sing To You](https://open.spotify.com/album/5oqiNDfc4Q2NyxojCjgWOo) | 2:14 | 2024-07-05 | 2024-08-10 |

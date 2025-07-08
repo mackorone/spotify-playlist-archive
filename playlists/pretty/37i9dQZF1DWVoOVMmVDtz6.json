@@ -1,12 +1,12 @@
 {
   "description": "greenery & humid air \ud83c\udf43",
-  "num_followers": 1291,
+  "num_followers": 1581,
   "original_name": "Upstate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGKXdgAAAAA7JljwpeSuO2EizPGPcQVA",
+  "snapshot_id": "aGvXEgAAAACSWzyI4jE9EzQE5vDqFtq8",
   "tracks": [
     {
       "added_at": "2025-06-27 19:15:10",
@@ -127,6 +127,26 @@
       "duration_ms": 212487,
       "name": "Cruisin to the Park",
       "url": "https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM"
+    },
+    {
+      "added_at": "2025-07-07 14:17:54",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Ventura Highway",
+      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
     },
     {
       "added_at": "2025-06-27 19:15:10",
@@ -1687,22 +1707,6 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/1cUl1f6JjV3ehHI81hXypS"
-    },
-    {
-      "added_at": "2025-06-27 19:15:10",
-      "album": {
-        "name": "No Shape",
-        "url": "https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "Valley",
-      "url": "https://open.spotify.com/track/6QNqIj7AZCjqVgpvEzhupG"
     }
   ],
   "unique_name": "Upstate",

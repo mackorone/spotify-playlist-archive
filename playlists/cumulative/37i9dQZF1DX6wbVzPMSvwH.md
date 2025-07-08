@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-185 songs - 11 hr 37 min
+187 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 | 2022-12-13 |  |
 | [Mengudara](https://open.spotify.com/track/43bIT4qDSCB6K1PJ314Azp) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 3:07 | 2023-09-20 | 2024-05-09 |
 | [Negeri di Awan \- Kinarya HIVI!](https://open.spotify.com/track/6pVcb4nbtETS6MXv2GYu0L) | [Katon Bagaskara](https://open.spotify.com/artist/4RSTuj15Y2BjrXR5fTDh2m), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Negeri di Awan \(Kinarya HIVI!\)](https://open.spotify.com/album/6cGX5DXDl3BQnYCV5t4GIM) | 4:38 | 2023-12-13 | 2024-12-04 |
+| [New World](https://open.spotify.com/track/0Rmx4lwrpcKw1P65ol1Wdq) | [Kohi Sekai](https://open.spotify.com/artist/2bt858ji7ugrpjuNUEChED) | [New World](https://open.spotify.com/album/5cxaftDAyQHs0aJSPFpZar) | 4:33 | 2025-07-07 |  |
 | [Nikmati Perjalanannya](https://open.spotify.com/track/7GEct8saqLf7ldt1g2HRTA) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Nikmati Perjalanannya](https://open.spotify.com/album/5oAaVT1eCNMDDDECL2dxHd) | 3:21 | 2024-05-08 |  |
 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 | 2024-12-03 |  |
 | [O..\. Ya...](https://open.spotify.com/track/4nGfDDgOFVIqMajwVaWNgb) | [Kelompok 3 Suara](https://open.spotify.com/artist/6G5TFh2HwPlrpmtMZUl5KW) | [O..Ya ?](https://open.spotify.com/album/3VM7RnhgmmCfmcVBzuRwWc) | 3:07 | 2023-07-13 | 2024-04-19 |
@@ -152,7 +153,7 @@
 | [Remaja](https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:38 | 2024-02-01 |  |
 | [Remaja](https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:38 | 2022-12-13 | 2024-04-19 |
 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 | 2024-12-09 |  |
-| [Rindu Lukisan](https://open.spotify.com/track/31c6ehd7yeLmT5OmjqUJJP) | [caldera](https://open.spotify.com/artist/2mYB723pbBKNPKbjDhMGYb), [Rei Naldy](https://open.spotify.com/artist/6pRsmnyTna8pZjpHs0ALma) | [Rindu Lukisan](https://open.spotify.com/album/4wOTpxbBJXJQ5AvSVeuutU) | 3:28 | 2023-11-14 |  |
+| [Rindu Lukisan](https://open.spotify.com/track/31c6ehd7yeLmT5OmjqUJJP) | [caldera](https://open.spotify.com/artist/2mYB723pbBKNPKbjDhMGYb), [Rei Naldy](https://open.spotify.com/artist/6pRsmnyTna8pZjpHs0ALma) | [Rindu Lukisan](https://open.spotify.com/album/4wOTpxbBJXJQ5AvSVeuutU) | 3:28 | 2023-11-14 | 2025-07-08 |
 | [Rooftop](https://open.spotify.com/track/5WvjSwYF94M3xnqfBgrOsc) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [Fly As One](https://open.spotify.com/album/4OG67OY8Bw4bErc9acA2df) | 3:06 | 2023-07-28 | 2023-09-21 |
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-02-01 |  |
 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 | 2022-12-13 | 2023-11-16 |
@@ -182,7 +183,7 @@
 | [Terdiam](https://open.spotify.com/track/3eEC4ad1GlR6eOiU06Hcuu) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Terdiam](https://open.spotify.com/album/68PWcMgXQ3nV0rHPk6GbLt) | 3:06 | 2022-12-13 | 2023-12-05 |
 | [Terima Kasih](https://open.spotify.com/track/1bzzbWLQd5O1CE57VSkpYj) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:51 | 2025-06-23 |  |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2022-12-13 |  |
-| [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 | 2023-05-18 |  |
+| [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 | 2023-05-18 | 2025-07-08 |
 | [The One \(feat\. Kara Chenoa\)](https://open.spotify.com/track/7AIXWUhYM5i1MrHOL28ef5) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [The One \(feat\. Kara Chenoa\)](https://open.spotify.com/album/3vxu37rHw5dnzi5Vb0I3jQ) | 3:46 | 2023-03-02 | 2024-05-09 |
 | [There's a Light at the End of the Tunnel](https://open.spotify.com/track/1KtBupQOZA11CAiwl2VfoF) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ), [Rekti Yoewono](https://open.spotify.com/artist/5wg7167xaH0ILxlcDymFlM) | [Day by Day](https://open.spotify.com/album/3Fxba1JUppkx30LoFcWuz7) | 3:24 | 2022-12-13 | 2024-02-02 |
 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 | 2022-12-13 |  |
@@ -191,6 +192,7 @@
 | [Tunggu Aku](https://open.spotify.com/track/1lIGMeQY4mQRZmiZCGukDl) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 3:22 | 2023-07-13 | 2024-11-14 |
 | [Tunggu Aku Di Jakarta](https://open.spotify.com/track/0Z0K5nZGqw8WuV4WOLxVnR) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 5:07 | 2022-12-13 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-15 |  |
+| [Ya Sudahlah](https://open.spotify.com/track/0OjiV7FpVCrOIq53ZSH1EM) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Fade2Black](https://open.spotify.com/artist/6gvA9QkTBrrVgC61J4YaA8) | [For All](https://open.spotify.com/album/0LTNM8p3hEvAPbidxNtg7Q) | 4:14 | 2025-07-07 |  |
 | [Yang Kusayang](https://open.spotify.com/track/07u51YjzguLY8v8XHQaBMd) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Yang Kusayang](https://open.spotify.com/album/4sZAdMtWkGYd1wI643Y2on) | 4:22 | 2022-12-13 | 2023-09-21 |
 | [You](https://open.spotify.com/track/79xK6U9ebkeiE5W3n0ejAI) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [You](https://open.spotify.com/album/3PvrFFoalcNBqVhzrYPidR) | 4:04 | 2022-12-13 | 2023-01-10 |
 

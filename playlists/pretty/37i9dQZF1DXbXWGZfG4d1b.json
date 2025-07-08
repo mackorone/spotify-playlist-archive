@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24429,
+  "num_followers": 24432,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Mi Verano Oscuro",
+        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 197005,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Muerde",
         "url": "https://open.spotify.com/album/3s4KfDYzx43oz29SdLdkAc"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 179428,
       "name": "Muerde",
       "url": "https://open.spotify.com/track/52UEFtf0kXBjjzCJgqsC19"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Mi Verano Oscuro",
-        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        },
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 197005,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Lapso",
+        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
+      },
+      "artists": [
+        {
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+        }
+      ],
+      "duration_ms": 185314,
+      "name": "Tanto Az\u00facar",
+      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "de la primavera",
         "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 205589,
       "name": "de la primavera",
       "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Lapso",
-        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
-      },
-      "artists": [
-        {
-          "name": "Posguerra",
-          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
-        }
-      ],
-      "duration_ms": 185314,
-      "name": "Tanto Az\u00facar",
-      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Bar de Playa",
+        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        }
+      ],
+      "duration_ms": 129945,
+      "name": "Bar de Playa",
+      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Bar de Playa",
-        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
-      },
-      "artists": [
-        {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        }
-      ],
-      "duration_ms": 129945,
-      "name": "Bar de Playa",
-      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
         "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 135189,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Me gusta mirarte de cerca",
+        "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 204875,
+      "name": "Me Gusta Mirarte De Cerca",
+      "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/43lwpoOoIiRukN8WCCVn3k"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 160601,
       "name": "Navegando",
       "url": "https://open.spotify.com/track/5dlP6YPy7JaOIsqQ4jaNNn"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Me gusta mirarte de cerca",
-        "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 204875,
-      "name": "Me Gusta Mirarte De Cerca",
-      "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Que te iba a Decir",
+        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
+      },
+      "artists": [
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 381577,
+      "name": "Botas encontradas",
+      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "Que te iba a Decir",
-        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
-      },
-      "artists": [
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 381577,
-      "name": "Botas encontradas",
-      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "El Invierno",
-        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
-      },
-      "artists": [
-        {
-          "name": "Bifes con ensalada",
-          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "El Invierno",
-      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "El Invierno",
+        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
+      },
+      "artists": [
+        {
+          "name": "Bifes con ensalada",
+          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
+        }
+      ],
+      "duration_ms": 200487,
+      "name": "El Invierno",
+      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "VOLVER A CERO",
         "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Exquisito como el Disgusto",
-        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
       },
       "artists": [
         {
-          "name": "Socorro",
-          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Boca de Dama",
-      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Donde nac\u00ed",
-        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+        "name": "Exquisito como el Disgusto",
+        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
         }
       ],
-      "duration_ms": 231270,
-      "name": "Donde nac\u00ed",
-      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
+      "duration_ms": 263000,
+      "name": "Boca de Dama",
+      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "ya soy, ya tengo",
-        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
-      },
-      "artists": [
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 249245,
-      "name": "ya soy, ya tengo",
-      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Cinta Testigo, Vol. 1",
         "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 250022,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/11rDZorrpXH7W3rd3tNSdC"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "ya soy, ya tengo",
+        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
+      },
+      "artists": [
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        }
+      ],
+      "duration_ms": 249245,
+      "name": "ya soy, ya tengo",
+      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "No Est\u00e1 Mal Volar",
-        "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
-      },
-      "artists": [
-        {
-          "name": "T'Shine",
-          "url": "https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm"
-        }
-      ],
-      "duration_ms": 196434,
-      "name": "No Est\u00e1 Mal Volar",
-      "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "siempre es para siempre",
         "url": "https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 203136,
       "name": "siempre es para siempre",
       "url": "https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "No Est\u00e1 Mal Volar",
+        "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
+      },
+      "artists": [
+        {
+          "name": "T'Shine",
+          "url": "https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm"
+        }
+      ],
+      "duration_ms": 196434,
+      "name": "No Est\u00e1 Mal Volar",
+      "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Desconsuelo",
-        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
-      },
-      "artists": [
-        {
-          "name": "DOJO",
-          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
-        }
-      ],
-      "duration_ms": 243126,
-      "name": "Desconsuelo",
-      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 137887,
       "name": "Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Desconsuelo",
+        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
+      },
+      "artists": [
+        {
+          "name": "DOJO",
+          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
+        }
+      ],
+      "duration_ms": 243126,
+      "name": "Desconsuelo",
+      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
     },
     {
       "added_at": "2025-05-09 15:00:14",

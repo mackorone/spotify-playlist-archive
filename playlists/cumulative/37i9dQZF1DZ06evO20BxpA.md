@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-142 songs - 6 hr 26 min
+143 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [It Is The Law](https://open.spotify.com/track/7sZsdoPTOOWMyK5huLCTWL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 2:15 | 2025-01-30 | 2025-03-10 |
 | [It's Good to Meet New People](https://open.spotify.com/track/1MIzdetw6fjVZorGWKeROJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:22 | 2023-10-04 | 2025-04-10 |
 | [Italian Marble](https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:28 | 2023-09-25 | 2024-02-29 |
+| [June Moone \(Bonus Track\)](https://open.spotify.com/track/12ItyakspFR5bIphh7oV1X) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Suicide Squad \(Original Motion Picture Score\)](https://open.spotify.com/album/0C8fz2LJQotVr0SZNta8H6) | 2:37 | 2025-07-08 |  |
 | [Jungles](https://open.spotify.com/track/1NaKI3qpnedSMNEMGRFggD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Jungles \(Episode 3 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/6mo0cOVfG6KHW1KgGmT2es) | 1:36 | 2023-08-04 | 2023-09-13 |
 | [Just Part of Their Story](https://open.spotify.com/track/1FXs7ZUpTVrHR48UfSdDTp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:24 | 2025-05-14 | 2025-06-07 |
 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 | 2023-08-09 |  |

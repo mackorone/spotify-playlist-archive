@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 201151,
       "name": "Do You Know My Heart (Feat. NUITNUIT)",
       "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238575,
+      "name": "Hug Me (I'm In Your Arms)",
+      "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
+    },
+    {
+      "album": {
         "name": "I can't sleep",
         "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
       },
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 161379,
       "name": "indivisible",
       "url": "https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam"
@@ -1090,6 +1108,28 @@
       "duration_ms": 129880,
       "name": "Layed Memory",
       "url": "https://open.spotify.com/track/4TWeNgudXpHfv3qhRaoFwy"
+    },
+    {
+      "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/5QLAVEqONZVrN5RzabL0il"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        },
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208013,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/6QMiVGXipdQwi63pzotvsH"
     },
     {
       "album": {

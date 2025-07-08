@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Can I Be Me?",
+        "url": "https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Can I Be Me?",
+      "url": "https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy"
+    },
+    {
+      "album": {
         "name": "room",
         "url": "https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 233026,
       "name": "eye contact",
       "url": "https://open.spotify.com/track/5xe1qRb6UXMMef4isZqPcA"
@@ -1418,6 +1436,24 @@
       "duration_ms": 161029,
       "name": "Fall",
       "url": "https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209883,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp"
     },
     {
       "album": {
@@ -1568,6 +1604,24 @@
       "duration_ms": 208773,
       "name": "Forest (feat. Claire Young)",
       "url": "https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G"
+    },
+    {
+      "album": {
+        "name": "Forever Has Always Been",
+        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Forever Has Always Been",
+      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
       "album": {
@@ -2174,7 +2228,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 218581,
       "name": "Letter",
       "url": "https://open.spotify.com/track/2Sf57B6LmIWyp8NgwRibFE"
@@ -4686,7 +4740,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 253500,
       "name": "Your word",
       "url": "https://open.spotify.com/track/6LwClRItxy8vXP5tDctQS0"

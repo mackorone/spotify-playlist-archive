@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1237,
+  "num_followers": 1239,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 225021,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Loading",
         "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 225021,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Mercury Remixes",
+        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
+      },
+      "artists": [
+        {
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 207304,
+      "name": "Violet - DJ Python Remix",
+      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "'I Wanted More' EP",
         "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 183204,
       "name": "BOY",
       "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Mercury Remixes",
-        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
-      },
-      "artists": [
-        {
-          "name": "The Range",
-          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 207304,
-      "name": "Violet - DJ Python Remix",
-      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
     },
     {
       "added_at": "2023-08-31 14:00:00",

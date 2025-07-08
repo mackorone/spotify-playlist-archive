@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from J Balvin & DJ Snake, Natanael Cano, KAROL G, Bad Bunny, and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,706,510 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,705,363 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

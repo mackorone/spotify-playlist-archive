@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,608 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,718 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 14 | [Garroor](https://open.spotify.com/track/0rR7f4QGCEURzJpm8NwJuT) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC) | [Garroor](https://open.spotify.com/album/5rNhK6BDL6I07hLszzijSa) | 2:47 |
 | 15 | [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/track/2FRSsjZloHsmBF60bCoPrQ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/album/6SgKeQDMRzq0noM0FSaPP6) | 3:25 |
 | 16 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
-| 17 | [Legit](https://open.spotify.com/track/4dknxBy90uoFMTjwmRi6Lz) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Legit](https://open.spotify.com/album/0zWK65ZEwbURLEoUvHG8uS) | 3:32 |
+| 17 | [Lover Boy](https://open.spotify.com/track/3ZIzUE6MAQGuAPvPc7ZCOf) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Lover Boy](https://open.spotify.com/album/0rWSXr04dWeGS734TamIOF) | 3:09 |
 | 18 | [Gorgeous](https://open.spotify.com/track/5bITGuBx8UEpes7q9n6uV5) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Gorgeous](https://open.spotify.com/album/2DnW4ffeM7ExbJ33MvXrTM) | 2:47 |
 | 19 | [Channo](https://open.spotify.com/track/1qRfsMsBxKm4bhWnQws0he) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e), [Veet Baljit](https://open.spotify.com/artist/4Ax6JQQBWP2BqmmcbVvZwl) | [Punjab 1984 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FeHT0rexdgJZbTKfD4fz8) | 2:52 |
 | 20 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Noormahal](https://open.spotify.com/track/6LAitVJIwyCy4bJGN9TIhn) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Takeover](https://open.spotify.com/album/7AsfVZwqnFNaHll4Tnbhof) | 2:40 |
 | 100 | [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 |
 
-Snapshot ID: `aGfSxgAAAABxXWLlzAYK9mE0rlpBvUTm`
+Snapshot ID: `aGu5vwAAAABjnxXLrLn+kZlqNk4iLedn`

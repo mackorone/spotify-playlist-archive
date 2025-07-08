@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,807 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,805 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 35 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 36 | [Alone This Holiday](https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [I Caught Fire](https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB) | 2:55 |
 | 37 | [Christmas Day](https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 2:57 |
-| 38 | [I'm Going Surfing for Xmas](https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [I'm Going Surfing for Xmas](https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf) | 2:15 |
-| 39 | [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 |
+| 38 | [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 |
+| 39 | [I'm Going Surfing for Xmas](https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [I'm Going Surfing for Xmas](https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf) | 2:15 |
 | 40 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 | 41 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 |
 | 42 | [Little Drummer Boy](https://open.spotify.com/track/22rBktERctuWCLmnV51Td5) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:08 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 64 | [Christmas Lullaby](https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq) | [CJ Ramone](https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp) | [Christmas Lullaby](https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn) | 3:04 |
 | 65 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
 | 66 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
-| 67 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |
-| 68 | [All I Want for Christmas Is You](https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [All I Want for Christmas Is You](https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0) | 2:44 |
-| 69 | [Lonely This Christmas](https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU) | [Traitors!](https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 2:38 |
-| 70 | [This Could Be Christmas](https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Spider Stacy](https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu) | [This Could Be Christmas](https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye) | 4:51 |
+| 67 | [All I Want for Christmas Is You](https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [All I Want for Christmas Is You](https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0) | 2:44 |
+| 68 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |
+| 69 | [This Could Be Christmas](https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Spider Stacy](https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu) | [This Could Be Christmas](https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye) | 4:51 |
+| 70 | [Lonely This Christmas](https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU) | [Traitors!](https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 2:38 |
 | 71 | [Single All the Way](https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Single All the Way](https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa) | 3:15 |
 | 72 | [We Wish You a Merry Christmas / Jingle Bells \- Short Edit](https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS) | [Normahl](https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm) | [We Wish You a Merry Christmas / Jingle Bells \(Short Edit\)](https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b) | 2:06 |
 | 73 | [Wonderful Christmas Time](https://open.spotify.com/track/4EKkT3rUAlTf0JVvXLTgKN) | [Lion In The Mane](https://open.spotify.com/artist/6E5wKYYhEgS3r3TRKZl9N1) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 3:42 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 95 | [Auld Lang Syne](https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:09 |
 | 96 | [Blue Christmas](https://open.spotify.com/track/3DL2Zth3HnbmMKgUy3RSiG) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/2To5Y08bzMfSKgssrxaGqp) | 1:42 |
 | 97 | [X\-mas Has Been X'ed](https://open.spotify.com/track/36xdZ8BJLBHs3dXpeSwg2x) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n) | 2:43 |
-| 98 | [Happy Holidays, You Bastard](https://open.spotify.com/track/6Zj6aoi8gOioPuJmQoC7bN) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/4kuOpGJb8CBMT4Egr9UroK) | 0:42 |
-| 99 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 |
+| 98 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 |
+| 99 | [Happy Holidays, You Bastard](https://open.spotify.com/track/6Zj6aoi8gOioPuJmQoC7bN) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/4kuOpGJb8CBMT4Egr9UroK) | 0:42 |
 | 100 | [Carol Of The Beers](https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 1:47 |
 
 Snapshot ID: `ZVi/BgAAAABxDv9lebMGeImnNdO/skmh`

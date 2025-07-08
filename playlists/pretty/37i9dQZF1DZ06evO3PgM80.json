@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20871,
+  "num_followers": 20875,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAAC5P/VtBjBwlGL9x4itFdHO",
+  "snapshot_id": "aGm8gAAAAACkl7QpmUM48R2i/sd8T+ac",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Cantarei Teu Amor (I Could Sing of Your Love Forever) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0LUl6SZTKvgSzb7GxdVgmG"
+      "duration_ms": 278840,
+      "name": "Eu Me Rendo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 278840,
-      "name": "Eu Me Rendo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
+      "duration_ms": 201933,
+      "name": "Cantarei Teu Amor (I Could Sing of Your Love Forever) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0LUl6SZTKvgSzb7GxdVgmG"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla - Louvorz\u00e3o 2022 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 330940,
-      "name": "Sou Humano (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Rei",
         "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Karla - Louvorz\u00e3o 2022 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 330940,
+      "name": "Sou Humano (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH"
     },
     {
       "added_at": null,

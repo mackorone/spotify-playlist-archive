@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 304 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,795 likes - 304 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 24 | [No Long Talk](https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 2:29 |
 | 25 | [sweet sweet](https://open.spotify.com/track/01Ch5LzVStxCFPKkT1xg6k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:42 |
 | 26 | [Go Off \(with Lil Uzi Vert, Quavo & Travis Scott\)](https://open.spotify.com/track/53MHr9cjIlwet0mpmqNvjC) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Go Off](https://open.spotify.com/album/3G9US0Byt1UldeKifKPIwa) | 3:37 |
-| 27 | [Beautiful Pain \(Losin My Mind\)](https://open.spotify.com/track/4SIB2yxKoFOrbkjA4zfQbB) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:51 |
-| 28 | [Forever Ever \(feat\. Young Thug & Reese LAFLARE\)](https://open.spotify.com/track/4bnq2OQUwACkp2vCEbY52g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 3:57 |
+| 27 | [Forever Ever \(feat\. Young Thug & Reese LAFLARE\)](https://open.spotify.com/track/4bnq2OQUwACkp2vCEbY52g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 3:57 |
+| 28 | [Beautiful Pain \(Losin My Mind\)](https://open.spotify.com/track/4SIB2yxKoFOrbkjA4zfQbB) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:51 |
 | 29 | [No Shopping \(feat\. Drake\)](https://open.spotify.com/track/43uQtNJUmlEdJtjbz6GdGL) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 3:47 |
 | 30 | [Don't Pretend](https://open.spotify.com/track/1E6DEDWDKHoOW0fcFuDghV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:45 |
 | 31 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 155 | [Switching Sides](https://open.spotify.com/track/7odPgNsaaKKJ1cImYAmNRO) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [While The World Was Burning](https://open.spotify.com/album/4VflgB2PsZCQc5jBLLmToV) | 3:36 |
 | 156 | [Purple Stamp](https://open.spotify.com/track/5vZqcDWLyN1GE7GibqcI3x) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:19 |
 | 157 | [Thank You Come Again](https://open.spotify.com/track/7b62buEn2WToU7SC13eMb4) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/4x2VITMV5Rhr6qdkOUHM0b) | 2:45 |
-| 158 | [Anza \(feat\. Armani Caesar\)](https://open.spotify.com/track/2BCbaompY94bwNCd3RuX4q) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [From King To A GOD](https://open.spotify.com/album/6DGCEJKSnaK626YgoElkjk) | 3:33 |
-| 159 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
+| 158 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
+| 159 | [Anza \(feat\. Armani Caesar\)](https://open.spotify.com/track/2BCbaompY94bwNCd3RuX4q) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [From King To A GOD](https://open.spotify.com/album/6DGCEJKSnaK626YgoElkjk) | 3:33 |
 | 160 | [Tyrone 2021 \(feat\. Big Sean\)](https://open.spotify.com/track/0dDI9Y0qEQspYedfdi1vau) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:38 |
 | 161 | [Line Em Up](https://open.spotify.com/track/0pl50PBq8jXKl4Tg4tF7G1) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 2:59 |
 | 162 | [Air](https://open.spotify.com/track/3D7Zit3sPdOQMHpWnHtAQY) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 2:55 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 303 | [Stay](https://open.spotify.com/track/6otCmruLPVXztgo0G214fQ) | [Jessica Pilnäs](https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf) | [Pretender](https://open.spotify.com/album/7BLFYoqfUvAudtlVq882nN) | 4:06 |
 | 304 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 
-Snapshot ID: `Ab2FPgAAAABHBUAXZ9ANddB6aiqyI/uf`
+Snapshot ID: `Ab2K3gAAAABeNyjpQVJpvJ7riQPQjZqn`

@@ -4,7 +4,7 @@
 
 > 
 
-245 songs - 14 hr 18 min
+246 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Blame](https://open.spotify.com/track/26bE28MknenbrYV9OFzJ6S) | [Divine](https://open.spotify.com/artist/6nsJ6vUJ9WqOlAzHiVv30v) | [Blame](https://open.spotify.com/album/3FKwFxzvXJLNhrRUy33pJV) | 3:34 | 2018-11-27 |  |
 | [Blindspot](https://open.spotify.com/track/5xXpd5FzXOVVCwCL2fgTxp) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Radical](https://open.spotify.com/album/4dn52eV4gt2YcYxcKd1HZl) | 2:19 | 2023-02-28 |  |
 | [Bloody Tear](https://open.spotify.com/track/0Al16Wsj4pkExUadvNLF7C) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Universe of the Past](https://open.spotify.com/album/1GX9tOFuNisK62WpFVKhbu) | 2:39 | 2019-11-05 |  |
+| [Blurred lights](https://open.spotify.com/track/6HMzmDWbLeo39Jdr7aP1dV) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Blurred lights](https://open.spotify.com/album/1W4YY6ZhrSKi3BBSTMYtta) | 3:05 | 2025-07-07 |  |
 | [Broken Scheme](https://open.spotify.com/track/1MuOETSfCubuhEqrL6xfOL) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [Sound of Silence](https://open.spotify.com/album/6VCKrEWH8rwIzOJdry7FRR) | 3:16 | 2023-07-20 |  |
 | [CARBON MIST](https://open.spotify.com/track/3RuWS8JiPtAjmEPW6pNB6Z) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [CARBON MIST](https://open.spotify.com/album/2tnaIqXfakuKXpwvXQmi9G) | 2:40 | 2021-10-14 |  |
 | [Castle \(feat\. Madi Larson\)](https://open.spotify.com/track/7wTPOhjjOt02hjVUOaOD11) | [Trashlord](https://open.spotify.com/artist/4CRAZ1v62qreoYTNrbP5Yj), [Madi Larson](https://open.spotify.com/artist/2heDXXeSmrfHsjBATaCUXC) | [wave 002](https://open.spotify.com/album/0S1PNLnoLH1CdncU5H724W) | 3:37 | 2019-05-26 |  |

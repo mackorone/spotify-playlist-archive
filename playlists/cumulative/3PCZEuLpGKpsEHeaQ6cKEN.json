@@ -20013,6 +20013,36 @@
     },
     {
       "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/1HH24K1xHyVe4lqgehGnTa"
+      },
+      "artists": [
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Matrix & Futurebound",
+          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+        },
+        {
+          "name": "Matrix",
+          "url": "https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF"
+        },
+        {
+          "name": "Futurebound",
+          "url": "https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139310,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/2HjlMi1EYwI9dbz22nn98i"
+    },
+    {
+      "album": {
         "name": "On The Beach (Eli Brown Remix)",
         "url": "https://open.spotify.com/album/1LCjO7MbI7HFAdce5VxnCN"
       },

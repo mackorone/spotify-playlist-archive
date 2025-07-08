@@ -4,7 +4,7 @@
 
 > Christian Soundtracks \(Movie + TV\) 2025 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
 
-325 songs - 20 hr 51 min
+326 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Holy Water](https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:02 | 2022-02-17 | 2022-08-27 |
 | [Home](https://open.spotify.com/track/3r7uT8Xj3LUEAGccZ0exEq) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Home](https://open.spotify.com/album/2IQJg6KzupWW0n60NT6wSO) | 3:21 | 2022-02-17 | 2022-08-27 |
 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 | 2022-02-25 | 2024-01-19 |
+| [Hope Is On The Way \- From "The Hopeful"](https://open.spotify.com/track/27NyhEf3Ij89OKPCNYJosS) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Hope Is On The Way \(From "The Hopeful"\)](https://open.spotify.com/album/6F4HYrdImj1QdjWWFuvB1b) | 4:10 | 2025-07-07 |  |
 | [Hosanna \- Live](https://open.spotify.com/track/4dd1w41SxD7OAcAVpzUBJL) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Hillsong – Let Hope Rise \(Live/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9) | 6:31 | 2024-01-18 |  |
 | [Hurts For You](https://open.spotify.com/track/7btNwNEh5X0noAtcXKQ5rO) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Hurts For You](https://open.spotify.com/album/3iy5ol9eyYY6W6XglMdGme) | 4:08 | 2022-02-17 | 2022-08-27 |
 | [Hurts Like Hell](https://open.spotify.com/track/7lPrG609DAZF6mCf5EjfCa) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Cinematic Songs \(Vol\. 1\)](https://open.spotify.com/album/6uRzweLeJ13G56tHv7zvWK) | 3:52 | 2024-01-23 | 2024-11-15 |

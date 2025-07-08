@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "mo\u221eent",
+        "url": "https://open.spotify.com/album/3hRr0nPIX43XjMitP4W59Z"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2025-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "mo\u221eent",
+      "url": "https://open.spotify.com/track/5rlKnPUg9Fm9AjkoJYKpV2"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n"
       },

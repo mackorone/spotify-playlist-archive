@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Olivier Dion
 
-3,393 songs - 7 day 11 hr 27 min
+3,394 songs - 7 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1472,6 +1472,7 @@
 | [Kama](https://open.spotify.com/track/7JL4ESrT0oI9H1fTw60pvQ) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Kama](https://open.spotify.com/album/6oSNfN1T3yphr54HsUXuzD) | 2:42 | 2024-05-03 | 2024-05-05 |
 | [Kanye Mode](https://open.spotify.com/track/5h3SXf29h53Zeg4ijBXPG5) | [Chris Kai](https://open.spotify.com/artist/68F3LEVxh5Xr7V2P3K0vHt), [YY](https://open.spotify.com/artist/55I2KOtPAtxkwQVvgX6eWC) | [Kanye Mode](https://open.spotify.com/album/6vFIWqZBNCfI0mOzzwkuXA) | 2:27 | 2022-11-11 | 2022-11-26 |
 | [Kanye West](https://open.spotify.com/track/0Exj4hL7PquqwVrohrD7hj) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Kanye West](https://open.spotify.com/album/4vBSXrZUXvNe7QiYy1A8Ia) | 2:00 | 2024-07-26 | 2024-08-03 |
+| [Kappa](https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E) | [En Attendant Paphos](https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G) | 2:40 | 2025-07-04 |  |
 | [Karim B](https://open.spotify.com/track/5IturN1tR27wlVtDCnSSJk) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/0PiKFwhGs9zPnojBJAIcc4) | 2:44 | 2024-07-12 | 2024-07-14 |
 | [Karma](https://open.spotify.com/track/57o2dAk85nAlhf6QvUttLh) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Karma](https://open.spotify.com/album/5oy3WDkdnPUWtUvcBEOtOX) | 2:55 | 2021-12-31 | 2022-01-22 |
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 | 2023-11-18 |
@@ -1967,7 +1968,7 @@
 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 | 2024-08-30 | 2024-10-19 |
 | [Manqué \(Radio Mix\)](https://open.spotify.com/track/31NQVfbHLG6y4OsowZIr2b) | [LILY K.O.](https://open.spotify.com/artist/6VhJgu91dQFLPCPM2AmVpt) | [Manqué \(Radio Mix\)](https://open.spotify.com/album/49k9MVnHRFkKUAx0WNdUdN) | 2:41 | 2022-01-07 | 2022-01-22 |
 | [Mantra](https://open.spotify.com/track/1YqIQZ4ajL7fVdz2wCax07) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Mantra](https://open.spotify.com/album/5ZuP3CMqYsWoZnSWbztdaT) | 3:13 | 2022-08-05 | 2022-08-27 |
-| [Manuel de vengeance](https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Manuel de vengeance](https://open.spotify.com/album/0CstqUPEk3lz1HgHvSz6p3) | 1:50 | 2025-05-15 |  |
+| [Manuel de vengeance](https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Manuel de vengeance](https://open.spotify.com/album/0CstqUPEk3lz1HgHvSz6p3) | 1:50 | 2025-05-15 | 2025-07-08 |
 | [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:42 | 2023-06-23 | 2023-07-01 |
 | [Mapessa](https://open.spotify.com/track/4KcqVTWv453EFbAiM8lwoF) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt), [IZO](https://open.spotify.com/artist/5A1DfHw6UVRykKZr08UZtC), [SMZ](https://open.spotify.com/artist/6YL07efGhdAVsqDuRgXACG) | [X](https://open.spotify.com/album/7etElUD2VBeeuYfBY5hYHO) | 3:51 | 2024-07-05 | 2024-07-13 |
 | [MAQUETTE](https://open.spotify.com/track/63EiOoWTrs2HhSBoUqO871) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [MAQUETTE](https://open.spotify.com/album/0GqqFYgH1JSFFlZbOD6rGA) | 3:05 | 2022-05-20 | 2022-06-04 |

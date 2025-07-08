@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 231486,
+  "num_followers": 231534,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aGhrAAAAAAB3VEXQeuqvzcDccCkw+mnO",
+  "snapshot_id": "aGm8gAAAAAArv8obu0R06pIIQ6yLFk1i",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti",
-        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "De Ti",
-      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 208493,
       "name": "De Mis Pasos (Unplugged) (En Vivo) (with Juan Son)",
       "url": "https://open.spotify.com/track/6SjCCvEeJvxWfTsSkoL1DR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
     },
     {
       "added_at": null,

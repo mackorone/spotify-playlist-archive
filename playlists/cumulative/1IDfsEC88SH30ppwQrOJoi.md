@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-413 songs - 21 hr 19 min
+415 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,9 @@
 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \- John Summit Remix](https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \[John Summit Remix\]](https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU) | 3:26 | 2023-04-26 | 2024-03-14 |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-12-08 | 2024-03-14 |
 | [My City's On Fire \- Anyma & Cassian Remix](https://open.spotify.com/track/5ncvfF5zykGdBMsfOKGkhi) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [My City's On Fire \(Anyma & Cassian Remix\)](https://open.spotify.com/album/2YL3vvVlPJlUNG1RaAzYzQ) | 3:19 | 2023-03-12 | 2024-05-01 |
+| [My Mind](https://open.spotify.com/track/3IKKcnWvlO5Ymj5p5Poo50) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [My Mind](https://open.spotify.com/album/0FDd0q6toOWb70qbZmrndb) | 3:06 | 2025-07-07 |  |
 | [My Mind](https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Jack The House 4](https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl) | 2:56 | 2023-08-28 | 2024-03-14 |
+| [My Sweet Lord](https://open.spotify.com/track/6Nx5hN5hAVLiz4es7RZh0C) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Bryan Chambers](https://open.spotify.com/artist/4tBgSJGmUWLMpd5vUFHoUg), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Dance To The Music](https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V) | 3:06 | 2025-07-07 |  |
 | [Mysterious Ways \- Radio Edit](https://open.spotify.com/track/3Nz4UMvy28zhtdpcBeAATx) | [P.WE](https://open.spotify.com/artist/1FlhIRWxDzIPkpLJnOQmr9), [Hey Dan](https://open.spotify.com/artist/4zxGvqUNL38AxF1N0ctzNR) | [Mysterious Ways](https://open.spotify.com/album/6Fxujpbnm3SsUd3LQ9SL7W) | 3:41 | 2023-03-22 | 2024-03-14 |
 | [NaNa Djon](https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [NaNa Djon](https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA) | 2:41 | 2023-08-02 | 2024-03-14 |
 | [Naughty Girl](https://open.spotify.com/track/2BSgGFDMsopz6bHPww0UR4) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj) | [Naughty Girl](https://open.spotify.com/album/28CvZoubvt5xdr5wyx3ZbW) | 3:04 | 2024-08-01 |  |

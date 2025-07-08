@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,937 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,963 likes - 69 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 65 | [170](https://open.spotify.com/track/12kfMe5Vi2fzfzljLeZQAc) | [Alisa](https://open.spotify.com/artist/27iFGBD5aaJB4GSsfYAoLW) | [170](https://open.spotify.com/album/0ArsY6sRBmFIz1rw2KzXM8) | 2:37 |
 | 66 | [2025기침](https://open.spotify.com/track/2ejmuwohx9PjXShQHihLsV) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [2025기침](https://open.spotify.com/album/14ot5WiRkZx6pvAekhRtgV) | 2:03 |
 | 67 | [Crocodile](https://open.spotify.com/track/7I2AjEzwv5DRGHWTsOnyCc) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Crocodile](https://open.spotify.com/album/6YR3AMCLFfamqFeinSdGPV) | 3:24 |
-| 68 | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 |
-| 69 | [Tree](https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Tree](https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH) | 4:27 |
-| 70 | [OK](https://open.spotify.com/track/3vs6qR4l6uBNGnyBBBwSMB) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Pardon Me, I'm Different](https://open.spotify.com/album/1KxqjYLu2jGWRPBnMRYOSy) | 3:31 |
+| 68 | [Tree](https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Tree](https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH) | 4:27 |
+| 69 | [OK](https://open.spotify.com/track/3vs6qR4l6uBNGnyBBBwSMB) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Pardon Me, I'm Different](https://open.spotify.com/album/1KxqjYLu2jGWRPBnMRYOSy) | 3:31 |
 
-Snapshot ID: `aGsj2wAAAAAtHM8eRsGtkMe2Siv2DglO`
+Snapshot ID: `aGwHqgAAAAAQ975cWB6x4H0sAQp1CeAk`

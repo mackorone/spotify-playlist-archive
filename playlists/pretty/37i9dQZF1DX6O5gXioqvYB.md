@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: ceneri
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,824 likes - 115 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,849 likes - 115 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

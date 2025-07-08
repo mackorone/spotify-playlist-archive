@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 73113,
+  "num_followers": 73138,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ice Cream Dream Boy",
-        "url": "https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Ice Cream Dream Boy",
-      "url": "https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "ok </3",
         "url": "https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 204760,
       "name": "ok </3",
       "url": "https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Ice Cream Dream Boy",
+        "url": "https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Ice Cream Dream Boy",
+      "url": "https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ZOOM",
-        "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "ZOOM",
-      "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "RB3",
         "url": "https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 239890,
       "name": "RB3",
       "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
     },
     {
       "added_at": "2024-12-04 12:15:00",

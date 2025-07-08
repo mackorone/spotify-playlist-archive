@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Alabora",
+        "url": "https://open.spotify.com/album/6u6aFjaF9pRnzYDm5SUdVy"
+      },
+      "artists": [
+        {
+          "name": "Kaan Malko\u00e7",
+          "url": "https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "Alabora",
+      "url": "https://open.spotify.com/track/5dGPB6fmNgdLsFiOl0Ho0s"
+    },
+    {
+      "album": {
         "name": "Aman Aman",
         "url": "https://open.spotify.com/album/2DIFHpkBiMguUMUiqNyLQH"
       },
@@ -1462,6 +1480,24 @@
       "duration_ms": 131368,
       "name": "Gel De Son Bulsun",
       "url": "https://open.spotify.com/track/6OfyYDx6Cmo4bAFfH8IKf6"
+    },
+    {
+      "album": {
+        "name": "gel ne olur",
+        "url": "https://open.spotify.com/album/4zIL7RFxiRMpy5VHod8Ves"
+      },
+      "artists": [
+        {
+          "name": "Deniz Zoro\u011flu",
+          "url": "https://open.spotify.com/artist/6rsBBKjloRvytU94yiZF7w"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "gel ne olur",
+      "url": "https://open.spotify.com/track/2AAz3cv61aJ6bWnlTxtVLm"
     },
     {
       "album": {
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 219707,
       "name": "Serdenge\u00e7ti",
       "url": "https://open.spotify.com/track/4cRiXJoX4kLZuCKIiq0LIk"
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 190243,
       "name": "uydu bu a\u015fk",
       "url": "https://open.spotify.com/track/5E3pd3QlpaN3cnoY4oVzvs"

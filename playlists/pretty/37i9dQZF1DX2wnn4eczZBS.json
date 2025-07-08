@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Prins S. en De Geit",
-  "num_followers": 10618,
+  "num_followers": 10617,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
+        "name": "Waarom Ik Zo Ben",
+        "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
+      },
+      "artists": [
+        {
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Waarom Ik Zo Ben",
+      "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:20",
+      "album": {
         "name": "Zonder Zonnebril",
         "url": "https://open.spotify.com/album/6flL9XU2ePQTyQVoRYAoQQ"
       },
@@ -779,34 +795,18 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "Waarom Ik Zo Ben",
-        "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
+        "name": "De Lucht",
+        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
       },
       "artists": [
         {
-          "name": "Merle",
-          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 120833,
-      "name": "Waarom Ik Zo Ben",
-      "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
-    },
-    {
-      "added_at": "2025-06-26 22:00:20",
-      "album": {
-        "name": "dichtbij",
-        "url": "https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy"
-      },
-      "artists": [
-        {
-          "name": "flens",
-          "url": "https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD"
-        }
-      ],
-      "duration_ms": 154086,
-      "name": "dichtbij",
-      "url": "https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp"
+      "duration_ms": 166663,
+      "name": "WijTwee",
+      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     },
     {
       "added_at": "2025-06-26 22:00:20",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-06-26 22:00:20",
       "album": {
-        "name": "De Lucht",
-        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
+        "name": "dichtbij",
+        "url": "https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy"
       },
       "artists": [
         {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+          "name": "flens",
+          "url": "https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD"
         }
       ],
-      "duration_ms": 166663,
-      "name": "WijTwee",
-      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
+      "duration_ms": 154086,
+      "name": "dichtbij",
+      "url": "https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp"
     }
   ],
   "unique_name": "indie.nl",

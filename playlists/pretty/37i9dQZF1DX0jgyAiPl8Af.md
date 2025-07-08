@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304,473 likes - 183 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,304,755 likes - 183 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 10 | [In Time's Wake](https://open.spotify.com/track/6RV00RZtUQGMrJfIV44aH3) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [In Time's Wake](https://open.spotify.com/album/53WgH7jOcfo0TKrX0iE8XZ) | 2:30 |
 | 11 | [County Clare](https://open.spotify.com/track/0NetSB2EidrnN9AxQUuj8s) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [County Clare](https://open.spotify.com/album/7KYYW1IeQvD3SjcDgEbMBA) | 3:04 |
 | 12 | [Hopefulness](https://open.spotify.com/track/4vjDtmfzeNpfptUHkMIlBq) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [Hopefulness](https://open.spotify.com/album/3RfjkgZ1yEwX7GuLEFIHy1) | 2:23 |
-| 13 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
-| 14 | [Vanguard](https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Vanguard](https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL) | 2:21 |
-| 15 | [Stillness in Bloom](https://open.spotify.com/track/1u3IqBRU3qSgDlBUUnIGwz) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Stillness in Bloom](https://open.spotify.com/album/0am2Sx7Xgcjkjn6a2bBqzq) | 2:24 |
-| 16 | [The Story's Not Over](https://open.spotify.com/track/4xezVAKUPJHq7BQarlvLyz) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [The Story's Not Over](https://open.spotify.com/album/2VDKfqYkAocJbbpzdJcHVk) | 3:07 |
+| 13 | [Vanguard](https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Vanguard](https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL) | 2:21 |
+| 14 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
+| 15 | [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 |
+| 16 | [Stillness in Bloom](https://open.spotify.com/track/1u3IqBRU3qSgDlBUUnIGwz) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Stillness in Bloom](https://open.spotify.com/album/0am2Sx7Xgcjkjn6a2bBqzq) | 2:24 |
 | 17 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 |
-| 18 | [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 |
-| 19 | [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 |
-| 20 | [Grounded Feeling](https://open.spotify.com/track/5qJQQ68wNZLzDWn0KRlj1h) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Grounded Feeling](https://open.spotify.com/album/6aEY6C94T0yoroxVPMHe4k) | 2:14 |
-| 21 | [Morning flight](https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Morning flight](https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q) | 2:18 |
+| 18 | [The Story's Not Over](https://open.spotify.com/track/4xezVAKUPJHq7BQarlvLyz) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [The Story's Not Over](https://open.spotify.com/album/2VDKfqYkAocJbbpzdJcHVk) | 3:07 |
+| 19 | [Grounded Feeling](https://open.spotify.com/track/5qJQQ68wNZLzDWn0KRlj1h) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Grounded Feeling](https://open.spotify.com/album/6aEY6C94T0yoroxVPMHe4k) | 2:14 |
+| 20 | [Morning flight](https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Morning flight](https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q) | 2:18 |
+| 21 | [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 |
 | 22 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 |
 | 23 | [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 |
 | 24 | [Echoes of Us](https://open.spotify.com/track/2apnQEUBTwbHE4axOQzDzf) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Echoes of Us](https://open.spotify.com/album/2UNxbUaCX4qo8R3tNvXMiu) | 2:39 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 182 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 |
 | 183 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 |
 
-Snapshot ID: `aGP/fAAAAACtVCrtbm0cspe4rc0t+bjB`
+Snapshot ID: `aGvCxwAAAACvjyr9/w1SSr4RLgLqKyH5`

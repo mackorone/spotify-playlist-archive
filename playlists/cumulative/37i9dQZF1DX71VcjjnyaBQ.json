@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "All of the Sun",
+        "url": "https://open.spotify.com/album/3GCfATaAMWtUTJww65AhlU"
+      },
+      "artists": [
+        {
+          "name": "Ola \u00c5kerman",
+          "url": "https://open.spotify.com/artist/4xSDpqru7PNSifJZNSctYd"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "All of the Sun",
+      "url": "https://open.spotify.com/track/1zdPIpzhWLiXI6OYok4kEx"
+    },
+    {
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
       },
@@ -1221,6 +1243,32 @@
     },
     {
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213823,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
+    },
+    {
+      "album": {
         "name": "The Shakedown",
         "url": "https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q"
       },
@@ -1254,6 +1302,24 @@
       "duration_ms": 414649,
       "name": "Expansions",
       "url": "https://open.spotify.com/track/4kXTfxvuCkyV2f0IyCwCFP"
+    },
+    {
+      "album": {
+        "name": "Fair Weather",
+        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284493,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
     },
     {
       "album": {
@@ -3496,7 +3562,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 268949,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/12EXBCttLw6aschKlJ0u2d"
@@ -3761,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Glover",
+          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
+        }
+      ],
+      "date_added": "2025-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337160,
+      "name": "Tell Him I Said Hello",
+      "url": "https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8"
+    },
+    {
+      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
       },
@@ -3886,7 +3970,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
@@ -4306,7 +4390,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-08",
       "duration_ms": 400363,
       "name": "Waltz for Nina",
       "url": "https://open.spotify.com/track/2dFu8IftrBXEh2osqUGBuB"

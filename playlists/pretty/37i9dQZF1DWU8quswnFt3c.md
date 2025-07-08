@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Regina Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,329 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,443 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [tayo lang \(may alam\)](https://open.spotify.com/track/5SLbJ9NcVO8FaRKX5XImz8) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI), [Fana](https://open.spotify.com/artist/3kKBZLHVgnGKVsfNutJVip) | [tayo lang \(may alam\)](https://open.spotify.com/album/3ZPjyuE4jt5Hb2Bo3d4DRG) | 3:28 |
 | 29 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 30 | [So What](https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [So What](https://open.spotify.com/album/1wyODxvIhnI7vxS8BPksbC) | 2:32 |
-| 31 | [Saiyyan Na Maane](https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Saiyyan Na Maane](https://open.spotify.com/album/1vL10WzZmWzUi2Ez5QfpEn) | 2:47 |
-| 32 | [A fost mai simplu să pleci](https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [A fost mai simplu să pleci](https://open.spotify.com/album/2ADICf1yT37nPwVObJU2uF) | 2:40 |
+| 31 | [A fost mai simplu să pleci](https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [A fost mai simplu să pleci](https://open.spotify.com/album/2ADICf1yT37nPwVObJU2uF) | 2:40 |
+| 32 | [Saiyyan Na Maane](https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Saiyyan Na Maane](https://open.spotify.com/album/1vL10WzZmWzUi2Ez5QfpEn) | 2:47 |
 | 33 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
 | 34 | [Sorry My Honey](https://open.spotify.com/track/0l1E1oeXx5G5sGfvrS2Lb8) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Sorry My Honey](https://open.spotify.com/album/5wJJtnYBJRoVG20i8JLONk) | 3:33 |
 | 35 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |

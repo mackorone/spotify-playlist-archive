@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-430 songs - 22 hr 56 min
+432 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-26 | 2024-09-12 |
 | [Estanet](https://open.spotify.com/track/6GRSmVOVieDWqb94YlECLC) | [RAMII](https://open.spotify.com/artist/085VeFqXoFk5oonsAD2H3M) | [Estanet](https://open.spotify.com/album/4TkMyj3cJ2MWBsy956bOXE) | 3:34 | 2024-11-26 |  |
 | [EVERYDAY](https://open.spotify.com/track/5DPsRMm9YBzNgcOLLemG43) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Rayan](https://open.spotify.com/artist/03hITrVrWOExtoyrcHWi2K), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [LOWKEY](https://open.spotify.com/album/6Ds5HnLl6sPABjnioSR9dG) | 2:44 | 2023-03-01 | 2023-06-21 |
+| [EXODUS](https://open.spotify.com/track/2jfBDPEZ4zZRnm6u44chj0) | [PH41](https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU), [Clouchae](https://open.spotify.com/artist/05VV7hjJM9ZDRtqwW5RoRt) | [EXODUS](https://open.spotify.com/album/7FsW7ddJp00smOK5adJH2E) | 4:21 | 2025-07-07 |  |
 | [FAG2A](https://open.spotify.com/track/7mokTKlzN0a3zlBGZeSsdM) | [Malek](https://open.spotify.com/artist/3il7Rv594x5CYajnBuqIEv), [Sage](https://open.spotify.com/artist/4ipwFBBwR2qfKHEA9bcoHg) | [FAG2A](https://open.spotify.com/album/7tRGdl7s0qbaWAi47qeZjQ) | 2:54 | 2023-01-24 | 2023-08-02 |
 | [Fakes](https://open.spotify.com/track/7nyeq7E5Jpv5cQ4QguS56T) | [SADEK](https://open.spotify.com/artist/6vg5qux1lfSkhZsx3c6wph) | [Fakes](https://open.spotify.com/album/1px0420jzqz1jzM71MU5Mc) | 3:28 | 2023-09-12 | 2024-05-15 |
 | [Fallen Angels](https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2) | [MXWI](https://open.spotify.com/artist/7JfUaRJCsp1gLk2wiX6uNI) | [Fallen Angels](https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd) | 2:56 | 2023-04-05 | 2023-09-13 |
@@ -126,7 +127,8 @@
 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 | 2022-09-20 | 2023-01-25 |
 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 | 2023-03-07 | 2023-08-02 |
 | [GHORBA](https://open.spotify.com/track/6bIPcudk3VzLyYyMC0xY0k) | [DJIZA](https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk) | [Solo](https://open.spotify.com/album/6ZDxReuxHMGratcdTG2iPN) | 2:29 | 2024-08-13 | 2024-11-27 |
-| [GOLI KEEF](https://open.spotify.com/track/6ODpRk4WvS0BjprjMSrVkn) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [GOLI KEEF](https://open.spotify.com/album/3hsD6eDgWKGNELPCekCl1f) | 2:50 | 2024-11-26 |  |
+| [God bless](https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE) | [LUCA MUS!C](https://open.spotify.com/artist/1pmog6ubPtj97LYSJuwOIb), [yuubthegoat](https://open.spotify.com/artist/0tcF4m3aeLFcdtwW5Vk5zI) | [VISION INFINIE](https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg) | 2:02 | 2025-07-07 |  |
+| [GOLI KEEF](https://open.spotify.com/track/6ODpRk4WvS0BjprjMSrVkn) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [GOLI KEEF](https://open.spotify.com/album/3hsD6eDgWKGNELPCekCl1f) | 2:50 | 2024-11-26 | 2025-07-08 |
 | [Gone](https://open.spotify.com/track/5yf2fztisvgjZSoOQJVoZe) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6), [Sophie Smith](https://open.spotify.com/artist/7KZ7EJISLPcfp8ujPTYNir) | [Gone](https://open.spotify.com/album/5CoFXUrSCKTgIQKUOo3Mh8) | 4:12 | 2023-05-24 | 2023-09-07 |
 | [Gorouh](https://open.spotify.com/track/46l81bmCrF9fjbkd2RnODg) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Gorouh](https://open.spotify.com/album/4beWCebiyx4Hc0ZQ0G4e3V) | 2:52 | 2025-05-28 | 2025-06-04 |
 | [Greedy](https://open.spotify.com/track/5rS361ITtlivgOlz9PcxM7) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV), [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D) | [Greedy](https://open.spotify.com/album/4F6PiOx1sG3nj2qsENKwow) | 3:19 | 2023-08-23 | 2024-05-01 |
@@ -255,7 +257,7 @@
 | [Mtgish](https://open.spotify.com/track/7bvLFia8U9lJmExtvgZncB) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Mtgish](https://open.spotify.com/album/7J3YFv6zkfp4gZPodBFIW7) | 2:17 | 2023-05-02 | 2023-07-13 |
 | [Mudun](https://open.spotify.com/track/38xgKmvQlN5eazU7aW3JMI) | [Mayssa Jallad](https://open.spotify.com/artist/3gwo3aexDXLiYhWICS2Qm3) | [Marjaa: The Battle Of The Hotels](https://open.spotify.com/album/3FjodRJZR2gCVkN5mbY1TK) | 2:32 | 2023-03-07 | 2023-04-12 |
 | [Mushtari](https://open.spotify.com/track/0ruj9IqAfR7KP4OXfsWXGU) | [249CVRTI](https://open.spotify.com/artist/4wlxWHbpJqIub5Hm6UaZdE) | [Mushtari](https://open.spotify.com/album/0dVE9927uYNtjXZZiP6oQk) | 2:25 | 2024-07-09 | 2024-11-07 |
-| [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 | 2024-11-26 |  |
+| [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 | 2024-11-26 | 2025-07-08 |
 | [Nar](https://open.spotify.com/track/7gs9WRNPeTdpcXb9j3zp0V) | [Bint il Sham](https://open.spotify.com/artist/5hLgy51EKPgpdGfySINkNa) | [Nar](https://open.spotify.com/album/6BcqHihuVsFSs4m0YCqNzE) | 2:51 | 2024-10-30 | 2025-05-16 |
 | [Nar w Rosas](https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V) | [Lagham](https://open.spotify.com/artist/3sy97UUvGVuFTNEwl6H409) | [Nar w Rosas](https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677) | 5:01 | 2022-11-08 | 2023-03-22 |
 | [NBGHIK ANA](https://open.spotify.com/track/5jFbKiWzP1ee66vj7H7gEX) | [OUMS](https://open.spotify.com/artist/5xtomtNZU5z0p5eJOqtUKd) | [NBGHIK ANA](https://open.spotify.com/album/344G3WpJ82LHVasV8RYF4m) | 3:04 | 2024-09-11 | 2024-11-27 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! babas tutsipop en portada.",
-  "num_followers": 35706,
+  "num_followers": 35708,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "110",
+        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "duration_ms": 176383,
+      "name": "110",
+      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "LOKADEM\u00c1S",
         "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 216774,
       "name": "Te Recuerdo",
       "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "110",
-        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 176383,
-      "name": "110",
-      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "La Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 285480,
-      "name": "La Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -799,6 +779,26 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "La Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 285480,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Tormentas Inesperadas",
         "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Campeones del Mundo / Rayo de Luz",
-        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 341600,
-      "name": "Rayo de Luz",
-      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "A Fuego",
         "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 167538,
       "name": "A Fuego",
       "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Campeones del Mundo / Rayo de Luz",
+        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 341600,
+      "name": "Rayo de Luz",
+      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -919,6 +919,26 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
+        "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 134014,
+      "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
+      "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Qu\u00e9 Bien Se Te Ve",
         "url": "https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN"
       },
@@ -943,22 +963,18 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
-        "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        },
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 134014,
-      "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
-      "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -975,22 +991,6 @@
       "duration_ms": 189626,
       "name": "AL100",
       "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Secuaz (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 237324,
-      "name": "Secuaz - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Consecuencias",
-        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 275380,
-      "name": "Consecuencias",
-      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Consecuencias",
+        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 275380,
+      "name": "Consecuencias",
+      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
     },
     {
       "added_at": "2025-07-04 06:00:11",

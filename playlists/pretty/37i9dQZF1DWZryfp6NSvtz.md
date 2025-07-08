@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,503 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,557 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Little Fucker](https://open.spotify.com/track/6vtVAmmUHonK5khiVCeqjn) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Little Fucker](https://open.spotify.com/album/5NukekvC7knOLviFkMPQ9U) | 3:30 |
 | 50 | [day 2](https://open.spotify.com/track/4h3nTtereSUeodDRwwKyp7) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [day 2](https://open.spotify.com/album/6HgdL6jXMOZ1JMNMqewfqj) | 3:42 |
 | 51 | [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 |
-| 52 | [Magnet](https://open.spotify.com/track/00G2zpsAuXZWElELadLRk4) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [davefridmann](https://open.spotify.com/artist/5NLMyLQTudPFh2v30sbk4n) | [Magnet](https://open.spotify.com/album/1SkjrVZy0EgpwnhCgqodjS) | 3:33 |
+| 52 | [Magnet](https://open.spotify.com/track/00G2zpsAuXZWElELadLRk4) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Magnet](https://open.spotify.com/album/1SkjrVZy0EgpwnhCgqodjS) | 3:33 |
 | 53 | [Red Rocket](https://open.spotify.com/track/4lts576zeE2VhWw14CdHPM) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Die In Love](https://open.spotify.com/album/4BMFHGrHTIRSPvSI6S9UKo) | 4:38 |
 | 54 | [Everyone Is Happy, and Nothing Is Good](https://open.spotify.com/track/2zjnPOwU1SYovECJleylqy) | [Moving Mountains](https://open.spotify.com/artist/7xJHGz571pfkVGNxzPO9NY) | [Pruning of the Lower Limbs](https://open.spotify.com/album/6l7nkwdsOtLF6xy4vJzd5w) | 5:40 |
 | 55 | [Broken Halo](https://open.spotify.com/track/3Gg8RDjN0ewyQ2mFWPpIYH) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Broken Halo](https://open.spotify.com/album/04j1OTKs16Db2n40x6Hrh4) | 2:56 |

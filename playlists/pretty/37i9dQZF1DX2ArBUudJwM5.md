@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. K4OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,571 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,568 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 24 | [SCARYHOT](https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [SCARYHOT](https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU) | 2:09 |
 | 25 | [alguien como tú](https://open.spotify.com/track/0xmqY23pIPnEI7jydmC5SY) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:08 |
 | 26 | [BAD CHOICE](https://open.spotify.com/track/5Cjo2bRK9A2ZyPcjh6YlVq) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:00 |
-| 27 | [Querida Yo](https://open.spotify.com/track/782nCYFr5YBTzE7lhFRHAE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Querida Yo](https://open.spotify.com/album/5ZtxpX4GZk1voFF0j0bil4) | 2:39 |
-| 28 | [PURA POSE](https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PURA POSE](https://open.spotify.com/album/1fp5hN3kcj5N8gipxuCTX3) | 3:06 |
+| 27 | [PURA POSE](https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PURA POSE](https://open.spotify.com/album/1fp5hN3kcj5N8gipxuCTX3) | 3:06 |
+| 28 | [Querida Yo](https://open.spotify.com/track/782nCYFr5YBTzE7lhFRHAE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Querida Yo](https://open.spotify.com/album/5ZtxpX4GZk1voFF0j0bil4) | 2:39 |
 | 29 | [CVNT](https://open.spotify.com/track/1JPyyFMQAODcWD53qsDB8e) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [CVNT](https://open.spotify.com/album/1xdZIZ6R58n0NpfyFZ3Gte) | 2:08 |
 | 30 | [Performance Actitud \(Pose\)](https://open.spotify.com/track/6bXjFzfX3YUpUoqTH8dvQC) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba) | [Performance Actitud \(Pose\)](https://open.spotify.com/album/1vWSxIGggXfHAxypX6INhv) | 2:48 |
 | 31 | [Un Taxi al Infierno](https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 4:34 |
